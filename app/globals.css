@@ -1,26 +1,160 @@
 @import "tailwindcss";
 
+@theme {
+  --font-sans: var(--font-inter);
+  --font-heading: var(--font-poppins);
+
+  --color-primary: #0F172A;
+  /* Slate 900 (Brand Navy) */
+  --color-primary-light: #4A7AAA;
+  --color-secondary: #64748b;
+  /* Slate 500 */
+  --color-accent: #F5B82E;
+  /* Brand Gold */
+  --color-neutral: #f8fafc;
+  /* Slate 50 */
+  --color-border: #E5E5E5;
+  --color-text: #333333;
+  --color-text-light: #666666;
+}
+
 :root {
   --background: #ffffff;
-  --foreground: #171717;
-}
+  --foreground: #333333;
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  /* Synctherapy Brand Vars (Legacy) */
+  --color-brand-navy: #0F172A;
+  --color-brand-gold: #F5B82E;
+  --color-brand-blue: #3B82F6;
+  --color-brand-white: #FFFFFF;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans);
+  line-height: 1.6;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: var(--color-primary);
+}
+
+/* =========================================
+   SYNC CUSTOM COMPONENTS (Ported from base.css)
+   ========================================= */
+
+/* Button Utilities */
+.btn {
+  @apply inline-flex items-center justify-center px-8 py-4 rounded-lg font-heading font-bold uppercase tracking-wider text-base transition-all duration-200 cursor-pointer no-underline border-0;
+}
+
+.btn-primary,
+.sync-btn-gold {
+  @apply bg-accent text-primary shadow-sm hover:translate-y-[-2px];
+  background-color: var(--color-accent);
+  color: var(--color-primary);
+}
+
+.btn-primary:hover,
+.sync-btn-gold:hover {
+  box-shadow: 0 10px 20px -5px rgba(245, 184, 46, 0.4);
+  background-color: #eab308;
+}
+
+.btn-secondary,
+.sync-btn-outline {
+  @apply bg-transparent border-2 border-primary text-primary hover:bg-primary hover:text-white hover:translate-y-[-2px];
+}
+
+/* Trust Bar */
+.sync-trust-bar {
+  @apply flex flex-wrap gap-4 justify-center items-center px-6 py-3 bg-neutral rounded-full mx-auto w-fit border border-gray-200 shadow-sm;
+}
+
+.sync-trust-item {
+  @apply font-heading text-sm font-semibold text-gray-700 flex items-center gap-2;
+}
+
+/* Stats Grid */
+.sync-stats-grid {
+  @apply grid grid-cols-2 md:grid-cols-4 gap-8 bg-primary text-white py-16 px-5 rounded-2xl my-16 text-center relative overflow-hidden;
+}
+
+.sync-stat-item h3 {
+  @apply text-5xl font-extrabold text-accent mb-2 leading-none;
+}
+
+.sync-stat-item p {
+  @apply font-heading text-sm text-gray-200 uppercase font-semibold tracking-wider m-0;
+}
+
+/* Feature Card */
+.sync-feature-card,
+.card {
+  @apply bg-white border border-gray-200 rounded-xl p-8 shadow-sm transition-all duration-200 flex flex-col h-full hover:translate-y-[-5px] hover:shadow-lg hover:border-blue-500;
+}
+
+.sync-feature-icon {
+  @apply text-3xl mb-5 bg-blue-50 w-16 h-16 flex items-center justify-center rounded-xl text-blue-500;
+}
+
+.sync-feature-card h3,
+.card h3 {
+  @apply text-xl mb-4 text-primary;
+}
+
+.sync-feature-card p,
+.card p {
+  @apply text-gray-600 flex-grow text-base leading-relaxed;
+}
+
+/* Grid Utilities (Legacy Support) */
+.grid-2 {
+  @apply grid grid-cols-1 md:grid-cols-2 gap-8;
+}
+
+.grid-3 {
+  @apply grid grid-cols-1 md:grid-cols-3 gap-8;
+}
+
+.grid-4 {
+  @apply grid grid-cols-2 md:grid-cols-4 gap-4;
+}
+
+.container {
+  @apply max-w-7xl mx-auto px-5;
+}
+
+/* Google Reviews Embed (Legacy Support) */
+.sync-reviews-embed {
+  @apply bg-neutral p-10 rounded-xl my-10 font-sans;
+}
+
+.sync-badge-row {
+  @apply flex flex-wrap justify-between items-center mb-8 gap-5;
+}
+
+.sync-badge {
+  @apply inline-flex items-center bg-white px-5 py-2.5 rounded-full shadow-sm;
+}
+
+.sync-stars {
+  @apply mx-2 text-amber-400 tracking-widest;
+}
+
+.sync-reviews-grid {
+  @apply grid grid-cols-1 md:grid-cols-3 gap-5;
+}
+
+.sync-review-card {
+  @apply bg-white p-6 rounded-xl shadow-sm border-t-4 border-blue-500 relative;
 }
