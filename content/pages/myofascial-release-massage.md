@@ -1,9 +1,12 @@
 ---
-title: "Myofascial Release Therapy in Victoria, BC"
-date: "2025-02-18 21:34:56"
-slug: "myofascial-release-massage"
-description: ""
-seoTitle: ""
+title: 'Myofascial Release Therapy in Victoria, BC'
+date: '2025-02-18 21:34:56'
+slug: myofascial-release-massage
+description: >-
+  tailwind.config = { theme: { extend: { colors: { primary: { DEFAULT:
+  '#2E5A88', foreground: '#FFFFFF' }, secondary: { DEFAULT: '#86BBD8',
+  foreground: '#333333'...
+seoTitle: 'Myofascial Release Therapy in Victoria, BC'
 ---
 
 <!-- wp:html -->

@@ -1,9 +1,12 @@
 ---
-title: "Privacy Policy"
-date: "2024-08-07 06:43:26"
-slug: "privacy-policy"
-description: ""
-seoTitle: ""
+title: Privacy Policy
+date: '2024-08-07 06:43:26'
+slug: privacy-policy
+description: >-
+  Definitions and legal references This Website (or this Application) The
+  property that enables the provision of the Service. Owner (or We) Sync Therapy
+  - The...
+seoTitle: Privacy Policy
 ---
 
 <!-- wp:heading -->

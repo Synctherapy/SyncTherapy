@@ -1,9 +1,9 @@
 ---
-title: "Checkout"
-date: "2025-05-25 15:02:14"
-slug: "checkout"
-description: ""
-seoTitle: ""
+title: Checkout
+date: '2025-05-25 15:02:14'
+slug: checkout
+description: ''
+seoTitle: Checkout
 ---
 
 <!-- wp:woocommerce/checkout -->

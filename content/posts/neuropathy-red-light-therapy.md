@@ -1,9 +1,16 @@
 ---
-title: "Red Light Therapy for Neuropathy: Effective Red Light Therapy and Light Therapy Solutions"
-date: "2024-02-15 08:00:00"
-slug: "neuropathy-red-light-therapy"
-description: ""
-seoTitle: ""
+title: >-
+  Red Light Therapy for Neuropathy: Effective Red Light Therapy and Light
+  Therapy Solutions
+date: '2024-02-15 08:00:00'
+slug: neuropathy-red-light-therapy
+description: >-
+  body { font-family: 'Inter', sans-serif; background-color: #F4F7F5; color:
+  #333333; } html { scroll-behavior: smooth; } .bg-primary {
+  background-color:...
+seoTitle: >-
+  Red Light Therapy for Neuropathy: Effective Red Light Therapy and Light
+  Therapy Solutions
 ---
 
 <!-- wp:html -->
@@ -234,7 +241,7 @@ seoTitle: ""
     "url": "https://synctherapylocal.local/",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://synctherapylocal.local/wp-content/uploads/2025/07/cropped-sync-therapy-favicon-192x192.png"
+      "url": "/uploads/2025/07/cropped-sync-therapy-favicon-192x192.png"
     }
   },
   "mainEntityOfPage": {
@@ -411,7 +418,7 @@ seoTitle: ""
             <p class="text-accent font-semibold mb-4">Editor's Choice for Peripheral Neuropathy in Feet</p>
             <div class="grid md:grid-cols-2 gap-8">
                 <div>
-                    <img src="https://synctherapylocal.local/wp-content/uploads/2026/01/best-red-light-therapy-boots-for-peripheral-neuropathy.webp" alt="Red light therapy boot for neuropathy in feet" class="rounded-lg shadow-md w-full mb-4">
+                    <img src="/uploads/2026/01/best-red-light-therapy-boots-for-peripheral-neuropathy.webp" alt="Red light therapy boot for neuropathy in feet" class="rounded-lg shadow-md w-full mb-4">
                     <div class="mt-4 text-center">
                         <div class="text-4xl font-bold text-primary">4.9<span class="text-2xl text-gray-400">/5</span></div>
                         <div class="rating-stars text-xl">
@@ -665,7 +672,7 @@ seoTitle: ""
         <section id="benefits">
             <h2><i class="fas fa-check-circle text-accent mr-2"></i>Benefits of Red Light Therapy for Neuropathic Pain</h2>
             <div class="bg-white p-6 rounded-lg shadow-md">
-                <img src="https://synctherapylocal.local/wp-content/uploads/content/a-schwann-nerve-cell-recieving-red-light-therapy.jpg" alt="Nerve cell receiving red light therapy showing cellular repair" class="w-full rounded-lg shadow-md mb-6">
+                <img src="/uploads/content/a-schwann-nerve-cell-recieving-red-light-therapy.jpg" alt="Nerve cell receiving red light therapy showing cellular repair" class="w-full rounded-lg shadow-md mb-6">
                 
                 <div class="grid md:grid-cols-2 gap-6">
                     <div class="border-l-4 border-green-500 pl-4">
@@ -994,7 +1001,7 @@ seoTitle: ""
         <section id="foot-neuropathy">
             <h2><i class="fas fa-shoe-prints text-accent mr-2"></i>Red Light Therapy for Neuropathy in Feet</h2>
             <div class="bg-white p-6 rounded-lg shadow-md">
-                <img src="https://synctherapylocal.local/wp-content/uploads/content/a-woman-using-a-red-light-therapy-device-at-our-clinic-on-her-diabetic-neuropathy-feet.jpg" alt="Woman using red light therapy device on feet for diabetic neuropathy treatment" class="w-full rounded-lg shadow-md mb-6">
+                <img src="/uploads/content/a-woman-using-a-red-light-therapy-device-at-our-clinic-on-her-diabetic-neuropathy-feet.jpg" alt="Woman using red light therapy device on feet for diabetic neuropathy treatment" class="w-full rounded-lg shadow-md mb-6">
                 
                 <p class="mb-4"><strong>Foot neuropathy</strong> is the most common location for peripheral nerve damage—and fortunately, it responds particularly well to red light therapy. The nerves in your feet are relatively close to the skin surface, allowing optimal light penetration.</p>
 

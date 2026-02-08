@@ -1,9 +1,12 @@
 ---
-title: "Massage Direct Billing | RMT Direct Billing Blue Cross Today"
-date: "2025-02-18 20:14:43"
-slug: "direct-billing-massage"
-description: ""
-seoTitle: ""
+title: Massage Direct Billing | RMT Direct Billing Blue Cross Today
+date: '2025-02-18 20:14:43'
+slug: direct-billing-massage
+description: >-
+  * { margin: 0; padding: 0; box-sizing: border-box; } body { font-family:
+  'Inter', 'Helvetica Neue', Arial, sans-serif; line-height: 1.6; color:
+  #333333;...
+seoTitle: Massage Direct Billing | RMT Direct Billing Blue Cross Today
 ---
 
 <!-- wp:html -->
@@ -625,7 +628,7 @@ seoTitle: ""
                     </div>
                 </div>
                 <div class="hero-image">
-                    <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" alt="Daryl, Registered Massage Therapist at Sync Therapy in Colwood providing direct billing massage therapy services" width="500" height="600">
+                    <img src="/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" alt="Daryl, Registered Massage Therapist at Sync Therapy in Colwood providing direct billing massage therapy services" width="500" height="600">
                 </div>
             </div>
         </div>
@@ -638,7 +641,7 @@ seoTitle: ""
             
             <!-- Insurance Companies Image -->
             <div class="text-center mb-8">
-                <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/direct-billing-massage-for-visceral-manipulation.png" alt="Major insurance companies we direct bill including Pacific Blue Cross, Sun Life, Canada Life, Manulife, Industrial Alliance for massage therapy Victoria" width="600" height="200" class="rounded shadow-lg">
+                <img src="/uploads/2025/06/direct-billing-massage-for-visceral-manipulation.png" alt="Major insurance companies we direct bill including Pacific Blue Cross, Sun Life, Canada Life, Manulife, Industrial Alliance for massage therapy Victoria" width="600" height="200" class="rounded shadow-lg">
             </div>
 
             <div class="card">
@@ -713,7 +716,7 @@ seoTitle: ""
                         <h3 class="card-title">Visceral Manipulation with Direct Billing</h3>
                     </div>
                     <div class="text-center mb-4">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/direct-billing-massage-for-visceral-manipulation.webp" alt="Direct billing massage therapy for visceral manipulation treatment at Sync Therapy Victoria" width="400" height="250" class="rounded shadow-lg">
+                        <img src="/uploads/2025/06/direct-billing-massage-for-visceral-manipulation.webp" alt="Direct billing massage therapy for visceral manipulation treatment at Sync Therapy Victoria" width="400" height="250" class="rounded shadow-lg">
                     </div>
                     <p class="text-gray-600 mb-4">
                         Visceral manipulation is a gentle, hands-on therapy that focuses on the internal organs and their fascial connections. This specialized technique helps restore proper organ mobility and function, addressing issues like digestive problems, chronic pain, and post-surgical adhesions.
@@ -1036,7 +1039,7 @@ seoTitle: ""
       "provider": {
         "@type": "MedicalBusiness",
         "name": "Sync Massage Therapy",
-        "image": "https://synctherapylocal.local/wp-content/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg",
+        "image": "/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg",
         "telephone": "+1-250-812-8698",
         "priceRange": "$$",
         "paymentAccepted": "Cash, Credit Card, Direct Billing, Pacific Blue Cross, Canada Life, Sun Life, Manulife, Green Shield",

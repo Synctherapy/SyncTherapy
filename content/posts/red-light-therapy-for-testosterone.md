@@ -1,9 +1,12 @@
 ---
-title: "Red Light Therapy for Testosterone: Science-Backed Guide (2026)"
-date: "2024-02-29 08:00:00"
-slug: "red-light-therapy-for-testosterone"
-description: ""
-seoTitle: ""
+title: 'Red Light Therapy for Testosterone: Science-Backed Guide (2026)'
+date: '2024-02-29 08:00:00'
+slug: red-light-therapy-for-testosterone
+description: >-
+  body { font-family: 'Inter', sans-serif; background-color: #F4F7F5; color:
+  #333333; } html { scroll-behavior: smooth; } .bg-primary {
+  background-color:...
+seoTitle: 'Red Light Therapy for Testosterone: Science-Backed Guide (2026)'
 ---
 
 <!-- wp:html -->
@@ -171,7 +174,7 @@ seoTitle: ""
     "url": "https://synctherapylocal.local/",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://synctherapylocal.local/wp-content/uploads/2025/07/cropped-sync-therapy-favicon-192x192.png"
+      "url": "/uploads/2025/07/cropped-sync-therapy-favicon-192x192.png"
     }
   },
   "mainEntityOfPage": {
@@ -280,7 +283,7 @@ seoTitle: ""
 
         <!-- Featured Image -->
         <div class="my-6">
-            <img src="https://synctherapylocal.local/wp-content/uploads/2026/01/red-light-therapy-testosterone.png" alt="Red light therapy for testosterone - complete guide to using red light therapy on testicles for men's hormonal health" class="rounded-lg shadow-md w-full max-w-3xl mx-auto">
+            <img src="/uploads/2026/01/red-light-therapy-testosterone.png" alt="Red light therapy for testosterone - complete guide to using red light therapy on testicles for men's hormonal health" class="rounded-lg shadow-md w-full max-w-3xl mx-auto">
         </div>
 
         <!-- Key Takeaways -->
@@ -371,7 +374,7 @@ seoTitle: ""
 
         <!-- Second Image -->
         <div class="my-6">
-            <img src="https://synctherapylocal.local/wp-content/uploads/2026/01/using-red-light-therapy-for-mens-health-and-improving-testosterone.png" alt="Using red light therapy for men's health - red light therapy on testicles for testosterone benefits" class="rounded-lg shadow-md w-full max-w-2xl mx-auto">
+            <img src="/uploads/2026/01/using-red-light-therapy-for-mens-health-and-improving-testosterone.png" alt="Using red light therapy for men's health - red light therapy on testicles for testosterone benefits" class="rounded-lg shadow-md w-full max-w-2xl mx-auto">
         </div>
 
         <!-- Mechanism Section -->
@@ -509,7 +512,7 @@ seoTitle: ""
 
         <!-- Third Image -->
         <div class="my-6">
-            <img src="https://synctherapylocal.local/wp-content/uploads/2026/01/a-man-considering-buying-a-red-light-therapy-panel-to-improve-his-hormonal-health.png" alt="Man considering red light therapy panel for testosterone and hormonal health - best red light therapy for testosterone" class="rounded-lg shadow-md w-full max-w-2xl mx-auto">
+            <img src="/uploads/2026/01/a-man-considering-buying-a-red-light-therapy-panel-to-improve-his-hormonal-health.png" alt="Man considering red light therapy panel for testosterone and hormonal health - best red light therapy for testosterone" class="rounded-lg shadow-md w-full max-w-2xl mx-auto">
         </div>
 
         <!-- How to Use Section -->

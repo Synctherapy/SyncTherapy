@@ -1,9 +1,12 @@
 ---
-title: "Our Team"
-date: "2025-06-22 15:16:38"
-slug: "our-team"
-description: ""
-seoTitle: ""
+title: Our Team
+date: '2025-06-22 15:16:38'
+slug: our-team
+description: >-
+  :root { --primary: #2e5a88; --secondary: #86bbd8; --accent: #f5b82e; } * {
+  margin: 0; padding: 0; box-sizing: border-box; } body { font-family:
+  'Inter',...
+seoTitle: Our Team
 ---
 
 <!-- wp:html -->
@@ -812,7 +815,7 @@ seoTitle: ""
                 <div class="team-card">
                     <div class="team-content">
                         <div class="team-image-container">
-                            <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" alt="Daryl Stubbs - Registered Massage Therapist" class="team-image">
+                            <img src="/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" alt="Daryl Stubbs - Registered Massage Therapist" class="team-image">
                             <div class="team-badge">
                                 <i class="fas fa-star"></i>
                             </div>
@@ -881,7 +884,7 @@ seoTitle: ""
                 <div class="team-card">
                     <div class="team-content">
                         <div class="team-image-container">
-                            <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/daryls-an-RMT-in-downtown-victoria-offering-massage-therapy.jpg" alt="Daryl Stubbs - Athletic Therapist" class="team-image">
+                            <img src="/uploads/2025/06/daryls-an-RMT-in-downtown-victoria-offering-massage-therapy.jpg" alt="Daryl Stubbs - Athletic Therapist" class="team-image">
                             <div class="team-badge">
                                 <i class="fas fa-star"></i>
                             </div>

@@ -1,9 +1,12 @@
 ---
-title: "Sports Injuries"
-date: "2025-07-07 14:53:14"
-slug: "conditions-sports-injuries"
-description: ""
-seoTitle: ""
+title: Sports Injuries
+date: '2025-07-07 14:53:14'
+slug: conditions-sports-injuries
+description: >-
+  /* Custom styles based on the provided color palette */ body { font-family:
+  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
+  #333333;...
+seoTitle: Sports Injuries
 ---
 
 <!-- wp:html -->

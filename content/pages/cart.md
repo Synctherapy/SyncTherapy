@@ -1,9 +1,9 @@
 ---
-title: "Cart"
-date: "2025-05-25 15:02:14"
-slug: "cart"
-description: ""
-seoTitle: ""
+title: Cart
+date: '2025-05-25 15:02:14'
+slug: cart
+description: You may be interested in… Your cart is currently empty! New in store
+seoTitle: Cart
 ---
 
 <!-- wp:woocommerce/cart -->

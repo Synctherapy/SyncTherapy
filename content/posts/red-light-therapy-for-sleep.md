@@ -1,9 +1,12 @@
 ---
-title: "Red Light Therapy for Sleep (2026): Complete Science-Backed Guide"
-date: "2024-03-10 08:00:00"
-slug: "red-light-therapy-for-sleep"
-description: ""
-seoTitle: ""
+title: 'Red Light Therapy for Sleep (2026): Complete Science-Backed Guide'
+date: '2024-03-10 08:00:00'
+slug: red-light-therapy-for-sleep
+description: >-
+  body { font-family: 'Inter', sans-serif; background-color: #F4F7F5; color:
+  #333333; } html { scroll-behavior: smooth; } .bg-primary {
+  background-color:...
+seoTitle: 'Red Light Therapy for Sleep (2026): Complete Science-Backed Guide'
 ---
 
 <!-- wp:html -->
@@ -161,7 +164,7 @@ seoTitle: ""
     "url": "https://synctherapylocal.local/",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://synctherapylocal.local/wp-content/uploads/2025/07/cropped-sync-therapy-favicon-192x192.png"
+      "url": "/uploads/2025/07/cropped-sync-therapy-favicon-192x192.png"
     }
   },
   "mainEntityOfPage": {
@@ -172,7 +175,7 @@ seoTitle: ""
     "@type": "VideoObject",
     "name": "Red Light Therapy for Sleep Demonstration",
     "description": "Visual demonstration of how red light therapy is used for sleep improvement",
-    "contentUrl": "https://synctherapylocal.local/wp-content/uploads/2026/01/red-light-therapy-for-sleep.mp4",
+    "contentUrl": "/uploads/2026/01/red-light-therapy-for-sleep.mp4",
     "uploadDate": "2026-01-13"
   }
 }
@@ -319,7 +322,7 @@ seoTitle: ""
             </div>
             <div class="video-container">
                 <video autoplay muted loop playsinline>
-                    <source src="https://synctherapylocal.local/wp-content/uploads/2026/01/red-light-therapy-for-sleep.mp4" type="video/mp4">
+                    <source src="/uploads/2026/01/red-light-therapy-for-sleep.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
             </div>

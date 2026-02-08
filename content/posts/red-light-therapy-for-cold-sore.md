@@ -1,9 +1,12 @@
 ---
-title: "Red Light Therapy for Cold Sores (2026): Heal Faster"
-date: "2024-06-11 07:00:00"
-slug: "red-light-therapy-for-cold-sore"
-description: ""
-seoTitle: ""
+title: 'Red Light Therapy for Cold Sores (2026): Heal Faster'
+date: '2024-06-11 07:00:00'
+slug: red-light-therapy-for-cold-sore
+description: >-
+  /* Custom styles based on the design template */ body { font-family: 'Inter',
+  sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color: #333333;
+  /*...
+seoTitle: 'Red Light Therapy for Cold Sores (2026): Heal Faster'
 ---
 
 <!-- wp:html -->
@@ -247,7 +250,7 @@ seoTitle: ""
                         <p class="mb-4 text-gray-700">But here is the cool part for cold sore sufferers: this light also stimulates <strong>Nitric Oxide</strong> release. This molecule is critical for vasodilation and boosting the local immune response. It helps your body contain the viral replication process early on, often preventing a small tingle from turning into a massive, painful blister.</p>
                     </div>
                     <div>
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/a-man-using-red-light-therapy-to-decrease-his-herpes-simplex_09934480-904e-4b65-8416-0f9e43087f0f.webp" alt="Man using red light therapy device for cold sores" class="rounded-lg shadow-md w-full h-auto object-cover">
+                        <img src="/uploads/content/a-man-using-red-light-therapy-to-decrease-his-herpes-simplex_09934480-904e-4b65-8416-0f9e43087f0f.webp" alt="Man using red light therapy device for cold sores" class="rounded-lg shadow-md w-full h-auto object-cover">
                     </div>
                 </div>
             </section>
@@ -300,7 +303,7 @@ seoTitle: ""
                         <h3 class="text-2xl font-bold">1. Luminance RED</h3>
                         <p class="text-accent font-semibold mb-4">Best Specialized Device for Cold Sores</p>
                         <div class="grid md:grid-cols-2 gap-8">
-                             <img src="https://synctherapylocal.local/wp-content/uploads/2025/12/Luminance-RED-for-cold-sore.webp" alt="Luminance RED Device for Cold Sores" class="rounded-lg shadow-sm w-full h-auto object-cover">
+                             <img src="/uploads/2025/12/Luminance-RED-for-cold-sore.webp" alt="Luminance RED Device for Cold Sores" class="rounded-lg shadow-sm w-full h-auto object-cover">
                             <div>
                                 <p class="mb-4">The Luminance RED is arguably the most famous device in this category, and for good reason. It is specifically engineered for the treatment of oral lesions. As an FDA-registered Class II Medical Device, it provides a very high dose of irradiance in a short burst, meaning you only need to use it for a few minutes to see results.</p>
                                 <div class="grid grid-cols-2 gap-4 mb-4 text-sm">
@@ -317,7 +320,7 @@ seoTitle: ""
                         <h3 class="text-2xl font-bold">2. Virulite CS 2.0</h3>
                         <p class="text-accent font-semibold mb-4">Best for Deep Penetration (1072nm)</p>
                         <div class="grid md:grid-cols-2 gap-8">
-                             <img src="https://synctherapylocal.local/wp-content/uploads/2025/12/Virulite-CS-2.0-Enhanced-Penetration-Premium-Cold-Sore-Treatment-Device-.jpg" alt="Virulite CS 2.0 Cold Sore Device" class="rounded-lg shadow-sm w-full h-auto object-cover">
+                             <img src="/uploads/2025/12/Virulite-CS-2.0-Enhanced-Penetration-Premium-Cold-Sore-Treatment-Device-.jpg" alt="Virulite CS 2.0 Cold Sore Device" class="rounded-lg shadow-sm w-full h-auto object-cover">
                             <div>
                                 <p class="mb-4">The Virulite is a pioneering device that uses invisible <strong>1072 nm infrared light</strong>. Clinical studies specific to this wavelength have shown a significant reduction in healing time (median 129 hours vs 177 hours). It is non-invasive and works best when used at the "tingle" stage. Because the light is invisible to the human eye, it penetrates deeper than standard red light to reach the nerve ganglia where the virus resides.</p>
                                 <div class="grid grid-cols-2 gap-4 mb-4 text-sm">

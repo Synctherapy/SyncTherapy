@@ -1,9 +1,12 @@
 ---
-title: "Red Light Therapy for Arthritis: What Science Really Says About Pain Relief"
-date: "2024-01-11 23:05:36"
-slug: "red-light-therapy-for-arthritis"
-description: ""
-seoTitle: ""
+title: 'Red Light Therapy for Arthritis: What Science Really Says About Pain Relief'
+date: '2024-01-11 23:05:36'
+slug: red-light-therapy-for-arthritis
+description: >-
+  { "@context": "https://schema.org", "@type": "Article", "headline": "Red Light
+  Therapy for Arthritis: What Science Really Says About Pain Relief",
+  "image":...
+seoTitle: 'Red Light Therapy for Arthritis: What Science Really Says About Pain Relief'
 ---
 
 <!-- wp:html -->
@@ -13,7 +16,7 @@ seoTitle: ""
   "@context": "https://schema.org",
   "@type": "Article",
   "headline": "Red Light Therapy for Arthritis: What Science Really Says About Pain Relief",
-  "image": "https://synctherapylocal.local/wp-content/uploads/2025/11/arthritis-victoria.png",
+  "image": "/uploads/2025/11/arthritis-victoria.png",
   "author": {
     "@type": "Person",
     "name": "Daryl Stubbs",
@@ -162,7 +165,7 @@ seoTitle: ""
                 <h2>The Problem with Arthritis and Current Treatments</h2>
                 
                 <div style="text-align: center; margin: 2rem 0;">
-                    <img src="https://synctherapylocal.local/wp-content/uploads/2025/11/arthritis-victoria.png" alt="Person experiencing arthritis pain in Victoria, BC" style="max-width: 100%; height: auto;">
+                    <img src="/uploads/2025/11/arthritis-victoria.png" alt="Person experiencing arthritis pain in Victoria, BC" style="max-width: 100%; height: auto;">
                 </div>
 
                 <p class="mb-4">Managing arthritis remains one of the biggest challenges in modern medicine. Treatments have gotten better over time, but many patients still look for solutions that work with fewer side effects. More people now want to learn about alternatives like red light therapy for arthritis pain.</p>
@@ -190,7 +193,7 @@ seoTitle: ""
                 <h2>What is Red Light Therapy and How It Works</h2>
                 
                 <div style="text-align: center; margin: 2rem 0;">
-                    <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/redlighttherapyandarthritis.webp" alt="Red light therapy device treating arthritis" style="max-width: 100%; height: auto;">
+                    <img src="/uploads/2025/06/redlighttherapyandarthritis.webp" alt="Red light therapy device treating arthritis" style="max-width: 100%; height: auto;">
                 </div>
 
                 <p class="mb-4">Light has been used as medicine for centuries. Modern technology now controls specific wavelengths for healing. Red light therapy (RLT), also known as <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5523874/" target="_blank" rel="noopener">photobiomodulation</a> or low-level light therapy, offers a non-invasive treatment that uses low-intensity red and near-infrared light to promote healing responses in the body. Numerous studies have demonstrated the efficacy of RLT in reducing inflammation and accelerating tissue repair. This has led to growing interest in <a href="https://synctherapylocal.local/red-light-therapy-back-pain/">red light therapy benefits for pain</a>, particularly among individuals suffering from chronic pain conditions. By stimulating cellular function, red light therapy may provide a safe and effective alternative to traditional pain management strategies.</p>
@@ -299,7 +302,7 @@ seoTitle: ""
                     <p style="color: #F5B82E; font-weight: 600; margin-bottom: 1rem;">Best Value for Targeted Joint Relief</p>
                     <div class="grid-2-col" style="align-items: center;">
                         <div>
-                            <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/kalaisaredlighttherapycompanyincanadathathasthekalaprowhichwasseenondragonsden_99b305b721cc43308c36ccc721526490.webp" alt="Kala Red Light Therapy Panel" style="width: 100%; height: auto; border-radius: 0.5rem;">
+                            <img src="/uploads/2025/06/kalaisaredlighttherapycompanyincanadathathasthekalaprowhichwasseenondragonsden_99b305b721cc43308c36ccc721526490.webp" alt="Kala Red Light Therapy Panel" style="width: 100%; height: auto; border-radius: 0.5rem;">
                         </div>
                         <div>
                             <p style="margin-bottom: 1rem;">Kala offers exceptional value with medical-grade quality at an affordable price point. Their panels deliver the ideal wavelengths (660nm red + 850nm near-infrared) with clinical-grade power density. Perfect for treating arthritic knees, hands, shoulders, and back pain. Featured on Dragon's Den, Kala has become Canada's trusted choice for joint relief.</p>
@@ -314,7 +317,7 @@ seoTitle: ""
                     <p style="color: #F5B82E; font-weight: 600; margin-bottom: 1rem;">Voted Best Red Light Therapy Panels</p>
                     <div class="grid-2-col" style="align-items: center;">
                         <div>
-                            <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/rouge-g4-reviews-.webp" alt="Rouge Red Light Therapy Panel" style="width: 100%; height: auto; border-radius: 0.5rem;">
+                            <img src="/uploads/2025/07/rouge-g4-reviews-.webp" alt="Rouge Red Light Therapy Panel" style="width: 100%; height: auto; border-radius: 0.5rem;">
                         </div>
                         <div>
                             <p style="margin-bottom: 1rem;">Rouge has earned its reputation as the top-rated red light therapy brand through exceptional build quality and powerful output. Their panels combine red and near-infrared wavelengths for deep joint penetration, making them ideal for treating multiple areas simultaneously. Industry-leading warranty and customer support backed by <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9980499/" target="_blank" rel="noopener">clinical research on pain management</a>.</p>
@@ -329,7 +332,7 @@ seoTitle: ""
                     <p style="color: #F5B82E; font-weight: 600; margin-bottom: 1rem;">Best for Flexible Joint Wrapping</p>
                     <div class="grid-2-col" style="align-items: center;">
                         <div>
-                            <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/infraredibasestand453288_41a4b7743b654a33969e7cb0e6c92f90.jpg" alt="Infraredi Flex Pad" style="width: 100%; height: auto; border-radius: 0.5rem;">
+                            <img src="/uploads/2025/06/infraredibasestand453288_41a4b7743b654a33969e7cb0e6c92f90.jpg" alt="Infraredi Flex Pad" style="width: 100%; height: auto; border-radius: 0.5rem;">
                         </div>
                         <div>
                             <p style="margin-bottom: 1rem;">The Infraredi Flex Pad's unique ability to wrap directly around joints like knees, shoulders, or hands ensures the light is delivered exactly where needed most. This targeted approach provides maximum therapeutic benefit for localized arthritis pain. Excellent for hands-on treatment while you relax, delivering <a href="https://bmjopen.bmj.com/content/12/9/e059479" target="_blank" rel="noopener">clinically validated wavelengths</a> for joint health.</p>

@@ -1,9 +1,16 @@
 ---
-title: "Sports Massage Therapy in Victoria, BC | Professional Athletic Massage Services"
-date: "2025-02-18 20:33:02"
-slug: "sports-massage-therapy"
-description: ""
-seoTitle: ""
+title: >-
+  Sports Massage Therapy in Victoria, BC | Professional Athletic Massage
+  Services
+date: '2025-02-18 20:33:02'
+slug: sports-massage-therapy
+description: >-
+  tailwind.config = { theme: { extend: { colors: { primary: { DEFAULT:
+  '#2E5A88', foreground: '#FFFFFF' }, secondary: { DEFAULT: '#86BBD8',
+  foreground: '#333333'...
+seoTitle: >-
+  Sports Massage Therapy in Victoria, BC | Professional Athletic Massage
+  Services
 ---
 
 <!-- wp:html -->

@@ -1,9 +1,12 @@
 ---
-title: "10 Best Synbiotics 2026: Top Pre & Probiotic Combos (US & CA)"
-date: "2023-06-05 18:03:37"
-slug: "best-prebiotics-and-probiotics-supplements"
-description: ""
-seoTitle: ""
+title: '10 Best Synbiotics 2026: Top Pre & Probiotic Combos (US & CA)'
+date: '2023-06-05 18:03:37'
+slug: best-prebiotics-and-probiotics-supplements
+description: >-
+  :root { --primary: #2E5A88; /* Deep serene blue */ --accent: #F5B82E; /* Warm
+  gold */ --neutral-light: #F4F7F5; /* Off-white */ --neutral-dark: #333333;
+  /*...
+seoTitle: '10 Best Synbiotics 2026: Top Pre & Probiotic Combos (US & CA)'
 ---
 
 <!-- wp:html -->
@@ -206,7 +209,7 @@ seoTitle: ""
                 <!-- Product Card: Seed DS-01 -->
                 <div id="seed-ds-01" class="bg-white p-6 rounded-lg shadow-lg flex flex-col md:flex-row gap-6">
                     <div class="md:w-1/3 flex-shrink-0">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/Seeds-01-daily-synbiotic-of-pre-and-probiotics-in-canada.jpg" alt="Seed DS-01 Daily Synbiotic" class="rounded-lg object-cover w-full h-full">
+                        <img src="/uploads/content/Seeds-01-daily-synbiotic-of-pre-and-probiotics-in-canada.jpg" alt="Seed DS-01 Daily Synbiotic" class="rounded-lg object-cover w-full h-full">
                     </div>
                     <div class="md:w-2/3">
                         <h3 class="text-2xl font-bold">1. Seed DS-01 Daily Synbiotic</h3>
@@ -228,7 +231,7 @@ seoTitle: ""
                 <!-- Product Card: Ritual Synbiotic+ -->
                 <div id="ritual" class="bg-white p-6 rounded-lg shadow-lg flex flex-col md:flex-row gap-6">
                     <div class="md:w-1/3 flex-shrink-0">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/Ritual-Synbiotic.jpg" alt="Ritual Synbiotic+" class="rounded-lg object-cover w-full h-full">
+                        <img src="/uploads/content/Ritual-Synbiotic.jpg" alt="Ritual Synbiotic+" class="rounded-lg object-cover w-full h-full">
                     </div>
                     <div class="md:w-2/3">
                         <h3 class="text-2xl font-bold">2. Ritual Synbiotic+</h3>
@@ -249,7 +252,7 @@ seoTitle: ""
                 <!-- Product Card: Viome -->
                 <div id="viome" class="bg-white p-6 rounded-lg shadow-lg flex flex-col md:flex-row gap-6">
                     <div class="md:w-1/3 flex-shrink-0">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/a-combination-of-prebiotic-and-probiotic-supplements-by-viome-in-canada-with-discount-code.jpg" alt="Viome Precision Probiotics" class="rounded-lg object-cover w-full h-full">
+                        <img src="/uploads/content/a-combination-of-prebiotic-and-probiotic-supplements-by-viome-in-canada-with-discount-code.jpg" alt="Viome Precision Probiotics" class="rounded-lg object-cover w-full h-full">
                     </div>
                     <div class="md:w-2/3">
                         <h3 class="text-2xl font-bold">3. Viome Precision Probiotics + Prebiotics</h3>
@@ -270,7 +273,7 @@ seoTitle: ""
                 <!-- Product Card: YourBiology -->
                 <div id="yourbiology" class="bg-white p-6 rounded-lg shadow-lg flex flex-col md:flex-row gap-6">
                     <div class="md:w-1/3 flex-shrink-0">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/best-prebiotic-and-probiotic-for-women.jpg" alt="YourBiology+" class="rounded-lg object-cover w-full h-full">
+                        <img src="/uploads/content/best-prebiotic-and-probiotic-for-women.jpg" alt="YourBiology+" class="rounded-lg object-cover w-full h-full">
                     </div>
                     <div class="md:w-2/3">
                         <h3 class="text-2xl font-bold">4. YourBiology+</h3>
@@ -291,7 +294,7 @@ seoTitle: ""
                 <!-- Product Card: Biotics8 -->
                 <div id="biotics8" class="bg-white p-6 rounded-lg shadow-lg flex flex-col md:flex-row gap-6">
                     <div class="md:w-1/3 flex-shrink-0">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/prebiotics-and-probiotics-supplements.jpg" alt="Biotics8" class="rounded-lg object-cover w-full h-full">
+                        <img src="/uploads/content/prebiotics-and-probiotics-supplements.jpg" alt="Biotics8" class="rounded-lg object-cover w-full h-full">
                     </div>
                     <div class="md:w-2/3">
                         <h3 class="text-2xl font-bold">5. Biotics8</h3>
@@ -312,7 +315,7 @@ seoTitle: ""
                 <!-- Product Card: Cymbiotika -->
                 <div id="cymbiotika" class="bg-white p-6 rounded-lg shadow-lg flex flex-col md:flex-row gap-6">
                     <div class="md:w-1/3 flex-shrink-0">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/Cymbiotika-prebiotic-and-probiotic-in-canada--scaled.jpg" alt="Cymbiotika Probiotic" class="rounded-lg object-cover w-full h-full">
+                        <img src="/uploads/content/Cymbiotika-prebiotic-and-probiotic-in-canada--scaled.jpg" alt="Cymbiotika Probiotic" class="rounded-lg object-cover w-full h-full">
                     </div>
                     <div class="md:w-2/3">
                         <h3 class="text-2xl font-bold">6. Cymbiotika Probiotic</h3>
@@ -333,7 +336,7 @@ seoTitle: ""
                 <!-- Product Card: Seed PDS-08 -->
                 <div id="seed-pds-08" class="bg-white p-6 rounded-lg shadow-lg flex flex-col md:flex-row gap-6">
                     <div class="md:w-1/3 flex-shrink-0">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/seed-pds-08-probiotic-supplement-scaled.jpg" alt="Seed PDS-08 Pediatric Daily Synbiotic" class="rounded-lg object-cover w-full h-full">
+                        <img src="/uploads/content/seed-pds-08-probiotic-supplement-scaled.jpg" alt="Seed PDS-08 Pediatric Daily Synbiotic" class="rounded-lg object-cover w-full h-full">
                     </div>
                     <div class="md:w-2/3">
                         <h3 class="text-2xl font-bold">7. Seed PDS-08 Pediatric Daily Synbiotic</h3>
@@ -354,7 +357,7 @@ seoTitle: ""
                 <!-- Product Card: Enviromedica -->
                 <div id="enviromedica" class="bg-white p-6 rounded-lg shadow-lg flex flex-col md:flex-row gap-6">
                     <div class="md:w-1/3 flex-shrink-0">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/prebiotic-and-probiotic-for-immune-system.jpg" alt="Enviromedica Terraflora Deep Immune" class="rounded-lg object-cover w-full h-full">
+                        <img src="/uploads/content/prebiotic-and-probiotic-for-immune-system.jpg" alt="Enviromedica Terraflora Deep Immune" class="rounded-lg object-cover w-full h-full">
                     </div>
                     <div class="md:w-2/3">
                         <h3 class="text-2xl font-bold">8. Enviromedica Terraflora Deep Immune</h3>
@@ -375,7 +378,7 @@ seoTitle: ""
                 <!-- Product Card: Beekeeper's Naturals -->
                 <div id="beekeepers" class="bg-white p-6 rounded-lg shadow-lg flex flex-col md:flex-row gap-6">
                     <div class="md:w-1/3 flex-shrink-0">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/beekeepersnaturals-pre-and-probiotic-combination.jpg" alt="Beekeeper's Naturals Propolis Complete Gut Health" class="rounded-lg object-cover w-full h-full">
+                        <img src="/uploads/content/beekeepersnaturals-pre-and-probiotic-combination.jpg" alt="Beekeeper's Naturals Propolis Complete Gut Health" class="rounded-lg object-cover w-full h-full">
                     </div>
                     <div class="md:w-2/3">
                         <h3 class="text-2xl font-bold">9. Beekeeper's Naturals Propolis Complete Gut Health</h3>
@@ -396,7 +399,7 @@ seoTitle: ""
                 <!-- Product Card: Nella -->
                 <div id="nella" class="bg-white p-6 rounded-lg shadow-lg flex flex-col md:flex-row gap-6">
                     <div class="md:w-1/3 flex-shrink-0">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/nella-is-a-pre-and-probiotic-for-athletes.jpg" alt="Nella by Fitbiomics" class="rounded-lg object-cover w-full h-full">
+                        <img src="/uploads/content/nella-is-a-pre-and-probiotic-for-athletes.jpg" alt="Nella by Fitbiomics" class="rounded-lg object-cover w-full h-full">
                     </div>
                     <div class="md:w-2/3">
                         <h3 class="text-2xl font-bold">10. Nella by Fitbiomics</h3>
@@ -417,7 +420,7 @@ seoTitle: ""
                 <!-- Product Card: Qualia -->
                 <div id="qualia" class="bg-white p-6 rounded-lg shadow-lg flex flex-col md:flex-row gap-6">
                     <div class="md:w-1/3 flex-shrink-0">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/best-pre-pro-and-postbiotics-supplements.jpg" alt="Qualia Synbiotic" class="rounded-lg object-cover w-full h-full">
+                        <img src="/uploads/content/best-pre-pro-and-postbiotics-supplements.jpg" alt="Qualia Synbiotic" class="rounded-lg object-cover w-full h-full">
                     </div>
                     <div class="md:w-2/3">
                         <h3 class="text-2xl font-bold">11. Qualia Synbiotic</h3>
@@ -438,7 +441,7 @@ seoTitle: ""
                 <!-- Product Card: MaryRuth -->
                 <div id="maryruth" class="bg-white p-6 rounded-lg shadow-lg flex flex-col md:flex-row gap-6">
                     <div class="md:w-1/3 flex-shrink-0">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/best-organic-pre-and-probiotic-supplements.jpg" alt="MaryRuth Organic 3-in-1 Complete" class="rounded-lg object-cover w-full h-full">
+                        <img src="/uploads/content/best-organic-pre-and-probiotic-supplements.jpg" alt="MaryRuth Organic 3-in-1 Complete" class="rounded-lg object-cover w-full h-full">
                     </div>
                     <div class="md:w-2/3">
                         <h3 class="text-2xl font-bold">12. MaryRuth Organic 3-in-1 Complete</h3>
@@ -459,7 +462,7 @@ seoTitle: ""
                 <!-- Product Card: Whole Earth & Sea -->
                 <div id="whole-earth" class="bg-white p-6 rounded-lg shadow-lg flex flex-col md:flex-row gap-6">
                     <div class="md:w-1/3 flex-shrink-0">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/Synbiotic-PreProbiotic-organic-and-vegan.jpg" alt="Whole Earth & Sea Whole Food Synbiotic" class="rounded-lg object-cover w-full h-full">
+                        <img src="/uploads/content/Synbiotic-PreProbiotic-organic-and-vegan.jpg" alt="Whole Earth & Sea Whole Food Synbiotic" class="rounded-lg object-cover w-full h-full">
                     </div>
                     <div class="md:w-2/3">
                         <h3 class="text-2xl font-bold">13. Whole Earth & Sea Whole Food Synbiotic</h3>

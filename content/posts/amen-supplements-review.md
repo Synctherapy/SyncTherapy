@@ -1,9 +1,12 @@
 ---
-title: "Amen Supplements Review: Are They Good In 2026 and Should You Try"
-date: "2023-05-08 04:37:16"
-slug: "amen-supplements-review"
-description: ""
-seoTitle: ""
+title: 'Amen Supplements Review: Are They Good In 2026 and Should You Try'
+date: '2023-05-08 04:37:16'
+slug: amen-supplements-review
+description: >-
+  /* Custom styles based on the new design template */ body { font-family:
+  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
+  #333333; /*...
+seoTitle: 'Amen Supplements Review: Are They Good In 2026 and Should You Try'
 ---
 
 <!-- wp:html -->

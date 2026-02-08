@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html class="light" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Sync Clinical Blog Archive</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;family=DM+Sans:ital,wght@0,400;0,500;1,400&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "royal-blue": "#2563EB",
+                        "navy": "#1A2B3C",
+                        "soft-blue": "#F0F5FF",
+                    },
+                    fontFamily: {
+                        "display": ["Inter", "sans-serif"],
+                        "body": ["DM Sans", "sans-serif"]
+                    },
+                    borderRadius: {
+                        "DEFAULT": "0.25rem",
+                        "lg": "0.5rem",
+                        "xl": "0.75rem",
+                        "full": "9999px"
+                    },
+                },
+            },
+        }
+    </script>
+<style type="text/tailwindcss">
+        body {
+            font-family: 'Inter', sans-serif;
+            -webkit-font-smoothing: antialiased;
+            background-color: #F0F5FF;
+        }
+        .dm-sans {
+            font-family: 'DM Sans', sans-serif;
+        }
+        .no-scrollbar::-webkit-scrollbar {
+            display: none;
+        }
+        .no-scrollbar {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+    </style>
+<style>
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
+  </head>
+<body class="bg-soft-blue text-navy">
+<div class="relative flex min-h-screen w-full flex-col overflow-x-hidden">
+<header class="sticky top-0 z-50 bg-navy px-4 py-3 flex items-center justify-between shadow-lg">
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-white">menu</span>
+</div>
+<h1 class="text-white text-lg font-bold tracking-tight">Sync Clinical</h1>
+<div class="flex items-center gap-3">
+<span class="material-symbols-outlined text-white">search</span>
+<div class="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center">
+<span class="material-symbols-outlined text-white text-sm">person</span>
+</div>
+</div>
+</header>
+<main class="flex-1">
+<div class="bg-navy p-6 pb-12">
+<h2 class="text-white text-2xl font-bold mb-4">Clinical Archive</h2>
+<div class="relative mb-6">
+<label class="flex items-center w-full h-12 bg-white/10 rounded-lg px-4 border border-white/20 focus-within:border-royal-blue transition-colors">
+<span class="material-symbols-outlined text-white/60 mr-2">search</span>
+<input class="bg-transparent border-none text-white placeholder:text-white/40 focus:ring-0 w-full text-base" placeholder="Search clinical articles..." type="text"/>
+</label>
+</div>
+<div class="flex gap-2 overflow-x-auto no-scrollbar">
+<button class="shrink-0 px-5 py-2 rounded-full bg-royal-blue text-white text-sm font-semibold">All</button>
+<button class="shrink-0 px-5 py-2 rounded-full bg-white/10 text-white text-sm font-medium">Massage Therapy</button>
+<button class="shrink-0 px-5 py-2 rounded-full bg-white/10 text-white text-sm font-medium">Recovery</button>
+<button class="shrink-0 px-5 py-2 rounded-full bg-white/10 text-white text-sm font-medium">Nutrition</button>
+<button class="shrink-0 px-5 py-2 rounded-full bg-white/10 text-white text-sm font-medium">Post-Op</button>
+</div>
+</div>
+<section class="px-4 -mt-6">
+<div class="relative group cursor-pointer overflow-hidden rounded-xl bg-white shadow-xl shadow-royal-blue/10">
+<div class="aspect-[16/9] w-full bg-cover bg-center transition-transform duration-700 group-hover:scale-105" style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuD6DeYvVhW4djQaGCaHA_qqtybV2FYnuSrZtVqfOFjAC9k-BxclKwAYq189cAd90JrM9OjRS7L8Is1Jo85wgpsjkRK4m59K75ox1354N70lJXz80ZIcTULoJ07YlYgEsuiZFuChdvJYQQy1ovI0gN1aIEptIQVGskfdkTFR-C188mKD2msnz7kv4RnYZmQ8MPpOw9XYOr921ULcG1r-SWCILoG2B3ODCGdeg8nJQDONVoYKxZxEs9IGT_Y0lrippQykYtfbIeiyNJ8')">
+<div class="absolute inset-0 bg-gradient-to-t from-navy/90 via-navy/30 to-transparent"></div>
+</div>
+<div class="absolute bottom-0 p-6 w-full">
+<span class="inline-block bg-royal-blue text-white text-[10px] font-bold tracking-widest uppercase px-2 py-1 rounded-sm mb-3">Featured Insight</span>
+<h3 class="text-white text-xl font-bold leading-tight mb-2 font-display">The Science of Myofascial Release: Clinical Applications</h3>
+<p class="text-white/80 text-sm dm-sans line-clamp-2">Understanding the physiological mechanisms behind fascia manipulation and its role in chronic pain management.</p>
+<div class="flex items-center mt-4 gap-3">
+<div class="flex items-center gap-2">
+<div class="w-6 h-6 rounded-full border border-white/20 overflow-hidden">
+<img alt="" class="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCbnx-y_1oqxulC3LW_pT_SmtgD_MyZqTewJX2ZGrGEelA_70nNZa2spijKeZe-InLS5D6wDK6_i8Y25f_wJtNWgKh2MzibTDw7AWwADpE8PfHlQKDOYW6hY8Ymr4WM5_XQdFkcwsw8ErUkfyfgokdAv0k3k-07R1WlNMTvAEzM4Iag-4f69ylYR5tW15hSHOB2Vzwf5f9q6aFtQMZdnfgpEU_y_1odgIi4kNJDitej88aYjcEtKTkQIzJQ4V_HDXZZbS4kOLcHwiY"/>
+</div>
+<span class="text-white/90 text-xs font-medium">Dr. Sarah Jenkins</span>
+</div>
+<span class="text-white/40 text-xs">•</span>
+<span class="text-white/60 text-xs flex items-center gap-1">
+<span class="material-symbols-outlined text-[14px]">schedule</span> 8 min read
+                            </span>
+</div>
+</div>
+</div>
+</section>
+<section class="px-4 py-8">
+<div class="flex items-center justify-between mb-8">
+<h2 class="text-navy text-xl font-bold font-display">Latest Insights</h2>
+<button class="text-royal-blue text-sm font-bold flex items-center gap-1">
+                        View all <span class="material-symbols-outlined text-sm">arrow_forward</span>
+</button>
+</div>
+<div class="space-y-10">
+<article class="flex flex-col gap-4 group">
+<div class="w-full aspect-[2/1] rounded-lg overflow-hidden relative shadow-md">
+<img class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCMMUGew2RCUQw9IK0UffQoOTkhMvcAmM7nKlNTSlxX-Y0JxdNeribKobyd7jE5h8BTgrVDNur0OlZKmcu7YoGEZGqr0M62U9rPSAcnF9JBchBicghA35rvQnBLA5UCDm7pip5DsnfGN1Oeq5sdDiflXd-hf7BOESK5gVOdNd2ZrmhgyaVmck4XvXOILxpQkDw2JUEmUgNo205xg2iDhIYpOr7osbJDLN_-tkGLw2RUACzu-6xDAC0yZrI9nf0cZXPEEYzAdMyjTJk"/>
+</div>
+<div class="flex flex-col flex-1">
+<div class="flex items-center gap-2 mb-2">
+<span class="text-royal-blue text-[10px] font-bold tracking-widest uppercase px-2 py-0.5 rounded border border-royal-blue/30 bg-royal-blue/5">Sports Recovery</span>
+<span class="text-navy/40 text-xs flex items-center gap-1 ml-auto">
+<span class="material-symbols-outlined text-[14px]">schedule</span> 5 min read
+                                </span>
+</div>
+<h3 class="text-navy text-lg font-bold font-display mb-2 group-hover:text-royal-blue transition-colors leading-snug">Optimizing Post-Training Neuromuscular Function</h3>
+<p class="text-navy/70 text-sm dm-sans mb-4 leading-relaxed">Recent studies suggest targeted vibration therapy significantly reduces DOMS while improving blood flow to connective tissues.</p>
+<div class="flex items-center justify-between">
+<div class="flex items-center gap-3">
+<div class="w-9 h-9 rounded-full bg-navy/5 border border-navy/10 flex items-center justify-center overflow-hidden">
+<img alt="" class="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuB4SNaLX3QjNSobbJvVM6CjF-6R7YeKZkPgUf-F0kmmpZfUsbnlYeVLG3d2RIfy_EPwRet2RK49HNj6q64kWe2C1UaNC41L3CKbuNQeOJE9IffqWZD4xkFRMuOS4Dvnomv7bOSJI6BlOW3IUc9xu_7qWS3Yue766w7mX-GZvKLc_veM6EUPMkXZLBWZ6JH2YwrUySUozA8uVDsyQx9xsgtr_h6x4GoY3s4a-wWK7QIAuzbhhhkudX5SKHH8kuNnnqaYq0eWHdQtSRc"/>
+</div>
+<div class="flex flex-col">
+<span class="text-navy text-xs font-bold leading-none">Mark Stevens, RMT</span>
+<span class="text-navy/50 text-[10px]">Clinical Director</span>
+</div>
+</div>
+<span class="material-symbols-outlined text-navy/30">bookmark</span>
+</div>
+</div>
+</article>
+<article class="flex flex-col gap-4 group">
+<div class="w-full aspect-[2/1] rounded-lg overflow-hidden relative shadow-md">
+<img class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDBv5nbxcaghiRdNrkqg3Fcm70Oj4VXjCZrMKsUnLbx7pJ_0out43ParuU5ymiun1j03faZQ4ZKxE8AnPjf3FVRV81oWSRe78IDhk-JM25QeZlRWxBDBzHF4eDI1IJreb1BP4WA0T7F0f5Aic0_q_MXjmeQwods0X3ZCeMVJi1Mc8ENRQGZDVBB_HwSkgqEhoxvanM202eELln4cjw9t1S8jm3_RsCfpWggJKPM-OFpZUyuN66ZIrJEx6SSwe-xPVzlZWtk9xVJfOw"/>
+</div>
+<div class="flex flex-col flex-1">
+<div class="flex items-center gap-2 mb-2">
+<span class="text-royal-blue text-[10px] font-bold tracking-widest uppercase px-2 py-0.5 rounded border border-royal-blue/30 bg-royal-blue/5">Nutrition</span>
+<span class="text-navy/40 text-xs flex items-center gap-1 ml-auto">
+<span class="material-symbols-outlined text-[14px]">schedule</span> 12 min read
+                                </span>
+</div>
+<h3 class="text-navy text-lg font-bold font-display mb-2 group-hover:text-royal-blue transition-colors leading-snug">The Gut-Fascia Connection: Diet and Inflammation</h3>
+<p class="text-navy/70 text-sm dm-sans mb-4 leading-relaxed">How systemic inflammation triggered by gut dysbiosis manifests as chronic muscular tension and fascial restrictions.</p>
+<div class="flex items-center justify-between">
+<div class="flex items-center gap-3">
+<div class="w-9 h-9 rounded-full bg-navy/5 border border-navy/10 flex items-center justify-center overflow-hidden">
+<img alt="" class="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuC67k5TzQMT8Efc_eOx3jrPi5kbRr_Dbux8VFs-6ta9cZYbVH_glo_a99vfUkNGY4pkCDyMWTqmVM6EUdhsSbCdyamJhscgdMK_MqyPnwGH0K_5xWIGHvFKjxzfnj65jhC6CPCD1SReIJAcEQeLEkdI5-ja3H_DmEBU03G_ESVrIF5DyH_-_Hwm2esE-M4Bl_30rUW1Fgzl1tcxbv0SYrIEuMmK8ShlCPefKni7tF8SaFdfYHxagcZ1HTb5No-KDEJ0G9p5OkXktm4"/>
+</div>
+<div class="flex flex-col">
+<span class="text-navy text-xs font-bold leading-none">Dr. Elisa Thorne</span>
+<span class="text-navy/50 text-[10px]">Holistic Nutritionist</span>
+</div>
+</div>
+<span class="material-symbols-outlined text-navy/30">bookmark</span>
+</div>
+</div>
+</article>
+</div>
+<div class="mt-12 mb-20 flex justify-center">
+<button class="w-full py-4 rounded-xl bg-royal-blue text-white font-bold text-sm shadow-lg shadow-royal-blue/20 transition-all uppercase tracking-widest active:scale-95">
+                        Load More Articles
+                    </button>
+</div>
+</section>
+</main>
+<nav class="fixed bottom-0 w-full bg-navy border-t border-white/5 px-6 py-4 flex justify-between items-center z-50 shadow-[0_-4px_20px_rgba(0,0,0,0.3)]">
+<div class="flex flex-col items-center gap-1 text-royal-blue">
+<span class="material-symbols-outlined">auto_stories</span>
+<span class="text-[10px] font-semibold">Archive</span>
+</div>
+<div class="flex flex-col items-center gap-1 text-white/50">
+<span class="material-symbols-outlined">explore</span>
+<span class="text-[10px] font-medium">Topics</span>
+</div>
+<div class="flex flex-col items-center gap-1 text-white/50">
+<span class="material-symbols-outlined">bookmark</span>
+<span class="text-[10px] font-medium">Saved</span>
+</div>
+<div class="flex flex-col items-center gap-1 text-white/50">
+<span class="material-symbols-outlined">notifications</span>
+<span class="text-[10px] font-medium">Alerts</span>
+</div>
+</nav>
+</div>
+
+</body></html>

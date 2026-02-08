@@ -1,9 +1,11 @@
 ---
-title: "Headaches and Neck Pain"
-date: "2024-08-07 06:43:23"
-slug: "headaches-and-neck-pain"
-description: ""
-seoTitle: ""
+title: Headaches and Neck Pain
+date: '2024-08-07 06:43:23'
+slug: headaches-and-neck-pain
+description: >-
+  { "@context": "https://schema.org", "@graph": [ { "@type": "Service", "@id":
+  "https://synctherapylocal.local/conditions/headaches-neck-pain#headacheService",...
+seoTitle: Headaches and Neck Pain
 ---
 
 <!-- wp:html -->
@@ -345,7 +347,7 @@ seoTitle: ""
                         ⚠️ Book Today!
                     </span>
                 </div>
-                <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" 
+                <img src="/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" 
                      alt="Headache and Neck Pain Treatment Victoria BC - Professional massage therapy and athletic therapy treatment room at Sync Therapy featuring specialized equipment for headache relief, neck pain treatment, and cervical spine therapy in Victoria BC" 
                      style="width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
             </div>
@@ -621,7 +623,7 @@ seoTitle: ""
             <span class="badge badge-secondary" style="margin-top: 20px;">Trusted by 800+ headache & neck pain clients</span>
         </div>
 
-        <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/Direct-Billing-to-Extended-Health-Chiro-Physio-Acupuncture-Massage-with-RCMP-as-well.png" 
+        <img src="/uploads/2025/06/Direct-Billing-to-Extended-Health-Chiro-Physio-Acupuncture-Massage-with-RCMP-as-well.png" 
              alt="Direct billing process for headache and neck pain treatment - seamless insurance processing at Sync Therapy Victoria BC" 
              style="width: 100%; max-width: 600px; margin: 0 auto 40px; border-radius: 12px; display: block;">
 
@@ -701,7 +703,7 @@ seoTitle: ""
         <div class="card" style="overflow: hidden;">
             <div class="grid grid-2" style="align-items: center;">
                 <div>
-                    <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" 
+                    <img src="/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" 
                          alt="Daryl Stubbs - Registered Massage Therapist and Certified Athletic Therapist specializing in headache and neck pain treatment Victoria BC. Professional headshot of experienced RMT and CAT at Sync Therapy clinic specializing in headache relief, neck pain treatment, and cervical rehabilitation for Victoria residents" 
                          style="width: 100%; border-radius: 12px;">
                 </div>

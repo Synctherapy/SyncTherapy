@@ -1,9 +1,11 @@
 ---
-title: "General Disclaimer"
-date: "2024-08-07 06:43:26"
-slug: "general-disclaimer"
-description: ""
-seoTitle: ""
+title: General Disclaimer
+date: '2024-08-07 06:43:26'
+slug: general-disclaimer
+description: >-
+  The information contained in https://synctherapylocal.local/ is for general
+  information purposes only. The information is provided by...
+seoTitle: General Disclaimer
 ---
 
 <!-- wp:paragraph -->

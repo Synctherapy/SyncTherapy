@@ -1,9 +1,12 @@
 ---
-title: "Newsletter: Subscription &amp; Disclaimer"
-date: "2024-08-07 06:43:28"
-slug: "newsletter-subscription-disclaimer"
-description: ""
-seoTitle: ""
+title: 'Newsletter: Subscription &amp; Disclaimer'
+date: '2024-08-07 06:43:28'
+slug: newsletter-subscription-disclaimer
+description: >-
+  If you choose to provide us with your email address or any other personally
+  identifiable information, we will use it only to send you our newsletter or
+  respond...
+seoTitle: 'Newsletter: Subscription &amp; Disclaimer'
 ---
 
 

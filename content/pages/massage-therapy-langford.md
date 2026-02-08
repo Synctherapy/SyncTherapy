@@ -1,9 +1,12 @@
 ---
-title: "Massage Therapy Langford"
-date: "2025-07-03 00:31:02"
-slug: "massage-therapy-langford"
-description: ""
-seoTitle: ""
+title: Massage Therapy Langford
+date: '2025-07-03 00:31:02'
+slug: massage-therapy-langford
+description: >-
+  :root { --primary: #2E5A88; --primary-light: #4A7AAA; --secondary: #86BBD8;
+  --accent: #F5B82E; --neutral: #F4F7F5; --text: #333333; --text-light:
+  #666666;...
+seoTitle: Massage Therapy Langford
 ---
 
 <!-- wp:html -->
@@ -439,7 +442,7 @@ seoTitle: ""
             <div class="card" style="max-width: 900px; margin: 0 auto;">
                 <div class="grid grid-2" style="align-items: center;">
                     <div>
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" 
+                        <img src="/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" 
                              alt="Daryl Stubbs RMT - Langford massage therapist"
                              style="width: 100%; border-radius: 8px;">
                     </div>
@@ -794,12 +797,12 @@ seoTitle: ""
   "serviceType": "Registered Massage Therapy",
   "category": "MedicalBusiness",
   "url": "https://synctherapylocal.local/services/massage-therapy-langford/",
-  "image": "https://synctherapylocal.local/wp-content/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg",
+  "image": "/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg",
   "description": "Professional Registered Massage Therapy (RMT) serving Langford, BC. Specializing in sports injuries, chronic pain relief, and deep tissue massage. Located just 5 minutes from Westshore Town Centre.",
   "provider": {
     "@type": "MedicalBusiness",
     "name": "Sync Massage Therapy",
-    "image": "https://synctherapylocal.local/wp-content/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg",
+    "image": "/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg",
     "telephone": "+1-250-812-8698",
     "priceRange": "$$",
     "address": {

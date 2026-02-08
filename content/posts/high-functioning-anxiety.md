@@ -1,9 +1,12 @@
 ---
-title: "Understanding High-Functioning Anxiety In 2026 | Easy Guide"
-date: "2025-10-25 06:16:59"
-slug: "high-functioning-anxiety"
-description: ""
-seoTitle: ""
+title: Understanding High-Functioning Anxiety In 2026 | Easy Guide
+date: '2025-10-25 06:16:59'
+slug: high-functioning-anxiety
+description: >-
+  /* Custom styles based on the new design template */ body { font-family:
+  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
+  #333333; /*...
+seoTitle: Understanding High-Functioning Anxiety In 2026 | Easy Guide
 ---
 
 <!-- wp:html -->

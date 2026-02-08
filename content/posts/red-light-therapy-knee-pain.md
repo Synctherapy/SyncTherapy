@@ -1,9 +1,12 @@
 ---
-title: "Best Red Light Therapy for Knee Pain in 2026: Top Devices To Help"
-date: "2026-01-06 18:07:20"
-slug: "red-light-therapy-knee-pain"
-description: ""
-seoTitle: ""
+title: 'Best Red Light Therapy for Knee Pain in 2026: Top Devices To Help'
+date: '2026-01-06 18:07:20'
+slug: red-light-therapy-knee-pain
+description: >-
+  body { font-family: 'Inter', sans-serif; background-color: #F4F7F5; color:
+  #333333; } .bg-primary { background-color: #2E5A88; } .text-primary {
+  color:...
+seoTitle: 'Best Red Light Therapy for Knee Pain in 2026: Top Devices To Help'
 ---
 
 <!-- wp:html -->
@@ -218,7 +221,7 @@ seoTitle: ""
                         width="640"
                         height="360"
                     >
-                        <source src="https://synctherapylocal.local/wp-content/uploads/2026/01/a-man-adjusting-the-best-red-light-therapy-for-knee-pain-and-surgery.mp4" type="video/mp4">
+                        <source src="/uploads/2026/01/a-man-adjusting-the-best-red-light-therapy-for-knee-pain-and-surgery.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
                     <div class="mt-4 text-center">
@@ -375,7 +378,7 @@ seoTitle: ""
                         height="360"
                         loading="lazy"
                     >
-                        <source src="https://synctherapylocal.local/wp-content/uploads/2026/01/red-light-therapy-knee-pain-osteoarthritis-and-after-surgery.mp4" type="video/mp4">
+                        <source src="/uploads/2026/01/red-light-therapy-knee-pain-osteoarthritis-and-after-surgery.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
                     <p class="text-sm text-gray-500 text-center mt-2">Red light therapy for knee pain, osteoarthritis, and post-surgery recovery</p>
@@ -549,7 +552,7 @@ seoTitle: ""
                         height="360"
                         loading="lazy"
                     >
-                        <source src="https://synctherapylocal.local/wp-content/uploads/2026/01/a-man-adjusting-the-best-red-light-therapy-for-knee-pain-and-surgery-1.mp4" type="video/mp4">
+                        <source src="/uploads/2026/01/a-man-adjusting-the-best-red-light-therapy-for-knee-pain-and-surgery-1.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
                     <p class="text-sm text-gray-500 text-center mt-2">The Infraredi Joint Wrap - Best red light therapy knee wrap for targeted treatment</p>
@@ -1075,7 +1078,7 @@ seoTitle: ""
     "url": "https://synctherapylocal.local/",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://synctherapylocal.local/wp-content/uploads/2025/07/cropped-sync-therapy-favicon-192x192.png"
+      "url": "/uploads/2025/07/cropped-sync-therapy-favicon-192x192.png"
     }
   },
   "mainEntityOfPage": {

@@ -1,9 +1,12 @@
 ---
-title: "Red Light Therapy | Comprehensive Guide to Light Therapy & Red Light Uses"
-date: "2023-12-27 20:35:27"
-slug: "red-light-therapy"
-description: ""
-seoTitle: ""
+title: Red Light Therapy | Comprehensive Guide to Light Therapy & Red Light Uses
+date: '2023-12-27 20:35:27'
+slug: red-light-therapy
+description: >-
+  body { font-family: 'Inter', sans-serif; background-color: #F4F7F5; color:
+  #333333; } html { scroll-behavior: smooth; } .bg-primary {
+  background-color:...
+seoTitle: Red Light Therapy | Comprehensive Guide to Light Therapy & Red Light Uses
 ---
 
 <!-- wp:html -->
@@ -223,7 +226,7 @@ seoTitle: ""
     "url": "https://synctherapylocal.local/",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://synctherapylocal.local/wp-content/uploads/2025/07/cropped-sync-therapy-favicon-192x192.png"
+      "url": "/uploads/2025/07/cropped-sync-therapy-favicon-192x192.png"
     }
   },
   "mainEntityOfPage": {

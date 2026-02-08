@@ -1,9 +1,12 @@
 ---
-title: "Echo Flask Review 2026: Best Hydrogen Water Bottle? (I Tested It)"
-date: "2025-01-14 21:23:37"
-slug: "echo-flask-review"
-description: ""
-seoTitle: ""
+title: 'Echo Flask Review 2026: Best Hydrogen Water Bottle? (I Tested It)'
+date: '2025-01-14 21:23:37'
+slug: echo-flask-review
+description: >-
+  body { font-family: 'Inter', sans-serif; background-color: #F4F7F5; color:
+  #333333; } html { scroll-behavior: smooth; } .bg-primary {
+  background-color:...
+seoTitle: 'Echo Flask Review 2026: Best Hydrogen Water Bottle? (I Tested It)'
 ---
 
 <!-- wp:html -->
@@ -302,14 +305,14 @@ seoTitle: ""
                 <div class="bg-white p-4 rounded-lg shadow-md">
                     <h4 class="font-bold text-primary mb-3"><i class="fas fa-play-circle mr-2"></i>Echo Flask Unboxing</h4>
                     <video controls class="w-full rounded-lg" preload="metadata">
-                        <source src="https://synctherapylocal.local/wp-content/uploads/2025/12/Unboxing-the-brand-new-Echo-Flask-smart-hydrogen-water-bottle.mp4" type="video/mp4">
+                        <source src="/uploads/2025/12/Unboxing-the-brand-new-Echo-Flask-smart-hydrogen-water-bottle.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
                 </div>
                 <div class="bg-white p-4 rounded-lg shadow-md">
                     <h4 class="font-bold text-primary mb-3"><i class="fas fa-play-circle mr-2"></i>Echo Flask Full Review</h4>
                     <video controls class="w-full rounded-lg" preload="metadata">
-                        <source src="https://synctherapylocal.local/wp-content/uploads/2025/12/echo-flask-review.mp4" type="video/mp4">
+                        <source src="/uploads/2025/12/echo-flask-review.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
                 </div>
@@ -317,7 +320,7 @@ seoTitle: ""
             <div class="bg-white p-4 rounded-lg shadow-md max-w-xl mx-auto">
                 <h4 class="font-bold text-primary mb-3"><i class="fas fa-play-circle mr-2"></i>Echo Flask Hydrogen Water Bottle Review</h4>
                 <video controls class="w-full rounded-lg" preload="metadata">
-                    <source src="https://synctherapylocal.local/wp-content/uploads/2025/12/echo-flask-hydrogen-water-bottle-review-.mp4" type="video/mp4">
+                    <source src="/uploads/2025/12/echo-flask-hydrogen-water-bottle-review-.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
             </div>

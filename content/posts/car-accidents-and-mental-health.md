@@ -1,9 +1,12 @@
 ---
-title: "When the Crash Doesn’t End: Mental Health After Car Accidents"
-date: "2025-10-25 05:27:32"
-slug: "car-accidents-and-mental-health"
-description: ""
-seoTitle: ""
+title: 'When the Crash Doesn’t End: Mental Health After Car Accidents'
+date: '2025-10-25 05:27:32'
+slug: car-accidents-and-mental-health
+description: >-
+  /* Custom styles based on the new design template */ body { font-family:
+  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
+  #333333; /*...
+seoTitle: 'When the Crash Doesn’t End: Mental Health After Car Accidents'
 ---
 
 <!-- wp:html -->

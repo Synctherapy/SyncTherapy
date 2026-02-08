@@ -1,9 +1,12 @@
 ---
-title: "Testimonials Disclosure"
-date: "2024-08-07 06:43:28"
-slug: "testimonials-disclosure"
-description: ""
-seoTitle: ""
+title: Testimonials Disclosure
+date: '2024-08-07 06:43:28'
+slug: testimonials-disclosure
+description: >-
+  Unique experiences and past performances do not guarantee future results!
+  Testimonials herein are unsolicited and are non-representative of all
+  clients;...
+seoTitle: Testimonials Disclosure
 ---
 
 

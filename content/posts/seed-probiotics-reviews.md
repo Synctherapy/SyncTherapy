@@ -1,9 +1,11 @@
 ---
-title: "Seed DS-01 Review 2026: Worth the Hype in Canada?"
-date: "2023-07-04 07:00:00"
-slug: "seed-probiotics-reviews"
-description: ""
-seoTitle: ""
+title: 'Seed DS-01 Review 2026: Worth the Hype in Canada?'
+date: '2023-07-04 07:00:00'
+slug: seed-probiotics-reviews
+description: >-
+  // Configuration for Tailwind CSS tailwind.config = { theme: { extend: { //
+  Customizations can go here }, }, } body { font-family: 'Inter', sans-serif;...
+seoTitle: 'Seed DS-01 Review 2026: Worth the Hype in Canada?'
 ---
 
 <!-- wp:html -->
@@ -254,7 +256,7 @@ seoTitle: ""
             <section id="comparison">
                 <h2 class="text-3xl font-bold">Seed Probiotics vs. The Competition</h2>
                 <p class="mb-4">While Seed stands out, it's helpful to see how it stacks up against other popular brands. For a deeper dive, read our full <a data-wpil="url" href="https://synctherapylocal.local/seed-vs-ritual-probiotics/" class="text-primary hover:underline font-semibold">Seed vs. Ritual</a> and <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY3ltYmlvdGlrYS12cy1zZWVkLWRzLTAxLXByb2Jpb3RpYy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY3ltYmlvdGlrYS12cy1zZWVkLWRzLTAxLXByb2Jpb3RpYy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY3ltYmlvdGlrYS12cy1zZWVkLWRzLTAxLXByb2Jpb3RpYy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY3ltYmlvdGlrYS12cy1zZWVkLWRzLTAxLXByb2Jpb3RpYy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY3ltYmlvdGlrYS12cy1zZWVkLWRzLTAxLXByb2Jpb3RpYy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY3ltYmlvdGlrYS12cy1zZWVkLWRzLTAxLXByb2Jpb3RpYy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY3ltYmlvdGlrYS12cy1zZWVkLWRzLTAxLXByb2Jpb3RpYy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY3ltYmlvdGlrYS12cy1zZWVkLWRzLTAxLXByb2Jpb3RpYy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY3ltYmlvdGlrYS12cy1zZWVkLWRzLTAxLXByb2Jpb3RpYy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY3ltYmlvdGlrYS12cy1zZWVkLWRzLTAxLXByb2Jpb3RpYy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY3ltYmlvdGlrYS12cy1zZWVkLWRzLTAxLXByb2Jpb3RpYy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY3ltYmlvdGlrYS12cy1zZWVkLWRzLTAxLXByb2Jpb3RpYy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY3ltYmlvdGlrYS12cy1zZWVkLWRzLTAxLXByb2Jpb3RpYy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY3ltYmlvdGlrYS12cy1zZWVkLWRzLTAxLXByb2Jpb3RpYy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY3ltYmlvdGlrYS12cy1zZWVkLWRzLTAxLXByb2Jpb3RpYy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY3ltYmlvdGlrYS12cy1zZWVkLWRzLTAxLXByb2Jpb3RpYy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY3ltYmlvdGlrYS12cy1zZWVkLWRzLTAxLXByb2Jpb3RpYy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY3ltYmlvdGlrYS12cy1zZWVkLWRzLTAxLXByb2Jpb3RpYy8=" href="https://synctherapylocal.local/cymbiotika-vs-seed-ds-01-probiotic/" class="text-primary hover:underline font-semibold">Cymbiotika vs. Seed</a> comparisons.</p>
-                <img class="m-auto rounded-lg shadow-md mb-6" src="https://synctherapylocal.local/wp-content/uploads/2025/06/seedvscymbiotikaprobiotic_ef7a89a36ebf4227b141e411be86ccbf.webp" alt="A comparison image of Seed vs Cymbiotika probiotics." onerror="this.onerror=null;this.src='https://placehold.co/800x400/2E5A88/ffffff?text=Seed+vs+Competition';">
+                <img class="m-auto rounded-lg shadow-md mb-6" src="/uploads/2025/06/seedvscymbiotikaprobiotic_ef7a89a36ebf4227b141e411be86ccbf.webp" alt="A comparison image of Seed vs Cymbiotika probiotics." onerror="this.onerror=null;this.src='https://placehold.co/800x400/2E5A88/ffffff?text=Seed+vs+Competition';">
                 <div class="overflow-x-auto bg-white rounded-lg shadow-md">
                     <table class="w-full text-sm text-left comparison-table">
                         <thead class="text-xs uppercase bg-gray-50">
@@ -319,7 +321,7 @@ seoTitle: ""
             
             <section id="my-experience" class="bg-white p-8 rounded-lg shadow-xl">
                 <h2 class="text-3xl font-bold !border-none !pl-0 text-center">My Personal Seed Probiotic Review & Results</h2>
-                 <img class="m-auto rounded-lg shadow-md my-6 w-full max-w-md" src="https://synctherapylocal.local/wp-content/uploads/2025/07/me-going-over-the-seed-probiotics-ingredients_1000x-1.webp" alt="Author holding the Seed DS-01 Daily Synbiotic for a review in Canada" onerror="this.onerror=null;this.src='https://placehold.co/600x400/F4F7F5/2E5A88?text=Author+Reviewing+Seed';">
+                 <img class="m-auto rounded-lg shadow-md my-6 w-full max-w-md" src="/uploads/2025/07/me-going-over-the-seed-probiotics-ingredients_1000x-1.webp" alt="Author holding the Seed DS-01 Daily Synbiotic for a review in Canada" onerror="this.onerror=null;this.src='https://placehold.co/600x400/F4F7F5/2E5A88?text=Author+Reviewing+Seed';">
                  <div class="grid md:grid-cols-2 gap-8">
                       <div>
                           <h3 class="text-2xl font-semibold mb-3 text-primary">Before Seed</h3>
@@ -438,7 +440,7 @@ seoTitle: ""
             <section id="where-to-buy">
                 <h2 class="text-3xl font-bold">Where to Buy Seed Probiotics in Canada</h2>
                 <p class="mb-4">For those in Canada looking to buy Seed Probiotics, the most reliable and cost-effective method is directly through the official Seed.com website. This ensures you receive an authentic product and can take advantage of their subscription model with sustainable refills.</p>
-                <img class="m-auto rounded-lg shadow-md mb-6" src="https://synctherapylocal.local/wp-content/uploads/2025/07/seed-probiotics-canada-promo-code_1000x-1.webp" alt="Seed Probiotics Canada discount code offer." onerror="this.onerror=null;this.src='https://placehold.co/800x400/2E5A88/ffffff?text=Seed+in+Canada';">
+                <img class="m-auto rounded-lg shadow-md mb-6" src="/uploads/2025/07/seed-probiotics-canada-promo-code_1000x-1.webp" alt="Seed Probiotics Canada discount code offer." onerror="this.onerror=null;this.src='https://placehold.co/800x400/2E5A88/ffffff?text=Seed+in+Canada';">
                 <ul class="list-disc list-inside space-y-2 mb-4">
                     <li><strong>Official Website:</strong> The best option for price and authenticity.</li>
                     <li><strong>Amazon.ca:</strong> Seed Is not available on Amazon.ca.</li>

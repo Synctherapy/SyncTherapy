@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Massage Therapy | Sync Massage Therapy</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&amp;family=DM+Sans:wght@400;500;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#2563EB",
+                        "navy": "#1A2B3C",
+                        "light-blue": "#F0F5FF",
+                        "body-text": "#2D3748",
+                        "google-blue": "#4285F4",
+                        "google-red": "#EA4335",
+                        "google-yellow": "#FBBC05",
+                        "google-green": "#34A853"
+                    },
+                    fontFamily: {
+                        "heading": ["Inter", "sans-serif"],
+                        "sans": ["DM Sans", "sans-serif"]
+                    }
+                },
+            },
+        }
+    </script>
+<style type="text/tailwindcss">
+        @layer base {
+            body {
+                @apply bg-light-blue text-body-text font-sans antialiased;
+            }
+            h1, h2, h3, h4 {
+                @apply font-heading font-extrabold tracking-tight;
+            }
+        }
+        .hero-gradient {
+            background: linear-gradient(to bottom, rgba(26, 43, 60, 0.4) 0%, rgba(26, 43, 60, 0.8) 100%);
+        }
+        .ios-blur {
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+        }
+        .hide-scrollbar::-webkit-scrollbar {
+            display: none;
+        }
+        .hide-scrollbar {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+    </style>
+<style>
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
+  </head>
+<body class="min-h-screen pb-32">
+<nav class="sticky top-0 z-[60] flex items-center justify-between px-6 py-4 bg-light-blue/90 ios-blur border-b border-primary/10">
+<div class="flex items-center gap-2">
+<span class="text-xl font-heading font-black text-navy uppercase tracking-tighter">Sync Therapy</span>
+</div>
+<div class="flex items-center gap-4">
+<span class="material-symbols-outlined text-navy">menu</span>
+</div>
+</nav>
+<main>
+<section class="relative h-[60vh] flex items-end overflow-hidden">
+<img alt="Therapeutic Massage Session" class="absolute inset-0 w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCGFk48ZCCgZYJxxQ1JDKS0NxsoXxiCE0j64mKRZ4DJI-RRuhXKciLzysy--nBVCh7TDnZkX0r__txm5Op92lQhU096hdO5F_l4ULxgrr4UCSGEOBg2D_gl792HR_CJmLueQ9QPLzEXlk3UCGMWllllyo-Zn3ix0hctziZHTnKZHrcT5AhZejZ2IqJL5ylHjRZSOskLlDgZ0zj8sbv_IGO9fOJtj6PZ1LkjEEdO7cVdueVkCoWNoEbO2mYwCL2VRHJxGdrXMEiuK8k"/>
+<div class="absolute inset-0 hero-gradient"></div>
+<div class="relative z-10 px-6 pb-12 w-full">
+<div class="inline-block bg-primary/20 backdrop-blur-md px-3 py-1 rounded-full mb-4">
+<span class="text-[10px] font-bold text-white uppercase tracking-widest">Clinical Excellence</span>
+</div>
+<h1 class="text-5xl font-heading text-white leading-[1.1] mb-6">
+                    Massage <br/>Therapy
+                </h1>
+<button class="bg-primary text-white font-bold px-8 py-4 rounded-full shadow-lg shadow-primary/30 flex items-center gap-3 active:scale-[0.98] transition-all w-fit">
+<span class="uppercase tracking-widest text-xs">Book Appointment</span>
+<span class="material-symbols-outlined text-sm">calendar_today</span>
+</button>
+</div>
+</section>
+<section class="py-10 bg-white overflow-hidden border-b border-primary/5">
+<div class="px-6 mb-6 flex items-center justify-between">
+<div class="flex items-center gap-1 font-bold text-xl">
+<span class="text-google-blue">G</span>
+<span class="text-google-red">o</span>
+<span class="text-google-yellow">o</span>
+<span class="text-google-blue">g</span>
+<span class="text-google-green">l</span>
+<span class="text-google-red">e</span>
+<span class="text-navy ml-2 text-sm font-heading uppercase tracking-widest">Reviews</span>
+</div>
+<div class="flex items-center gap-1">
+<span class="text-google-yellow material-symbols-outlined text-sm" style="font-variation-settings: 'FILL' 1">star</span>
+<span class="font-bold text-navy text-sm tracking-tight">4.9 / 5.0</span>
+</div>
+</div>
+<div class="flex gap-4 overflow-x-auto px-6 hide-scrollbar snap-x snap-mandatory">
+<div class="min-w-[280px] bg-light-blue p-5 rounded-2xl snap-start border border-primary/10">
+<div class="flex items-center gap-2 mb-3">
+<div class="w-8 h-8 rounded-full bg-primary/10 flex items-center justify-center font-bold text-primary text-xs">JD</div>
+<div>
+<p class="text-xs font-bold text-navy">James D.</p>
+<div class="flex text-google-yellow scale-75 origin-left -mt-1">
+<span class="material-symbols-outlined text-xs" style="font-variation-settings: 'FILL' 1">star</span>
+<span class="material-symbols-outlined text-xs" style="font-variation-settings: 'FILL' 1">star</span>
+<span class="material-symbols-outlined text-xs" style="font-variation-settings: 'FILL' 1">star</span>
+<span class="material-symbols-outlined text-xs" style="font-variation-settings: 'FILL' 1">star</span>
+<span class="material-symbols-outlined text-xs" style="font-variation-settings: 'FILL' 1">star</span>
+</div>
+</div>
+</div>
+<p class="text-sm text-body-text/80 leading-relaxed italic">"The best clinical massage I've had. They actually listen to where the pain is coming from."</p>
+</div>
+<div class="min-w-[280px] bg-light-blue p-5 rounded-2xl snap-start border border-primary/10">
+<div class="flex items-center gap-2 mb-3">
+<div class="w-8 h-8 rounded-full bg-primary/10 flex items-center justify-center font-bold text-primary text-xs">SL</div>
+<div>
+<p class="text-xs font-bold text-navy">Sarah L.</p>
+<div class="flex text-google-yellow scale-75 origin-left -mt-1">
+<span class="material-symbols-outlined text-xs" style="font-variation-settings: 'FILL' 1">star</span>
+<span class="material-symbols-outlined text-xs" style="font-variation-settings: 'FILL' 1">star</span>
+<span class="material-symbols-outlined text-xs" style="font-variation-settings: 'FILL' 1">star</span>
+<span class="material-symbols-outlined text-xs" style="font-variation-settings: 'FILL' 1">star</span>
+<span class="material-symbols-outlined text-xs" style="font-variation-settings: 'FILL' 1">star</span>
+</div>
+</div>
+</div>
+<p class="text-sm text-body-text/80 leading-relaxed italic">"Professional, clean, and extremely effective for my chronic lower back issues. Highly recommend."</p>
+</div>
+</div>
+</section>
+<section class="px-6 py-16 bg-light-blue">
+<h2 class="text-3xl text-navy mb-6 font-heading">Service Overview</h2>
+<div class="space-y-6">
+<p class="text-body-text leading-relaxed font-sans">
+                    Our Massage Therapy sessions are grounded in clinical excellence and evidence-based practices. We don't just provide relaxation; we focus on functional restoration and long-term musculoskeletal health. 
+                </p>
+<p class="text-body-text leading-relaxed font-sans">
+                    Whether you are recovering from a sports injury, managing chronic stress, or seeking to improve your overall mobility, our Registered Massage Therapists (RMTs) utilize a combination of manual techniques tailored to your physiological needs.
+                </p>
+<div class="grid grid-cols-2 gap-4 mt-8">
+<div class="bg-white p-4 rounded-xl border border-primary/10 shadow-sm">
+<span class="text-primary font-bold block text-xl mb-1">60/90</span>
+<span class="text-[10px] uppercase tracking-widest text-navy/60 font-bold">Minutes</span>
+</div>
+<div class="bg-white p-4 rounded-xl border border-primary/10 shadow-sm">
+<span class="text-primary font-bold block text-xl mb-1">1:1</span>
+<span class="text-[10px] uppercase tracking-widest text-navy/60 font-bold">Clinical Care</span>
+</div>
+</div>
+</div>
+</section>
+<section class="px-6 py-16 bg-navy text-white">
+<div class="text-center mb-12">
+<span class="text-primary text-[10px] font-bold uppercase tracking-[0.2em] mb-3 block">Gold Standard Standards</span>
+<h2 class="text-3xl font-heading">Certified Excellence</h2>
+</div>
+<div class="grid grid-cols-2 gap-4">
+<div class="bg-white/5 p-6 rounded-2xl border border-white/10 flex flex-col items-center text-center">
+<span class="material-symbols-outlined text-primary mb-3 text-3xl">verified_user</span>
+<h4 class="text-sm font-bold mb-1">RMT Certified</h4>
+<p class="text-[10px] text-white/60 uppercase">Registered Professionals</p>
+</div>
+<div class="bg-white/5 p-6 rounded-2xl border border-white/10 flex flex-col items-center text-center">
+<span class="material-symbols-outlined text-primary mb-3 text-3xl">medical_services</span>
+<h4 class="text-sm font-bold mb-1">Myofascial</h4>
+<p class="text-[10px] text-white/60 uppercase">Advanced Release</p>
+</div>
+<div class="bg-white/5 p-6 rounded-2xl border border-white/10 flex flex-col items-center text-center">
+<span class="material-symbols-outlined text-primary mb-3 text-3xl">sports_gymnastics</span>
+<h4 class="text-sm font-bold mb-1">Sports Clinical</h4>
+<p class="text-[10px] text-white/60 uppercase">Injury Prevention</p>
+</div>
+<div class="bg-white/5 p-6 rounded-2xl border border-white/10 flex flex-col items-center text-center">
+<span class="material-symbols-outlined text-primary mb-3 text-3xl">psychology</span>
+<h4 class="text-sm font-bold mb-1">Neuromuscular</h4>
+<p class="text-[10px] text-white/60 uppercase">Re-education</p>
+</div>
+</div>
+</section>
+<section class="px-6 py-16 bg-light-blue">
+<h2 class="text-3xl text-navy mb-8 font-heading">Patient Results</h2>
+<div class="space-y-6">
+<div class="bg-white rounded-2xl p-6 border border-primary/10 shadow-sm">
+<div class="flex justify-between items-start mb-4">
+<span class="bg-primary/10 text-primary text-[10px] font-bold px-3 py-1 rounded-full uppercase">Lumbar Stenosis</span>
+<span class="text-[10px] text-navy/40 font-bold uppercase italic">4 Sessions</span>
+</div>
+<div class="grid grid-cols-2 gap-4 mb-4">
+<div>
+<p class="text-[10px] uppercase font-bold text-navy/40 mb-1 tracking-tighter">Initial Condition</p>
+<p class="text-sm font-medium text-navy">Restricted gait, chronic L4-L5 pain (7/10 scale).</p>
+</div>
+<div>
+<p class="text-[10px] uppercase font-bold text-navy/40 mb-1 tracking-tighter">Clinical Outcome</p>
+<p class="text-sm font-medium text-google-green">Full mobility restored, pain managed to (1/10).</p>
+</div>
+</div>
+</div>
+<div class="bg-white rounded-2xl p-6 border border-primary/10 shadow-sm">
+<div class="flex justify-between items-start mb-4">
+<span class="bg-primary/10 text-primary text-[10px] font-bold px-3 py-1 rounded-full uppercase">Rotator Cuff Rehab</span>
+<span class="text-[10px] text-navy/40 font-bold uppercase italic">6 Sessions</span>
+</div>
+<div class="grid grid-cols-2 gap-4 mb-4">
+<div>
+<p class="text-[10px] uppercase font-bold text-navy/40 mb-1 tracking-tighter">Initial Condition</p>
+<p class="text-sm font-medium text-navy">Limited abduction, post-surgical stiffness.</p>
+</div>
+<div>
+<p class="text-[10px] uppercase font-bold text-navy/40 mb-1 tracking-tighter">Clinical Outcome</p>
+<p class="text-sm font-medium text-google-green">90% range of motion improvement.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="px-6 py-16">
+<div class="bg-white rounded-3xl p-8 border border-primary/10 shadow-xl relative overflow-hidden">
+<div class="absolute -right-4 -top-4 w-24 h-24 bg-primary/5 rounded-full"></div>
+<h2 class="text-2xl text-navy mb-6 font-heading">Specialist Insight</h2>
+<p class="text-body-text leading-relaxed italic mb-8 relative z-10 font-sans">
+                    "Massage is more than luxury; it's a critical component of functional health. By addressing muscle imbalances before they become injuries, we empower our clients to live without physical limitations."
+                </p>
+<div class="flex items-center gap-4">
+<img alt="Lead Therapist Sarah Chen" class="w-14 h-14 rounded-full object-cover ring-2 ring-primary/20" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCqJuUoXPOH1QR6wAbDTgdV65ACFqo4NvoemenouSvzkxJuceOsscOiBio7oe9K2DmzjxTyAqjZ38eyUuJn6gh5fWzVXSY2TopHr2slj_UlOlxICoKjR94kKUmx674Eg5OD-uSsT2_CZTjRkVZOyzJULniZ-QjnOLy91Ks5F4VYwPgUpKFVEFQqvp6bEO6v4OA2NlG3nlihKAPZzK3g-WL9TMo1x8p32UPe91ydgiSUe0Bic75FxlXL-MqsI8fwXiFpe69NC57noec"/>
+<div>
+<p class="font-bold text-navy">Sarah Chen, RMT</p>
+<p class="text-primary text-[10px] uppercase font-bold tracking-widest">Clinical Director &amp; Lead Therapist</p>
+</div>
+</div>
+</div>
+</section>
+<section class="px-6 pb-40 text-center">
+<h3 class="text-navy text-xl mb-4 font-heading">Ready for relief?</h3>
+<p class="text-body-text/70 text-sm mb-8 font-sans">Appointments available this week in our downtown studio.</p>
+<div class="flex flex-col gap-4">
+<div class="bg-white py-4 rounded-xl border border-primary/10 flex items-center justify-center gap-2">
+<span class="material-symbols-outlined text-primary text-sm">schedule</span>
+<span class="text-xs font-bold text-navy uppercase tracking-widest font-sans">60 Min Sessions — $110</span>
+</div>
+</div>
+</section>
+</main>
+<div class="fixed bottom-0 left-0 right-0 p-4 z-[100] ios-blur bg-light-blue/20">
+<div class="max-w-md mx-auto">
+<button class="w-full bg-primary text-white py-4 rounded-2xl shadow-2xl flex items-center justify-between px-6 active:scale-95 transition-all">
+<div class="flex flex-col items-start">
+<span class="text-[10px] font-bold uppercase tracking-widest text-white/80">Clinically Proven Relief</span>
+<span class="text-sm font-bold">Book Massage Appointment</span>
+</div>
+<div class="w-10 h-10 bg-white/20 rounded-xl flex items-center justify-center">
+<span class="material-symbols-outlined">calendar_month</span>
+</div>
+</button>
+<div class="h-4 safe-area-bottom"></div>
+</div>
+</div>
+<footer class="bg-navy text-white/40 px-6 py-16 pb-40 text-center">
+<div class="font-heading font-black text-white text-xl mb-4 tracking-tighter uppercase">Sync Massage Therapy</div>
+<p class="text-[10px] uppercase tracking-widest mb-8">© 2024 Clinical Excellence Guaranteed.</p>
+<div class="flex justify-center gap-6 text-white/60">
+<span class="material-symbols-outlined">share</span>
+<span class="material-symbols-outlined">mail</span>
+<span class="material-symbols-outlined">call</span>
+</div>
+</footer>
+
+</body></html>

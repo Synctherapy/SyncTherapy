@@ -1,9 +1,12 @@
 ---
-title: "Red Light Therapy for Eyesight &amp; AMD (2026 Safety Guide)"
-date: "2024-06-25 15:30:53"
-slug: "red-light-therapy-and-eye-health"
-description: ""
-seoTitle: ""
+title: Red Light Therapy for Eyesight &amp; AMD (2026 Safety Guide)
+date: '2024-06-25 15:30:53'
+slug: red-light-therapy-and-eye-health
+description: >-
+  /* Custom styles based on the template */ body { font-family: 'Inter',
+  sans-serif; background-color: #F4F7F5; color: #333333; } html {
+  scroll-behavior: smooth;...
+seoTitle: Red Light Therapy for Eyesight &amp; AMD (2026 Safety Guide)
 ---
 
 <!-- wp:html -->
@@ -710,12 +713,12 @@ seoTitle: ""
                     <!-- Rouge G4 -->
                     <div class="product-column best-value">
                         <h3>Rouge G4 Tabletop</h3>
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/rouge-tabletop-g4-678166.webp" alt="Rouge G4 red light therapy panel for eyes" class="rounded-lg shadow-sm w-full mb-4">
+                        <img src="/uploads/2025/06/rouge-tabletop-g4-678166.webp" alt="Rouge G4 red light therapy panel for eyes" class="rounded-lg shadow-sm w-full mb-4">
                         
                         <!-- Rouge Video -->
                         <div class="mb-4" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 0.5rem;">
                             <video controls style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-                                <source src="https://synctherapylocal.local/wp-content/uploads/2025/12/red-light-therapy-for-dry-eyes.mp4" type="video/mp4">
+                                <source src="/uploads/2025/12/red-light-therapy-for-dry-eyes.mp4" type="video/mp4">
                                 Your browser does not support the video tag.
                             </video>
                         </div>
@@ -735,7 +738,7 @@ seoTitle: ""
                     <!-- HigherDose Face Mask -->
                     <div class="product-column">
                         <h3>HigherDOSE Red Light Face Mask</h3>
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/12/04_05f4cb2d-cf24-4bc2-8698-3ef59f55f75c.webp" alt="HigherDOSE red light therapy face mask for eye wrinkles" class="rounded-lg shadow-sm w-full mb-4">
+                        <img src="/uploads/2025/12/04_05f4cb2d-cf24-4bc2-8698-3ef59f55f75c.webp" alt="HigherDOSE red light therapy face mask for eye wrinkles" class="rounded-lg shadow-sm w-full mb-4">
                         <ul>
                             <li><i class="fas fa-star"></i><strong>Best For:</strong> Eye Wrinkles & Hands-Free Use</li>
                             <li><i class="fas fa-check-circle"></i>Wearable LED mask design</li>
@@ -752,12 +755,12 @@ seoTitle: ""
                     <!-- Kala Pro -->
                     <div class="product-column">
                         <h3>Kala Pro Panel</h3>
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/using-the-kala-red-light-device-that-is-approved-by-health-canada-for-pain_19da605e-aba2-4322-9b04-f1c19f04dd3a.webp" alt="Kala Pro red light therapy panel for eyes at home" class="rounded-lg shadow-sm w-full mb-4">
+                        <img src="/uploads/content/using-the-kala-red-light-device-that-is-approved-by-health-canada-for-pain_19da605e-aba2-4322-9b04-f1c19f04dd3a.webp" alt="Kala Pro red light therapy panel for eyes at home" class="rounded-lg shadow-sm w-full mb-4">
                         
                         <!-- Kala Video -->
                         <div class="mb-4" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 0.5rem;">
                             <video controls style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-                                <source src="https://synctherapylocal.local/wp-content/uploads/2025/12/red-light-therapy-for-eyes-at-home.mp4" type="video/mp4">
+                                <source src="/uploads/2025/12/red-light-therapy-for-eyes-at-home.mp4" type="video/mp4">
                                 Your browser does not support the video tag.
                             </video>
                         </div>

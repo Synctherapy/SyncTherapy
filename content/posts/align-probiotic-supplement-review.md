@@ -1,9 +1,12 @@
 ---
-title: "Align Probiotic Review 2026- Should You Even Bother Trying it?"
-date: "2023-06-16 05:06:49"
-slug: "align-probiotic-supplement-review"
-description: ""
-seoTitle: ""
+title: Align Probiotic Review 2026- Should You Even Bother Trying it?
+date: '2023-06-16 05:06:49'
+slug: align-probiotic-supplement-review
+description: >-
+  /* Custom styles based on the new design template */ body { font-family:
+  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
+  #333333; /*...
+seoTitle: Align Probiotic Review 2026- Should You Even Bother Trying it?
 ---
 
 <!-- wp:html -->

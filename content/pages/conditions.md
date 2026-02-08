@@ -1,9 +1,12 @@
 ---
-title: "Conditions"
-date: "2025-06-26 05:25:01"
-slug: "conditions"
-description: ""
-seoTitle: ""
+title: Conditions
+date: '2025-06-26 05:25:01'
+slug: conditions
+description: >-
+  body { font-family: Arial, Helvetica, sans-serif; } .animate-pulse {
+  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite; } @keyframes pulse
+  { 0%, 100% {...
+seoTitle: Conditions
 ---
 
 <!-- wp:html -->

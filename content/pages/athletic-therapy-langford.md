@@ -1,9 +1,12 @@
 ---
-title: "Athletic Therapy Langford"
-date: "2025-07-03 00:30:49"
-slug: "athletic-therapy-langford"
-description: ""
-seoTitle: ""
+title: Athletic Therapy Langford
+date: '2025-07-03 00:30:49'
+slug: athletic-therapy-langford
+description: >-
+  { "@context": "https://schema.org", "@type": "BreadcrumbList",
+  "itemListElement": [ { "@type": "ListItem", "position": 1, "name": "Home",
+  "item":...
+seoTitle: Athletic Therapy Langford
 ---
 
 <!-- wp:html -->
@@ -193,7 +196,7 @@ seoTitle: ""
                         ⚠️ Booking Fast!
                     </span>
                 </div>
-                <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" 
+                <img src="/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" 
                      alt="Athletic Therapist Langford BC - Professional athletic therapy treatment room at Sync Therapy in Langford featuring modern rehabilitation equipment, treatment table, and therapeutic tools for sports injury recovery - find athletic therapist near me Langford" 
                      style="width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
             </div>

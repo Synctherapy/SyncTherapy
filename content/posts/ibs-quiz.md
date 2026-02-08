@@ -1,9 +1,12 @@
 ---
-title: "Free IBS Quiz (14 Questions): Assess Your Symptoms in 3 Mins"
-date: "2025-07-12 17:41:15"
-slug: "ibs-quiz"
-description: ""
-seoTitle: ""
+title: 'Free IBS Quiz (14 Questions): Assess Your Symptoms in 3 Mins'
+date: '2025-07-12 17:41:15'
+slug: ibs-quiz
+description: >-
+  /* Global & Main Article Styles */ * { margin: 0; padding: 0; box-sizing:
+  border-box; } body { font-family: 'Inter', sans-serif; background-color:
+  #F4F7F5; /*...
+seoTitle: 'Free IBS Quiz (14 Questions): Assess Your Symptoms in 3 Mins'
 ---
 
 <!-- wp:html -->
@@ -365,7 +368,7 @@ seoTitle: ""
             <h2 class="text-3xl font-bold">IBS vs. IBD: How to Tell the Difference</h2>
             <div class="bg-white p-8 rounded-lg shadow-md space-y-6">
                 <p>Though they sound similar and share symptoms like pain and unpredictable bowel movements, IBS and IBD are fundamentally different. Understanding these differences is key to getting the right help. The main distinction lies in the physical impact on your gut and the underlying cause, which is often related to the gut-brain axis. This quiz can also help you start to differentiate if your symptoms lean more towards functional issues like IBS or might require investigation for conditions like IBD, endometriosis, or lactose intolerance.</p>
-                <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/a-woman-wanting-to-take-a-ibs-symptoms-female-quiz-to-understand-her-stomach-pains-.webp" alt="A woman considering taking an IBS symptoms female quiz to understand her stomach pains and bloating." class="rounded-lg shadow-sm my-6">
+                <img src="/uploads/2025/07/a-woman-wanting-to-take-a-ibs-symptoms-female-quiz-to-understand-her-stomach-pains-.webp" alt="A woman considering taking an IBS symptoms female quiz to understand her stomach pains and bloating." class="rounded-lg shadow-sm my-6">
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-6">
                     <div>
                         <h3 class="text-2xl font-bold mb-3">Irritable Bowel Syndrome (IBS)</h3>
@@ -392,7 +395,7 @@ seoTitle: ""
             <h2 class="text-3xl font-bold">The SIBO and IBS Link: What's the Connection?</h2>
             <div class="bg-white p-8 rounded-lg shadow-md space-y-6">
                 <p>If you have IBS-like symptoms, especially bloating, it's worth knowing about SIBO. Research shows a significant overlap: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5347643/" target="_blank" rel="noopener noreferrer" class="text-primary font-semibold hover:underline">up to 78% of people diagnosed with IBS may also have SIBO</a> (Small Intestinal Bacterial Overgrowth).</p>
-                <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/a-woman-wanting-to-try-a-IBS-quiz-to-see-if-she-has-ibs-or-ibd-.webp" alt="A woman using a laptop to take an IBS quiz to see if her symptoms point to IBS or IBD." class="rounded-lg shadow-sm my-6">
+                <img src="/uploads/2025/07/a-woman-wanting-to-try-a-IBS-quiz-to-see-if-she-has-ibs-or-ibd-.webp" alt="A woman using a laptop to take an IBS quiz to see if her symptoms point to IBS or IBD." class="rounded-lg shadow-sm my-6">
                 <h3 class="font-bold text-primary"><i class="fas fa-bacteria mr-2"></i>What is the link? It often starts with food poisoning.</h3>
                 <ol class="list-decimal list-inside space-y-2 mt-4">
                     <li><strong>The Trigger:</strong> You get a bout of gastroenteritis (food poisoning).</li>

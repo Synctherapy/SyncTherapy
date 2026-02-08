@@ -1,9 +1,12 @@
 ---
-title: "Viome vs Seed (2025): Viome Alternatives"
-date: "2025-07-21 02:05:23"
-slug: "viome-vs-seed"
-description: ""
-seoTitle: ""
+title: 'Viome vs Seed (2025): Viome Alternatives'
+date: '2025-07-21 02:05:23'
+slug: viome-vs-seed
+description: >-
+  /* Custom styles based on the design template */ body { font-family: 'Inter',
+  sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color: #333333;
+  /*...
+seoTitle: 'Viome vs Seed (2025): Viome Alternatives'
 ---
 
 <!-- wp:html -->
@@ -169,7 +172,7 @@ seoTitle: ""
                 <div class="grid md:grid-cols-2 gap-6 text-center">
                     <!-- Seed Top Pick -->
                     <div class="border border-gray-200 p-4 rounded-lg flex flex-col">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/trying-viome-a-seed-probiotic-alternative-.jpg" alt="Seed DS-01 welcome kit with its glass jar and travel vial." class="rounded-lg shadow-sm w-full mb-4" loading="lazy" decoding="async" width="1000" height="1000" onerror="this.onerror=null;this.src='https://placehold.co/800x800/2E5A88/ffffff?text=Seed+DS-01';">
+                        <img src="/uploads/2025/07/trying-viome-a-seed-probiotic-alternative-.jpg" alt="Seed DS-01 welcome kit with its glass jar and travel vial." class="rounded-lg shadow-sm w-full mb-4" loading="lazy" decoding="async" width="1000" height="1000" onerror="this.onerror=null;this.src='https://placehold.co/800x800/2E5A88/ffffff?text=Seed+DS-01';">
                         <div class="flex-grow">
                             <h3 class="text-xl font-bold text-primary">Seed DS-01 Synbiotic</h3>
                             <p class="font-semibold text-accent mb-2">Best for Proven Wellness</p>
@@ -179,7 +182,7 @@ seoTitle: ""
                     </div>
                     <!-- Viome Top Pick -->
                      <div class="border border-gray-200 p-4 rounded-lg flex flex-col">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/Viome-vs-Seed-review-.webp" alt="Viome's at-home gut intelligence test kit and personalized supplements." class="rounded-lg shadow-sm w-full mb-4" loading="lazy" decoding="async" width="800" height="800" onerror="this.onerror=null;this.src='https://placehold.co/800x800/6c4de5/ffffff?text=Viome+Program';">
+                        <img src="/uploads/2025/07/Viome-vs-Seed-review-.webp" alt="Viome's at-home gut intelligence test kit and personalized supplements." class="rounded-lg shadow-sm w-full mb-4" loading="lazy" decoding="async" width="800" height="800" onerror="this.onerror=null;this.src='https://placehold.co/800x800/6c4de5/ffffff?text=Viome+Program';">
                         <div class="flex-grow">
                             <h3 class="text-xl font-bold text-primary">Viome Personalized Program</h3>
                             <p class="font-semibold text-accent mb-2">Best for Deep Personalization</p>
@@ -258,7 +261,7 @@ seoTitle: ""
                 <div class="grid md:grid-cols-2 gap-6 text-center">
                     <!-- Seed Discount -->
                     <div class="bg-green-50 border border-green-200 p-4 rounded-lg flex flex-col items-center justify-center">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/seed-probiotic-logo.jpg" alt="Seed Logo" class="rounded-lg h-24 w-auto mb-3" onerror="this.onerror=null;this.src='https://placehold.co/150x80/16a34a/ffffff?text=SEED';">
+                        <img src="/uploads/2025/07/seed-probiotic-logo.jpg" alt="Seed Logo" class="rounded-lg h-24 w-auto mb-3" onerror="this.onerror=null;this.src='https://placehold.co/150x80/16a34a/ffffff?text=SEED';">
                         <h3 class="text-xl font-bold text-primary">Save on Seed</h3>
                         <p class="text-gray-600 text-sm mb-3">Use our exclusive code for a big discount on the <a class="wpil_keyword_link" href="https://synctherapylocal.local/best-probiotic-strains/"   title="best probiotic" data-wpil-keyword-link="linked"  data-wpil-monitor-id="7947">best probiotic</a> for general wellness.</p>
                         <p class="text-2xl font-bold text-green-700">25% OFF</p>
@@ -269,7 +272,7 @@ seoTitle: ""
                     </div>
                     <!-- Viome Discount -->
                      <div class="bg-purple-50 border border-purple-200 p-4 rounded-lg flex flex-col items-center justify-center">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/viome-gut-microbiome-testing-logo-.png" alt="Viome Logo" class="rounded-lg h-24 w-auto mb-3" onerror="this.onerror=null;this.src='https://placehold.co/150x80/6c4de5/ffffff?text=VIOME';">
+                        <img src="/uploads/2025/07/viome-gut-microbiome-testing-logo-.png" alt="Viome Logo" class="rounded-lg h-24 w-auto mb-3" onerror="this.onerror=null;this.src='https://placehold.co/150x80/6c4de5/ffffff?text=VIOME';">
                         <h3 class="text-xl font-bold text-primary">Save on Viome</h3>
                         <p class="text-gray-600 text-sm mb-3">Get a major discount on Viome's advanced testing or a recurring discount on subscriptions.</p>
                         <p class="text-2xl font-bold text-purple-700">$110 OFF Tests</p>
@@ -305,7 +308,7 @@ seoTitle: ""
                 <h2 class="text-3xl font-bold">Deep Dive: Seed DS-01 Daily Synbiotic</h2>
                 <div class="bg-white p-6 rounded-lg shadow-md border-t-4 border-accent space-y-6">
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/comparing-seed-probiotics-with-the-alternative-viome.jpg" alt="A detailed look at the Seed DS-01 Daily Synbiotic, showcasing its premium packaging." class="rounded-lg shadow-sm w-full" loading="lazy" decoding="async" onerror="this.onerror=null;this.src='https://placehold.co/800x600/2E5A88/ffffff?text=Seed+DS-01';">
+                        <img src="/uploads/2025/07/comparing-seed-probiotics-with-the-alternative-viome.jpg" alt="A detailed look at the Seed DS-01 Daily Synbiotic, showcasing its premium packaging." class="rounded-lg shadow-sm w-full" loading="lazy" decoding="async" onerror="this.onerror=null;this.src='https://placehold.co/800x600/2E5A88/ffffff?text=Seed+DS-01';">
                         <div>
                             <h3 class="text-2xl font-bold">A Formula for Systemic Health</h3>
                              <p class="text-accent font-semibold mb-4">The Gold Standard for Scientific Wellness</p>
@@ -325,7 +328,7 @@ seoTitle: ""
                 <h2 class="text-3xl font-bold">Deep Dive: The Viome Personalized Platform</h2>
                 <div class="bg-white p-6 rounded-lg shadow-md border-t-4 border-accent space-y-6">
                      <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/viome-alternatives-would-be-seed-probiotics-for-gut-health-.webp" alt="Diagram showing Viome's process from testing to personalized recommendations." class="rounded-lg shadow-sm w-full" loading="lazy" decoding="async" onerror="this.onerror=null;this.src='https://placehold.co/800x600/6c4de5/ffffff?text=Viome+Process';">
+                        <img src="/uploads/2025/07/viome-alternatives-would-be-seed-probiotics-for-gut-health-.webp" alt="Diagram showing Viome's process from testing to personalized recommendations." class="rounded-lg shadow-sm w-full" loading="lazy" decoding="async" onerror="this.onerror=null;this.src='https://placehold.co/800x600/6c4de5/ffffff?text=Viome+Process';">
                         <div>
                             <h3 class="text-2xl font-bold">Technology-First Personalization</h3>
                              <p class="text-accent font-semibold mb-4">Decoding Your Unique Biology</p>

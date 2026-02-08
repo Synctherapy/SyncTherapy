@@ -1,9 +1,12 @@
 ---
-title: "How Massage Therapy Helps Langford Desk Workers Combat Neck &amp; Back Pain"
-date: "2025-07-31 17:56:39"
-slug: "massage-therapy-desk-workers-langford"
-description: ""
-seoTitle: ""
+title: How Massage Therapy Helps Langford Desk Workers Combat Neck &amp; Back Pain
+date: '2025-07-31 17:56:39'
+slug: massage-therapy-desk-workers-langford
+description: >-
+  /* Custom styles based on the new design template */ body { font-family:
+  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
+  #333333; /*...
+seoTitle: How Massage Therapy Helps Langford Desk Workers Combat Neck &amp; Back Pain
 ---
 
 <!-- wp:html -->

@@ -1,9 +1,12 @@
 ---
-title: "HigherDOSE Red Light Face Mask Review: Is It Worth The Price?"
-date: "2024-07-23 07:00:00"
-slug: "higherdose-face-mask-review"
-description: ""
-seoTitle: ""
+title: 'HigherDOSE Red Light Face Mask Review: Is It Worth The Price?'
+date: '2024-07-23 07:00:00'
+slug: higherdose-face-mask-review
+description: >-
+  body { font-family: 'Inter', sans-serif; background-color: #F4F7F5; color:
+  #333333; } html { scroll-behavior: smooth; } .bg-primary {
+  background-color:...
+seoTitle: 'HigherDOSE Red Light Face Mask Review: Is It Worth The Price?'
 ---
 
 <!-- wp:html -->
@@ -299,7 +302,7 @@ seoTitle: ""
             <p class="text-accent font-semibold mb-4">Editor's Choice for Anti-Aging & Skin Rejuvenation</p>
             <div class="grid md:grid-cols-2 gap-8">
                 <div>
-                    <img src="https://synctherapylocal.local/wp-content/uploads/2025/12/higherdose-red-light-therapy-mask.webp" onerror="https://synctherapylocal.local/wp-content/uploads/2025/12/higherdose-red-light-therapy-mask.webp" alt="HigherDOSE Red Light Face Mask review - best LED mask for anti-aging" class="rounded-lg shadow-sm w-full h-auto object-cover">
+                    <img src="/uploads/2025/12/higherdose-red-light-therapy-mask.webp" onerror="/uploads/2025/12/higherdose-red-light-therapy-mask.webp" alt="HigherDOSE Red Light Face Mask review - best LED mask for anti-aging" class="rounded-lg shadow-sm w-full h-auto object-cover">
                     <div class="mt-4 text-center">
                         <div class="text-4xl font-bold text-primary">4.5<span class="text-2xl text-gray-400">/5</span></div>
                         <div class="rating-stars text-xl">

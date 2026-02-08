@@ -1,9 +1,12 @@
 ---
-title: "Red Light Therapy for Horses (2026): Tendon & Muscle Recovery"
-date: "2024-06-25 15:49:41"
-slug: "red-light-therapy-for-horses"
-description: ""
-seoTitle: ""
+title: 'Red Light Therapy for Horses (2026): Tendon & Muscle Recovery'
+date: '2024-06-25 15:49:41'
+slug: red-light-therapy-for-horses
+description: >-
+  Introduction: Illuminating a Path to Optimal Equine Health In the world of
+  elite equine care, the margin between a good performance and a great one often
+  lies...
+seoTitle: 'Red Light Therapy for Horses (2026): Tendon & Muscle Recovery'
 ---
 
 <!-- wp:heading -->

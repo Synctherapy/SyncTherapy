@@ -1,9 +1,12 @@
 ---
-title: "Best Probiotic for Acid Reflux & Best Supplements For Acid Reflux"
-date: "2023-10-30 22:37:36"
-slug: "best-probiotic-for-acid-reflux"
-description: ""
-seoTitle: ""
+title: Best Probiotic for Acid Reflux & Best Supplements For Acid Reflux
+date: '2023-10-30 22:37:36'
+slug: best-probiotic-for-acid-reflux
+description: >-
+  /* Custom styles based on the new design template */ body { font-family:
+  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
+  #333333; /*...
+seoTitle: Best Probiotic for Acid Reflux & Best Supplements For Acid Reflux
 ---
 
 <!-- wp:html -->
@@ -179,7 +182,7 @@ seoTitle: ""
                             <!-- MegaGuard Row -->
                             <tr>
                                 <td>
-                                    <img src="https://synctherapylocal.local/wp-content/uploads/content/megaguard-as-a-supplement-for-stomach-acid.jpg" onerror="this.onerror=null;this.src='https://placehold.co/100x100/CCCCCC/333333?text=MegaGuard';" alt="MegaGuard Supplement">
+                                    <img src="/uploads/content/megaguard-as-a-supplement-for-stomach-acid.jpg" onerror="this.onerror=null;this.src='https://placehold.co/100x100/CCCCCC/333333?text=MegaGuard';" alt="MegaGuard Supplement">
                                     <span class="font-bold text-primary">MegaGuard</span>
                                 </td>
                                 <td>
@@ -193,7 +196,7 @@ seoTitle: ""
                             <!-- Seed DS-01 Row -->
                             <tr>
                                 <td>
-                                    <img src="https://synctherapylocal.local/wp-content/uploads/content/seed-probiotics-for-stomach-acid.png" onerror="this.onerror=null;this.src='https://placehold.co/100x100/CCCCCC/333333?text=Seed';" alt="Seed DS-01 Supplement">
+                                    <img src="/uploads/content/seed-probiotics-for-stomach-acid.png" onerror="this.onerror=null;this.src='https://placehold.co/100x100/CCCCCC/333333?text=Seed';" alt="Seed DS-01 Supplement">
                                     <span class="font-bold text-primary">Seed DS-01</span>
                                 </td>
                                 <td>
@@ -207,7 +210,7 @@ seoTitle: ""
                             <!-- PyloGuard Row -->
                             <tr>
                                 <td>
-                                    <img src="https://synctherapylocal.local/wp-content/uploads/content/pyloguard-is-a-supplement-for-h-pylori-infection-and-GERD.png" onerror="this.onerror=null;this.src='https://placehold.co/100x100/CCCCCC/333333?text=PyloGuard';" alt="PyloGuard Supplement">
+                                    <img src="/uploads/content/pyloguard-is-a-supplement-for-h-pylori-infection-and-GERD.png" onerror="this.onerror=null;this.src='https://placehold.co/100x100/CCCCCC/333333?text=PyloGuard';" alt="PyloGuard Supplement">
                                     <span class="font-bold text-primary">PyloGuard</span>
                                 </td>
                                 <td>
@@ -232,7 +235,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold flex items-center">1. Microbiome Labs MegaGuard <span class="ml-4 text-lg text-accent"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half-alt"></i></span></h3>
                     <p class="text-accent font-semibold mb-4">Best Overall Supplement for Acid Reflux, GERD, and H. Pylori</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/megaguard-as-a-supplement-for-stomach-acid.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=MegaGuard';" alt="MegaGuard supplement bottle" class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/megaguard-as-a-supplement-for-stomach-acid.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=MegaGuard';" alt="MegaGuard supplement bottle" class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">MegaGuard is our top choice for its unique blend of licorice, artichoke, and ginger extracts. This powerful combination works synergistically to regulate stomach acid, improve digestion, and reduce discomforts like gas and bloating.</p>
                             <blockquote class="border-l-4 border-primary pl-4 italic my-4">"After two weeks on MegaGuard, my nightly heartburn is finally gone. It's been a game-changer." - Sarah K.</blockquote>
@@ -252,7 +255,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold flex items-center">2. Microbiome Labs PyloGuard <span class="ml-4 text-lg text-accent"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half-alt"></i></span></h3>
                     <p class="text-accent font-semibold mb-4">Best for GERD and H. Pylori Infections</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/pyloguard-is-a-supplement-for-h-pylori-infection-and-GERD.png" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=PyloGuard';" alt="PyloGuard supplement bottle" class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/pyloguard-is-a-supplement-for-h-pylori-infection-and-GERD.png" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=PyloGuard';" alt="PyloGuard supplement bottle" class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">PyloGuard is a targeted probiotic featuring <strong>Lactobacillus reuteri DSM17648</strong>. This specific strain is clinically shown to bind to H. pylori bacteria in the stomach, helping to remove it from the gut. It's an excellent choice if you suspect H. pylori is a factor in your digestive issues.</p>
                             <ul class="list-disc list-inside space-y-2 mb-4">
@@ -271,7 +274,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold flex items-center">3. Seed DS-01® Daily Synbiotic <span class="ml-4 text-lg text-accent"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></span></h3>
                     <p class="text-accent font-semibold mb-4">Best Probiotic Blend with Researched Strains</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/seed-probiotics-for-stomach-acid.png" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Seed+DS-01';" alt="Seed DS-01 Daily Synbiotic supplement bottle." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/seed-probiotics-for-stomach-acid.png" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Seed+DS-01';" alt="Seed DS-01 Daily Synbiotic supplement bottle." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">Seed DS-01 is a synbiotic containing multiple research-supported strains, including <strong>Lactiplantibacillus plantarum</strong> and <strong>Bifidobacterium lactis</strong>. Its advanced capsule technology protects the probiotics from stomach acid, making it a very strong candidate for acid reflux support.</p>
                              <ul class="list-disc list-inside space-y-2 mb-4">

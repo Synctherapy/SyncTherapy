@@ -1,9 +1,12 @@
 ---
-title: "2026 Red Light Therapy Cost Pricing Guide for Sessions &amp; Devices"
-date: "2024-02-27 08:00:00"
-slug: "red-light-therapy-costs"
-description: ""
-seoTitle: ""
+title: 2026 Red Light Therapy Cost Pricing Guide for Sessions &amp; Devices
+date: '2024-02-27 08:00:00'
+slug: red-light-therapy-costs
+description: >-
+  body { font-family: 'Inter', sans-serif; background-color: #F4F7F5; color:
+  #333333; } html { scroll-behavior: smooth; } .bg-primary {
+  background-color:...
+seoTitle: 2026 Red Light Therapy Cost Pricing Guide for Sessions &amp; Devices
 ---
 
 <!-- wp:html -->
@@ -144,7 +147,7 @@ seoTitle: ""
     "url": "https://synctherapylocal.local/",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://synctherapylocal.local/wp-content/uploads/2025/07/cropped-sync-therapy-favicon-192x192.png"
+      "url": "/uploads/2025/07/cropped-sync-therapy-favicon-192x192.png"
     }
   },
   "mainEntityOfPage": {
@@ -277,7 +280,7 @@ seoTitle: ""
 
         <!-- First Image -->
         <div class="my-6">
-            <img src="https://synctherapylocal.local/wp-content/uploads/2026/01/red-light-therapy-cost.png" alt="Red light therapy cost breakdown showing session prices and device costs" class="rounded-lg shadow-md w-full max-w-2xl mx-auto">
+            <img src="/uploads/2026/01/red-light-therapy-cost.png" alt="Red light therapy cost breakdown showing session prices and device costs" class="rounded-lg shadow-md w-full max-w-2xl mx-auto">
         </div>
 
         <!-- Quick Cost Summary -->
@@ -530,7 +533,7 @@ seoTitle: ""
 
         <!-- Second Image -->
         <div class="my-6">
-            <img src="https://synctherapylocal.local/wp-content/uploads/2026/01/red-light-therapy-price.png" alt="Red light therapy price comparison chart for at-home vs professional treatments" class="rounded-lg shadow-md w-full max-w-2xl mx-auto">
+            <img src="/uploads/2026/01/red-light-therapy-price.png" alt="Red light therapy price comparison chart for at-home vs professional treatments" class="rounded-lg shadow-md w-full max-w-2xl mx-auto">
         </div>
 
         <!-- Cost Comparison ROI -->
@@ -966,7 +969,7 @@ seoTitle: ""
 
         <!-- Third Image -->
         <div class="my-6">
-            <img src="https://synctherapylocal.local/wp-content/uploads/2026/01/the-cost-of-red-light-therapy-.png" alt="The cost of red light therapy infographic showing ROI of at-home devices vs clinic sessions" class="rounded-lg shadow-md w-full max-w-2xl mx-auto">
+            <img src="/uploads/2026/01/the-cost-of-red-light-therapy-.png" alt="The cost of red light therapy infographic showing ROI of at-home devices vs clinic sessions" class="rounded-lg shadow-md w-full max-w-2xl mx-auto">
         </div>
 
         <!-- Why So Expensive -->

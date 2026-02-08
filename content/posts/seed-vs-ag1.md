@@ -1,9 +1,12 @@
 ---
-title: "Seed vs AG1 (2026): Which Synbiotic is Better for Your Health?"
-date: "2025-07-02 23:33:27"
-slug: "seed-vs-ag1"
-description: ""
-seoTitle: ""
+title: 'Seed vs AG1 (2026): Which Synbiotic is Better for Your Health?'
+date: '2025-07-02 23:33:27'
+slug: seed-vs-ag1
+description: >-
+  /* Custom styles based on the new design template */ body { font-family:
+  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
+  #333333; /*...
+seoTitle: 'Seed vs AG1 (2026): Which Synbiotic is Better for Your Health?'
 ---
 
 <!-- wp:html -->
@@ -159,7 +162,7 @@ seoTitle: ""
                 <div class="grid md:grid-cols-2 gap-6 text-center">
                     <!-- Seed Top Pick -->
                     <div class="border border-gray-200 p-4 rounded-lg flex flex-col">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/seed-probiotics-canada-promo-code_1000x-1.webp" alt="Seed DS-01 vs AG1: The Seed probiotic welcome kit with its glass jar and travel vial." class="rounded-lg shadow-sm w-full mb-4" loading="lazy" decoding="async" width="1000" height="1000">
+                        <img src="/uploads/2025/07/seed-probiotics-canada-promo-code_1000x-1.webp" alt="Seed DS-01 vs AG1: The Seed probiotic welcome kit with its glass jar and travel vial." class="rounded-lg shadow-sm w-full mb-4" loading="lazy" decoding="async" width="1000" height="1000">
                         <div class="flex-grow">
                             <h3 class="text-xl font-bold text-primary">Seed DS-01 Synbiotic</h3>
                             <p class="font-semibold text-accent mb-2">Best for Gut Health</p>
@@ -172,7 +175,7 @@ seoTitle: ""
                     </div>
                     <!-- AG1 Top Pick -->
                      <div class="border border-gray-200 p-4 rounded-lg flex flex-col">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/ag1-vs-seed-probiotic.jpg" alt="AG1 vs Seed: The AG1 welcome kit, also known as Athletic Greens, with its pouch and canister." class="rounded-lg shadow-sm w-full mb-4" loading="lazy" decoding="async" width="800" height="600">
+                        <img src="/uploads/2025/07/ag1-vs-seed-probiotic.jpg" alt="AG1 vs Seed: The AG1 welcome kit, also known as Athletic Greens, with its pouch and canister." class="rounded-lg shadow-sm w-full mb-4" loading="lazy" decoding="async" width="800" height="600">
                         <div class="flex-grow">
                             <h3 class="text-xl font-bold text-primary">AG1 (Athletic Greens)</h3>
                             <p class="font-semibold text-accent mb-2">Best All-in-One Formula</p>
@@ -218,7 +221,7 @@ seoTitle: ""
                             <p class="text-sm text-gray-600">Both support immunity via gut health, but <strong>AG1</strong> adds key immune-boosters like Vitamin C, Zinc, and medicinal mushrooms.</p>
                         </div>
                     </div>
-                    <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/testing-seed-vs-ag1-in-canada-on-what-is-better-for-gut-health.jpg" alt="A person holding both Seed and AG1 products to compare seed probiotics vs ag1." class="rounded-lg shadow-lg w-full" loading="lazy" decoding="async" width="800" height="600">
+                    <img src="/uploads/2025/07/testing-seed-vs-ag1-in-canada-on-what-is-better-for-gut-health.jpg" alt="A person holding both Seed and AG1 products to compare seed probiotics vs ag1." class="rounded-lg shadow-lg w-full" loading="lazy" decoding="async" width="800" height="600">
                 </div>
             </section>
 
@@ -316,7 +319,7 @@ seoTitle: ""
                 <h2 class="text-3xl font-bold">Understanding Seed DS-01 Daily Synbiotic</h2>
                 <div class="bg-white p-6 rounded-lg shadow-md border-t-4 border-accent">
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/seed-probiotics-canada-promo-code_1000x-1.webp" alt="A detailed look at the Seed DS-01 Daily Synbiotic in a comparison of seed ds 01 vs ag1." class="rounded-lg shadow-sm w-full" loading="lazy" decoding="async" width="1000" height="1000">
+                        <img src="/uploads/2025/07/seed-probiotics-canada-promo-code_1000x-1.webp" alt="A detailed look at the Seed DS-01 Daily Synbiotic in a comparison of seed ds 01 vs ag1." class="rounded-lg shadow-sm w-full" loading="lazy" decoding="async" width="1000" height="1000">
                         <div>
                             <h3 class="text-2xl font-bold">A Deep Dive into Seed</h3>
                              <p class="text-accent font-semibold mb-4">Best for Targeted Gut Health</p>
@@ -346,7 +349,7 @@ seoTitle: ""
                 <h2 class="text-3xl font-bold">Exploring The AG1 Formula</h2>
                 <div class="bg-white p-6 rounded-lg shadow-md border-t-4 border-accent">
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/ag1-vs-seed-probiotic.jpg" alt="A detailed look at the AG1 (Athletic Greens) formula in a comparison of ag1 vs seed probiotics." class="rounded-lg shadow-sm w-full" loading="lazy" decoding="async" width="800" height="600">
+                        <img src="/uploads/2025/07/ag1-vs-seed-probiotic.jpg" alt="A detailed look at the AG1 (Athletic Greens) formula in a comparison of ag1 vs seed probiotics." class="rounded-lg shadow-sm w-full" loading="lazy" decoding="async" width="800" height="600">
                         <div>
                             <h3 class="text-2xl font-bold">An Introduction to AG1</h3>
                              <p class="text-accent font-semibold mb-4">Best for All-in-One Nutrition</p>
@@ -396,7 +399,7 @@ seoTitle: ""
                 </div>
             </section>
             
-            <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/seed-probiotic-vs-athletic-greens-.jpg" alt="A side-by-side visual comparison showing the differences between Seed and Athletic Greens." class="rounded-lg shadow-lg w-full" loading="lazy" decoding="async" width="800" height="600">
+            <img src="/uploads/2025/07/seed-probiotic-vs-athletic-greens-.jpg" alt="A side-by-side visual comparison showing the differences between Seed and Athletic Greens." class="rounded-lg shadow-lg w-full" loading="lazy" decoding="async" width="800" height="600">
 
             <!-- FAQ Section -->
             <section id="faq">
@@ -440,7 +443,7 @@ seoTitle: ""
                 </div>
             </section>
             
-            <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/testing-seed-and-ag1.jpg" alt="A person preparing to take their daily supplement, comparing seed vs athletic greens." class="rounded-lg shadow-lg w-full" loading="lazy" decoding="async" width="800" height="600">
+            <img src="/uploads/2025/07/testing-seed-and-ag1.jpg" alt="A person preparing to take their daily supplement, comparing seed vs athletic greens." class="rounded-lg shadow-lg w-full" loading="lazy" decoding="async" width="800" height="600">
 
 
             <!-- Final CTA Section -->

@@ -1,9 +1,12 @@
 ---
-title: "Our RMT"
-date: "2025-06-21 18:46:12"
-slug: "rmt-daryl-stubbs"
-description: ""
-seoTitle: ""
+title: Our RMT
+date: '2025-06-21 18:46:12'
+slug: rmt-daryl-stubbs
+description: >-
+  :root { --primary: #2E5A88; --secondary: #86BBD8; --accent: #F5B82E;
+  --accent-hover: #E5A71E; } * { margin: 0; padding: 0; box-sizing: border-box;
+  } body {...
+seoTitle: Our RMT
 ---
 
 <!-- wp:html -->
@@ -402,7 +405,7 @@ seoTitle: ""
                 <div class="card sticky">
                     <div class="card-content">
                         <!-- Professional Headshot -->
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" alt="Daryl Stubbs, Registered Massage Therapist" class="profile-image">
+                        <img src="/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" alt="Daryl Stubbs, Registered Massage Therapist" class="profile-image">
                         
                         <!-- Quick Contact -->
                         <div style="margin-bottom: 1.5rem;">
@@ -651,7 +654,7 @@ seoTitle: ""
     ],
     "description": "Daryl Stubbs is a Registered Massage Therapist (RMT) serving Langford and Colwood, BC. With over 7 years of experience, he specializes in deep tissue massage, sports injury rehabilitation, and visceral manipulation.",
     "url": "https://synctherapylocal.local/about/daryl-stubbs-rmt",
-    "image": "https://synctherapylocal.local/wp-content/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg",
+    "image": "/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg",
     "email": "daryl@synctherapy.ca",
     "telephone": "+1-250-812-8698",
     "address": {

@@ -1,9 +1,12 @@
 ---
-title: "GDPR Cookie Policy"
-date: "2024-08-07 06:43:30"
-slug: "gdpr-cookie-policy"
-description: ""
-seoTitle: ""
+title: GDPR Cookie Policy
+date: '2024-08-07 06:43:30'
+slug: gdpr-cookie-policy
+description: >-
+  What are cookies? How do we use cookies? What types of cookies do we use? What
+  are cookies? Cookies are often known as browser cookies or tracking
+  cookies....
+seoTitle: GDPR Cookie Policy
 ---
 
 

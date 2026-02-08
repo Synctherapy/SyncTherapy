@@ -1,9 +1,16 @@
 ---
-title: "Viome Gut Intelligence Test Review: In-Depth Viome Reviews & Personal Experience"
-date: "2023-06-27 03:44:03"
-slug: "viome-review"
-description: ""
-seoTitle: ""
+title: >-
+  Viome Gut Intelligence Test Review: In-Depth Viome Reviews & Personal
+  Experience
+date: '2023-06-27 03:44:03'
+slug: viome-review
+description: >-
+  /* Custom styles based on the new design template */ body { font-family:
+  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
+  #333333; /*...
+seoTitle: >-
+  Viome Gut Intelligence Test Review: In-Depth Viome Reviews & Personal
+  Experience
 ---
 
 <!-- wp:html -->
@@ -118,7 +125,7 @@ seoTitle: ""
       "itemReviewed": {
         "@type": "Product",
         "name": "Viome Gut Intelligence Test",
-        "image": "https://synctherapylocal.local/wp-content/uploads/content/A-close-up-of-the-Viome-gut-test-kit-contents-laid-out-on-a-kitchen-table-including-instructions-sample-collection-tubes-and-a-return-envelope_161f19b0-c66b-4126-9ba0-f6352a40060e.webp",
+        "image": "/uploads/content/A-close-up-of-the-Viome-gut-test-kit-contents-laid-out-on-a-kitchen-table-including-instructions-sample-collection-tubes-and-a-return-envelope_161f19b0-c66b-4126-9ba0-f6352a40060e.webp",
         "description": "An at-home gut microbiome test that provides personalized diet and supplement recommendations based on advanced RNA sequencing.",
         "brand": {
           "@type": "Brand",
@@ -258,7 +265,7 @@ seoTitle: ""
             </section>
             
             <div class="text-center my-8">
-                <img src="https://synctherapylocal.local/wp-content/uploads/content/a-doctor-showing-a-client-showing-multiple-reviews-of-Viomes-services-with-a-five-star-rating-and-positive-comments.jpg" onerror="this.onerror=null;this.src='https://placehold.co/800x400/CCCCCC/333333?text=Viome+Reviews';" alt="A doctor showing a client multiple positive reviews of Viome's services." class="rounded-lg shadow-lg w-full">
+                <img src="/uploads/content/a-doctor-showing-a-client-showing-multiple-reviews-of-Viomes-services-with-a-five-star-rating-and-positive-comments.jpg" onerror="this.onerror=null;this.src='https://placehold.co/800x400/CCCCCC/333333?text=Viome+Reviews';" alt="A doctor showing a client multiple positive reviews of Viome's services." class="rounded-lg shadow-lg w-full">
             </div>
 
             <!-- What is Viome? -->
@@ -271,7 +278,7 @@ seoTitle: ""
             </section>
             
             <div class="text-center my-8">
-                 <img src="https://synctherapylocal.local/wp-content/uploads/content/A-person-carefully-collecting-a-stool-sample-using-the-Viome-test-kit-with-the-instructions-booklet-visible-in-the-background_64f35c9a-7606-47d9-9e93-dd384f9e9d24.webp" onerror="this.onerror=null;this.src='https://placehold.co/800x400/CCCCCC/333333?text=Viome+Test+Kit';" alt="A person collecting a stool sample with the Viome test kit." class="rounded-lg shadow-lg w-full">
+                 <img src="/uploads/content/A-person-carefully-collecting-a-stool-sample-using-the-Viome-test-kit-with-the-instructions-booklet-visible-in-the-background_64f35c9a-7606-47d9-9e93-dd384f9e9d24.webp" onerror="this.onerror=null;this.src='https://placehold.co/800x400/CCCCCC/333333?text=Viome+Test+Kit';" alt="A person collecting a stool sample with the Viome test kit." class="rounded-lg shadow-lg w-full">
             </div>
 
             <!-- How Does Viome's Gut Intelligence Test Work? -->
@@ -314,7 +321,7 @@ seoTitle: ""
             </section>
 
              <div class="text-center my-8">
-                <img src="https://synctherapylocal.local/wp-content/uploads/content/A-close-up-of-the-Viome-gut-test-kit-contents-laid-out-on-a-kitchen-table-including-instructions-sample-collection-tubes-and-a-return-envelope_161f19b0-c66b-4126-9ba0-f6352a40060e.webp" onerror="this.onerror=null;this.src='https://placehold.co/800x400/CCCCCC/333333?text=Viome+Kit+Contents';" alt="A close-up of the Viome gut test kit contents on a table." class="rounded-lg shadow-lg w-full">
+                <img src="/uploads/content/A-close-up-of-the-Viome-gut-test-kit-contents-laid-out-on-a-kitchen-table-including-instructions-sample-collection-tubes-and-a-return-envelope_161f19b0-c66b-4126-9ba0-f6352a40060e.webp" onerror="this.onerror=null;this.src='https://placehold.co/800x400/CCCCCC/333333?text=Viome+Kit+Contents';" alt="A close-up of the Viome gut test kit contents on a table." class="rounded-lg shadow-lg w-full">
             </div>
 
             <!-- How Much Does Viome's Test Cost? -->
@@ -339,8 +346,8 @@ seoTitle: ""
                     <p>Overall, satisfied users report tangible health improvements (e.g., reduced IBS symptoms, weight loss, better sleep), while detractors highlight cost (test ~$279; retest ~$200), subscription-driven supplement sales, and support delays.</p>
                 </div>
                 <div class="grid md:grid-cols-2 gap-6 mt-6">
-                    <img src="https://synctherapylocal.local/wp-content/uploads/content/Screenshot_20230116-131819-461x1024.png" onerror="this.onerror=null;this.src='https://placehold.co/400x600/CCCCCC/333333?text=Viome+Results+1';" alt="Screenshot of Viome test results showing recommended foods." class="rounded-lg shadow-sm w-full">
-                    <img src="https://synctherapylocal.local/wp-content/uploads/content/Screenshot_20230116-131832-461x1024.png" onerror="this.onerror=null;this.src='https://placehold.co/400x600/CCCCCC/333333?text=Viome+Results+2';" alt="Screenshot of Viome gut microbiome test results analysis." class="rounded-lg shadow-sm w-full">
+                    <img src="/uploads/content/Screenshot_20230116-131819-461x1024.png" onerror="this.onerror=null;this.src='https://placehold.co/400x600/CCCCCC/333333?text=Viome+Results+1';" alt="Screenshot of Viome test results showing recommended foods." class="rounded-lg shadow-sm w-full">
+                    <img src="/uploads/content/Screenshot_20230116-131832-461x1024.png" onerror="this.onerror=null;this.src='https://placehold.co/400x600/CCCCCC/333333?text=Viome+Results+2';" alt="Screenshot of Viome gut microbiome test results analysis." class="rounded-lg shadow-sm w-full">
                 </div>
             </section>
 

@@ -1,9 +1,12 @@
 ---
-title: "12 Best At-Home Red Light Devices in Canada (2026)"
-date: "2023-12-30 08:00:00"
-slug: "at-home-red-light-therapy"
-description: ""
-seoTitle: ""
+title: 12 Best At-Home Red Light Devices in Canada (2026)
+date: '2023-12-30 08:00:00'
+slug: at-home-red-light-therapy
+description: >-
+  /* Custom styles based on the new design template */ body { font-family:
+  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
+  #333333; /*...
+seoTitle: 12 Best At-Home Red Light Devices in Canada (2026)
 ---
 
 <!-- wp:html -->
@@ -98,7 +101,7 @@ seoTitle: ""
       },
       "headline": "13 Best At-Home Red Light Therapy Devices in Canada (2024)",
       "description": "Searching for the best red light therapy at home in Canada? Our 2024 expert reviews compare the strongest red light therapy devices for professional results.",
-      "image": "https://synctherapylocal.local/wp-content/uploads/content/5MAneOWlSheTWiKcrL5j.webp",
+      "image": "/uploads/content/5MAneOWlSheTWiKcrL5j.webp",
       "author": {
         "@type": "Organization",
         "name": "Sync Therapy"
@@ -149,7 +152,7 @@ seoTitle: ""
         {
           "@type": "Product",
           "name": "Kala Red Light Face Mask",
-          "image": "https://synctherapylocal.local/wp-content/uploads/2025/06/thekalaredlighttherapymaskincanada.webp",
+          "image": "/uploads/2025/06/thekalaredlighttherapymaskincanada.webp",
           "description": "The Kala Red Light Face Mask is a high-power, economical, and size-friendly red light therapy panel that helps reduce wrinkles and fine lines, promote collagen production, and reduce inflammation in the skin.",
           "brand": {
             "@type": "Brand",
@@ -172,7 +175,7 @@ seoTitle: ""
         {
           "@type": "Product",
           "name": "Rouge G4 Series",
-          "image": "https://synctherapylocal.local/wp-content/uploads/2025/06/rouge-tabletop-g4-678166.webp",
+          "image": "/uploads/2025/06/rouge-tabletop-g4-678166.webp",
           "description": "The Rouge G4 series is one of the strongest red light therapy devices for at-home use, packed with professional-grade features for a fully customized experience.",
           "brand": {
             "@type": "Brand",
@@ -254,14 +257,14 @@ seoTitle: ""
             <section id="top-picks">
                 <h2 class="text-3xl font-bold">The 13 Best At-Home Red Light Therapy Devices of 2024</h2>
                 
-                <img src="https://synctherapylocal.local/wp-content/uploads/content/5MAneOWlSheTWiKcrL5j.webp" onerror="this.onerror=null;this.src='https://placehold.co/800x400/CCCCCC/333333?text=Red+Light+Therapy+Devices';" alt="A collection of the best at-home red light therapy devices." class="rounded-lg shadow-lg mb-8 w-full">
+                <img src="/uploads/content/5MAneOWlSheTWiKcrL5j.webp" onerror="this.onerror=null;this.src='https://placehold.co/800x400/CCCCCC/333333?text=Red+Light+Therapy+Devices';" alt="A collection of the best at-home red light therapy devices." class="rounded-lg shadow-lg mb-8 w-full">
 
                 <!-- Product Cards -->
                 <div id="product1" class="bg-white p-6 rounded-lg shadow-md mb-8 border-t-4 border-accent">
                     <h3 class="text-2xl font-bold">1. Kala Red Light Face Mask - Best Red Light Therapy Mask for Face</h3>
                     <p class="text-accent font-semibold mb-4">Best for Skin Health</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/thekalaredlighttherapymaskincanada.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Kala+Red+Light+Face+Mask';" alt="The Kala Red Light Face Mask, one of the best red light therapy devices in Canada for improving skin tone." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/2025/06/thekalaredlighttherapymaskincanada.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Kala+Red+Light+Face+Mask';" alt="The Kala Red Light Face Mask, one of the best red light therapy devices in Canada for improving skin tone." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">The Kala Red Light Face Mask is a high-power, economical, and size-friendly red light therapy panel that helps reduce wrinkles and fine lines, promote collagen production, and reduce inflammation in the skin. They were first seen on the Dragon's Den.</p>
                             <a href="https://snwbl.io/kalatherapy/DARYL95230" target="_blank" class="affiliate-button w-full">Check Price on Kala Therapy <i class="fas fa-arrow-right ml-2"></i></a>
@@ -273,7 +276,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">2. PlatinumLED Therapy Lights: BIOMAX Series - Best for Pain & Recovery</h3>
                     <p class="text-accent font-semibold mb-4">Best for Muscle Recovery, Pain & Inflammation</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/GcU5vH4aSC2ebD1BJBKk.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=PlatinumLED+BIOMAX+Series';" alt="The PlatinumLED BIOMAX 900, a professional-grade red light therapy panel for home use." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/GcU5vH4aSC2ebD1BJBKk.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=PlatinumLED+BIOMAX+Series';" alt="The PlatinumLED BIOMAX 900, a professional-grade red light therapy panel for home use." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">The PlatinumLED Therapy Lights: BIOMAX Series stands out for those seeking a professional-grade therapy experience at home. It's my favorite overall red light therapy device for home use, great for reducing arthritis pain and inflammation. For more details, read our <a href="https://synctherapylocal.local/platinum-led-therapy-lights-review/" class="text-primary hover:underline font-semibold">full Platinum biomax review</a>. In addition to its effectiveness in alleviating arthritis pain, this device is also recognized for its versatility, making it suitable for various skin conditions and muscle recovery. Users have praised the BIOMAX Series as one of the <a href="https://synctherapylocal.local/fda-approved-red-light-therapy-devices-for-pain/">best red light devices for pain</a>, highlighting its innovative features and ease of use. With regular sessions, you can experience noticeable improvements in your overall well-being and vitality.</p>
                             <a href="https://snwbl.io/platinumled-therapy-lights/LJBBS6913" target="_blank" class="affiliate-button w-full">Check Price on PlatinumLED <i class="fas fa-arrow-right ml-2"></i></a>
@@ -285,7 +288,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">3. Rouge G4 Series - Strongest Red Light Therapy At Home</h3>
                     <p class="text-accent font-semibold mb-4">Strongest & Most Customizable Panel</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/rouge-tabletop-g4-678166.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Rouge+G4+Series';" alt="The Rouge G4 Series red light therapy panel with advanced features, one of the strongest RLT devices." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/2025/06/rouge-tabletop-g4-678166.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Rouge+G4+Series';" alt="The Rouge G4 Series red light therapy panel with advanced features, one of the strongest RLT devices." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">The Rouge G4 series is one of the strongest red light therapy devices for at-home use, packed with professional-grade features for a fully customized experience. Its high irradiance and extensive wavelength options make it a top choice for serious users.</p>
                             <ul class="list-disc list-inside space-y-2 mb-4">
@@ -303,7 +306,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">4. HigherDOSE Red Light Face Mask - Best for Enhanced Facial Care</h3>
                     <p class="text-accent font-semibold mb-4">Best for Enhanced Facial Care</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/uR1CK1qQz2lrxfimbTxo.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=HigherDOSE+Red+Light+Face+Mask';" alt="The HigherDOSE Red Light Face Mask, a premium LED light therapy machine for the face." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/uR1CK1qQz2lrxfimbTxo.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=HigherDOSE+Red+Light+Face+Mask';" alt="The HigherDOSE Red Light Face Mask, a premium LED light therapy machine for the face." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">The <a class="wpil_keyword_link" href="https://synctherapylocal.local/higherdose-face-mask-review/"   title="HigherDOSE Red Light Face Mask" data-wpil-keyword-link="linked"  data-wpil-monitor-id="7953">HigherDOSE Red Light Face Mask</a> is a standout product, infusing the convenience of an LED mask with the efficacies of red light therapy. It's designed for the discerning individual looking to enhance their facial care regimen. This face mask has amazing <a href="https://synctherapylocal.local/red-light-therapy-before-and-after/" class="text-primary hover:underline font-semibold">before and after red light therapy photos</a>.</p>
                             <a href="https://shareasale.com/r.cfm?b=1874366&u=1976584&m=87497&urllink=&afftrack=" target="_blank" class="affiliate-button w-full">Check Price on HigherDOSE <i class="fas fa-arrow-right ml-2"></i></a>
@@ -315,7 +318,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">5. SolaWave 4-in-1 Skincare Wand - Best Handheld LED Light Therapy Device</h3>
                     <p class="text-accent font-semibold mb-4">Best Handheld Device</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/HaM7miJkREO4D0RVkWpx.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=SolaWave+4-in-1+Skincare+Wand';" alt="The SolaWave 4-in-1 Skincare Wand, a versatile handheld red light therapy device." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/HaM7miJkREO4D0RVkWpx.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=SolaWave+4-in-1+Skincare+Wand';" alt="The SolaWave 4-in-1 Skincare Wand, a versatile handheld red light therapy device." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">The SolaWave 4-in-1 Skincare Wand is an innovative, multifaceted tool. It not only harnesses the benefits of red light therapy but also integrates microcurrent, facial massage, and therapeutic warmth. Its portable design is perfect for on-the-go touch-ups.</p>
                             <a href="https://www.solawave.co/products/radiant-renewal-skincare-wand-lightboost-set" target="_blank" class="affiliate-button w-full">Check Price on Solawave <i class="fas fa-arrow-right ml-2"></i></a>
@@ -327,7 +330,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">6. Recharge Health FlexBeam - Best Portable Red Light Therapy Device</h3>
                     <p class="text-accent font-semibold mb-4">Best for Targeted Treatment</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/i1bwAceT26jSU11uqOlW.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Recharge+Health+FlexBeam';" alt="The Recharge Health FlexBeam, a portable red light therapy device for targeted use." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/i1bwAceT26jSU11uqOlW.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Recharge+Health+FlexBeam';" alt="The Recharge Health FlexBeam, a portable red light therapy device for targeted use." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">The Recharge Health FlexBeam is designed for targeted red light therapy. Its versatility allows it to address various areas of the body, making it convenient for at-home applications to support muscle recovery, skin health, or general wellness. Read our <a href="https://synctherapylocal.local/flexbeam-reviews/" class="text-primary hover:underline font-semibold">Recharge Health FlexBeam review</a>.</p>
                             <a href="https://recharge.health/why-flexbeam/" target="_blank" class="affiliate-button w-full">Check Price on Recharge Health <i class="fas fa-arrow-right ml-2"></i></a>
@@ -339,7 +342,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">7. MitoADAPT 2.0 Series - Best for Versatility</h3>
                     <p class="text-accent font-semibold mb-4">Best for Versatility</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/T9tUEbohTOmrhiWOcr74.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=MitoADAPT+2.0+Series';" alt="The MitoADAPT 2.0 Series, a versatile red light therapy device." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/T9tUEbohTOmrhiWOcr74.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=MitoADAPT+2.0+Series';" alt="The MitoADAPT 2.0 Series, a versatile red light therapy device." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">The MitoADAPT 2.0 Series is an exceptionally engineered red light therapy device for at-home use. It's designed to deliver an optimal blend of red and near-infrared light for targeted relief and rejuvenation. Read our <a href="https://synctherapylocal.local/mito-red-light-therapy-review/" class="text-primary hover:underline font-semibold">in-depth MitoAdapt Review</a>. This innovative device harnesses the power of light to stimulate cellular function, promoting healing and reducing inflammation. To fully understand the benefits, it’s essential to explore <a href="https://synctherapylocal.local/how-to-use-red-light-therapy-at-home/">how red light therapy works</a> and its effects on mitochondrial health. Users can expect improved skin texture, reduced pain, and enhanced overall well-being with consistent use. Many individuals suffering from chronic pain conditions, such as fibromyalgia, are turning to red light therapy for its potential relief. Research supports the <a href="https://synctherapylocal.local/red-light-therapy-for-fibromyalgia/">red light therapy benefits for fibromyalgia</a>, showcasing its ability to alleviate symptoms like pain and fatigue. By incorporating this therapy into their routine, users may experience a significant enhancement in their quality of life and a reduction in discomfort.</p>
                             <a href="https://www.mitoredlight.com/DARYL87554" target="_blank" class="affiliate-button w-full">Check Price on Mito Red Light <i class="fas fa-arrow-right ml-2"></i></a>
@@ -351,7 +354,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">8. Mito Red Light Advanced Red Light Therapy Belt - Best for Body Contouring</h3>
                     <p class="text-accent font-semibold mb-4">Best for Body Contouring</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/z4F06uONRQ2oPFS0yoLJ.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Mito+Red+Light+Therapy+Belt';" alt="The Mito Red Light Advanced Red Light Therapy Belt, a versatile solution for home use." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/z4F06uONRQ2oPFS0yoLJ.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Mito+Red+Light+Therapy+Belt';" alt="The Mito Red Light Advanced Red Light Therapy Belt, a versatile solution for home use." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">The Mito Red Light Advanced Red Light Therapy Belt introduces a versatile solution for red light therapy enthusiasts. It's tailored to deliver targeted relief and rejuvenation, and can be wrapped around various parts of the body for personalized therapy sessions. This innovative belt not only caters to those seeking general wellness but also serves as an effective aid in promoting healing. By harnessing the power of <a href="https://synctherapylocal.local/red-light-therapy-and-wound-healing-clinical-evidence/">red light therapy benefits for wounds</a>, users can experience accelerated recovery times and reduced inflammation. Its flexible design allows for easy use on injuries, enhancing the overall effectiveness of each therapy session.</p>
                             <a href="https://www.mitoredlight.com/DARYL87554" target="_blank" class="affiliate-button w-full">Check Price on Mito Red Light <i class="fas fa-arrow-right ml-2"></i></a>
@@ -363,7 +366,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">9. MitoMIN 2.0 | Mito Red Light - Best Compact Device</h3>
                     <p class="text-accent font-semibold mb-4">Best Compact Device</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/OvZiB8ZpQMmGkIpRnscq.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=MitoMIN+2.0';" alt="The MitoMIN 2.0 from Mito Red Light, a compact and powerful red light therapy device." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/OvZiB8ZpQMmGkIpRnscq.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=MitoMIN+2.0';" alt="The MitoMIN 2.0 from Mito Red Light, a compact and powerful red light therapy device." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">The MitoMIN 2.0 from Mito Red Light offers a perfect balance of efficacy and convenience. Compact yet powerful, it harnesses red and near-infrared wavelengths to penetrate deeply into tissues, aiding in cellular rejuvenation.</p>
                             <a href="https://www.mitoredlight.com/DARYL87554" target="_blank" class="affiliate-button w-full">Check Price on Mito Red Light <i class="fas fa-arrow-right ml-2"></i></a>
@@ -375,7 +378,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">10. Kala Red Light Elite Panel - Best for Power and Convenience</h3>
                     <p class="text-accent font-semibold mb-4">Best for Power and Convenience</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/icLuQCv3TWuMFNbQ4aW3.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Kala+Red+Light+Elite+Panel';" alt="The Kala Red Light Elite Panel, a powerful and convenient red light therapy device." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/icLuQCv3TWuMFNbQ4aW3.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Kala+Red+Light+Elite+Panel';" alt="The Kala Red Light Elite Panel, a powerful and convenient red light therapy device." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">The Kala Red Light Elite Panel boasts a potent combination of convenience and power for users seeking professional-level treatment at home. It's a standout choice for seamlessly integrating red light therapy into your daily wellness routine. Read our <a href="https://synctherapylocal.local/kala-red-light-therapy-review/" class="text-primary hover:underline font-semibold">Kala Red Light Elite Panel review</a>. Designed with user-friendly features, this panel ensures that anyone can harness the benefits of red light therapy without prior experience. As one of the <a href="https://synctherapylocal.local/best-red-light-therapy-panels/">best red light therapy panels</a> on the market, it delivers effective results while fitting effortlessly into any lifestyle. Whether you're targeting skin rejuvenation or muscle recovery, this device stands out as a top choice for enhancing overall well-being.</p>
                             <a href="https://snwbl.io/kalatherapy/DARYL95230" target="_blank" class="affiliate-button w-full">Check Price on Kala Therapy <i class="fas fa-arrow-right ml-2"></i></a>
@@ -387,7 +390,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">11. iRESTORE Elite - Best for Hair Regrowth</h3>
                     <p class="text-accent font-semibold mb-4">Best for Hair Regrowth</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/ZRvbCT5QaKSXMHrdLLab.png" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=iRESTORE+Elite';" alt="The iRESTORE Elite, an innovative red light therapy device for hair regrowth." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/ZRvbCT5QaKSXMHrdLLab.png" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=iRESTORE+Elite';" alt="The iRESTORE Elite, an innovative red light therapy device for hair regrowth." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">The iRESTORE Elite stands out with its innovative approach to at-home red light therapy for hair regrowth. This device is tailor-made for those who prioritize top-notch care in the comfort of their own space.</p>
                             <a href="#" target="_blank" class="affiliate-button w-full">Check Price <i class="fas fa-arrow-right ml-2"></i></a>
@@ -399,7 +402,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">12. Infraredi LED Light Therapy Mask - Best Medical-Grade Mask</h3>
                     <p class="text-accent font-semibold mb-4">Best Medical-Grade for Wrinkles & Acne</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://staging.synctherapy.ca/wordpress/wp-content/uploads/content/Infraredi-LED-Light-Therapy-Mask-using-red-light-to-improve-wrinkles-and-skin-health_224f2455-418c-43f5-9d7d-2e91414bbbec.webp" onerror="this.onerror=null;this.src="https://synctherapylocal.local/wp-content/uploads/2025/11/infraredi-red-light-therapy-mask-at-home.webp";" alt="The Infraredi LED Light Therapy Mask, a medical-grade option available in Canada." class="rounded-lg shadow-sm w-full">
+                        <img src="https://staging.synctherapy.ca/wordpress/wp-content/uploads/content/Infraredi-LED-Light-Therapy-Mask-using-red-light-to-improve-wrinkles-and-skin-health_224f2455-418c-43f5-9d7d-2e91414bbbec.webp" onerror="this.onerror=null;this.src="/uploads/2025/11/infraredi-red-light-therapy-mask-at-home.webp";" alt="The Infraredi LED Light Therapy Mask, a medical-grade option available in Canada." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">This medical-grade option utilizes both red (630nm) and near-infrared (850nm) light for a powerful, dual-action approach to treating both wrinkles and acne with clinical precision. For more, read our <a data-wpil="url" href="https://synctherapylocal.local/infraredi-reviews/" class="text-primary hover:underline font-semibold">Infraredi reviews</a>.</p>
                             <ul class="list-disc list-inside space-y-2 mb-4">
@@ -418,7 +421,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">13. Omnilux Contour FACE - Best for Anti-Aging</h3>
                     <p class="text-accent font-semibold mb-4">Best for Anti-Aging & Younger Looking Skin</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://staging.synctherapy.ca/wordpress/wp-content/uploads/content/the-omnilux-contour-face-mask-is-a-top-rated-best-red-light-therapy-face-mask-to-help-with-aging_71d55d7a-eda3-44bb-ac46-f828263b1a50.webp" onerror="this.onerror=null;this.src="https://synctherapylocal.local/wp-content/uploads/2025/11/Contour_Face_Cover_Image.jpg";" alt="The Omnilux Contour led light therapy mask, a popular choice in Canada for anti-aging." class="rounded-lg shadow-sm w-full">
+                        <img src="https://staging.synctherapy.ca/wordpress/wp-content/uploads/content/the-omnilux-contour-face-mask-is-a-top-rated-best-red-light-therapy-face-mask-to-help-with-aging_71d55d7a-eda3-44bb-ac46-f828263b1a50.webp" onerror="this.onerror=null;this.src="/uploads/2025/11/Contour_Face_Cover_Image.jpg";" alt="The Omnilux Contour led light therapy mask, a popular choice in Canada for anti-aging." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">A dermatologist-recommended, FDA-cleared mask celebrated for its anti-aging results. It's clinically proven to reduce fine lines, pigmentation, and redness for a plumper, brighter complexion.</p>
                             <ul class="list-disc list-inside space-y-2 mb-4">

@@ -1,9 +1,12 @@
 ---
-title: "sciatica-treatment-victoria"
-date: "2025-07-07 14:36:00"
-slug: "sciatica-treatment-victoria"
-description: ""
-seoTitle: ""
+title: sciatica-treatment-victoria
+date: '2025-07-07 14:36:00'
+slug: sciatica-treatment-victoria
+description: >-
+  Page Coming Soon - Sync Therapy /* Custom styles based on the provided color
+  palette */ body { font-family: 'Inter', sans-serif; background-color: #F4F7F5;
+  /*...
+seoTitle: sciatica-treatment-victoria
 ---
 
 <!-- wp:html -->

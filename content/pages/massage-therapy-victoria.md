@@ -1,9 +1,12 @@
 ---
-title: "Massage Therapy Victoria - Voted Best RMT in Victoria 2025"
-date: "2024-07-10 03:25:06"
-slug: "massage-therapy-victoria"
-description: ""
-seoTitle: ""
+title: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
+date: '2024-07-10 03:25:06'
+slug: massage-therapy-victoria
+description: >-
+  tailwind.config = { theme: { extend: { colors: { primary: { DEFAULT:
+  '#2E5A88', foreground: '#FFFFFF' }, secondary: { DEFAULT: '#86BBD8',
+  foreground: '#333333'...
+seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 ---
 
 <!-- wp:html -->
@@ -1719,7 +1722,7 @@ seoTitle: ""
       "provider": {
         "@type": "MedicalBusiness",
         "name": "Sync Massage Therapy",
-        "image": "https://synctherapylocal.local/wp-content/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg",
+        "image": "/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg",
         "telephone": "+1-250-812-8698",
         "priceRange": "$$",
         "paymentAccepted": "Cash, Credit Card, Direct Billing",

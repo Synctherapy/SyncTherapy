@@ -1,9 +1,12 @@
 ---
-title: "Hooga Red Light Therapy Reviews: hg200, hg300 & hg1500"
-date: "2024-02-15 08:00:00"
-slug: "hooga-red-light-therapy-reviews"
-description: ""
-seoTitle: ""
+title: 'Hooga Red Light Therapy Reviews: hg200, hg300 & hg1500'
+date: '2024-02-15 08:00:00'
+slug: hooga-red-light-therapy-reviews
+description: >-
+  /* Custom styles based on the design template */ body { font-family: 'Inter',
+  sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color: #333333;
+  /*...
+seoTitle: 'Hooga Red Light Therapy Reviews: hg200, hg300 & hg1500'
 ---
 
 <!-- wp:html -->

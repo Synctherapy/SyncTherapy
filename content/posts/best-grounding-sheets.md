@@ -1,9 +1,12 @@
 ---
-title: "5 Best Grounding Sheets in Canada (2026) | Do They Work?"
-date: "2025-01-25 06:53:00"
-slug: "best-grounding-sheets"
-description: ""
-seoTitle: ""
+title: 5 Best Grounding Sheets in Canada (2026) | Do They Work?
+date: '2025-01-25 06:53:00'
+slug: best-grounding-sheets
+description: >-
+  /* Custom styles based on the new design template */ body { font-family:
+  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
+  #333333; /*...
+seoTitle: 5 Best Grounding Sheets in Canada (2026) | Do They Work?
 ---
 
 <!-- wp:html -->
@@ -267,7 +270,7 @@ seoTitle: ""
             <!-- Top Picks Section -->
             <section id="top-picks">
                 <h2 class="text-3xl font-bold">The 5 Best Grounding Sheets in Canada: 2026 Review</h2>
-                <img src="https://synctherapylocal.local/wp-content/uploads/content/the_best_grounding_sheets_in_canada_1024x1024.jpg" onerror="this.onerror=null;this.src='https://placehold.co/800x400/CCCCCC/333333?text=Grounding+Sheets';" alt="A review of the best grounding sheets in Canada for better sleep." class="rounded-lg shadow-lg mb-8 w-full" width="896" height="896" loading="lazy">
+                <img src="/uploads/content/the_best_grounding_sheets_in_canada_1024x1024.jpg" onerror="this.onerror=null;this.src='https://placehold.co/800x400/CCCCCC/333333?text=Grounding+Sheets';" alt="A review of the best grounding sheets in Canada for better sleep." class="rounded-lg shadow-lg mb-8 w-full" width="896" height="896" loading="lazy">
                 <p class="text-lg text-gray-700 mb-8">Discover the top 5 grounding sheets to transform your nightly rest and well-being. These grounding bed sheets are crafted to enhance sleep quality, reduce chronic inflammation, and relieve pain.</p>
 
                 <!-- Product Cards -->
@@ -275,7 +278,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">1. Terra Grounding Bed Sheet Review</h3>
                     <p class="text-accent font-semibold mb-4">Best Overall for Comfort & Effectiveness</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/terra-therapy-grounding-sheet-for-inflammation.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Terra+Sheet';" alt="Review of the Terra Grounding Bed Sheet for inflammation." class="rounded-lg shadow-sm w-full" width="400" height="300" loading="lazy">
+                        <img src="/uploads/2025/07/terra-therapy-grounding-sheet-for-inflammation.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Terra+Sheet';" alt="Review of the Terra Grounding Bed Sheet for inflammation." class="rounded-lg shadow-sm w-full" width="400" height="300" loading="lazy">
                         <div>
                             <p class="mb-4">The Terra Grounding Bed Sheet is an innovative bedding solution designed to enhance your life by connecting you to the earth's natural energy. Crafted from high-quality materials, it offers a seamless blend of comfort and functionality.</p>
                             <ul class="list-disc list-inside space-y-2 mb-4">
@@ -293,7 +296,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">2. Grooni Earthing Grounding Mat Review</h3>
                     <p class="text-accent font-semibold mb-4">Premium Wellness Sleep Mat</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/grooni-review-Grounding-Mat-for-Bed.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Grooni+Earthing+Mat';" alt="Review of the Grooni Earthing Grounding Mat for bed." class="rounded-lg shadow-sm w-full" width="400" height="300" loading="lazy">
+                        <img src="/uploads/2025/07/grooni-review-Grounding-Mat-for-Bed.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Grooni+Earthing+Mat';" alt="Review of the Grooni Earthing Grounding Mat for bed." class="rounded-lg shadow-sm w-full" width="400" height="300" loading="lazy">
                         <div>
                             <p class="mb-4">Can’t sleep well? Unlock the power of true rest—discover what this grounding pad can do for your sleep. This mat is designed to help you reconnect with the Earth while you sleep.</p>
                              <ul class="list-disc list-inside space-y-2 mb-4">
@@ -311,7 +314,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">3. Earthing Elite Sleep Mat Kit Review</h3>
                     <p class="text-accent font-semibold mb-4">Best Kit for a Complete Grounding System</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/2.-Earthing-Elite-Sleep-Mat-Kit-by-clint-ober.png" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Earthing+Elite+Kit';" alt="Review of the Earthing Elite Sleep Mat Kit components by Clint Ober." class="rounded-lg shadow-sm w-full" width="400" height="300" loading="lazy">
+                        <img src="/uploads/2025/07/2.-Earthing-Elite-Sleep-Mat-Kit-by-clint-ober.png" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Earthing+Elite+Kit';" alt="Review of the Earthing Elite Sleep Mat Kit components by Clint Ober." class="rounded-lg shadow-sm w-full" width="400" height="300" loading="lazy">
                         <div>
                             <p class="mb-4">The Earthing Elite Sleep Mat Kit is designed to enhance your sleep by utilizing the benefits of an earthing sheet. This kit includes high-quality materials that mimic the conductive properties of earth for an effortless setup.</p>
                              <ul class="list-disc list-inside space-y-2 mb-4">
@@ -329,7 +332,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">4. PANBMAO Grounding Fitted Sheet Review</h3>
                     <p class="text-accent font-semibold mb-4">Best from Amazon</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/amazon-grounding-sheets-.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=PANBMAO+Sheet';" alt="Review of the PANBMAO Grounding Fitted Sheet from Amazon." class="rounded-lg shadow-sm w-full" width="400" height="300" loading="lazy">
+                        <img src="/uploads/2025/07/amazon-grounding-sheets-.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=PANBMAO+Sheet';" alt="Review of the PANBMAO Grounding Fitted Sheet from Amazon." class="rounded-lg shadow-sm w-full" width="400" height="300" loading="lazy">
                         <div>
                             <p class="mb-4">The PANBMAO Grounding Fitted Sheet is a top choice for those seeking improved sleep and reduced pain. Crafted from fine thread, its intelligent design fits snugly on your bed, ensuring direct contact all night.</p>
                              <ul class="list-disc list-inside space-y-2 mb-4">
@@ -347,7 +350,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">5. Earthing Harmony Grounding Sheets Review</h3>
                     <p class="text-accent font-semibold mb-4">Best for Harmonious Sleep</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/Earthing-Grounding-Sheets-for-pain.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Earthing+Harmony';" alt="Review of Earthing Harmony Grounding Sheets for pain relief." class="rounded-lg shadow-sm w-full" width="400" height="300" loading="lazy">
+                        <img src="/uploads/2025/07/Earthing-Grounding-Sheets-for-pain.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Earthing+Harmony';" alt="Review of Earthing Harmony Grounding Sheets for pain relief." class="rounded-lg shadow-sm w-full" width="400" height="300" loading="lazy">
                         <div>
                             <div class="flex items-center mb-2">
                                 <span class="text-accent font-bold text-lg mr-2">4.7/5</span>
@@ -417,7 +420,7 @@ seoTitle: ""
             <!-- How it Works Section -->
             <section id="how-it-works">
                 <h2 class="text-3xl font-bold">Do Grounding Sheets Really Work? Benefits Explained</h2>
-                <img src="https://synctherapylocal.local/wp-content/uploads/content/laying_in_a_bed_with_the_best_grounding_sheets_1024x1024.jpg" onerror="this.onerror=null;this.src='https://placehold.co/800x400/CCCCCC/333333?text=Relaxing+on+Grounding+Sheet';" alt="A person sleeping peacefully on a bed with a grounding sheet, experiencing the benefits." class="rounded-lg shadow-lg mb-8 w-full" width="896" height="896" loading="lazy">
+                <img src="/uploads/content/laying_in_a_bed_with_the_best_grounding_sheets_1024x1024.jpg" onerror="this.onerror=null;this.src='https://placehold.co/800x400/CCCCCC/333333?text=Relaxing+on+Grounding+Sheet';" alt="A person sleeping peacefully on a bed with a grounding sheet, experiencing the benefits." class="rounded-lg shadow-lg mb-8 w-full" width="896" height="896" loading="lazy">
                 <div class="space-y-6 bg-white p-8 rounded-lg shadow-md">
                     <div>
                         <h3 class="text-xl font-semibold text-primary">Connects You to Earth's Energy</h3>

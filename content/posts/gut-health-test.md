@@ -1,9 +1,16 @@
 ---
-title: "Best Gut Health Test: Comprehensive Guide to Gut Health Testing and Microbiome Tests"
-date: "2023-03-02 15:57:43"
-slug: "gut-health-test"
-description: ""
-seoTitle: ""
+title: >-
+  Best Gut Health Test: Comprehensive Guide to Gut Health Testing and Microbiome
+  Tests
+date: '2023-03-02 15:57:43'
+slug: gut-health-test
+description: >-
+  /* Custom styles based on the new design template */ body { font-family:
+  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
+  #333333; /*...
+seoTitle: >-
+  Best Gut Health Test: Comprehensive Guide to Gut Health Testing and Microbiome
+  Tests
 ---
 
 <!-- wp:html -->
@@ -202,14 +209,14 @@ seoTitle: ""
             <section id="top-picks">
                 <h2 class="text-3xl font-bold">The Best Gut Health & Microbiome Tests of 2025</h2>
                 
-                <img src="https://synctherapylocal.local/wp-content/uploads/content/a-patient-with-the-doctor-going-over-the-results-of-the-microbiome-test-she-did-at-home_8663e5d7-b6e9-481d-a3d7-2acbceae6c9e.webp" onerror="this.onerror=null;this.src='https://placehold.co/800x400/CCCCCC/333333?text=Reviewing+Gut+Test+Results';" alt="A patient discussing the results of the best at-home gut health test with her doctor in Canada." class="rounded-lg shadow-lg mb-8 w-full">
+                <img src="/uploads/content/a-patient-with-the-doctor-going-over-the-results-of-the-microbiome-test-she-did-at-home_8663e5d7-b6e9-481d-a3d7-2acbceae6c9e.webp" onerror="this.onerror=null;this.src='https://placehold.co/800x400/CCCCCC/333333?text=Reviewing+Gut+Test+Results';" alt="A patient discussing the results of the best at-home gut health test with her doctor in Canada." class="rounded-lg shadow-lg mb-8 w-full">
 
                 <!-- Product Cards -->
                 <div id="gi-map" class="bg-white p-6 rounded-lg shadow-md mb-8 border-t-4 border-accent">
                     <h3 class="text-2xl font-bold">1. GI-MAP Test</h3>
                     <p class="text-accent font-semibold mb-4">Best for Clinical & Diagnostic Analysis</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/gi-map-test-kit-canada.png" alt="A GI-MAP test kit box with collection tube, showing what's included in the best gut microbiome test for diagnostics in Canada." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/2025/07/gi-map-test-kit-canada.png" alt="A GI-MAP test kit box with collection tube, showing what's included in the best gut microbiome test for diagnostics in Canada." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">The GI-MAP is the <a href="https://synctherapylocal.local/gi-map-test/" class="text-primary hover:underline font-semibold">best GI MAP test</a> for uncovering the root causes of gut-related issues. It provides specific, in-depth information by screening for pathogens, viruses, and bacteria. This comprehensive stool test is best interpreted with a naturopathic doctor.</p>
                              <ul class="list-disc list-inside space-y-2 mb-4">
@@ -227,7 +234,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">2. Viome Gut Intelligence Test</h3>
                     <p class="text-accent font-semibold mb-4">Best At Home Gut Health Test for Wellness</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/viome-at-home-gut-health-test.jpg" alt="The Viome at-home gut health test kit, including the sample collection box and instructions for microbiome testing in Canada." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/2025/07/viome-at-home-gut-health-test.jpg" alt="The Viome at-home gut health test kit, including the sample collection box and instructions for microbiome testing in Canada." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">For those looking to feel better, Viome is the best at home gut health test. It's practical and user-friendly, providing actionable suggestions like a personalized food list and your biological age. Many wonder "<a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdmlvbWUtcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdmlvbWUtcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdmlvbWUtcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdmlvbWUtcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdmlvbWUtcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdmlvbWUtcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdmlvbWUtcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdmlvbWUtcmV2aWV3Lw==" href="https://synctherapylocal.local/viome-review/" class="text-primary hover:underline font-semibold">is Viome worth it?</a>" - for direct-to-consumer personalized probiotics, the answer is often yes. In addition to its personalized recommendations, Viome emphasizes the importance of timing in gut health. Many users inquire about the <a href="https://synctherapylocal.local/best-time-to-take-probiotics/">best time for taking probiotics</a> to maximize their benefits. By aligning their probiotic intake with their personalized plan, users can potentially enhance their overall well-being.</p>
                             <ul class="list-disc list-inside space-y-2 mb-4">
@@ -245,7 +252,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">3. Zoe</h3>
                     <p class="text-accent font-semibold mb-4">Best Comprehensive Health Program (Not in Canada)</p>
                      <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/zoe-health-program-kit.png" alt="The complete Zoe health program kit, which includes a gut microbiome test and blood sugar sensor." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/2025/07/zoe-health-program-kit.png" alt="The complete Zoe health program kit, which includes a gut microbiome test and blood sugar sensor." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">Zoe offers a comprehensive at-home test that analyzes not only your gut microbiome but also your blood sugar and blood fat responses. It provides a holistic view of your body's unique biology. <strong class="text-red-600">Note: Zoe is not yet available in Canada.</strong></p>
                             <ul class="list-disc list-inside space-y-2 mb-4">
@@ -262,7 +269,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">4. Genova Diagnostics Stool Test</h3>
                     <p class="text-accent font-semibold mb-4">Best for In-Depth Clinical Assessment</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/genova-gi-effects-stool-test-report-canada.png" alt="A doctor reviewing a sample page from a Genova GI Effects comprehensive stool test report with a patient." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/2025/07/genova-gi-effects-stool-test-report-canada.png" alt="A doctor reviewing a sample page from a Genova GI Effects comprehensive stool test report with a patient." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">The Genova Stool Test (GI Effects) is a highly respected, comprehensive gut health test used by practitioners. It provides an in-depth evaluation of gut bacteria and digestive functions through detailed stool analysis, guiding targeted treatment plans.</p>
                              <ul class="list-disc list-inside space-y-2 mb-4">
@@ -279,7 +286,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">5. FoodMarble AIRE</h3>
                     <p class="text-accent font-semibold mb-4">Best for Identifying Trigger Foods & SIBO</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/foodmarble-aire-sibo-breath-test-device-1.jpg" alt="A person holding the FoodMarble AIRE, a personal breath testing device used to check for SIBO and food intolerances." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/2025/07/foodmarble-aire-sibo-breath-test-device-1.jpg" alt="A person holding the FoodMarble AIRE, a personal breath testing device used to check for SIBO and food intolerances." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">The FoodMarble AIRE is a personal breath testing device that helps you identify foods that trigger digestive issues. It measures hydrogen levels on your breath, which can indicate how well you're digesting certain foods and can be a useful tool for those suspecting <a href="https://synctherapylocal.local/best-supplements-for-sibo/" class="text-primary hover:underline font-semibold">SIBO</a>.</p>
                              <ul class="list-disc list-inside space-y-2 mb-4">
@@ -296,7 +303,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">6. US BioTek GI Profiles (Standard & Advanced)</h3>
                     <p class="text-accent font-semibold mb-4">Best for Practitioner-Level Breadth & Rigor</p>
                     <div class="space-y-4">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/us-biotek-gi-advanced-profile-report.webp" alt="A sample of the color-coded results from a US BioTek GI Advanced Profile stool analysis report." class="rounded-lg shadow-sm w-full mb-4">
+                        <img src="/uploads/2025/07/us-biotek-gi-advanced-profile-report.webp" alt="A sample of the color-coded results from a US BioTek GI Advanced Profile stool analysis report." class="rounded-lg shadow-sm w-full mb-4">
                         <p>US BioTek offers two practitioner-level stool tests that provide exceptional breadth and confirmatory rigor. They are a top choice for clinicians needing a deep dive into gut health.</p>
                         
                         <h4>Quick Take</h4>

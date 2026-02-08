@@ -1,9 +1,12 @@
 ---
-title: "Visceral Manipulation Massage Victoria BC | Expert Visceral Massage Near Me"
-date: "2024-08-24 15:34:01"
-slug: "visceral-manipulation-victoria"
-description: ""
-seoTitle: ""
+title: Visceral Manipulation Massage Victoria BC | Expert Visceral Massage Near Me
+date: '2024-08-24 15:34:01'
+slug: visceral-manipulation-victoria
+description: >-
+  * { margin: 0; padding: 0; box-sizing: border-box; } :root { --accent:
+  #F5B82E; --neutral-light: #F4F7F5; --text-dark: #2D3748; --text-medium:
+  #4A5568;...
+seoTitle: Visceral Manipulation Massage Victoria BC | Expert Visceral Massage Near Me
 ---
 
 <!-- wp:html -->
@@ -502,7 +505,7 @@ seoTitle: ""
                     </div>
                 </div>
                 <div class="hero-image">
-                    <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" 
+                    <img src="/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" 
                          alt="Visceral manipulation massage therapy session in Victoria BC">
                 </div>
             </div>
@@ -976,7 +979,7 @@ seoTitle: ""
                 </div>
                 <div>
                     <div class="card">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/Direct-Billing-to-Extended-Health-Chiro-Physio-Acupuncture-Massage-with-RCMP-as-well.png" 
+                        <img src="/uploads/2025/06/Direct-Billing-to-Extended-Health-Chiro-Physio-Acupuncture-Massage-with-RCMP-as-well.png" 
                              alt="Sync Therapy clinic exterior - visceral massage therapy in Victoria BC" 
                              style="width: 100%; height: 250px; object-fit: cover; border-radius: 0.5rem;">
                         <div class="card-content">
@@ -1144,12 +1147,12 @@ seoTitle: ""
       "serviceType": "Visceral Manipulation",
       "category": "MedicalBusiness",
       "url": "https://synctherapylocal.local/services/visceral-manipulation-victoria/",
-      "image": "https://synctherapylocal.local/wp-content/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg",
+      "image": "/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg",
       "description": "Specialized Visceral Manipulation and abdominal organ massage in Victoria and Colwood. Performed by Registered Massage Therapists (RMT) and eligible for direct billing.",
       "provider": {
         "@type": "MedicalBusiness",
         "name": "Sync Massage Therapy",
-        "image": "https://synctherapylocal.local/wp-content/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg",
+        "image": "/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg",
         "telephone": "+1-250-812-8698",
         "priceRange": "$$",
         "paymentAccepted": "Cash, Credit Card, Direct Billing",

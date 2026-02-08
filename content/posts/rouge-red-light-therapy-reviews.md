@@ -1,9 +1,12 @@
 ---
-title: "Rouge Red Light Review 2026: G4 Pro & Max Tested"
-date: "2025-07-08 16:21:39"
-slug: "rouge-red-light-therapy-reviews"
-description: ""
-seoTitle: ""
+title: 'Rouge Red Light Review 2026: G4 Pro & Max Tested'
+date: '2025-07-08 16:21:39'
+slug: rouge-red-light-therapy-reviews
+description: >-
+  /* Custom styles based on the new design template */ body { font-family:
+  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
+  #333333; /*...
+seoTitle: 'Rouge Red Light Review 2026: G4 Pro & Max Tested'
 ---
 
 <!-- wp:html -->
@@ -150,7 +153,7 @@ seoTitle: ""
             "@type": "Product",
             "name": "Rouge Tabletop G4",
             "description": "A compact, feature-rich red light therapy panel for targeted treatments.",
-            "image": "https://synctherapylocal.local/wp-content/uploads/2025/07/rouge-g4-reviews-.webp",
+            "image": "/uploads/2025/07/rouge-g4-reviews-.webp",
             "brand": {
               "@type": "Brand",
               "name": "Rouge Care"
@@ -166,7 +169,7 @@ seoTitle: ""
             "@type": "Product",
             "name": "Rouge Pro G4",
             "description": "A versatile half-body panel with 8 wavelengths and advanced customization for serious biohackers.",
-            "image": "https://synctherapylocal.local/wp-content/uploads/2025/07/rouge-pro-g4-red-light-therapy-reviews.webp",
+            "image": "/uploads/2025/07/rouge-pro-g4-red-light-therapy-reviews.webp",
             "brand": {
               "@type": "Brand",
               "name": "Rouge Care"
@@ -182,7 +185,7 @@ seoTitle: ""
             "@type": "Product",
             "name": "Rouge Max G4",
             "description": "A full-body red light therapy panel for convenient, head-to-toe coverage.",
-            "image": "https://synctherapylocal.local/wp-content/uploads/2025/07/Rouge-Max-G4-review-in-canada.webp",
+            "image": "/uploads/2025/07/Rouge-Max-G4-review-in-canada.webp",
             "brand": {
               "@type": "Brand",
               "name": "Rouge Care"
@@ -297,14 +300,14 @@ seoTitle: ""
             <!-- Top Picks Section -->
             <section id="top-picks">
                 <h2 class="text-3xl font-bold">The Rouge G4 Red Light Therapy Panels of 2025</h2>
-                 <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/rouge-care-red-light-therapy-reviews-in-canada-.webp" onerror="this.onerror=null;this.src='https://placehold.co/800x400/CCCCCC/333333?text=Rouge+G4+Series';" alt="A sleek display of the Rouge G4 red light therapy panels, showing their modern design." class="rounded-lg shadow-lg mb-8 w-full">
+                 <img src="/uploads/2025/07/rouge-care-red-light-therapy-reviews-in-canada-.webp" onerror="this.onerror=null;this.src='https://placehold.co/800x400/CCCCCC/333333?text=Rouge+G4+Series';" alt="A sleek display of the Rouge G4 red light therapy panels, showing their modern design." class="rounded-lg shadow-lg mb-8 w-full">
 
                 <!-- Product Cards -->
                 <div id="product1" class="bg-white p-6 rounded-lg shadow-md mb-8 border-t-4 border-accent">
                     <h3 class="text-2xl font-bold">1. Rouge Tabletop G4</h3>
                     <p class="text-accent font-semibold mb-4">Best for Targeted Treatments (Face, Joints, etc.)</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/rouge-g4-reviews-.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Rouge+Tabletop+G4';" alt="The compact Rouge Tabletop G4 panel, ideal for focused red light therapy sessions." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/2025/07/rouge-g4-reviews-.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Rouge+Tabletop+G4';" alt="The compact Rouge Tabletop G4 panel, ideal for focused red light therapy sessions." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">The Tabletop G4 packs all the advanced technology of the larger models into a compact, versatile unit. It's the perfect choice for users focusing on skin rejuvenation, <a href="https://synctherapylocal.local/red-light-therapy-for-alopecia/" class="text-content-link">hair health</a>, or treating specific areas like a sore shoulder or knee without compromising on features.</p>
                             <ul class="list-disc list-inside space-y-2 mb-4">
@@ -323,7 +326,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">2. Rouge Pro G4</h3>
                     <p class="text-accent font-semibold mb-4">Best All-Rounder for Biohackers & Athletes</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/rouge-pro-g4-red-light-therapy-reviews.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Rouge+Pro+G4';" alt="The Rouge Pro G4 panel, a half-body device popular with athletes for muscle recovery." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/2025/07/rouge-pro-g4-red-light-therapy-reviews.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Rouge+Pro+G4';" alt="The Rouge Pro G4 panel, a half-body device popular with athletes for muscle recovery." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">The Pro G4 is the workhorse of the series, offering enough coverage for effective half-body treatments. It's the ideal choice for serious users who want to optimize muscle recovery, reduce <a href="https://synctherapylocal.local/red-light-therapy-for-inflammation/" class="text-content-link">inflammation</a>, and experiment with the full range of pulsing and wavelength controls. Additionally, users looking for a powerful boost in their wellness routine often explore the <a href="https://synctherapylocal.local/mito-pro-x-750-review/">mito pro x 750 benefits</a>, which include enhanced cellular energy production and improved overall vitality. This device complements the Pro G4, offering a more comprehensive approach to light therapy that can further enhance recovery and performance. By incorporating these advanced technologies, users can unlock even greater potential in their health and fitness journey.</p>
                              <ul class="list-disc list-inside space-y-2 mb-4">
@@ -342,7 +345,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">3. Rouge Max G4</h3>
                     <p class="text-accent font-semibold mb-4">Best for Convenient Full-Body Coverage</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/Rouge-Max-G4-review-in-canada.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Rouge+Max+G4';" alt="The large Rouge Max G4 panel, providing full head-to-toe red light therapy coverage." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/2025/07/Rouge-Max-G4-review-in-canada.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Rouge+Max+G4';" alt="The large Rouge Max G4 panel, providing full head-to-toe red light therapy coverage." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">For those seeking the simplicity of a single-unit, full-body setup, the Max G4 delivers. It provides head-to-toe coverage (lengthwise) with all the advanced features of the G4 series, making daily full-body sessions convenient and effective.</p>
                              <ul class="list-disc list-inside space-y-2 mb-4">

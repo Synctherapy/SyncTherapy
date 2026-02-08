@@ -1,9 +1,12 @@
 ---
-title: "Bursitis Treatment Victoria"
-date: "2025-07-07 14:35:02"
-slug: "bursitis-treatment-victoria"
-description: ""
-seoTitle: ""
+title: Bursitis Treatment Victoria
+date: '2025-07-07 14:35:02'
+slug: bursitis-treatment-victoria
+description: >-
+  /* Custom styles based on the provided color palette */ body { font-family:
+  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
+  #333333;...
+seoTitle: Bursitis Treatment Victoria
 ---
 
 <!-- wp:html -->

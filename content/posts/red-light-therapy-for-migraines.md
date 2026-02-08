@@ -1,9 +1,12 @@
 ---
-title: "Red Light Therapy for Migraines &amp; Headaches (2026) Complete Guide"
-date: "2024-04-04 07:00:00"
-slug: "red-light-therapy-for-migraines"
-description: ""
-seoTitle: ""
+title: Red Light Therapy for Migraines &amp; Headaches (2026) Complete Guide
+date: '2024-04-04 07:00:00'
+slug: red-light-therapy-for-migraines
+description: >-
+  body { font-family: 'Inter', sans-serif; background-color: #F4F7F5; color:
+  #333333; } html { scroll-behavior: smooth; } .bg-primary {
+  background-color:...
+seoTitle: Red Light Therapy for Migraines &amp; Headaches (2026) Complete Guide
 ---
 
 <!-- wp:html -->
@@ -143,14 +146,14 @@ seoTitle: ""
     "url": "https://synctherapylocal.local/",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://synctherapylocal.local/wp-content/uploads/2025/07/cropped-sync-therapy-favicon-192x192.png"
+      "url": "/uploads/2025/07/cropped-sync-therapy-favicon-192x192.png"
     }
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://synctherapylocal.local/red-light-therapy-for-migraines/"
   },
-  "image": "https://synctherapylocal.local/wp-content/uploads/2026/01/red-light-therapy-headaches.webp"
+  "image": "/uploads/2026/01/red-light-therapy-headaches.webp"
 }
 </script>
 
@@ -286,8 +289,8 @@ seoTitle: ""
   "@type": "VideoObject",
   "name": "Red Light Therapy for Headaches",
   "description": "Learn how red light therapy can help relieve headaches and migraines naturally",
-  "thumbnailUrl": "https://synctherapylocal.local/wp-content/uploads/2026/01/red-light-therapy-headaches.webp",
-  "contentUrl": "https://synctherapylocal.local/wp-content/uploads/2026/01/red-light-therapy-for-headaches.mp4",
+  "thumbnailUrl": "/uploads/2026/01/red-light-therapy-headaches.webp",
+  "contentUrl": "/uploads/2026/01/red-light-therapy-for-headaches.mp4",
   "uploadDate": "2026-01-11"
 }
 </script>
@@ -320,7 +323,7 @@ seoTitle: ""
                 <div>
                     <div class="video-container mb-4">
                         <video autoplay muted loop playsinline preload="auto">
-                            <source src="https://synctherapylocal.local/wp-content/uploads/2026/01/red-light-therapy-for-headaches.mp4" type="video/mp4">
+                            <source src="/uploads/2026/01/red-light-therapy-for-headaches.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
                     </div>
@@ -637,7 +640,7 @@ seoTitle: ""
                     <h3 class="text-xl font-bold mb-4 text-center">Watch: How to Use Red Light Therapy for Migraines</h3>
                     <div class="video-container">
                         <video autoplay muted loop playsinline preload="auto">
-                            <source src="https://synctherapylocal.local/wp-content/uploads/2026/01/red-light-therapy-for-migraines-.mp4" type="video/mp4">
+                            <source src="/uploads/2026/01/red-light-therapy-for-migraines-.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
                     </div>

@@ -1,9 +1,12 @@
 ---
-title: "Red Light Therapy Infographic 2026"
-date: "2026-01-15 20:02:18"
-slug: "red-light-therapy-infographic"
-description: ""
-seoTitle: ""
+title: Red Light Therapy Infographic 2026
+date: '2026-01-15 20:02:18'
+slug: red-light-therapy-infographic
+description: >-
+  /* Scoped Wrapper to prevent theme conflicts */ #sync-infographic-wrapper {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background-color:...
+seoTitle: Red Light Therapy Infographic 2026
 ---
 
 <!-- wp:html -->

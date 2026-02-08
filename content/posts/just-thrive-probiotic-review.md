@@ -1,9 +1,12 @@
 ---
-title: "Just Thrive Probiotic Reviews in 2026 – Why I love it"
-date: "2023-08-22 14:22:07"
-slug: "just-thrive-probiotic-review"
-description: ""
-seoTitle: ""
+title: Just Thrive Probiotic Reviews in 2026 – Why I love it
+date: '2023-08-22 14:22:07'
+slug: just-thrive-probiotic-review
+description: >-
+  /* Custom styles based on the provided color palette and UX guidelines */ body
+  { font-family: 'Inter', sans-serif; background-color: #F4F7F5; /*
+  Neutral-Light...
+seoTitle: Just Thrive Probiotic Reviews in 2026 – Why I love it
 ---
 
 <!-- wp:html -->
@@ -145,7 +148,7 @@ seoTitle: ""
           "@type": "Brand",
           "name": "Just Thrive"
         },
-        "image": "https://synctherapylocal.local/wp-content/uploads/content/just-thrive-probiotic-review-looking-at-the-probiotic-bacteria.jpg"
+        "image": "/uploads/content/just-thrive-probiotic-review-looking-at-the-probiotic-bacteria.jpg"
       }
     }
     </script>
@@ -202,7 +205,7 @@ seoTitle: ""
             <section id="product-card" class="bg-white p-8 rounded-lg shadow-lg border-t-4 border-accent">
                 <div class="grid md:grid-cols-3 gap-6 items-center">
                     <div class="md:col-span-1">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/just-thrive-probiotic-to-get-rid-of-candidiasis.jpg" alt="Bottle of Just Thrive Probiotic Supplement" class="rounded-lg w-full">
+                        <img src="/uploads/2025/07/just-thrive-probiotic-to-get-rid-of-candidiasis.jpg" alt="Bottle of Just Thrive Probiotic Supplement" class="rounded-lg w-full">
                     </div>
                     <div class="md:col-span-2">
                         <h3 class="text-2xl font-bold text-primary !mt-0">Our Top Pick: Just Thrive Probiotic</h3>
@@ -240,7 +243,7 @@ seoTitle: ""
 
             <section id="what-is-just-thrive">
                 <h2 class="text-3xl font-bold">What Sets Just Thrive Apart?</h2>
-                <img src="https://synctherapylocal.local/wp-content/uploads/content/just-thrive-probiotic-review-looking-at-the-probiotic-bacteria.jpg" onerror="this.onerror=null;this.src='https://placehold.co/800x450/2E5A88/F4F7F5?text=Spore-Based+Probiotics'" alt="Microscopic view of spore-based probiotic bacteria used in Just Thrive Probiotic" class="rounded-lg shadow-lg my-8 w-full">
+                <img src="/uploads/content/just-thrive-probiotic-review-looking-at-the-probiotic-bacteria.jpg" onerror="this.onerror=null;this.src='https://placehold.co/800x450/2E5A88/F4F7F5?text=Spore-Based+Probiotics'" alt="Microscopic view of spore-based probiotic bacteria used in Just Thrive Probiotic" class="rounded-lg shadow-lg my-8 w-full">
                 <p class="mb-4">In a crowded market, Just Thrive distinguishes itself with its innovative use of <strong><a data-wpil="url" href="https://synctherapylocal.local/benefits-of-soil-based-probiotics/" class="internal-link">spore-based probiotic technology</a></strong>. Unlike many common probiotics that die in the harsh, acidic environment of the stomach, these spores remain dormant and protected. This gives them a <strong>1000x better survivability rate</strong>, ensuring they arrive alive in your intestines where they can work their magic.</p>
                 <p>This isn't just about digestion. Once active, these probiotics help recondition your gut, remove pathogens, and even produce powerful antioxidants right where your body needs them most. This focus on improving your thrive gut health transforms your system into a bio-available hub for nutrient absorption, supporting total-body health, boosting energy, improving sleep, and promoting healthy skin.</p>
             </section>
@@ -318,14 +321,14 @@ seoTitle: ""
                 <div class="grid md:grid-cols-2 gap-8">
                     <!-- Just Calm -->
                     <div class="bg-white p-6 rounded-lg shadow-md flex flex-col text-center">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/just-thrive-just-calm-review-which-is-a-probiotic-for-anxiety-1.webp" alt="Bottle of Just Calm probiotic for stress and anxiety" class="rounded-lg mb-4 w-full h-48 object-cover">
+                        <img src="/uploads/2025/07/just-thrive-just-calm-review-which-is-a-probiotic-for-anxiety-1.webp" alt="Bottle of Just Calm probiotic for stress and anxiety" class="rounded-lg mb-4 w-full h-48 object-cover">
                         <h3 class="text-xl font-bold text-primary !mt-0">Just Calm™</h3>
                         <p class="flex-grow mb-4">Based on `Just Calm reviews`, this product is highly effective for stress. It contains the targeted B. longum 1714™ strain, clinically shown to support mental well-being.</p>
                         <a href="https://justthrivehealth.com/SYNCTHERAPY" target="_blank" rel="noopener noreferrer" class="affiliate-button mt-auto">Shop Just Calm</a>
                     </div>
                     <!-- Just Thrive Prebiotic -->
                     <div class="bg-white p-6 rounded-lg shadow-md flex flex-col text-center">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/just-thrive-prebiotic-review-.webp" alt="Bottle of Just Thrive Precision PREbiotic" class="rounded-lg mb-4 w-full h-48 object-cover">
+                        <img src="/uploads/2025/07/just-thrive-prebiotic-review-.webp" alt="Bottle of Just Thrive Precision PREbiotic" class="rounded-lg mb-4 w-full h-48 object-cover">
                         <h3 class="text-xl font-bold text-primary !mt-0">Precision PREbiotic</h3>
                         <p class="flex-grow mb-4">To get the most out of your probiotics, you need to feed them. The `Just Thrive prebiotic` is formulated to selectively nourish your beneficial bacteria, enhancing their effectiveness.</p>
                         <a href="https://justthrivehealth.com/SYNCTHERAPY" target="_blank" rel="noopener noreferrer" class="affiliate-button mt-auto">Shop The Prebiotic</a>

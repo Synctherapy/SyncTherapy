@@ -1,9 +1,12 @@
 ---
-title: "Red Light Therapy for Back Pain: LED Treatment for Pain Relief"
-date: "2024-02-27 08:00:00"
-slug: "red-light-therapy-back-pain"
-description: ""
-seoTitle: ""
+title: 'Red Light Therapy for Back Pain: LED Treatment for Pain Relief'
+date: '2024-02-27 08:00:00'
+slug: red-light-therapy-back-pain
+description: >-
+  /* Custom styles based on the new design template */ body { font-family:
+  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
+  #333333; /*...
+seoTitle: 'Red Light Therapy for Back Pain: LED Treatment for Pain Relief'
 ---
 
 <!-- wp:html -->
@@ -126,7 +129,7 @@ seoTitle: ""
       "@context": "https://schema.org",
       "@type": "Article",
       "headline": "Red Light Therapy for Back Pain: LED Treatment for Pain Relief",
-      "image": "https://synctherapylocal.local/wp-content/uploads/2025/06/MitoPRO_1500Xontheback.webp",
+      "image": "/uploads/2025/06/MitoPRO_1500Xontheback.webp",
       "author": {
         "@type": "Organization",
         "name": "Sync Therapy"
@@ -237,9 +240,9 @@ seoTitle: ""
                         <tbody>
                             <tr>
                                 <td><strong>Image</strong></td>
-                                <td><img src="https://synctherapylocal.local/wp-content/uploads/2025/06/InfrarediBodyWrap_BackCloseUp.webp" alt="Infraredi red light therapy wrap for back pain" class="product-image"></td>
-                                <td><img src="https://synctherapylocal.local/wp-content/uploads/2025/06/MitoPRO_1500Xontheback.webp" alt="MitoPRO X 750 red light therapy panel for back pain" class="product-image"></td>
-                                <td><img src="https://synctherapylocal.local/wp-content/uploads/2025/06/img1729179261666_9361d44009684c5da036e1cf33cb97d6.jpg" alt="Infraredi Flex Max red light panel for back pain relief" class="product-image"></td>
+                                <td><img src="/uploads/2025/06/InfrarediBodyWrap_BackCloseUp.webp" alt="Infraredi red light therapy wrap for back pain" class="product-image"></td>
+                                <td><img src="/uploads/2025/06/MitoPRO_1500Xontheback.webp" alt="MitoPRO X 750 red light therapy panel for back pain" class="product-image"></td>
+                                <td><img src="/uploads/2025/06/img1729179261666_9361d44009684c5da036e1cf33cb97d6.jpg" alt="Infraredi Flex Max red light panel for back pain relief" class="product-image"></td>
                             </tr>
                             <tr>
                                 <td><strong>Device Type</strong></td>
@@ -309,7 +312,7 @@ seoTitle: ""
                     <h3 class="font-bold">1. Infraredi Body Wrap</h3>
                     <p class="text-accent font-semibold mb-4">Best Wearable Belt for Back Pain</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/InfrarediBodyWrap_BackCloseUp.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Infraredi+Body+Wrap';" alt="Man using the Infraredi red light therapy wrap for lower back pain relief." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/2025/06/InfrarediBodyWrap_BackCloseUp.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Infraredi+Body+Wrap';" alt="Man using the Infraredi red light therapy wrap for lower back pain relief." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">The Infraredi Body Wrap is our top pick for the best red light therapy belt for back pain. It envelops the lower back in soothing, therapeutic light, and its flexible, hands-free design is perfect for use while relaxing or moving around. See our full <a data-wpil="url" href="https://synctherapylocal.local/infraredi-reviews/" class="text-primary hover:underline font-semibold">Infraredi review</a> for more details.</p>
                             <ul class="list-disc list-inside space-y-2 mb-4">
@@ -329,7 +332,7 @@ seoTitle: ""
                     <h3 class="font-bold">2. Mito Red Light MitoPRO X 750</h3>
                     <p class="text-accent font-semibold mb-4">Best Overall Panel (USA)</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/MitoPRO_1500Xontheback.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=MitoPRO+X+750';" alt="Man using the MitoPRO X 750 red light therapy panel for full back coverage." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/2025/06/MitoPRO_1500Xontheback.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=MitoPRO+X+750';" alt="Man using the MitoPRO X 750 red light therapy panel for full back coverage." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">This is the red light device I personally used to get rid of my nerve-related low back pain in just one treatment. The <a href="https://synctherapylocal.local/mito-pro-x-750-review/" class="text-primary hover:underline font-semibold">MitoPRO X 750</a> is a powerful panel designed to penetrate deep into muscle tissue, offering unmatched relief from pain and discomfort.</p>
                             <ul class="list-disc list-inside space-y-2 mb-4">
@@ -349,7 +352,7 @@ seoTitle: ""
                     <h3 class="font-bold">3. Infraredi Flex Max</h3>
                     <p class="text-accent font-semibold mb-4">Best Overall Panel (Canada)</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/img1729179261666_9361d44009684c5da036e1cf33cb97d6.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Infraredi+Flex+Max';" alt="A person using the Infraredi Flex Max panel for at-home red and infrared light therapy." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/2025/06/img1729179261666_9361d44009684c5da036e1cf33cb97d6.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Infraredi+Flex+Max';" alt="A person using the Infraredi Flex Max panel for at-home red and infrared light therapy." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">For our Canadian clients, the Infraredi Flex Max is the undisputed champion. It offers performance and quality comparable to the top US brands but without the hassle of customs charges, making it the best value for Canadians.</p>
                             <ul class="list-disc list-inside space-y-2 mb-4">
@@ -509,12 +512,12 @@ seoTitle: ""
                 <div class="max-w-lg mx-auto grid grid-cols-1 md:grid-cols-2 gap-6">
                     <div>
                         <h4 class="font-bold">For Targeted Flexibility</h4>
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/InfrarediBodyWrap_BackCloseUp.webp" alt="Infraredi Body Wrap" class="rounded-lg shadow-md mb-4 h-48 w-full object-cover">
+                        <img src="/uploads/2025/06/InfrarediBodyWrap_BackCloseUp.webp" alt="Infraredi Body Wrap" class="rounded-lg shadow-md mb-4 h-48 w-full object-cover">
                         <a href="#infraredi-body-wrap" class="affiliate-button">Shop the Best Belt</a>
                     </div>
                     <div>
                         <h4 class="font-bold">For Maximum Power</h4>
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/MitoPRO_1500Xontheback.webp" alt="MitoPRO X 750 Panel" class="rounded-lg shadow-md mb-4 h-48 w-full object-cover">
+                        <img src="/uploads/2025/06/MitoPRO_1500Xontheback.webp" alt="MitoPRO X 750 Panel" class="rounded-lg shadow-md mb-4 h-48 w-full object-cover">
                         <a href="#mito-pro-x-750" class="affiliate-button">Shop the Best Panel</a>
                     </div>
                 </div>

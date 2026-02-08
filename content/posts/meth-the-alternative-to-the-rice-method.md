@@ -1,9 +1,12 @@
 ---
-title: "METH; The Alternative To The RICE Method"
-date: "2025-06-19 10:07:25"
-slug: "meth-the-alternative-to-the-rice-method"
-description: ""
-seoTitle: ""
+title: METH; The Alternative To The RICE Method
+date: '2025-06-19 10:07:25'
+slug: meth-the-alternative-to-the-rice-method
+description: >-
+  Meth Vs RiceIs RICE the best way to improve an injury?The meth method for
+  injuries is intriguing…find out more belowAre rest and ice effective in
+  helping you...
+seoTitle: METH; The Alternative To The RICE Method
 ---
 
 <h2 style="color: var(--awb-color5);">Meth Vs Rice</h2><p>Is RICE the best way to improve an injury?</p><p><strong>The meth method for injuries is intriguing…find out more below</strong></p><p>Are rest and ice effective in helping you recover from an injury?</p><p>We take a look at what the research says and give you our opinion.</p><p>Let’s just say we’ve stopped recommending ice for most injuries now…</p><p><strong>The RICE method (Rest, Ice, Compression, Elevation) is an acronym that is synonymous with treating athletic injuries.</strong></p><p>Ice has been the gold standard for injuries and sore muscles since Dr. Mirkin coined it in 1978 from his sports medicine book. Everyone from Trainers to Grandma’s prescribes ice for those injuries because it relieves the pain from the injured tissue.</p><p>What if I told you that there isn’t much scientific support to whether ice will help your injury or not?<br>You’d probably look at me like I told you Santa is alive, sorry for the dreams I just crushed.</p><p>      <b>In the National Athletic Trainers’ Association position statement, they found that ice therapy had a “C” level of evidence, this means little to poor evidence exists for it.</b></p><p>In an interview, the author of that article said: “I wish I could say that what we found is what is really being done in a clinical setting…. Maybe our European colleagues know something we don’t…there is very little icing over there.”</p><p>In the 1970’s we knew very little to what we know now about the healing process. We didn’t know that inflammation is an important part of the overall healing process. Dr. Mirkin has since changed his mind on RICE, he believes that ice and complete rest may delay healing and not help it.</p><p><strong>What We're Going To Talk About Today</strong></p><ul>

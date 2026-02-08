@@ -1,9 +1,12 @@
 ---
-title: "Back Pain Treatment in Victoria: Massage vs Chiropractic"
-date: "2025-07-31 15:44:48"
-slug: "back-pain-treatment-victoria-options"
-description: ""
-seoTitle: ""
+title: 'Back Pain Treatment in Victoria: Massage vs Chiropractic'
+date: '2025-07-31 15:44:48'
+slug: back-pain-treatment-victoria-options
+description: >-
+  /* Custom styles based on the new design template */ body { font-family:
+  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
+  #333333; /*...
+seoTitle: 'Back Pain Treatment in Victoria: Massage vs Chiropractic'
 ---
 
 <!-- wp:html -->

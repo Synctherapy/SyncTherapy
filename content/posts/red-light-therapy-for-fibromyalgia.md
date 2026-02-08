@@ -1,9 +1,12 @@
 ---
-title: "Red Light Therapy for Fibromyalgia (2026): The Correct Protocol"
-date: "2024-06-02 17:23:14"
-slug: "red-light-therapy-for-fibromyalgia"
-description: ""
-seoTitle: ""
+title: 'Red Light Therapy for Fibromyalgia (2026): The Correct Protocol'
+date: '2024-06-02 17:23:14'
+slug: red-light-therapy-for-fibromyalgia
+description: >-
+  body { font-family: 'Inter', sans-serif; background-color: #F4F7F5; color:
+  #333333; } html { scroll-behavior: smooth; } .bg-primary {
+  background-color:...
+seoTitle: 'Red Light Therapy for Fibromyalgia (2026): The Correct Protocol'
 ---
 
 <!-- wp:html -->
@@ -277,7 +280,7 @@ seoTitle: ""
         "url": "https://synctherapylocal.local/",
         "logo": {
             "@type": "ImageObject",
-            "url": "https://synctherapylocal.local/wp-content/uploads/2025/07/cropped-sync-therapy-favicon-192x192.png"
+            "url": "/uploads/2025/07/cropped-sync-therapy-favicon-192x192.png"
         }
     },
     "mainEntityOfPage": {

@@ -1,9 +1,12 @@
 ---
-title: "Red Light Therapy for Stretch Marks: Red vs. White (2026)"
-date: "2024-03-10 08:00:00"
-slug: "red-light-therapy-and-stretch-marks"
-description: ""
-seoTitle: ""
+title: 'Red Light Therapy for Stretch Marks: Red vs. White (2026)'
+date: '2024-03-10 08:00:00'
+slug: red-light-therapy-and-stretch-marks
+description: >-
+  body { font-family: 'Inter', sans-serif; background-color: #F4F7F5; color:
+  #333333; } html { scroll-behavior: smooth; } /* Custom color classes */
+  .bg-primary...
+seoTitle: 'Red Light Therapy for Stretch Marks: Red vs. White (2026)'
 ---
 
 <!-- wp:html -->
@@ -405,7 +408,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">1. Kala Red Light Pro Panel</h3>
                     <p class="text-accent font-semibold mb-4">Best Overall Value - Medical-Grade Quality</p>
                     <div class="grid md:grid-cols-2 gap-8">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/kalaisaredlighttherapycompanyincanadathathasthekalaprowhichwasseenondragonsden_99b305b721cc43308c36ccc721526490.webp" alt="Kala Red Light Pro Panel for stretch marks treatment" class="rounded-lg shadow-sm w-full h-auto object-cover">
+                        <img src="/uploads/2025/06/kalaisaredlighttherapycompanyincanadathathasthekalaprowhichwasseenondragonsden_99b305b721cc43308c36ccc721526490.webp" alt="Kala Red Light Pro Panel for stretch marks treatment" class="rounded-lg shadow-sm w-full h-auto object-cover">
                         <div>
                             <p class="mb-4 text-gray-700">The Kala Pro Panel offers medical-grade quality at an accessible price point, making professional-level treatment available for home use. Featured on Dragon's Den, this FDA-registered Class II medical device delivers powerful dual-wavelength therapy perfect for treating large areas of stretch marks on abdomen, hips, thighs, or arms.</p>
                             
@@ -448,7 +451,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">2. Rouge G4 Series</h3>
                     <p class="text-accent font-semibold mb-4">Most Powerful - Professional-Grade Results</p>
                     <div class="grid md:grid-cols-2 gap-8">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/rouge-g4-reviews-.webp" alt="Rouge G4 red light therapy panel for stretch marks" class="rounded-lg shadow-sm w-full h-auto object-cover">
+                        <img src="/uploads/2025/07/rouge-g4-reviews-.webp" alt="Rouge G4 red light therapy panel for stretch marks" class="rounded-lg shadow-sm w-full h-auto object-cover">
                         <div>
                             <p class="mb-4 text-gray-700">For those seeking maximum power and wavelength customization, the Rouge G4 delivers professional-grade results with the highest irradiance available for home use. The powerful output means shorter treatment times while the 8-wavelength spectrum provides comprehensive skin rejuvenation beyond just stretch marks.</p>
                             
@@ -490,7 +493,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">3. Infraredi Red Light Panels</h3>
                     <p class="text-accent font-semibold mb-4">Premium Canadian-Made - Zero EMF Technology</p>
                     <div class="grid md:grid-cols-2 gap-8">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/the-infraredi-pro-reviews-vs-other-canadian-red-light-therapy-alternatives.jpg" alt="Infraredi red light therapy panel for stretch marks" class="rounded-lg shadow-sm w-full h-auto object-cover">
+                        <img src="/uploads/2025/07/the-infraredi-pro-reviews-vs-other-canadian-red-light-therapy-alternatives.jpg" alt="Infraredi red light therapy panel for stretch marks" class="rounded-lg shadow-sm w-full h-auto object-cover">
                         <div>
                             <p class="mb-4 text-gray-700">Made in Canada with zero EMF emission technology and premium components, Infraredi offers the safest option for sensitive users or daily treatment. The independently verified EMF-free design and exceptional 3-year warranty make this ideal for health-conscious users prioritizing safety alongside effectiveness.</p>
                             

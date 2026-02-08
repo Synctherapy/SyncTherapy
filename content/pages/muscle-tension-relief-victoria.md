@@ -1,9 +1,12 @@
 ---
-title: "Muscle Tension Relief Victoria"
-date: "2025-07-07 14:46:57"
-slug: "muscle-tension-relief-victoria"
-description: ""
-seoTitle: ""
+title: Muscle Tension Relief Victoria
+date: '2025-07-07 14:46:57'
+slug: muscle-tension-relief-victoria
+description: >-
+  /* Custom styles based on the provided color palette */ body { font-family:
+  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
+  #333333;...
+seoTitle: Muscle Tension Relief Victoria
 ---
 
 <!-- wp:html -->

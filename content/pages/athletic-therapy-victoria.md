@@ -1,9 +1,12 @@
 ---
-title: "Athletic Therapy Victoria"
-date: "2024-07-10 03:25:07"
-slug: "athletic-therapy-victoria"
-description: ""
-seoTitle: ""
+title: Athletic Therapy Victoria
+date: '2024-07-10 03:25:07'
+slug: athletic-therapy-victoria
+description: >-
+  { "@context": "https://schema.org", "@graph": [ { "@type": "Service", "@id":
+  "https://synctherapylocal.local/athletic-therapy#service", "name":
+  "Athletic...
+seoTitle: Athletic Therapy Victoria
 ---
 
 <!-- wp:html -->
@@ -321,7 +324,7 @@ seoTitle: ""
                         ⚠️ Booking Fast!
                     </span>
                 </div>
-                <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" 
+                <img src="/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" 
                      alt="Athletic Therapist Victoria BC - Professional athletic therapy treatment room at Sync Therapy featuring modern rehabilitation equipment, treatment table, and therapeutic tools for sports injury recovery in Victoria BC and Langford - find an athletic therapist near me" 
                      style="width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
             </div>

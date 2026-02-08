@@ -1,9 +1,12 @@
 ---
-title: "It Band Syndrome Victoria"
-date: "2025-07-07 14:37:18"
-slug: "it-band-syndrome-victoria"
-description: ""
-seoTitle: ""
+title: It Band Syndrome Victoria
+date: '2025-07-07 14:37:18'
+slug: it-band-syndrome-victoria
+description: >-
+  /* Custom styles based on the provided color palette */ body { font-family:
+  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
+  #333333;...
+seoTitle: It Band Syndrome Victoria
 ---
 
 <!-- wp:html -->

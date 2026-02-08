@@ -1,9 +1,12 @@
 ---
-title: "Infraredi vs. Kala (2026): Best Red Light Panel in Canada?"
-date: "2024-05-20 07:00:00"
-slug: "infraredi-vs-kala"
-description: ""
-seoTitle: ""
+title: 'Infraredi vs. Kala (2026): Best Red Light Panel in Canada?'
+date: '2024-05-20 07:00:00'
+slug: infraredi-vs-kala
+description: >-
+  /* Custom styles based on the new design template */ body { font-family:
+  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
+  #333333; /*...
+seoTitle: 'Infraredi vs. Kala (2026): Best Red Light Panel in Canada?'
 ---
 
 <!-- wp:html -->
@@ -392,8 +395,8 @@ seoTitle: ""
             </section>
             
             <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-                <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/the-infraredi-pro-reviews-vs-other-canadian-red-light-therapy-alternatives.webp" alt="The Infraredi Pro red light therapy panel in a home setting." class="rounded-lg shadow-md w-full h-full object-cover">
-                <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/showing-the-kala-pro-red-light-therapy-panel-vs-the-infraredi-.webp" alt="The Kala Pro red light therapy panel being used for treatment." class="rounded-lg shadow-md w-full h-full object-cover">
+                <img src="/uploads/2025/07/the-infraredi-pro-reviews-vs-other-canadian-red-light-therapy-alternatives.webp" alt="The Infraredi Pro red light therapy panel in a home setting." class="rounded-lg shadow-md w-full h-full object-cover">
+                <img src="/uploads/2025/07/showing-the-kala-pro-red-light-therapy-panel-vs-the-infraredi-.webp" alt="The Kala Pro red light therapy panel being used for treatment." class="rounded-lg shadow-md w-full h-full object-cover">
             </div>
 
             <!-- Brand Origins -->
@@ -421,7 +424,7 @@ seoTitle: ""
             <section id="infraredi">
                 <h2 class="text-3xl font-bold">Infraredi Deep Dive: Is Its Advanced Tech Worth The Price?</h2>
                 <div class="bg-white p-6 rounded-lg shadow-md">
-                    <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/comparing-infaredi-alternatives-like-the-kala-pro-red-light-therapy-panel.jpg" alt="A person using an Infraredi panel for full body red light therapy." class="rounded-lg shadow-lg mb-6 w-full">
+                    <img src="/uploads/2025/07/comparing-infaredi-alternatives-like-the-kala-pro-red-light-therapy-panel.jpg" alt="A person using an Infraredi panel for full body red light therapy." class="rounded-lg shadow-lg mb-6 w-full">
                     <p class="mb-4">Infraredi has quickly emerged as a leader in the Canadian red light therapy market, known for its high-quality, medical-grade devices and commitment to research. They are the ideal choice for the discerning user who values technical superiority and advanced customization. Their innovative technology ensures optimal efficacy, making them a trusted option among health professionals and consumers alike. As the demand for non-invasive wellness solutions grows, Infraredi is consistently recognized as one of the <a href="https://synctherapylocal.local/at-home-red-light-therapy/">best red light devices Canada</a> has to offer. With a focus on customer satisfaction and continued product development, they are well-positioned for ongoing success in the market. In addition to their strong reputation, Infraredi continuously explores new applications of red light therapy, positioning their products as some of the <a href="https://synctherapylocal.local/fda-approved-red-light-therapy-devices-for-pain/">best red light devices for pain</a> management. This focus on versatility allows them to cater to a wide range of customer needs, from athletic recovery to chronic pain relief. As they expand their offerings, Infraredi remains committed to educating users about the benefits of red light therapy, further enhancing their status as an industry leader.</p>
                     <h4 class="font-bold text-primary text-lg mt-4 mb-2">What Infraredi Does Better:</h4>
                     <ul class="list-disc list-inside space-y-2">
@@ -446,7 +449,7 @@ seoTitle: ""
             <section id="kala">
                 <h2 class="text-3xl font-bold">Kala Deep Dive: The Best Power-for-Price in Canada?</h2>
                  <div class="bg-white p-6 rounded-lg shadow-md">
-                    <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/using-the-red-light-therapy-company-in-canada-infraredi-vs-kala.jpg" alt="A Kala red light therapy device in a modern living room." class="rounded-lg shadow-lg mb-6 w-full">
+                    <img src="/uploads/2025/07/using-the-red-light-therapy-company-in-canada-infraredi-vs-kala.jpg" alt="A Kala red light therapy device in a modern living room." class="rounded-lg shadow-lg mb-6 w-full">
                     <p class="mb-4">Kala Red Light Therapy has carved out a significant space in the market by making high-power red light therapy accessible and affordable. They are an excellent choice for budget-conscious consumers who still desire effective, certified, and powerful results. As the demand for wellness solutions continues to grow, Kala Red Light Therapy remains committed to enhancing their offerings while keeping <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" href="https://synctherapylocal.local/red-light-therapy-costs/">2024 red light therapy pricing</a> competitive. Consumers can expect not only affordability but also a range of innovative products designed to meet diverse therapeutic needs. This commitment to quality and accessibility sets them apart in a crowded market. Moreover, Kala Red Light Therapy offers extensive information on the <a href="https://synctherapylocal.local/red-light-therapy-beds-vs-panels/">red light therapy bed benefits</a>, highlighting its potential for pain relief and enhanced skin health. Their user-friendly approach also ensures that customers can easily navigate through their product range to find the best solutions for their specific wellness goals. As they continue to innovate and broaden their horizons, Kala Red Light Therapy solidifies its position as a leader in the wellness industry.</p>
                     <h4 class="font-bold text-primary text-lg mt-4 mb-2">What Kala Does Better:</h4>
                     <ul class="list-disc list-inside space-y-2">
@@ -488,7 +491,7 @@ seoTitle: ""
                 </div>
             </section>
 
-            <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/infraredi-vs-kala-red-light-therapy-panel-review-.jpg" alt="A side-by-side comparison image of an Infraredi and a Kala red light therapy panel." class="rounded-lg shadow-lg mb-8 w-full">
+            <img src="/uploads/2025/07/infraredi-vs-kala-red-light-therapy-panel-review-.jpg" alt="A side-by-side comparison image of an Infraredi and a Kala red light therapy panel." class="rounded-lg shadow-lg mb-8 w-full">
 
             <!-- Final Verdict -->
             <section id="final-verdict" class="bg-primary text-white p-8 rounded-lg shadow-lg">

@@ -1,9 +1,12 @@
 ---
-title: "About"
-date: "2024-07-10 03:25:02"
-slug: "about"
-description: ""
-seoTitle: ""
+title: About
+date: '2024-07-10 03:25:02'
+slug: about
+description: >-
+  /* Custom CSS for Sync Therapy About Page */ .sync-therapy-about {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+  sans-serif; line-height:...
+seoTitle: About
 ---
 
 <!-- wp:html -->
@@ -689,7 +692,7 @@ seoTitle: ""
                     </div>
                     <div class="hero-image-container">
                         <div class="aspect-square rounded-2xl shadow-2xl" style="overflow: hidden;">
-                            <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" 
+                            <img src="/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" 
                                  alt="Daryl Stubbs - Owner of Sync Therapy, Victoria BC" 
                                  style="width: 100%; height: 100%; object-fit: cover;">
                         </div>
@@ -742,15 +745,15 @@ seoTitle: ""
                             </div>
                             <div class="award-images">
                                 <div class="award-image">
-                                    <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/sync-therapy-is-best-massage-therapy-clinic-winner-of-2022.png" 
+                                    <img src="/uploads/2025/07/sync-therapy-is-best-massage-therapy-clinic-winner-of-2022.png" 
                                          alt="Best Massage Therapy Clinic 2022 Award">
                                 </div>
                                 <div class="award-image">
-                                    <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/sync-therapy-is-best-massage-therapy-clinic-winner-of-2023.png" 
+                                    <img src="/uploads/2025/07/sync-therapy-is-best-massage-therapy-clinic-winner-of-2023.png" 
                                          alt="Best Massage Therapy Clinic 2023 Award">
                                 </div>
                                 <div class="award-image">
-                                    <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/sync-therapy-is-best-massage-therapy-clinic-winner-of-2024.png" 
+                                    <img src="/uploads/2025/07/sync-therapy-is-best-massage-therapy-clinic-winner-of-2024.png" 
                                          alt="Best Massage Therapy Clinic 2024 Award">
                                 </div>
                             </div>
@@ -779,15 +782,15 @@ seoTitle: ""
                             </div>
                             <div class="award-images">
                                 <div class="award-image">
-                                    <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/sync-therapy-is-best-physio-and-rehab-winner-of-2022-1.png" 
+                                    <img src="/uploads/2025/07/sync-therapy-is-best-physio-and-rehab-winner-of-2022-1.png" 
                                          alt="Best Rehab Clinic 2022 Award">
                                 </div>
                                 <div class="award-image">
-                                    <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/sync-therapy-is-best-physio-and-rehab-winner-of-2023-1.png" 
+                                    <img src="/uploads/2025/07/sync-therapy-is-best-physio-and-rehab-winner-of-2023-1.png" 
                                          alt="Best Rehab Clinic 2023 Award">
                                 </div>
                                 <div class="award-image">
-                                    <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/sync-therapy-is-best-physio-and-rehab-winner-of-2022.png" 
+                                    <img src="/uploads/2025/07/sync-therapy-is-best-physio-and-rehab-winner-of-2022.png" 
                                          alt="Best Rehab Clinic 2024 Award">
                                 </div>
                             </div>

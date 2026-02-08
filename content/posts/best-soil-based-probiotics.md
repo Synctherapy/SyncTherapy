@@ -1,9 +1,12 @@
 ---
-title: "Best Soil Based Probiotics for Humans & Dogs (2026)"
-date: "2023-05-03 00:17:53"
-slug: "best-soil-based-probiotics"
-description: ""
-seoTitle: ""
+title: Best Soil Based Probiotics for Humans & Dogs (2026)
+date: '2023-05-03 00:17:53'
+slug: best-soil-based-probiotics
+description: >-
+  /* Custom styles based on the new design template */ body { font-family:
+  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
+  #333333; /*...
+seoTitle: Best Soil Based Probiotics for Humans & Dogs (2026)
 ---
 
 <!-- wp:html -->
@@ -121,7 +124,7 @@ seoTitle: ""
             "name": "JustThrive Probiotic",
             "sku": "JT-PRO-01",
             "mpn": "JT-PRO-01",
-            "image": "https://synctherapylocal.local/wp-content/uploads/content/best-spore-based-probiotics-is-just-thrive-probiotic-supplement.jpg",
+            "image": "/uploads/content/best-spore-based-probiotics-is-just-thrive-probiotic-supplement.jpg",
             "description": "JustThrive is our top-rated spore probiotic due to its unique formulation that guarantees 100% survivability and its powerful clinical backing. It's supported by a groundbreaking study showing it can address leaky gut in just 30 days.",
             "brand": {
               "@type": "Brand",
@@ -184,7 +187,7 @@ seoTitle: ""
             "name": "MegaSporeBiotic",
             "sku": "MSB-PRO-01",
             "mpn": "MSB-PRO-01",
-            "image": "https://synctherapylocal.local/wp-content/uploads/content/megasporebiotic-is-the-best-soil-based-probiotic-supplement-in-canada-for-2023.jpg",
+            "image": "/uploads/content/megasporebiotic-is-the-best-soil-based-probiotic-supplement-in-canada-for-2023.jpg",
             "description": "MegaSporeBiotic is a premium, broad-spectrum, five-strain spore-forming probiotic designed to recondition the gut microbiome, making it a powerful choice for complex cases like SIBO.",
             "brand": {
               "@type": "Brand",
@@ -228,7 +231,7 @@ seoTitle: ""
             "name": "Enviromedica Terraflora Deep Immune",
             "sku": "EM-TDI-01",
             "mpn": "EM-TDI-01",
-            "image": "https://synctherapylocal.local/wp-content/uploads/content/prebiotic-and-probiotic-for-immune-system.jpg",
+            "image": "/uploads/content/prebiotic-and-probiotic-for-immune-system.jpg",
             "description": "A synbiotic formula combining soil-based organisms with immune-boosting LC-Plasma to activate key immune cells and provide comprehensive defense.",
             "brand": {
               "@type": "Brand",
@@ -272,7 +275,7 @@ seoTitle: ""
             "name": "Enviromedica Terraflora Advanced Care",
             "sku": "EM-TAC-01",
             "mpn": "EM-TAC-01",
-            "image": "https://synctherapylocal.local/wp-content/uploads/content/spore-forming-probiotics-for-leaky-gut.jpg",
+            "image": "/uploads/content/spore-forming-probiotics-for-leaky-gut.jpg",
             "description": "A powerful gut reset formula that introduces bacteriophages to selectively target harmful bacteria, clearing the way for beneficial probiotics to thrive.",
             "brand": {
                 "@type": "Brand",
@@ -316,7 +319,7 @@ seoTitle: ""
             "name": "Dr. Ruscio Soil-Based Probiotic",
             "sku": "DR-SBP-01",
             "mpn": "DR-SBP-01",
-            "image": "https://synctherapylocal.local/wp-content/uploads/content/dr-ruscio-soil-based-probiotic-review_49d468dd-51c0-4ab0-b457-7ebbb838d4bb.webp",
+            "image": "/uploads/content/dr-ruscio-soil-based-probiotic-review_49d468dd-51c0-4ab0-b457-7ebbb838d4bb.webp",
             "description": "From leading gut health expert Dr. Michael Ruscio, this probiotic provides a solid foundation of well-researched Bacillus strains to support normal GI and immune function.",
             "brand": {
                 "@type": "Brand",
@@ -455,7 +458,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">1. JustThrive Probiotic</h3>
                     <p class="text-accent font-semibold mb-4">Best Overall for Leaky Gut, Gas & Bloating</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/best-spore-based-probiotics-is-just-thrive-probiotic-supplement.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=JustThrive';" alt="JustThrive Probiotic bottle, a top spore-based probiotic." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/best-spore-based-probiotics-is-just-thrive-probiotic-supplement.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=JustThrive';" alt="JustThrive Probiotic bottle, a top spore-based probiotic." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">JustThrive is our top-rated spore probiotic due to its unique formulation that guarantees 100% survivability and its powerful clinical backing. It's supported by a groundbreaking study showing it can address leaky gut in just 30 days, making it a fantastic choice for anyone with digestive distress.</p>
                              <ul class="list-disc list-inside space-y-2 mb-4">
@@ -474,7 +477,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">2. MegaSporeBiotic</h3>
                     <p class="text-accent font-semibold mb-4">Best Soil-Based Probiotic for SIBO</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/megasporebiotic-is-the-best-soil-based-probiotic-supplement-in-canada-for-2023.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=MegaSporeBiotic';" alt="MegaSporeBiotic bottle, the best soil-based probiotic supplement for SIBO." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/megasporebiotic-is-the-best-soil-based-probiotic-supplement-in-canada-for-2023.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=MegaSporeBiotic';" alt="MegaSporeBiotic bottle, the best soil-based probiotic supplement for SIBO." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">MegaSporeBiotic is widely considered the gold standard in spore-based probiotics for practitioners. Its broad-spectrum, five-strain formula is designed to recondition the gut by promoting microbial diversity and maintaining a healthy gut barrier, making it a powerful choice for complex cases like SIBO.</p>
                             <ul class="list-disc list-inside space-y-2 mb-4">
@@ -493,7 +496,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">3. Enviromedica Terraflora Deep Immune</h3>
                     <p class="text-accent font-semibold mb-4">Best for Fortifying Your Immune System</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/prebiotic-and-probiotic-for-immune-system.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Terraflora+Deep+Immune';" alt="Enviromedica Terraflora Deep Immune bottle." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/prebiotic-and-probiotic-for-immune-system.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Terraflora+Deep+Immune';" alt="Enviromedica Terraflora Deep Immune bottle." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">This advanced synbiotic (probiotic + prebiotic) formula is specifically designed to support the immune system. It combines spore-based probiotics with LC-Plasma, a unique paraprobiotic clinically tested to activate key immune cells, providing year-round defense.</p>
                              <ul class="list-disc list-inside space-y-2 mb-4">
@@ -512,7 +515,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">4. Enviromedica Terraflora Advanced Care</h3>
                     <p class="text-accent font-semibold mb-4">Best for a Powerful Gut Reset</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/spore-forming-probiotics-for-leaky-gut.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Terraflora+Advanced+Care';" alt="Enviromedica Terraflora Advanced Care bottle." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/spore-forming-probiotics-for-leaky-gut.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Terraflora+Advanced+Care';" alt="Enviromedica Terraflora Advanced Care bottle." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">For those needing a powerful gut reset, Terraflora Advanced Care introduces bacteriophages—nature's "probiotic multipliers." These unique organisms selectively target harmful bacteria, clearing the way for beneficial probiotics to recolonize and thrive, with effects starting in as little as 24 hours.</p>
                              <ul class="list-disc list-inside space-y-2 mb-4">
@@ -531,7 +534,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">5. Dr. Ruscio Soil-Based Probiotic</h3>
                     <p class="text-accent font-semibold mb-4">Best Foundational SBO Support</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/dr-ruscio-soil-based-probiotic-review_49d468dd-51c0-4ab0-b457-7ebbb838d4bb.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Dr.+Ruscio+Probiotic';" alt="Dr. Ruscio Soil-Based Probiotic bottle." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/dr-ruscio-soil-based-probiotic-review_49d468dd-51c0-4ab0-b457-7ebbb838d4bb.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Dr.+Ruscio+Probiotic';" alt="Dr. Ruscio Soil-Based Probiotic bottle." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">From leading gut health expert Dr. Michael Ruscio, this probiotic provides a solid foundation of well-researched Bacillus strains. It's designed to support normal GI and immune function and is part of his "Triple Therapy" approach to healing the gut.</p>
                              <ul class="list-disc list-inside space-y-2 mb-4">
@@ -556,7 +559,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">Just Thrive Pets Probiotic</h3>
                     <p class="text-accent font-semibold mb-4">Best for Overall Pet Wellness & Palatability</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/just-pets-probiotic-is-a-soil-based-probiotic-for-dogs-by-just-thrive-.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/F5B82E/333333?text=Just+Thrive+Pets';" alt="Just Thrive Pets Soil-Based Probiotic for dogs." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/2025/06/just-pets-probiotic-is-a-soil-based-probiotic-for-dogs-by-just-thrive-.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/F5B82E/333333?text=Just+Thrive+Pets';" alt="Just Thrive Pets Soil-Based Probiotic for dogs." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">This vet-formulated probiotic contains robust strains like <em>Bacillus licheniformis</em> and is scientifically verified to survive the digestive tract, even during antibiotic use. It includes defatted grass-fed beef liver, making it highly palatable for picky eaters.</p>
                              <ul class="list-disc list-inside space-y-2 mb-4">
@@ -574,7 +577,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">Four Leaf Rover - Protect</h3>
                     <p class="text-accent font-semibold mb-4">Best for Daily Gut Maintenance & Yeast Control</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/four-leaf-rover-protect-soil-based-probiotics-for-dogs-review.png" onerror="this.onerror=null;this.src='https://placehold.co/400x300/2E5A88/FFFFFF?text=Four+Leaf+Rover';" alt="Four Leaf Rover Protect Soil-Based Probiotic for dogs." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/2025/06/four-leaf-rover-protect-soil-based-probiotics-for-dogs-review.png" onerror="this.onerror=null;this.src='https://placehold.co/400x300/2E5A88/FFFFFF?text=Four+Leaf+Rover';" alt="Four Leaf Rover Protect Soil-Based Probiotic for dogs." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">Protect is a daily soil-based probiotic blend designed to maintain gut health. It combines <em>Bacillus subtilis</em> and <em>Bacillus coagulans</em> with <em>Saccharomyces boulardii</em>, a beneficial yeast that helps fight yeast overgrowth and supports the gut during antibiotic use.</p>
                              <ul class="list-disc list-inside space-y-2 mb-4">

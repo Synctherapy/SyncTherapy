@@ -1,9 +1,12 @@
 ---
-title: "Plantar Fasciitis Treatment Victoria"
-date: "2025-07-07 14:38:52"
-slug: "plantar-fasciitis-treatment-victoria"
-description: ""
-seoTitle: ""
+title: Plantar Fasciitis Treatment Victoria
+date: '2025-07-07 14:38:52'
+slug: plantar-fasciitis-treatment-victoria
+description: >-
+  Page Coming Soon - Sync Therapy /* Custom styles based on the provided color
+  palette */ body { font-family: 'Inter', sans-serif; background-color: #F4F7F5;
+  /*...
+seoTitle: Plantar Fasciitis Treatment Victoria
 ---
 
 <!-- wp:html -->

@@ -1,9 +1,15 @@
 ---
-title: "Viome vs ZOE 2025: Complete Personalized Nutrition Comparison | Expert Analysis"
-date: "2025-08-17 03:52:54"
-slug: "viome-vs-zoe"
-description: ""
-seoTitle: ""
+title: >-
+  Viome vs ZOE 2025: Complete Personalized Nutrition Comparison | Expert
+  Analysis
+date: '2025-08-17 03:52:54'
+slug: viome-vs-zoe
+description: >-
+  /* WordPress-compatible styles with improved alignment */ .viome-zoe-article {
+  font-family: 'Inter', sans-serif !important; background-color: #F4F7F5...
+seoTitle: >-
+  Viome vs ZOE 2025: Complete Personalized Nutrition Comparison | Expert
+  Analysis
 ---
 
 <!-- wp:html -->

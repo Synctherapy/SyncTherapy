@@ -1,9 +1,12 @@
 ---
-title: "Why Us"
-date: "2024-07-10 03:25:04"
-slug: "why-us"
-description: ""
-seoTitle: ""
+title: Why Us
+date: '2024-07-10 03:25:04'
+slug: why-us
+description: >-
+  /* Color Palette & Typography */ :root { --primary-color: #2E5A88;
+  --secondary-color: #86BBD8; --accent-color: #F5B82E; --text-dark: #333333;
+  --text-light:...
+seoTitle: Why Us
 ---
 
 <!-- wp:html -->

@@ -1,9 +1,12 @@
 ---
-title: "Nutritionist in Victoria BC"
-date: "2024-08-07 06:43:26"
-slug: "holistic-nutrition"
-description: ""
-seoTitle: ""
+title: Nutritionist in Victoria BC
+date: '2024-08-07 06:43:26'
+slug: holistic-nutrition
+description: >-
+  Start Feeling Better Today Do you want to find out the best foods for your
+  body?Learn About Viome (Tells your best foods for your gut health) Say goodbye
+  to...
+seoTitle: Nutritionist in Victoria BC
 ---
 
 Start Feeling Better Today

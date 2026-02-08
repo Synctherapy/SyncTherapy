@@ -1,9 +1,12 @@
 ---
-title: "Athletic Therapy Colwood"
-date: "2025-07-03 00:30:38"
-slug: "athletic-therapy-colwood"
-description: ""
-seoTitle: ""
+title: Athletic Therapy Colwood
+date: '2025-07-03 00:30:38'
+slug: athletic-therapy-colwood
+description: >-
+  /* Consistent color scheme with previous version */ :root { --primary-color:
+  #2E5A88; --secondary-color: #86BBD8; --accent-color: #F5B82E;
+  --neutral-color:...
+seoTitle: Athletic Therapy Colwood
 ---
 
 <!-- wp:html -->
@@ -322,7 +325,7 @@ seoTitle: ""
 
                 </div>
 
-                <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" 
+                <img src="/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" 
 
                      alt="Athletic Therapist Colwood BC - Professional athletic therapy treatment room at Sync Therapy in Colwood featuring modern rehabilitation equipment, treatment table, and therapeutic tools for sports injury recovery - find athletic therapist near me Colwood" 
 

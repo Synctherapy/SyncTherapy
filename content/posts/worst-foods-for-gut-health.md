@@ -1,9 +1,12 @@
 ---
-title: "The Worst Foods To Eat For Your Gut Health In 2026"
-date: "2025-06-19 10:09:16"
-slug: "worst-foods-for-gut-health"
-description: ""
-seoTitle: ""
+title: The Worst Foods To Eat For Your Gut Health In 2026
+date: '2025-06-19 10:09:16'
+slug: worst-foods-for-gut-health
+description: >-
+  /* Custom styles based on the new design template */ body { font-family:
+  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
+  #333333; /*...
+seoTitle: The Worst Foods To Eat For Your Gut Health In 2026
 ---
 
 <!-- wp:html -->

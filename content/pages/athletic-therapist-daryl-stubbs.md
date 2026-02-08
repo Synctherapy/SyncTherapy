@@ -1,9 +1,12 @@
 ---
-title: "Our Athletic Therapist"
-date: "2025-07-03 00:25:40"
-slug: "athletic-therapist-daryl-stubbs"
-description: ""
-seoTitle: ""
+title: Our Athletic Therapist
+date: '2025-07-03 00:25:40'
+slug: athletic-therapist-daryl-stubbs
+description: >-
+  :root { --primary: #2E5A88; --secondary: #86BBD8; --accent: #F5B82E;
+  --accent-hover: #E5A71E; } * { margin: 0; padding: 0; box-sizing: border-box;
+  } body {...
+seoTitle: Our Athletic Therapist
 ---
 
 <!-- wp:html -->
@@ -402,7 +405,7 @@ seoTitle: ""
                 <div class="card sticky">
                     <div class="card-content">
                         <!-- Professional Headshot -->
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" 
+                        <img src="/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" 
                              alt="Daryl Stubbs, Certified Athletic Therapist specializing in sports injury rehabilitation" 
                              class="profile-image">
 
@@ -779,7 +782,7 @@ seoTitle: ""
         ],
         "description": "Daryl Stubbs is a Certified Athletic Therapist (CAT(C)) based in Colwood, serving Victoria, Langford, and the West Shore. He specializes in rapid return-to-sport rehabilitation and injury prevention.",
         "url": "https://synctherapylocal.local/our-team/athletic-therapist-daryl-stubbs/",
-        "image": "https://synctherapylocal.local/wp-content/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg",
+        "image": "/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg",
         "email": "daryl@synctherapy.ca",
         "telephone": "+1-250-812-8698",
         "address": {

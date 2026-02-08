@@ -1,9 +1,16 @@
 ---
-title: "Honest Kala Red Light Therapy Review 2026: Kala Pro Panel, PEMF Mat, and Mask Reviews"
-date: "2023-12-26 08:00:00"
-slug: "kala-red-light-therapy-review"
-description: ""
-seoTitle: ""
+title: >-
+  Honest Kala Red Light Therapy Review 2026: Kala Pro Panel, PEMF Mat, and Mask
+  Reviews
+date: '2023-12-26 08:00:00'
+slug: kala-red-light-therapy-review
+description: >-
+  /* Custom styles based on the design template */ body { font-family: 'Inter',
+  sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color: #333333;
+  /*...
+seoTitle: >-
+  Honest Kala Red Light Therapy Review 2026: Kala Pro Panel, PEMF Mat, and Mask
+  Reviews
 ---
 
 <!-- wp:html -->
@@ -277,7 +284,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">1. Kala Red Light Pro Panel</h3>
                     <p class="text-accent font-semibold mb-4">Best for Advanced, Full-Body Therapy</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/the-kala-red-light-therapy-reviews.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x400/CCCCCC/333333?text=Kala+Pro+Panel';" alt="Reviewer showing the Kala Pro red light therapy panel in an office setting." class="rounded-lg shadow-sm w-full h-auto object-cover">
+                        <img src="/uploads/content/the-kala-red-light-therapy-reviews.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x400/CCCCCC/333333?text=Kala+Pro+Panel';" alt="Reviewer showing the Kala Pro red light therapy panel in an office setting." class="rounded-lg shadow-sm w-full h-auto object-cover">
                         <div>
                             <p class="mb-4">The Kala Pro Panel is perfect for those seeking powerful, full-body benefits. While not designed for portability, its size and power make it an ideal addition to a home wellness routine for comprehensive skin rejuvenation, deep tissue healing, and overall health enhancement.</p>
                             <ul class="list-disc list-inside space-y-2 mb-4">
@@ -297,7 +304,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">2. Kala Red Light Mini</h3>
                     <p class="text-accent font-semibold mb-4">Best for Compact, Portable Power</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/kala-mini-review.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x400/CCCCCC/333333?text=Kala+Mini';" alt="A person using the Kala Mini red light therapy device for targeted facial treatment." class="rounded-lg shadow-sm w-full h-auto object-cover">
+                        <img src="/uploads/content/kala-mini-review.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x400/CCCCCC/333333?text=Kala+Mini';" alt="A person using the Kala Mini red light therapy device for targeted facial treatment." class="rounded-lg shadow-sm w-full h-auto object-cover">
                         <div>
                             <p class="mb-4">The Kala Mini is the ideal choice for anyone who wants to enjoy the benefits of red light therapy on the go. Its compact and lightweight design makes it incredibly convenient for travel, allowing for quick muscle recovery sessions or skin health boosts wherever you are.</p>
                             <ul class="list-disc list-inside space-y-2 mb-4">
@@ -316,7 +323,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">3. Kala Infrared PEMF Mat</h3>
                     <p class="text-accent font-semibold mb-4">Best for Pain Relief & Deep Relaxation</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/kala-red-light-pemf-mat-300x300_d5d27798-94b9-4567-a3f7-6171b8cabec4.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x400/CCCCCC/333333?text=Kala+PEMF+Mat';" alt="The Kala Infrared PEMF Mat laid out for a relaxation session." class="rounded-lg shadow-sm w-full h-auto object-cover">
+                        <img src="/uploads/content/kala-red-light-pemf-mat-300x300_d5d27798-94b9-4567-a3f7-6171b8cabec4.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x400/CCCCCC/333333?text=Kala+PEMF+Mat';" alt="The Kala Infrared PEMF Mat laid out for a relaxation session." class="rounded-lg shadow-sm w-full h-auto object-cover">
                         <div>
                             <p class="mb-4">This innovative mat uses Pulsed Electromagnetic Field (<a class="wpil_keyword_link" href="https://synctherapylocal.local/pemf-therapy/"   title="PEMF" data-wpil-keyword-link="linked"  data-wpil-monitor-id="7964">PEMF</a>) therapy combined with infrared heat to reduce aches, pains, and inflammation. By enhancing blood flow and cellular repair, it's perfect for relieving tired muscles and recovering faster after physical activity.</p>
                             <ul class="list-disc list-inside space-y-2 mb-4">
@@ -336,7 +343,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">4. Kala Red Light Therapy Mask</h3>
                     <p class="text-accent font-semibold mb-4">Best for Anti-Aging, Wrinkles & Acne</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/the-kala-Red-Light-Therapy-Mask-helps-canadians-improve-wrinkles-dark-spots-and-aging-on-their-face-and-neck_6549a573-9c2a-4db7-bdd5-ea8dc14ee58d.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x400/CCCCCC/333333?text=Kala+Mask';" alt="The Kala Red Light Therapy Face Mask, a premier choice for skin rejuvenation." class="rounded-lg shadow-sm w-full h-auto object-cover">
+                        <img src="/uploads/content/the-kala-Red-Light-Therapy-Mask-helps-canadians-improve-wrinkles-dark-spots-and-aging-on-their-face-and-neck_6549a573-9c2a-4db7-bdd5-ea8dc14ee58d.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x400/CCCCCC/333333?text=Kala+Mask';" alt="The Kala Red Light Therapy Face Mask, a premier choice for skin rejuvenation." class="rounded-lg shadow-sm w-full h-auto object-cover">
                         <div>
                             <p class="mb-4">The Kala Face Mask is the world's premier red light therapy mask, designed to tackle everything from wrinkles and dark spots to acne and redness. For the price of just 2-3 clinic sessions, you get a medical-grade device for unlimited treatments at home.</p>
                             <ul class="list-disc list-inside space-y-2 mb-4">

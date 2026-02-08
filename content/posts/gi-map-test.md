@@ -1,9 +1,12 @@
 ---
-title: "GI-MAP Stool Test Canada: 2026 Cost & Review"
-date: "2025-06-19 10:09:14"
-slug: "gi-map-test"
-description: ""
-seoTitle: ""
+title: 'GI-MAP Stool Test Canada: 2026 Cost & Review'
+date: '2025-06-19 10:09:14'
+slug: gi-map-test
+description: >-
+  /* Custom styles based on the new design template */ body { font-family:
+  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
+  #333333; /*...
+seoTitle: 'GI-MAP Stool Test Canada: 2026 Cost & Review'
 ---
 
 <!-- wp:html -->

@@ -1,9 +1,12 @@
 ---
-title: "Infraredi Reviews, Pro Max, Flex Max, 15% Off"
-date: "2024-02-12 08:00:00"
-slug: "infraredi-reviews"
-description: ""
-seoTitle: ""
+title: 'Infraredi Reviews, Pro Max, Flex Max, 15% Off'
+date: '2024-02-12 08:00:00'
+slug: infraredi-reviews
+description: >-
+  /* Custom styles based on the new design template */ body { font-family:
+  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
+  #333333; /*...
+seoTitle: 'Infraredi Reviews, Pro Max, Flex Max, 15% Off'
 ---
 
 <!-- wp:html -->
@@ -163,7 +166,7 @@ seoTitle: ""
                             <p class="mb-4 text-gray-700">Established in 2019, Infraredi has rapidly become one of the most trusted and reliable red light therapy companies for health enthusiasts and professionals in Canada. With a mission to provide the highest quality devices at affordable prices, every order ships free from their Montreal warehouse. Their dedication to customer satisfaction and innovative technology has earned them recognition as a leader in the industry. Known for offering the <a href="https://synctherapylocal.local/at-home-red-light-therapy/">best red light devices in Canada</a>, Infraredi continues to expand its product range, ensuring that users have access to the latest advancements in red light therapy. This commitment to excellence not only enhances the health and wellness community but also fosters a loyal base of returning customers.</p>
                             <p class="mb-4 text-gray-700">What truly sets Infraredi apart is their commitment to quality and safety. Their devices are the ONLY consumer devices in Canada to be **Approved by Health Canada**, a testament to their medical-grade quality. Furthermore, their Pro Series devices are listed on the Australian Register of Therapeutic Goods (ARTG) as a Medical Device Class IIa, complying with strict international safety standards.</p>
                         </div>
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/infraredi-pro-reviews-.webp" alt="The Infraredi Pro Max red light therapy panel in a clean, modern setting." class="rounded-lg shadow-md w-full">
+                        <img src="/uploads/2025/07/infraredi-pro-reviews-.webp" alt="The Infraredi Pro Max red light therapy panel in a clean, modern setting." class="rounded-lg shadow-md w-full">
                     </div>
                     <div class="mt-8 grid grid-cols-2 md:grid-cols-4 gap-4 text-center">
                         <div class="bg-blue-50 p-4 rounded-lg">
@@ -246,7 +249,7 @@ seoTitle: ""
                 <div class="space-y-8">
                     <!-- Pro Max Card -->
                     <div class="bg-white p-6 rounded-lg shadow-md flex flex-col md:flex-row gap-8">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/a-women-in-front-of-the-infrared-pro-max-while-reading-the-infraredi-review_f6874e3d-73b4-443e-bfc0-0a1a77a0fd7e.webp" alt="Woman using the Infraredi Pro Max Panel for a review." class="rounded-lg w-full md:w-1/3 h-auto object-cover">
+                        <img src="/uploads/content/a-women-in-front-of-the-infrared-pro-max-while-reading-the-infraredi-review_f6874e3d-73b4-443e-bfc0-0a1a77a0fd7e.webp" alt="Woman using the Infraredi Pro Max Panel for a review." class="rounded-lg w-full md:w-1/3 h-auto object-cover">
                         <div class="flex-1">
                             <h3 class="text-2xl font-bold">Infraredi Pro Max</h3>
                             <p class="text-gray-600 mb-4">The ultimate device for half to full body treatments, setting a new standard in red light therapy with medical-grade quality and multi-wavelength technology.</p>
@@ -262,7 +265,7 @@ seoTitle: ""
 
                     <!-- LED Mask Card -->
                     <div class="bg-white p-6 rounded-lg shadow-md flex flex-col md:flex-row gap-8">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/Infraredi-LED-Light-Therapy-Mask-review.webp" alt="Infraredi LED Light Therapy Mask for face" class="rounded-lg w-full md:w-1/3 h-auto object-cover">
+                        <img src="/uploads/2025/07/Infraredi-LED-Light-Therapy-Mask-review.webp" alt="Infraredi LED Light Therapy Mask for face" class="rounded-lg w-full md:w-1/3 h-auto object-cover">
                         <div class="flex-1">
                             <h3 class="text-2xl font-bold">LED Light Therapy Mask</h3>
                             <p class="text-gray-600 mb-4">Your ultimate solution for achieving radiant, youthful skin from home, minimizing fine lines, wrinkles, pigmentation, and acne.</p>
@@ -278,7 +281,7 @@ seoTitle: ""
 
                     <!-- Joint Wrap Card -->
                     <div class="bg-white p-6 rounded-lg shadow-md flex flex-col md:flex-row gap-8">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/infraredi-knee-joint-wrap-led-therapy-and-best-red-light-therapy-for-knee-pain.webp" alt="Infraredi Joint Wrap for knee pain" class="rounded-lg w-full md:w-1/3 h-auto object-cover">
+                        <img src="/uploads/2025/07/infraredi-knee-joint-wrap-led-therapy-and-best-red-light-therapy-for-knee-pain.webp" alt="Infraredi Joint Wrap for knee pain" class="rounded-lg w-full md:w-1/3 h-auto object-cover">
                         <div class="flex-1">
                             <h3 class="text-2xl font-bold">Joint Wrap</h3>
                             <p class="text-gray-600 mb-4">Your new everyday companion for managing joint pain and arthritis, designed to reach deep into joints for soothing relief.</p>
@@ -294,7 +297,7 @@ seoTitle: ""
 
                     <!-- Body Wrap Card -->
                     <div class="bg-white p-6 rounded-lg shadow-md flex flex-col md:flex-row gap-8">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/infraredi-led-device-for-back-pain-and-best-red-light-therapy-for-back-pain.webp" alt="Infraredi Body Wrap for back pain" class="rounded-lg w-full md:w-1/3 h-auto object-cover">
+                        <img src="/uploads/2025/07/infraredi-led-device-for-back-pain-and-best-red-light-therapy-for-back-pain.webp" alt="Infraredi Body Wrap for back pain" class="rounded-lg w-full md:w-1/3 h-auto object-cover">
                         <div class="flex-1">
                             <h3 class="text-2xl font-bold">Body Wrap</h3>
                             <p class="text-gray-600 mb-4">The ultimate pain relief and recovery solution, designed to provide targeted relief to the areas of your body that need it most.</p>

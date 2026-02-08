@@ -1,9 +1,12 @@
 ---
-title: "FlexBeam Review 2026: Recharge Health Red Light Therapy Device"
-date: "2024-04-11 17:49:13"
-slug: "flexbeam-reviews"
-description: ""
-seoTitle: ""
+title: 'FlexBeam Review 2026: Recharge Health Red Light Therapy Device'
+date: '2024-04-11 17:49:13'
+slug: flexbeam-reviews
+description: >-
+  body { font-family: 'Inter', sans-serif; background-color: #F4F7F5; color:
+  #333333; } html { scroll-behavior: smooth; } .bg-primary {
+  background-color:...
+seoTitle: 'FlexBeam Review 2026: Recharge Health Red Light Therapy Device'
 ---
 
 <!-- wp:html -->
@@ -152,7 +155,7 @@ seoTitle: ""
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "Recharge Health FlexBeam Red Light Therapy Device",
-  "image": "https://synctherapylocal.local/wp-content/uploads/content/flexbeam-red-light-therapy-reviews-in-Canada-from-an-expert-on-red-light-therapy-wearable-devices-300x169_7266d807-956c-4840-8d78-3521a5763256.webp",
+  "image": "/uploads/content/flexbeam-red-light-therapy-reviews-in-Canada-from-an-expert-on-red-light-therapy-wearable-devices-300x169_7266d807-956c-4840-8d78-3521a5763256.webp",
   "description": "FlexBeam is a wearable, portable red light therapy device that uses red and near-infrared wavelengths for pain relief, muscle recovery, and inflammation reduction.",
   "brand": {
     "@type": "Brand",
@@ -311,7 +314,7 @@ seoTitle: ""
                     <a href="https://recharge.health/" target="_blank" rel="nofollow sponsored" class="affiliate-button">Get the Best Deal on FlexBeam <i class="fas fa-arrow-right ml-2"></i></a>
                 </div>
                 <div>
-                    <img src="https://synctherapylocal.local/wp-content/uploads/content/flexbeam-red-light-therapy-reviews-in-Canada-from-an-expert-on-red-light-therapy-wearable-devices-300x169_7266d807-956c-4840-8d78-3521a5763256.webp" alt="FlexBeam Red Light Therapy Device Review" class="rounded-lg shadow-lg w-full">
+                    <img src="/uploads/content/flexbeam-red-light-therapy-reviews-in-Canada-from-an-expert-on-red-light-therapy-wearable-devices-300x169_7266d807-956c-4840-8d78-3521a5763256.webp" alt="FlexBeam Red Light Therapy Device Review" class="rounded-lg shadow-lg w-full">
                 </div>
             </div>
         </section>
@@ -381,7 +384,7 @@ seoTitle: ""
                 <div>
                     <div class="video-container">
                         <video controls preload="metadata">
-                            <source src="https://synctherapylocal.local/wp-content/uploads/2025/12/recharge-health-flexbeam-reviews.mp4" type="video/mp4">
+                            <source src="/uploads/2025/12/recharge-health-flexbeam-reviews.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
                     </div>
@@ -512,7 +515,7 @@ seoTitle: ""
                 <div>
                     <div class="video-container mb-4">
                         <video controls preload="metadata">
-                            <source src="https://synctherapylocal.local/wp-content/uploads/2025/12/recharge-flexbeam-review.mp4" type="video/mp4">
+                            <source src="/uploads/2025/12/recharge-flexbeam-review.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
                     </div>
@@ -533,7 +536,7 @@ seoTitle: ""
 
             <div class="grid md:grid-cols-2 gap-6 mb-6">
                 <div>
-                    <img src="https://synctherapylocal.local/wp-content/uploads/content/a-woman-is-using-the-flexbeam-red-light-therapy-device-to-reduce-backpain-200x300_86b6b54e-3aad-4ec5-869e-a8adf63258d9.webp" alt="FlexBeam for Back Pain Treatment" class="rounded-lg shadow-md w-full">
+                    <img src="/uploads/content/a-woman-is-using-the-flexbeam-red-light-therapy-device-to-reduce-backpain-200x300_86b6b54e-3aad-4ec5-869e-a8adf63258d9.webp" alt="FlexBeam for Back Pain Treatment" class="rounded-lg shadow-md w-full">
                 </div>
                 <div>
                     <h3 class="text-lg font-bold mb-3">Why I Recommend FlexBeam for Back Pain:</h3>
@@ -572,7 +575,7 @@ seoTitle: ""
                 <div>
                     <div class="video-container mb-4">
                         <video controls preload="metadata">
-                            <source src="https://synctherapylocal.local/wp-content/uploads/2025/12/my-flexbeam-review-for-knee-pain.mp4" type="video/mp4">
+                            <source src="/uploads/2025/12/my-flexbeam-review-for-knee-pain.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
                     </div>
@@ -598,7 +601,7 @@ seoTitle: ""
                 <div>
                     <div class="video-container mb-4">
                         <video controls preload="metadata">
-                            <source src="https://synctherapylocal.local/wp-content/uploads/2025/12/recharge-flex-beam-review-for-neck-pain.mp4" type="video/mp4">
+                            <source src="/uploads/2025/12/recharge-flex-beam-review-for-neck-pain.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
                     </div>
@@ -797,7 +800,7 @@ seoTitle: ""
                 <div>
                     <div class="video-container">
                         <video controls preload="metadata">
-                            <source src="https://synctherapylocal.local/wp-content/uploads/2025/12/recharge-flexbeam-reviews-.mp4" type="video/mp4">
+                            <source src="/uploads/2025/12/recharge-flexbeam-reviews-.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
                     </div>

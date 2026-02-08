@@ -1,9 +1,12 @@
 ---
-title: "Affiliate Disclosure"
-date: "2024-08-07 06:43:26"
-slug: "affiliate-disclosure"
-description: ""
-seoTitle: ""
+title: Affiliate Disclosure
+date: '2024-08-07 06:43:26'
+slug: affiliate-disclosure
+description: >-
+  The owner of https://synctherapylocal.local/ may receive compensation for
+  recommendations made in reference to the products or services on this website.
+  This...
+seoTitle: Affiliate Disclosure
 ---
 
 The owner of https://synctherapylocal.local/ may receive compensation for recommendations made in reference to the products or services on this website.

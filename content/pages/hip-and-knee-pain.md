@@ -1,9 +1,12 @@
 ---
-title: "Hip and Knee Pain"
-date: "2024-08-07 06:43:23"
-slug: "hip-and-knee-pain"
-description: ""
-seoTitle: ""
+title: Hip and Knee Pain
+date: '2024-08-07 06:43:23'
+slug: hip-and-knee-pain
+description: >-
+  { "@context": "https://schema.org", "@graph": [ { "@type": "Service", "@id":
+  "https://synctherapylocal.local/conditions/hip-knee-pain#hipPainService",
+  "name":...
+seoTitle: Hip and Knee Pain
 ---
 
 <!-- wp:html -->
@@ -345,7 +348,7 @@ seoTitle: ""
                         ⚠️ Book Today!
                     </span>
                 </div>
-                <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" 
+                <img src="/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" 
                      alt="Hip and Knee Pain Treatment Victoria BC - Professional massage therapy and athletic therapy treatment room at Sync Therapy featuring specialized equipment for hip pain relief, knee pain treatment, and biomechanical assessment in Victoria BC" 
                      style="width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
             </div>
@@ -621,7 +624,7 @@ seoTitle: ""
             <span class="badge badge-secondary" style="margin-top: 20px;">Trusted by 800+ hip & knee pain clients</span>
         </div>
 
-        <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/Direct-Billing-to-Extended-Health-Chiro-Physio-Acupuncture-Massage-with-RCMP-as-well.png" 
+        <img src="/uploads/2025/06/Direct-Billing-to-Extended-Health-Chiro-Physio-Acupuncture-Massage-with-RCMP-as-well.png" 
              alt="Direct billing process for hip and knee pain treatment - seamless insurance processing at Sync Therapy Victoria BC" 
              style="width: 100%; max-width: 600px; margin: 0 auto 40px; border-radius: 12px; display: block;">
 
@@ -701,7 +704,7 @@ seoTitle: ""
         <div class="card" style="overflow: hidden;">
             <div class="grid grid-2" style="align-items: center;">
                 <div>
-                    <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" 
+                    <img src="/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" 
                          alt="Daryl Stubbs - Registered Massage Therapist and Certified Athletic Therapist specializing in hip and knee pain treatment Victoria BC. Professional headshot of experienced RMT and CAT at Sync Therapy clinic specializing in hip pain relief, knee pain treatment, and biomechanical assessment for Victoria residents" 
                          style="width: 100%; border-radius: 12px;">
                 </div>

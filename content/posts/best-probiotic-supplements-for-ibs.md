@@ -1,9 +1,12 @@
 ---
-title: "11 Best Probiotics for IBS in Canada (2026) - IBS-D, IBS-C, Mixed"
-date: "2023-05-03 00:19:26"
-slug: "best-probiotic-supplements-for-ibs"
-description: ""
-seoTitle: ""
+title: '11 Best Probiotics for IBS in Canada (2026) - IBS-D, IBS-C, Mixed'
+date: '2023-05-03 00:19:26'
+slug: best-probiotic-supplements-for-ibs
+description: >-
+  /* Custom styles based on the design template */ body { font-family: 'Inter',
+  sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color: #333333;
+  /*...
+seoTitle: '11 Best Probiotics for IBS in Canada (2026) - IBS-D, IBS-C, Mixed'
 ---
 
 <!-- wp:html -->
@@ -332,14 +335,14 @@ seoTitle: ""
             <section id="top-picks">
                 <h2 class="text-3xl font-bold">The Top 11 Probiotic Supplements for IBS in 2026</h2>
                 
-                <img src="https://synctherapylocal.local/wp-content/uploads/content/Best-Probiotic-Supplements-For-IBS-1.png" onerror="this.onerror=null;this.src='https://placehold.co/800x400/CCCCCC/333333?text=Probiotics+for+IBS';" alt="A conceptual image showing probiotic capsules and beneficial bacteria, representing relief from IBS symptoms." class="rounded-lg shadow-lg mb-8 w-full">
+                <img src="/uploads/content/Best-Probiotic-Supplements-For-IBS-1.png" onerror="this.onerror=null;this.src='https://placehold.co/800x400/CCCCCC/333333?text=Probiotics+for+IBS';" alt="A conceptual image showing probiotic capsules and beneficial bacteria, representing relief from IBS symptoms." class="rounded-lg shadow-lg mb-8 w-full">
 
                 <!-- Product Cards -->
                 <div id="product-seed" class="bg-white p-6 rounded-lg shadow-md mb-8 border-t-4 border-accent">
                     <h3 class="text-2xl font-bold">1. Seed DS-01 Daily Synbiotic</h3>
                     <p class="text-accent font-semibold mb-4">Best Overall Probiotic for IBS</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/seed-probiotic-is-the-best-probiotic-for-ibs-symptoms.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Seed+DS-01';" alt="Seed DS-01 Daily Synbiotic probiotic supplement for overall IBS symptom relief and gut health." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/seed-probiotic-is-the-best-probiotic-for-ibs-symptoms.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Seed+DS-01';" alt="Seed DS-01 Daily Synbiotic probiotic supplement for overall IBS symptom relief and gut health." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">I've personally used Seed for my IBS and it's one of the few supplements that delivered on its promises. Its comprehensive formula with 24 strains and a prebiotic is ideal for tackling mixed IBS symptoms, including bloating, gas, and irregular bowel movements. For a deeper dive, read our full <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VlZC1wcm9iaW90aWNzLXJldmlld3Mv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VlZC1wcm9iaW90aWNzLXJldmlld3Mv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VlZC1wcm9iaW90aWNzLXJldmlld3Mv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VlZC1wcm9iaW90aWNzLXJldmlld3Mv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VlZC1wcm9iaW90aWNzLXJldmlld3Mv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VlZC1wcm9iaW90aWNzLXJldmlld3Mv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VlZC1wcm9iaW90aWNzLXJldmlld3Mv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VlZC1wcm9iaW90aWNzLXJldmlld3Mv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VlZC1wcm9iaW90aWNzLXJldmlld3Mv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VlZC1wcm9iaW90aWNzLXJldmlld3Mv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VlZC1wcm9iaW90aWNzLXJldmlld3Mv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VlZC1wcm9iaW90aWNzLXJldmlld3Mv" href="https://synctherapylocal.local/seed-probiotics-reviews/" class="text-primary hover:underline font-semibold">Seed Probiotics review</a>.</p>
                             <ul class="list-disc list-inside space-y-2 mb-4">
@@ -358,7 +361,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">2. Culturelle Daily Probiotic</h3>
                     <p class="text-accent font-semibold mb-4">Best Probiotic for IBS Diarrhea (IBS-D)</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/Culturelle-digestive-probiotic-for-irritable-bowel-syndrome.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Culturelle+Probiotic';" alt="Culturelle Daily Digestive Health probiotic, a top-rated budget-friendly choice for IBS diarrhea." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/Culturelle-digestive-probiotic-for-irritable-bowel-syndrome.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Culturelle+Probiotic';" alt="Culturelle Daily Digestive Health probiotic, a top-rated budget-friendly choice for IBS diarrhea." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">Culturelle is a top-tier choice if you're looking for the best probiotic to stop diarrhea. It features the most studied bacterial strain for IBS, <a href="https://www.theprobioticsinstitute.com/en/chr-hansen-probiotics/lgg" target="_blank" rel="noopener" class="text-primary hover:underline font-semibold">Lactobacillus rhamnosus GG</a>, making it an excellent and affordable option for improving diarrhea, pain, and bloating.</p>
                             <ul class="list-disc list-inside space-y-2 mb-4">
@@ -377,7 +380,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">3. Align Probiotic</h3>
                     <p class="text-accent font-semibold mb-4">Best Probiotic for IBS Constipation (IBS-C)</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/align-probiotic-for-ibs-symptoms.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Align+Probiotic';" alt="Align Probiotic Digestive Supplement, a trusted budget option for managing IBS with constipation." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/align-probiotic-for-ibs-symptoms.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Align+Probiotic';" alt="Align Probiotic Digestive Supplement, a trusted budget option for managing IBS with constipation." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">If you’re on a budget and struggle with IBS with constipation, Align is a fantastic choice. It contains the unique, patented strain <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2886445/" target="_blank" rel="noopener" class="text-primary hover:underline font-semibold">Bifidobacterium infantis 35624</a>, which is clinically shown to provide relief from abdominal pain, bloating, and constipation. Learn more in our <a href="https://synctherapylocal.local/align-probiotic-supplement-review/" class="text-primary hover:underline font-semibold">Align Probiotic review</a>.</p>
                             <ul class="list-disc list-inside space-y-2 mb-4">
@@ -396,7 +399,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">4. YourBiology Gut+</h3>
                     <p class="text-accent font-semibold mb-4"><a href="https://synctherapylocal.local/probiotics-for-women/"  data-wpil-monitor-id="8">Best Probiotic for Women with IBS</a></p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/Yourbilogy-Gut-as-probiotics-for-women-by-using-lactobacillus-plantarum-support-digestive-health-immune-system-health-by-using-probiotic-supplements.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=YourBiology+Gut+';" alt="YourBiology Gut+ probiotic supplement, designed for women's digestive health and IBS." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/Yourbilogy-Gut-as-probiotics-for-women-by-using-lactobacillus-plantarum-support-digestive-health-immune-system-health-by-using-probiotic-supplements.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=YourBiology+Gut+';" alt="YourBiology Gut+ probiotic supplement, designed for women's digestive health and IBS." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">YourBiology is specifically formulated for women's health needs, combining beneficial strains like L. plantarum and L. paracasei with prebiotics. Users report improvements in digestion, reduced bloating, and successful weight management.</p>
                             <ul class="list-disc list-inside space-y-2 mb-4">
@@ -415,7 +418,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">5. Ritual Synbiotic+</h3>
                     <p class="text-accent font-semibold mb-4">Best 3-in-1 Formula for IBS-D</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/ritual-probiotic-for-ibs-d.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Ritual+Synbiotic+';" alt="Ritual Synbiotic+ probiotic, prebiotic, and postbiotic formula for IBS-D." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/ritual-probiotic-for-ibs-d.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Ritual+Synbiotic+';" alt="Ritual Synbiotic+ probiotic, prebiotic, and postbiotic formula for IBS-D." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">Ritual offers a unique 3-in-1 formula with prebiotics, probiotics, and a postbiotic to provide comprehensive gut support. Its delayed-release capsule and clinically-studied strains make it a top choice for managing diarrhea and bloating. See how it compares in our <a href="https://synctherapylocal.local/seed-vs-ritual-probiotics/" class="text-primary hover:underline font-semibold">Seed vs Ritual review</a>.</p>
                             <ul class="list-disc list-inside space-y-2 mb-4">
@@ -434,7 +437,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">6. Just Thrive Probiotic</h3>
                     <p class="text-accent font-semibold mb-4">Best Soil-Based Probiotic for Bloating & Gas</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/just-thrive-probiotic-can-help-ibs-c.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Just+Thrive';" alt="Just Thrive soil-based probiotic for sensitive stomachs and IBS bloating." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/just-thrive-probiotic-can-help-ibs-c.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Just+Thrive';" alt="Just Thrive soil-based probiotic for sensitive stomachs and IBS bloating." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">If you're sensitive to typical probiotics, a <a href="https://synctherapylocal.local/benefits-of-soil-based-probiotics/" class="text-primary hover:underline font-semibold">soil-based option</a> like Just Thrive is an excellent choice. Its spore-based strains are designed to survive the stomach's harsh environment, arriving 100% alive in the intestines to support gut and immune health, and are particularly good for gas and bloating. Check out our <a href="https://synctherapylocal.local/just-thrive-probiotic-review/" class="text-primary hover:underline font-semibold">Just Thrive review</a> for more.</p>
                             <ul class="list-disc list-inside space-y-2 mb-4">
@@ -453,7 +456,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">7. Viome Precision Probiotics + Prebiotics</h3>
                     <p class="text-accent font-semibold mb-4">Best Personalized Probiotic</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/viome-personalised-probitics-to-help-ibs-mixed.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Viome';" alt="The Viome Gut Intelligence Test kit for personalized probiotic recommendations." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/viome-personalised-probitics-to-help-ibs-mixed.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Viome';" alt="The Viome Gut Intelligence Test kit for personalized probiotic recommendations." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">Viome takes the guesswork out of probiotics. They offer an at-home <a data-wpil="url" href="https://synctherapylocal.local/gut-health-test/" class="text-primary hover:underline font-semibold">gut health test</a> that analyzes your unique microbiome and then creates a personalized blend of probiotics and prebiotics to target your specific needs, including the gut-brain axis for <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" href="https://synctherapylocal.local/best-probiotic-supplements-for-ibs/" class="text-primary hover:underline font-semibold">IBS and anxiety</a>. Learn more from our <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdmlvbWUtcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdmlvbWUtcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdmlvbWUtcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdmlvbWUtcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdmlvbWUtcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdmlvbWUtcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdmlvbWUtcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdmlvbWUtcmV2aWV3Lw==" href="https://synctherapylocal.local/viome-review/" class="text-primary hover:underline font-semibold">Viome review</a>.</p>
                             <ul class="list-disc list-inside space-y-2 mb-4">
@@ -472,7 +475,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">8. VSL#3 or Visbiome</h3>
                     <p class="text-accent font-semibold mb-4">Best for Severe, Clinician-Guided IBS</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/visbiome-or-vsl3-probiotic-for-ibs-relief.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=VSL#3+Probiotic';" alt="VSL#3 high-potency medical food probiotic for severe IBS management." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/visbiome-or-vsl3-probiotic-for-ibs-relief.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=VSL#3+Probiotic';" alt="VSL#3 high-potency medical food probiotic for severe IBS management." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">This is a high-potency, medical-grade probiotic often used clinically by doctors for severe IBS symptoms. While expensive, its blend of eight live bacterial strains is one of the most potent and well-researched formulas available for both IBS-D and IBS-C.</p>
                             <ul class="list-disc list-inside space-y-2 mb-4">
@@ -491,7 +494,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">9. Cymbiotika Probiotic</h3>
                     <p class="text-accent font-semibold mb-4">Best Premium Formula for IBS Relief</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/using-probiotic-supplements-for-ibs-bloating.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Cymbiotika+Probiotic';" alt="Cymbiotika's premium probiotic supplement for advanced digestive health and IBS relief." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/using-probiotic-supplements-for-ibs-bloating.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Cymbiotika+Probiotic';" alt="Cymbiotika's premium probiotic supplement for advanced digestive health and IBS relief." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">This premium formula contains 19 of the <a href="https://synctherapylocal.local/best-probiotic-strains/" class="text-primary hover:underline font-semibold">best probiotic strains</a> available, but it comes at a price. It's designed to help balance the gut microbiome, boost energy, lower stress, and significantly reduce IBS symptoms. See our <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY3ltYmlvdGlrYS12cy1zZWVkLWRzLTAxLXByb2Jpb3RpYy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY3ltYmlvdGlrYS12cy1zZWVkLWRzLTAxLXByb2Jpb3RpYy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY3ltYmlvdGlrYS12cy1zZWVkLWRzLTAxLXByb2Jpb3RpYy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY3ltYmlvdGlrYS12cy1zZWVkLWRzLTAxLXByb2Jpb3RpYy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY3ltYmlvdGlrYS12cy1zZWVkLWRzLTAxLXByb2Jpb3RpYy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY3ltYmlvdGlrYS12cy1zZWVkLWRzLTAxLXByb2Jpb3RpYy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY3ltYmlvdGlrYS12cy1zZWVkLWRzLTAxLXByb2Jpb3RpYy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY3ltYmlvdGlrYS12cy1zZWVkLWRzLTAxLXByb2Jpb3RpYy8=" href="https://synctherapylocal.local/cymbiotika-vs-seed-ds-01-probiotic/" class="text-primary hover:underline font-semibold">Cymbiotika vs Seed</a> comparison for more details.</p>
                             <ul class="list-disc list-inside space-y-2 mb-4">
@@ -510,7 +513,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">10. Megasporebiotic</h3>
                     <p class="text-accent font-semibold mb-4">Best Clinician-Grade for IBS & Brain Fog</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/using-a-soil-based-probiotic-for-ibs-relief.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Megasporebiotic';" alt="Megasporebiotic clinician-grade, spore-based probiotic for IBS and leaky gut." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/using-a-soil-based-probiotic-for-ibs-relief.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Megasporebiotic';" alt="Megasporebiotic clinician-grade, spore-based probiotic for IBS and leaky gut." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">Megasporebiotic is another clinician-grade, spore-based probiotic that has shown amazing results with clients. It's particularly effective for those with IBS who also experience low energy and brain fog, as it helps reduce symptoms of <a href="https://synctherapylocal.local/warning-signs-you-have-leaky-gut/" class="text-primary hover:underline font-semibold">"leaky gut"</a>. Read our <a href="https://synctherapylocal.local/megasporebiotic-reviews/" class="text-primary hover:underline font-semibold">Megasporebiotic review</a> to learn more.</p>
                             <ul class="list-disc list-inside space-y-2 mb-4">
@@ -529,7 +532,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">11. Thorne Research FloraMend Prime Probiotic</h3>
                     <p class="text-accent font-semibold mb-4">Best for Occasional Gas & Bloating</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/floramend-prime-probiotic-for-ibs-suffers.png" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Thorne+FloraMend';" alt="Thorne Research FloraMend Prime Probiotic for managing occasional digestive gas and bloating." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/floramend-prime-probiotic-for-ibs-suffers.png" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Thorne+FloraMend';" alt="Thorne Research FloraMend Prime Probiotic for managing occasional digestive gas and bloating." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">Floramend is a decent probiotic that can help with occasional gas and bloating. It contains a blend of six probiotic strains, including Lactobacillus acidophilus and Bifidobacterium bifidum, to support digestive health.</p>
                             <ul class="list-disc list-inside space-y-2 mb-4">

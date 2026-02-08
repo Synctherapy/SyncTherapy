@@ -1,9 +1,12 @@
 ---
-title: "Your First RMT Massage in Langford (2025 Guide) | Sync Massage Therapy"
-date: "2025-07-31 15:06:12"
-slug: "preparing-first-massage-session-langford"
-description: ""
-seoTitle: ""
+title: Your First RMT Massage in Langford (2025 Guide) | Sync Massage Therapy
+date: '2025-07-31 15:06:12'
+slug: preparing-first-massage-session-langford
+description: >-
+  /* Custom styles based on the new design template */ body { font-family:
+  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
+  #333333; /*...
+seoTitle: Your First RMT Massage in Langford (2025 Guide) | Sync Massage Therapy
 ---
 
 <!-- wp:html -->

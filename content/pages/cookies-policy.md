@@ -1,9 +1,12 @@
 ---
-title: "Cookies Policy"
-date: "2024-08-07 06:43:30"
-slug: "cookies-policy"
-description: ""
-seoTitle: ""
+title: Cookies Policy
+date: '2024-08-07 06:43:30'
+slug: cookies-policy
+description: >-
+  My Company Sync Therapy ("us", "we", or "our") uses cookies on My Website
+  https://synctherapylocal.local/ (the "Service"). By using the Service, you
+  consent to...
+seoTitle: Cookies Policy
 ---
 
 <!-- wp:paragraph -->

@@ -1,9 +1,12 @@
 ---
-title: "Red Light Therapy For Psoriasis: How To Use It In 2026"
-date: "2024-02-15 08:00:00"
-slug: "red-light-therapy-psoriasis"
-description: ""
-seoTitle: ""
+title: 'Red Light Therapy For Psoriasis: How To Use It In 2026'
+date: '2024-02-15 08:00:00'
+slug: red-light-therapy-psoriasis
+description: >-
+  body { font-family: 'Inter', sans-serif; background-color: #F4F7F5; color:
+  #333333; } html { scroll-behavior: smooth; } .bg-primary {
+  background-color:...
+seoTitle: 'Red Light Therapy For Psoriasis: How To Use It In 2026'
 ---
 
 <!-- wp:html -->

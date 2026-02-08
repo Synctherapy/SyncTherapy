@@ -1,0 +1,37 @@
+import { HeroSection } from "@/components/sections/hero-section";
+import { IntroSection } from "@/components/sections/intro-section";
+import { ProblemSection } from "@/components/sections/problem-section";
+import { GuideSection } from "@/components/sections/guide-section";
+import { TestimonialsSection } from "@/components/sections/testimonials-section";
+import { PlanSection } from "@/components/sections/plan-section";
+import { PopularServicesSection } from "@/components/sections/popular-services-section";
+import { CategoriesSection } from "@/components/sections/categories-section";
+import { DetailedServicesSection } from "@/components/sections/detailed-services-section";
+import { ConditionsSection } from "@/components/sections/conditions-section";
+import { PricingSection } from "@/components/sections/pricing-section";
+import { WhyChooseSection } from "@/components/sections/why-choose-section";
+import { FaqSection } from "@/components/sections/faq-section";
+import { CtaSection } from "@/components/sections/cta-section";
+import { LocationSection } from "@/components/sections/location-section";
+
+export default function Home() {
+  return (
+    <main>
+      <HeroSection />
+      <IntroSection />
+      <PopularServicesSection />
+      <CategoriesSection />
+      <DetailedServicesSection />
+      <ConditionsSection />
+      <ProblemSection />
+      <GuideSection />
+      <TestimonialsSection />
+      <PlanSection />
+      <PricingSection />
+      <WhyChooseSection />
+      <FaqSection />
+      <CtaSection />
+      <LocationSection />
+    </main>
+  );
+}

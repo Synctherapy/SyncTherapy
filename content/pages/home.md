@@ -1,9 +1,12 @@
 ---
-title: "Home"
-date: "2025-07-03 19:10:57"
-slug: "home"
-description: ""
-seoTitle: ""
+title: Home
+date: '2025-07-03 19:10:57'
+slug: home
+description: >-
+  Book Now Home / Langford Massage Therapy Award-Winning Wellness Services
+  Langford Massage Therapy & Athletic Therapy Serving Westshore, Colwood &
+  Victoria...
+seoTitle: Home
 ---
 
 <!-- wp:html -->
@@ -115,7 +118,7 @@ seoTitle: ""
             </div>
             <div class="relative">
                 <div class="relative rounded-2xl overflow-hidden shadow-2xl">
-                    <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" alt="Daryl Stubbs, Registered Massage Therapist at Sync Therapy in Colwood, BC providing professional massage therapy treatment" class="w-full h-auto object-cover" width="1920" height="2560" fetchpriority="high" loading="eager">
+                    <img src="/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" alt="Daryl Stubbs, Registered Massage Therapist at Sync Therapy in Colwood, BC providing professional massage therapy treatment" class="w-full h-auto object-cover" width="1920" height="2560" fetchpriority="high" loading="eager">
                     <div class="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
                 </div>
                 <div class="absolute -bottom-6 -left-6 bg-white rounded-xl shadow-lg p-4 border">
@@ -719,7 +722,7 @@ seoTitle: ""
         <div class="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto mb-8">
             <div class="card p-8 text-center bg-white hover:shadow-xl transition-all duration-300">
                 <div class="w-24 h-24 rounded-full overflow-hidden mx-auto mb-6">
-                    <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" alt="Daryl Stubbs, Registered Massage Therapist (RMT) at Sync Therapy in Colwood, BC" class="w-full h-full object-cover">
+                    <img src="/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" alt="Daryl Stubbs, Registered Massage Therapist (RMT) at Sync Therapy in Colwood, BC" class="w-full h-full object-cover">
                 </div>
                 <h3 class="text-xl font-bold text-text mb-2">Daryl Stubbs, Langford RMT</h3>
                 <p class="text-primary font-medium mb-4">Registered Massage Therapist</p>
@@ -730,7 +733,7 @@ seoTitle: ""
             </div>
             <div class="card p-8 text-center bg-white hover:shadow-xl transition-all duration-300">
                 <div class="w-24 h-24 rounded-full overflow-hidden mx-auto mb-6">
-                    <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" alt="Daryl Stubbs, Athletic Therapist (AT) at Sync Therapy in Colwood, BC" class="w-full h-full object-cover">
+                    <img src="/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" alt="Daryl Stubbs, Athletic Therapist (AT) at Sync Therapy in Colwood, BC" class="w-full h-full object-cover">
                 </div>
                 <h3 class="text-xl font-bold text-text mb-2">Daryl Stubbs, AT</h3>
                 <p class="text-primary font-medium mb-4">Athletic Therapist</p>
@@ -784,7 +787,7 @@ seoTitle: ""
                 <a href="https://synctherapylocal.local/about/why-us/" class="btn-primary px-8 py-3">Learn More About Us</a>
             </div>
             <div class="relative">
-                <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/sync-massage-therapy-clinic-in-colwood-langford-and-victoria-treating-with-an-RMT.jpg" alt="Sync Therapy massage clinic interior in Colwood serving Victoria, Langford with professional RMT treatment rooms" class="rounded-2xl shadow-xl w-full h-auto object-cover">
+                <img src="/uploads/2025/07/sync-massage-therapy-clinic-in-colwood-langford-and-victoria-treating-with-an-RMT.jpg" alt="Sync Therapy massage clinic interior in Colwood serving Victoria, Langford with professional RMT treatment rooms" class="rounded-2xl shadow-xl w-full h-auto object-cover">
             </div>
         </div>
     </div>
@@ -796,7 +799,7 @@ seoTitle: ""
         <div class="max-w-4xl mx-auto text-center">
             <div class="mb-8">
                 <div class="w-32 h-32 rounded-full overflow-hidden mx-auto mb-4">
-                    <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" alt="Daryl Stubbs, Registered Massage Therapist and founder of Sync Therapy" class="w-full h-full object-cover">
+                    <img src="/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" alt="Daryl Stubbs, Registered Massage Therapist and founder of Sync Therapy" class="w-full h-full object-cover">
                 </div>
                 <h2 class="text-3xl font-bold text-text mb-4 font-heading">Meet Your Registered Massage Therapist</h2>
                 <p class="text-lg text-text/70 leading-relaxed">

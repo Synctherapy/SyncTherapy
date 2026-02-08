@@ -1,9 +1,12 @@
 ---
-title: "Massage Therapy Colwood"
-date: "2025-07-03 00:31:09"
-slug: "massage-therapy-colwood"
-description: ""
-seoTitle: ""
+title: Massage Therapy Colwood
+date: '2025-07-03 00:31:09'
+slug: massage-therapy-colwood
+description: >-
+  :root { --primary: #2E5A88; --primary-light: #4A7AAA; --secondary: #86BBD8;
+  --accent: #F5B82E; --neutral: #F4F7F5; --text: #333333; --text-light:
+  #666666;...
+seoTitle: Massage Therapy Colwood
 ---
 
 <!-- wp:html -->
@@ -291,7 +294,7 @@ seoTitle: ""
                 </div>
                 
                 <div>
-                    <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" 
+                    <img src="/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" 
                          alt="RMT Colwood - Daryl Stubbs massage therapist at Sync Therapy Colwood"
                          style="width: 100%; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.1);">
                     <div style="background: var(--white); padding: 12px; border-radius: 8px; margin-top: -30px; position: relative; margin-left: 20px; margin-right: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
@@ -460,7 +463,7 @@ seoTitle: ""
             <div class="card" style="max-width: 900px; margin: 0 auto;">
                 <div class="grid grid-2" style="align-items: center;">
                     <div>
-                        <img src="https://synctherapylocal.local/wp-content/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" 
+                        <img src="/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg" 
                              alt="Daryl Stubbs RMT - Your Colwood massage therapist"
                              style="width: 100%; border-radius: 8px;">
                     </div>
@@ -879,7 +882,7 @@ seoTitle: ""
       "provider": {
         "@type": "MedicalBusiness",
         "name": "Sync Massage Therapy",
-        "image": "https://synctherapylocal.local/wp-content/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg",
+        "image": "/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg",
         "telephone": "+1-250-812-8698",
         "priceRange": "$$",
         "paymentAccepted": "Cash, Credit Card, Direct Billing",

@@ -1,9 +1,12 @@
 ---
-title: "Swedish Relaxation Massage Victoria"
-date: "2025-07-04 14:16:03"
-slug: "swedish-relaxation-massage-victoria"
-description: ""
-seoTitle: ""
+title: Swedish Relaxation Massage Victoria
+date: '2025-07-04 14:16:03'
+slug: swedish-relaxation-massage-victoria
+description: >-
+  tailwind.config = { theme: { extend: { colors: { primary: { DEFAULT:
+  '#2E5A88', foreground: '#FFFFFF' }, secondary: { DEFAULT: '#86BBD8',
+  foreground: '#333333'...
+seoTitle: Swedish Relaxation Massage Victoria
 ---
 
 <!-- wp:html -->

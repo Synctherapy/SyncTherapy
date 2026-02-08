@@ -1,9 +1,16 @@
 ---
-title: "Seed Pediatric Probiotic Reviews (2025): An Expert's Guide for Parents To PDS-08 Daily Synbiotic"
-date: "2025-07-20 17:35:07"
-slug: "seed-pediatric-probiotic-reviews"
-description: ""
-seoTitle: ""
+title: >-
+  Seed Pediatric Probiotic Reviews (2025): An Expert's Guide for Parents To
+  PDS-08 Daily Synbiotic
+date: '2025-07-20 17:35:07'
+slug: seed-pediatric-probiotic-reviews
+description: >-
+  /* Custom styles based on the design template */ body { font-family: 'Inter',
+  sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color: #333333;
+  /*...
+seoTitle: >-
+  Seed Pediatric Probiotic Reviews (2025): An Expert's Guide for Parents To
+  PDS-08 Daily Synbiotic
 ---
 
 <!-- wp:html -->
@@ -143,7 +150,7 @@ seoTitle: ""
             <section id="product-highlight-cta" class="bg-white p-6 rounded-lg shadow-md">
                 <h2 class="text-2xl font-bold text-center mb-4">Our Top-Rated Pediatric Probiotic</h2>
                 <div class="border border-gray-200 p-4 rounded-lg flex flex-col items-center max-w-md mx-auto">
-                    <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/seed-pds-08-review-for-the-best-teens-probiotic-in-canada.webp" alt="Seed PDS-08 Pediatric Daily Synbiotic welcome kit with its refillable jar and daily sachets." class="rounded-lg shadow-sm w-full mb-4" loading="lazy" decoding="async" width="1000" height="1000">
+                    <img src="/uploads/2025/07/seed-pds-08-review-for-the-best-teens-probiotic-in-canada.webp" alt="Seed PDS-08 Pediatric Daily Synbiotic welcome kit with its refillable jar and daily sachets." class="rounded-lg shadow-sm w-full mb-4" loading="lazy" decoding="async" width="1000" height="1000">
                     <div class="flex-grow text-center">
                         <h3 class="text-xl font-bold text-primary">Seed PDS-08® Pediatric Synbiotic</h3>
                         <p class="font-semibold text-accent mb-2">The Gold Standard for Children's Gut Health</p>
@@ -156,7 +163,7 @@ seoTitle: ""
                 </div>
             </section>
 
-            <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/seed-pediatric-probiotic-reivew-of-pds-08-.jpg" alt="A detailed look at the Seed PDS-08 box, jar, and travel container." class="rounded-lg shadow-lg w-full" loading="lazy" decoding="async" width="800" height="600">
+            <img src="/uploads/2025/07/seed-pediatric-probiotic-reivew-of-pds-08-.jpg" alt="A detailed look at the Seed PDS-08 box, jar, and travel container." class="rounded-lg shadow-lg w-full" loading="lazy" decoding="async" width="800" height="600">
 
             <!-- Table of Contents -->
             <nav id="table-of-contents" class="bg-white p-6 rounded-lg shadow-md">
@@ -193,7 +200,7 @@ seoTitle: ""
                             <p class="text-sm text-gray-600">The formula includes strains studied for their role in the gut-skin axis, contributing to healthy skin by supporting gut barrier function and modulating immune responses.</p>
                         </div>
                     </div>
-                    <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/the-best-probiotic-for-kids-over-3-is-seed-kids-probiotic.webp" alt="A young child eating yogurt, a common way to administer Seed PDS-08." class="rounded-lg shadow-lg w-full" loading="lazy" decoding="async" width="800" height="600" onerror="this.onerror=null;this.src='https://placehold.co/800x600/f4f7f5/333333?text=Healthy+Child';">
+                    <img src="/uploads/2025/07/the-best-probiotic-for-kids-over-3-is-seed-kids-probiotic.webp" alt="A young child eating yogurt, a common way to administer Seed PDS-08." class="rounded-lg shadow-lg w-full" loading="lazy" decoding="async" width="800" height="600" onerror="this.onerror=null;this.src='https://placehold.co/800x600/f4f7f5/333333?text=Healthy+Child';">
                 </div>
             </section>
             
@@ -239,7 +246,7 @@ seoTitle: ""
                 </div>
             </section>
             
-            <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/seed-pds-08-review-in-canada-.jpg" alt="Seed PDS-08 synbiotic powder shown with fresh fruit, illustrating its natural formulation." class="rounded-lg shadow-lg w-full my-12" loading="lazy" decoding="async" width="800" height="600">
+            <img src="/uploads/2025/07/seed-pds-08-review-in-canada-.jpg" alt="Seed PDS-08 synbiotic powder shown with fresh fruit, illustrating its natural formulation." class="rounded-lg shadow-lg w-full my-12" loading="lazy" decoding="async" width="800" height="600">
 
 
             <!-- PDS-08 Section -->
@@ -287,7 +294,7 @@ seoTitle: ""
                 </div>
             </section>
 
-            <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/seed-pediatric-probiotic-reviews-in-canada.webp" alt="A lifestyle image showcasing the Seed PDS-08 jar in a home setting." class="rounded-lg shadow-lg w-full my-12" loading="lazy" decoding="async" width="800" height="600">
+            <img src="/uploads/2025/07/seed-pediatric-probiotic-reviews-in-canada.webp" alt="A lifestyle image showcasing the Seed PDS-08 jar in a home setting." class="rounded-lg shadow-lg w-full my-12" loading="lazy" decoding="async" width="800" height="600">
             
             <!-- PDS-08 vs. The Competition -->
             <section id="comparison">
@@ -385,7 +392,7 @@ seoTitle: ""
                 </div>
             </section>
             
-            <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/seed-pds-08-review-for-the-best-teens-probiotic-in-canada.webp" alt="A teenager holding the Seed PDS-08 product, highlighting its suitability for adolescents." class="rounded-lg shadow-lg w-full my-12" loading="lazy" decoding="async" width="800" height="600" onerror="this.onerror=null;this.src='https://placehold.co/800x600/f4f7f5/333333?text=Product+Comparison';">
+            <img src="/uploads/2025/07/seed-pds-08-review-for-the-best-teens-probiotic-in-canada.webp" alt="A teenager holding the Seed PDS-08 product, highlighting its suitability for adolescents." class="rounded-lg shadow-lg w-full my-12" loading="lazy" decoding="async" width="800" height="600" onerror="this.onerror=null;this.src='https://placehold.co/800x600/f4f7f5/333333?text=Product+Comparison';">
 
             <!-- Buyer's Guide Section -->
             <section id="buyers-guide" class="bg-white p-8 rounded-lg shadow-md">

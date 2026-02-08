@@ -1,9 +1,12 @@
 ---
-title: "ICBC Massage Therapy"
-date: "2024-08-07 06:43:20"
-slug: "icbc-massage-therapy"
-description: ""
-seoTitle: ""
+title: ICBC Massage Therapy
+date: '2024-08-07 06:43:20'
+slug: icbc-massage-therapy
+description: >-
+  Helping you recover from a car accident with Massage Therapy in Victoria Book
+  Your Appointment Online - WE'RE NOT ACCEPTING NEW CLEINTS CURRENTLY Working
+  with...
+seoTitle: ICBC Massage Therapy
 ---
 
 <p> </p>

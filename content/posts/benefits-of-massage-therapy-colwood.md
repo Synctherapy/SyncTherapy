@@ -1,9 +1,12 @@
 ---
-title: "Top Benefits of Massage Therapy for Colwood Residents - Sync Massage Therapy"
-date: "2025-07-31 15:21:04"
-slug: "benefits-of-massage-therapy-colwood"
-description: ""
-seoTitle: ""
+title: Top Benefits of Massage Therapy for Colwood Residents - Sync Massage Therapy
+date: '2025-07-31 15:21:04'
+slug: benefits-of-massage-therapy-colwood
+description: >-
+  /* Custom styles based on the new design template */ body { font-family:
+  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
+  #333333; /*...
+seoTitle: Top Benefits of Massage Therapy for Colwood Residents - Sync Massage Therapy
 ---
 
 <!-- wp:html -->

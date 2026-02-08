@@ -1,9 +1,12 @@
 ---
-title: "Terms of Service"
-date: "2024-08-07 06:43:30"
-slug: "terms-of-service"
-description: ""
-seoTitle: ""
+title: Terms of Service
+date: '2024-08-07 06:43:30'
+slug: terms-of-service
+description: >-
+  These Terms govern your access to, usage of all content, Product and Services
+  available at https://synctherapylocal.local/ website (the “Service”) operated
+  by...
+seoTitle: Terms of Service
 ---
 
 <!-- wp:paragraph -->

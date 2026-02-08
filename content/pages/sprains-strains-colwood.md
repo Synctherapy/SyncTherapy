@@ -1,9 +1,12 @@
 ---
-title: "Sprains Strains Colwood"
-date: "2025-07-07 14:32:40"
-slug: "sprains-strains-colwood"
-description: ""
-seoTitle: ""
+title: Sprains Strains Colwood
+date: '2025-07-07 14:32:40'
+slug: sprains-strains-colwood
+description: >-
+  Page Coming Soon - Sync Therapy /* Custom styles based on the provided color
+  palette */ body { font-family: 'Inter', sans-serif; background-color: #F4F7F5;
+  /*...
+seoTitle: Sprains Strains Colwood
 ---
 
 <!-- wp:html -->

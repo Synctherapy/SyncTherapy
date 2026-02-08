@@ -1,9 +1,12 @@
 ---
-title: "Red Light Therapy for Thyroid & Hashimoto's (2026 Guide)"
-date: "2025-07-19 22:58:56"
-slug: "red-light-therapy-for-thyroid"
-description: ""
-seoTitle: ""
+title: Red Light Therapy for Thyroid & Hashimoto's (2026 Guide)
+date: '2025-07-19 22:58:56'
+slug: red-light-therapy-for-thyroid
+description: >-
+  /* Custom styles based on the new design template */ body { font-family:
+  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
+  #333333; /*...
+seoTitle: Red Light Therapy for Thyroid & Hashimoto's (2026 Guide)
 ---
 
 <!-- wp:html -->
@@ -111,7 +114,7 @@ seoTitle: ""
       },
       "datePublished": "2025-07-19",
       "dateModified": "2025-07-19",
-      "image": "https://synctherapylocal.local/wp-content/uploads/2025/07/a-woman-using-red-light-hterapy-for-thyroid-and-to-reduce-her-hashimotos-thyroiditis.webp",
+      "image": "/uploads/2025/07/a-woman-using-red-light-hterapy-for-thyroid-and-to-reduce-her-hashimotos-thyroiditis.webp",
       "description": "Our 2025 guide explores how red light therapy (PBM) can significantly improve Hashimoto's thyroiditis by reducing antibodies, improving hormone function, and aiding weight loss.",
       "publisher": {
           "@type": "Organization",
@@ -131,7 +134,7 @@ seoTitle: ""
             <p class="text-lg text-gray-600">In recent years, the pursuit of optimal health has led many to explore innovative therapies that support overall well-being. Among these, red light therapy for thyroid health has emerged as a promising option, particularly for those managing autoimmune conditions like Hashimoto's thyroiditis. As we delve into this 2025 guide, we aim to provide health and fitness enthusiasts with the latest insights and research surrounding red light therapy. Understanding how this non-invasive treatment can enhance thyroid function and alleviate symptoms will empower you to make informed decisions about your wellness journey. Join us as we explore the benefits, mechanisms, and practical applications of red light therapy in the context of thyroid health and Hashimoto's.</p>
         </header>
 
-        <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/a-woman-using-red-light-hterapy-for-thyroid-and-to-reduce-her-hashimotos-thyroiditis.webp" alt="A woman using a red light therapy device on her neck to support thyroid health and manage Hashimoto's thyroiditis." class="rounded-lg shadow-lg mb-12 w-full">
+        <img src="/uploads/2025/07/a-woman-using-red-light-hterapy-for-thyroid-and-to-reduce-her-hashimotos-thyroiditis.webp" alt="A woman using a red light therapy device on her neck to support thyroid health and manage Hashimoto's thyroiditis." class="rounded-lg shadow-lg mb-12 w-full">
 
         <main class="space-y-16">
             
@@ -217,7 +220,7 @@ seoTitle: ""
                     <p>Conventional treatment involves lifelong levothyroxine (LT<sub>4</sub>) hormone replacement. However, this only manages the hormone deficiency; it doesn't stop the underlying autoimmune attack that causes the persistent symptoms.</p>
                 </section>
                 
-                <img src="https://synctherapylocal.local/wp-content/uploads/2025/07/a-woman-trying-the-best-red-light-therapy-for-thyroid-devices-.webp" alt="A woman using different red light therapy devices, including a panel and a mask, to treat her thyroid." class="rounded-lg shadow-lg my-8 w-full">
+                <img src="/uploads/2025/07/a-woman-trying-the-best-red-light-therapy-for-thyroid-devices-.webp" alt="A woman using different red light therapy devices, including a panel and a mask, to treat her thyroid." class="rounded-lg shadow-lg my-8 w-full">
 
                 <section id="what-is-rlt">
                     <h2 class="text-2xl font-bold">How Red Light Therapy Works for the Thyroid</h2>

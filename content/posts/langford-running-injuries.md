@@ -1,9 +1,12 @@
 ---
-title: "The Langford Runner's Blueprint (2025) | Sync Massage Therapy"
-date: "2025-07-31 17:14:38"
-slug: "langford-running-injuries"
-description: ""
-seoTitle: ""
+title: The Langford Runner's Blueprint (2025) | Sync Massage Therapy
+date: '2025-07-31 17:14:38'
+slug: langford-running-injuries
+description: >-
+  Add Post /* Custom styles based on the new design template */ body {
+  font-family: 'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light
+  */ color:...
+seoTitle: The Langford Runner's Blueprint (2025) | Sync Massage Therapy
 ---
 
 <!-- wp:paragraph -->

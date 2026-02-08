@@ -1,9 +1,12 @@
 ---
-title: "Best Red Light Therapy Masks in Canada (2026 Review)"
-date: "2024-03-11 07:00:00"
-slug: "best-red-light-therapy-mask"
-description: ""
-seoTitle: ""
+title: Best Red Light Therapy Masks in Canada (2026 Review)
+date: '2024-03-11 07:00:00'
+slug: best-red-light-therapy-mask
+description: >-
+  /* Custom styles based on the new design template */ body { font-family:
+  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
+  #333333; /*...
+seoTitle: Best Red Light Therapy Masks in Canada (2026 Review)
 ---
 
 <!-- wp:html -->
@@ -110,7 +113,7 @@ seoTitle: ""
             "@type": "Product",
             "name": "HigherDOSE Red Light Face Mask",
             "description": "A top-tier red light and near-infrared face mask for reducing fine lines and wrinkles.",
-            "image": "https://synctherapylocal.local/wp-content/uploads/content/higherdose-red-light-therapy-mask_583496b3-8a7b-4fe8-8b0a-e05ca35363b0.webp",
+            "image": "/uploads/content/higherdose-red-light-therapy-mask_583496b3-8a7b-4fe8-8b0a-e05ca35363b0.webp",
             "brand": {
               "@type": "Brand",
               "name": "HigherDOSE"
@@ -127,7 +130,7 @@ seoTitle: ""
             "@type": "Product",
             "name": "Omnilux Contour FACE",
             "description": "An FDA-cleared, dermatologist-recommended LED mask for anti-aging and skin rejuvenation.",
-            "image": "https://synctherapylocal.local/wp-content/uploads/content/the-omnilux-contour-face-mask-is-a-top-rated-best-red-light-therapy-face-mask-to-help-with-aging_71d55d7a-eda3-44bb-ac46-f828263b1a50.webp",
+            "image": "/uploads/content/the-omnilux-contour-face-mask-is-a-top-rated-best-red-light-therapy-face-mask-to-help-with-aging_71d55d7a-eda3-44bb-ac46-f828263b1a50.webp",
             "brand": {
               "@type": "Brand",
               "name": "Omnilux"
@@ -144,7 +147,7 @@ seoTitle: ""
             "@type": "Product",
             "name": "Omnilux MEN",
             "description": "A red light mask specifically engineered for the unique needs of men's thicker skin.",
-            "image": "https://synctherapylocal.local/wp-content/uploads/content/the-omnilux-men-light-mask-is-a-fantastic-red-light-mask-for-men_cf57b656-b0c6-484a-9f1f-e4fc24cdfc13.webp",
+            "image": "/uploads/content/the-omnilux-men-light-mask-is-a-fantastic-red-light-mask-for-men_cf57b656-b0c6-484a-9f1f-e4fc24cdfc13.webp",
             "brand": {
               "@type": "Brand",
               "name": "Omnilux"
@@ -161,7 +164,7 @@ seoTitle: ""
             "@type": "Product",
             "name": "Omnilux CLEAR",
             "description": "A medical-grade LED mask using blue and red light to treat acne-prone skin.",
-            "image": "https://synctherapylocal.local/wp-content/uploads/content/the-omnilux-led-mask-for-acne-uses-red-and-blue-light_1fba471f-36dc-4932-80b2-4bdb10befde4.webp",
+            "image": "/uploads/content/the-omnilux-led-mask-for-acne-uses-red-and-blue-light_1fba471f-36dc-4932-80b2-4bdb10befde4.webp",
             "brand": {
               "@type": "Brand",
               "name": "Omnilux"
@@ -178,7 +181,7 @@ seoTitle: ""
             "@type": "Product",
             "name": "CurrentBody Skin LED Light Therapy Mask",
             "description": "A powerful LED face mask for treating wrinkles, rosacea, and dark spots.",
-            "image": "https://synctherapylocal.local/wp-content/uploads/content/currentbody-led-red-light-therapy-mask-is-fantastic-for-improving-skin-health_b4820472-e5b3-4c04-a58b-bbd912fb241f.webp",
+            "image": "/uploads/content/currentbody-led-red-light-therapy-mask-is-fantastic-for-improving-skin-health_b4820472-e5b3-4c04-a58b-bbd912fb241f.webp",
             "brand": {
               "@type": "Brand",
               "name": "CurrentBody"
@@ -195,7 +198,7 @@ seoTitle: ""
             "@type": "Product",
             "name": "Infraredi LED Light Therapy Mask",
             "description": "A medical-grade red and near-infrared light therapy mask for both wrinkles and acne.",
-            "image": "https://synctherapylocal.local/wp-content/uploads/content/Infraredi-LED-Light-Therapy-Mask-using-red-light-to-improve-wrinkles-and-skin-health_224f2455-418c-43f5-9d7d-2e91414bbbec.webp",
+            "image": "/uploads/content/Infraredi-LED-Light-Therapy-Mask-using-red-light-to-improve-wrinkles-and-skin-health_224f2455-418c-43f5-9d7d-2e91414bbbec.webp",
             "brand": {
               "@type": "Brand",
               "name": "Infraredi"
@@ -212,7 +215,7 @@ seoTitle: ""
             "@type": "Product",
             "name": "Kala Red Light Therapy Mask",
             "description": "A professional-grade red light mask with a high number of LEDs and customizable settings.",
-            "image": "https://synctherapylocal.local/wp-content/uploads/content/the-kala-Red-Light-Therapy-Mask-helps-canadians-improve-wrinkles-dark-spots-and-aging-on-their-face-and-neck_6549a573-9c2a-4db7-bdd5-ea8dc14ee58d.webp",
+            "image": "/uploads/content/the-kala-Red-Light-Therapy-Mask-helps-canadians-improve-wrinkles-dark-spots-and-aging-on-their-face-and-neck_6549a573-9c2a-4db7-bdd5-ea8dc14ee58d.webp",
             "brand": {
               "@type": "Brand",
               "name": "Kala"
@@ -289,14 +292,14 @@ seoTitle: ""
             <section id="top-picks">
                 <h2 class="text-3xl font-bold">The Best Red Light Therapy Masks of 2026</h2>
                 
-                <img src="https://synctherapylocal.local/wp-content/uploads/content/v2-7bo3r-dp75r.jpg" onerror="this.onerror=null;this.src='https://placehold.co/800x400/CCCCCC/333333?text=Red+Light+Mask';" alt="A woman relaxing while using a red light therapy face mask for an at-home skincare treatment." class="rounded-lg shadow-lg mb-8 w-full">
+                <img src="/uploads/content/v2-7bo3r-dp75r.jpg" onerror="this.onerror=null;this.src='https://placehold.co/800x400/CCCCCC/333333?text=Red+Light+Mask';" alt="A woman relaxing while using a red light therapy face mask for an at-home skincare treatment." class="rounded-lg shadow-lg mb-8 w-full">
 
                 <!-- Product Cards -->
                 <div id="product1" class="bg-white p-6 rounded-lg shadow-md mb-8 border-t-4 border-accent">
                     <h3 class="text-2xl font-bold">1. HigherDOSE Red Light Face Mask</h3>
                     <p class="text-accent font-semibold mb-4">Best Overall for Reducing Fine Lines & Wrinkles</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/higherdose-red-light-therapy-mask_583496b3-8a7b-4fe8-8b0a-e05ca35363b0.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=HigherDOSE+Mask';" alt="The HigherDOSE red led mask shown on a surface, highlighting its flexible silicone design." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/higherdose-red-light-therapy-mask_583496b3-8a7b-4fe8-8b0a-e05ca35363b0.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=HigherDOSE+Mask';" alt="The HigherDOSE red led mask shown on a surface, highlighting its flexible silicone design." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">The HigherDOSE mask is a top-tier choice recognized for its effectiveness in reversing signs of aging. For a deeper look, check out our full <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmxvZ3MvcmVkLWxpZ2h0LXRoZXJhcHkvaGlnaGVyZG9zZS1mYWNlLW1hc2stcmV2aWV3" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvaGlnaGVyZG9zZS1mYWNlLW1hc2stcmV2aWV3" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvaGlnaGVyZG9zZS1mYWNlLW1hc2stcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvaGlnaGVyZG9zZS1mYWNlLW1hc2stcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvaGlnaGVyZG9zZS1mYWNlLW1hc2stcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvaGlnaGVyZG9zZS1mYWNlLW1hc2stcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvaGlnaGVyZG9zZS1mYWNlLW1hc2stcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvaGlnaGVyZG9zZS1mYWNlLW1hc2stcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvaGlnaGVyZG9zZS1mYWNlLW1hc2stcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvaGlnaGVyZG9zZS1mYWNlLW1hc2stcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvaGlnaGVyZG9zZS1mYWNlLW1hc2stcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvaGlnaGVyZG9zZS1mYWNlLW1hc2stcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvaGlnaGVyZG9zZS1mYWNlLW1hc2stcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvaGlnaGVyZG9zZS1mYWNlLW1hc2stcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvaGlnaGVyZG9zZS1mYWNlLW1hc2stcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvaGlnaGVyZG9zZS1mYWNlLW1hc2stcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvaGlnaGVyZG9zZS1mYWNlLW1hc2stcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvaGlnaGVyZG9zZS1mYWNlLW1hc2stcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvaGlnaGVyZG9zZS1mYWNlLW1hc2stcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvaGlnaGVyZG9zZS1mYWNlLW1hc2stcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvaGlnaGVyZG9zZS1mYWNlLW1hc2stcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvaGlnaGVyZG9zZS1mYWNlLW1hc2stcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvaGlnaGVyZG9zZS1mYWNlLW1hc2stcmV2aWV3Lw==" href="https://synctherapylocal.local/higherdose-face-mask-review/" class="text-primary hover:underline font-semibold">HigherDOSE face mask review</a>. Its wireless, medical-grade silicone design allows you to remain active during treatments.</p>
                             <ul class="list-disc list-inside space-y-2 mb-4">
@@ -315,7 +318,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">2. Omnilux Contour FACE</h3>
                     <p class="text-accent font-semibold mb-4">Best for Anti-Aging & Younger Looking Skin</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/the-omnilux-contour-face-mask-is-a-top-rated-best-red-light-therapy-face-mask-to-help-with-aging_71d55d7a-eda3-44bb-ac46-f828263b1a50.webp" onerror="this.onerror=null;this.src="https://synctherapylocal.local/wp-content/uploads/2025/11/Contour_Face_Cover_Image.jpg";" alt="The Omnilux Contour led light therapy mask, a popular choice in Canada for anti-aging." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/the-omnilux-contour-face-mask-is-a-top-rated-best-red-light-therapy-face-mask-to-help-with-aging_71d55d7a-eda3-44bb-ac46-f828263b1a50.webp" onerror="this.onerror=null;this.src="/uploads/2025/11/Contour_Face_Cover_Image.jpg";" alt="The Omnilux Contour led light therapy mask, a popular choice in Canada for anti-aging." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">A dermatologist-recommended, FDA-cleared mask celebrated for its anti-aging results. It's clinically proven to reduce fine lines, pigmentation, and redness for a plumper, brighter complexion. The mask utilizes advanced red light therapy technology, which is not only effective for skin rejuvenation but also ranks among the <a href="https://synctherapylocal.local/fda-approved-red-light-therapy-devices-for-pain/">best red light devices for pain</a> relief. Users have reported significant improvements in their skin texture and overall appearance after just a few weeks of consistent use. Incorporating this innovative mask into your skincare routine can lead to long-lasting, youthful results.</p>
                              <ul class="list-disc list-inside space-y-2 mb-4">
@@ -334,7 +337,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">3. Omnilux MEN</h3>
                     <p class="text-accent font-semibold mb-4">Best for Skincare Tailored for Men</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/the-omnilux-men-light-mask-is-a-fantastic-red-light-mask-for-men_cf57b656-b0c6-484a-9f1f-e4fc24cdfc13.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Omnilux+Men';" alt="The Omnilux Men red light mask designed specifically for men's skincare needs." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/the-omnilux-men-light-mask-is-a-fantastic-red-light-mask-for-men_cf57b656-b0c6-484a-9f1f-e4fc24cdfc13.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Omnilux+Men';" alt="The Omnilux Men red light mask designed specifically for men's skincare needs." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">The only LED mask calibrated with a deep-penetrating 1072nm wavelength to meet the needs of men's thicker skin. It effectively targets fine lines, dark circles, and razor burn.</p>
                              <ul class="list-disc list-inside space-y-2 mb-4">
@@ -353,7 +356,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">4. Omnilux CLEAR</h3>
                     <p class="text-accent font-semibold mb-4">Best Medical-Grade Mask for Acne</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/the-omnilux-led-mask-for-acne-uses-red-and-blue-light_1fba471f-36dc-4932-80b2-4bdb10befde4.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Omnilux+Clear';" alt="The Omnilux Clear led red light therapy mask, which combines blue and red light for acne treatment." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/the-omnilux-led-mask-for-acne-uses-red-and-blue-light_1fba471f-36dc-4932-80b2-4bdb10befde4.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Omnilux+Clear';" alt="The Omnilux Clear led red light therapy mask, which combines blue and red light for acne treatment." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">The most powerful at-home LED treatment for acne-prone skin. It uses blue light to kill bacteria and red light to reduce inflammation, offering a holistic solution for clearer skin. In addition to its acne-fighting properties, this device enhances skin texture and promotes healing for a more radiant complexion. As one of the <a href="https://synctherapylocal.local/best-red-light-therapy-panels/">best red light therapy panels</a> on the market, it is designed for easy use at home, fitting seamlessly into any skincare routine. Users can expect visible results with regular use, making it an essential tool for anyone looking to improve their skin health. Furthermore, this device also offers <a href="https://synctherapylocal.local/red-light-therapy-for-cold-sore/">red light therapy benefits for cold sores</a>, helping to speed up healing and minimize outbreaks. Its versatility makes it ideal not just for acne but for other skin concerns as well, providing a comprehensive approach to skincare. By incorporating this treatment into a routine, users can experience long-lasting improvements in overall skin health and resilience.</p>
                              <ul class="list-disc list-inside space-y-2 mb-4">
@@ -372,7 +375,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">5. CurrentBody Skin LED Light Therapy Mask</h3>
                     <p class="text-accent font-semibold mb-4">Best for Wrinkles, Rosacea & Dark Spots</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/currentbody-led-red-light-therapy-mask-is-fantastic-for-improving-skin-health_b4820472-e5b3-4c04-a58b-bbd912fb241f.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=CurrentBody+Mask';" alt="The CurrentBody Skin LED Light Therapy Face Mask, known for its power and effectiveness." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/currentbody-led-red-light-therapy-mask-is-fantastic-for-improving-skin-health_b4820472-e5b3-4c04-a58b-bbd912fb241f.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=CurrentBody+Mask';" alt="The CurrentBody Skin LED Light Therapy Face Mask, known for its power and effectiveness." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">Celebrated for its power (31% higher than competitors), this FDA-cleared mask is clinically proven to diminish wrinkles in four weeks and is excellent for improving conditions like <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmxvZ3MvcmVkLWxpZ2h0LXRoZXJhcHkvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWE=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWE=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXJvc2FjZWEv" href="https://synctherapylocal.local/red-light-therapy-for-rosacea/" class="text-primary hover:underline font-semibold">rosacea</a> and dark spots.</p>
                              <ul class="list-disc list-inside space-y-2 mb-4">
@@ -391,7 +394,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">6. Infraredi LED Light Therapy Mask</h3>
                     <p class="text-accent font-semibold mb-4">Best Medical-Grade for Wrinkles & Acne</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/Infraredi-LED-Light-Therapy-Mask-using-red-light-to-improve-wrinkles-and-skin-health_224f2455-418c-43f5-9d7d-2e91414bbbec.webp" onerror="this.onerror=null;this.src="https://synctherapylocal.local/wp-content/uploads/2025/11/infraredi-red-light-therapy-mask-at-home.webp";" alt="The Infraredi LED Light Therapy Mask, a medical-grade option available in Canada." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/Infraredi-LED-Light-Therapy-Mask-using-red-light-to-improve-wrinkles-and-skin-health_224f2455-418c-43f5-9d7d-2e91414bbbec.webp" onerror="this.onerror=null;this.src="/uploads/2025/11/infraredi-red-light-therapy-mask-at-home.webp";" alt="The Infraredi LED Light Therapy Mask, a medical-grade option available in Canada." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">This medical-grade option utilizes both red (630nm) and near-infrared (850nm) light for a powerful, dual-action approach to treating both wrinkles and acne with clinical precision. For more, read our <a data-wpil="url" href="https://synctherapylocal.local/infraredi-reviews/" class="text-primary hover:underline font-semibold">Infraredi reviews</a>. This innovative treatment harnesses the power of light to penetrate deep into the skin, promoting collagen production and accelerating healing. Many users have reported visible improvements in skin texture and tone, highlighting the impressive <a href="https://synctherapylocal.local/red-light-therapy-and-stretch-marks/">red light therapy benefits for skin</a>. Incorporating this advanced technology into your skincare routine can result in a more youthful and radiant complexion.</p>
                              <ul class="list-disc list-inside space-y-2 mb-4">
@@ -410,7 +413,7 @@ seoTitle: ""
                     <h3 class="text-2xl font-bold">7. Kala Red Light Therapy Mask</h3>
                     <p class="text-accent font-semibold mb-4">Best for Professional, Customizable Treatments</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://synctherapylocal.local/wp-content/uploads/content/the-kala-Red-Light-Therapy-Mask-helps-canadians-improve-wrinkles-dark-spots-and-aging-on-their-face-and-neck_6549a573-9c2a-4db7-bdd5-ea8dc14ee58d.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Kala+Mask';" alt="The Kala red light therapy mask, a leading choice for customizable treatments in Canada." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/the-kala-Red-Light-Therapy-Mask-helps-canadians-improve-wrinkles-dark-spots-and-aging-on-their-face-and-neck_6549a573-9c2a-4db7-bdd5-ea8dc14ee58d.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Kala+Mask';" alt="The Kala red light therapy mask, a leading choice for customizable treatments in Canada." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">Ideal for those seeking professional-level results, the Kala mask features an impressive 807 medical-grade nano LED bulbs and adjustable color settings for highly customized treatments.</p>
                              <ul class="list-disc list-inside space-y-2 mb-4">

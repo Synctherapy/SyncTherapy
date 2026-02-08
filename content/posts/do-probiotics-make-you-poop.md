@@ -1,9 +1,12 @@
 ---
-title: "Do Probiotics Make You Poop? Complete Guide to Digestive Relief 2026"
-date: "2024-06-29 21:57:10"
-slug: "do-probiotics-make-you-poop"
-description: ""
-seoTitle: ""
+title: Do Probiotics Make You Poop? Complete Guide to Digestive Relief 2026
+date: '2024-06-29 21:57:10'
+slug: do-probiotics-make-you-poop
+description: >-
+  /* Custom styles based on the new design template */ body { font-family:
+  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
+  #333333; /*...
+seoTitle: Do Probiotics Make You Poop? Complete Guide to Digestive Relief 2026
 ---
 
 <!-- wp:html -->

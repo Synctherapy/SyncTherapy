@@ -1,9 +1,12 @@
 ---
-title: "About Author Daryl Stubbs"
-date: "2025-06-26 23:39:21"
-slug: "about-daryl-stubbs"
-description: ""
-seoTitle: ""
+title: About Author Daryl Stubbs
+date: '2025-06-26 23:39:21'
+slug: about-daryl-stubbs
+description: >-
+  About the Author Daryl Stubbs—6-time “Best Massage & Rehab Clinic” winner
+  (Community Votes) and founder of Sync Therapy. With 12 years’ experience and
+  10,000+...
+seoTitle: About Author Daryl Stubbs
 ---
 
 <!-- wp:html -->

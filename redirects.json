@@ -1,0 +1,717 @@
+[
+  {
+    "source": "/blogs/red-light-therapy/mito-pro-x-750-review",
+    "destination": "/mito-pro-x-750-review/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/red-light-therapy/red-light-therapy-for-dogs",
+    "destination": "/red-light-therapy-for-dogs/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/red-light-therapy/infraredi-vs-kala",
+    "destination": "/infraredi-vs-kala/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/red-light-therapy/red-light-therapy-before-and-after",
+    "destination": "/red-light-therapy-before-and-after/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/red-light-therapy/red-light-therapy-and-scars",
+    "destination": "/red-light-therapy-and-scars/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/red-light-therapy/red-light-therapy-cellulite",
+    "destination": "/red-light-therapy-cellulite/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/red-light-therapy/platinum-led-therapy-lights-review",
+    "destination": "/platinum-led-therapy-lights-review/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/red-light-therapy/best-red-light-therapy-mask",
+    "destination": "/best-red-light-therapy-mask/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/red-light-therapy/kala-red-light-therapy-review",
+    "destination": "/kala-red-light-therapy-review/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/red-light-therapy/red-light-therapy-for-fibromyalgia",
+    "destination": "/red-light-therapy-for-fibromyalgia/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/red-light-therapy/best-at-home-red-light-therapy-devices",
+    "destination": "/at-home-red-light-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/red-light-therapy/role-of-red-light-therapy-in-anti-aging-studies-and-findings",
+    "destination": "/role-of-red-light-therapy-in-anti-aging-studies-and-findings/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/red-light-therapy/photobiomodulation-explained",
+    "destination": "/photobiomodulation-explained/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/red-light-therapy/red-light-therapy-beds-2",
+    "destination": "/red-light-therapy-beds/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/red-light-therapy/red-light-therapy-for-gut-health",
+    "destination": "/red-light-therapy-for-gut-health/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/red-light-therapy/fda-approved-red-light-therapy-devices-for-pain",
+    "destination": "/fda-approved-red-light-therapy-devices-for-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/hydrogen-water/lourdes-hydrofix-review",
+    "destination": "/lourdes-hydrofix-review/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/hydrogen-water/lumivitae-hydrogen-water-bottle-review",
+    "destination": "/lumivitae-hydrogen-water-bottle-review/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/hydrogen-water/gary-brecka-hydrogen-water-bottle",
+    "destination": "/gary-brecka-hydrogen-water-bottle/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/hydrogen-water/kim-kardashian-hydrogen-water",
+    "destination": "/kim-kardashian-hydrogen-water/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/hydrogen-water/is-hydrogen-water-good-for-kidneys",
+    "destination": "/is-hydrogen-water-good-for-kidneys/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/hydrogen-water/echo-go-hydrogen-water-bottle-review",
+    "destination": "/echo-go-hydrogen-water-bottle-review/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/hydrogen-water/echo-flask-review",
+    "destination": "/echo-flask-review/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/hydrogen-water",
+    "destination": "/hydrogen-water/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/health/best-probiotic-supplements-for-ibs",
+    "destination": "/best-probiotic-supplements-for-ibs/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/health/perfect-aminos-reviews",
+    "destination": "/perfect-aminos-reviews/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/health/best-sauerkraut-for-probiotics",
+    "destination": "/best-sauerkraut-for-probiotics/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/health/gary-brecka-pemf-mat",
+    "destination": "/best-pemf-mats/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/health/seed-probiotics-reviews",
+    "destination": "/seed-probiotics-reviews/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/health/best-hydrogen-water-bottles",
+    "destination": "/best-hydrogen-water-bottles/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/health/hydrogen-water-tablets",
+    "destination": "/hydrogen-water-tablets/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/health/mito-red-light-therapy-review",
+    "destination": "/mito-red-light-therapy-review/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/blog/best-supplements-for-anxiety",
+    "destination": "/best-supplements-for-anxiety/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/supplements/best-prebiotics-and-probiotics-supplements",
+    "destination": "/best-prebiotics-and-probiotics-supplements/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/supplements/gary-brecka-supplements",
+    "destination": "/gary-brecka-supplements/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/supplements/amen-supplements-review",
+    "destination": "/amen-supplements-review/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/supplements/ritual-synbiotic-review",
+    "destination": "/ritual-synbiotic-review/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/supplements/cymbiotika-vs-seed-ds-01-probiotic",
+    "destination": "/cymbiotika-vs-seed-ds-01-probiotic/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/diet/gary-brecka-diet",
+    "destination": "/gary-brecka-diet/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/diet/prunes-vs-dates-for-constipation-relief",
+    "destination": "/prunes-vs-dates-for-constipation-relief/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/gary-brecka-diet-guide",
+    "destination": "/gary-brecka-diet/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/gut-health/best-supplements-for-sibo",
+    "destination": "/best-supplements-for-sibo/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/gut-health/gut-health-test",
+    "destination": "/gut-health-test/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/gut-health/foods-that-harm-gut-health",
+    "destination": "/worst-foods-for-gut-health/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/skin-health/best-skincare-for-pcos-acne",
+    "destination": "/best-skincare-for-pcos-acne/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/skin-health/best-vegan-acne-treatment",
+    "destination": "/best-vegan-acne-treatment/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/pemf-therapy/best-pemf-mats",
+    "destination": "/best-pemf-mats/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/digestion/can-gerd-cause-back-pain-between-shoulder-blades",
+    "destination": "/can-gerd-cause-back-pain-between-shoulder-blades/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/water-filters/best-countertop-reverse-osmosis-system",
+    "destination": "/best-countertop-reverse-osmosis-system/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs",
+    "destination": "/blog-1/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/diet",
+    "destination": "/blog-1/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/health",
+    "destination": "/blog-1/",
+    "permanent": true
+  },
+  {
+    "source": "/2016/01/14/have-you-tried-meth-a-rice-alternative",
+    "destination": "/meth-the-alternative-to-the-rice-method/",
+    "permanent": true
+  },
+  {
+    "source": "/2019/01/09/vitamins-and-minerals-for-anxiety",
+    "destination": "/best-supplements-for-anxiety/",
+    "permanent": true
+  },
+  {
+    "source": "/cymbiotika-golden-mind",
+    "destination": "/cymbiotika-vs-seed-ds-01-probiotic/",
+    "permanent": true
+  },
+  {
+    "source": "/cymbiotika-nmn",
+    "destination": "/cymbiotika-vs-seed-ds-01-probiotic/",
+    "permanent": true
+  },
+  {
+    "source": "/cymbiotika-sleep-review",
+    "destination": "/cymbiotika-vs-seed-ds-01-probiotic/",
+    "permanent": true
+  },
+  {
+    "source": "/cymbiotika-vitamin-d",
+    "destination": "/cymbiotika-vs-seed-ds-01-probiotic/",
+    "permanent": true
+  },
+  {
+    "source": "/cymbiotika-activated-charcoal",
+    "destination": "/cymbiotika-vs-seed-ds-01-probiotic/",
+    "permanent": true
+  },
+  {
+    "source": "/cymbiotika-liposomal-vitamin-b12",
+    "destination": "/cymbiotika-vs-seed-ds-01-probiotic/",
+    "permanent": true
+  },
+  {
+    "source": "/best-probiotics-for-ibs",
+    "destination": "/best-probiotic-supplements-for-ibs/",
+    "permanent": true
+  },
+  {
+    "source": "/best-probiotics-for-candida",
+    "destination": "/best-probiotic-supplements-for-candida/",
+    "permanent": true
+  },
+  {
+    "source": "/best-probiotics-for-acne",
+    "destination": "/best-probiotic-for-acne/",
+    "permanent": true
+  },
+  {
+    "source": "/probiotics-for-ibs-and-anxiety",
+    "destination": "/best-probiotic-supplements-for-ibs/",
+    "permanent": true
+  },
+  {
+    "source": "/seed-probiotics-benefits",
+    "destination": "/seed-probiotics-reviews/",
+    "permanent": true
+  },
+  {
+    "source": "/best-red-light-therapy-beds",
+    "destination": "/red-light-therapy-beds/",
+    "permanent": true
+  },
+  {
+    "source": "/red-light-therapy-for-dogs-how-i-use-it-as-a-dog-owner",
+    "destination": "/red-light-therapy-for-dogs/",
+    "permanent": true
+  },
+  {
+    "source": "/gerd-back-pain",
+    "destination": "/can-gerd-cause-back-pain-between-shoulder-blades/",
+    "permanent": true
+  },
+  {
+    "source": "/back-pain-massage-vs-chiropractic",
+    "destination": "/back-pain-treatment-victoria-options/",
+    "permanent": true
+  },
+  {
+    "source": "/meth-method-for-injuries",
+    "destination": "/meth-the-alternative-to-the-rice-method/",
+    "permanent": true
+  },
+  {
+    "source": "/gary-brecka-pemf-mat",
+    "destination": "/best-pemf-mats/",
+    "permanent": true
+  },
+  {
+    "source": "/best-sibo-supplements-2025",
+    "destination": "/best-supplements-for-sibo/",
+    "permanent": true
+  },
+  {
+    "source": "/can-gerd-cause-back-pain-between-shoulder-blades-2",
+    "destination": "/can-gerd-cause-back-pain-between-shoulder-blades/",
+    "permanent": true
+  },
+  {
+    "source": "/infrared-red-sauna-benefits",
+    "destination": "/sauna-blanket-benefits/",
+    "permanent": true
+  },
+  {
+    "source": "/best-foods-for-your-immune-system",
+    "destination": "/best-probiotic-foods-for-gut-health-naturally/",
+    "permanent": true
+  },
+  {
+    "source": "/best-foods-immune-system",
+    "destination": "/best-probiotic-foods-for-gut-health-naturally/",
+    "permanent": true
+  },
+  {
+    "source": "/molecular-hydrogen-and-cardiovascular-health-research",
+    "destination": "/molecular-hydrogen-and-inflammation-research/",
+    "permanent": true
+  },
+  {
+    "source": "/what-we-treat",
+    "destination": "/conditions/",
+    "permanent": true
+  },
+  {
+    "source": "/services/icbc-active-rehab",
+    "destination": "/icbc-massage-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/services/registered-massage-therapy",
+    "destination": "/services/massage-therapy-victoria/",
+    "permanent": true
+  },
+  {
+    "source": "/services/sports-massage-victoria",
+    "destination": "/services/sports-massage-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/services/myofascial-release-victoria",
+    "destination": "/services/myofascial-release-massage/",
+    "permanent": true
+  },
+  {
+    "source": "/services/visceral-manipulation-massage-victoria",
+    "destination": "/services/visceral-manipulation-victoria/",
+    "permanent": true
+  },
+  {
+    "source": "/services/massage-therapy/deep-tissue-massage",
+    "destination": "/services/deep-tissue-massage-victoria/",
+    "permanent": true
+  },
+  {
+    "source": "/services/performance-enhancement",
+    "destination": "/services/",
+    "permanent": true
+  },
+  {
+    "source": "/services/massage-therapy/direct-billing",
+    "destination": "/services/direct-billing-massage/",
+    "permanent": true
+  },
+  {
+    "source": "/best-massage-langford-clinics",
+    "destination": "/services/massage-therapy-langford/",
+    "permanent": true
+  },
+  {
+    "source": "/pages/services-1",
+    "destination": "/services/",
+    "permanent": true
+  },
+  {
+    "source": "/massage-therapy-langford",
+    "destination": "/services/massage-therapy-langford/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/chronic-pain-colwood",
+    "destination": "/conditions/chronic-pain-victoria/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/chronic-pain-langford",
+    "destination": "/conditions/chronic-pain-victoria/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/chronic-pain-massage-victoria",
+    "destination": "/conditions/chronic-pain-victoria/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/back-pain-relief-victoria",
+    "destination": "/conditions/back-pain-victoria/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/back-pain-langford",
+    "destination": "/conditions/back-pain-victoria/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/back-pain-colwood",
+    "destination": "/conditions/back-pain-victoria/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/hip-knee-pain",
+    "destination": "/conditions/hip-and-knee-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/hip-knee-pain-langford",
+    "destination": "/conditions/hip-and-knee-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/hip-knee-pain-colwood",
+    "destination": "/conditions/hip-and-knee-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/headache-migraine-massage-victoria",
+    "destination": "/conditions/headaches-and-neck-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/headaches-neck-pain-langford",
+    "destination": "/conditions/headaches-and-neck-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/headaches-neck-pain-colwood",
+    "destination": "/conditions/headaches-and-neck-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/workplace-injuries",
+    "destination": "/conditions/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/stress-anxiety-reduction-massage",
+    "destination": "/services/swedish-relaxation-massage-victoria/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/concussion-management-victoria",
+    "destination": "/conditions/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/arthritis-pain-langford",
+    "destination": "/conditions/arthritis-pain-victoria/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/bursitis-treatment-colwood",
+    "destination": "/conditions/bursitis-treatment-victoria/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/bursitis-treatment-langford",
+    "destination": "/conditions/bursitis-treatment-victoria/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/it-band-syndrome-langford",
+    "destination": "/conditions/it-band-syndrome-victoria/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/joint-stiffness-langford",
+    "destination": "/conditions/joint-stiffness-victoria/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/muscle-tension-relief-colwood",
+    "destination": "/conditions/muscle-tension-relief-victoria/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/muscle-tension-relief-langford",
+    "destination": "/conditions/muscle-tension-relief-victoria/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/overuse-injuries-langford",
+    "destination": "/conditions/overuse-injuries-victoria/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/plantar-fasciitis-treatment-langford",
+    "destination": "/conditions/plantar-fasciitis-treatment-victoria/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/postural-imbalance-colwood",
+    "destination": "/conditions/postural-imbalance-victoria/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/postural-imbalance-langford",
+    "destination": "/conditions/postural-imbalance-victoria/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/sciatica-treatment-colwood",
+    "destination": "/conditions/sciatica-treatment-victoria/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/sciatica-treatment-langford",
+    "destination": "/conditions/sciatica-treatment-victoria/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/shin-splints-treatment-langford",
+    "destination": "/conditions/shin-splints-treatment-victoria/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/shoulder-pain-langford",
+    "destination": "/conditions/shoulder-pain-victoria-bc/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/shoulder-pain-colwood",
+    "destination": "/conditions/shoulder-pain-victoria-bc/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/sports-injury-prevention-langford",
+    "destination": "/conditions/sports-injury-prevention-victoria/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/sprains-strains-langford",
+    "destination": "/conditions/sprains-strains-victoria/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/tendonitis-treatment-colwood",
+    "destination": "/conditions/tendonitis-treatment-victoria/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/tendonitis-treatment-langford",
+    "destination": "/conditions/tendonitis-treatment-victoria/",
+    "permanent": true
+  },
+  {
+    "source": "/about/our-team/rmt-daryl-stubbs",
+    "destination": "/our-team/rmt-daryl-stubbs/",
+    "permanent": true
+  },
+  {
+    "source": "/about/our-team/athletic-therapist-daryl-stubbs",
+    "destination": "/our-team/athletic-therapist-daryl-stubbs/",
+    "permanent": true
+  },
+  {
+    "source": "/about/our-team",
+    "destination": "/our-team/",
+    "permanent": true
+  },
+  {
+    "source": "/about-rmt-victoria",
+    "destination": "/our-team/rmt-daryl-stubbs/",
+    "permanent": true
+  },
+  {
+    "source": "/author/daryl-stubbs",
+    "destination": "/about-daryl-stubbs/",
+    "permanent": true
+  },
+  {
+    "source": "/about/daryl-stubbs-rmt",
+    "destination": "/our-team/rmt-daryl-stubbs/",
+    "permanent": true
+  },
+  {
+    "source": "/pages/meet-the-team",
+    "destination": "/our-team/",
+    "permanent": true
+  },
+  {
+    "source": "/contact-rmt-victoria",
+    "destination": "/contact/",
+    "permanent": true
+  },
+  {
+    "source": "/book-appointment",
+    "destination": "https://synctherapy.janeapp.com/",
+    "permanent": true
+  },
+  {
+    "source": "/contact/synctherapy",
+    "destination": "/contact/",
+    "permanent": true
+  },
+  {
+    "source": "/massage-rates-direct-billing-victoria",
+    "destination": "/services/direct-billing-massage/",
+    "permanent": true
+  },
+  {
+    "source": "/massage-rates-direct-billing-colwood",
+    "destination": "/services/direct-billing-massage/",
+    "permanent": true
+  },
+  {
+    "source": "/massage-rates-direct-billing-langford",
+    "destination": "/services/direct-billing-massage/",
+    "permanent": true
+  },
+  {
+    "source": "/service-areas/langford-massage-therapy",
+    "destination": "/services/massage-therapy-langford/",
+    "permanent": true
+  },
+  {
+    "source": "/langford-running-guide",
+    "destination": "/langford-running-injuries/",
+    "permanent": true
+  },
+  {
+    "source": "/pages/what-we-treat",
+    "destination": "/conditions/",
+    "permanent": true
+  },
+  {
+    "source": "/pages/contact",
+    "destination": "/contact/",
+    "permanent": true
+  },
+  {
+    "source": "/massage-faq-victoria",
+    "destination": "/about/",
+    "permanent": true
+  },
+  {
+    "source": "/seed-probiotics-reviews/\u2060",
+    "destination": "/seed-probiotics-reviews/",
+    "permanent": true
+  }
+]

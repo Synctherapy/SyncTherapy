@@ -1,9 +1,12 @@
 ---
-title: "Postural Imbalance Victoria"
-date: "2025-07-07 14:39:58"
-slug: "postural-imbalance-victoria"
-description: ""
-seoTitle: ""
+title: Postural Imbalance Victoria
+date: '2025-07-07 14:39:58'
+slug: postural-imbalance-victoria
+description: >-
+  Page Coming Soon - Sync Therapy /* Custom styles based on the provided color
+  palette */ body { font-family: 'Inter', sans-serif; background-color: #F4F7F5;
+  /*...
+seoTitle: Postural Imbalance Victoria
 ---
 
 <!-- wp:html -->

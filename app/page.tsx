@@ -1,28 +1,13 @@
-import Header from '@/components/Header';
-import Footer from '@/components/Footer';
-import fs from 'fs';
-import path from 'path';
-import matter from 'gray-matter';
+import { HomeLayout } from "@/components/layouts/HomeLayout";
+import { Metadata } from 'next';
 
-async function getHomeContent() {
-  const contentDir = path.join(process.cwd(), 'content/pages');
-  const filePath = path.join(contentDir, 'home.md');
-  const fileContent = fs.readFileSync(filePath, 'utf8');
-  const { content, data } = matter(fileContent);
-  return { content, data };
-}
+export const metadata: Metadata = {
+  title: 'Massage Therapist Colwood | RMT Colwood | Sync Therapy',
+  description: 'Sync Therapy is a leading Registered Massage Therapist in Colwood. Our expert RMT team provides athletic therapy, massage therapy, nutrition counseling, and visceral manipulation. Book your appointment today.',
+};
 
-export default async function Home() {
-  const { content } = await getHomeContent();
-
+export default function Home() {
   return (
-    <div className="min-h-screen flex flex-col pt-[72px]">
-      <Header />
-      <main className="flex-grow">
-        {/* Render raw HTML from MD content */}
-        <div dangerouslySetInnerHTML={{ __html: content }} />
-      </main>
-      <Footer />
-    </div>
+    <HomeLayout />
   );
 }
