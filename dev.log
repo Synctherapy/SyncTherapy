@@ -1,0 +1,17 @@
+
+> my-v0-project@0.1.0 dev
+> next dev
+
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+   ▲ Next.js 16.0.10 (Turbopack)
+   - Local:         http://localhost:3000
+   - Network:       http://192.168.0.2:3000
+
+ ✓ Starting...
+ ✓ Ready in 1141ms
+ ○ Compiling / ...
+ GET / 200 in 6.7s (compile: 5.9s, render: 794ms)
+ ⨯ upstream image response timed out for https://lh3.googleusercontent.com/aida-public/AB6AXuBLVThwGa9F9CJs8fjYuglxj9NZ7LNMsuqtxq-oh0RXNC-Ma0qFbSFIg_ULXU6_uI5aaYBloZM8srYp_gQRzsow1zm624RJ9IqSZnpXTGW12rDdmcoQzVie4-VNoR2qQWA0A4A_gJAm8Jb3olN_nndTcHewtcyXgBeOpZ6CyiWMOvXNsgBDhbn_urAAoigFXQQVMviFbURVleaV2tJAzmAxBTTCDUHt54aX9r-xkRmnH1h8j2_JQt1G08cKsvtE_taquq_hnwzoHMM
+ ⨯ upstream image response timed out for https://lh3.googleusercontent.com/aida-public/AB6AXuAOOtHVhjM5QG4_S47byX9JYIYfeX1OLEf4uwdHa9IycrcNK011B5M8kfbGYjybbXMwC3DOleXl9E50rbleOl7zOXRggi-Poz2u8yXHEJCc_gxHfv-cKVXWZkYO4BWPZgV7SJmD3-LCa7vw6tpBmF_D7gKaBC759AX5bbRXm-DFfmwyO62ekVv1-aYTPh0ItnejB7AxGGAE74ast2dok-YN4dvxQeOowN23NHmJm0jpRd0uZP37I_0Q2tptyygDpEEAT0oWADq-5Lg
+ ⨯ upstream image response timed out for https://lh3.googleusercontent.com/aida-public/AB6AXuBLVThwGa9F9CJs8fjYuglxj9NZ7LNMsuqtxq-oh0RXNC-Ma0qFbSFIg_ULXU6_uI5aaYBloZM8srYp_gQRzsow1zm624RJ9IqSZnpXTGW12rDdmcoQzVie4-VNoR2qQWA0A4A_gJAm8Jb3olN_nndTcHewtcyXgBeOpZ6CyiWMOvXNsgBDhbn_urAAoigFXQQVMviFbURVleaV2tJAzmAxBTTCDUHt54aX9r-xkRmnH1h8j2_JQt1G08cKsvtE_taquq_hnwzoHMM
+ ⨯ upstream image response timed out for https://lh3.googleusercontent.com/aida-public/AB6AXuAOOtHVhjM5QG4_S47byX9JYIYfeX1OLEf4uwdHa9IycrcNK011B5M8kfbGYjybbXMwC3DOleXl9E50rbleOl7zOXRggi-Poz2u8yXHEJCc_gxHfv-cKVXWZkYO4BWPZgV7SJmD3-LCa7vw6tpBmF_D7gKaBC759AX5bbRXm-DFfmwyO62ekVv1-aYTPh0ItnejB7AxGGAE74ast2dok-YN4dvxQeOowN23NHmJm0jpRd0uZP37I_0Q2tptyygDpEEAT0oWADq-5Lg
