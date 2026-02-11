@@ -2,6 +2,7 @@
 
 import React from "react";
 import Link from "next/link";
+import Image from "next/image";
 import {
     Menu, Calendar, Star, ArrowRight, Activity, CreditCard,
     Brain, User, MapPin, Award, Quote, Mail, Phone, Shield
@@ -24,14 +25,19 @@ export function HomeLayout() {
                 {/* Hero Section */}
                 <section className="relative min-h-[80vh] flex flex-col pt-4 overflow-hidden">
                     <div className="absolute top-0 left-0 w-full h-[60%] z-0">
-                        <img
+                        {/* Optimized Hero Image */}
+                        <Image
                             alt="Professional clinical environment"
-                            className="w-full h-full object-cover"
+                            className="object-cover"
                             src="/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg"
-                            // Fallback to template image if local not found, but we should use local if possible. 
-                            // For now using the template one as backup or the one from home.md
+                            fill
+                            priority
+                            sizes="100vw"
+                            // Fallback to template image if local not found
                             onError={(e) => {
-                                e.currentTarget.src = "https://lh3.googleusercontent.com/aida-public/AB6AXuCGFk48ZCCgZYJxxQ1JDKS0NxsoXxiCE0j64mKRZ4DJI-RRuhXKciLzysy--nBVCh7TDnZkX0r__txm5Op92lQhU096hdO5F_l4ULxgrr4UCSGEOBg2D_gl792HR_CJmLueQ9QPLzEXlk3UCGMWllllyo-Zn3ix0hctziZHTnKZHrcT5AhZejZ2IqJL5ylHjRZSOskLlDgZ0zj8sbv_IGO9fOJtj6PZ1LkjEEdO7cVdueVkCoWNoEbO2mYwCL2VRHJxGdrXMEiuK8k"
+                                const img = e.currentTarget;
+                                img.srcset = "";
+                                img.src = "https://lh3.googleusercontent.com/aida-public/AB6AXuCGFk48ZCCgZYJxxQ1JDKS0NxsoXxiCE0j64mKRZ4DJI-RRuhXKciLzysy--nBVCh7TDnZkX0r__txm5Op92lQhU096hdO5F_l4ULxgrr4UCSGEOBg2D_gl792HR_CJmLueQ9QPLzEXlk3UCGMWllllyo-Zn3ix0hctziZHTnKZHrcT5AhZejZ2IqJL5ylHjRZSOskLlDgZ0zj8sbv_IGO9fOJtj6PZ1LkjEEdO7cVdueVkCoWNoEbO2mYwCL2VRHJxGdrXMEiuK8k"
                             }}
                         />
                         <div className="absolute inset-0 bg-gradient-to-b from-[#F0F5FF]/0 via-[#F0F5FF]/80 to-[#F0F5FF]"></div>
