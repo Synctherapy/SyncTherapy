@@ -3,6 +3,8 @@
 import { Star } from "lucide-react";
 import Link from "next/link";
 
+const STARS = [0, 1, 2, 3, 4];
+
 const reviews = [
     {
         name: "Melanie M.",
@@ -51,7 +53,7 @@ export default function GoogleReviewWidget() {
                             <span className="font-bold text-sm text-foreground">Google Rating</span>
                             <span className="text-sm font-medium text-muted-foreground">4.9</span>
                             <div className="flex items-center">
-                                {[...Array(5)].map((_, i) => (
+                                {STARS.map((i) => (
                                     <Star key={i} className="w-3.5 h-3.5 fill-[#FBBC05] text-[#FBBC05]" />
                                 ))}
                             </div>
