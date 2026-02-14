@@ -1,6 +1,7 @@
 "use client";
 
 import React from "react";
+import Image from "next/image";
 import Link from "next/link";
 import {
     Menu, Calendar, Star, ArrowRight, Activity, CreditCard,
@@ -24,10 +25,12 @@ export function HomeLayout() {
                 {/* Hero Section */}
                 <section className="relative min-h-[80vh] flex flex-col pt-4 overflow-hidden">
                     <div className="absolute top-0 left-0 w-full h-[60%] z-0">
-                        <img
+                        <Image
                             alt="Professional clinical environment"
-                            className="w-full h-full object-cover"
+                            className="object-cover"
                             src="/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg"
+                            fill
+                            priority
                             // Fallback to template image if local not found, but we should use local if possible. 
                             // For now using the template one as backup or the one from home.md
                             onError={(e) => {
@@ -145,7 +148,7 @@ export function HomeLayout() {
                         {/* RMT */}
                         <div className="relative group">
                             <div className="aspect-[16/9] mb-6 overflow-hidden rounded-2xl">
-                                <img alt="Clinical Massage" className="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBLVThwGa9F9CJs8fjYuglxj9NZ7LNMsuqtxq-oh0RXNC-Ma0qFbSFIg_ULXU6_uI5aaYBloZM8srYp_gQRzsow1zm624RJ9IqSZnpXTGW12rDdmcoQzVie4-VNoR2qQWA0A4A_gJAm8Jb3olN_nndTcHewtcyXgBeOpZ6CyiWMOvXNsgBDhbn_urAAoigFXQQVMviFbURVleaV2tJAzmAxBTTCDUHt54aX9r-xkRmnH1h8j2_JQt1G08cKsvtE_taquq_hnwzoHMM" />
+                                <img loading="lazy" alt="Clinical Massage" className="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBLVThwGa9F9CJs8fjYuglxj9NZ7LNMsuqtxq-oh0RXNC-Ma0qFbSFIg_ULXU6_uI5aaYBloZM8srYp_gQRzsow1zm624RJ9IqSZnpXTGW12rDdmcoQzVie4-VNoR2qQWA0A4A_gJAm8Jb3olN_nndTcHewtcyXgBeOpZ6CyiWMOvXNsgBDhbn_urAAoigFXQQVMviFbURVleaV2tJAzmAxBTTCDUHt54aX9r-xkRmnH1h8j2_JQt1G08cKsvtE_taquq_hnwzoHMM" />
                             </div>
                             <h3 className="text-2xl mb-2 text-white font-bold font-sans">RMT Massage Therapy</h3>
                             <p className="text-white/70 text-base leading-relaxed mb-4">Evidence-based tissue manipulation for chronic pain resolution and recovery.</p>
@@ -154,7 +157,7 @@ export function HomeLayout() {
                         {/* Athletic - using placeholder image */}
                         <div className="relative group">
                             <div className="aspect-[16/9] mb-6 overflow-hidden rounded-2xl">
-                                <img alt="Athletic Therapy" className="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAOOtHVhjM5QG4_S47byX9JYIYfeX1OLEf4uwdHa9IycrcNK011B5M8kfbGYjybbXMwC3DOleXl9E50rbleOl7zOXRggi-Poz2u8yXHEJCc_gxHfv-cKVXWZkYO4BWPZgV7SJmD3-LCa7vw6tpBmF_D7gKaBC759AX5bbRXm-DFfmwyO62ekVv1-aYTPh0ItnejB7AxGGAE74ast2dok-YN4dvxQeOowN23NHmJm0jpRd0uZP37I_0Q2tptyygDpEEAT0oWADq-5Lg" />
+                                <img loading="lazy" alt="Athletic Therapy" className="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAOOtHVhjM5QG4_S47byX9JYIYfeX1OLEf4uwdHa9IycrcNK011B5M8kfbGYjybbXMwC3DOleXl9E50rbleOl7zOXRggi-Poz2u8yXHEJCc_gxHfv-cKVXWZkYO4BWPZgV7SJmD3-LCa7vw6tpBmF_D7gKaBC759AX5bbRXm-DFfmwyO62ekVv1-aYTPh0ItnejB7AxGGAE74ast2dok-YN4dvxQeOowN23NHmJm0jpRd0uZP37I_0Q2tptyygDpEEAT0oWADq-5Lg" />
                             </div>
                             <h3 className="text-2xl mb-2 text-white font-bold font-sans">Athletic Rehab</h3>
                             <p className="text-white/70 text-base leading-relaxed mb-4">High-performance recovery protocols designed for active lifestyles.</p>
