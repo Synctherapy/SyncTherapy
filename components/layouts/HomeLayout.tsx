@@ -7,6 +7,17 @@ import {
     Brain, User, MapPin, Award, Quote, Mail, Phone, Shield
 } from "lucide-react";
 
+const CLINICAL_EXPERTISE = [
+    { icon: Brain, label: "Migraines" },
+    { icon: User, label: "Sciatica" }, // Choosing closest icons
+    { icon: Activity, label: "Neck Pain" },
+    { icon: Award, label: "Sports Injury" }
+];
+
+const handleHeroImageError = (e: React.SyntheticEvent<HTMLImageElement, Event>) => {
+    e.currentTarget.src = "https://lh3.googleusercontent.com/aida-public/AB6AXuCGFk48ZCCgZYJxxQ1JDKS0NxsoXxiCE0j64mKRZ4DJI-RRuhXKciLzysy--nBVCh7TDnZkX0r__txm5Op92lQhU096hdO5F_l4ULxgrr4UCSGEOBg2D_gl792HR_CJmLueQ9QPLzEXlk3UCGMWllllyo-Zn3ix0hctziZHTnKZHrcT5AhZejZ2IqJL5ylHjRZSOskLlDgZ0zj8sbv_IGO9fOJtj6PZ1LkjEEdO7cVdueVkCoWNoEbO2mYwCL2VRHJxGdrXMEiuK8k"
+};
+
 export function HomeLayout() {
     return (
         <div className="font-sans antialiased text-[#2D3748] bg-[#F0F5FF]">
@@ -28,11 +39,10 @@ export function HomeLayout() {
                             alt="Professional clinical environment"
                             className="w-full h-full object-cover"
                             src="/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg"
+                            fetchPriority="high"
                             // Fallback to template image if local not found, but we should use local if possible. 
                             // For now using the template one as backup or the one from home.md
-                            onError={(e) => {
-                                e.currentTarget.src = "https://lh3.googleusercontent.com/aida-public/AB6AXuCGFk48ZCCgZYJxxQ1JDKS0NxsoXxiCE0j64mKRZ4DJI-RRuhXKciLzysy--nBVCh7TDnZkX0r__txm5Op92lQhU096hdO5F_l4ULxgrr4UCSGEOBg2D_gl792HR_CJmLueQ9QPLzEXlk3UCGMWllllyo-Zn3ix0hctziZHTnKZHrcT5AhZejZ2IqJL5ylHjRZSOskLlDgZ0zj8sbv_IGO9fOJtj6PZ1LkjEEdO7cVdueVkCoWNoEbO2mYwCL2VRHJxGdrXMEiuK8k"
-                            }}
+                            onError={handleHeroImageError}
                         />
                         <div className="absolute inset-0 bg-gradient-to-b from-[#F0F5FF]/0 via-[#F0F5FF]/80 to-[#F0F5FF]"></div>
                     </div>
@@ -120,12 +130,7 @@ export function HomeLayout() {
                     </div>
 
                     <div className="grid grid-cols-2 gap-4 max-w-sm mx-auto">
-                        {[
-                            { icon: Brain, label: "Migraines" },
-                            { icon: User, label: "Sciatica" }, // Choosing closest icons
-                            { icon: Activity, label: "Neck Pain" },
-                            { icon: Award, label: "Sports Injury" }
-                        ].map((item, idx) => (
+                        {CLINICAL_EXPERTISE.map((item, idx) => (
                             <div key={idx} className="bg-white p-5 rounded-2xl shadow-sm border border-[#1A2B3C]/5 text-center flex flex-col items-center">
                                 <item.icon className="text-[#2563EB] w-8 h-8 mb-3" />
                                 <h4 className="text-[#1A2B3C] font-bold text-base font-sans">{item.label}</h4>
@@ -145,7 +150,13 @@ export function HomeLayout() {
                         {/* RMT */}
                         <div className="relative group">
                             <div className="aspect-[16/9] mb-6 overflow-hidden rounded-2xl">
-                                <img alt="Clinical Massage" className="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBLVThwGa9F9CJs8fjYuglxj9NZ7LNMsuqtxq-oh0RXNC-Ma0qFbSFIg_ULXU6_uI5aaYBloZM8srYp_gQRzsow1zm624RJ9IqSZnpXTGW12rDdmcoQzVie4-VNoR2qQWA0A4A_gJAm8Jb3olN_nndTcHewtcyXgBeOpZ6CyiWMOvXNsgBDhbn_urAAoigFXQQVMviFbURVleaV2tJAzmAxBTTCDUHt54aX9r-xkRmnH1h8j2_JQt1G08cKsvtE_taquq_hnwzoHMM" />
+                                <img
+                                    alt="Clinical Massage"
+                                    className="w-full h-full object-cover"
+                                    src="https://lh3.googleusercontent.com/aida-public/AB6AXuBLVThwGa9F9CJs8fjYuglxj9NZ7LNMsuqtxq-oh0RXNC-Ma0qFbSFIg_ULXU6_uI5aaYBloZM8srYp_gQRzsow1zm624RJ9IqSZnpXTGW12rDdmcoQzVie4-VNoR2qQWA0A4A_gJAm8Jb3olN_nndTcHewtcyXgBeOpZ6CyiWMOvXNsgBDhbn_urAAoigFXQQVMviFbURVleaV2tJAzmAxBTTCDUHt54aX9r-xkRmnH1h8j2_JQt1G08cKsvtE_taquq_hnwzoHMM"
+                                    loading="lazy"
+                                    decoding="async"
+                                />
                             </div>
                             <h3 className="text-2xl mb-2 text-white font-bold font-sans">RMT Massage Therapy</h3>
                             <p className="text-white/70 text-base leading-relaxed mb-4">Evidence-based tissue manipulation for chronic pain resolution and recovery.</p>
@@ -154,7 +165,13 @@ export function HomeLayout() {
                         {/* Athletic - using placeholder image */}
                         <div className="relative group">
                             <div className="aspect-[16/9] mb-6 overflow-hidden rounded-2xl">
-                                <img alt="Athletic Therapy" className="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAOOtHVhjM5QG4_S47byX9JYIYfeX1OLEf4uwdHa9IycrcNK011B5M8kfbGYjybbXMwC3DOleXl9E50rbleOl7zOXRggi-Poz2u8yXHEJCc_gxHfv-cKVXWZkYO4BWPZgV7SJmD3-LCa7vw6tpBmF_D7gKaBC759AX5bbRXm-DFfmwyO62ekVv1-aYTPh0ItnejB7AxGGAE74ast2dok-YN4dvxQeOowN23NHmJm0jpRd0uZP37I_0Q2tptyygDpEEAT0oWADq-5Lg" />
+                                <img
+                                    alt="Athletic Therapy"
+                                    className="w-full h-full object-cover"
+                                    src="https://lh3.googleusercontent.com/aida-public/AB6AXuAOOtHVhjM5QG4_S47byX9JYIYfeX1OLEf4uwdHa9IycrcNK011B5M8kfbGYjybbXMwC3DOleXl9E50rbleOl7zOXRggi-Poz2u8yXHEJCc_gxHfv-cKVXWZkYO4BWPZgV7SJmD3-LCa7vw6tpBmF_D7gKaBC759AX5bbRXm-DFfmwyO62ekVv1-aYTPh0ItnejB7AxGGAE74ast2dok-YN4dvxQeOowN23NHmJm0jpRd0uZP37I_0Q2tptyygDpEEAT0oWADq-5Lg"
+                                    loading="lazy"
+                                    decoding="async"
+                                />
                             </div>
                             <h3 className="text-2xl mb-2 text-white font-bold font-sans">Athletic Rehab</h3>
                             <p className="text-white/70 text-base leading-relaxed mb-4">High-performance recovery protocols designed for active lifestyles.</p>
