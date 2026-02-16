@@ -2,17 +2,14 @@
 
 import { cn } from "@/lib/utils";
 import Link from "next/link";
+import ShineBorder from "@/components/ui/shine-border";
 import {
-  Waves,
-  AlignRight,
-  Clipboard,
-  Bone,
-  Brain,
   Activity,
-  PersonStanding,
-  Trophy,
-  Zap,
+  Brain,
   User,
+  PersonStanding,
+  Waves,
+  Trophy,
   ArrowRight
 } from "lucide-react";
 
@@ -24,36 +21,45 @@ export function ConditionsSection() {
           Conditions We Treat
         </h2>
         <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-          Evidence-based therapies for a wide range of physical conditions.
+          It’s not just about "fixing" a body part. It’s about getting your life back.
         </p>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 max-w-7xl mx-auto px-4">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-7xl mx-auto px-4">
         {items.map((item, i) => (
           <Link
             key={i}
             href={item.href}
-            className="group relative flex flex-col p-6 bg-neutral-50 dark:bg-neutral-900 rounded-2xl border border-border/50 hover:border-amber-500/50 hover:shadow-xl hover:-translate-y-1 transition-all duration-300"
+            className="block h-full"
+            aria-label={`Learn more about ${item.name} treatment`}
           >
-            <div className="absolute top-4 right-4 opacity-0 group-hover:opacity-100 transition-opacity">
-              <ArrowRight className="w-5 h-5 text-amber-600" />
-            </div>
+            <ShineBorder
+              className="relative flex flex-row items-start text-left p-6 h-full w-full bg-white dark:bg-neutral-900 rounded-2xl shadow-sm hover:shadow-md transition-all duration-300 border border-slate-100 dark:border-neutral-800 gap-4"
+              color={["#0d9488", "#2dd4bf", "#0f766e"]}
+            >
+              <div className="shrink-0 p-3 w-12 h-12 rounded-xl bg-teal-50/50 dark:bg-teal-900/10 flex items-center justify-center ring-1 ring-teal-100 dark:ring-teal-900 mt-1">
+                <item.Icon className="w-6 h-6 text-teal-600 dark:text-teal-400" />
+              </div>
 
-            <div className="mb-6 p-4 w-14 h-14 rounded-full bg-white dark:bg-neutral-800 shadow-sm flex items-center justify-center group-hover:scale-110 group-hover:text-amber-600 transition-all duration-300">
-              <item.Icon className="w-7 h-7" />
-            </div>
+              <div className="flex flex-col gap-2">
+                <h3 className="text-xl font-bold font-sans text-navy dark:text-white leading-tight">
+                  {item.name}
+                </h3>
 
-            <h3 className="text-xl font-bold mb-3 text-foreground group-hover:text-amber-700 dark:group-hover:text-amber-500 transition-colors">
-              {item.name}
-            </h3>
+                <p className="text-muted-foreground text-sm font-medium">
+                  {item.emotional}
+                </p>
 
-            <p className="text-muted-foreground text-sm leading-relaxed mb-4">
-              {item.description}
-            </p>
+                <p className="text-xs text-slate-500 dark:text-slate-400 leading-relaxed">
+                  <span className="font-semibold text-teal-600/80 dark:text-teal-400/80 uppercase tracking-wider text-[10px]">Treats:</span> {item.details}
+                </p>
 
-            <div className="mt-auto pt-4 border-t border-border/50 flex justify-between items-center text-xs font-semibold uppercase tracking-wider text-amber-700/80 dark:text-amber-500/80">
-              <span>{item.cta}</span>
-            </div>
+                <div className="mt-auto pt-2 flex items-center text-xs font-bold text-teal-600 dark:text-teal-400 group-hover:gap-2 transition-all">
+                  <span>{item.cta}</span>
+                  <ArrowRight className="w-3 h-3 ml-1 transition-all" />
+                </div>
+              </div>
+            </ShineBorder>
           </Link>
         ))}
       </div>
@@ -64,58 +70,50 @@ export function ConditionsSection() {
 const items = [
   {
     name: "Back Pain",
-    description: "Relief from chronic tension, sciatica, and postural strain.",
+    emotional: "Bend over pain-free to pick up your grandkids.",
+    details: "Sciatica, herniated discs, lower back strain, and posture correction.",
     Icon: Activity,
-    href: "/conditions/back-pain-victoria/",
-    cta: "View Treatment",
+    href: "/conditions/back-pain-relief-victoria",
+    cta: "Relief Starts Here",
   },
   {
-    name: "Neck Pain & Headaches",
-    description: "Targeted therapy to reduce frequency and intensity.",
+    name: "Neck Pain",
+    emotional: "Check your blind spot without turning your whole body.",
+    details: "Whiplash, stiff neck, tech-neck, and tension headaches.",
     Icon: Brain,
-    href: "/conditions/headaches-and-neck-pain/",
-    cta: "View Treatment",
+    href: "/conditions/neck-pain-relief-victoria",
+    cta: "Move Freely",
   },
   {
     name: "Shoulder Pain",
-    description: "Rehabilitation for rotator cuff and mobility issues.",
+    emotional: "Reach for the top shelf with confidence.",
+    details: "Rotator cuff injuries, frozen shoulder, and impingement.",
     Icon: User,
-    href: "/conditions/shoulder-pain-victoria-bc/",
-    cta: "View Treatment",
+    href: "/conditions/shoulder-pain-relief-victoria",
+    cta: "Restore Range",
   },
   {
     name: "Hip & Knee Pain",
-    description: "Restore function and reduce joint pain.",
+    emotional: "Squat down to garden or sit on the floor comfortably.",
+    details: "Runner’s knee, IT band syndrome, arthritis, and hip flexor strain.",
     Icon: PersonStanding,
-    href: "/conditions/hip-and-knee-pain/",
-    cta: "View Treatment",
+    href: "/conditions/sciatica-relief-victoria",
+    cta: "Strengthen Now",
   },
   {
     name: "Chronic Pain",
-    description: "Long-term pain management strategies.",
+    emotional: "Focus on your work without the constant distraction.",
+    details: "Fibromyalgia, arthritis management, and long-standing injury patterns.",
     Icon: Waves,
-    href: "/conditions/chronic-pain-victoria/",
-    cta: "View Treatment",
-  },
-  {
-    name: "Sciatica",
-    description: "Alleviate nerve pain and improve mobility.",
-    Icon: Zap,
-    href: "/conditions/sciatica-treatment-victoria/",
-    cta: "View Treatment",
+    href: "/conditions/chronic-pain-relief-victoria",
+    cta: "Clear The Fog",
   },
   {
     name: "Sports Injuries",
-    description: "Recovery logic for athletic trauma.",
+    emotional: "Get back to the starting line feeling stronger.",
+    details: "Sprains, strains, tendonitis, and post-surgical rehab.",
     Icon: Trophy,
-    href: "/conditions/conditions-sports-injuries/",
-    cta: "View Treatment",
-  },
-  {
-    name: "Arthritis",
-    description: "Manage inflammation and joint stiffness.",
-    Icon: Bone,
-    href: "/conditions/arthritis-pain-victoria/",
-    cta: "View Treatment",
+    href: "/conditions/conditions-sports-injuries",
+    cta: "Return to Sport",
   },
 ];

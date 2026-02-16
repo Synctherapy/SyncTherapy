@@ -10,7 +10,7 @@ const credentials = [
 
 export function GuideSection() {
   return (
-    <section className="py-20 bg-background">
+    <section className="py-24 bg-background">
       <div className="container mx-auto px-4">
         <h2 className="font-serif text-3xl md:text-4xl text-center text-foreground mb-16 text-balance">
           One Clinic. One Therapist. Real Answers.

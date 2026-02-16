@@ -2,7 +2,7 @@
 title: Checkout
 date: '2025-05-25 15:02:14'
 slug: checkout
-description: ''
+description: "Complete your booking or purchase at Sync Therapy."
 seoTitle: Checkout
 ---
 

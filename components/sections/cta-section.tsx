@@ -3,7 +3,7 @@ import { Phone } from "lucide-react";
 
 export function CtaSection() {
   return (
-    <section className="py-20 bg-primary">
+    <section className="py-24 bg-primary">
       <div className="container mx-auto px-4 text-center">
         <h2 className="font-serif text-3xl md:text-5xl text-primary-foreground leading-tight text-balance">
           Ready to Experience Professional Massage Therapy in Colwood?

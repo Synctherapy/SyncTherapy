@@ -34,7 +34,7 @@ export default function GoogleReviewWidget() {
     return (
         <div className="flex flex-col items-center w-full max-w-4xl mx-auto space-y-10">
             {/* Header Badge */}
-            <div className="inline-flex items-center gap-4 bg-white dark:bg-zinc-900 rounded-full shadow-lg border border-black/5 px-6 py-3 hover:shadow-xl transition-shadow duration-300">
+            <div className="inline-flex items-center gap-4 bg-white dark:bg-zinc-900 rounded-full shadow-[0_8px_30px_rgb(0,0,0,0.08)] px-6 py-3 hover:shadow-[0_8px_30px_rgb(0,0,0,0.12)] transition-shadow duration-300">
                 <div className="flex items-center gap-3">
                     {/* Authentic Google G Logo SVG */}
                     <div className="w-6 h-6 flex-shrink-0">
@@ -70,7 +70,7 @@ export default function GoogleReviewWidget() {
             {/* Reviews Grid */}
             <div className="grid md:grid-cols-3 gap-6 w-full">
                 {reviews.map((review, i) => (
-                    <div key={i} className="bg-card p-6 rounded-xl border border-border shadow-sm flex flex-col h-full">
+                    <div key={i} className="bg-card p-6 rounded-2xl shadow-[0_8px_30px_rgb(0,0,0,0.04)] hover:shadow-[0_8px_30px_rgb(0,0,0,0.08)] transition-all duration-300 flex flex-col h-full border-none">
                         <div className="flex items-center gap-1 mb-3">
                             {[...Array(review.stars)].map((_, i) => (
                                 <Star key={i} className="w-4 h-4 fill-[#FBBC05] text-[#FBBC05]" />

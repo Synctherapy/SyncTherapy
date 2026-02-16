@@ -2,10 +2,7 @@
 title: About
 date: '2024-07-10 03:25:02'
 slug: about
-description: >-
-  /* Custom CSS for Sync Therapy About Page */ .sync-therapy-about {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
-  sans-serif; line-height:...
+description: "Learn more about Sync Therapy, our team of Registered Massage Therapists and Athletic Therapists in Colwood, and our mission to help you recover and thrive."
 seoTitle: About
 ---
 

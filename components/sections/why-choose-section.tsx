@@ -39,7 +39,7 @@ export function WhyChooseSection({
   reasons = defaultReasons
 }: WhyChooseSectionProps) {
   return (
-    <section className="py-20 bg-background">
+    <section className="py-24 bg-background">
       <div className="container mx-auto px-4">
         <h2 className="font-serif text-3xl md:text-4xl text-center text-foreground text-balance">
           {title}

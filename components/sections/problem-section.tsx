@@ -36,7 +36,7 @@ export function ProblemSection({
   problems = defaultProblems
 }: ProblemSectionProps) {
   return (
-    <section className="py-20 bg-card">
+    <section className="py-24 bg-card">
       <div className="container mx-auto px-4">
         <h2 className="font-serif text-3xl md:text-4xl text-center text-card-foreground text-balance">
           {title}

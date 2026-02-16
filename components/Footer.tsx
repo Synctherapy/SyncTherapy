@@ -1,73 +1,184 @@
-import Link from 'next/link';
+import Link from "next/link";
+import Image from "next/image";
+import { FaFacebook, FaInstagram, FaLinkedin, FaTwitter, FaYoutube, FaPinterest } from "react-icons/fa";
+import { ReactNode } from "react";
+
+interface FooterLink {
+    name: string;
+    href: string;
+}
+
+interface FooterSection {
+    title: string;
+    links: FooterLink[];
+}
+
+interface SocialLink {
+    icon: ReactNode;
+    href: string;
+    label: string;
+}
+
+const footerNavigation = {
+    column1: [
+        { name: "Massage Therapy", href: "/massage-therapy/" },
+        { name: "Athletic Therapy", href: "/athletic-therapy/" },
+        { name: "Deep Tissue & Sports", href: "/deep-tissue-massage/" },
+        { name: "Myofascial Release", href: "/myofascial-release/" },
+        { name: "Visceral Manipulation", href: "/visceral-manipulation/" },
+        { name: "Direct Billing", href: "/direct-billing/" },
+    ],
+    column2: [
+        { name: "About Us", href: "/about/" },
+        { name: "Our Team", href: "/team/" },
+        { name: "Blog", href: "/blog/" },
+        { name: "Contact", href: "/contact/" },
+    ],
+    legal: [
+        { name: "Privacy Policy", href: "/privacy-policy/" },
+        { name: "Terms", href: "/terms/" },
+        { name: "Sitemap", href: "/sitemap/" },
+    ],
+    social: [
+        {
+            label: "Instagram",
+            href: "https://www.instagram.com/synctherapy/",
+            icon: <FaInstagram className="h-5 w-5" />,
+        },
+        {
+            label: "Facebook",
+            href: "https://www.facebook.com/SyncTherapyVictoria/",
+            icon: <FaFacebook className="h-5 w-5" />,
+        },
+        {
+            label: "YouTube",
+            href: "https://www.youtube.com/@synctherapy",
+            icon: <FaYoutube className="h-5 w-5" />,
+        },
+        {
+            label: "Pinterest",
+            href: "https://ca.pinterest.com/SyncTherapyWellness/",
+            icon: <FaPinterest className="h-5 w-5" />,
+        },
+    ],
+};
 
 export default function Footer() {
     return (
-        <footer className="bg-muted text-muted-foreground py-12 border-t border-border">
-            <div className="mx-auto w-full max-w-7xl p-4 py-6 lg:py-8">
-                <div className="md:flex md:justify-between">
-                    <div className="mb-6 md:mb-0">
-                        <Link href="/" className="flex items-center">
-                            <span className="self-center text-2xl font-bold whitespace-nowrap text-primary font-sans uppercase tracking-widest">
-                                Sync Therapy
+        <footer className="border-t bg-slate-50 text-slate-600" aria-labelledby="footer-heading">
+            <h2 id="footer-heading" className="sr-only">
+                Footer
+            </h2>
+            <div className="mx-auto max-w-7xl px-6 pb-8 pt-16 sm:pt-24 lg:px-8 lg:pt-32">
+                <div className="xl:grid xl:grid-cols-3 xl:gap-8">
+                    {/* Brand Column */}
+                    <div className="space-y-8">
+                        <Link href="/" className="flex flex-col">
+                            <span className="text-xl font-bold uppercase tracking-widest font-sans text-navy">
+                                Sync Massage Therapy
                             </span>
                         </Link>
-                        <p className="mt-4 text-muted-foreground max-w-xs">
-                            Professional Registered Massage Therapy & Athletic Therapy in Victoria, Langford & Colwood.
+                        <p className="text-sm leading-6 text-slate-500 max-w-xs">
+                            <span className="block font-semibold mb-2 text-navy">Feel Better. Move Better. Live Better.</span>
+                            6x Award-Winning Clinic (2022-2024). Providing premier registered massage therapy and athletic therapy in Colwood, BC. Trusted by 800+ clients since 2015.
                         </p>
+                        <div className="flex space-x-6">
+                            {footerNavigation.social.map((item) => (
+                                <a key={item.label} href={item.href} className="text-slate-400 hover:text-blue-600 transition-colors">
+                                    <span className="sr-only">{item.label}</span>
+                                    {item.icon}
+                                </a>
+                            ))}
+                        </div>
                     </div>
-                    <div className="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
-                        <div>
-                            <h2 className="mb-6 text-sm font-semibold text-primary uppercase tracking-wider">Services</h2>
-                            <ul className="text-muted-foreground font-medium space-y-4">
-                                <li><Link href="/services/massage-therapy-victoria" className="hover:text-foreground">Massage Therapy</Link></li>
-                                <li><Link href="/services/athletic-therapy-victoria" className="hover:text-foreground">Athletic Therapy</Link></li>
-                                <li><Link href="/services/sports-massage-therapy" className="hover:text-foreground">Sports Massage</Link></li>
-                                <li><Link href="/services/deep-tissue-massage-victoria" className="hover:text-foreground">Deep Tissue</Link></li>
-                            </ul>
-                        </div>
-                        <div>
-                            <h2 className="mb-6 text-sm font-semibold text-primary uppercase tracking-wider">Clinic</h2>
-                            <ul className="text-muted-foreground font-medium space-y-4">
-                                <li><Link href="/our-team" className="hover:text-foreground">Our Team</Link></li>
-                                <li><Link href="/about" className="hover:text-foreground">About Us</Link></li>
-                                <li><Link href="https://synctherapy.janeapp.com/" className="hover:text-foreground">Book Online</Link></li>
-                            </ul>
-                        </div>
-                        <div>
+
+                    {/* Navigation Columns */}
+                    <div className="mt-16 grid grid-cols-1 gap-8 xl:col-span-2 xl:mt-0">
+                        <div className="md:grid md:grid-cols-3 md:gap-8">
+                            {/* Services */}
                             <div>
-                                <h2 className="mb-6 text-sm font-semibold text-primary uppercase tracking-wider">Contact</h2>
-                                <ul className="text-muted-foreground font-medium space-y-4 mb-6">
-                                    <li className="mb-2">
-                                        <span className="block font-bold text-foreground">Address:</span>
-                                        132, 328 Wale Rd #120<br />Colwood, BC V9B 1J2
-                                    </li>
-                                    <li className="mb-2">
-                                        <span className="block font-bold text-foreground">Phone:</span>
-                                        <a href="tel:2508128698" className="hover:text-primary">(250) 812-8698</a>
-                                    </li>
+                                <h3 className="text-sm font-bold leading-6 text-navy uppercase tracking-wider">Services</h3>
+                                <ul role="list" className="mt-6 space-y-4">
+                                    {footerNavigation.column1.map((item) => (
+                                        <li key={item.name}>
+                                            <Link href={item.href} className="text-sm leading-6 text-slate-600 hover:text-blue-600 transition-colors">
+                                                {item.name}
+                                            </Link>
+                                        </li>
+                                    ))}
+                                </ul>
+                            </div>
+
+                            {/* Clinic */}
+                            <div className="mt-10 md:mt-0">
+                                <h3 className="text-sm font-bold leading-6 text-navy uppercase tracking-wider">Clinic</h3>
+                                <ul role="list" className="mt-6 space-y-4">
+                                    {footerNavigation.column2.map((item) => (
+                                        <li key={item.name}>
+                                            <Link href={item.href} className="text-sm leading-6 text-slate-600 hover:text-blue-600 transition-colors">
+                                                {item.name}
+                                            </Link>
+                                        </li>
+                                    ))}
                                     <li>
-                                        <span className="block font-bold text-foreground">Hours:</span>
-                                        Mon-Sat: 8am - 8pm
+                                        <a href="https://synctherapy.janeapp.com/" className="text-sm leading-6 font-semibold text-blue-600 hover:text-blue-700 transition-colors">
+                                            Book Online &rarr;
+                                        </a>
                                     </li>
                                 </ul>
-                                <div className="w-full h-48 rounded-lg overflow-hidden border border-border">
-                                    <iframe
-                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2647.168759714884!2d-123.4659039232598!3d48.43425717127734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548f73177302450b%3A0xe542617f6987186a!2sSync%20Therapy!5e0!3m2!1sen!2sca!4v1707000000000!5m2!1sen!2sca"
-                                        width="100%"
-                                        height="100%"
-                                        style={{ border: 0 }}
-                                        allowFullScreen={true}
-                                        loading="lazy"
-                                        referrerPolicy="no-referrer-when-downgrade">
-                                    </iframe>
-                                </div>
+                            </div>
+
+                            {/* Local SEO & Hours */}
+                            <div className="mt-10 md:mt-0">
+                                <h3 className="text-sm font-bold leading-6 text-navy uppercase tracking-wider">Contact & Hours</h3>
+                                <address className="mt-6 space-y-4 text-sm leading-6 text-slate-600 not-italic">
+                                    <div className="space-y-1">
+                                        <p className="font-semibold text-navy">Sync Massage Therapy</p>
+                                        <a
+                                            href="https://www.google.com/maps/search/?api=1&query=132,+328+Wale+Rd+%23120,+Colwood,+BC+V9B+1J2"
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                            className="block hover:text-blue-600 transition-colors"
+                                        >
+                                            132, 328 Wale Rd #120,<br />Colwood, BC V9B 1J2
+                                        </a>
+                                        <p className="text-xs text-slate-500 mt-1">Located in Coastal Offices | 1 min from Juan De Fuca Rec Centre</p>
+                                    </div>
+
+                                    <div className="pt-2">
+                                        <a href="tel:+12508128698" className="font-semibold text-navy hover:text-blue-600 transition-colors block">
+                                            (250) 812-8698
+                                        </a>
+                                    </div>
+
+                                    <div className="pt-2 border-t border-slate-200 mt-4">
+                                        <p className="font-semibold text-navy mb-2">Hours</p>
+                                        <ul className="space-y-1 text-xs">
+                                            <li className="flex justify-between"><span>Mon:</span> <span>9am - 5pm</span></li>
+                                            <li className="flex justify-between"><span>Tue:</span> <span>8am - 8pm</span></li>
+                                            <li className="flex justify-between"><span>Wed:</span> <span>8am - 8pm</span></li>
+                                            <li className="flex justify-between"><span>Thu:</span> <span>8am - 8pm</span></li>
+                                            <li className="flex justify-between"><span>Fri:</span> <span>9am - 5pm</span></li>
+                                            <li className="flex justify-between text-slate-400"><span>Sat-Sun:</span> <span>Closed</span></li>
+                                        </ul>
+                                    </div>
+                                </address>
                             </div>
                         </div>
                     </div>
                 </div>
-                <hr className="my-6 border-border sm:mx-auto lg:my-8" />
-                <div className="sm:flex sm:items-center sm:justify-between">
-                    <span className="text-sm text-muted-foreground sm:text-center">© {new Date().getFullYear()} Sync Therapy. All Rights Reserved.</span>
+
+                <div className="mt-16 border-t border-slate-200 pt-8 sm:mt-20 lg:mt-24">
+                    <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-xs leading-5 text-slate-500">
+                        <p>&copy; 2026 Sync Therapy. All rights reserved.</p>
+                        <div className="flex gap-6">
+                            {footerNavigation.legal.map((item) => (
+                                <Link key={item.name} href={item.href} className="hover:text-navy transition-colors">
+                                    {item.name}
+                                </Link>
+                            ))}
+                        </div>
+                    </div>
                 </div>
             </div>
         </footer>

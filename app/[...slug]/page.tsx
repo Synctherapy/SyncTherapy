@@ -23,11 +23,26 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         };
     }
 
+    const title = item.frontmatter.seoTitle || item.frontmatter.title;
+    const description = item.frontmatter.description || '';
+    const url = `https://www.synctherapy.ca/${resolvedParams.slug.join('/')}`;
+
     return {
-        title: item.frontmatter.seoTitle || item.frontmatter.title,
-        description: item.frontmatter.description || '',
+        title,
+        description,
+        openGraph: {
+            title,
+            description,
+            url,
+            type: 'website',
+        },
+        alternates: {
+            canonical: url,
+        },
     };
 }
+
+import { MassageTherapyColwood } from '@/components/pages/MassageTherapyColwood';
 
 export default async function Page({ params }: Props) {
     const resolvedParams = await params;
@@ -37,12 +52,42 @@ export default async function Page({ params }: Props) {
         notFound();
     }
 
+    // SPECIAL PAGE: Massage Therapy Colwood
+    // Renders the dedicated high-fidelity component for this specific slug
+    if (resolvedParams.slug.length === 2 &&
+        resolvedParams.slug[0] === 'services' &&
+        resolvedParams.slug[1] === 'massage-therapy-colwood') {
+        return (
+            <>
+                <Header />
+                <MassageTherapyColwood />
+                <Footer />
+            </>
+        );
+    }
+
     // 1. Blog Post Layout
     if (item.type === 'post') {
         const content = <div dangerouslySetInnerHTML={{ __html: item.content }} />;
         return (
             <>
                 <Header />
+                <script
+                    type="application/ld+json"
+                    dangerouslySetInnerHTML={{
+                        __html: JSON.stringify({
+                            '@context': 'https://schema.org',
+                            '@type': 'Article',
+                            headline: item.frontmatter.title,
+                            datePublished: item.frontmatter.date,
+                            dateModified: item.frontmatter.date,
+                            author: {
+                                '@type': 'Person',
+                                name: item.frontmatter.author || 'Sync Therapy',
+                            },
+                        })
+                    }}
+                />
                 <BlogOneLayout
                     frontmatter={{
                         title: item.frontmatter.title,
