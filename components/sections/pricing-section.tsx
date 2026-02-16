@@ -55,7 +55,7 @@ export function PricingSection() {
     <section className="bg-slate-50 dark:bg-slate-900/20">
       <Pricing
         plans={plans}
-        title="Pricing For Massage Therapist In Colwood"
+        title="Pricing For Massage Therapy In Colwood"
         description="Transparent pricing. No hidden fees. Direct billing available for most insurance providers."
       />
       <p className="pb-24 text-center text-sm text-muted-foreground max-w-2xl mx-auto italic px-4">

@@ -27,7 +27,7 @@ interface PricingProps {
 
 export function Pricing({
     plans,
-    title = "Pricing For Massage Therapist In Colwood",
+    title = "Pricing For Massage Therapy In Colwood",
     description = "Choose the plan that works for you",
 }: PricingProps) {
     const isDesktop = useMediaQuery("(min-width: 768px)");

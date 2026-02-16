@@ -12,13 +12,12 @@ const insuranceProviders = [
     { name: "Sun Life", logo: "/images/insurance/sunlife.png" },
     { name: "Desjardins", logo: "/images/insurance/desjardins.png" },
     { name: "Greenshield", logo: "/images/insurance/greenshield.png" },
-    { name: "ICBC", logo: "/images/insurance/icbc.png" },
-    { name: "WorkSpaceBC", logo: "/images/insurance/wsbc.png" },
+
 ];
 
 export function DirectBillingBar() {
     return (
-        <div className="w-full bg-slate-50 border-y border-slate-200 py-8 overflow-hidden">
+        <div className="w-full glass-panel border-y border-white/40 py-8 overflow-hidden relative z-20">
             <div className="container mx-auto px-4 mb-6">
                 <p className="text-center text-sm font-bold uppercase tracking-widest text-muted-foreground/80">
                     Direct Billing Available For
@@ -27,7 +26,7 @@ export function DirectBillingBar() {
 
             {/* Logos formatted as text for now to ensure visibility if images miss */}
             <div className="relative flex overflow-x-hidden group">
-                <div className="animate-marquee whitespace-nowrap flex gap-16 items-center px-4">
+                <div className="animate-marquee whitespace-nowrap flex gap-16 items-center px-4 will-change-transform">
                     {/* Duplicated set for seamless scrolling */}
                     {[...insuranceProviders, ...insuranceProviders, ...insuranceProviders].map((provider, i) => (
                         <div key={i} className="flex items-center gap-2 grayscale hover:grayscale-0 transition-all duration-300 opacity-60 hover:opacity-100 cursor-default">

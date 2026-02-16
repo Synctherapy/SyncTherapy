@@ -14,6 +14,7 @@ const trustIndicators = [
 interface HeroSectionProps {
   title?: string;
   subtitle?: string;
+  image?: string;
   primaryCtaText?: string;
   primaryCtaLink?: string;
   secondaryCtaText?: string;
@@ -21,6 +22,7 @@ interface HeroSectionProps {
   secondaryCtaSubtext?: string;
   tertiaryCtaText?: string;
   tertiaryCtaLink?: string;
+  description?: React.ReactNode;
 }
 
 import { ScrollReveal } from "@/components/ui/scroll-reveal";
@@ -28,6 +30,7 @@ import { ScrollReveal } from "@/components/ui/scroll-reveal";
 export function HeroSection({
   title = "Award Winning Massage Therapist in Colwood",
   subtitle = "Sync Therapy: Where expert RMT care meets athletic therapy for comprehensive recovery.",
+  image = "/images/massage-treatment.jpg",
   primaryCtaText = "Book Treatment",
   primaryCtaLink = "https://synctherapy.janeapp.com/",
   secondaryCtaText = "View Services",
@@ -35,12 +38,13 @@ export function HeroSection({
   secondaryCtaSubtext,
   tertiaryCtaText,
   tertiaryCtaLink,
+  description,
 }: HeroSectionProps) {
   return (
     <section className="relative min-h-[90vh] flex items-center overflow-hidden">
       <div className="absolute inset-0 z-0">
         <Image
-          src="/images/massage-treatment.jpg"
+          src={image}
           alt="Registered Massage Therapist treating patient in Colwood clinic"
           fill
           className="object-cover animate-pulse-glow" // Subtle pulse animation on bg
@@ -65,17 +69,17 @@ export function HeroSection({
               {title}
             </h1>
 
-            <p className="mt-6 text-xl md:text-2xl text-white/90 font-medium font-roboto">
-              RMT, Athletic Therapy & Holistic Nutrition — All Under One Roof
-            </p>
-
-            <div className="glass-panel p-6 mt-8 rounded-2xl border-white/10 bg-white/5 backdrop-blur-md">
-              <p className="text-base md:text-lg text-white/90 leading-relaxed font-roboto">
-                If you live on the West Shore—Colwood, Langford, Metchosin—you know how hard it is to find a massage therapist who actually takes the time. Not just someone who books you in and rushes through 60 minutes. Someone who looks at what's really going on with your body and makes a real plan.
-                <br /><br />
-                That's what I do here at Sync Massage Therapy. I'm right off Wale Road in Colwood, and I've been helping people in this community since 2013. Whether you're stuck with a bad back, recovering from a sports injury, or just trying to feel better day to day—I've got real answers. Not just guesses.
+            {subtitle && (
+              <p className="mt-6 text-xl md:text-2xl text-white/90 font-medium font-roboto">
+                {subtitle}
               </p>
-            </div>
+            )}
+
+            {description && (
+              <div className="glass-panel p-6 mt-8 rounded-2xl border-white/10 bg-white/5 backdrop-blur-md text-base md:text-lg text-white/90 leading-relaxed font-roboto">
+                {description}
+              </div>
+            )}
 
             <div className="mt-10 flex flex-col gap-4">
               <div className="flex flex-col sm:flex-row gap-4">

@@ -24,15 +24,6 @@ export function LocationSection({
             Where is Sync Massage Therapy Located
           </h2>
 
-          <p className="mt-4 text-center text-muted-foreground max-w-2xl mx-auto font-roboto text-lg">
-            Sync Massage Therapy is located inside the Coastal Offices at the end of the Holiday Inn parking lot.
-          </p>
-
-          {children && (
-            <div className="mt-4 max-w-2xl mx-auto text-center">
-              {children}
-            </div>
-          )}
         </ScrollReveal>
 
         <div className="mt-12 grid grid-cols-1 lg:grid-cols-2 gap-8 h-full items-stretch">
@@ -41,9 +32,13 @@ export function LocationSection({
             <GlassCard variant="strong" className="flex flex-col h-full p-8 space-y-8">
               <div className="space-y-8 flex-grow">
                 <div>
-                  <h3 className="font-serif text-2xl text-navy font-bold mb-6">
+                  <h3 className="font-serif text-2xl text-navy font-bold mb-4">
                     Sync Massage Therapy
                   </h3>
+
+                  <p className="text-muted-foreground font-roboto text-base mb-6">
+                    Sync Massage Therapy is located inside the Coastal Offices at the end of the Holiday Inn parking lot. Serving Colwood, Langford, and the West Shore community.
+                  </p>
 
                   <div className="space-y-6 text-base">
                     <div className="flex items-start gap-4">
@@ -133,11 +128,11 @@ export function LocationSection({
                   </a>
                 </Button>
               </div>
-            </GlassCard>
-          </ScrollReveal>
+            </GlassCard >
+          </ScrollReveal >
 
           {/* Map */}
-          <div className="w-full h-full min-h-[500px] lg:min-h-0">
+          < div className="w-full h-full min-h-[500px] lg:min-h-0" >
             <div className="rounded-2xl overflow-hidden glass-panel p-2 shadow-xl relative group h-full w-full flex flex-col">
               <div className="w-full flex-1 rounded-xl overflow-hidden relative">
                 <iframe
@@ -153,9 +148,9 @@ export function LocationSection({
                 />
               </div>
             </div>
-          </div>
-        </div>
-      </div>
-    </section>
+          </div >
+        </div >
+      </div >
+    </section >
   );
 }
