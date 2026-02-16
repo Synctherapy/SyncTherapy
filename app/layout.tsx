@@ -38,6 +38,10 @@ export const metadata: Metadata = {
     ],
     apple: '/apple-icon.png',
   },
+  robots: {
+    index: false,
+    follow: false,
+  },
 }
 
 export default function RootLayout({
