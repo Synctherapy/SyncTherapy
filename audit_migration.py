@@ -23,7 +23,7 @@ def parse_frontmatter(filepath):
                         key, val = line.split(':', 1)
                         data[key.strip()] = val.strip().strip('"\'')
                 return data
-    except Exception as e:
+    except (OSError, UnicodeDecodeError) as e:
         print(f"Error parsing {filepath}: {e}")
     return {}
 
