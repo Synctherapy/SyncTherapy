@@ -4,6 +4,8 @@ import Image from "next/image";
 import { Button } from "@/components/ui/button";
 import { Award, Star, CreditCard, ShieldCheck } from "lucide-react";
 
+const STARS = [1, 2, 3, 4, 5];
+
 const trustIndicators = [
   { icon: Award, text: "6x Award Winner" },
   { icon: Star, text: "120+ Five-Star Reviews" },
@@ -58,7 +60,7 @@ export function HeroSection({
           <div className="max-w-2xl">
             <div className="inline-flex items-center gap-2 glass-panel rounded-full px-4 py-1.5 mb-6 border-white/20">
               <div className="flex -space-x-1">
-                {[1, 2, 3, 4, 5].map((i) => (
+                {STARS.map((i) => (
                   <Star key={i} className="w-3.5 h-3.5 fill-[#FBBC05] text-[#FBBC05]" />
                 ))}
               </div>
