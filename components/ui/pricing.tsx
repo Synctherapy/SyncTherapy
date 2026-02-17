@@ -6,7 +6,6 @@ import { motion } from "framer-motion";
 import { Check, Star } from "lucide-react";
 import Link from "next/link";
 import NumberFlow from "@number-flow/react";
-import { useMediaQuery } from "@/hooks/use-media-query";
 
 interface PricingPlan {
     name: string;
@@ -30,7 +29,6 @@ export function Pricing({
     title = "Pricing For Massage Therapy In Colwood",
     description = "Choose the plan that works for you",
 }: PricingProps) {
-    const isDesktop = useMediaQuery("(min-width: 768px)");
 
     return (
         <div className="container py-24 relative">
