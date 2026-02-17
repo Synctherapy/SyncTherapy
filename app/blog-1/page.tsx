@@ -7,30 +7,43 @@ import Footer from '@/components/Footer';
 import { getContentBySlug } from '@/lib/content';
 
 async function getPosts() {
-    const postsDirectory = path.join(process.cwd(), 'content/posts');
-    const filenames = fs.readdirSync(postsDirectory);
+    try {
+        const postsDirectory = path.join(process.cwd(), 'content/posts');
+        const filenames = await fs.promises.readdir(postsDirectory);
 
-    const posts = filenames.map((filename) => {
-        const filePath = path.join(postsDirectory, filename);
-        const fileContents = fs.readFileSync(filePath, 'utf8');
-        const { data } = matter(fileContents);
+        const posts = await Promise.all(
+            filenames
+                .filter((filename) => filename.endsWith('.md'))
+                .map(async (filename) => {
+                    try {
+                        const filePath = path.join(postsDirectory, filename);
+                        const fileContents = await fs.promises.readFile(filePath, 'utf8');
+                        const { data } = matter(fileContents);
 
-        return {
-            slug: filename.replace('.md', ''),
-            title: data.title,
-            date: data.date,
-            description: data.description,
-        };
-    });
+                        return {
+                            slug: filename.replace('.md', ''),
+                            title: data.title,
+                            date: data.date,
+                            description: data.description,
+                        };
+                    } catch (error) {
+                        console.error(`Error reading blog post ${filename}:`, error);
+                        return null;
+                    }
+                })
+        );
 
-    // Sort by date desc
-    return posts.sort((a, b) => {
-        if (a.date < b.date) {
-            return 1;
-        } else {
-            return -1;
-        }
-    });
+        const validPosts = posts.filter((post) => post !== null);
+
+        // Sort by date desc
+        return validPosts.sort((a, b) => {
+            if (!a || !b) return 0;
+            return new Date(b.date).getTime() - new Date(a.date).getTime();
+        });
+    } catch (error) {
+        console.error('Error fetching blog posts:', error);
+        return [];
+    }
 }
 
 export default async function BlogIndex() {
@@ -59,16 +72,19 @@ export default async function BlogIndex() {
 
                 <div className="container mx-auto px-4 py-12">
                     <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
-                        {posts.map((post) => (
-                            <Link key={post.slug} href={`/${post.slug}`} className="block group">
-                                <div className="bg-card rounded-lg shadow-sm hover:shadow-md transition-shadow p-6 h-full border border-border">
-                                    <span className="text-sm text-primary font-semibold">{new Date(post.date).toLocaleDateString()}</span>
-                                    <h2 className="text-xl font-bold text-card-foreground mt-2 mb-3 group-hover:text-primary transition-colors">{post.title}</h2>
-                                    <p className="text-muted-foreground line-clamp-3">{post.description}</p>
-                                    <span className="inline-block mt-4 text-primary font-semibold text-sm group-hover:underline">Read Article →</span>
-                                </div>
-                            </Link>
-                        ))}
+                        {posts.map((post) => {
+                            if (!post) return null; // Should be filtered out but for safety
+                            return (
+                                <Link key={post.slug} href={`/${post.slug}`} className="block group">
+                                    <div className="bg-card rounded-lg shadow-sm hover:shadow-md transition-shadow p-6 h-full border border-border">
+                                        <span className="text-sm text-primary font-semibold">{new Date(post.date).toLocaleDateString()}</span>
+                                        <h2 className="text-xl font-bold text-card-foreground mt-2 mb-3 group-hover:text-primary transition-colors">{post.title}</h2>
+                                        <p className="text-muted-foreground line-clamp-3">{post.description}</p>
+                                        <span className="inline-block mt-4 text-primary font-semibold text-sm group-hover:underline">Read Article →</span>
+                                    </div>
+                                </Link>
+                            );
+                        })}
                     </div>
                 </div>
             </main>
