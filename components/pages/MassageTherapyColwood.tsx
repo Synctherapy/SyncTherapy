@@ -37,7 +37,7 @@ export function MassageTherapyColwood() {
             "latitude": 48.4359,
             "longitude": -123.4752
         },
-        "url": "https://synctherapy.ca/services/massage-therapy-colwood",
+        "url": "https://synctherapy.ca/services/massage-therapy",
         "priceRange": "$$",
         "hasOfferCatalog": {
             "@type": "OfferCatalog",

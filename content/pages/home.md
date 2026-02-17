@@ -194,7 +194,7 @@ seoTitle: Home
                 <p class="text-sm text-text/70 mb-4">
                     Convenient massage Langford and Westshore Massage Therapy location for sports massage, deep tissue therapy, and injury rehabilitation
                 </p>
-                <a href="https://synctherapylocal.local/services/massage-therapy-langford/" class="text-primary hover:text-accent text-sm font-medium">
+                <a href="https://synctherapylocal.local/services/massage-therapy/" class="text-primary hover:text-accent text-sm font-medium">
                     Book Massage Langford Appointment →
                 </a>
             </div>
@@ -208,7 +208,7 @@ seoTitle: Home
                 <p class="text-sm text-text/70 mb-4">
                     Located in Colwood, just 1 minute from Juan De Fuca Rec Centre for your convenience
                 </p>
-                <a href="https://synctherapylocal.local/services/massage-therapy-colwood/" class="text-primary hover:text-accent text-sm font-medium">
+                <a href="https://synctherapylocal.local/services/massage-therapy/" class="text-primary hover:text-accent text-sm font-medium">
                     Book Colwood Appointment →
                 </a>
             </div>
@@ -248,13 +248,13 @@ seoTitle: Home
                                 </svg>
                                 Massage Therapy Victoria
                             </a>
-                            <a href="https://synctherapylocal.local/services/massage-therapy-langford/" class="flex items-center text-sm text-primary hover:text-accent transition-colors group">
+                            <a href="https://synctherapylocal.local/services/massage-therapy/" class="flex items-center text-sm text-primary hover:text-accent transition-colors group">
                                 <svg class="h-4 w-4 mr-2 group-hover:text-accent" fill="currentColor" viewBox="0 0 20 20">
                                     <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
                                 </svg>
                                 Massage Therapy Langford
                             </a>
-                            <a href="https://synctherapylocal.local/services/massage-therapy-langford/" class="flex items-center text-sm text-primary hover:text-accent transition-colors group">
+                            <a href="https://synctherapylocal.local/services/massage-therapy/" class="flex items-center text-sm text-primary hover:text-accent transition-colors group">
                                 <svg class="h-4 w-4 mr-2 group-hover:text-accent" fill="currentColor" viewBox="0 0 20 20">
                                     <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
                                 </svg>
@@ -421,8 +421,8 @@ seoTitle: Home
                         </li>
                     </ul>
                 </div>
-                <a data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL21hc3NhZ2UtdGhlcmFweS1jb2x3b29kLw==" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL21hc3NhZ2UtdGhlcmFweS1jb2x3b29kLw==" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL21hc3NhZ2UtdGhlcmFweS1jb2x3b29kLw==" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL21hc3NhZ2UtdGhlcmFweS1jb2x3b29kLw==" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL21hc3NhZ2UtdGhlcmFweS1jb2x3b29kLw==" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL21hc3NhZ2UtdGhlcmFweS1jb2x3b29kLw==" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL21hc3NhZ2UtdGhlcmFweS1jb2x3b29kLw==" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL21hc3NhZ2UtdGhlcmFweS1jb2x3b29kLw==" href="/services/massage-therapy-colwood/" class="btn-accent w-full text-center mb-2">Book 60-Minute Session</a>
-                <a href="https://synctherapylocal.local/services/massage-therapy-langford/" class="text-sm text-primary hover:underline block text-center">
+                <a data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL21hc3NhZ2UtdGhlcmFweS1jb2x3b29kLw==" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL21hc3NhZ2UtdGhlcmFweS1jb2x3b29kLw==" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL21hc3NhZ2UtdGhlcmFweS1jb2x3b29kLw==" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL21hc3NhZ2UtdGhlcmFweS1jb2x3b29kLw==" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL21hc3NhZ2UtdGhlcmFweS1jb2x3b29kLw==" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL21hc3NhZ2UtdGhlcmFweS1jb2x3b29kLw==" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL21hc3NhZ2UtdGhlcmFweS1jb2x3b29kLw==" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL21hc3NhZ2UtdGhlcmFweS1jb2x3b29kLw==" href="/services/massage-therapy/" class="btn-accent w-full text-center mb-2">Book 60-Minute Session</a>
+                <a href="https://synctherapylocal.local/services/massage-therapy/" class="text-sm text-primary hover:underline block text-center">
                     Learn more about massage therapy →
                 </a>
             </article>

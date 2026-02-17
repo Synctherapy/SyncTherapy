@@ -1601,7 +1601,7 @@ seoTitle: Athletic Therapy Colwood
 
                         <li style="margin-bottom: 10px;">
 
-                            <a data-wpil="url" href="https://synctherapylocal.local/services/massage-therapy-colwood/" style="color: var(--primary-color); text-decoration: none;">Massage Therapy Colwood</a>
+                            <a data-wpil="url" href="https://synctherapylocal.local/services/massage-therapy/" style="color: var(--primary-color); text-decoration: none;">Massage Therapy Colwood</a>
 
                         </li>
 

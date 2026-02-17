@@ -56,7 +56,7 @@ export function ServicesIndexLayout({ }: ServicesIndexLayoutProps) {
                         </div>
                         <div className="space-y-4">
                             <div className="flex items-baseline justify-between gap-4">
-                                <Link href="/services/massage-therapy-colwood" className="hover:underline decoration-[#2563EB]">
+                                <Link href="/services/massage-therapy" className="hover:underline decoration-[#2563EB]">
                                     <h2 className="text-3xl font-bold text-[#1A2B3C] leading-tight">Massage Therapy</h2>
                                 </Link>
                                 <div className="h-px flex-1 bg-[#2563EB]/20"></div>
@@ -70,7 +70,7 @@ export function ServicesIndexLayout({ }: ServicesIndexLayoutProps) {
                                 <span className="text-[9px] font-bold uppercase tracking-widest bg-white/50 border border-blue-100 px-3 py-1.5 rounded-full text-[#1A2B3C]/70">Myofascial</span>
                             </div>
                             <div className="flex justify-center pt-4">
-                                <Link href="/services/massage-therapy-colwood" className="inline-flex items-center gap-3 text-[11px] font-bold uppercase tracking-[0.15em] text-[#2563EB] group-hover:gap-5 transition-all">
+                                <Link href="/services/massage-therapy" className="inline-flex items-center gap-3 text-[11px] font-bold uppercase tracking-[0.15em] text-[#2563EB] group-hover:gap-5 transition-all">
                                     Explore Details
                                     <ArrowRight className="w-4 h-4" />
                                 </Link>

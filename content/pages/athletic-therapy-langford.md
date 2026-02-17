@@ -835,7 +835,7 @@ seoTitle: Athletic Therapy Langford
                             <a data-wpil="url" href="https://synctherapylocal.local/services/athletic-therapy-colwood/" style="color: var(--primary-color); text-decoration: none;">Athletic Therapy Colwood</a>
                         </li>
                         <li style="margin-bottom: 10px;">
-                            <a data-wpil="url" href="https://synctherapylocal.local/services/massage-therapy-langford/" style="color: var(--primary-color); text-decoration: none;">Massage Therapy Langford</a>
+                            <a data-wpil="url" href="https://synctherapylocal.local/services/massage-therapy/" style="color: var(--primary-color); text-decoration: none;">Massage Therapy Langford</a>
                         </li>
                     </ul>
                 </div>

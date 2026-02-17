@@ -43,6 +43,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 import { MassageTherapyColwood } from '@/components/pages/MassageTherapyColwood';
+import { DirectBillingMassage } from '@/components/pages/DirectBillingMassage';
 
 export default async function Page({ params }: Props) {
     const resolvedParams = await params;
@@ -52,15 +53,28 @@ export default async function Page({ params }: Props) {
         notFound();
     }
 
-    // SPECIAL PAGE: Massage Therapy Colwood
-    // Renders the dedicated high-fidelity component for this specific slug
+    // SPECIAL PAGE: Massage Therapy (Consolidated)
+    // Renders the dedicated high-fidelity component for the main service page
     if (resolvedParams.slug.length === 2 &&
         resolvedParams.slug[0] === 'services' &&
-        resolvedParams.slug[1] === 'massage-therapy-colwood') {
+        resolvedParams.slug[1] === 'massage-therapy') {
         return (
             <>
                 <Header />
                 <MassageTherapyColwood />
+                <Footer />
+            </>
+        );
+    }
+
+    // SPECIAL PAGE: Direct Billing Massage
+    if (resolvedParams.slug.length === 2 &&
+        resolvedParams.slug[0] === 'services' &&
+        resolvedParams.slug[1] === 'direct-billing') {
+        return (
+            <>
+                <Header />
+                <DirectBillingMassage />
                 <Footer />
             </>
         );

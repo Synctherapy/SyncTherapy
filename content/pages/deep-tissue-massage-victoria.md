@@ -232,8 +232,8 @@ seoTitle: 'Deep Tissue Massage Therapy in Victoria, BC'
 
                     <p class="text-base text-text/70 mb-8">
                         Located in <strong>Colwood</strong>, we proudly serve clients from 
-                        <a data-wpil="url" href="https://synctherapylocal.local/services/massage-therapy-colwood/" class="text-primary hover:underline">Colwood</a>, 
-                        <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LWxhbmdmb3JkLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LWxhbmdmb3JkLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LWxhbmdmb3JkLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LWxhbmdmb3JkLw==" href="https://synctherapylocal.local/services/massage-therapy-langford/" class="text-primary hover:underline">Langford</a>, 
+                        <a data-wpil="url" href="https://synctherapylocal.local/services/massage-therapy/" class="text-primary hover:underline">Colwood</a>, 
+                        <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LWxhbmdmb3JkLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LWxhbmdmb3JkLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LWxhbmdmb3JkLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LWxhbmdmb3JkLw==" href="https://synctherapylocal.local/services/massage-therapy/" class="text-primary hover:underline">Langford</a>, 
                         <a wpil="url" old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZS1hcmVhcy8=" href="https://synctherapylocal.local/services/" class="text-primary hover:underline">Victoria</a>, 
                         and surrounding areas.
                     </p>

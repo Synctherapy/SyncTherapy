@@ -961,7 +961,7 @@ seoTitle: Our Team
             </div>
 
             <div class="services-grid">
-                <a href="https://synctherapylocal.local/services/massage-therapy-colwood/" class="service-card">
+                <a href="https://synctherapylocal.local/services/massage-therapy/" class="service-card">
                     <div class="service-icon">💆‍♂️</div>
                     <h3 class="service-title">Massage Therapy</h3>
                     <p class="service-description">Therapeutic massage treatments</p>
@@ -1052,8 +1052,8 @@ seoTitle: Our Team
                 <div class="footer-column">
                     <h3>Locations</h3>
                     <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LXZpY3RvcmlhLw==" href="https://synctherapylocal.local/services/massage-therapy-victoria/">Victoria</a>
-                    <a data-wpil="url" href="https://synctherapylocal.local/services/massage-therapy-colwood/">Colwood</a>
-                    <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LWxhbmdmb3JkLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LWxhbmdmb3JkLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LWxhbmdmb3JkLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LWxhbmdmb3JkLw==" href="https://synctherapylocal.local/services/massage-therapy-langford/">Langford</a>
+                    <a data-wpil="url" href="https://synctherapylocal.local/services/massage-therapy/">Colwood</a>
+                    <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LWxhbmdmb3JkLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LWxhbmdmb3JkLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LWxhbmdmb3JkLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LWxhbmdmb3JkLw==" href="https://synctherapylocal.local/services/massage-therapy/">Langford</a>
                 </div>
             </div>
         </div>

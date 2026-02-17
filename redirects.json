@@ -1,5 +1,25 @@
 [
   {
+    "source": "/services/massage-therapy-colwood",
+    "destination": "/services/massage-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/services/massage-therapy-victoria",
+    "destination": "/services/massage-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/services/direct-billing-massage",
+    "destination": "/services/direct-billing/",
+    "permanent": true
+  },
+  {
+    "source": "/services/massage-therapy-langford",
+    "destination": "/services/massage-therapy/",
+    "permanent": true
+  },
+  {
     "source": "/blogs/red-light-therapy/mito-pro-x-750-review",
     "destination": "/mito-pro-x-750-review/",
     "permanent": true
