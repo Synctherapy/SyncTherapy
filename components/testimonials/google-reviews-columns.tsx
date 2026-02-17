@@ -32,8 +32,6 @@ const ReviewCard = ({ img, name, username, body, rating }: ReviewProps) => {
                     height={32}
                     alt={name}
                     src={img}
-                    unoptimized
-                    referrerPolicy="no-referrer"
                 />
                 <div className="flex flex-col">
                     <figcaption className="text-sm font-medium dark:text-white">
