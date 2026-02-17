@@ -1,11 +1,20 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
+import { cache } from 'react';
 
 const contentDirectory = path.join(process.cwd(), 'content');
 
-export async function getContentBySlug(slug: string[]) {
-    const realSlug = slug.join('/');
+const getCachedContent = cache(async (slugStr: string) => {
+    // Reconstruct the array for fallback logic
+    // We filter(Boolean) to avoid empty strings from split, but wait...
+    // If slug was ['a', 'b'], join is 'a/b', split is ['a', 'b'].
+    // If slug was [''], join is '', split is [''].
+    // If slug was [], join is '', split is [''].
+    // The original logic relies on slug array.
+
+    const slug = slugStr.split('/');
+    const realSlug = slugStr;
 
     // 1. Try to find the file using the full URL path (e.g. "services/massage")
     const pagePath = path.join(contentDirectory, 'pages', `${realSlug}.md`);
@@ -57,6 +66,10 @@ export async function getContentBySlug(slug: string[]) {
         content: cleanContent,
         type,
     };
+});
+
+export const getContentBySlug = async (slug: string[]) => {
+    return getCachedContent(slug.join('/'));
 }
 
 export async function getAllPaths() {
