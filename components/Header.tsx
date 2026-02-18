@@ -47,7 +47,7 @@ export default function Header() {
                     </Link>
 
                     {/* Desktop Menu - Aligned Top/Center */}
-                    <div className="hidden lg:block absolute left-1/2 top-4 transform -translate-x-1/2">
+                    <div className="hidden lg:block absolute left-1/2 top-4 transform -translate-x-1/2 z-50">
                         <Menu setActive={setActive}>
                             <MenuItem setActive={setActive} active={active} item="Services">
                                 <div className="text-sm grid grid-cols-2 gap-10 p-4 min-w-[500px]">

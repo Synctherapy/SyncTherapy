@@ -26,7 +26,7 @@ export function DirectBillingBar() {
 
             {/* Logos formatted as text for now to ensure visibility if images miss */}
             <div className="relative flex overflow-x-hidden group">
-                <div className="animate-marquee whitespace-nowrap flex gap-16 items-center px-4 will-change-transform">
+                <div className="animate-marquee whitespace-nowrap flex gap-8 md:gap-16 items-center px-4 will-change-transform">
                     {/* Duplicated set for seamless scrolling */}
                     {[...insuranceProviders, ...insuranceProviders, ...insuranceProviders].map((provider, i) => (
                         <div key={i} className="flex items-center gap-2 grayscale hover:grayscale-0 transition-all duration-300 opacity-60 hover:opacity-100 cursor-default">

@@ -27,6 +27,70 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     const description = item.frontmatter.description || '';
     const url = `https://www.synctherapy.ca/${resolvedParams.slug.join('/')}`;
 
+    // Custom Metadata for /direct-billing
+    if (resolvedParams.slug.length === 1 && resolvedParams.slug[0] === 'direct-billing') {
+        return {
+            title: 'Direct Billing RMT & Athletic Therapy | Victoria & Colwood | Sync Therapy',
+            description: 'Direct billing RMT in Colwood. We bill Pacific Blue Cross, Canada Life & Sun Life. Accepting insurance for Visceral Manipulation & Athletic Therapy.',
+            openGraph: {
+                title: 'Direct Billing Massage & Athletic Therapy | Sync Therapy',
+                description: 'Skip the paperwork. We direct bill Pacific Blue Cross, Canada Life, and more for RMT and Visceral Manipulation in Colwood/Victoria.',
+                url: 'https://www.synctherapy.ca/direct-billing/',
+                siteName: 'Sync Therapy',
+                locale: 'en_CA',
+                type: 'website',
+            },
+            alternates: {
+                canonical: 'https://www.synctherapy.ca/direct-billing/',
+            },
+        };
+    }
+
+    // Custom Metadata for /services/deep-tissue-massage
+    if (resolvedParams.slug.length === 2 &&
+        resolvedParams.slug[0] === 'services' &&
+        resolvedParams.slug[1] === 'deep-tissue-massage') {
+        return {
+            title: 'Deep Tissue Massage Colwood, Langford & Victoria | Sync Therapy',
+            description: 'Clinical deep tissue massage on Wale Rd, Colwood. Treating back pain, neck tension & sports injuries. Direct Billing for West Shore & Victoria residents.',
+            openGraph: {
+                title: 'Deep Tissue Massage Colwood, Langford & Victoria | Sync Therapy',
+                description: 'Relieve chronic tension and sports injuries without the downtown commute. Voted Best Rehab Clinic in the West Shore.',
+                url: 'https://www.synctherapy.ca/services/deep-tissue-massage/',
+                siteName: 'Sync Therapy',
+                locale: 'en_CA',
+                type: 'website',
+            },
+            alternates: {
+                canonical: 'https://www.synctherapy.ca/services/deep-tissue-massage/',
+            },
+        };
+    }
+
+    // Custom Metadata for /services/sports-massage-therapy
+    if (resolvedParams.slug.length === 2 &&
+        resolvedParams.slug[0] === 'services' &&
+        resolvedParams.slug[1] === 'sports-massage-therapy') {
+        return {
+            title: 'Sports Massage Colwood & Langford | Recovery RMT | Sync Therapy',
+            description: 'Sports massage for runners, lifters & athletes in Colwood. Improve recovery & range of motion. Located near Juan de Fuca Rec. Direct Billing available.',
+            openGraph: {
+                title: 'Sports Massage Colwood & Langford | Recovery RMT | Sync Therapy',
+                description: 'Sports massage for runners, lifters & athletes in Colwood. Improve recovery & range of motion. Located near Juan de Fuca Rec. Direct Billing available.',
+                url: 'https://www.synctherapy.ca/services/sports-massage-therapy/',
+                siteName: 'Sync Therapy',
+                locale: 'en_CA',
+                type: 'website',
+            },
+            alternates: {
+                canonical: 'https://www.synctherapy.ca/services/sports-massage-therapy/',
+            },
+        };
+    };
+
+
+
+
     return {
         title,
         description,
@@ -44,12 +108,14 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 import { MassageTherapyColwood } from '@/components/pages/MassageTherapyColwood';
 import { DirectBillingMassage } from '@/components/pages/DirectBillingMassage';
+import { DeepTissueMassage } from '@/components/pages/DeepTissueMassage';
+import { SportsMassage } from '@/components/pages/SportsMassage';
 
 export default async function Page({ params }: Props) {
     const resolvedParams = await params;
     const item = await getContentBySlug(resolvedParams.slug);
 
-    if (!item) {
+    if (!item && resolvedParams.slug[0] !== 'direct-billing' && !(resolvedParams.slug[0] === 'services' && resolvedParams.slug[1] === 'deep-tissue-massage')) {
         notFound();
     }
 
@@ -68,13 +134,38 @@ export default async function Page({ params }: Props) {
     }
 
     // SPECIAL PAGE: Direct Billing Massage
-    if (resolvedParams.slug.length === 2 &&
-        resolvedParams.slug[0] === 'services' &&
-        resolvedParams.slug[1] === 'direct-billing') {
+    if (resolvedParams.slug.length === 1 &&
+        resolvedParams.slug[0] === 'direct-billing') {
         return (
             <>
                 <Header />
                 <DirectBillingMassage />
+                <Footer />
+            </>
+        );
+    }
+
+    // SPECIAL PAGE: Deep Tissue Massage
+    if (resolvedParams.slug.length === 2 &&
+        resolvedParams.slug[0] === 'services' &&
+        resolvedParams.slug[1] === 'deep-tissue-massage') {
+        return (
+            <>
+                <Header />
+                <DeepTissueMassage />
+                <Footer />
+            </>
+        );
+    }
+
+    // SPECIAL PAGE: Sports Massage Therapy
+    if (resolvedParams.slug.length === 2 &&
+        resolvedParams.slug[0] === 'services' &&
+        resolvedParams.slug[1] === 'sports-massage-therapy') {
+        return (
+            <>
+                <Header />
+                <SportsMassage />
                 <Footer />
             </>
         );

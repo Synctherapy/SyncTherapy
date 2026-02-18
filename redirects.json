@@ -1,5 +1,10 @@
 [
   {
+    "source": "/services/visceral-manipulation-victoria/",
+    "destination": "/services/visceral-manipulation/",
+    "permanent": true
+  },
+  {
     "source": "/services/massage-therapy-colwood",
     "destination": "/services/massage-therapy/",
     "permanent": true
@@ -11,7 +16,12 @@
   },
   {
     "source": "/services/direct-billing-massage",
-    "destination": "/services/direct-billing/",
+    "destination": "/direct-billing/",
+    "permanent": true
+  },
+  {
+    "source": "/services/direct-billing",
+    "destination": "/direct-billing/",
     "permanent": true
   },
   {
@@ -435,8 +445,13 @@
     "permanent": true
   },
   {
+    "source": "/services/deep-tissue-massage-victoria",
+    "destination": "/services/deep-tissue-massage/",
+    "permanent": true
+  },
+  {
     "source": "/services/massage-therapy/deep-tissue-massage",
-    "destination": "/services/deep-tissue-massage-victoria/",
+    "destination": "/services/deep-tissue-massage/",
     "permanent": true
   },
   {
@@ -446,7 +461,7 @@
   },
   {
     "source": "/services/massage-therapy/direct-billing",
-    "destination": "/services/direct-billing-massage/",
+    "destination": "/direct-billing/",
     "permanent": true
   },
   {
@@ -691,17 +706,17 @@
   },
   {
     "source": "/massage-rates-direct-billing-victoria",
-    "destination": "/services/direct-billing-massage/",
+    "destination": "/direct-billing/",
     "permanent": true
   },
   {
     "source": "/massage-rates-direct-billing-colwood",
-    "destination": "/services/direct-billing-massage/",
+    "destination": "/direct-billing/",
     "permanent": true
   },
   {
     "source": "/massage-rates-direct-billing-langford",
-    "destination": "/services/direct-billing-massage/",
+    "destination": "/direct-billing/",
     "permanent": true
   },
   {

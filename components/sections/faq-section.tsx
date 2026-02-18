@@ -2,9 +2,11 @@
 
 import { Badge } from "@/components/ui/badge";
 
+import { ReactNode } from "react";
+
 export interface FaqItem {
   question: string;
-  answer: string;
+  answer: string | ReactNode;
 }
 
 export interface FaqProps {

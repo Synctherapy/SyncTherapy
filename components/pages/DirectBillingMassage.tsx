@@ -66,31 +66,73 @@ export function DirectBillingMassage() {
                 <div className="absolute bottom-[-10%] left-[20%] w-[45vw] h-[45vw] bg-teal-100/30 rounded-full blur-[100px] animate-blob animation-delay-4000 mix-blend-multiply filter will-change-transform" />
             </div>
 
-            <div className="relative z-10">
-                {/* 1. Hero Section - SEO Optimized H1 for Direct Billing */}
-                <HeroSection
-                    title="Direct Billing Massage & Athletic Therapy in Victoria (Colwood)"
-                    subtitle="Direct billing for Pacific Blue Cross, Sun Life, Canada Life, and more."
-                    image="/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg"
-                    description={
-                        <div className="space-y-4">
-                            <p>
-                                Skip the paperwork. At <strong>Sync Massage Therapy</strong> in Colwood, we handle the insurance claims for you. We provide direct billing for Registered Massage Therapy (RMT) and Athletic Therapy, serving patients from Langford, View Royal, and Greater Victoria.
+            <div className="relative z-10 pt-[120px] pb-16 lg:pt-[180px] lg:pb-24">
+                {/* 1. Custom Hero Section - Side by Side (Image Prominent) */}
+                <div className="container mx-auto px-4">
+                    <div className="grid lg:grid-cols-2 gap-12 items-center">
+                        {/* Text Column */}
+                        <div className="space-y-8">
+                            <Badge variant="outline" className="border-blue-200 text-blue-700 bg-blue-50/50 backdrop-blur-sm px-4 py-1.5 text-sm">
+                                Direct Billing Available
+                            </Badge>
+                            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground font-sans leading-tight tracking-tight text-balance">
+                                Direct Billing Massage & Athletic Therapy in Victoria (Colwood)
+                            </h1>
+                            <p className="text-xl md:text-2xl text-muted-foreground font-light text-balance">
+                                Direct billing for Pacific Blue Cross, Sun Life, Canada Life, and more.
                             </p>
-                            <h2 className="text-2xl font-bold text-white mt-6 mb-2">Does Insurance Cover Visceral Manipulation?</h2>
-                            <p>
-                                Yes. Visceral Manipulation is performed by a Registered Massage Therapist (RMT) at Sync. If your insurance plan covers Massage Therapy, it typically covers Visceral Manipulation when performed as part of your RMT treatment.
-                            </p>
+
+                            <div className="space-y-4 text-lg text-slate-700 leading-relaxed">
+                                <p>
+                                    Skip the paperwork. At <strong>Sync Massage Therapy</strong> in Colwood, we handle the insurance claims for you. We provide direct billing for Registered Massage Therapy (RMT) and Athletic Therapy, serving patients from Langford, View Royal, and Greater Victoria.
+                                </p>
+                                <div className="p-6 bg-blue-50/80 rounded-2xl border border-blue-100">
+                                    <h2 className="text-lg font-bold text-blue-900 mb-2">Does Insurance Cover Visceral Manipulation?</h2>
+                                    <p className="text-base text-blue-800/80">
+                                        Yes. Visceral Manipulation is performed by a Registered Massage Therapist (RMT) at Sync. If your insurance plan covers Massage Therapy, it typically covers Visceral Manipulation when performed as part of your RMT treatment.
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div className="flex flex-wrap gap-4 pt-4">
+                                <Button
+                                    size="lg"
+                                    className="bg-blue-700 text-white hover:bg-blue-800 shadow-lg shadow-blue-900/20 hover:shadow-xl hover:-translate-y-0.5 transition-all text-lg px-8 py-6 h-auto rounded-xl"
+                                    asChild
+                                >
+                                    <a href="https://synctherapy.janeapp.com/">Book Online – We Bill Insurance</a>
+                                </Button>
+                                <Button
+                                    size="lg"
+                                    variant="outline"
+                                    className="border-2 border-slate-200 text-foreground hover:bg-slate-50 hover:border-slate-300 text-lg px-8 py-6 h-auto rounded-xl"
+                                    asChild
+                                >
+                                    <Link href="#insurance-list">Check Your Insurance</Link>
+                                </Button>
+                            </div>
                         </div>
-                    }
-                    primaryCtaText="Book Online – We Bill Insurance"
-                    primaryCtaLink="https://synctherapy.janeapp.com/"
-                    secondaryCtaText="Check Your Insurance"
-                    secondaryCtaLink="#insurance-list"
-                />
+
+                        {/* Image Column - Prominent */}
+                        <div className="relative">
+                            <div className="relative rounded-[2.5rem] overflow-hidden shadow-2xl border-8 border-white/50 backdrop-blur-sm bg-white/20 aspect-[4/3] lg:aspect-square">
+                                <Image
+                                    src="/wp-content/uploads/2025/06/direct-billing-massage-for-visceral-manipulation.png.webp"
+                                    alt="List of insurance providers accepted at Sync Massage Therapy"
+                                    fill
+                                    className="object-contain p-8 bg-white" // Using object-contain and white bg to make the text/logos legible
+                                    sizes="(max-width: 768px) 100vw, 50vw"
+                                    priority
+                                />
+                            </div>
+                            {/* Decorative background blob behind image */}
+                            <div className="absolute -z-10 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[120%] h-[120%] bg-gradient-to-tr from-blue-100 to-purple-100 rounded-full blur-3xl opacity-60" />
+                        </div>
+                    </div>
+                </div>
 
                 {/* 2. Direct Billing Bar (Conversion) */}
-                <div id="insurance-list">
+                <div id="insurance-list" className="mt-16 lg:mt-24">
                     <DirectBillingBar />
                 </div>
 
@@ -188,7 +230,36 @@ export function DirectBillingMassage() {
                 {/* 7. Location */}
                 <LocationSection />
 
-                {/* 8. FAQ - Direct Billing Specific */}
+                {/* 8. Checklist Section (New) */}
+                <section className="py-16 bg-blue-50/50">
+                    <div className="container mx-auto px-4 max-w-4xl">
+                        <div className="bg-white rounded-3xl p-8 md:p-10 shadow-lg border border-blue-100">
+                            <h3 className="text-2xl md:text-3xl font-bold text-blue-900 mb-6 flex items-center gap-3">
+                                <span className="flex items-center justify-center w-10 h-10 rounded-full bg-blue-100 text-blue-600 text-xl">📋</span>
+                                Checklist: Before You Book
+                            </h3>
+                            <p className="text-lg text-slate-600 mb-8">
+                                While we handle the submission, every insurance plan is unique. We recommend checking these 3 details in your portal (e.g., Pacific Blue Cross Member Profile) before your visit:
+                            </p>
+                            <div className="grid md:grid-cols-3 gap-6">
+                                <div className="p-5 bg-blue-50 rounded-xl border border-blue-100/50">
+                                    <div className="font-bold text-blue-800 mb-2">1. Do you have a deductible?</div>
+                                    <p className="text-sm text-slate-600">Some plans require you to pay the first $50-$100 of the year yourself.</p>
+                                </div>
+                                <div className="p-5 bg-blue-50 rounded-xl border border-blue-100/50">
+                                    <div className="font-bold text-blue-800 mb-2">2. Is a doctor's note required?</div>
+                                    <p className="text-sm text-slate-600">We don't need one, but your insurance might require one on file to reimburse you.</p>
+                                </div>
+                                <div className="p-5 bg-blue-50 rounded-xl border border-blue-100/50">
+                                    <div className="font-bold text-blue-800 mb-2">3. When does your year reset?</div>
+                                    <p className="text-sm text-slate-600">Most reset Jan 1st, but some are on a fiscal year.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                {/* 9. FAQ - Direct Billing Specific */}
                 <FaqSection
                     heading="Direct Billing & Insurance FAQ"
                     description="Common questions about using your extended health benefits for massage therapy."
