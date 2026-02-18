@@ -2,7 +2,6 @@ import { GlassCard } from "@/components/ui/glass-card";
 import { ScrollReveal } from "@/components/ui/scroll-reveal";
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
-import { motion } from "framer-motion";
 import { Check, Star } from "lucide-react";
 import Link from "next/link";
 import NumberFlow from "@number-flow/react";

@@ -1,6 +1,5 @@
 "use client";
 
-import { motion } from "framer-motion";
 import { ReactNode } from "react";
 
 interface ScrollAnimationProps {
@@ -10,15 +9,11 @@ interface ScrollAnimationProps {
 }
 
 export function ScrollAnimation({ children, className = "", delay = 0 }: ScrollAnimationProps) {
+    // Animation was disabled (initial="visible" === whileInView="visible").
+    // Removed framer-motion for performance.
     return (
-        <motion.div
-            initial={{ opacity: 1, y: 0 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true, margin: "-100px" }}
-            transition={{ duration: 0.6, ease: "easeOut", delay }}
-            className={className}
-        >
+        <div className={className}>
             {children}
-        </motion.div>
+        </div>
     );
 }
