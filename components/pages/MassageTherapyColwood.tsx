@@ -2,7 +2,7 @@
 
 import { HeroSection } from "@/components/sections/hero-section";
 
-import { ColwoodServices } from "@/components/pages/ColwoodServices";
+import { MassageTherapyServices } from "@/components/pages/MassageTherapyServices";
 import { PricingSection } from "@/components/sections/pricing-section";
 import { LocationSection } from "@/components/sections/location-section";
 import { FaqSection } from "@/components/sections/faq-section";
@@ -117,6 +117,10 @@ export function MassageTherapyColwood() {
                                         <strong>Meet Daryl Stubbs</strong> — Daryl brings a decade of clinical excellence to West Shore's most established community. His unique triple qualification in massage therapy, athletic therapy (graduated 2013), and holistic nutrition provides comprehensive care for Colwood's discerning residents.
                                     </p>
 
+                                    <p className="text-lg text-slate-600 border-l-4 border-blue-200 pl-4 py-2 italic bg-blue-50/30 rounded-r-lg">
+                                        We bridge the gap between relaxation and rehabilitation. We don't just rub where it hurts; we use orthopedic assessments to find out <strong>WHY</strong> it hurts, combining RMT with Athletic Therapy principles.
+                                    </p>
+
                                     <div className="grid gap-4 pt-4">
                                         {[
                                             "Bachelor’s in Athletic & Exercise Therapy (2013)",
@@ -197,11 +201,13 @@ export function MassageTherapyColwood() {
 
                 {/* 6. Services Grid (Reused) */}
                 <div id="services">
-                    <ColwoodServices />
+                    <MassageTherapyServices />
                 </div>
 
                 {/* 7. Pricing */}
-                <PricingSection />
+                <div className="flex flex-col items-center text-center">
+                    <PricingSection />
+                </div>
 
                 {/* 8. Location */}
                 <LocationSection />

@@ -172,7 +172,7 @@ export default async function Page({ params }: Props) {
     }
 
     // 1. Blog Post Layout
-    if (item.type === 'post') {
+    if (item && item.type === 'post') {
         const content = <div dangerouslySetInnerHTML={{ __html: item.content }} />;
         return (
             <>
@@ -225,7 +225,7 @@ export default async function Page({ params }: Props) {
         (resolvedParams.slug[0] === 'services' && resolvedParams.slug.length > 1) ||
         !['about', 'contact', 'home'].includes(resolvedParams.slug[0]);
 
-    if (isServiceOrCondition) {
+    if (isServiceOrCondition && item) {
         const content = <div dangerouslySetInnerHTML={{ __html: item.content }} />;
         return (
             <>
@@ -250,13 +250,13 @@ export default async function Page({ params }: Props) {
                 <div className="bg-muted py-12 border-b border-border">
                     <div className="container mx-auto px-4 text-center">
                         <h1 className="text-4xl font-bold text-foreground font-sans">
-                            {item.frontmatter.title}
+                            {item?.frontmatter?.title || 'Page Not Found'}
                         </h1>
                     </div>
                 </div>
 
                 <div className="container mx-auto px-4 py-8">
-                    <div className="prose max-w-none prose-neutral dark:prose-invert" dangerouslySetInnerHTML={{ __html: item.content }} />
+                    <div className="prose max-w-none prose-neutral dark:prose-invert" dangerouslySetInnerHTML={{ __html: item?.content || '' }} />
                 </div>
             </main>
             <Footer />

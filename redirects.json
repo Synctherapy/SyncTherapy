@@ -25,6 +25,26 @@
     "permanent": true
   },
   {
+    "source": "/massage-therapy-langford",
+    "destination": "/services/massage-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/massage-therapy-victoria",
+    "destination": "/services/massage-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/athletic-therapy-colwood",
+    "destination": "/services/athletic-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/athletic-therapy-langford",
+    "destination": "/services/athletic-therapy/",
+    "permanent": true
+  },
+  {
     "source": "/services/massage-therapy-langford",
     "destination": "/services/massage-therapy/",
     "permanent": true
@@ -420,11 +440,6 @@
     "permanent": true
   },
   {
-    "source": "/services/icbc-active-rehab",
-    "destination": "/icbc-massage-therapy/",
-    "permanent": true
-  },
-  {
     "source": "/services/registered-massage-therapy",
     "destination": "/services/massage-therapy-victoria/",
     "permanent": true
@@ -436,7 +451,32 @@
   },
   {
     "source": "/services/myofascial-release-victoria",
-    "destination": "/services/myofascial-release-massage/",
+    "destination": "/services/myofascial-release/",
+    "permanent": true
+  },
+  {
+    "source": "/services/visceral-manipulation-massage-victoria",
+    "destination": "/services/visceral-manipulation-victoria/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/neck-pain",
+    "destination": "/conditions/neck-shoulder-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/neck-pain-victoria",
+    "destination": "/conditions/neck-shoulder-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/sciatica",
+    "destination": "/conditions/sciatica-treatment/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/muscle-tension-relief",
+    "destination": "/conditions/muscle-tension/",
     "permanent": true
   },
   {
@@ -526,17 +566,17 @@
   },
   {
     "source": "/conditions/headache-migraine-massage-victoria",
-    "destination": "/conditions/headaches-and-neck-pain/",
+    "destination": "/conditions/neck-shoulder-pain/",
     "permanent": true
   },
   {
     "source": "/conditions/headaches-neck-pain-langford",
-    "destination": "/conditions/headaches-and-neck-pain/",
+    "destination": "/conditions/neck-shoulder-pain/",
     "permanent": true
   },
   {
     "source": "/conditions/headaches-neck-pain-colwood",
-    "destination": "/conditions/headaches-and-neck-pain/",
+    "destination": "/conditions/neck-shoulder-pain/",
     "permanent": true
   },
   {
@@ -546,7 +586,7 @@
   },
   {
     "source": "/conditions/stress-anxiety-reduction-massage",
-    "destination": "/services/swedish-relaxation-massage-victoria/",
+    "destination": "/services/relaxation-massage/",
     "permanent": true
   },
   {
@@ -581,12 +621,12 @@
   },
   {
     "source": "/conditions/muscle-tension-relief-colwood",
-    "destination": "/conditions/muscle-tension-relief-victoria/",
+    "destination": "/conditions/muscle-tension/",
     "permanent": true
   },
   {
     "source": "/conditions/muscle-tension-relief-langford",
-    "destination": "/conditions/muscle-tension-relief-victoria/",
+    "destination": "/conditions/muscle-tension/",
     "permanent": true
   },
   {
@@ -611,12 +651,12 @@
   },
   {
     "source": "/conditions/sciatica-treatment-colwood",
-    "destination": "/conditions/sciatica-treatment-victoria/",
+    "destination": "/conditions/sciatica-treatment/",
     "permanent": true
   },
   {
     "source": "/conditions/sciatica-treatment-langford",
-    "destination": "/conditions/sciatica-treatment-victoria/",
+    "destination": "/conditions/sciatica-treatment/",
     "permanent": true
   },
   {
@@ -626,12 +666,12 @@
   },
   {
     "source": "/conditions/shoulder-pain-langford",
-    "destination": "/conditions/shoulder-pain-victoria-bc/",
+    "destination": "/conditions/shoulder-pain/",
     "permanent": true
   },
   {
     "source": "/conditions/shoulder-pain-colwood",
-    "destination": "/conditions/shoulder-pain-victoria-bc/",
+    "destination": "/conditions/shoulder-pain/",
     "permanent": true
   },
   {
@@ -747,6 +787,141 @@
   {
     "source": "/seed-probiotics-reviews/\u2060",
     "destination": "/seed-probiotics-reviews/",
+    "permanent": true
+  },
+  {
+    "source": "/sciatica-treatment-victoria",
+    "destination": "/conditions/sciatica-treatment/",
+    "permanent": true
+  },
+  {
+    "source": "/plantar-fasciitis-treatment-victoria",
+    "destination": "/conditions/plantar-fasciitis/",
+    "permanent": true
+  },
+  {
+    "source": "/headaches-and-neck-pain",
+    "destination": "/conditions/neck-shoulder-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/shoulder-pain-victoria-bc",
+    "destination": "/conditions/shoulder-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/back-pain-victoria",
+    "destination": "/conditions/back-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/it-band-syndrome-victoria",
+    "destination": "/conditions/it-band-syndrome/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/shin-splints-treatment-victoria",
+    "destination": "/conditions/shin-splints/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/tendonitis-treatment-victoria",
+    "destination": "/conditions/tendonitis-treatment/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/bursitis-treatment-victoria",
+    "destination": "/conditions/bursitis-treatment/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/sprains-strains-victoria",
+    "destination": "/conditions/sprains-and-strains/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/sprains-strains-colwood",
+    "destination": "/conditions/sprains-and-strains/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/sports-injury-prevention-victoria",
+    "destination": "/conditions/sports-injuries-and-prevention/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/conditions-sports-injuries",
+    "destination": "/conditions/sports-injuries-and-prevention/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/hip-pain",
+    "destination": "/conditions/hip-and-knee-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/knee-pain",
+    "destination": "/conditions/hip-and-knee-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/posture-correction",
+    "destination": "/conditions/postural-imbalance/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/stiff-joints",
+    "destination": "/conditions/joint-stiffness/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/arthritis",
+    "destination": "/conditions/arthritis-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/persistent-pain",
+    "destination": "/conditions/chronic-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/muscle-knots",
+    "destination": "/conditions/muscle-tension/",
+    "permanent": true
+  },
+  {
+    "source": "/myofascial-release-massage",
+    "destination": "/services/myofascial-release/",
+    "permanent": true
+  },
+  {
+    "source": "/services/visceral-manipulation-massage-victoria",
+    "destination": "/services/visceral-manipulation-victoria/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/neck-pain",
+    "destination": "/conditions/neck-shoulder-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/neck-pain-victoria",
+    "destination": "/conditions/neck-shoulder-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/sciatica",
+    "destination": "/conditions/sciatica-treatment/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/muscle-tension-relief",
+    "destination": "/conditions/muscle-tension/",
+    "permanent": true
+  },
+  {
+    "source": "/swedish-relaxation-massage-victoria",
+    "destination": "/services/relaxation-massage/",
     "permanent": true
   }
 ]
