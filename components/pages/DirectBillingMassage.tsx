@@ -117,7 +117,7 @@ export function DirectBillingMassage() {
                         <div className="relative">
                             <div className="relative rounded-[2.5rem] overflow-hidden shadow-2xl border-8 border-white/50 backdrop-blur-sm bg-white/20 aspect-[4/3] lg:aspect-square">
                                 <Image
-                                    src="/wp-content/uploads/2025/06/direct-billing-massage-for-visceral-manipulation.png.webp"
+                                    src="/images/generated/direct-billing.png"
                                     alt="List of insurance providers accepted at Sync Massage Therapy"
                                     fill
                                     className="object-contain p-8 bg-white" // Using object-contain and white bg to make the text/logos legible
