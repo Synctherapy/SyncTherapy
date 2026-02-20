@@ -10,6 +10,16 @@
     "permanent": true
   },
   {
+    "source": "/massage-therapy-colwood",
+    "destination": "/services/massage-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/massage-therapy-colwood/",
+    "destination": "/services/massage-therapy/",
+    "permanent": true
+  },
+  {
     "source": "/services/massage-therapy-victoria",
     "destination": "/services/massage-therapy/",
     "permanent": true

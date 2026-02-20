@@ -1,6 +1,6 @@
 "use client";
 
-import { motion, UseInViewOptions } from "framer-motion";
+import { useEffect, useRef, useState } from "react";
 import { cn } from "@/lib/utils";
 
 interface ScrollRevealProps {
@@ -8,7 +8,7 @@ interface ScrollRevealProps {
     width?: "fit-content" | "100%";
     className?: string;
     delay?: number;
-    viewOptions?: UseInViewOptions;
+    viewOptions?: any; // Kept for backwards compatibility but not used exactly the same
 }
 
 export function ScrollReveal({
@@ -16,23 +16,42 @@ export function ScrollReveal({
     width = "fit-content",
     className,
     delay = 0,
-    viewOptions = { once: true, margin: "-10px" } // Adjusted default margin
 }: ScrollRevealProps) {
+    const ref = useRef<HTMLDivElement>(null);
+    const [isVisible, setIsVisible] = useState(true); // Default to true to prevent SEO/hydration issues
+
+    useEffect(() => {
+        // Run once on mount to handle initial state, then use observer
+        setIsVisible(false);
+        const observer = new IntersectionObserver(
+            ([entry]) => {
+                if (entry.isIntersecting) {
+                    setIsVisible(true);
+                    observer.unobserve(entry.target);
+                }
+            },
+            { rootMargin: "-10px" }
+        );
+
+        if (ref.current) {
+            observer.observe(ref.current);
+        }
+        return () => observer.disconnect();
+    }, []);
+
     return (
         <div style={{ position: "relative", width }} className={className}>
-            <motion.div
-                variants={{
-                    hidden: { opacity: 0, y: 30 },
-                    visible: { opacity: 1, y: 0 },
-                }}
-                initial="visible" // Forced visible for debugging
-                whileInView="visible"
-                viewport={viewOptions}
-                transition={{ duration: 0.6, delay: delay, ease: "easeOut" }}
-                className={cn(className?.includes("h-full") && "h-full")}
+            <div
+                ref={ref}
+                className={cn(
+                    "transition-all duration-700 ease-out",
+                    isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8",
+                    className?.includes("h-full") && "h-full"
+                )}
+                style={{ transitionDelay: `${delay}s` }}
             >
                 {children}
-            </motion.div>
+            </div>
         </div>
     );
 }

@@ -1,6 +1,6 @@
 import React from "react"
 import type { Metadata } from 'next'
-import { Inter, Roboto, JetBrains_Mono } from 'next/font/google'
+import { Inter, Roboto } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
 import Header from "@/components/Header";
@@ -18,14 +18,6 @@ const roboto = Roboto({
   variable: "--font-roboto",
   display: "swap",
 });
-
-const mono = JetBrains_Mono({
-  subsets: ["latin"],
-  variable: "--font-mono",
-  display: "swap",
-});
-
-
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://www.synctherapy.ca'),
@@ -83,7 +75,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${inter.variable} ${roboto.variable} ${mono.variable} font-roboto antialiased text-foreground bg-background`}>
+      <body className={`${inter.variable} ${roboto.variable} font-roboto antialiased text-foreground bg-background`}>
         {children}
         <Analytics />
         <script

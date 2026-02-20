@@ -1,17 +1,7 @@
 "use client";
 import React from "react";
-import { motion } from "framer-motion";
 import Link from "next/link";
 import Image from "next/image";
-
-const transition = {
-    type: "spring" as const,
-    mass: 0.5,
-    damping: 11.5,
-    stiffness: 100,
-    restDelta: 0.001,
-    restSpeed: 0.001,
-};
 
 export const MenuItem = ({
     setActive,
@@ -26,35 +16,24 @@ export const MenuItem = ({
 }) => {
     return (
         <div onMouseEnter={() => setActive(item)} className="relative ">
-            <motion.p
-                transition={{ duration: 0.3 }}
-                className="cursor-pointer text-black hover:opacity-[0.9] dark:text-white"
-            >
+            <p className="cursor-pointer text-black hover:opacity-[0.9] dark:text-white transition-opacity duration-300">
                 {item}
-            </motion.p>
+            </p>
             {active !== null && (
-                <motion.div
-                    initial={{ opacity: 0, scale: 0.85, y: 10 }}
-                    animate={{ opacity: 1, scale: 1, y: 0 }}
-                    transition={transition}
+                <div
+                    className={`transition-all duration-300 ${active === item ? "opacity-100 scale-100 translate-y-0" : "opacity-0 scale-95 translate-y-2"
+                        } pointer-events-none`}
                 >
                     {active === item && (
-                        <div className="absolute top-[calc(100%_+_1.2rem)] left-1/2 transform -translate-x-1/2 pt-4">
-                            <motion.div
-                                transition={transition}
-                                layoutId="active" // layoutId ensures smooth animation
-                                className="bg-white dark:bg-black backdrop-blur-sm rounded-2xl overflow-hidden border border-black/[0.2] dark:border-white/[0.2] shadow-xl"
-                            >
-                                <motion.div
-                                    layout // layout ensures smooth animation
-                                    className="w-max h-full p-4"
-                                >
+                        <div className="absolute top-[calc(100%_+_1.2rem)] left-1/2 transform -translate-x-1/2 pt-4 pointer-events-auto">
+                            <div className="bg-white dark:bg-black backdrop-blur-sm rounded-2xl overflow-hidden border border-black/[0.2] dark:border-white/[0.2] shadow-xl transition-all duration-300">
+                                <div className="w-max h-full p-4 transition-all duration-300">
                                     {children}
-                                </motion.div>
-                            </motion.div>
+                                </div>
+                            </div>
                         </div>
                     )}
-                </motion.div>
+                </div>
             )}
         </div>
     );

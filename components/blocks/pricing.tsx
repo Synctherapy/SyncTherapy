@@ -5,7 +5,6 @@ import { Label } from "@/components/ui/label";
 import { Switch } from "@/components/ui/switch";
 import { useMediaQuery } from "@/hooks/use-media-query";
 import { cn } from "@/lib/utils";
-import { motion } from "framer-motion";
 import { Check, Star } from "lucide-react";
 import Link from "next/link";
 import { useState, useRef } from "react";
@@ -97,29 +96,10 @@ export function Pricing({
 
       <div className="grid grid-cols-1 md:grid-cols-3 sm:2 gap-4">
         {plans.map((plan, index) => (
-          <motion.div
+          <div
             key={index}
-            initial={{ y: 50, opacity: 1 }}
-            whileInView={
-              isDesktop
-                ? {
-                  y: plan.isPopular ? -20 : 0,
-                  opacity: 1,
-                  x: index === 2 ? -30 : index === 0 ? 30 : 0,
-                  scale: index === 0 || index === 2 ? 0.94 : 1.0,
-                }
-                : {}
-            }
-            viewport={{ once: true }}
-            transition={{
-              duration: 1.6,
-              type: "spring",
-              stiffness: 100,
-              damping: 30,
-              delay: 0.4,
-              opacity: { duration: 0.5 },
-            }}
             className={cn(
+              "transition-all duration-500 ease-out",
               `rounded-2xl border-[1px] p-6 bg-background text-center lg:flex lg:flex-col lg:justify-center relative`,
               plan.isPopular ? "border-primary border-2" : "border-border",
               "flex flex-col",
@@ -205,7 +185,7 @@ export function Pricing({
                 {plan.description}
               </p>
             </div>
-          </motion.div>
+          </div>
         ))}
       </div>
     </div>
