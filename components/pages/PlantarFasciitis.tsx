@@ -1,4 +1,3 @@
-"use client";
 
 import { LocationSection } from "@/components/sections/location-section";
 import { FaqSection } from "@/components/sections/faq-section";

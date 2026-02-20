@@ -1,4 +1,3 @@
-"use client";
 
 import Image from "next/image";
 import Link from "next/link";
@@ -53,7 +52,7 @@ export function AboutOneClinic() {
                                 src="/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg"
                                 alt="Daryl Stubbs - Sync Therapy"
                                 fill
-                                className="object-cover"
+                                className="object-cover" sizes="(max-width: 768px) 100vw, 50vw"
                             />
                             <div className="absolute inset-0 bg-gradient-to-t from-navy/80 to-transparent flex items-end p-8">
                                 <div className="text-white">
