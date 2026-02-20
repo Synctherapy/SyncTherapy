@@ -9,221 +9,20 @@ description: >-
 seoTitle: Red Light Therapy for Eyesight &amp; AMD (2026 Safety Guide)
 ---
 
-<!-- wp:html -->
     <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     
-    <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-    <style>
-        /* Custom styles based on the template */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5;
-            color: #333333;
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        /* Custom color classes */
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        .border-accent { border-color: #F5B82E; }
-        
-        /* Heading styles */
-        h2 {
-            border-left: 4px solid #F5B82E;
-            padding-left: 1rem;
-            margin-bottom: 1.5rem;
-            margin-top: 2.5rem;
-            font-size: 1.875rem;
-            font-weight: 700;
-            color: #2E5A88;
-        }
-        h3 {
-            margin-bottom: 0.75rem;
-            font-size: 1.5rem;
-            font-weight: 700;
-            color: #2E5A88;
-        }
 
-        /* Affiliate button style */
-        body .affiliate-button {
-            background-color: #F5B82E !important;
-            color: #333333 !important;
-            font-weight: 700 !important;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.875rem 1.75rem !important;
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-        }
-        body .affiliate-button:hover {
-            background-color: #d9a229 !important;
-            transform: translateY(-2px);
-            box-shadow: 0 6px 8px rgba(0,0,0,0.15);
-        }
-        
-        /* Visual Comparison Table */
-        .visual-comparison-table {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-            gap: 1.5rem;
-        }
-        .product-column {
-            background-color: white;
-            border-radius: 0.75rem;
-            padding: 1.5rem;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-            border-top: 4px solid #2E5A88;
-            display: flex;
-            flex-direction: column;
-        }
-        .product-column.best-value {
-            border-top-color: #F5B82E;
-        }
-        .product-column h3 {
-            font-size: 1.25rem;
-            margin-bottom: 1rem;
-            text-align: center;
-        }
-        .product-column ul {
-            list-style: none;
-            padding: 0;
-            flex-grow: 1;
-        }
-        .product-column li {
-            display: flex;
-            align-items: center;
-            margin-bottom: 0.75rem;
-            font-size: 0.9rem;
-        }
-        .product-column .fa-check-circle {
-            color: #16a34a;
-            margin-right: 0.5rem;
-        }
-        .product-column .fa-star {
-            color: #F5B82E;
-            margin-right: 0.5rem;
-        }
-        .product-column .btn-container {
-            margin-top: 1.5rem;
-        }
 
-        /* Safety warning box */
-        .safety-warning {
-            background-color: #FEF3C7;
-            border-left: 4px solid #F59E0B;
-            padding: 1.25rem;
-            margin: 1.5rem 0;
-            border-radius: 0.5rem;
-        }
-    </style>
+
+
     
     <!-- Schema Markup -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "headline": "Red Light Therapy for Eyes: Vision Improvement, Eye Health & Dry Eye Relief Guide",
-      "description": "Comprehensive guide to red light therapy for eye health, covering vision improvement, dry eyes at home, eye wrinkles, aging eyes, and eyesight support with evidence-based protocols and safety guidelines.",
-      "author": {
-        "@type": "Person",
-        "name": "Daryl Stubbs",
-        "url": "https://synctherapylocal.local/author/daryl-c/",
-        "jobTitle": "Registered Massage Therapist, Certified Athletic Therapist, Holistic Nutritionist",
-        "affiliation": {
-            "@type": "Organization",
-            "name": "Sync Therapy"
-        }
-      },
-      "datePublished": "2026-01-02",
-      "dateModified": "2026-01-02",
-      "publisher": {
-        "@type": "Organization",
-        "name": "Sync Therapy",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://placehold.co/200x60/2E5A88/FFFFFF?text=Sync+Therapy"
-        }
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://synctherapylocal.local/red-light-therapy-for-eyes/"
-      },
-      "image": "https://placehold.co/1200x630/2E5A88/FFFFFF?text=Red+Light+Therapy+for+Eyes"
-    }
-    </script>
+
 
     <!-- FAQ Schema -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Is red light therapy safe for eyes and eye health?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Red light therapy for eye health can be safe when used properly with appropriate wavelengths (660-670nm), correct dosing, and under professional guidance. However, recent 2025 research from JAMA Ophthalmology shows potential concerns including reduced cone density with prolonged use in children. For cosmetic use of red light therapy on eyes (skin benefits), always keep eyes closed and use protective eyewear. For therapeutic treatment of eye conditions, only proceed under ophthalmologist supervision with FDA-authorized devices."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What wavelength of red light is best for eye health and eyesight?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "For red light therapy for eyesight and eye health, research indicates 660-670nm red light has the strongest evidence. This wavelength penetrates effectively to reach retinal mitochondria while minimizing potential damage. Specifically, 670nm has been extensively studied for AMD and age-related vision improvements."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can red light therapy improve vision and eyesight?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, red light therapy for vision improvement has shown measurable results in specific conditions. For dry AMD, clinical trials show improvements of 2+ lines on eye charts. For age-related decline, studies demonstrate enhanced color contrast sensitivity in adults over 40. However, red light therapy for eyesight won't correct refractive errors or replace glasses. It works by improving the function of existing photoreceptor cells and supporting mitochondrial health in the retina."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do I use red light therapy for dry eyes at home?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "For red light therapy for dry eyes at home, use a mask or panel with 630-660nm wavelengths positioned 6-12 inches from closed eyes. Sessions should be 10-15 minutes, 3-5 times per week. Always keep eyes closed and use protective eyewear. The therapy helps by warming meibomian glands, reducing inflammation, and improving tear production. Benefits typically appear after 2-4 weeks of consistent use."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Does red light therapy work for eye wrinkles and under-eye wrinkles?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, red light therapy for eye wrinkles and red light therapy for under eye wrinkles is well-supported by research. The 630-660nm wavelengths stimulate collagen production, improve skin hydration, and reduce dark circles. With consistent use (3-5 sessions per week for 8-12 weeks), expect reduction in fine lines, crow's feet, improved skin texture, and decreased puffiness around the eyes."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Should I use red light therapy on eyes with eyes open or closed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "For cosmetic/wellness use of red light therapy for your eyes (reducing wrinkles, dark circles, dry eye relief): Always keep eyes CLOSED and wear protective eyewear. For therapeutic treatment of eye conditions (AMD, myopia): This requires specialized FDA-authorized devices in a medical setting where eyes may be open under controlled conditions. Never look directly at consumer LED panels."
-          }
-        }
-      ]
-    }
-    </script>
+
 </head>
 <body>
 
@@ -959,4 +758,3 @@ seoTitle: Red Light Therapy for Eyesight &amp; AMD (2026 Safety Guide)
             <p>Always consult with your eye care professional before starting any new treatment, especially for serious eye conditions. <a href="https://synctherapylocal.local/fda-approved-red-light-therapy-devices-for-pain/">FDA authorization</a> applies only to specific devices used in clinical settings, not consumer products. Individual results may vary.</p>
         </footer>
     </div>
-<!-- /wp:html -->

@@ -9,149 +9,17 @@ description: >-
 seoTitle: Just Thrive Probiotic Reviews in 2026 – Why I love it
 ---
 
-<!-- wp:html -->
 <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     
-    <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-    <style>
-        /* Custom styles based on the provided color palette and UX guidelines */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5; /* Neutral-Light */
-            color: #333333; /* Neutral-Dark */
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        /* Custom color classes */
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        .border-accent { border-color: #F5B82E; }
-        
-        /* Heading styles for readability */
-        h1, h2, h3 {
-            color: #2E5A88; /* Deep serene blue */
-            font-weight: 700;
-        }
-        h2 {
-            border-left: 4px solid #F5B82E; /* Warm gold accent */
-            padding-left: 1rem;
-            margin-bottom: 1.5rem;
-            margin-top: 2.5rem;
-            font-size: 1.875rem; /* text-3xl */
-        }
-        h3 {
-            margin-top: 2rem;
-            margin-bottom: 0.75rem;
-            font-size: 1.5rem; /* text-2xl */
-            font-weight: 600;
-        }
 
-        /* Affiliate button style for conversion */
-        .affiliate-button {
-            background-color: #F5B82E !important; /* Warm gold */
-            color: #333333 !important;
-            font-weight: 700 !important;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.875rem 1.75rem !important; /* p-3.5 px-7 */
-            border-radius: 0.5rem !important; /* rounded-lg */
-            border: none !important;
-            text-decoration: none !important;
-            box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
-        }
-        .affiliate-button:hover {
-            background-color: #d9a229 !important; /* Darker gold */
-            transform: translateY(-2px);
-            box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
-        }
-        
-        /* Internal link styling */
-        a.internal-link {
-            color: #2E5A88; /* Primary blue */
-            font-weight: 500;
-            text-decoration: underline;
-            transition: color 0.3s ease;
-        }
-        a.internal-link:hover {
-            color: #1e3a5a; /* Darker blue */
-        }
-        .final-thoughts-section a {
-            color: #F5B82E; /* Warm gold for links on dark background */
-        }
 
-        /* List styling for scannability */
-        ul.custom-list {
-            list-style-type: none;
-            padding-left: 0;
-        }
-        ul.custom-list li {
-            position: relative;
-            padding-left: 1.75rem; /* pl-7 */
-            margin-bottom: 0.75rem; /* mb-3 */
-        }
-        ul.custom-list li::before {
-            content: '\\f058'; /* Font Awesome check-circle icon */
-            font-family: 'Font Awesome 6 Free';
-            font-weight: 900;
-            color: #2E5A88; /* Primary blue */
-            position: absolute;
-            left: 0;
-            top: 2px;
-        }
 
-        /* Comparison Table Styling */
-        .comparison-table th, .comparison-table td {
-            padding: 0.75rem 1rem;
-            text-align: left;
-            border-bottom: 1px solid #e5e7eb;
-        }
-        .comparison-table th {
-            background-color: #f9fafb;
-            font-weight: 600;
-        }
-    </style>
+
     
     <!-- Schema Markup for Product Review -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "Just Thrive Probiotic Reviews in 2026 – Why I love it",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.9",
-        "bestRating": "5",
-        "worstRating": "1"
-      },
-      "itemReviewed": {
-        "@type": "Product",
-        "name": "Just Thrive Probiotic",
-        "description": "A spore-based probiotic supplement designed to survive stomach acid and support gut health, immunity, and overall wellness.",
-        "brand": {
-          "@type": "Brand",
-          "name": "Just Thrive"
-        },
-        "image": "/uploads/content/just-thrive-probiotic-review-looking-at-the-probiotic-bacteria.jpg"
-      }
-    }
-    </script>
+
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
         
@@ -381,4 +249,3 @@ seoTitle: Just Thrive Probiotic Reviews in 2026 – Why I love it
 
         </main>
     </div>
-<!-- /wp:html -->

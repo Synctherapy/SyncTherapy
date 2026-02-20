@@ -9,149 +9,16 @@ description: >-
 seoTitle: 'Ritual Synbiotic+ Review 2026: Is This 3-in-1 Probiotic Worth It?'
 ---
 
-<!-- wp:html -->
 <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     
-    <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-    <style>
-        /* Custom styles based on the new design template */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5; /* Neutral-Light */
-            color: #333333; /* Neutral-Dark */
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        /* Custom color classes */
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        .border-accent { border-color: #F5B82E; }
-        
-        /* Heading styles */
-        h1, h2, h3 {
-            color: #2E5A88; /* Deep serene blue */
-            font-weight: 700;
-        }
-        h2 {
-            border-left: 4px solid #F5B82E; /* Warm gold accent */
-            padding-left: 1rem;
-            margin-bottom: 1.5rem;
-            margin-top: 2.5rem;
-        }
-        h3 {
-            font-size: 1.25rem; /* 20px */
-            line-height: 1.75rem; /* 28px */
-            font-weight: 600;
-            margin-bottom: 0.75rem;
-            margin-top: 1.5rem;
-        }
 
-        /* Affiliate button style */
-        body .affiliate-button {
-            background-color: #F5B82E !important;
-            color: #333333 !important;
-            font-weight: 700 !important;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.85rem 1.75rem !important;
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-            box-shadow: 0 4px 14px 0 rgba(0,0,0,0.1);
-        }
-        body .affiliate-button:hover {
-            background-color: #d9a229 !important;
-            transform: translateY(-2px);
-            box-shadow: 0 6px 20px 0 rgba(0,0,0,0.15);
-        }
-        
-        /* List styling */
-        .custom-list li {
-            position: relative;
-            padding-left: 1.75rem;
-            margin-bottom: 0.75rem;
-        }
-        .custom-list li::before {
-            content: '\\f058'; /* Font Awesome check-circle icon */
-            font-family: 'Font Awesome 6 Free';
-            font-weight: 900;
-            color: #2E5A88; /* Primary color */
-            position: absolute;
-            left: 0;
-            top: 2px;
-        }
-        
-        /* Mobile Sticky Button */
-        .mobile-sticky-button {
-            display: none; /* Hidden by default */
-        }
 
-        @media (max-width: 768px) {
-            .mobile-sticky-button {
-                display: block;
-                position: fixed;
-                bottom: 0;
-                left: 0;
-                width: 100%;
-                background-color: #F5B82E;
-                padding: 1rem;
-                text-align: center;
-                z-index: 1000;
-                box-shadow: 0 -2px 10px rgba(0,0,0,0.15);
-            }
-            .mobile-sticky-button a {
-                color: #333333;
-                font-weight: 700;
-                text-decoration: none;
-            }
-            body {
-                padding-bottom: 80px; /* Add padding to body to prevent content from being hidden by the button */
-            }
-        }
 
-    </style>
+
     
     <!-- Schema Markup -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "Ritual Synbiotic+ Review: A Gut Health Game-Changer?",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.9",
-        "bestRating": "5",
-        "worstRating": "1"
-      },
-      "itemReviewed": {
-        "@type": "Product",
-        "name": "Ritual Synbiotic+",
-        "description": "A 3-in-1 supplement with prebiotics, probiotics, and a postbiotic designed to support gut health, digestive function, and immune health.",
-        "brand": {
-          "@type": "Brand",
-          "name": "Ritual"
-        },
-        "image": "/uploads/content/ritual-synbiotic-review.jpg"
-      }
-    }
-    </script>
 
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
@@ -377,4 +244,3 @@ seoTitle: 'Ritual Synbiotic+ Review 2026: Is This 3-in-1 Probiotic Worth It?'
             <i class="fas fa-balance-scale-right mr-2"></i> Ritual vs. Seed - See The Comparison
         </a>
     </div>
-<!-- /wp:html -->

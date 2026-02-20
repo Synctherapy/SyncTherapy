@@ -9,167 +9,17 @@ description: >-
 seoTitle: 'Echo Hydrogen Pitcher Review (2026): The Best H2 Pitcher?'
 ---
 
-<!-- wp:html -->
 <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     
-    <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-    <style>
-        /* Custom styles based on the new design template */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5; /* Neutral-Light */
-            color: #333333; /* Neutral-Dark */
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        /* Custom color classes */
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        .border-accent { border-color: #F5B82E; }
-        .bg-success { background-color: #EBF5FB; }
-        .text-success { color: #1E8449; }
-        .border-success { border-color: #1E8449; }
-        
-        /* Heading styles */
-        h1, h2, h3, h4 {
-            color: #2E5A88; /* Deep serene blue */
-            font-weight: 700;
-        }
-        h2 {
-            border-left: 4px solid #F5B82E; /* Warm gold accent */
-            padding-left: 1rem;
-            margin-bottom: 1.5rem;
-            margin-top: 2rem;
-            font-size: 1.875rem; /* text-3xl */
-        }
-        h3 {
-            margin-bottom: 0.5rem;
-            font-size: 1.5rem; /* text-2xl */
-        }
-        h4 {
-             font-size: 1.25rem; /* text-xl */
-        }
 
-        /* Affiliate button style */
-        body .affiliate-button {
-            background-color: #F5B82E !important;
-            color: #333333 !important;
-            font-weight: 700 !important;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.85rem 1.75rem !important;
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-            font-size: 1.1rem;
-        }
-        body .affiliate-button:hover {
-            background-color: #d9a229 !important;
-            transform: translateY(-2px);
-            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-        }
-        
-        /* Mobile Sticky Button Styling */
-        .mobile-sticky-button {
-            display: none; /* Hidden by default */
-            position: fixed;
-            bottom: 0;
-            left: 0;
-            width: 100%;
-            background-color: #2E5A88; /* Primary blue */
-            padding: 1rem;
-            box-shadow: 0 -4px 12px rgba(0,0,0,0.15);
-            z-index: 1000;
-            border-top: 3px solid #F5B82E; /* Accent gold */
-        }
-        .mobile-sticky-button .sticky-content {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        }
-        .mobile-sticky-button .sticky-text {
-            color: white;
-            font-weight: 600;
-            margin-bottom: 0.5rem;
-            font-size: 0.9rem;
-        }
-        .mobile-sticky-button a {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            text-decoration: none;
-            background-color: #F5B82E; /* Accent gold */
-            color: #333333;
-            padding: 0.75rem 1.5rem;
-            border-radius: 0.5rem;
-            font-weight: 700;
-            text-align: center;
-            width: 100%;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-        }
-        .mobile-sticky-button a:hover {
-            background-color: #d9a229;
-            transform: scale(1.02);
-        }
 
-        @media (max-width: 768px) {
-            .mobile-sticky-button {
-                display: block; /* Show on mobile */
-            }
-            body {
-                padding-bottom: 120px; /* Add space at the bottom so content isn't hidden */
-            }
-        }
-    </style>
+
+
     
     <!-- Schema Markup -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "Echo Hydrogen Pitcher Review (2026): The Best H2 Pitcher?",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.5",
-        "bestRating": "5",
-        "worstRating": "1"
-      },
-      "itemReviewed": {
-        "@type": "Product",
-        "name": "Echo Hydrogen Pitcher",
-        "image": "/uploads/content/hydrogen-water-pitcher_34f0896a-ee0c-498e-90d6-953dc07a19f3.webp",
-        "description": "The Echo Hydrogen Pitcher is a family-sized, 57 oz pitcher that uses SPE/PEM technology to infuse water with therapeutic molecular hydrogen. It's a convenient, installation-free option for at-home use.",
-        "brand": {
-          "@type": "Brand",
-          "name": "Echo"
-        },
-        "offers": {
-            "@type": "Offer",
-            "price": "699.00",
-            "priceCurrency": "USD",
-            "availability": "https://schema.org/InStock",
-            "url": "https://echowater.com/discount/affiliate10/?redirect=&_ef_transaction_id=&oid=6&affid=408"
-        }
-      }
-    }
-    </script>
+
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
         
@@ -391,4 +241,3 @@ seoTitle: 'Echo Hydrogen Pitcher Review (2026): The Best H2 Pitcher?'
             </a>
         </div>
     </div>
-<!-- /wp:html -->

@@ -9,134 +9,17 @@ description: >-
 seoTitle: 'Infraredi Reviews, Pro Max, Flex Max, 15% Off'
 ---
 
-<!-- wp:html -->
 <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     
-    <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-    <style>
-        /* Custom styles based on the new design template */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5; /* Neutral-Light */
-            color: #333333; /* Neutral-Dark */
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        /* Custom color classes */
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        .border-accent { border-color: #F5B82E; }
-        
-        /* Heading styles */
-        h2 {
-            border-left: 4px solid #F5B82E; /* Warm gold accent */
-            padding-left: 1rem;
-            margin-bottom: 1.5rem;
-            margin-top: 2.5rem;
-            font-size: 1.875rem;
-            font-weight: 700;
-            color: #2E5A88;
-        }
-        h3 {
-            margin-bottom: 0.75rem;
-            font-size: 1.5rem;
-            font-weight: 700;
-            color: #2E5A88;
-        }
 
-        /* Affiliate button style */
-        body .affiliate-button {
-            background-color: #F5B82E !important;
-            color: #333333 !important;
-            font-weight: 700 !important;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.875rem 1.75rem !important;
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-        }
-        body .affiliate-button:hover {
-            background-color: #d9a229 !important;
-            transform: translateY(-2px);
-            box-shadow: 0 6px 8px rgba(0,0,0,0.15);
-        }
-         /* Comparison Table Styling */
-        .comparison-table th, .comparison-table td {
-            padding: 1rem 1.25rem;
-            text-align: left;
-            border-bottom: 1px solid #e5e7eb;
-            font-size: 0.9rem;
-        }
-        .comparison-table th {
-            background-color: #f9fafb;
-            font-weight: 700;
-            color: #2E5A88;
-        }
-        .discount-box {
-            background-color: #ebf8ff;
-            border: 2px dashed #4299e1;
-            padding: 1.5rem;
-            border-radius: 0.5rem;
-            text-align: center;
-            margin: 2rem 0;
-        }
-        .quick-verdict-card {
-            background: white;
-            border-radius: 0.75rem;
-            padding: 1.5rem;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-            border-top: 4px solid #2E5A88;
-        }
-        .quick-verdict-card.best-value {
-            border-top-color: #F5B82E;
-        }
-    </style>
+
+
+
     
     <!-- Schema Markup -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "Infraredi Reviews: Pro Series",
-      "headline": "Infraredi Canada Reviews (2025): Is The Pro Max Worth It?",
-      "author": {
-        "@type": "Person",
-        "name": "Daryl C",
-        "url": "https://synctherapylocal.local/author/daryl-c/",
-         "affiliation": {
-            "@type": "Organization",
-            "name": "Sync Therapy"
-        }
-      },
-      "datePublished": "2025-07-02",
-      "itemReviewed": {
-        "@type": "Product",
-        "name": "Infraredi Pro Series",
-        "brand": { "@type": "Brand", "name": "Infraredi" },
-        "description": "A line of medical-grade red light therapy devices designed for muscle recovery, pain relief, and skin health, featuring multiple wavelengths and premium construction.",
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "reviewCount": "289"
-        }
-      }
-    }
-    </script>
+
 
     <div class="container mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
         
@@ -406,7 +289,6 @@ seoTitle: 'Infraredi Reviews, Pro Max, Flex Max, 15% Off'
 
         </main>
     </div>
-<!-- /wp:html -->
 
 <!-- wp:paragraph -->
 <p></p>

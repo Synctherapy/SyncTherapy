@@ -9,166 +9,17 @@ description: >-
 seoTitle: Best Probiotics for Women in Canada (2026 Top 7)
 ---
 
-<!-- wp:html -->
 <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     
-    <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-    <style>
-        /* Custom styles based on the new design template */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5; /* Neutral-Light */
-            color: #333333; /* Neutral-Dark */
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        /* Custom color classes */
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        .border-accent { border-color: #F5B82E; }
-        
-        /* Heading styles */
-        h1, h2, h3 {
-            color: #2E5A88; /* Deep serene blue */
-            font-weight: 700;
-        }
-        h2 {
-            border-left: 4px solid #F5B82E; /* Warm gold accent */
-            padding-left: 1rem;
-            margin-bottom: 1.5rem;
-            margin-top: 2rem;
-        }
-        h3 {
-            margin-bottom: 0.5rem;
-        }
 
-        /* Affiliate button style */
-        body .affiliate-button {
-            background-color: #F5B82E !important;
-            color: #333333 !important;
-            font-weight: 600 !important;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.75rem 1.5rem !important;
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-        }
-        body .affiliate-button:hover {
-            background-color: #d9a229 !important;
-            transform: translateY(-2px);
-        }
-        
-        /* Comparison Table Styling */
-        .comparison-table th, .comparison-table td {
-            padding: 0.75rem 1rem;
-            text-align: left;
-            border-bottom: 1px solid #e5e7eb;
-        }
-        .comparison-table th {
-            background-color: #f9fafb;
-            font-weight: 600;
-            text-align: center;
-        }
-        .comparison-table td {
-            text-align: center;
-            vertical-align: middle;
-        }
-        .comparison-table .product-name {
-            font-weight: 600;
-            text-align: left;
-        }
-        .comparison-table .fa-check-circle {
-            color: #16a34a; /* Green */
-        }
-        .comparison-table .fa-times-circle {
-            color: #dc2626; /* Red */
-        }
-    </style>
+
+
+
     
     <!-- Enhanced Schema Markup -->
-    <script type="application/ld+json">
-    [{
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://www.yourwebsite.ca/blog/best-probiotics-for-women"
-      },
-      "headline": "The 7 Best Probiotics for Women in Canada (2025)",
-      "description": "Our 2025 expert review of the best probiotics for women in Canada. We analyze top-rated products for vaginal health (BV, yeast infections), gut health, menopause, IBS, and overall wellness.",
-      "image": "/uploads/2025/08/Screen-Shot-2025-08-06-at-10.35.36-AM.png",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Sync Therapy",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://placehold.co/600x60/2E5A88/FFFFFF?text=Sync+Therapy+Logo"
-        }
-      },
-      "datePublished": "2025-08-05",
-      "dateModified": "2025-08-06",
-      "review": {
-        "@type": "Review",
-        "reviewRating": {
-          "@type": "Rating",
-          "ratingValue": "4.9",
-          "bestRating": "5"
-        },
-        "author": {
-          "@type": "Organization",
-          "name": "Sync Therapy"
-        },
-        "itemReviewed": {
-          "@type": "ProductGroup",
-          "name": "Probiotics for Women"
-        }
-      }
-    },
-    {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [{
-        "@type": "Question",
-        "name": "How long does it take for women's probiotics to work?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Results vary. Some women notice improvements in digestion and bloating within a few days. For vaginal health balance or immune benefits, it typically takes 2-4 weeks of consistent daily use to see significant results. Consistency is key."
-        }
-      },{
-        "@type": "Question",
-        "name": "Are probiotics safe during pregnancy?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Generally, yes. Large-scale scientific reviews have found that probiotics are safe for pregnant women and may even offer benefits, such as reducing the risk of gestational diabetes. However, it is absolutely essential to consult your doctor or midwife before taking any supplement during pregnancy."
-        }
-      },{
-        "@type": "Question",
-        "name": "What are the side effects of taking probiotics?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Probiotics are very well-tolerated. When first starting, some people may experience minor, temporary gas or bloating as their gut microbiome adjusts. This usually subsides within a few days. If you have a compromised immune system, consult a doctor before use."
-        }
-      }]
-    }]
-    </script>
+
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
         
@@ -507,7 +358,6 @@ seoTitle: Best Probiotics for Women in Canada (2026 Top 7)
                 </div>
             </section>
 
-
             <!-- How to Choose Section -->
             <section id="how-to-choose">
                 <h2 class="text-3xl font-bold">How to Choose the Best Probiotic: A Buyer's Checklist</h2>
@@ -587,7 +437,6 @@ seoTitle: Best Probiotics for Women in Canada (2026 Top 7)
 
         </main>
     </div>
-<!-- /wp:html -->
 
 <!-- wp:paragraph -->
 <p></p>

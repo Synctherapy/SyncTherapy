@@ -1,10 +1,9 @@
 "use client";
 
-import React, { useState, useEffect } from "react";
-import Link from "next/link";
+import React from "react";
+import Image from "next/image";
 import { format } from "date-fns";
-import { ArrowLeft, Share2, Verified, Library, ArrowRight, ShieldCheck, Mail } from "lucide-react";
-import { cn } from "@/lib/utils";
+import { Verified, ShieldCheck } from "lucide-react";
 
 interface BlogOneLayoutProps {
     frontmatter: {
@@ -56,8 +55,15 @@ export function BlogOneLayout({ frontmatter, content, toc }: BlogOneLayoutProps)
                     </h1>
 
                     <div className="flex items-center gap-4 pt-8 border-t border-white/10">
-                        <div className="w-14 h-14 rounded-full overflow-hidden flex-shrink-0 border-2 border-[#2563EB]">
-                            <img alt={authorName} className="w-full h-full object-cover" src={authorImage} />
+                        <div className="w-14 h-14 rounded-full overflow-hidden flex-shrink-0 border-2 border-[#2563EB] relative">
+                            <Image
+                                alt={authorName}
+                                src={authorImage}
+                                fill
+                                sizes="56px"
+                                className="object-cover"
+                                priority
+                            />
                         </div>
                         <div className="flex-1">
                             <div className="flex items-center gap-1.5">
@@ -103,8 +109,14 @@ export function BlogOneLayout({ frontmatter, content, toc }: BlogOneLayoutProps)
                 <section className="mx-6 mb-16 p-8 bg-white rounded-3xl border border-[#1A2B3C]/5 shadow-2xl shadow-[#1A2B3C]/5" id="resources">
                     <h5 className="text-[10px] font-bold uppercase tracking-[0.2em] text-[#2563EB] mb-8 border-b border-[#1A2B3C]/5 pb-3">Clinical Lead Profile</h5>
                     <div className="flex items-center gap-5 mb-6">
-                        <div className="relative">
-                            <img alt={authorName} className="w-20 h-20 rounded-2xl object-cover" src={authorImage} />
+                        <div className="relative w-20 h-20 rounded-2xl overflow-hidden">
+                            <Image
+                                alt={authorName}
+                                src={authorImage}
+                                fill
+                                sizes="80px"
+                                className="object-cover"
+                            />
                         </div>
                         <div>
                             <h4 className="text-xl font-bold text-[#1A2B3C] font-sans">{authorName}</h4>

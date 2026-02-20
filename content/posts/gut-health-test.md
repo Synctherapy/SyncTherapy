@@ -13,133 +13,17 @@ seoTitle: >-
   Tests
 ---
 
-<!-- wp:html -->
 <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     
-    <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-    <style>
-        /* Custom styles based on the new design template */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5; /* Neutral-Light */
-            color: #333333; /* Neutral-Dark */
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        /* Custom color classes */
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        .border-accent { border-color: #F5B82E; }
-        
-        /* Heading styles */
-        h1, h2, h3, h4 {
-            color: #2E5A88; /* Deep serene blue */
-            font-weight: 700;
-        }
-        h2 {
-            border-left: 4px solid #F5B82E; /* Warm gold accent */
-            padding-left: 1rem;
-            margin-bottom: 1.5rem;
-            margin-top: 2rem;
-        }
-        h3 {
-            margin-bottom: 0.5rem;
-        }
-        h4 {
-            font-weight: 600;
-            margin-top: 1rem;
-            margin-bottom: 0.5rem;
-        }
 
-        /* Affiliate button style */
-        body .affiliate-button {
-            background-color: #F5B82E !important;
-            color: #333333 !important;
-            font-weight: 600 !important;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.75rem 1.5rem !important;
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-        }
-        body .affiliate-button:hover {
-            background-color: #d9a229 !important;
-            transform: translateY(-2px);
-        }
-        
-        /* Comparison Table Styling */
-        .comparison-table th, .comparison-table td {
-            padding: 0.75rem 1rem;
-            text-align: left;
-            border-bottom: 1px solid #e5e7eb;
-        }
-        .comparison-table th {
-            background-color: #f9fafb;
-            font-weight: 600;
-        }
-        .comparison-table .fa-check-circle {
-            color: #16a34a; /* Green */
-        }
-        .comparison-table .fa-times-circle {
-            color: #dc2626; /* Red */
-        }
-    </style>
+
+
+
     
     <!-- Schema Markup -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "The Best Gut Health & Microbiome Tests of 2025 in Canada",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.9",
-        "bestRating": "5"
-      },
-      "itemReviewed": {
-        "@type": "ProductGroup",
-        "name": "At-Home Gut Health Tests",
-        "hasVariant": [
-          {
-            "@type": "Product",
-            "name": "GI-MAP Test",
-            "description": "A comprehensive, diagnostic stool test that identifies pathogens, bacteria, and viruses for clinical assessment in Canada.",
-            "brand": "Diagnostic Solutions Laboratory"
-          },
-          {
-            "@type": "Product",
-            "name": "Viome Gut Intelligence Test",
-            "description": "A user-friendly, at-home microbiome test that provides personalized food and supplement recommendations, available in Canada.",
-            "brand": "Viome"
-          },
-          {
-            "@type": "Product",
-            "name": "US BioTek GI Advanced Profile",
-            "description": "A practitioner-level stool test with over 200 markers, including functional markers and antimicrobial sensitivity screens.",
-            "brand": "US BioTek"
-          }
-        ]
-      }
-    }
-    </script>
+
 
 <body class="bg-neutral-light">
 
@@ -423,34 +307,7 @@ seoTitle: >-
                         <p class="mt-4 text-gray-700">Viome's technology can identify the genetic material of many organisms, including some parasites, but it is not a dedicated diagnostic test for parasitic infections. If you suspect a parasite, a clinical diagnostic test like the GI-MAP is a more appropriate choice.</p>
                     </details>
                 </div>
-                <script type="application/ld+json">
-                {
-                  "@context": "https://schema.org",
-                  "@type": "FAQPage",
-                  "mainEntity": [{
-                    "@type": "Question",
-                    "name": "Are gut health tests worth it?",
-                    "acceptedAnswer": {
-                      "@type": "Answer",
-                      "text": "For many, yes. A good gut health test can provide valuable, personalized data that takes the guesswork out of your diet and supplement routine. A diagnostic test like the GI-MAP can be invaluable for uncovering the root cause of chronic illness."
-                    }
-                  },{
-                    "@type": "Question",
-                    "name": "What is the best stool test for gut health?",
-                    "acceptedAnswer": {
-                      "@type": "Answer",
-                      "text": "The \\"best\\" depends on your needs. The GI-MAP is often considered the best comprehensive stool test for diagnostic purposes. For actionable wellness insights, Viome's stool test is a top contender."
-                    }
-                  },{
-                    "@type": "Question",
-                    "name": "Does Viome test for parasites?",
-                    "acceptedAnswer": {
-                      "@type": "Answer",
-                      "text": "Viome's technology can identify the genetic material of many organisms, including some parasites, but it is not a dedicated diagnostic test for parasitic infections. If you suspect a parasite, a clinical diagnostic test like the GI-MAP is a more appropriate choice."
-                    }
-                  }]
-                }
-                </script>
+
             </section>
 
             <!-- Final Thoughts -->
@@ -463,4 +320,3 @@ seoTitle: >-
 
         </main>
     </div>
-<!-- /wp:html -->

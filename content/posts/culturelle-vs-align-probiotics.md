@@ -9,133 +9,17 @@ description: >-
 seoTitle: 'Align vs. Culturelle: Is Align Worth the Extra Cost?'
 ---
 
-<!-- wp:html -->
 <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     
-    <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-    <style>
-        /* Custom styles based on the new design template */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5; /* Neutral-Light */
-            color: #333333; /* Neutral-Dark */
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        /* Custom color classes */
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        .border-accent { border-color: #F5B82E; }
-        
-        /* Heading styles */
-        h1, h2, h3 {
-            color: #2E5A88; /* Deep serene blue */
-            font-weight: 700;
-        }
-        h1 {
-            font-weight: 800; /* Extra bold for H1 */
-        }
-        h2 {
-            border-left: 4px solid #F5B82E; /* Warm gold accent */
-            padding-left: 1rem;
-            margin-bottom: 1.5rem;
-            margin-top: 2rem;
-        }
-        h3 {
-            margin-bottom: 0.5rem;
-        }
 
-        /* Affiliate button style */
-        body .affiliate-button {
-            background-color: #F5B82E !important;
-            color: #333333 !important;
-            font-weight: 600 !important;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.75rem 1.5rem !important;
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-        }
-        body .affiliate-button:hover {
-            background-color: #d9a229 !important;
-            transform: translateY(-2px);
-        }
-        
-        /* Comparison Table Styling */
-        .comparison-table th, .comparison-table td {
-            padding: 0.75rem 1rem;
-            text-align: left;
-            border-bottom: 1px solid #e5e7eb;
-        }
-        .comparison-table th {
-            background-color: #f9fafb;
-            font-weight: 600;
-        }
-        .fa-plus-circle { color: #16a34a; } /* Green */
-        .fa-minus-circle { color: #dc2626; } /* Red */
-        .fa-check { color: #16a34a; }
-        .fa-times { color: #dc2626; }
-    </style>
+
+
+
     
     <!-- Schema Markup -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "headline": "Culturelle vs. Align for IBS (2026) | A Science-Backed Review",
-        "publisher": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "datePublished": "2025-07-12",
-      "dateModified": "2025-07-12",
-      "description": "An in-depth, science-backed comparison of Culturelle (Lactobacillus rhamnosus GG) and Align (Bifidobacterium longum 35624) for the management of Irritable Bowel Syndrome (IBS) based on the latest clinical evidence.",
-      "itemReviewed": {
-        "@type": "ProductGroup",
-        "name": "Probiotics for IBS",
-        "hasVariant": [
-          {
-            "@type": "Product",
-            "name": "Align Probiotic (Bifidobacterium longum 35624)",
-            "description": "A probiotic clinically studied for broad-spectrum relief of IBS symptoms, including abdominal pain, bloating, and bowel dysfunction.",
-            "brand": "Align"
-          },
-          {
-            "@type": "Product",
-            "name": "Culturelle (Lactobacillus rhamnosus GG)",
-            "description": "A probiotic clinically studied for its effectiveness in specific IBS subtypes, particularly diarrhea-predominant IBS (IBS-D), and for acute digestive issues.",
-            "brand": "Culturelle"
-          }
-        ]
-      },
-      "review": {
-        "@type": "Review",
-        "reviewRating": {
-          "@type": "Rating",
-          "ratingValue": "4.7",
-          "bestRating": "5"
-        },
-        "author": {
-          "@type": "Organization",
-          "name": "Sync Therapy"
-        }
-      }
-    }
-    </script>
+
 
 <body class="bg-neutral-light">
 
@@ -396,7 +280,6 @@ seoTitle: 'Align vs. Culturelle: Is Align Worth the Extra Cost?'
 
         </main>
     </div>
-<!-- /wp:html -->
 
 <!-- wp:paragraph -->
 <p></p>

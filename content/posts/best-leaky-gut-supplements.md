@@ -9,117 +9,17 @@ description: >-
 seoTitle: 8 Best Leaky Gut Supplements & Probiotics (2026 Guide)
 ---
 
-<!-- wp:html -->
 <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     
-    <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-    <style>
-        /* Custom styles based on the new design template */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5; /* Neutral-Light */
-            color: #333333; /* Neutral-Dark */
-            padding-bottom: 100px; /* Add padding to prevent content from being hidden by the sticky button */
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        /* Custom color classes */
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        .border-accent { border-color: #F5B82E; }
-        
-        /* Heading styles */
-        h1, h2, h3 {
-            color: #2E5A88; /* Deep serene blue */
-            font-weight: 700;
-        }
-        h2 {
-            border-left: 4px solid #F5B82E; /* Warm gold accent */
-            padding-left: 1rem;
-            margin-bottom: 1.5rem;
-            margin-top: 2.5rem;
-            font-size: 1.875rem; /* text-3xl */
-        }
-        h3 {
-            margin-bottom: 0.5rem;
-            font-size: 1.5rem; /* text-2xl */
-        }
 
-        /* Affiliate button style */
-        body .affiliate-button {
-            background-color: #F5B82E !important;
-            color: #333333 !important;
-            font-weight: 700 !important;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.85rem 1.75rem !important;
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-        }
-        body .affiliate-button:hover {
-            background-color: #d9a229 !important;
-            transform: translateY(-2px);
-        }
-        
-        /* Table Styling */
-        .styled-table th, .styled-table td {
-            padding: 0.75rem 1rem;
-            text-align: left;
-            border-bottom: 1px solid #e5e7eb;
-        }
-        .styled-table th {
-            background-color: #f9fafb;
-            font-weight: 600;
-        }
-        
-        /* Testimonial Blockquote */
-        .testimonial {
-            background-color: #f9fafb;
-            border-left: 5px solid #2E5A88;
-            padding: 1rem;
-            margin: 1.5rem 0;
-            font-style: italic;
-            color: #555;
-        }
-        .testimonial footer {
-            font-style: normal;
-            font-weight: 600;
-            text-align: right;
-            margin-top: 0.5rem;
-            color: #333;
-        }
-    </style>
+
+
+
     
     <!-- Schema Markup -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "headline": "8 Best Leaky Gut Supplements & Probiotics for Gut Repair (2026 Canada Reviews)",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "datePublished": "2024-07-08",
-      "image": "/uploads/content/How-I-cured-my-leaky-gut.png",
-      "description": "Find the best supplements and probiotics for leaky gut repair. Our 2026 reviews cover top-rated products like Just Thrive to help you heal your gut lining and reduce symptoms."
-    }
-    </script>
+
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
         
@@ -635,4 +535,3 @@ seoTitle: 8 Best Leaky Gut Supplements & Probiotics (2026 Guide)
             Heal Your Gut: Get 15% Off Now
         </a>
     </div>
-<!-- /wp:html -->

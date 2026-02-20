@@ -9,201 +9,17 @@ description: >-
 seoTitle: 8 Best Probiotics For Teenagers In 2026 That Actually Help
 ---
 
-<!-- wp:html -->
 <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
 
-    <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-    <style>
-        /* Custom styles based on the new design template */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5; /* Neutral-Light */
-            color: #333333; /* Neutral-Dark */
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        /* Custom color classes */
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        .border-accent { border-color: #F5B82E; }
 
-        /* Heading styles */
-        h1, h2, h3 {
-            color: #2E5A88; /* Deep serene blue */
-            font-weight: 700;
-        }
-        h2 {
-            border-left: 4px solid #F5B82E; /* Warm gold accent */
-            padding-left: 1rem;
-            margin-bottom: 1.5rem;
-            margin-top: 2rem;
-        }
-        h3 {
-            margin-bottom: 0.5rem;
-        }
 
-        /* Affiliate button style */
-        body .affiliate-button {
-            background-color: #F5B82E !important;
-            color: #333333 !important;
-            font-weight: 600 !important;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.75rem 1.5rem !important;
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-        }
-        body .affiliate-button:hover {
-            background-color: #d9a229 !important;
-            transform: translateY(-2px);
-        }
 
-        /* Comparison Table Styling */
-        .comparison-table th, .comparison-table td {
-            padding: 0.75rem 1rem;
-            text-align: left;
-            border-bottom: 1px solid #e5e7eb;
-        }
-        .comparison-table th {
-            background-color: #f9fafb;
-            font-weight: 600;
-        }
-        .comparison-table .fa-check-circle {
-            color: #16a34a; /* Green */
-        }
-        .comparison-table .fa-times-circle {
-            color: #dc2626; /* Red */
-        }
-        
-        /* Mobile Sticky Footer */
-        .mobile-sticky-footer {
-            display: none; /* Hidden by default */
-        }
 
-        @media (max-width: 768px) {
-            .mobile-sticky-footer {
-                display: block; /* Display on mobile */
-                position: fixed;
-                bottom: 0;
-                left: 0;
-                right: 0;
-                z-index: 1000;
-            }
-            body {
-                padding-bottom: 120px; /* Add padding to body to prevent content from being hidden by the footer */
-            }
-        }
-    </style>
 
     <!-- Schema Markup -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "8 Best Probiotics For Teenagers In 2026 That Actually Help",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.9",
-        "bestRating": "5"
-      },
-      "itemReviewed": {
-        "@type": "ProductGroup",
-        "name": "Probiotics for Teens",
-        "hasVariant": [
-          {
-            "@type": "Product",
-            "name": "Seed PDS-08 Pediatric Daily Synbiotic",
-            "description": "A 2-in-1 powdered synbiotic combining 9 probiotic strains and a fiber-based prebiotic for teens.",
-            "brand": {"@type": "Brand", "name": "Seed"},
-            "offers": {
-              "@type": "Offer",
-              "url": "https://seedhealthinc.pxf.io/1rNjng",
-              "priceCurrency": "USD",
-              "price": "49.00",
-              "availability": "https://schema.org/InStock"
-            },
-            "aggregateRating": {
-              "@type": "AggregateRating",
-              "ratingValue": "4.9",
-              "reviewCount": "782"
-            }
-          },
-          {
-            "@type": "Product",
-            "name": "Just Thrive Probiotic",
-            "description": "A spore-based probiotic with clinically proven strains to support gut health, energy, and clear skin in teenagers.",
-            "brand": {"@type": "Brand", "name": "Just Thrive"},
-            "offers": {
-              "@type": "Offer",
-              "url": "https://justthrivehealth.com/products/probiotic?rfsn=7226569.9f42d5c&selling_plan=837910593",
-              "priceCurrency": "USD",
-              "price": "45.00",
-              "availability": "https://schema.org/InStock"
-            },
-            "aggregateRating": {
-              "@type": "AggregateRating",
-              "ratingValue": "4.8",
-              "reviewCount": "1104"
-            }
-          },
-          {
-            "@type": "Product",
-            "name": "YourBiology Gut+",
-            "description": "A probiotic and prebiotic supplement designed for teen girls to support vaginal health, hormones, and digestion.",
-            "brand": {"@type": "Brand", "name": "YourBiology"},
-            "offers": {
-              "@type": "Offer",
-              "url": "https://www.wb22trk.com/KHZKTN3/41NTW2/",
-              "priceCurrency": "USD",
-              "price": "65.00",
-              "availability": "https://schema.org/InStock"
-            },
-            "aggregateRating": {
-              "@type": "AggregateRating",
-              "ratingValue": "4.7",
-              "reviewCount": "543"
-            }
-          },
-          {
-            "@type": "Product",
-            "name": "Megasporebiotic",
-            "description": "A clinician-grade, spore-based probiotic ideal for teen boys and girls with specific gut health concerns.",
-            "brand": {"@type": "Brand", "name": "Microbiome Labs"},
-             "offers": {
-              "@type": "Offer",
-              "url": "https://dashboard.mailerlite.com/forms/313867/94957537980319682/share",
-              "priceCurrency": "USD",
-              "price": "64.00",
-              "availability": "https://schema.org/InStock"
-            },
-            "aggregateRating": {
-              "@type": "AggregateRating",
-              "ratingValue": "4.9",
-              "reviewCount": "915"
-            }
-          }
-        ]
-      }
-    }
-    </script>
+
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 
@@ -445,7 +261,6 @@ seoTitle: 8 Best Probiotics For Teenagers In 2026 That Actually Help
                 </div>
             </section>
 
-
             <!-- Benefits Section -->
             <section id="benefits">
                 <h2 class="text-3xl font-bold">The Science-Backed Benefits of Probiotics for Teens</h2>
@@ -555,4 +370,3 @@ seoTitle: 8 Best Probiotics For Teenagers In 2026 That Actually Help
             <p class="text-sm text-gray-700 font-semibold">Use code <span class="text-primary">synctherapy</span> for 15% off!</p>
         </div>
     </div>
-<!-- /wp:html -->

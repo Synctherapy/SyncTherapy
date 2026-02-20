@@ -9,161 +9,21 @@ description: >-
 seoTitle: Mito Pro X 750 Review | Why I Use It As An Award Winning Therapist
 ---
 
-<!-- wp:html -->
 <!-- Preload critical resources for faster rendering -->
     <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
     
     <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
+
     
     <!-- Google Fonts: Inter (loaded asynchronously) -->
     <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"></noscript>
     
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
 
     <!-- SEO: Review Schema Markup -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "Mito Pro X 750 Review | Why I Use It As An Award Winning Therapist",
-      "itemReviewed": {
-        "@type": "Product",
-        "name": "MitoPRO X 750",
-        "image": "/uploads/content/the-mito-pro-750x-review.jpg",
-        "description": "The MitoPRO X 750 is a powerful, half-body red light therapy panel featuring 6 optimized wavelengths for pain relief, skin rejuvenation, and muscle recovery. It's a top-tier choice for at-home therapy.",
-        "brand": {
-          "@type": "Brand",
-          "name": "Mito Red Light"
-        }
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.9",
-        "bestRating": "5",
-        "worstRating": "1"
-      },
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "datePublished": "2025-07-01",
-      "reviewBody": "As a healthcare professional, I use the MitoPRO X 750 in my clinic and personally. It's a game-changer for muscle recovery, collagen production, and improving conditions like arthritis. In my professional opinion, the MitoPRO 750 offers the best balance of power, size, and price on the market."
-    }
-    </script>
 
-    <style>
-        /* Custom styles based on the new design template */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5; /* Neutral-Light */
-            color: #333333; /* Neutral-Dark */
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        /* Custom color classes */
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        .border-accent { border-color: #F5B82E; }
-        
-        /* Heading styles */
-        h1, h2, h3, h4 {
-            color: #2E5A88; /* Deep serene blue */
-            font-weight: 700;
-        }
-        h1 {
-            font-size: 2.5rem;
-            line-height: 1.2;
-            font-weight: 800;
-            margin-bottom: 1rem;
-        }
-        h2 {
-            border-left: 4px solid #F5B82E; /* Warm gold accent */
-            padding-left: 1rem;
-            margin-bottom: 1.5rem;
-            margin-top: 2.5rem;
-        }
-        h3 {
-            margin-top: 2rem;
-            margin-bottom: 1rem;
-        }
-        h4 {
-             margin-top: 1.5rem;
-             margin-bottom: 0.5rem;
-        }
 
-        /* Affiliate button style */
-        .affiliate-button {
-            background-color: #F5B82E !important;
-            color: #333333 !important;
-            font-weight: 700 !important;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.85rem 1.75rem !important;
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-        }
-        .affiliate-button:hover {
-            background-color: #d9a229 !important;
-            transform: translateY(-3px);
-            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-        }
-        
-        /* General link style */
-        a:not(.affiliate-button) {
-            color: #2E5A88;
-            font-weight: 500;
-            text-decoration: underline;
-            transition: color 0.3s;
-        }
-        a:not(.affiliate-button):hover {
-            color: #F5B82E;
-        }
-        
-        /* Responsive YouTube Video */
-        .video-container {
-            position: relative;
-            padding-bottom: 56.25%; /* 16:9 aspect ratio */
-            height: 0;
-            overflow: hidden;
-            max-width: 100%;
-            background: #000;
-            border-radius: 0.5rem;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-        }
-        .video-container iframe {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-        }
-        
-        /* Comparison Table Styling */
-        .comparison-table th, .comparison-table td {
-            padding: 0.75rem 1rem;
-            text-align: left;
-            border-bottom: 1px solid #e5e7eb;
-        }
-        .comparison-table th {
-            background-color: #f9fafb;
-            font-weight: 600;
-        }
-        .comparison-table .fa-check-circle {
-            color: #16a34a; /* Green */
-        }
-    </style>
+
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
         
@@ -378,4 +238,3 @@ seoTitle: Mito Pro X 750 Review | Why I Use It As An Award Winning Therapist
 
         </main>
     </div>
-<!-- /wp:html -->

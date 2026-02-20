@@ -9,123 +9,17 @@ description: >-
 seoTitle: Your First RMT Massage in Langford (2025 Guide) | Sync Massage Therapy
 ---
 
-<!-- wp:html -->
 <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     
-    <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-    <style>
-        /* Custom styles based on the new design template */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5; /* Neutral-Light */
-            color: #333333; /* Neutral-Dark */
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        /* Custom color classes */
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        .border-accent { border-color: #F5B82E; }
-        
-        /* Heading styles */
-        h1, h2, h3, h4 {
-            color: #2E5A88; /* Deep serene blue */
-            font-weight: 700;
-        }
-        h2 {
-            font-size: 1.875rem; /* text-3xl */
-            border-left: 4px solid #F5B82E; /* Warm gold accent */
-            padding-left: 1rem;
-            margin-bottom: 1.5rem;
-            margin-top: 2.5rem;
-        }
-        h3 {
-            font-size: 1.5rem; /* text-2xl */
-            margin-top: 2rem;
-            margin-bottom: 1rem;
-        }
-        h4 {
-            font-size: 1.25rem; /* text-xl */
-        }
 
-        /* CTA button style */
-        body .cta-button {
-            background-color: #F5B82E !important;
-            color: #333333 !important;
-            font-weight: 600 !important;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.75rem 1.5rem !important;
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-        }
-        body .cta-button:hover {
-            background-color: #d9a229 !important;
-            transform: translateY(-2px);
-        }
 
-        /* Secondary button style */
-        body .secondary-button {
-            background-color: #2E5A88 !important;
-            color: #FFFFFF !important;
-        }
-        body .secondary-button:hover {
-             background-color: #25476a !important;
-        }
 
-        /* Added style for internal links */
-        .internal-link {
-            color: #2E5A88;
-            text-decoration: underline;
-            font-weight: 500;
-        }
-        .internal-link:hover {
-            color: #F5B82E;
-        }
-    </style>
+
     
     <!-- Schema Markup -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "headline": "The Ultimate Guide to Your First Massage Therapy Session in Langford (2025)",
-      "author": {
-        "@type": "Person",
-        "name": "Daryl",
-        "url": "https://synctherapylocal.local"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Sync Therapy",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://placehold.co/200x60/2E5A88/FFFFFF?text=Sync+Therapy"
-        }
-      },
-      "datePublished": "2025-07-30",
-      "dateModified": "2025-07-30",
-      "description": "A complete guide by Daryl of Sync Therapy for anyone preparing for their first Registered Massage Therapy (RMT) session in Langford, BC. Learn how to choose a clinic, what to expect, and how to maximize your benefits.",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://synctherapylocal.local/langford-first-massage-guide"
-      }
-    }
-    </script>
+
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
         
@@ -344,4 +238,3 @@ seoTitle: Your First RMT Massage in Langford (2025 Guide) | Sync Massage Therapy
 
         </main>
     </div>
-<!-- /wp:html -->

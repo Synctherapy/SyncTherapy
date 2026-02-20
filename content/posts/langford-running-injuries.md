@@ -13,154 +13,17 @@ seoTitle: The Langford Runner's Blueprint (2025) | Sync Massage Therapy
 <p><a href="https://synctherapylocal.local/wp-login.php?redirect_to=https%3A%2F%2Fwww.synctherapy.ca%2Fwp-admin%2Fpost-new.php&amp;reauth=1">Add Post</a></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
 <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     
-    <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-    <style>
-        /* Custom styles based on the new design template */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5; /* Neutral-Light */
-            color: #333333; /* Neutral-Dark */
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        /* Custom color classes */
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        .border-accent { border-color: #F5B82E; }
-        
-        /* Heading styles */
-        h1, h2, h3, h4 {
-            color: #2E5A88; /* Deep serene blue */
-            font-weight: 700;
-        }
-        h2 {
-            font-size: 1.875rem; /* text-3xl */
-            border-left: 4px solid #F5B82E; /* Warm gold accent */
-            padding-left: 1rem;
-            margin-bottom: 1.5rem;
-            margin-top: 2.5rem;
-        }
-        h3 {
-            font-size: 1.5rem; /* text-2xl */
-            margin-top: 2rem;
-            margin-bottom: 1rem;
-        }
-        h4 {
-            font-size: 1.25rem; /* text-xl */
-        }
 
-        /* CTA button style */
-        body .cta-button {
-            background-color: #F5B82E !important;
-            color: #333333 !important;
-            font-weight: 600 !important;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.75rem 1.5rem !important;
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-        }
-        body .cta-button:hover {
-            background-color: #d9a229 !important;
-            transform: translateY(-2px);
-        }
 
-        /* Secondary button style */
-        body .secondary-button {
-            background-color: #2E5A88 !important;
-            color: #FFFFFF !important;
-        }
-        body .secondary-button:hover {
-             background-color: #25476a !important;
-        }
 
-        /* Internal link style */
-        .internal-link {
-            color: #2E5A88;
-            text-decoration: underline;
-            font-weight: 500;
-        }
-        .internal-link:hover {
-            color: #F5B82E;
-        }
-        
-        /* Comparison Table Styling */
-        .comparison-table th, .comparison-table td {
-            padding: 0.75rem 1rem;
-            text-align: left;
-            border-bottom: 1px solid #e5e7eb;
-            vertical-align: top;
-        }
-        .comparison-table th {
-            background-color: #2E5A88;
-            color: white;
-            font-weight: 600;
-        }
-        .comparison-table .highlight-cell { background-color: #F4F7F5; font-weight: 600; }
-        .video-container {
-            position: relative;
-            padding-bottom: 56.25%; /* 16:9 aspect ratio */
-            height: 0;
-            overflow: hidden;
-            max-width: 100%;
-            background: #000;
-            border-radius: 0.5rem;
-            margin-top: 1rem;
-        }
-        .video-container iframe {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-        }
-    </style>
+
     
     <!-- Schema Markup -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "headline": "The Langford Runner's Blueprint: A Complete Guide to Performance, Injury Prevention, and Recovery (2025)",
-      "author": {
-        "@type": "Person",
-        "name": "Daryl",
-        "url": "https://synctherapylocal.local/our-team/rmt-daryl-stubbs/"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Sync Therapy",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://placehold.co/200x60/2E5A88/FFFFFF?text=Sync+Therapy"
-        }
-      },
-      "datePublished": "2025-07-31",
-      "dateModified": "2025-07-31",
-      "description": "A complete guide for Langford runners on the best trails, common injuries, prevention strategies, and how massage therapy can boost performance and recovery.",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://synctherapylocal.local/langford-running-guide"
-      }
-    }
-    </script>
+
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
         
@@ -340,4 +203,3 @@ seoTitle: The Langford Runner's Blueprint (2025) | Sync Massage Therapy
 
         </main>
     </div>
-<!-- /wp:html -->

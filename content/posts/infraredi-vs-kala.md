@@ -9,183 +9,17 @@ description: >-
 seoTitle: 'Infraredi vs. Kala (2026): Best Red Light Panel in Canada?'
 ---
 
-<!-- wp:html -->
 <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     
-    <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-    <style>
-        /* Custom styles based on the new design template */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5; /* Neutral-Light */
-            color: #333333; /* Neutral-Dark */
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        /* Custom color classes */
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        .border-accent { border-color: #F5B82E; }
-        
-        /* Heading styles */
-        h1, h2, h3 {
-            color: #2E5A88; /* Deep serene blue */
-            font-weight: 700;
-        }
-        h2 {
-            border-left: 4px solid #F5B82E; /* Warm gold accent */
-            padding-left: 1rem;
-            margin-bottom: 1.5rem;
-            margin-top: 2.5rem;
-            font-size: 1.875rem;
-            line-height: 2.25rem;
-        }
-        h3 {
-            margin-top: 2rem;
-            margin-bottom: 0.75rem;
-            font-size: 1.5rem;
-            line-height: 2rem;
-        }
 
-        /* Affiliate button style */
-        body .affiliate-button {
-            background-color: #F5B82E !important;
-            color: #333333 !important;
-            font-weight: 700 !important;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.85rem 2rem !important;
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-            box-shadow: 0 4px 14px 0 rgba(0,0,0,0.1);
-        }
-        body .affiliate-button:hover {
-            background-color: #d9a229 !important;
-            transform: translateY(-3px);
-            box-shadow: 0 6px 20px 0 rgba(0,0,0,0.15);
-        }
-        
-        /* Comparison Table Styling */
-        .comparison-table th, .comparison-table td {
-            padding: 1rem 1.25rem;
-            text-align: center;
-            border-bottom: 1px solid #e5e7eb;
-            vertical-align: middle;
-        }
-        .comparison-table th {
-            background-color: #2E5A88;
-            color: white;
-            font-weight: 600;
-        }
-        .comparison-table td:first-child {
-            text-align: left;
-            font-weight: 600;
-        }
-        .comparison-table .fa-check-circle {
-            color: #16a34a; /* Green */
-        }
-        .comparison-table .fa-times-circle {
-            color: #dc2626; /* Red */
-        }
-        .winner-highlight {
-            background-color: #fef3c7; /* Light yellow for winner */
-        }
-        .pick-badge {
-            display: inline-block;
-            background-color: #16a34a;
-            color: white;
-            padding: 0.2rem 0.6rem;
-            font-size: 0.75rem;
-            font-weight: 700;
-            border-radius: 9999px;
-            margin-top: 0.25rem;
-        }
-    </style>
+
+
+
     
     <!-- Schema Markup -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "Infraredi vs Kala:  Best Canadian Red Light Therapy Panel?",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.9",
-        "bestRating": "5"
-      },
-      "itemReviewed": {
-        "@type": "ProductGroup",
-        "name": "Red Light Therapy Panels (Canada)",
-        "description": "Comparison of the best red light therapy panels available in Canada",
-        "hasVariant": [
-          {
-            "@type": "Product",
-            "name": "Infraredi Red Light Therapy Panels",
-            "description": "Medical-grade red light therapy devices known for high power, multiple wavelengths, and Health Canada approval.",
-            "brand": {
-              "@type": "Brand",
-              "name": "Infraredi"
-            },
-            "offers": {
-              "@type": "AggregateOffer",
-              "priceCurrency": "CAD",
-              "lowPrice": "599",
-              "highPrice": "1899",
-              "offerCount": "6",
-              "availability": "https://schema.org/InStock",
-              "url": "https://infraredi.ca?sca_ref=6462529.RGz70cjqsGIv"
-            },
-            "aggregateRating": {
-              "@type": "AggregateRating",
-              "ratingValue": "4.9",
-              "reviewCount": "150"
-            }
-          },
-          {
-            "@type": "Product",
-            "name": "Kala Red Light Therapy Panels",
-            "description": "Affordable, high-quality red light therapy devices with FDA certification, known for great value and accessibility.",
-            "brand": {
-              "@type": "Brand",
-              "name": "Kala"
-            },
-            "offers": {
-              "@type": "AggregateOffer",
-              "priceCurrency": "CAD",
-              "lowPrice": "449",
-              "highPrice": "1599",
-              "offerCount": "5",
-              "availability": "https://schema.org/InStock",
-              "url": "https://snwbl.io/kalatherapy/DARYL95230"
-            },
-            "aggregateRating": {
-              "@type": "AggregateRating",
-              "ratingValue": "4.9",
-              "reviewCount": "140"
-            }
-          }
-        ]
-      }
-    }
-    </script>
+
 
 <body class="bg-neutral-light">
 
@@ -594,4 +428,3 @@ seoTitle: 'Infraredi vs. Kala (2026): Best Red Light Panel in Canada?'
 
         </main>
     </div>
-<!-- /wp:html -->

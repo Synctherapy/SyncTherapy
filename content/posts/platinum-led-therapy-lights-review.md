@@ -9,167 +9,17 @@ description: >-
 seoTitle: 'Platinum LED BioMax 900 Review: Your Best Choice'
 ---
 
-<!-- wp:html -->
 <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     
-    <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-    <style>
-        /* Custom styles for a professional and trustworthy feel */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #f8f9fa; /* Light grey background */
-            color: #343a40; /* Dark grey text */
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        /* Custom color classes */
-        .bg-primary { background-color: #0d6efd; } /* Bootstrap Blue */
-        .text-primary { color: #0d6efd; }
-        .border-primary { border-color: #0d6efd; }
-        .bg-accent { background-color: #ffc107; } /* Bootstrap Yellow */
-        .text-accent { color: #ffc107; }
-        .border-accent { border-color: #ffc107; }
-        
-        /* Heading styles */
-        h1, h2, h3 {
-            color: #212529; /* Near black for headings */
-            font-weight: 800;
-        }
-        h2 {
-            border-left: 4px solid #0d6efd; /* Blue accent */
-            padding-left: 1rem;
-            margin-bottom: 1.5rem;
-            margin-top: 2.5rem;
-            font-size: 1.75rem;
-        }
-        h3 {
-            margin-bottom: 1rem;
-            font-size: 1.25rem;
-            font-weight: 700;
-        }
 
-        /* Affiliate button style */
-        .affiliate-button {
-            background-color: #ffc107 !important;
-            color: #212529 !important;
-            font-weight: 600 !important;
-            transition: all 0.3s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.85rem 1.75rem !important;
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-        }
-        .affiliate-button:hover {
-            background-color: #e0a800 !important;
-            transform: translateY(-3px);
-            box-shadow: 0 6px 20px rgba(0,0,0,0.15);
-        }
 
-        /* Mobile sticky button */
-        .mobile-sticky-cta {
-            display: none;
-            position: fixed;
-            bottom: 0;
-            left: 0;
-            right: 0;
-            background: white;
-            padding: 1rem;
-            box-shadow: 0 -4px 20px rgba(0,0,0,0.1);
-            z-index: 1000;
-            border-top: 4px solid #ffc107;
-        }
 
-        @media (max-width: 768px) {
-            .mobile-sticky-cta {
-                display: block;
-            }
-            body {
-                padding-bottom: 100px; /* Adjust for sticky CTA height */
-            }
-        }
-        
-        /* Comparison Table Styling */
-        .comparison-table th, .comparison-table td {
-            padding: 1rem;
-            text-align: center;
-            border-bottom: 1px solid #dee2e6;
-        }
-        .comparison-table th {
-            background-color: #f8f9fa;
-            font-weight: 600;
-        }
-        .comparison-table .feature-col {
-            text-align: left;
-            font-weight: 600;
-        }
-        .comparison-table .winner-cell {
-            background-color: #d1e7dd; /* Light green */
-            font-weight: 700;
-        }
 
-        /* Trust indicators */
-        .trust-badge {
-            display: inline-flex;
-            align-items: center;
-            gap: 0.5rem;
-            background: #e9ecef;
-            color: #495057;
-            padding: 0.5rem 1rem;
-            border-radius: 9999px;
-            font-size: 0.875rem;
-            font-weight: 600;
-            border: 1px solid #ced4da;
-        }
-    </style>
     
     <!-- Schema Markup -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "PlatinumLED BioMax 900 Review (2025): An In-Depth Clinical Analysis",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.9",
-        "bestRating": "5",
-        "worstRating": "1"
-      },
-      "itemReviewed": {
-        "@type": "Product",
-        "name": "PlatinumLED BioMax 900",
-        "description": "An FDA Class II Medical Device for red light therapy, featuring a 7-wavelength spectrum for comprehensive treatment. This biomax 900 review covers performance, specs, and comparisons.",
-        "brand": {
-            "@type": "Brand",
-            "name": "PlatinumLED"
-        },
-        "image": "/uploads/2025/07/Platinum-LED-BIOMAX-900-Red-Light-review.jpg",
-        "sku": "BIOMAX900",
-        "offers": {
-            "@type": "Offer",
-            "url": "https://snwbl.io/platinumled-therapy-lights/LJBBS6913",
-            "priceCurrency": "USD",
-            "price": "1499",
-            "availability": "https://schema.org/InStock"
-        }
-      }
-    }
-    </script>
+
 
     <div class="container mx-auto max-w-5xl px-4 py-8">
         
@@ -258,7 +108,6 @@ seoTitle: 'Platinum LED BioMax 900 Review: Your Best Choice'
                     </div>
                 </div>
             </section>
-
 
             <!-- 7 Wavelengths Section -->
             <section class="bg-white p-8 rounded-lg shadow-md">
@@ -448,4 +297,3 @@ seoTitle: 'Platinum LED BioMax 900 Review: Your Best Choice'
             </a>
         </div>
     </div>
-<!-- /wp:html -->
