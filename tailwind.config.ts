@@ -10,9 +10,9 @@ const config: Config = {
     theme: {
         extend: {
             fontFamily: {
-                sans: ["Inter", "sans-serif"],
-                roboto: ["Roboto", "sans-serif"],
-                mono: ["JetBrains Mono", "monospace"],
+                sans: ["var(--font-inter)", "sans-serif"],
+                roboto: ["var(--font-roboto)", "sans-serif"],
+                mono: ["var(--font-mono)", "monospace"], // Using optional variable if defined
             },
             animation: {
                 "marquee-vertical": "marquee-vertical 20s linear infinite",

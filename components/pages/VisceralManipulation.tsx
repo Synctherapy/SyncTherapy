@@ -144,7 +144,7 @@ export function VisceralManipulation() {
                                     alt="Visceral Manipulation Therapy"
                                     fill
                                     className="object-cover"
-                                    unoptimized={true}
+
                                 />
                             </div>
                             {/* Decorative background blob behind image */}
@@ -292,11 +292,11 @@ export function VisceralManipulation() {
                             <div className="md:w-1/3">
                                 <div className="relative aspect-square rounded-3xl overflow-hidden shadow-2xl border-4 border-white">
                                     <Image
-                                        src="/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2025/06/daryls-an-RMT-in-downtown-victoria-offering-massage-therapy-600x801.jpg"
+                                        src="/uploads/2025/06/daryls-an-RMT-in-downtown-victoria-offering-massage-therapy.jpg"
                                         alt="Daryl Stubbs RMT"
                                         fill
                                         className="object-cover"
-                                        unoptimized={true}
+
                                     />
                                 </div>
                             </div>
