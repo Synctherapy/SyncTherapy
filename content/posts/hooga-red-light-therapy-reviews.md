@@ -9,128 +9,16 @@ description: >-
 seoTitle: 'Hooga Red Light Therapy Reviews: hg200, hg300 & hg1500'
 ---
 
-<!-- wp:html -->
 <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     
-    <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-    <style>
-        /* Custom styles based on the design template */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5; /* Neutral-Light */
-            color: #333333; /* Neutral-Dark */
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        .border-accent { border-color: #F5B82E; }
-        
-        h1, h2, h3, h4 {
-            color: #2E5A88;
-            font-weight: 700;
-        }
-        h2 {
-            border-left: 4px solid #F5B82E;
-            padding-left: 1rem;
-            margin-bottom: 1.5rem;
-            margin-top: 2.5rem;
-            font-size: 1.875rem;
-            line-height: 2.25rem;
-        }
-        h3 {
-            margin-top: 2rem;
-            margin-bottom: 1rem;
-            font-size: 1.5rem;
-            line-height: 2rem;
-            color: #3a6b9a;
-        }
-        h4 {
-            margin-top: 1.5rem;
-            margin-bottom: 0.5rem;
-            font-size: 1.25rem;
-            font-weight: 600;
-        }
 
-        body .affiliate-button {
-            background-color: #F5B82E !important;
-            color: #333333 !important;
-            font-weight: 700 !important;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.85rem 2rem !important;
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-            box-shadow: 0 4px 14px 0 rgba(0,0,0,0.1);
-        }
-        body .affiliate-button:hover {
-            background-color: #d9a229 !important;
-            transform: translateY(-2px);
-            box-shadow: 0 6px 20px 0 rgba(0,0,0,0.15);
-        }
-        
-        .custom-list ul { list-style-type: none; padding-left: 0; }
-        .custom-list li { position: relative; padding-left: 1.75rem; margin-bottom: 0.75rem; line-height: 1.6; }
-        .custom-list li::before {
-            content: '\\f058'; /* Font Awesome check-circle icon */
-            font-family: 'Font Awesome 6 Free';
-            font-weight: 900;
-            color: #2E5A88;
-            position: absolute;
-            left: 0;
-            top: 4px;
-            font-size: 1.1rem;
-        }
-        .comparison-table th, .comparison-table td { padding: 0.75rem 1rem; text-align: left; border-bottom: 1px solid #e5e7eb; }
-        .comparison-table th { background-color: #f9fafb; font-weight: 600; }
-    </style>
+
+
     
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "Hooga Red Light Therapy Reviews: hg200, hg300 & hg1500",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.6",
-        "bestRating": "5",
-        "worstRating": "1"
-      },
-      "itemReviewed": {
-        "@type": "ProductGroup",
-        "name": "Hooga Red Light Therapy Devices",
-        "brand": {
-          "@type": "Brand",
-          "name": "Hooga Health"
-        },
-        "description": "A comprehensive line of at-home red light therapy panels, masks, and mats designed for skin health, pain relief, and muscle recovery. Includes the HG, Pro, and Ultra series."
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "datePublished": "2025-07-17",
-      "description": "Our in-depth 2026 Hooga Red Light Therapy review. We analyze the HG, Pro, and Ultra series, compare Hooga vs. Mito, and determine if Hooga is a good, legit brand for at-home red light therapy in Canada and beyond."
-    }
-    </script>
+
+
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
         
@@ -334,4 +222,3 @@ seoTitle: 'Hooga Red Light Therapy Reviews: hg200, hg300 & hg1500'
 
         </main>
     </div>
-<!-- /wp:html -->

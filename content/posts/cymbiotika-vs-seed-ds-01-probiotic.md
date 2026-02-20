@@ -9,202 +9,17 @@ description: >-
 seoTitle: Cymbiotika vs. Seed DS-01 (2026 Review)
 ---
 
-<!-- wp:html -->
 <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     
-    <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-    <style>
-        /* Custom styles based on the design template */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5; /* Neutral-Light */
-            color: #333333; /* Neutral-Dark */
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        /* Custom color classes */
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        .border-accent { border-color: #F5B82E; }
-        
-        /* Heading styles */
-        h1, h2, h3 {
-            color: #2E5A88; /* Deep serene blue */
-            font-weight: 700;
-        }
-        h2 {
-            border-left: 4px solid #F5B82E; /* Warm gold accent */
-            padding-left: 1rem;
-            margin-bottom: 1.5rem;
-            margin-top: 2.5rem;
-        }
-        h3 {
-            margin-bottom: 0.5rem;
-        }
 
-        /* Affiliate button style */
-        body .affiliate-button {
-            background-color: #F5B82E !important;
-            color: #333333 !important;
-            font-weight: 600 !important;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.75rem 1.5rem !important;
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-        }
-        body .affiliate-button:hover {
-            background-color: #d9a229 !important;
-            transform: translateY(-2px);
-        }
-        
-        /* Comparison Table Styling */
-        .comparison-table th, .comparison-table td {
-            padding: 1rem 1rem;
-            text-align: left;
-            border-bottom: 1px solid #e5e7eb;
-        }
-        .comparison-table th {
-            background-color: #f9fafb;
-            font-weight: 600;
-            color: #2E5A88;
-        }
-        .comparison-table .fa-check-circle {
-            color: #16a34a; /* Green */
-        }
-        .comparison-table .fa-times-circle {
-            color: #dc2626; /* Red */
-        }
 
-        /* Mobile Sticky Footer */
-        .mobile-sticky-footer {
-            display: none; /* Hidden by default */
-        }
 
-        @media (max-width: 768px) {
-            .mobile-sticky-footer {
-                display: block; /* Display on mobile */
-                position: fixed;
-                bottom: 0;
-                left: 0;
-                right: 0;
-                z-index: 1000;
-            }
-            body {
-                padding-bottom: 120px; /* Add padding to body to prevent content from being hidden by the footer */
-            }
-        }
-    </style>
+
     
     <!-- Schema Markup -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "Cymbiotika vs Seed DS 01 Probiotic: Which is the Better Choice?",
-      "datePublished": "2025-06-29",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.9",
-        "bestRating": "5",
-        "worstRating": "1",
-        "reviewAspect": "Overall Quality"
-      },
-      "itemReviewed": {
-        "@type": "ProductGroup",
-        "name": "Probiotic Supplements",
-        "hasVariant": [
-          {
-            "@type": "Product",
-            "name": "Seed DS-01 Daily Synbiotic",
-            "image": "/uploads/2025/06/seedvscymbiotikaprobiotic_ef7a89a36ebf4227b141e411be86ccbf.webp",
-            "brand": {
-              "@type": "Brand",
-              "name": "Seed"
-            },
-            "description": "A comprehensive synbiotic with 24 clinically-studied probiotic strains and a proprietary prebiotic blend, designed for systemic benefits.",
-            "offers": {
-              "@type": "Offer",
-              "url": "https://synctherapylocal.local/recommends/seed-probiotic",
-              "priceCurrency": "USD",
-              "price": "49.00",
-              "availability": "https://schema.org/InStock"
-            },
-            "aggregateRating": {
-              "@type": "AggregateRating",
-              "ratingValue": "4.9",
-              "reviewCount": "1521"
-            }
-          },
-          {
-            "@type": "Product",
-            "name": "Cymbiotika Probiotic",
-            "image": "/uploads/2025/06/cymbiotika-probiotic-review-vs-seed.webp",
-            "brand": {
-              "@type": "Brand",
-              "name": "Cymbiotika"
-            },
-            "description": "A premium probiotic supplement with 16 strains, plant-based prebiotics, and a unique blend of herbal alchemy and amino acids.",
-            "offers": {
-              "@type": "Offer",
-              "url": "https://synctherapylocal.local/cymbiotika-vs-seed-ds-01-probiotic/#cymbiotika",
-              "priceCurrency": "CAD",
-              "price": "116.00",
-              "availability": "https://schema.org/InStock"
-            },
-            "aggregateRating": {
-              "@type": "AggregateRating",
-              "ratingValue": "4.7",
-              "reviewCount": "876"
-            }
-          }
-        ]
-      },
-      "positiveNotes": {
-        "@type": "ItemList",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Seed DS-01 offers broader strain diversity (24 strains) and advanced delivery technology."
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "Cymbiotika provides a high-quality, premium formula with a focus on holistic gut health."
-          }
-        ]
-      },
-      "negativeNotes": {
-        "@type": "ItemList",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Cymbiotika is significantly more expensive than Seed DS-01."
-          }
-        ]
-      }
-    }
-    </script>
+
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
         
@@ -515,4 +330,3 @@ seoTitle: Cymbiotika vs. Seed DS-01 (2026 Review)
             <p class="text-sm text-gray-700 font-semibold">Use code <span class="text-primary">SYNCTHERAPY</span> for 15% off your first month!</p>
         </div>
     </div>
-<!-- /wp:html -->

@@ -9,192 +9,18 @@ description: >-
 seoTitle: 'When the Crash Doesn’t End: Mental Health After Car Accidents'
 ---
 
-<!-- wp:html -->
 <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     
-    <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-
-    <style>
-        /* Custom styles based on the new design template */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5; /* Neutral-Light */
-            color: #333333; /* Neutral-Dark */
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        /* Custom color classes */
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        .border-accent { border-color: #F5B82E; }
-        
-        /* Heading styles */
-        h1, h2, h3 {
-            color: #2E5A88; /* Deep serene blue */
-            font-weight: 700;
-        }
-        h2 {
-            border-left: 4px solid #F5B82E; /* Warm gold accent */
-            padding-left: 1rem;
-            margin-bottom: 1.5rem;
-            margin-top: 2.5rem; /* Increased top margin */
-            font-size: 1.875rem; /* 3xl */
-            font-weight: 800; /* Bolder */
-        }
-        h3 {
-            margin-bottom: 1rem;
-            margin-top: 2rem; /* Increased top margin */
-            font-size: 1.5rem; /* 2xl */
-            font-weight: 700;
-            color: #2E5A88; /* Primary blue */
-            padding-left: 0.5rem; /* Slight indent */
-            border-left: 3px solid #2E5A88; /* Primary blue */
-        }
-        /* Sub-sub heading */
-         h4 {
-            font-size: 1.25rem; /* xl */
-            font-weight: 600;
-            color: #333333; /* Dark neutral */
-            margin-top: 1.5rem;
-            margin-bottom: 0.75rem;
-        }
 
 
-        /* Affiliate button style (kept for consistency, use for CTAs) */
-        body .cta-button { /* Renamed from affiliate-button */
-            background-color: #F5B82E !important;
-            color: #333333 !important;
-            font-weight: 600 !important;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.75rem 1.5rem !important;
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-        }
-        body .cta-button:hover {
-            background-color: #d9a229 !important;
-            transform: translateY(-px);
-        }
 
-        /* Custom callout boxes */
-        .callout-box {
-            background: #2E5A88;
-            color: white;
-            padding: 2rem;
-            border-radius: 12px;
-            margin: 2rem 0;
-            border-left: 6px solid #F5B82E;
-        }
-         .info-box {
-            background-color: #e0f2fe; /* Light blue background */
-            border-left: 4px solid #2E5A88; /* Primary blue border */
-            padding: 1rem 1.5rem;
-            margin: 1.5rem 0;
-            border-radius: 0.5rem;
-            color: #333333; /* Dark text for readability */
-        }
-        .info-box p { margin-bottom: 0.5rem; }
-        .info-box strong { color: #2E5A88; }
-        
-        /* Content link styling */
-        .content-link {
-            color: #2E5A88;
-            text-decoration: underline;
-            font-weight: 500;
-            transition: color 0.3s ease;
-        }
-        .content-link:hover {
-            color: #F5B82E;
-        }
-        
-        /* List styling */
-        section ul, section ol {
-            margin-left: 1.5rem; /* Indent lists */
-            margin-bottom: 1.5rem;
-            space-y: 0.75rem;
-        }
-        section ul li, section ol li {
-            padding-left: 0.5rem;
-            line-height: 1.7; /* Increased line height */
-        }
-        section ul {
-            list-style-type: disc;
-        }
-         section ol {
-             list-style-type: decimal;
-         }
 
-        /* Image styling */
-        .content-image {
-            max-width: 100%;
-            height: auto;
-            margin: 2rem auto;
-            border-radius: 0.75rem;
-            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
-        }
-        
-        /* Citation style */
-        .citation {
-            font-size: 0.8rem;
-            color: #6b7280; /* Gray-500 */
-            margin-left: 0.25rem;
-        }
-        /* Disclaimer Style */
-        .disclaimer {
-            font-size: 0.875rem; /* text-sm */
-            color: #6b7280; /* text-gray-500 */
-            background-color: #f9fafb; /* bg-gray-50 */
-            padding: 1rem;
-            border-radius: 0.5rem;
-            margin-bottom: 2rem;
-            border: 1px solid #e5e7eb; /* border-gray-200 */
-        }
 
-    </style>
     
     <!-- Schema Markup -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "headline": "Beyond the Brakes: Mental Health After Car Accidents (2025 Guide)",
-      "description": "Car accidents often leave hidden mental health scars like PTSD, anxiety, and depression. Learn about the psychological impact of road traffic injuries and how to find support in Canada.",
-       "image": "https://synctherapylocal.local/wp-content/uploads/content/car-accident-mental-health-placeholder.png", // <!-- TODO: Replace with an actual relevant image URL -->
-      "author": {
-        "@type": "Organization", // <!-- Changed back to Organization as requested -->
-        "name": "Sync Therapy" 
-      },
-       "publisher": {
-        "@type": "Organization",
-        "name": "Sync Therapy",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://synctherapylocal.local/wp-content/uploads/2021/11/sync-therapy-logo-Dark-Blue.png" // <!-- Assuming this is your logo -->
-        }
-      },
-      "datePublished": "2025-10-24", // <!-- Set to current date -->
-      "dateModified": "2025-10-24", // <!-- Set to current date -->
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://synctherapylocal.local/car-accidents-and-mental-health/" // <!-- Update URL if needed -->
-      }
-    }
-    </script>
-    <!-- TODO: Add FAQPage Schema here if applicable -->
 
+    <!-- TODO: Add FAQPage Schema here if applicable -->
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 
@@ -475,4 +301,3 @@ seoTitle: 'When the Crash Doesn’t End: Mental Health After Car Accidents'
             });
         });
     </script>
-<!-- /wp:html -->

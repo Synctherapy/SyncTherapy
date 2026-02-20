@@ -9,168 +9,17 @@ description: >-
 seoTitle: 'Seed vs Pendulum (2026): Which Probiotic is Better for Your Health?'
 ---
 
-<!-- wp:html -->
 <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     
-    <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-    <style>
-        /* Custom styles based on the design template */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5; /* Neutral-Light */
-            color: #333333; /* Neutral-Dark */
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        /* Custom color classes */
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        .border-accent { border-color: #F5B82E; }
-        
-        /* Heading styles */
-        h1, h2, h3 {
-            color: #2E5A88; /* Deep serene blue */
-            font-weight: 700;
-        }
-        h2 {
-            border-left: 4px solid #F5B82E; /* Warm gold accent */
-            padding-left: 1rem;
-            margin-bottom: 1.5rem;
-            margin-top: 2rem;
-        }
-        h3 {
-            margin-bottom: 0.5rem;
-        }
 
-        /* Affiliate button style */
-        body .affiliate-button {
-            background-color: #F5B82E !important;
-            color: #333333 !important;
-            font-weight: 600 !important;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.75rem 1.5rem !important;
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-        }
-        body .affiliate-button:hover {
-            background-color: #d9a229 !important;
-            transform: translateY(-2px);
-        }
-        
-        /* Comparison Table Styling */
-        .comparison-table th, .comparison-table td {
-            padding: 0.75rem 1rem;
-            text-align: left;
-            border-bottom: 1px solid #e5e7eb;
-        }
-        .comparison-table th {
-            background-color: #f9fafb;
-            font-weight: 600;
-        }
-        .comparison-table .fa-check-circle {
-            color: #16a34a; /* Green */
-        }
-        .comparison-table .fa-times-circle {
-            color: #dc2626; /* Red */
-        }
-        /* Ensure lazy-loaded images don't cause layout shift */
-        img {
-            height: auto;
-        }
-        /* YouTube Video Embed Styling */
-        .video-container {
-            position: relative;
-            width: 100%;
-            padding-bottom: 56.25%;
-            height: 0;
-            overflow: hidden;
-            border-radius: 0.5rem;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        }
-        .video-container iframe {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            border: none;
-        }
-    </style>
+
+
+
     
     <!-- Schema Markup -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "Seed vs. Pendulum: Which Probiotic Supplement is Better?",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.9",
-        "bestRating": "5"
-      },
-      "itemReviewed": {
-        "@type": "ProductGroup",
-        "name": "Probiotic Supplements",
-        "hasVariant": [
-          {
-            "@type": "Product",
-            "name": "Seed DS-01 Daily Synbiotic",
-            "description": "A broad-spectrum synbiotic with 24 probiotic strains designed for systemic, whole-body health and general wellness.",
-            "brand": {
-              "@type": "Brand",
-              "name": "Seed"
-            }
-          },
-          {
-            "@type": "Product",
-            "name": "Pendulum Glucose Control",
-            "description": "A targeted medical probiotic with novel anaerobic strains, including Akkermansia muciniphila, clinically shown to help manage Type 2 Diabetes.",
-            "brand": {
-              "@type": "Brand",
-              "name": "Pendulum"
-            }
-          },
-          {
-            "@type": "Product",
-            "name": "Pendulum Metabolic Daily",
-            "description": "A targeted probiotic with Akkermansia and butyrate-producers for general metabolic support.",
-            "brand": {
-              "@type": "Brand",
-              "name": "Pendulum"
-            }
-          },
-          {
-            "@type": "Product",
-            "name": "Pendulum Akkermansia",
-            "description": "A single-strain probiotic featuring the novel anaerobic strain Akkermansia muciniphila for gut barrier support.",
-            "brand": {
-              "@type": "Brand",
-              "name": "Pendulum"
-            }
-          }
-        ]
-      }
-    }
-    </script>
+
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
         
@@ -517,4 +366,3 @@ seoTitle: 'Seed vs Pendulum (2026): Which Probiotic is Better for Your Health?'
 
     <!-- Performance Optimization: Async load non-critical JS -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/js/all.min.js" async defer></script>
-<!-- /wp:html -->

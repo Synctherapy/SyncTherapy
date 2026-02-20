@@ -9,198 +9,17 @@ description: >-
 seoTitle: 'Rouge Red Light Review 2026: G4 Pro & Max Tested'
 ---
 
-<!-- wp:html -->
 <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     
-    <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-    <style>
-        /* Custom styles based on the new design template */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5; /* Neutral-Light */
-            color: #333333; /* Neutral-Dark */
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        /* Custom color classes */
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        .border-accent { border-color: #F5B82E; }
-        
-        /* Heading styles */
-        h1, h2, h3 {
-            color: #2E5A88; /* Deep serene blue */
-            font-weight: 700;
-        }
-        h2 {
-           border-left: 4px solid #F5B82E; /* Warm gold accent */
-           padding-left: 1rem;
-           margin-bottom: 1.5rem;
-           margin-top: 2.5rem;
-        }
-        h3 {
-            margin-bottom: 0.5rem;
-        }
 
-        /* Affiliate button style */
-        body .affiliate-button {
-            background-color: #F5B82E !important;
-            color: #333333 !important;
-            font-weight: 600 !important;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.75rem 1.5rem !important;
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-        }
-        body .affiliate-button:hover {
-            background-color: #d9a229 !important;
-            transform: translateY(-2px);
-        }
-        
-        /* Comparison Table Styling */
-        .comparison-table th, .comparison-table td {
-            padding: 1rem;
-            text-align: center;
-            border-bottom: 1px solid #e5e7eb;
-            vertical-align: middle;
-        }
-        .comparison-table th {
-            background-color: #f9fafb;
-            font-weight: 600;
-            text-align: left;
-        }
-        .comparison-table td:first-child {
-            font-weight: 600;
-            text-align: left;
-        }
-        .comparison-table .fa-check-circle {
-            color: #16a34a; /* Green */
-        }
-        .comparison-table .fa-times-circle {
-            color: #dc2626; /* Red */
-        }
-        .comparison-table .model-name {
-            font-size: 1.1rem;
-            font-weight: 700;
-            color: #2E5A88;
-        }
-        .comparison-table .model-brand {
-            font-size: 0.9rem;
-            color: #6b7280;
-        }
-        .toc a, .text-content-link {
-            color: #2E5A88;
-            text-decoration: none;
-            transition: color 0.2s;
-            font-weight: 500;
-        }
-        .toc a:hover, .text-content-link:hover {
-            color: #F5B82E;
-            text-decoration: underline;
-        }
-        .science-link {
-            color: #2E5A88;
-            font-weight: 600;
-            text-decoration: underline;
-            transition: color 0.2s;
-        }
-        .science-link:hover {
-            color: #F5B82E;
-        }
-        .discount-code-box {
-            border: 2px dashed #F5B82E;
-            background-color: #fefce8;
-        }
-    </style>
+
+
+
     
     <!-- Schema Markup -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "Rouge Red Light Therapy Review (2025): G4 Pro, Max & Tabletop Tested",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.7",
-        "bestRating": "5"
-      },
-      "reviewBody": "The Rouge G4 series stands out with a market-leading 8 wavelengths and advanced user controls, making it the most versatile panel for biohackers. While premium-priced, its feature set, including independent wavelength control, justifies the cost for users seeking maximum customization for skin health, muscle recovery, and deep tissue repair. Our tests show it's a top contender against brands like PlatinumLED and Hooga for those who value features over raw power.",
-      "itemReviewed": {
-        "@type": "ProductGroup",
-        "name": "Rouge G4 Red Light Therapy Panels",
-        "hasVariant": [
-          {
-            "@type": "Product",
-            "name": "Rouge Tabletop G4",
-            "description": "A compact, feature-rich red light therapy panel for targeted treatments.",
-            "image": "/uploads/2025/07/rouge-g4-reviews-.webp",
-            "brand": {
-              "@type": "Brand",
-              "name": "Rouge Care"
-            },
-            "offers": {
-              "@type": "Offer",
-              "priceCurrency": "CAD",
-              "price": "744.00",
-              "availability": "https://schema.org/InStock"
-            }
-          },
-          {
-            "@type": "Product",
-            "name": "Rouge Pro G4",
-            "description": "A versatile half-body panel with 8 wavelengths and advanced customization for serious biohackers.",
-            "image": "/uploads/2025/07/rouge-pro-g4-red-light-therapy-reviews.webp",
-            "brand": {
-              "@type": "Brand",
-              "name": "Rouge Care"
-            },
-            "offers": {
-              "@type": "Offer",
-              "priceCurrency": "CAD",
-              "price": "1785.00",
-              "availability": "https://schema.org/InStock"
-            }
-          },
-          {
-            "@type": "Product",
-            "name": "Rouge Max G4",
-            "description": "A full-body red light therapy panel for convenient, head-to-toe coverage.",
-            "image": "/uploads/2025/07/Rouge-Max-G4-review-in-canada.webp",
-            "brand": {
-              "@type": "Brand",
-              "name": "Rouge Care"
-            },
-            "offers": {
-              "@type": "Offer",
-              "priceCurrency": "CAD",
-              "price": "3570.00",
-              "availability": "https://schema.org/InStock"
-            }
-          }
-        ]
-      }
-    }
-    </script>
+
 
 <body class="bg-neutral-light">
 
@@ -644,7 +463,6 @@ seoTitle: 'Rouge Red Light Review 2026: G4 Pro & Max Tested'
 
         </main>
     </div>
-<!-- /wp:html -->
 
 <!-- wp:paragraph -->
 <p></p>

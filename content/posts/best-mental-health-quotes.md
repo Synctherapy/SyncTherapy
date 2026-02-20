@@ -9,143 +9,17 @@ description: >-
 seoTitle: 100 Of The Best Mental Health Quotes In 2026
 ---
 
-<!-- wp:html -->
 <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     
-    <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-    <style>
-        /* Custom styles based on the new design template */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5; /* Neutral-Light */
-            color: #333333; /* Neutral-Dark */
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        /* Custom color classes */
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        .border-accent { border-color: #F5B82E; }
-        
-        /* Heading styles */
-        h1, h2, h3 {
-            color: #2E5A88; /* Deep serene blue */
-            font-weight: 700;
-        }
-        h2 {
-            border-left: 4px solid #F5B82E; /* Warm gold accent */
-            padding-left: 1rem;
-            margin-bottom: 1.5rem;
-            margin-top: 2rem;
-            font-size: 1.875rem; /* 3xl */
-            font-weight: 800; /* Bolder */
-        }
-        h3 {
-            margin-bottom: 1rem;
-            margin-top: 1.5rem;
-            font-size: 1.5rem; /* 2xl */
-            font-weight: 700;
-            color: #2E5A88;
-        }
 
-        /* Affiliate button style */
-        body .affiliate-button {
-            background-color: #F5B82E !important;
-            color: #333333 !important;
-            font-weight: 600 !important;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.75rem 1.5rem !important;
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-        }
-        body .affiliate-button:hover {
-            background-color: #d9a229 !important;
-            transform: translateY(-2px);
-        }
 
-        /* Custom callout boxes */
-        .callout-box {
-            background: #2E5A88;
-            color: white;
-            padding: 2rem;
-            border-radius: 12px;
-            margin: 2rem 0;
-            border-left: 6px solid #F5B82E;
-        }
-        
-        /* Content link styling */
-        .content-link {
-            color: #2E5A88;
-            text-decoration: underline;
-            font-weight: 500;
-            transition: color 0.3s ease;
-        }
-        .content-link:hover {
-            color: #F5B82E;
-        }
-        
-        /* List styling */
-        section ol, section ul {
-            margin-left: 1rem;
-            margin-bottom: 1.5rem;
-            space-y: 0.75rem;
-        }
-        section ol li, section ul li {
-            padding-left: 0.5rem;
-            line-height: 1.6;
-        }
-        section ol {
-            list-style-type: decimal;
-        }
-        section ul {
-            list-style-type: disc;
-        }
 
-        /* Image styling */
-        .content-image {
-            max-width: 100%;
-            height: auto;
-            margin: 2rem auto;
-            border-radius: 0.75rem;
-            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
-        }
 
-    </style>
     
     <!-- Schema Markup -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "headline": "100 of the Best Mental Health Quotes for 2026",
-      "description": "We've compiled the best mental health quotes from poets, artists, philanthropists, and celebrities. You'll love these quotes on mental health in 2026",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "datePublished": "2025-01-03",
-      "dateModified": "2025-01-03",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://synctherapylocal.local/blogs/mental-health/100-best-mental-health-quotes"
-      }
-    }
-    </script>
+
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
         
@@ -641,4 +515,3 @@ seoTitle: 100 Of The Best Mental Health Quotes In 2026
             });
         });
     </script>
-<!-- /wp:html -->

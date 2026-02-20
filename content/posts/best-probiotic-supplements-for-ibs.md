@@ -9,206 +9,19 @@ description: >-
 seoTitle: '11 Best Probiotics for IBS in Canada (2026) - IBS-D, IBS-C, Mixed'
 ---
 
-<!-- wp:html -->
 <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     
-    <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-    <style>
-        /* Custom styles based on the design template */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5; /* Neutral-Light */
-            color: #333333; /* Neutral-Dark */
-            padding-bottom: 120px; /* Add padding to prevent content from being hidden by the sticky footer */
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        /* Custom color classes */
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        .border-accent { border-color: #F5B82E; }
-        
-        /* Heading styles */
-        h1, h2, h3 {
-            color: #2E5A88; /* Deep serene blue */
-            font-weight: 700;
-        }
-        h1 {
-            font-size: 2.25rem; /* 36px */
-            line-height: 2.5rem; /* 40px */
-            margin-bottom: 1rem;
-        }
-        h2 {
-           border-left: 4px solid #F5B82E; /* Warm gold accent */
-           padding-left: 1rem;
-           margin-bottom: 1.5rem;
-           margin-top: 2rem;
-        }
-        h3 {
-            margin-bottom: 0.5rem;
-        }
 
-        /* Affiliate button style */
-        body .affiliate-button {
-            background-color: #F5B82E !important;
-            color: #333333 !important;
-            font-weight: 600 !important;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.75rem 1.5rem !important;
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-        }
-        body .affiliate-button:hover {
-            background-color: #d9a229 !important;
-            transform: translateY(-2px);
-            box-shadow: 0 6px 8px rgba(0,0,0,0.15);
-        }
-        
-        /* Table of Contents & Comparison Table Styling */
-        .toc a {
-            color: #2E5A88;
-            text-decoration: none;
-            transition: color 0.3s;
-        }
-        .toc a:hover {
-            color: #F5B82E;
-            text-decoration: underline;
-        }
-        .comparison-table th, .comparison-table td {
-            padding: 0.75rem 1rem;
-            text-align: left;
-            border-bottom: 1px solid #e5e7eb;
-        }
-        .comparison-table th {
-            background-color: #f9fafb;
-            font-weight: 600;
-        }
-        .comparison-table .fa-check-circle {
-            color: #16a34a; /* Green */
-        }
-    </style>
+
+
+
     
     <!-- Schema Markup - FIXED -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "11 Best Probiotics for IBS in Canada (2026) - IBS-D, IBS-C, Mixed",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.9",
-        "bestRating": "5"
-      },
-      "itemReviewed": {
-        "@type": "ProductGroup",
-        "name": "11 Best Probiotics for IBS in Canada (2026) - IBS-D, IBS-C, Mixed",
-        "description": "These are the best probiotic supplements for IBS to give you relief from bloating, pain, constipation, or diarrhea. No more needing to know every bathroom!",
-        "hasVariant": [
-          {
-            "@type": "Product",
-            "name": "Seed DS-01 Daily Synbiotic",
-            "description": "A leading synbiotic (prebiotic + probiotic) with 24 clinically-studied strains for comprehensive gut health and relief from general IBS symptoms.",
-            "brand": {
-                "@type": "Brand",
-                "name": "Seed"
-            },
-            "offers": {
-                "@type": "Offer",
-                "url": "https://seedhealthinc.pxf.io/1rNjng",
-                "priceCurrency": "USD",
-                "price": "49.99"
-            }
-          },
-          {
-            "@type": "Product",
-            "name": "Culturelle Daily Probiotic",
-            "description": "A budget-friendly probiotic featuring the most studied strain for IBS diarrhea (IBS-D), Lactobacillus rhamnosus GG.",
-            "brand": {
-                "@type": "Brand",
-                "name": "Culturelle"
-            },
-            "offers": {
-                "@type": "Offer",
-                "url": "https://amzn.to/3VAwUZx",
-                "priceCurrency": "CAD",
-                "price": "29.99"
-            }
-          },
-          {
-            "@type": "Product",
-            "name": "Align Probiotic Digestive Supplement",
-            "description": "An affordable probiotic with the clinically studied Bifidobacterium infantis strain for relief from IBS constipation (IBS-C) and bloating.",
-            "brand": {
-                "@type": "Brand",
-                "name": "Align"
-            },
-            "offers": {
-                "@type": "Offer",
-                "url": "https://amzn.to/3AYMQvb",
-                "priceCurrency": "CAD",
-                "price": "34.99"
-            }
-          }
-        ]
-      }
-    }
-    </script>
+
     <!-- FAQPage Schema -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [{
-        "@type": "Question",
-        "name": "What is the most effective probiotic for IBS?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "It varies by individual. However, Seed DS-01 is our top recommendation for most people due to its broad range of clinically-studied strains. For severe cases, VSL#3 is often considered the most effective medical-grade option."
-        }
-      },{
-        "@type": "Question",
-        "name": "What are the best probiotic strains for IBS?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "For IBS-D (diarrhea), look for Lactobacillus rhamnosus GG and Saccharomyces boulardii. For IBS-C (constipation), strains like Bifidobacterium infantis and Bifidobacterium lactis are highly effective."
-        }
-      },{
-        "@type": "Question",
-        "name": "Can probiotic yogurt help with IBS?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes, probiotic yogurt and other probiotic foods can be beneficial, but they're often not potent enough for significant IBS relief. A targeted probiotic supplement is generally a more effective strategy."
-        }
-      },{
-        "@type": "Question",
-        "name": "How long does it take for probiotics to work for IBS?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "While some people notice improvements within a few days, it typically takes 4-8 weeks of consistent, daily use to see significant changes."
-        }
-      }]
-    }
-    </script>
+
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
         
@@ -674,4 +487,3 @@ seoTitle: '11 Best Probiotics for IBS in Canada (2026) - IBS-D, IBS-C, Mixed'
         <a href="https://seedhealthinc.pxf.io/1rNjng" target="_blank" class="affiliate-button w-full mb-2">Get Rid Of IBS With Seed Probiotic</a>
         <p class="text-white text-sm">Use code "SYNCTHERAPY" for 15% off</p>
     </div>
-<!-- /wp:html -->

@@ -9,186 +9,18 @@ description: >-
 seoTitle: 'Red Light Therapy for Back Pain: LED Treatment for Pain Relief'
 ---
 
-<!-- wp:html -->
 <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     
-    <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-    <style>
-        /* Custom styles based on the new design template */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5; /* Neutral-Light */
-            color: #333333; /* Neutral-Dark */
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        /* Custom color classes */
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        .border-accent { border-color: #F5B82E; }
-        
-        /* Heading styles */
-        h1, h2, h3, h4 {
-            color: #2E5A88; /* Deep serene blue */
-            font-weight: 700;
-        }
-        h2 {
-            border-left: 4px solid #F5B82E; /* Warm gold accent */
-            padding-left: 1rem;
-            margin-bottom: 1.5rem;
-            margin-top: 2.5rem;
-            font-size: 1.875rem; /* text-3xl */
-        }
-        h3 {
-            margin-bottom: 0.5rem;
-            font-size: 1.5rem; /* text-2xl */
-        }
-        h4 {
-            font-size: 1.25rem; /* text-xl */
-            margin-bottom: 0.5rem;
-        }
 
-        /* Affiliate button style */
-        body .affiliate-button {
-            background-color: #F5B82E !important;
-            color: #333333 !important;
-            font-weight: 700 !important;
-            transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.85rem 1.5rem !important;
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-            width: 100%;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-        }
-        body .affiliate-button:hover {
-            background-color: #d9a229 !important;
-            transform: translateY(-3px);
-            box-shadow: 0 7px 14px rgba(0,0,0,0.1);
-        }
-        
-        /* Comparison Table Styling */
-        .comparison-table th, .comparison-table td {
-            padding: 1rem;
-            text-align: center;
-            border-bottom: 1px solid #e5e7eb;
-            vertical-align: middle;
-        }
-        .comparison-table th {
-            background-color: #f9fafb;
-            font-weight: 600;
-            text-align: left;
-        }
-        .comparison-table td:first-child {
-            font-weight: 600;
-            text-align: left;
-        }
-        .comparison-table .fa-check-circle {
-            color: #16a34a; /* Green */
-            font-size: 1.5rem;
-        }
-        .comparison-table .fa-times-circle {
-            color: #dc2626; /* Red */
-            font-size: 1.5rem;
-        }
-        .comparison-table .product-image {
-            width: 100px;
-            height: 100px;
-            object-fit: contain;
-            margin: 0 auto;
-        }
-        .best-for-tag {
-            display: inline-block;
-            background-color: #e0f2fe;
-            color: #0c4a6e;
-            padding: 0.25rem 0.75rem;
-            border-radius: 9999px;
-            font-size: 0.875rem;
-            font-weight: 500;
-            margin-bottom: 1rem;
-        }
-    </style>
+
+
+
     
     <!-- Schema Markup -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "headline": "Red Light Therapy for Back Pain: LED Treatment for Pain Relief",
-      "image": "/uploads/2025/06/MitoPRO_1500Xontheback.webp",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Sync Therapy",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://placehold.co/200x60/2E5A88/FFFFFF?text=Sync+Therapy"
-        }
-      },
-      "datePublished": "2025-07-15",
-      "dateModified": "2025-07-15",
-      "description": "Discover how red light therapy can provide effective, non-invasive relief for chronic back pain. Our 2026 guide reviews the best devices for home use in Canada and explores its effects on sciatica, inflammation, and more."
-    }
-    </script>
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [{
-        "@type": "Question",
-        "name": "Does red light therapy really work for back pain?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes. Numerous red light therapy studies and clinical experiences confirm that it is effective for back pain. It works by reducing inflammation, increasing circulation, and promoting cellular repair at the source of the pain, making it a powerful, non-invasive treatment."
-        }
-      },{
-        "@type": "Question",
-        "name": "How long does it take to see results?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Results vary. Some users, particularly with acute pain, may feel relief after just one session. For chronic conditions, it typically takes 4-12 weeks of consistent use (3-5 times per week) to see significant, lasting results."
-        }
-      },{
-        "@type": "Question",
-        "name": "Is red light therapy good for herniated discs?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes, red light therapy can be beneficial for herniated discs. By reducing inflammation around the affected nerve and promoting healing in the surrounding tissues, it can help alleviate pain and improve function associated with disc issues."
-        }
-      },{
-        "@type": "Question",
-        "name": "Is infrared light therapy dangerous for skin?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "When used correctly, infrared and red light therapy are very safe for the skin. The light does not contain harmful UV rays. Always follow the manufacturer's instructions for session duration and distance to prevent any risk of minor heat discomfort or burns. High-quality, FDA-cleared devices are designed for safety."
-        }
-      },{
-        "@type": "Question",
-        "name": "Can I use red light therapy for my dog's back pain?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes, red light therapy for dog back pain is a growing field in veterinary medicine. The same principles of reducing inflammation and promoting healing apply. Many vets use RLT for arthritis, joint pain, and post-surgical recovery in animals. Always consult with your veterinarian before starting any new treatment for your pet to ensure it's appropriate and to get guidance on dosage and application."
-        }
-      }]
-    }
-    </script>
+
+
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
         
@@ -599,7 +431,6 @@ seoTitle: 'Red Light Therapy for Back Pain: LED Treatment for Pain Relief'
             </section>
         </main>
     </div>
-<!-- /wp:html -->
 
 <!-- wp:paragraph -->
 <p></p>

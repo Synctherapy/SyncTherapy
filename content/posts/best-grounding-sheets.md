@@ -9,7 +9,6 @@ description: >-
 seoTitle: 5 Best Grounding Sheets in Canada (2026) | Do They Work?
 ---
 
-<!-- wp:html -->
 <!-- Performance: Preconnect to required origins -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -24,170 +23,13 @@ seoTitle: 5 Best Grounding Sheets in Canada (2026) | Do They Work?
     
     <!-- Performance: Asynchronously load Font Awesome to prevent render-blocking -->
     <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"></noscript>
+    <noscript></noscript>
 
-    <style>
-        /* Custom styles based on the new design template */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5; /* Neutral-Light */
-            color: #333333; /* Neutral-Dark */
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        /* Custom color classes */
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        .border-accent { border-color: #F5B82E; }
-        
-        /* Heading styles */
-        h1, h2, h3 {
-            color: #2E5A88; /* Deep serene blue */
-            font-weight: 700;
-        }
-        h2 {
-            border-left: 4px solid #F5B82E; /* Warm gold accent */
-            padding-left: 1rem;
-            margin-bottom: 1.5rem;
-            margin-top: 2rem;
-        }
-        h3 {
-            margin-bottom: 0.5rem;
-        }
 
-        /* Affiliate button style */
-        body .affiliate-button {
-            background-color: #F5B82E !important;
-            color: #333333 !important;
-            font-weight: 600 !important;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.75rem 1.5rem !important;
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-        }
-        body .affiliate-button:hover {
-            background-color: #d9a229 !important;
-            transform: translateY(-2px);
-        }
-        
-        /* Comparison Table Styling */
-        .comparison-table th, .comparison-table td {
-            padding: 0.75rem 1rem;
-            text-align: left;
-            border-bottom: 1px solid #e5e7eb;
-        }
-        .comparison-table th {
-            background-color: #f9fafb;
-            font-weight: 600;
-        }
-        .comparison-table .fa-check-circle {
-            color: #16a34a; /* Green */
-        }
-        .comparison-table .fa-times-circle {
-            color: #dc2626; /* Red */
-        }
-    </style>
     
     <!-- Schema Markup -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "5 Best Grounding Sheets in Canada (2026) Try These Ones Today",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.7",
-        "bestRating": "5"
-      },
-      "itemReviewed": {
-        "@type": "ProductGroup",
-        "name": "Grounding Sheets",
-        "hasVariant": [
-          {
-            "@type": "Product",
-            "name": "Terra Grounding Bed Sheet",
-            "brand": { "@type": "Brand", "name": "Terra" },
-            "description": "An innovative bedding solution designed to connect you to the earth's natural energy for reduced pain and improved sleep."
-          },
-          {
-            "@type": "Product",
-            "name": "Grooni Earthing Grounding Mat",
-            "brand": { "@type": "Brand", "name": "Grooni" },
-            "description": "A premium wellness sleep mat designed to reconnect you with the Earth, fight stress, and improve mood and energy levels."
-          },
-          {
-            "@type": "Product",
-            "name": "Earthing Elite Sleep Mat Kit",
-            "brand": { "@type": "Brand", "name": "Earthing" },
-            "description": "A high-quality earthing sheet kit designed to reduce pain and chronic inflammation for a restful sleep environment."
-          },
-          {
-            "@type": "Product",
-            "name": "PANBMAO Grounding Fitted Sheet",
-            "brand": { "@type": "Brand", "name": "PANBMAO" },
-            "description": "A top choice from Amazon for improved sleep and reduced pain, crafted from fine thread to connect you with the earth."
-          },
-          {
-            "@type": "Product",
-            "name": "Earthing Harmony Grounding Sheets",
-            "brand": { "@type": "Brand", "name": "Earthing Harmony" },
-            "description": "Grounding sheets that prioritize harmonious sleep by connecting your body to the earth's natural energy."
-          }
-        ]
-      }
-    }
-    </script>
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the top-rated grounding sheets according to consumer reports?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Consumer reports often list brands like Earthing, GroundLuxe, and BioEnergy as top picks. These sheets get high marks for comfort and perceived benefits. Users report improved sleep and reduced pain."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do grounding bed sheets operate, and do they really work?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Grounding sheets connect to the Earth's surface through a wire that plugs into the ground port of an electrical outlet. They aim to transfer electrons from the ground to the body. Some studies suggest grounding may reduce inflammation and improve blood flow."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can grounding sheets pose any dangers or side effects?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Grounding sheets are generally safe for most people. Some users report tingling sensations at first. It's wise to consult a doctor if you have any health concerns or use medical devices like pacemakers."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What materials are considered best for high-quality grounding sheets?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "High-quality grounding sheets often use silver or carbon fibers woven into cotton. These materials conduct electricity well. Pure silver threading is prized for its superior conductivity and natural antimicrobial properties."
-          }
-        }
-      ]
-    }
-    </script>
+
+
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
         
@@ -576,4 +418,3 @@ seoTitle: 5 Best Grounding Sheets in Canada (2026) | Do They Work?
 
         </main>
     </div>
-<!-- /wp:html -->

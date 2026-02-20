@@ -9,169 +9,18 @@ description: >-
 seoTitle: 'Red Light Therapy for Cold Sores (2026): Heal Faster'
 ---
 
-<!-- wp:html -->
-<!-- wp:html -->
     
     <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     
-    <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-    <style>
-        /* Custom styles based on the design template */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5; /* Neutral-Light */
-            color: #333333; /* Neutral-Dark */
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        /* Custom color classes */
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        .border-accent { border-color: #F5B82E; }
-        
-        /* Heading styles */
-        h2 {
-            border-left: 4px solid #F5B82E; /* Warm gold accent */
-            padding-left: 1rem;
-            margin-bottom: 1.5rem;
-            margin-top: 2.5rem;
-            font-size: 1.875rem;
-            font-weight: 700;
-            color: #2E5A88;
-        }
-        h3 {
-            margin-bottom: 0.75rem;
-            font-size: 1.5rem;
-            font-weight: 700;
-            color: #2E5A88;
-        }
 
-        /* Affiliate button style */
-        body .affiliate-button {
-            background-color: #F5B82E !important;
-            color: #333333 !important;
-            font-weight: 700 !important;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.875rem 1.75rem !important;
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-        }
-        body .affiliate-button:hover {
-            background-color: #d9a229 !important;
-            transform: translateY(-2px);
-            box-shadow: 0 6px 8px rgba(0,0,0,0.15);
-        }
-        
-        /* New Visual Comparison Table Styling */
-        .visual-comparison-table {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 1.5rem;
-        }
-        .product-column {
-            background-color: white;
-            border-radius: 0.75rem;
-            padding: 1.5rem;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-            border-top: 4px solid #2E5A88;
-            display: flex;
-            flex-direction: column;
-        }
-        .product-column.best-value {
-            border-top-color: #F5B82E;
-        }
-        .product-column h3 {
-            font-size: 1.25rem;
-            margin-bottom: 1rem;
-            text-align: center;
-        }
-        .product-column ul {
-            list-style: none;
-            padding: 0;
-            flex-grow: 1;
-        }
-        .product-column li {
-            display: flex;
-            align-items: center;
-            margin-bottom: 0.75rem;
-            font-size: 0.9rem;
-        }
-        .product-column .fa-check-circle {
-            color: #16a34a;
-            margin-right: 0.5rem;
-        }
-         .product-column .fa-star {
-            color: #F5B82E;
-            margin-right: 0.5rem;
-        }
-        .product-column .btn-container {
-            margin-top: 1.5rem;
-        }
 
-        /* Responsive Video Container */
-        .video-container {
-            position: relative;
-            padding-bottom: 56.25%; /* 16:9 aspect ratio */
-            height: 0;
-            overflow: hidden;
-            max-width: 100%;
-            background: #000;
-            border-radius: 0.5rem;
-            margin-top: 1.5rem;
-        }
-        .video-container iframe {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-        }
-    </style>
+
+
     
     <!-- Schema Markup -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "name": "Red Light Therapy for Cold Sores: The Ultimate Guide",
-      "headline": "Red Light Therapy for Cold Sores: Benefits, Science & Best Devices",
-      "author": {
-        "@type": "Person",
-        "name": "Sync Therapy Team",
-        "url": "https://synctherapylocal.local",
-        "affiliation": {
-            "@type": "Organization",
-            "name": "Sync Therapy"
-        }
-      },
-      "datePublished": "2025-07-02",
-      "publisher": {
-        "@type": "Organization",
-        "name": "Sync Therapy",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://placehold.co/200x60/2E5A88/FFFFFF?text=Sync+Therapy"
-        }
-      },
-      "about": "Red Light Therapy for Herpes Labialis"
-    }
-    </script>
+
 </head>
 <body class="bg-neutral-light">
 
@@ -453,5 +302,3 @@ seoTitle: 'Red Light Therapy for Cold Sores (2026): Heal Faster'
 
         </main>
     </div>
-<!-- /wp:html -->
-<!-- /wp:html -->

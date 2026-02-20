@@ -9,120 +9,16 @@ description: >-
 seoTitle: Best Red Light Therapy Panels (2026 Buyer's Guide)
 ---
 
-<!-- wp:html -->
 <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     
-    <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-    <style>
-        /* Custom styles based on the provided color palette */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5; /* Neutral-Light */
-            color: #333333; /* Neutral-Dark */
-        }
-        /* Custom color classes for Tailwind */
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .hover\\:bg-primary-dark:hover { background-color: #25486e; }
 
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        .border-accent { border-color: #F5B82E; }
-        .hover\\:bg-accent-dark:hover { background-color: #d9a229; }
 
-        .bg-neutral-light { background-color: #F4F7F5; }
-        .bg-neutral-dark { background-color: #333333; }
-        
-        /* Smooth scrolling for jump links */
-        html {
-            scroll-behavior: smooth;
-        }
 
-        /* Styling for headings */
-        h1, h2, h3 {
-            color: #2E5A88; /* Deep serene blue */
-            font-weight: 700;
-        }
-        
-        h2 {
-           border-left: 4px solid #F5B82E; /* Warm gold accent */
-           padding-left: 1rem;
-        }
 
-        /* Affiliate button style - more specific selector */
-        body .affiliate-button {
-            background-color: #F5B82E !important;
-            color: #333333 !important;
-            font-weight: 600 !important;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.75rem 1.5rem !important;
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-        }
-        body .affiliate-button:hover {
-            background-color: #d9a229 !important;
-            color: #333333 !important;
-            transform: translateY(-2px);
-        }
-        
-        /* Comparison Table Styling */
-        .comparison-table th, .comparison-table td {
-            padding: 0.75rem 1rem;
-            text-align: left;
-            border-bottom: 1px solid #e5e7eb;
-        }
-        .comparison-table th {
-            background-color: #f9fafb;
-        }
-    </style>
     <!-- FAQPage Schema -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [{
-        "@type": "Question",
-        "name": "How long does it take to see results from red light therapy?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Results vary depending on the condition being treated and individual factors. Some users report feeling benefits like pain relief after a few sessions, while skin improvements like reduced wrinkles may take 8-12 weeks of consistent use. Consistency is key."
-        }
-      },{
-        "@type": "Question",
-        "name": "Is red light therapy safe to use at home?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes, red light therapy is considered safe for home use. The best red light therapy panels are FDA-cleared as Class II medical devices and have low EMF output. It's non-invasive and does not use UV light. Always follow the manufacturer's instructions for session duration and distance."
-        }
-      },{
-        "@type": "Question",
-        "name": "Can I use a red light therapy panel every day?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Most manufacturers recommend using the panel 3-5 times per week for 10-20 minutes per session. Daily use is generally safe, but it's important to give your body time to respond to the therapy. Check the guidelines for your specific device."
-        }
-      },{
-        "@type": "Question",
-        "name": "What is the difference between red light and near-infrared light?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Red light (typically 630-660nm) is best for skin-level issues like improving collagen, reducing wrinkles, and healing wounds. Near-infrared light (typically 810-850nm) penetrates deeper into the body, making it more effective for joint pain, muscle recovery, and inflammation."
-        }
-      }]
-    }
-    </script>
+
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-4 pb-8">
 
@@ -463,4 +359,3 @@ seoTitle: Best Red Light Therapy Panels (2026 Buyer's Guide)
             </main>
         </div>
     </div>
-<!-- /wp:html -->

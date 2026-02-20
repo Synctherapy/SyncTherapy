@@ -9,195 +9,17 @@ description: >-
 seoTitle: 12 Best At-Home Red Light Devices in Canada (2026)
 ---
 
-<!-- wp:html -->
 <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     
-    <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-    <style>
-        /* Custom styles based on the new design template */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5; /* Neutral-Light */
-            color: #333333; /* Neutral-Dark */
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        /* Custom color classes */
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        .border-accent { border-color: #F5B82E; }
-        
-        /* Heading styles */
-        h1, h2, h3 {
-            color: #2E5A88; /* Deep serene blue */
-            font-weight: 700;
-        }
-        h2 {
-            border-left: 4px solid #F5B82E; /* Warm gold accent */
-            padding-left: 1rem;
-            margin-bottom: 1.5rem;
-            margin-top: 2rem;
-        }
-        h3 {
-            margin-bottom: 0.5rem;
-        }
 
-        /* Affiliate button style */
-        body .affiliate-button {
-            background-color: #F5B82E !important;
-            color: #333333 !important;
-            font-weight: 600 !important;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.75rem 1.5rem !important;
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-        }
-        body .affiliate-button:hover {
-            background-color: #d9a229 !important;
-            transform: translateY(-2px);
-        }
-        
-        /* Comparison Table Styling */
-        .comparison-table th, .comparison-table td {
-            padding: 0.75rem 1rem;
-            text-align: left;
-            border-bottom: 1px solid #e5e7eb;
-        }
-        .comparison-table th {
-            background-color: #f9fafb;
-            font-weight: 600;
-        }
-        .comparison-table .fa-check-circle {
-            color: #16a34a; /* Green */
-        }
-        .comparison-table .fa-times-circle {
-            color: #dc2626; /* Red */
-        }
-    </style>
+
+
+
     
     <!-- Advanced Schema Markup -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "BlogPosting",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://synctherapylocal.local/blogs/red-light-therapy/best-at-home-red-light-therapy-devices"
-      },
-      "headline": "13 Best At-Home Red Light Therapy Devices in Canada (2024)",
-      "description": "Searching for the best red light therapy at home in Canada? Our 2024 expert reviews compare the strongest red light therapy devices for professional results.",
-      "image": "/uploads/content/5MAneOWlSheTWiKcrL5j.webp",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Sync Therapy",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://synctherapylocal.local/path/to/logo.png"
-        }
-      },
-      "datePublished": "2024-07-08",
-      "dateModified": "2024-07-08",
-      "review": {
-        "@type": "Review",
-        "name": "The 13 Best At-Home Red Light Therapy Devices of 2024",
-        "reviewRating": {
-          "@type": "Rating",
-          "ratingValue": "4.9",
-          "bestRating": "5"
-        },
-        "author": {
-          "@type": "Organization",
-          "name": "Sync Therapy"
-        },
-        "itemReviewed": {
-          "@type": "ProductGroup",
-          "name": "Red Light Therapy Devices",
-          "hasVariant": [
-            { "@type": "Product", "name": "Kala Red Light Face Mask" },
-            { "@type": "Product", "name": "PlatinumLED BIOMAX Series" },
-            { "@type": "Product", "name": "Rouge G4 Series" },
-            { "@type": "Product", "name": "HigherDOSE Red Light Face Mask" },
-            { "@type": "Product", "name": "SolaWave 4-in-1 Skincare Wand" },
-            { "@type": "Product", "name": "Recharge Health FlexBeam" },
-            { "@type": "Product", "name": "MitoADAPT 2.0 Series" },
-            { "@type": "Product", "name": "Mito Red Light Advanced Red Light Therapy Belt" },
-            { "@type": "Product", "name": "MitoMIN 2.0 | Mito Red Light" },
-            { "@type": "Product", "name": "Kala Red Light Elite Panel" },
-            { "@type": "Product", "name": "iRESTORE Elite" },
-            { "@type": "Product", "name": "Infraredi LED Light Therapy Mask" },
-            { "@type": "Product", "name": "Omnilux Contour FACE" }
-          ]
-        }
-      },
-      "mainEntity": [
-        {
-          "@type": "Product",
-          "name": "Kala Red Light Face Mask",
-          "image": "/uploads/2025/06/thekalaredlighttherapymaskincanada.webp",
-          "description": "The Kala Red Light Face Mask is a high-power, economical, and size-friendly red light therapy panel that helps reduce wrinkles and fine lines, promote collagen production, and reduce inflammation in the skin.",
-          "brand": {
-            "@type": "Brand",
-            "name": "Kala"
-          },
-          "review": {
-            "@type": "Review",
-            "reviewRating": {
-              "@type": "Rating",
-              "ratingValue": "4.8",
-              "bestRating": "5"
-            },
-            "author": {
-              "@type": "Organization",
-              "name": "Sync Therapy"
-            },
-            "reviewBody": "An excellent choice for facial rejuvenation, offering impressive power and a user-friendly design at an accessible price point. A top pick for Canadians."
-          }
-        },
-        {
-          "@type": "Product",
-          "name": "Rouge G4 Series",
-          "image": "/uploads/2025/06/rouge-tabletop-g4-678166.webp",
-          "description": "The Rouge G4 series is one of the strongest red light therapy devices for at-home use, packed with professional-grade features for a fully customized experience.",
-          "brand": {
-            "@type": "Brand",
-            "name": "Rouge"
-          },
-          "review": {
-            "@type": "Review",
-            "reviewRating": {
-              "@type": "Rating",
-              "ratingValue": "4.9",
-              "bestRating": "5"
-            },
-            "author": {
-              "@type": "Organization",
-              "name": "Sync Therapy"
-            },
-            "reviewBody": "For those seeking maximum power and customizability, the Rouge G4 is unparalleled. Its high irradiance and 8-wavelength system make it the strongest red light therapy device we've reviewed for home use."
-          }
-        }
-      ]
-    }
-    </script>
+
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
         
@@ -251,7 +73,6 @@ seoTitle: 12 Best At-Home Red Light Devices in Canada (2026)
                     <li><a href="#faq" class="font-semibold text-primary hover:underline">Frequently Asked Questions</a></li>
                 </ul>
             </section>
-
 
             <!-- Top Picks Section -->
             <section id="top-picks">
@@ -436,7 +257,6 @@ seoTitle: 12 Best At-Home Red Light Devices in Canada (2026)
                     </div>
                 </div>
 
-
             </section>
             
             <!-- NEW Benefits Section -->
@@ -606,4 +426,3 @@ seoTitle: 12 Best At-Home Red Light Devices in Canada (2026)
 
         </main>
     </div>
-<!-- /wp:html -->

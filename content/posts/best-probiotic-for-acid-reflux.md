@@ -9,140 +9,17 @@ description: >-
 seoTitle: Best Probiotic for Acid Reflux & Best Supplements For Acid Reflux
 ---
 
-<!-- wp:html -->
 <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     
-    <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-    <style>
-        /* Custom styles based on the new design template */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5; /* Neutral-Light */
-            color: #333333; /* Neutral-Dark */
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        /* Custom color classes */
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        .border-accent { border-color: #F5B82E; }
-        
-        /* Heading styles */
-        h1, h2, h3 {
-            color: #2E5A88; /* Deep serene blue */
-            font-weight: 700;
-        }
-        h2 {
-            border-left: 4px solid #F5B82E; /* Warm gold accent */
-            padding-left: 1rem;
-            margin-bottom: 1.5rem;
-            margin-top: 2rem;
-        }
-        h3 {
-            margin-bottom: 0.5rem;
-        }
 
-        /* Affiliate button style */
-        body .affiliate-button {
-            background-color: #F5B82E !important;
-            color: #333333 !important;
-            font-weight: 700 !important;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.85rem 1.5rem !important;
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-        }
-        body .affiliate-button:hover {
-            background-color: #d9a229 !important;
-            transform: translateY(-3px);
-            box-shadow: 0 6px 8px rgba(0,0,0,0.15);
-        }
-        
-        /* Comparison Table Styling */
-        .comparison-table th, .comparison-table td {
-            padding: 1rem;
-            text-align: center;
-            vertical-align: middle;
-            border-bottom: 1px solid #e5e7eb;
-        }
-        .comparison-table th {
-            background-color: #f9fafb;
-            font-weight: 600;
-        }
-        .comparison-table .fa-star { color: #F5B82E; }
-        .comparison-table img { max-height: 80px; margin: 0 auto; }
-        
-        /* Discount Code Box */
-        .discount-box {
-            border: 2px dashed #F5B82E;
-            padding: 0.5rem 1rem;
-            border-radius: 0.5rem;
-            text-align: center;
-            margin-top: 0.75rem;
-            background-color: #fefce8;
-        }
-        .discount-box strong {
-            color: #2E5A88;
-        }
-    </style>
+
+
+
     
     <!-- Schema Markup -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "Best Probiotic for Acid Reflux & Best Supplements For Acid Reflux",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.9",
-        "bestRating": "5"
-      },
-      "itemReviewed": {
-        "@type": "ProductGroup",
-        "name": "Probiotics for Acid Reflux",
-        "hasVariant": [
-          {
-            "@type": "Product",
-            "name": "Microbiome Labs MegaGuard",
-            "description": "A comprehensive supplement for acid reflux, GERD, and healthy H. pylori levels.",
-            "brand": "Microbiome Labs"
-          },
-          {
-            "@type": "Product",
-            "name": "Seed DS-01 Daily Synbiotic",
-            "description": "A synbiotic (prebiotic + probiotic) for overall digestive health, which can help with occasional acid reflux.",
-            "brand": "Seed"
-          },
-          {
-            "@type": "Product",
-            "name": "Microbiome Labs PyloGuard",
-            "description": "A targeted probiotic for managing GERD, especially in the presence of H. pylori.",
-            "brand": "Microbiome Labs"
-          }
-        ]
-      }
-    }
-    </script>
+
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
         
@@ -377,4 +254,3 @@ seoTitle: Best Probiotic for Acid Reflux & Best Supplements For Acid Reflux
 
         </main>
     </div>
-<!-- /wp:html -->

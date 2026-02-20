@@ -9,143 +9,16 @@ description: >-
 seoTitle: Dana White Hydrogen Water Secret On How It Improved His Health
 ---
 
-<!-- wp:html -->
 <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     
-    <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-    <style>
-        /* Custom styles based on the new design template */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5; /* Neutral-Light */
-            color: #333333; /* Neutral-Dark */
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        /* Custom color classes */
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        .border-accent { border-color: #F5B82E; }
-        
-        /* Heading styles */
-        h1, h2, h3 {
-            color: #2E5A88; /* Deep serene blue */
-            font-weight: 700;
-        }
-        h2 {
-            border-left: 4px solid #F5B82E; /* Warm gold accent */
-            padding-left: 1rem;
-            margin-bottom: 1.5rem;
-            margin-top: 2.5rem;
-            font-size: 1.75rem;
-            line-height: 2.25rem;
-        }
-        h3 {
-            margin-bottom: 0.5rem;
-            font-size: 1.25rem;
-            line-height: 1.75rem;
-        }
 
-        /* Affiliate button style */
-        body .affiliate-button {
-            background-color: #F5B82E !important;
-            color: #333333 !important;
-            font-weight: 700 !important;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.85rem 2rem !important;
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-        }
-        body .affiliate-button:hover {
-            background-color: #d9a229 !important;
-            transform: translateY(-2px);
-            box-shadow: 0 6px 12px rgba(0,0,0,0.15);
-        }
 
-        /* Secondary Button Style */
-        body .secondary-button {
-            background-color: #2E5A88 !important;
-            color: #FFFFFF !important;
-            font-weight: 600 !important;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.75rem 1.5rem !important;
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-        }
-        body .secondary-button:hover {
-            background-color: #25476a !important;
-            transform: translateY(-2px);
-        }
-        
-        /* Embedded Video Responsive Styling */
-        .video-container {
-            position: relative;
-            padding-bottom: 56.25%; /* 16:9 aspect ratio */
-            height: 0;
-            overflow: hidden;
-            max-width: 100%;
-            background: #000;
-            border-radius: 0.5rem;
-            margin: 1.5rem 0;
-        }
-        .video-container iframe {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-        }
 
-    </style>
+
     
     <!-- Schema Markup -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "headline": "Dana White Hydrogen Water Secret On How It Improved His Health",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "datePublished": "2025-07-29",
-      "dateModified": "2025-07-29",
-      "image": "/uploads/content/Dana_white_hydrogen_water_bottle_that_gary_brecka_talks_about_on_Joe_rogan.webp",
-      "publisher": {
-        "@type": "Organization",
-        "name": "Sync Therapy",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://synctherapylocal.local/logo.png" 
-        }
-      },
-      "description": "Dana White tells about Hydrogen Water and how it's changed his live. Learn about the Dana White Hydrogen water suggestion in 2026",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://synctherapylocal.local/dana-white-hydrogen-water-bottle"
-      }
-    }
-    </script>
 
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
@@ -352,4 +225,3 @@ seoTitle: Dana White Hydrogen Water Secret On How It Improved His Health
 
         </main>
     </div>
-<!-- /wp:html -->

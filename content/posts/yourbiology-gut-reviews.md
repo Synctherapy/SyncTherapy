@@ -9,122 +9,17 @@ description: >-
 seoTitle: 'YourBiology Gut+ Reviews: Is It A Good Womens Probiotic in 2026?'
 ---
 
-<!-- wp:html -->
 <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     
-    <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-    <style>
-        /* Custom styles based on the design template */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5; /* Neutral-Light */
-            color: #333333; /* Neutral-Dark */
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        /* Custom color classes */
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        .border-accent { border-color: #F5B82E; }
-        
-        /* Heading styles */
-        h2, h3 {
-            color: #2E5A88; /* Deep serene blue */
-            font-weight: 700;
-        }
-        h2 {
-            border-left: 4px solid #F5B82E; /* Warm gold accent */
-            padding-left: 1rem;
-            margin-bottom: 1.5rem;
-            margin-top: 2.5rem;
-        }
-        h3 {
-            margin-bottom: 0.5rem;
-        }
 
-        /* Affiliate button style */
-        body .affiliate-button {
-            background-color: #F5B82E !important;
-            color: #333333 !important;
-            font-weight: 700 !important; /* Bolder font */
-            transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 1rem 2rem !important; /* Larger padding */
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-            box-shadow: 0 4px 14px 0 rgba(0,0,0,0.1);
-            text-transform: uppercase; /* Uppercase for more impact */
-            letter-spacing: 0.5px;
-        }
-        body .affiliate-button:hover {
-            background-color: #d9a229 !important;
-            transform: translateY(-3px);
-            box-shadow: 0 7px 20px 0 rgba(0,0,0,0.15);
-        }
-        /* Secondary button style for pricing table */
-        body .secondary-button {
-            background-color: #e0e7ff !important;
-            color: #2E5A88 !important;
-        }
-        body .secondary-button:hover {
-            background-color: #c7d2fe !important;
-        }
 
-        /* Comparison Table */
-        .comparison-table .fa-check-circle { color: #22c55e; }
-        .comparison-table .fa-times-circle { color: #ef4444; }
-        .comparison-table th, .comparison-table td { padding: 1rem; border-bottom: 1px solid #e5e7eb; }
-        .comparison-table tr:nth-child(even) { background-color: #f9fafb; }
 
-    </style>
+
     
     <!-- Schema Markup -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "YourBiology Gut+ Reviews: Is It A Good Womens Probiotic in 2026?",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.7",
-        "bestRating": "5"
-      },
-      "itemReviewed": {
-        "@type": "Product",
-        "name": "YourBiology Gut+",
-        "description": "A high-quality probiotic and prebiotic supplement with 20 billion CFUs and 10 live strains, designed to improve digestion, balance gut flora, and enhance overall wellness, particularly for women.",
-        "brand": {
-          "@type": "Brand",
-          "name": "YourBiology"
-        },
-        "image": "/uploads/content/yourbiology-gut-review.jpg",
-        "offers": {
-          "@type": "Offer",
-          "url": "https://www.wb22trk.com/KHZKTN3/41NTW2/?uid=2190",
-          "priceCurrency": "USD",
-          "price": "79.99"
-        }
-      }
-    }
-    </script>
+
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
         
@@ -352,4 +247,3 @@ seoTitle: 'YourBiology Gut+ Reviews: Is It A Good Womens Probiotic in 2026?'
 
         </main>
     </div>
-<!-- /wp:html -->

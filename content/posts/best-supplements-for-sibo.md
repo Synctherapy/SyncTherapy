@@ -9,145 +9,17 @@ description: >-
 seoTitle: 'Best SIBO Supplements 2026: Expert Protocol (Methane/Hydrogen)'
 ---
 
-<!-- wp:html -->
 <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     
-    <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-    <style>
-        /* Custom styles based on the new design template */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5; /* Neutral-Light */
-            color: #333333; /* Neutral-Dark */
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        /* Custom color classes */
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        .border-accent { border-color: #F5B82E; }
-        
-        /* Heading styles */
-        h2, h3 {
-            color: #2E5A88; /* Deep serene blue */
-            font-weight: 700;
-        }
-        h2 {
-            border-left: 4px solid #F5B82E; /* Warm gold accent */
-            padding-left: 1rem;
-            margin-bottom: 1.5rem;
-            margin-top: 2.5rem;
-            font-size: 1.875rem; /* text-3xl */
-        }
-        h3 {
-             margin-bottom: 0.5rem;
-             font-size: 1.5rem; /* text-2xl */
-        }
 
-        /* Affiliate button style */
-        body .affiliate-button {
-            background-color: #F5B82E !important;
-            color: #333333 !important;
-            font-weight: 700 !important;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.85rem 1.75rem !important;
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-        }
-        body .affiliate-button:hover {
-            background-color: #d9a229 !important;
-            transform: translateY(-2px);
-            box-shadow: 0 6px 8px rgba(0,0,0,0.1);
-        }
-        
-        /* Comparison Table Styling */
-        .comparison-table th, .comparison-table td {
-            padding: 1rem 1.25rem;
-            text-align: left;
-            border-bottom: 1px solid #e5e7eb;
-            vertical-align: middle;
-        }
-        .comparison-table th {
-            background-color: #f9fafb;
-            font-weight: 600;
-            color: #2E5A88;
-        }
-        .comparison-table img {
-            width: 80px;
-            height: auto;
-            margin: 0 auto;
-        }
-    </style>
+
+
+
     
     <!-- Schema Markup -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "The 7 Best SIBO Supplements of 2025",
-      "headline": "The 7 Best SIBO Supplements (2025): Clinically Proven Picks for Methane & Hydrogen",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "datePublished": "2025-07-14",
-      "dateModified": "2025-07-14",
-      "description": "Tired of SIBO symptoms? Our 2025 guide reviews the 7 best SIBO supplements, including clinically proven herbals like Candibactin AR/BR and spore probiotics. Find relief for methane & hydrogen SIBO now.",
-      "reviewBody": "Tired of SIBO symptoms? Our 2025 guide reviews the 7 best SIBO supplements, including clinically proven herbals like Candibactin AR/BR and spore probiotics. Find relief for methane & hydrogen SIBO now.",
-      "publisher": {
-        "@type": "Organization",
-        "name": "Sync Therapy",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://synctherapylocal.local/your-logo.png"
-        }
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://synctherapylocal.local/best-sibo-supplements-2025"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.8",
-        "bestRating": "5"
-      },
-      "itemReviewed": {
-        "@type": "ProductGroup",
-        "name": "SIBO Supplements",
-        "image": "/uploads/content/best-supplements-for-sibo.jpg",
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "reviewCount": "7"
-        },
-        "hasVariant": [
-          { "@type": "Product", "name": "Candibactin-AR" },
-          { "@type": "Product", "name": "Candibactin-BR" },
-          { "@type": "Product", "name": "Just Thrive Probiotic" },
-          { "@type": "Product", "name": "Megasporebiotic" },
-          { "@type": "Product", "name": "FODMATE" },
-          { "@type": "Product", "name": "PhytoCidin" },
-          { "@type": "Product", "name": "Intolerase" }
-        ]
-      }
-    }
-    </script>
+
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
         
@@ -590,4 +462,3 @@ seoTitle: 'Best SIBO Supplements 2026: Expert Protocol (Methane/Hydrogen)'
 
         </main>
     </div>
-<!-- /wp:html -->
