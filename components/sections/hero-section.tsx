@@ -44,6 +44,7 @@ export function HeroSection({
           src={image}
           alt="Registered Massage Therapist treating patient in Colwood clinic"
           fill
+          sizes="100vw"
           className="object-cover"
           priority
         />
