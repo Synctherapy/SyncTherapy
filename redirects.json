@@ -716,37 +716,37 @@
   },
   {
     "source": "/about/our-team/rmt-daryl-stubbs",
-    "destination": "/our-team/rmt-daryl-stubbs/",
+    "destination": "/our-team/daryl-stubbs/",
     "permanent": true
   },
   {
     "source": "/about/our-team/athletic-therapist-daryl-stubbs",
-    "destination": "/our-team/athletic-therapist-daryl-stubbs/",
+    "destination": "/our-team/daryl-stubbs/",
     "permanent": true
   },
   {
     "source": "/about/our-team",
-    "destination": "/our-team/",
+    "destination": "/our-team/daryl-stubbs/",
     "permanent": true
   },
   {
     "source": "/about-rmt-victoria",
-    "destination": "/our-team/rmt-daryl-stubbs/",
+    "destination": "/our-team/daryl-stubbs/",
     "permanent": true
   },
   {
     "source": "/author/daryl-stubbs",
-    "destination": "/about-daryl-stubbs/",
+    "destination": "/our-team/daryl-stubbs/",
     "permanent": true
   },
   {
     "source": "/about/daryl-stubbs-rmt",
-    "destination": "/our-team/rmt-daryl-stubbs/",
+    "destination": "/our-team/daryl-stubbs/",
     "permanent": true
   },
   {
     "source": "/pages/meet-the-team",
-    "destination": "/our-team/",
+    "destination": "/our-team/daryl-stubbs/",
     "permanent": true
   },
   {
@@ -1337,6 +1337,31 @@
   {
     "source": "/what-is-the-ph-of-reverse-osmosis-water/",
     "destination": "/best-reverse-osmosis-ro-water-filter/",
+    "permanent": true
+  },
+  {
+    "source": "/about/why-us",
+    "destination": "/about/",
+    "permanent": true
+  },
+  {
+    "source": "/our-team",
+    "destination": "/our-team/daryl-stubbs/",
+    "permanent": true
+  },
+  {
+    "source": "/about-daryl-stubbs",
+    "destination": "/our-team/daryl-stubbs/",
+    "permanent": true
+  },
+  {
+    "source": "/rmt-daryl-stubbs",
+    "destination": "/our-team/daryl-stubbs/",
+    "permanent": true
+  },
+  {
+    "source": "/our-team/athletic-therapist-daryl-stubbs",
+    "destination": "/our-team/daryl-stubbs/",
     "permanent": true
   }
 ]

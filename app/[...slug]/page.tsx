@@ -242,9 +242,9 @@ export default async function Page({ params }: Props) {
         // ─── Entity-chained Author + Publisher ─────────────────
         const authorEntity = {
             '@type': 'Person' as const,
-            '@id': 'https://www.synctherapy.ca/about-daryl-stubbs/#person',
+            '@id': 'https://www.synctherapy.ca/our-team/daryl-stubbs/#person',
             'name': 'Daryl Stubbs',
-            'url': 'https://www.synctherapy.ca/about-daryl-stubbs/',
+            'url': 'https://www.synctherapy.ca/our-team/daryl-stubbs/',
             'jobTitle': 'RMT, CAT(C), Holistic Nutritionist',
             'worksFor': { '@id': 'https://www.synctherapy.ca/#organization' },
             'sameAs': [

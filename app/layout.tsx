@@ -151,15 +151,15 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "Person",
-              "@id": "https://www.synctherapy.ca/about-daryl-stubbs/#person",
+              "@id": "https://www.synctherapy.ca/our-team/daryl-stubbs/#person",
               "name": "Daryl Stubbs",
-              "url": "https://www.synctherapy.ca/about-daryl-stubbs/",
+              "url": "https://www.synctherapy.ca/our-team/daryl-stubbs/",
               "image": "https://www.synctherapy.ca/images/daryl-stubbs-author.jpg",
               "jobTitle": "Registered Massage Therapist, Certified Athletic Therapist, Holistic Nutritionist",
-              "description": "Daryl Stubbs is the founder of Sync Massage Therapy in Colwood, BC. Specializing in musculoskeletal rehabilitation, athletic therapy, and functional nutrition.",
+              "description": "Daryl Stubbs is the founder of Sync Massage Therapy in Colwood, BC, offering musculoskeletal rehabilitation, athletic therapy, and functional nutrition.",
               "worksFor": { "@id": "https://www.synctherapy.ca/#organization" },
               "alumniOf": [
-                { "@type": "EducationalOrganization", "name": "Mount Royal University" }
+                { "@type": "EducationalOrganization", "name": "Camosun College" }
               ],
               "knowsAbout": [
                 "Massage Therapy",

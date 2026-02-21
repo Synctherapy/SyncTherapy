@@ -120,7 +120,7 @@ export default async function BlogIndex() {
             { '@type': 'Thing', 'name': 'Gut Health' },
             { '@type': 'Thing', 'name': 'Athletic Therapy' },
         ],
-        'author': { '@id': 'https://www.synctherapy.ca/about-daryl-stubbs/#person' },
+        'author': { '@id': 'https://www.synctherapy.ca/our-team/daryl-stubbs/#person' },
         'publisher': { '@id': 'https://www.synctherapy.ca/#organization' },
         'numberOfItems': posts.length,
         'mainEntity': {

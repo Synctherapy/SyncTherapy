@@ -170,7 +170,7 @@ export default function Footer() {
 
                 <div className="mt-16 border-t border-slate-200 pt-8 sm:mt-20 lg:mt-24">
                     <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-xs leading-5 text-slate-500">
-                        <p>&copy; 2026 Sync Therapy. All rights reserved.</p>
+                        <p>&copy; 2026 Sync Massage Therapy. All rights reserved.</p>
                         <div className="flex gap-6">
                             {footerNavigation.legal.map((item) => (
                                 <Link key={item.name} href={item.href} className="hover:text-navy transition-colors">
