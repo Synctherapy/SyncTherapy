@@ -341,7 +341,7 @@ seoTitle: Athletic Therapy Victoria
             </h2>
             <p style="margin-bottom: 30px;">
                 Looking for an "athletic therapist near me" in Victoria BC? Sync Therapy is conveniently located in Colwood, serving athletes and active individuals throughout Victoria, Colwood, Langford, and the greater Victoria area. Our certified athletic therapist is just minutes away from downtown Victoria, UVic, and surrounding communities.
-             At Sync Therapy, we understand the unique challenges that athletes face, and we tailor our treatments to meet those needs. Additionally, we offer a variety of <a href="https://synctherapylocal.local/back-pain-treatment-victoria-options/">back pain treatment options in Victoria</a> to help you recover and return to your favorite activities. Whether you're dealing with an injury or looking to enhance your performance, our dedicated team is here to support you every step of the way.</p>
+             At Sync Therapy, we understand the unique challenges that athletes face, and we tailor our treatments to meet those needs. Additionally, we offer a variety of back pain treatment options in Victoria to help you recover and return to your favorite activities. Whether you're dealing with an injury or looking to enhance your performance, our dedicated team is here to support you every step of the way.</p>
             <div class="grid grid-3">
                 <div class="text-center">
                     <div style="font-size: 2rem; margin-bottom: 10px;">📍</div>

@@ -47,13 +47,27 @@ export async function getContentBySlug(slug: string[]) {
     // 1. Remove absolute URLs to point to local relative paths
     let cleanContent = content
         .replace(/https?:\/\/synctherapylocal\.local/g, '')
-        // 2. Remove WordPress specific classes and styles to clean up the design
+        // 2. Remove WordPress specific fusion classes
         .replace(/class="[^"]*fusion-[^"]*"/g, '')
-        .replace(/style="[^"]*"/g, '');
+        // 3. Strip <script> tags and their content — the Tailwind CDN
+        //    was loading a second instance and overriding component styles
+        .replace(/<script[\s\S]*?<\/script>/gi, '')
+        // 4. Strip WordPress block comments (but keep regular HTML comments
+        //    to avoid breaking blog post designs)
+        .replace(/<!--\s*\/?wp:[^>]*-->/g, '');
+
+    // Sanitize frontmatter description — some WP exports store CSS/HTML as description
+    let description = data.description || '';
+    if (typeof description === 'string') {
+        // Clear description if it looks like code (CSS, HTML, or JS)
+        if (/^\s*\/\*|^\s*\{|^\s*<|^\s*body\s*\{|font-family:/i.test(description)) {
+            description = '';
+        }
+    }
 
     return {
         slug: realSlug,
-        frontmatter: data,
+        frontmatter: { ...data, description },
         content: cleanContent,
         type,
     };

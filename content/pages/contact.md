@@ -581,7 +581,7 @@ seoTitle: Contact
                             <h2 class="card-title">Schedule Your Appointment</h2>
                             <p style="color: #6B7280; margin-bottom: 2rem; font-size: 1.125rem;">
                                 Book online 24/7 with our easy scheduling system. Choose your preferred therapist, service, and time.
-                             Our platform also provides detailed descriptions of various therapies available, so you can make an informed decision. We offer a range of specialized <a href="https://synctherapylocal.local/back-pain-treatment-victoria-options/">back pain treatment options in Victoria</a>, ensuring you find the right solution for your needs. Plus, our expert therapists are dedicated to helping you achieve optimal health and wellness.</p>
+                             Our platform also provides detailed descriptions of various therapies available, so you can make an informed decision. We offer a range of specialized back pain treatment options in Victoria, ensuring you find the right solution for your needs. Plus, our expert therapists are dedicated to helping you achieve optimal health and wellness.</p>
 
                             <div class="feature-list">
                                 <div class="feature-item">

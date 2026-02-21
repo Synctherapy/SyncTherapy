@@ -92,7 +92,7 @@ export default function Header() {
                                 </div>
                             </MenuItem>
 
-                            <Link href="/blog-1" className="text-black hover:opacity-[0.9] dark:text-white cursor-pointer hover:text-primary transition-colors">
+                            <Link href="/blog" className="text-black hover:opacity-[0.9] dark:text-white cursor-pointer hover:text-primary transition-colors">
                                 Blog
                             </Link>
                         </Menu>
@@ -226,7 +226,7 @@ export default function Header() {
                             <Link href="/about/our-team" onClick={() => setIsMobileMenuOpen(false)} className="py-2 text-base font-bold text-foreground hover:text-primary transition-colors">
                                 Our Team
                             </Link>
-                            <Link href="/blog-1" onClick={() => setIsMobileMenuOpen(false)} className="py-2 text-base font-bold text-foreground hover:text-primary transition-colors">
+                            <Link href="/blog" onClick={() => setIsMobileMenuOpen(false)} className="py-2 text-base font-bold text-foreground hover:text-primary transition-colors">
                                 Blog
                             </Link>
                             <Link href="/about/contact" onClick={() => setIsMobileMenuOpen(false)} className="py-2 text-base font-bold text-foreground hover:text-primary transition-colors">

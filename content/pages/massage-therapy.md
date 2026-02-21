@@ -410,7 +410,7 @@ seoTitle: Massage Therapy Colwood
             </h2>
             <p style="text-align: center; color: var(--text-light); margin-bottom: 48px; max-width: 700px; margin-left: auto; margin-right: auto;">
                 Your award winning <strong>registered massage therapist in Colwood</strong> specializes in treating conditions common to our active, professional community.
-             With a focus on individualized care, our therapist utilizes a variety of techniques to address each client's unique needs. Many clients have reported significant improvements in their mobility and overall well-being after just a few sessions. This aligns with the well-documented <a href="https://synctherapylocal.local/back-pain-treatment-victoria-options/">benefits of massage for back pain</a>, which can help alleviate tension and promote relaxation. In addition to improving mobility, clients often experience reduced stress levels and enhanced mental clarity. The <a href="https://synctherapylocal.local/benefits-of-massage-therapy-colwood/">top benefits of massage therapy</a> extend beyond physical relief, offering valuable support for emotional well-being. As part of our commitment to holistic health, we strive to create a welcoming environment where clients can unwind and reconnect with themselves.</p>
+             With a focus on individualized care, our therapist utilizes a variety of techniques to address each client's unique needs. Many clients have reported significant improvements in their mobility and overall well-being after just a few sessions. This aligns with the well-documented benefits of massage for back pain, which can help alleviate tension and promote relaxation. In addition to improving mobility, clients often experience reduced stress levels and enhanced mental clarity. The top benefits of massage therapy extend beyond physical relief, offering valuable support for emotional well-being. As part of our commitment to holistic health, we strive to create a welcoming environment where clients can unwind and reconnect with themselves.</p>
             
             <div class="grid grid-3">
                 <div>
@@ -789,7 +789,7 @@ seoTitle: Massage Therapy Colwood
             </h2>
             <p style="font-size: 20px; margin-bottom: 32px; opacity: 0.95;">
                 Join hundreds of Colwood residents who trust their wellness to our expert <strong>massage therapy</strong> care.
-             Experience the benefits of relaxation and relief from daily stressors, as our skilled therapists tailor each session to your specific needs. We specialize in <a href="https://synctherapylocal.local/massage-therapy-desk-workers-langford/">massage therapy for desk workers</a>, addressing tension commonly accumulated from long hours of sitting. Discover how our massage therapy can enhance your overall well-being and productivity.</p>
+             Experience the benefits of relaxation and relief from daily stressors, as our skilled therapists tailor each session to your specific needs. We specialize in massage therapy for desk workers, addressing tension commonly accumulated from long hours of sitting. Discover how our massage therapy can enhance your overall well-being and productivity.</p>
             
             <div style="display: flex; gap: 16px; justify-content: center; flex-wrap: wrap;">
                 <a href="https://synctherapy.janeapp.com/" class="btn btn-primary" style="background: var(--accent); color: var(--text); font-weight: 600;">

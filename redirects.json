@@ -306,17 +306,27 @@
   },
   {
     "source": "/blogs",
-    "destination": "/blog-1/",
+    "destination": "/blog/",
+    "permanent": true
+  },
+  {
+    "source": "/blog-1",
+    "destination": "/blog/",
+    "permanent": true
+  },
+  {
+    "source": "/blog-1/",
+    "destination": "/blog/",
     "permanent": true
   },
   {
     "source": "/blogs/diet",
-    "destination": "/blog-1/",
+    "destination": "/blog/",
     "permanent": true
   },
   {
     "source": "/blogs/health",
-    "destination": "/blog-1/",
+    "destination": "/blog/",
     "permanent": true
   },
   {
@@ -932,6 +942,401 @@
   {
     "source": "/swedish-relaxation-massage-victoria",
     "destination": "/services/relaxation-massage/",
+    "permanent": true
+  },
+  {
+    "source": "/best-probiotic-strains/",
+    "destination": "/best-prebiotics-and-probiotics-supplements/",
+    "permanent": true
+  },
+  {
+    "source": "/best-time-to-take-probiotics/",
+    "destination": "/best-prebiotics-and-probiotics-supplements/",
+    "permanent": true
+  },
+  {
+    "source": "/signs-that-probiotics-are-working/",
+    "destination": "/best-prebiotics-and-probiotics-supplements/",
+    "permanent": true
+  },
+  {
+    "source": "/do-probiotics-help-with-bloating/",
+    "destination": "/best-prebiotics-and-probiotics-supplements/",
+    "permanent": true
+  },
+  {
+    "source": "/can-a-probiotic-help-you-lose-weight/",
+    "destination": "/best-prebiotics-and-probiotics-supplements/",
+    "permanent": true
+  },
+  {
+    "source": "/benefits-of-soil-based-probiotics/",
+    "destination": "/just-thrive-probiotic-review/",
+    "permanent": true
+  },
+  {
+    "source": "/best-probiotic-supplements-for-men/",
+    "destination": "/best-prebiotics-and-probiotics-supplements/",
+    "permanent": true
+  },
+  {
+    "source": "/do-probiotics-help-ibs/",
+    "destination": "/best-probiotic-supplements-for-ibs/",
+    "permanent": true
+  },
+  {
+    "source": "/warning-signs-you-have-leaky-gut/",
+    "destination": "/best-leaky-gut-supplements/",
+    "permanent": true
+  },
+  {
+    "source": "/leaky-gut-diet/",
+    "destination": "/best-leaky-gut-supplements/",
+    "permanent": true
+  },
+  {
+    "source": "/home-remedies-for-leaky-gut/",
+    "destination": "/best-leaky-gut-supplements/",
+    "permanent": true
+  },
+  {
+    "source": "/gut-health-diet-simple-steps-for-a-happier-tummy/",
+    "destination": "/best-supplements-for-sibo/",
+    "permanent": true
+  },
+  {
+    "source": "/9-nutrients-needed-for-gut-health-boost-your-digestive-wellness-today/",
+    "destination": "/best-prebiotics-and-probiotics-supplements/",
+    "permanent": true
+  },
+  {
+    "source": "/worst-foods-for-gut-health/",
+    "destination": "/prunes-vs-dates-for-constipation-relief/",
+    "permanent": true
+  },
+  {
+    "source": "/gut-health-recipes/",
+    "destination": "/prunes-vs-dates-for-constipation-relief/",
+    "permanent": true
+  },
+  {
+    "source": "/best-tea-for-gut-health/",
+    "destination": "/prunes-vs-dates-for-constipation-relief/",
+    "permanent": true
+  },
+  {
+    "source": "/cymbiotika-vs-seed-ds-01-probiotic/",
+    "destination": "/seed-vs-pendulum/",
+    "permanent": true
+  },
+  {
+    "source": "/viome-vs-seed/",
+    "destination": "/viome-review/",
+    "permanent": true
+  },
+  {
+    "source": "/seed-pediatric-probiotic-reviews/",
+    "destination": "/seed-probiotics-reviews/",
+    "permanent": true
+  },
+  {
+    "source": "/viome-vs-zoe/",
+    "destination": "/viome-review/",
+    "permanent": true
+  },
+  {
+    "source": "/gi-map-test/",
+    "destination": "/gut-health-test/",
+    "permanent": true
+  },
+  {
+    "source": "/best-probiotic-foods-for-gut-health-naturally/",
+    "destination": "/best-sauerkraut-for-probiotics/",
+    "permanent": true
+  },
+  {
+    "source": "/joe-rogan-hydrogen-water/",
+    "destination": "/benefits-of-hydrogen-water/",
+    "permanent": true
+  },
+  {
+    "source": "/kim-kardashian-hydrogen-water/",
+    "destination": "/benefits-of-hydrogen-water/",
+    "permanent": true
+  },
+  {
+    "source": "/dana-white-hydrogen-water/",
+    "destination": "/gary-brecka-hydrogen-water-bottle/",
+    "permanent": true
+  },
+  {
+    "source": "/where-can-you-buy-hydrogen-water/",
+    "destination": "/best-hydrogen-water-bottles/",
+    "permanent": true
+  },
+  {
+    "source": "/hydrogen-water-vs-ionized-water/",
+    "destination": "/alkaline-water-vs-hydrogen-water/",
+    "permanent": true
+  },
+  {
+    "source": "/how-do-hydrogen-water-bottles-work/",
+    "destination": "/best-hydrogen-water-bottles/",
+    "permanent": true
+  },
+  {
+    "source": "/molecular-hydrogen-and-inflammation-research/",
+    "destination": "/benefits-of-hydrogen-water/",
+    "permanent": true
+  },
+  {
+    "source": "/molecular-hydrogen-and-mental-health-research/",
+    "destination": "/benefits-of-hydrogen-water/",
+    "permanent": true
+  },
+  {
+    "source": "/hydrogen-water-and-diabetes/",
+    "destination": "/is-hydrogen-water-good-for-kidneys/",
+    "permanent": true
+  },
+  {
+    "source": "/hydrogen-water-cancer/",
+    "destination": "/benefits-of-hydrogen-water/",
+    "permanent": true
+  },
+  {
+    "source": "/echo-hydrogen-water-reviews/",
+    "destination": "/echo-ultimate-review/",
+    "permanent": true
+  },
+  {
+    "source": "/echo-h2-machine-reviews/",
+    "destination": "/echo-ultimate-review/",
+    "permanent": true
+  },
+  {
+    "source": "/echo-water-vs-kangen/",
+    "destination": "/kangen-water-vs-hydrogen-water/",
+    "permanent": true
+  },
+  {
+    "source": "/kangen-water-vs-hydrogen-water/",
+    "destination": "/alkaline-water-vs-hydrogen-water/",
+    "permanent": true
+  },
+  {
+    "source": "/echo-clean-review/",
+    "destination": "/echo-ultimate-review/",
+    "permanent": true
+  },
+  {
+    "source": "/cymbiotika-molecular-hydrogen-review/",
+    "destination": "/hydrogen-water-tablets/",
+    "permanent": true
+  },
+  {
+    "source": "/meth-the-alternative-to-the-rice-method/",
+    "destination": "/can-gerd-cause-back-pain-between-shoulder-blades/",
+    "permanent": true
+  },
+  {
+    "source": "/conquering-hip-pain-a-fibromyalgia-warriors-guide/",
+    "destination": "/red-light-therapy-for-arthritis/",
+    "permanent": true
+  },
+  {
+    "source": "/hip-pain-with-fibromyalgia/",
+    "destination": "/red-light-therapy-for-arthritis/",
+    "permanent": true
+  },
+  {
+    "source": "/deep-tissue-vs-trigger-point-therapy/",
+    "destination": "/difference-between-massage-therapist-and-masseuse/",
+    "permanent": true
+  },
+  {
+    "source": "/pemf-vs-grounding-understanding-their-benefits-and-differences/",
+    "destination": "/best-grounding-sheets/",
+    "permanent": true
+  },
+  {
+    "source": "/pemf-therapy/",
+    "destination": "/best-pemf-mats/",
+    "permanent": true
+  },
+  {
+    "source": "/how-pemf-therapy-works/",
+    "destination": "/best-pemf-mats/",
+    "permanent": true
+  },
+  {
+    "source": "/pemf-therapy-for-arthritis-relief/",
+    "destination": "/pemf-therapy-for-neuropathy/",
+    "permanent": true
+  },
+  {
+    "source": "/pemf-therapy-for-fibromyalgia-relief/",
+    "destination": "/pemf-therapy-for-neuropathy/",
+    "permanent": true
+  },
+  {
+    "source": "/pemf-mat-benefits/",
+    "destination": "/best-pemf-mats/",
+    "permanent": true
+  },
+  {
+    "source": "/pemf-vs-tens/",
+    "destination": "/best-pemf-mats/",
+    "permanent": true
+  },
+  {
+    "source": "/does-pemf-cause-cancer-examining-the-scientific-evidence/",
+    "destination": "/pemf-therapy-side-effects/",
+    "permanent": true
+  },
+  {
+    "source": "/healthyline-mat-reviews/",
+    "destination": "/best-pemf-mats/",
+    "permanent": true
+  },
+  {
+    "source": "/red-light-therapy-for-inflammation/",
+    "destination": "/red-light-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/red-light-therapy-for-alopecia/",
+    "destination": "/red-light-therapy-and-scars/",
+    "permanent": true
+  },
+  {
+    "source": "/red-light-therapy-for-depression/",
+    "destination": "/red-light-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/red-light-therapy-for-chronic-fatigue/",
+    "destination": "/red-light-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/red-light-therapy-for-fibromyalgia/",
+    "destination": "/red-light-therapy-for-arthritis/",
+    "permanent": true
+  },
+  {
+    "source": "/red-light-treatment-for-weight-loss/",
+    "destination": "/red-light-therapy-cellulite/",
+    "permanent": true
+  },
+  {
+    "source": "/red-light-therapy-and-wound-healing-clinical-evidence/",
+    "destination": "/red-light-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/how-to-use-red-light-therapy-at-home/",
+    "destination": "/at-home-red-light-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/how-often-red-light-therapy/",
+    "destination": "/at-home-red-light-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/red-light-therapy-boosts-mitochondrial-function/",
+    "destination": "/red-light-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/the-role-of-red-light-therapy-in-hormone-regulation/",
+    "destination": "/red-light-therapy-for-testosterone/",
+    "permanent": true
+  },
+  {
+    "source": "/role-of-red-light-therapy-in-anti-aging-studies-and-findings/",
+    "destination": "/red-light-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/photobiomodulation-explained/",
+    "destination": "/red-light-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/red-light-therapy-infographic/",
+    "destination": "/red-light-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/wavelength-for-red-light/",
+    "destination": "/red-light-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/red-light-therapy-for-inflammation/",
+    "destination": "/red-light-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/sauna-blanket-benefits/",
+    "destination": "/bon-charge-sauna-blanket-review/",
+    "permanent": true
+  },
+  {
+    "source": "/heat-healer-sauna-blanket-reviews/",
+    "destination": "/bon-charge-sauna-blanket-review/",
+    "permanent": true
+  },
+  {
+    "source": "/best-sauna-blanket/",
+    "destination": "/bon-charge-sauna-blanket-review/",
+    "permanent": true
+  },
+  {
+    "source": "/higherdose-sauna-blanket/",
+    "destination": "/bon-charge-sauna-blanket-review/",
+    "permanent": true
+  },
+  {
+    "source": "/best-skincare-for-pcos-acne/",
+    "destination": "/best-probiotic-for-acne/",
+    "permanent": true
+  },
+  {
+    "source": "/phyla-skincare-reviews/",
+    "destination": "/best-probiotic-for-acne/",
+    "permanent": true
+  },
+  {
+    "source": "/best-natural-face-moisturizer-for-acne-prone-skin/",
+    "destination": "/best-probiotic-for-acne/",
+    "permanent": true
+  },
+  {
+    "source": "/best-vegan-acne-treatment/",
+    "destination": "/best-probiotic-for-acne/",
+    "permanent": true
+  },
+  {
+    "source": "/lower-triglycerides-naturally-with-supplements/",
+    "destination": "/gary-brecka-supplements/",
+    "permanent": true
+  },
+  {
+    "source": "/naked-creatine-review/",
+    "destination": "/perfect-aminos-reviews/",
+    "permanent": true
+  },
+  {
+    "source": "/naked-collagen-review/",
+    "destination": "/perfect-aminos-reviews/",
+    "permanent": true
+  },
+  {
+    "source": "/what-is-the-ph-of-reverse-osmosis-water/",
+    "destination": "/best-reverse-osmosis-ro-water-filter/",
     "permanent": true
   }
 ]

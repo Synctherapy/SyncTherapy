@@ -1223,7 +1223,7 @@ seoTitle: Services
                             <i data-lucide="quote"></i>
                         </div>
                     </div>
-                    <p class="testimonial-text">"As a competitive athlete in Victoria, I need the best care for my body. Sync Therapy's athletic therapy has been game-changing for my performance." The personalized approach they offer has helped me recover faster and stay injury-free. I also appreciate their comprehensive advice on <a href="https://synctherapylocal.local/back-pain-treatment-victoria-options/">back pain treatment options Victoria</a>, which has made a significant difference in my training regimen. With Sync Therapy, I feel confident that I'm optimizing my performance and injury prevention strategies.</p>
+                    <p class="testimonial-text">"As a competitive athlete in Victoria, I need the best care for my body. Sync Therapy's athletic therapy has been game-changing for my performance." The personalized approach they offer has helped me recover faster and stay injury-free. I also appreciate their comprehensive advice on back pain treatment options Victoria, which has made a significant difference in my training regimen. With Sync Therapy, I feel confident that I'm optimizing my performance and injury prevention strategies.</p>
                     <div class="testimonial-author">
                         <p class="name">Mike R.</p>
                         <p class="service">Athletic Therapy</p>

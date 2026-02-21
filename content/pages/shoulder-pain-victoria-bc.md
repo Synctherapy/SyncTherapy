@@ -520,7 +520,7 @@ seoTitle: Shoulder Pain
             </h2>
             <p style="font-size: 1.1rem; margin-bottom: 40px; color: var(--text-color);">
                 Our integrated approach combines the best of massage therapy, athletic therapy, and corrective exercise for comprehensive shoulder pain Victoria treatment. Our evidence-based treatments address both symptoms and root causes for lasting results and restored shoulder function.
-             In addition to shoulder pain, we also specialize in <a href="https://synctherapylocal.local/back-pain-treatment-victoria-options/">back pain treatment options</a> that complement our therapeutic strategies. By evaluating each patient’s unique condition, we tailor our approach to ensure maximum effectiveness. This holistic methodology not only alleviates pain but also promotes overall musculoskeletal health, empowering our clients to lead more active, pain-free lives.</p>
+             In addition to shoulder pain, we also specialize in back pain treatment options that complement our therapeutic strategies. By evaluating each patient’s unique condition, we tailor our approach to ensure maximum effectiveness. This holistic methodology not only alleviates pain but also promotes overall musculoskeletal health, empowering our clients to lead more active, pain-free lives.</p>
 
             <div class="treatment-grid">
                 <div class="treatment-item">

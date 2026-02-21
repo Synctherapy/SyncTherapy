@@ -382,7 +382,7 @@ seoTitle: Hip and Knee Pain
             </h2>
             <p style="margin-bottom: 30px; color: var(--text-color);">
                 Looking for effective hip and knee pain treatment in Victoria BC? Sync Therapy is conveniently located in Colwood, serving clients throughout Victoria, Langford, and the greater West Shore area. Our comprehensive approach to hip and knee pain relief combines massage therapy, athletic therapy, and biomechanical correction - offering an effective alternative for those searching for "physio for hip and knee pain Victoria."
-             In addition to hip and knee pain treatments, we also provide a range of <a href="https://synctherapylocal.local/back-pain-treatment-victoria-options/">back pain treatment options in Victoria</a>, ensuring a holistic approach to your overall well-being. Our skilled therapists are dedicated to tailoring individualized plans that address your specific needs, promoting faster recovery and enhanced mobility. With a focus on long-term health, we strive to empower our clients to live pain-free and active lives.</p>
+             In addition to hip and knee pain treatments, we also provide a range of back pain treatment options in Victoria, ensuring a holistic approach to your overall well-being. Our skilled therapists are dedicated to tailoring individualized plans that address your specific needs, promoting faster recovery and enhanced mobility. With a focus on long-term health, we strive to empower our clients to live pain-free and active lives.</p>
             <div class="grid grid-3">
                 <div class="text-center">
                     <div style="font-size: 2rem; margin-bottom: 10px;">📍</div>

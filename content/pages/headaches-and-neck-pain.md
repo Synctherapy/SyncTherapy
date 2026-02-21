@@ -381,7 +381,7 @@ seoTitle: Headaches and Neck Pain
             </h2>
             <p style="margin-bottom: 30px; color: var(--text-color);">
                 Looking for effective headache and neck pain treatment in Victoria BC? Sync Therapy is conveniently located in Colwood, serving clients throughout Victoria, Langford, and the greater West Shore area. Our comprehensive approach to headache and neck pain relief combines massage therapy, athletic therapy, and visceral manipulation - offering an effective alternative for those searching for "physio for neck pain Victoria."
-             In addition to addressing headaches and neck pain, Sync Therapy also provides a range of <a href="https://synctherapylocal.local/back-pain-treatment-victoria-options/">back pain treatment options in Victoria</a> tailored to each individual's needs. Our experienced therapists work closely with clients to create personalized treatment plans that promote long-term relief and improved mobility. Whether you’re dealing with chronic pain or a recent injury, we are here to help you regain your quality of life.</p>
+             In addition to addressing headaches and neck pain, Sync Therapy also provides a range of back pain treatment options in Victoria tailored to each individual's needs. Our experienced therapists work closely with clients to create personalized treatment plans that promote long-term relief and improved mobility. Whether you’re dealing with chronic pain or a recent injury, we are here to help you regain your quality of life.</p>
             <div class="grid grid-3">
                 <div class="text-center">
                     <div style="font-size: 2rem; margin-bottom: 10px;">📍</div>
@@ -413,7 +413,7 @@ seoTitle: Headaches and Neck Pain
                 </h2>
                 <p style="font-size: 1.2rem; margin-bottom: 20px; color: var(--text-color);">
                     Our Victoria clinic specializes in treating a comprehensive range of headache and neck pain conditions using evidence-based massage therapy, athletic therapy, and visceral manipulation techniques. With over 8000+ successful treatment sessions, we help Victoria, Langford, and Colwood residents achieve lasting relief through personalized, drug-free treatment plans.
-                 In addition to our specialized treatments, we understand the unique challenges faced by those who spend long hours at a desk. Our offerings include targeted sessions that showcase the <a href="https://synctherapylocal.local/massage-therapy-desk-workers-langford/">massage therapy benefits for desk workers</a>, helping to alleviate tension and improve overall well-being. By addressing posture-related issues and muscle tightness, we empower our clients to enhance their productivity and comfort in daily activities.</p>
+                 In addition to our specialized treatments, we understand the unique challenges faced by those who spend long hours at a desk. Our offerings include targeted sessions that showcase the massage therapy benefits for desk workers, helping to alleviate tension and improve overall well-being. By addressing posture-related issues and muscle tightness, we empower our clients to enhance their productivity and comfort in daily activities.</p>
                 <div style="display: inline-block; background: rgba(245,184,46,0.1); color: #856404; padding: 8px 16px; border-radius: 20px; font-size: 0.9rem; font-weight: bold;">
                     🏆 Proven results across all headache & neck pain conditions
                 </div>

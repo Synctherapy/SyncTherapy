@@ -284,7 +284,7 @@ seoTitle: Back Pain Victoria
                 </h1>
 
                 <p style="font-size: 1.2rem; margin-bottom: 20px; line-height: 1.6; color: var(--text-color);">
-                    Comprehensive <a href="https://synctherapylocal.local/back-pain-treatment-victoria-options/"  data-wpil-monitor-id="22">back pain treatment in Victoria BC through evidence-based massage</a> therapy, athletic therapy, and visceral manipulation. Whether you're seeking alternatives to traditional physio for <a class="wpil_keyword_link" href="https://synctherapylocal.local/services/athletic-therapy-colwood/"   title="back pain Victoria" data-wpil-keyword-link="linked"  data-wpil-monitor-id="7856">back pain Victoria</a> or looking for specialized manual therapy, our award-winning clinic provides effective relief for acute and chronic back pain conditions.
+                    Comprehensive back pain treatment in Victoria BC through evidence-based massage therapy, athletic therapy, and visceral manipulation. Whether you're seeking alternatives to traditional physio for <a class="wpil_keyword_link" href="https://synctherapylocal.local/services/athletic-therapy-colwood/"   title="back pain Victoria" data-wpil-keyword-link="linked"  data-wpil-monitor-id="7856">back pain Victoria</a> or looking for specialized manual therapy, our award-winning clinic provides effective relief for acute and chronic back pain conditions.
                 </p>
 
                 <p style="font-size: 1.1rem; color: var(--primary-color); font-weight: bold; margin-bottom: 15px;">

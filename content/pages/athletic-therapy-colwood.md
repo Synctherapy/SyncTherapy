@@ -359,7 +359,7 @@ seoTitle: Athletic Therapy Colwood
 
                 Looking for an "athletic therapist near me" in Colwood BC? Sync Therapy is conveniently located in Colwood, serving athletes and active individuals throughout Colwood, Langford, and the greater West Shore area. Our certified athletic therapist is easily accessible from all Colwood neighborhoods including Royal Bay, Hatley Park, and Ocean Boulevard.
 
-             In addition to athletic therapy, we also offer comprehensive massage therapy services that promote recovery and well-being. By addressing muscle tension and enhancing circulation, our skilled therapists help clients experience the <a href="https://synctherapylocal.local/benefits-of-massage-therapy-colwood/">top benefits of massage therapy</a>, including reduced stress and improved flexibility. Whether you're a competitive athlete or a weekend warrior, our tailored approach ensures you receive the care you need to stay active and healthy.</p>
+             In addition to athletic therapy, we also offer comprehensive massage therapy services that promote recovery and well-being. By addressing muscle tension and enhancing circulation, our skilled therapists help clients experience the top benefits of massage therapy, including reduced stress and improved flexibility. Whether you're a competitive athlete or a weekend warrior, our tailored approach ensures you receive the care you need to stay active and healthy.</p>
 
             <div class="grid grid-3">
 

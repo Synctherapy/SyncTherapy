@@ -327,7 +327,7 @@ seoTitle: >-
                                 </div>
                                 <div>
                                     <h4 class="font-semibold text-text mb-1">Maintenance Sports Massage</h4>
-                                    <p class="text-text/70 text-sm"><a href="https://synctherapylocal.local/back-pain-treatment-victoria-options/"  data-wpil-monitor-id="24">Regular therapeutic massage to maintain muscle health</a>, prevent injuries, and address minor issues before they become major problems.</p>
+                                    <p class="text-text/70 text-sm">Regular therapeutic massage to maintain muscle health, prevent injuries, and address minor issues before they become major problems.</p>
                                 </div>
                             </div>
                             <div class="flex items-start">

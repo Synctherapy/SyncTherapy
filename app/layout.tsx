@@ -142,6 +142,40 @@ export default function RootLayout({
             })
           }}
         />
+        {/* Person Entity for Daryl Stubbs — linked from all blog posts */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "@id": "https://www.synctherapy.ca/about-daryl-stubbs/#person",
+              "name": "Daryl Stubbs",
+              "url": "https://www.synctherapy.ca/about-daryl-stubbs/",
+              "image": "https://www.synctherapy.ca/images/daryl-stubbs-author.jpg",
+              "jobTitle": "Registered Massage Therapist, Certified Athletic Therapist, Holistic Nutritionist",
+              "description": "Daryl Stubbs is the founder of Sync Massage Therapy in Colwood, BC. Specializing in musculoskeletal rehabilitation, athletic therapy, and functional nutrition.",
+              "worksFor": { "@id": "https://www.synctherapy.ca/#organization" },
+              "alumniOf": [
+                { "@type": "EducationalOrganization", "name": "Mount Royal University" }
+              ],
+              "knowsAbout": [
+                "Massage Therapy",
+                "Athletic Therapy",
+                "Visceral Manipulation",
+                "Holistic Nutrition",
+                "Red Light Therapy",
+                "Sports Rehabilitation"
+              ],
+              "sameAs": [
+                "https://www.instagram.com/synctherapy/",
+                "https://www.facebook.com/SyncTherapyVictoria/",
+                "https://www.youtube.com/@synctherapy",
+                "https://ca.pinterest.com/SyncTherapyWellness/"
+              ]
+            })
+          }}
+        />
       </body>
     </html>
   )

@@ -179,7 +179,7 @@ seoTitle: Home
                 <h3 class="font-semibold text-text mb-2">Victoria Massage Therapy</h3>
                 <p class="text-sm text-text/70 mb-4">
                     Serving greater Victoria with professional RMT services for chronic pain, sciatica, and wellness care
-                 Our experienced team of registered massage therapists is dedicated to helping you find relief and improve your overall quality of life. We offer personalized assessments and tailored therapies that address a variety of conditions, ensuring that you receive the most effective care possible. Explore our <a href="https://synctherapylocal.local/back-pain-treatment-victoria-options/">back pain treatment options in Victoria</a> to discover how we can assist you in your journey to wellness.</p>
+                 Our experienced team of registered massage therapists is dedicated to helping you find relief and improve your overall quality of life. We offer personalized assessments and tailored therapies that address a variety of conditions, ensuring that you receive the most effective care possible. Explore our back pain treatment options in Victoria to discover how we can assist you in your journey to wellness.</p>
                 <a href="https://synctherapylocal.local/services/massage-therapy-victoria/" class="text-primary hover:text-accent text-sm font-medium">
                     Book Victoria Appointment →
                 </a>
