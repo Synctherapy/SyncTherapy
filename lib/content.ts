@@ -4,7 +4,25 @@ import matter from 'gray-matter';
 
 const contentDirectory = path.join(process.cwd(), 'content');
 
-export async function getContentBySlug(slug: string[]) {
+export interface Frontmatter {
+    title?: string;
+    seoTitle?: string;
+    description?: string;
+    date?: string;
+    author?: string;
+    category?: string;
+    readTime?: string;
+    [key: string]: any;
+}
+
+export interface ContentItem {
+    slug: string;
+    frontmatter: Frontmatter;
+    content: string;
+    type: string;
+}
+
+export async function getContentBySlug(slug: string[]): Promise<ContentItem | null> {
     const realSlug = slug.join('/');
 
     // 1. Try to find the file using the full URL path (e.g. "services/massage")
@@ -65,9 +83,15 @@ export async function getContentBySlug(slug: string[]) {
         }
     }
 
+    // Ensure date is a string if it exists (gray-matter parses dates as Date objects)
+    let date = data.date;
+    if (date instanceof Date) {
+        date = date.toISOString();
+    }
+
     return {
         slug: realSlug,
-        frontmatter: { ...data, description },
+        frontmatter: { ...data, description, date },
         content: cleanContent,
         type,
     };

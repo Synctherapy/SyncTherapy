@@ -209,6 +209,7 @@ export default async function Page({ params }: Props) {
         const content = <div dangerouslySetInnerHTML={{ __html: item.content }} />;
         const detectedCategory = getCategoryFromSlug(resolvedParams.slug.join('/'), item.frontmatter.category);
         const currentSlug = resolvedParams.slug.join('/');
+        const pageTitle = item.frontmatter.title || '';
 
         // Fetch related posts from same category
         const allPaths = await getAllPaths();
@@ -223,7 +224,7 @@ export default async function Page({ params }: Props) {
                         if (postCategory === detectedCategory) {
                             return {
                                 slug: p.slug[0],
-                                title: post.frontmatter.title,
+                                title: post.frontmatter.title || '',
                                 description: post.frontmatter.description,
                                 date: post.frontmatter.date,
                             };
@@ -269,7 +270,7 @@ export default async function Page({ params }: Props) {
 
         if (schemaType === 'review') {
             // Review schema for product review posts
-            const productName = item.frontmatter.title
+            const productName = pageTitle
                 .replace(/review.*$/i, '')
                 .replace(/\d{4}.*$/i, '')
                 .replace(/[-–—:]\s*should.*$/i, '')
@@ -278,7 +279,7 @@ export default async function Page({ params }: Props) {
             schemas.push({
                 '@context': 'https://schema.org',
                 '@type': 'Review',
-                'name': item.frontmatter.title,
+                'name': pageTitle,
                 'description': item.frontmatter.description || '',
                 'datePublished': item.frontmatter.date,
                 'dateModified': item.frontmatter.date,
@@ -295,7 +296,7 @@ export default async function Page({ params }: Props) {
             schemas.push({
                 '@context': 'https://schema.org',
                 '@type': 'Article',
-                'headline': item.frontmatter.title,
+                'headline': pageTitle,
                 'description': item.frontmatter.description || '',
                 'datePublished': item.frontmatter.date,
                 'dateModified': item.frontmatter.date,
@@ -309,7 +310,7 @@ export default async function Page({ params }: Props) {
             schemas.push({
                 '@context': 'https://schema.org',
                 '@type': 'ItemList',
-                'name': item.frontmatter.title,
+                'name': pageTitle,
                 'numberOfItems': listCount,
                 'itemListOrder': 'https://schema.org/ItemListOrderDescending',
             });
@@ -318,7 +319,7 @@ export default async function Page({ params }: Props) {
             schemas.push({
                 '@context': 'https://schema.org',
                 '@type': 'Article',
-                'headline': item.frontmatter.title,
+                'headline': pageTitle,
                 'description': item.frontmatter.description || '',
                 'datePublished': item.frontmatter.date,
                 'dateModified': item.frontmatter.date,
@@ -335,7 +336,7 @@ export default async function Page({ params }: Props) {
             'itemListElement': [
                 { '@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.synctherapy.ca/' },
                 { '@type': 'ListItem', 'position': 2, 'name': 'Blog', 'item': 'https://www.synctherapy.ca/blog/' },
-                { '@type': 'ListItem', 'position': 3, 'name': item.frontmatter.title },
+                { '@type': 'ListItem', 'position': 3, 'name': pageTitle },
             ],
         });
 
@@ -352,7 +353,7 @@ export default async function Page({ params }: Props) {
                 ))}
                 <BlogOneLayout
                     frontmatter={{
-                        title: item.frontmatter.title,
+                        title: pageTitle,
                         date: item.frontmatter.date,
                         author: item.frontmatter.author,
                         description: item.frontmatter.description,
@@ -392,7 +393,7 @@ export default async function Page({ params }: Props) {
                 <Header />
                 <ServiceLayout
                     frontmatter={{
-                        title: item.frontmatter.title,
+                        title: item.frontmatter.title || '',
                         description: item.frontmatter.description,
                     }}
                     content={content}
