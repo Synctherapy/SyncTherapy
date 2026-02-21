@@ -67,7 +67,7 @@ export async function getContentBySlug(slug: string[]) {
 
     return {
         slug: realSlug,
-        frontmatter: { ...data, description },
+        frontmatter: { ...data, description } as { title?: string, seoTitle?: string, description?: string, date?: string, author?: string, category?: string, [key: string]: any },
         content: cleanContent,
         type,
     };

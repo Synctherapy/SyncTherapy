@@ -269,7 +269,7 @@ export default async function Page({ params }: Props) {
 
         if (schemaType === 'review') {
             // Review schema for product review posts
-            const productName = item.frontmatter.title
+            const productName = (item.frontmatter.title || '')
                 .replace(/review.*$/i, '')
                 .replace(/\d{4}.*$/i, '')
                 .replace(/[-–—:]\s*should.*$/i, '')
@@ -278,7 +278,7 @@ export default async function Page({ params }: Props) {
             schemas.push({
                 '@context': 'https://schema.org',
                 '@type': 'Review',
-                'name': item.frontmatter.title,
+                'name': item.frontmatter.title || '',
                 'description': item.frontmatter.description || '',
                 'datePublished': item.frontmatter.date,
                 'dateModified': item.frontmatter.date,
@@ -295,7 +295,7 @@ export default async function Page({ params }: Props) {
             schemas.push({
                 '@context': 'https://schema.org',
                 '@type': 'Article',
-                'headline': item.frontmatter.title,
+                'headline': item.frontmatter.title || '',
                 'description': item.frontmatter.description || '',
                 'datePublished': item.frontmatter.date,
                 'dateModified': item.frontmatter.date,
@@ -309,7 +309,7 @@ export default async function Page({ params }: Props) {
             schemas.push({
                 '@context': 'https://schema.org',
                 '@type': 'ItemList',
-                'name': item.frontmatter.title,
+                'name': item.frontmatter.title || '',
                 'numberOfItems': listCount,
                 'itemListOrder': 'https://schema.org/ItemListOrderDescending',
             });
@@ -318,7 +318,7 @@ export default async function Page({ params }: Props) {
             schemas.push({
                 '@context': 'https://schema.org',
                 '@type': 'Article',
-                'headline': item.frontmatter.title,
+                'headline': item.frontmatter.title || '',
                 'description': item.frontmatter.description || '',
                 'datePublished': item.frontmatter.date,
                 'dateModified': item.frontmatter.date,
@@ -335,7 +335,7 @@ export default async function Page({ params }: Props) {
             'itemListElement': [
                 { '@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.synctherapy.ca/' },
                 { '@type': 'ListItem', 'position': 2, 'name': 'Blog', 'item': 'https://www.synctherapy.ca/blog/' },
-                { '@type': 'ListItem', 'position': 3, 'name': item.frontmatter.title },
+                { '@type': 'ListItem', 'position': 3, 'name': item.frontmatter.title || '' },
             ],
         });
 
@@ -352,10 +352,10 @@ export default async function Page({ params }: Props) {
                 ))}
                 <BlogOneLayout
                     frontmatter={{
-                        title: item.frontmatter.title,
-                        date: item.frontmatter.date,
-                        author: item.frontmatter.author,
-                        description: item.frontmatter.description,
+                        title: item.frontmatter.title || '',
+                        date: item.frontmatter.date || '',
+                        author: item.frontmatter.author || '',
+                        description: item.frontmatter.description || '',
                     }}
                     content={content}
                     category={detectedCategory}
@@ -392,8 +392,8 @@ export default async function Page({ params }: Props) {
                 <Header />
                 <ServiceLayout
                     frontmatter={{
-                        title: item.frontmatter.title,
-                        description: item.frontmatter.description,
+                        title: item.frontmatter.title || '',
+                        description: item.frontmatter.description || '',
                     }}
                     content={content}
                 />
