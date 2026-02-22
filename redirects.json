@@ -15,13 +15,8 @@
     "permanent": true
   },
   {
-    "source": "/massage-therapy-colwood/",
-    "destination": "/services/massage-therapy/",
-    "permanent": true
-  },
-  {
     "source": "/services/massage-therapy-victoria",
-    "destination": "/services/massage-therapy/",
+    "destination": "/massage-therapist-victoria/",
     "permanent": true
   },
   {
@@ -36,12 +31,12 @@
   },
   {
     "source": "/massage-therapy-langford",
-    "destination": "/services/massage-therapy/",
+    "destination": "/massage-therapist-langford/",
     "permanent": true
   },
   {
     "source": "/massage-therapy-victoria",
-    "destination": "/services/massage-therapy/",
+    "destination": "/massage-therapist-victoria/",
     "permanent": true
   },
   {
@@ -56,7 +51,7 @@
   },
   {
     "source": "/services/massage-therapy-langford",
-    "destination": "/services/massage-therapy/",
+    "destination": "/massage-therapist-langford/",
     "permanent": true
   },
   {
@@ -106,7 +101,7 @@
   },
   {
     "source": "/blogs/red-light-therapy/red-light-therapy-for-fibromyalgia",
-    "destination": "/red-light-therapy-for-fibromyalgia/",
+    "destination": "/red-light-therapy-for-arthritis/",
     "permanent": true
   },
   {
@@ -116,12 +111,12 @@
   },
   {
     "source": "/blogs/red-light-therapy/role-of-red-light-therapy-in-anti-aging-studies-and-findings",
-    "destination": "/role-of-red-light-therapy-in-anti-aging-studies-and-findings/",
+    "destination": "/red-light-therapy/",
     "permanent": true
   },
   {
     "source": "/blogs/red-light-therapy/photobiomodulation-explained",
-    "destination": "/photobiomodulation-explained/",
+    "destination": "/red-light-therapy/",
     "permanent": true
   },
   {
@@ -156,7 +151,7 @@
   },
   {
     "source": "/blogs/hydrogen-water/kim-kardashian-hydrogen-water",
-    "destination": "/kim-kardashian-hydrogen-water/",
+    "destination": "/benefits-of-hydrogen-water/",
     "permanent": true
   },
   {
@@ -246,7 +241,7 @@
   },
   {
     "source": "/blogs/supplements/cymbiotika-vs-seed-ds-01-probiotic",
-    "destination": "/cymbiotika-vs-seed-ds-01-probiotic/",
+    "destination": "/seed-vs-pendulum/",
     "permanent": true
   },
   {
@@ -276,17 +271,17 @@
   },
   {
     "source": "/blogs/gut-health/foods-that-harm-gut-health",
-    "destination": "/worst-foods-for-gut-health/",
+    "destination": "/prunes-vs-dates-for-constipation-relief/",
     "permanent": true
   },
   {
     "source": "/blogs/skin-health/best-skincare-for-pcos-acne",
-    "destination": "/best-skincare-for-pcos-acne/",
+    "destination": "/best-probiotic-for-acne/",
     "permanent": true
   },
   {
     "source": "/blogs/skin-health/best-vegan-acne-treatment",
-    "destination": "/best-vegan-acne-treatment/",
+    "destination": "/best-probiotic-for-acne/",
     "permanent": true
   },
   {
@@ -315,11 +310,6 @@
     "permanent": true
   },
   {
-    "source": "/blog-1/",
-    "destination": "/blog/",
-    "permanent": true
-  },
-  {
     "source": "/blogs/diet",
     "destination": "/blog/",
     "permanent": true
@@ -331,7 +321,7 @@
   },
   {
     "source": "/2016/01/14/have-you-tried-meth-a-rice-alternative",
-    "destination": "/meth-the-alternative-to-the-rice-method/",
+    "destination": "/can-gerd-cause-back-pain-between-shoulder-blades/",
     "permanent": true
   },
   {
@@ -341,32 +331,32 @@
   },
   {
     "source": "/cymbiotika-golden-mind",
-    "destination": "/cymbiotika-vs-seed-ds-01-probiotic/",
+    "destination": "/seed-vs-pendulum/",
     "permanent": true
   },
   {
     "source": "/cymbiotika-nmn",
-    "destination": "/cymbiotika-vs-seed-ds-01-probiotic/",
+    "destination": "/seed-vs-pendulum/",
     "permanent": true
   },
   {
     "source": "/cymbiotika-sleep-review",
-    "destination": "/cymbiotika-vs-seed-ds-01-probiotic/",
+    "destination": "/seed-vs-pendulum/",
     "permanent": true
   },
   {
     "source": "/cymbiotika-vitamin-d",
-    "destination": "/cymbiotika-vs-seed-ds-01-probiotic/",
+    "destination": "/seed-vs-pendulum/",
     "permanent": true
   },
   {
     "source": "/cymbiotika-activated-charcoal",
-    "destination": "/cymbiotika-vs-seed-ds-01-probiotic/",
+    "destination": "/seed-vs-pendulum/",
     "permanent": true
   },
   {
     "source": "/cymbiotika-liposomal-vitamin-b12",
-    "destination": "/cymbiotika-vs-seed-ds-01-probiotic/",
+    "destination": "/seed-vs-pendulum/",
     "permanent": true
   },
   {
@@ -411,12 +401,12 @@
   },
   {
     "source": "/back-pain-massage-vs-chiropractic",
-    "destination": "/back-pain-treatment-victoria-options/",
+    "destination": "/conditions/back-pain/",
     "permanent": true
   },
   {
     "source": "/meth-method-for-injuries",
-    "destination": "/meth-the-alternative-to-the-rice-method/",
+    "destination": "/can-gerd-cause-back-pain-between-shoulder-blades/",
     "permanent": true
   },
   {
@@ -436,22 +426,22 @@
   },
   {
     "source": "/infrared-red-sauna-benefits",
-    "destination": "/sauna-blanket-benefits/",
+    "destination": "/bon-charge-sauna-blanket-review/",
     "permanent": true
   },
   {
     "source": "/best-foods-for-your-immune-system",
-    "destination": "/best-probiotic-foods-for-gut-health-naturally/",
+    "destination": "/best-sauerkraut-for-probiotics/",
     "permanent": true
   },
   {
     "source": "/best-foods-immune-system",
-    "destination": "/best-probiotic-foods-for-gut-health-naturally/",
+    "destination": "/best-sauerkraut-for-probiotics/",
     "permanent": true
   },
   {
     "source": "/molecular-hydrogen-and-cardiovascular-health-research",
-    "destination": "/molecular-hydrogen-and-inflammation-research/",
+    "destination": "/benefits-of-hydrogen-water/",
     "permanent": true
   },
   {
@@ -461,12 +451,12 @@
   },
   {
     "source": "/services/registered-massage-therapy",
-    "destination": "/services/massage-therapy-victoria/",
+    "destination": "/massage-therapist-victoria/",
     "permanent": true
   },
   {
     "source": "/services/sports-massage-victoria",
-    "destination": "/services/sports-massage-therapy/",
+    "destination": "/services/sports-massage/",
     "permanent": true
   },
   {
@@ -476,7 +466,7 @@
   },
   {
     "source": "/services/visceral-manipulation-massage-victoria",
-    "destination": "/services/visceral-manipulation-victoria/",
+    "destination": "/services/visceral-manipulation/",
     "permanent": true
   },
   {
@@ -497,11 +487,6 @@
   {
     "source": "/conditions/muscle-tension-relief",
     "destination": "/conditions/muscle-tension/",
-    "permanent": true
-  },
-  {
-    "source": "/services/visceral-manipulation-massage-victoria",
-    "destination": "/services/visceral-manipulation-victoria/",
     "permanent": true
   },
   {
@@ -526,17 +511,12 @@
   },
   {
     "source": "/best-massage-langford-clinics",
-    "destination": "/services/massage-therapy-langford/",
+    "destination": "/massage-therapist-langford/",
     "permanent": true
   },
   {
     "source": "/pages/services-1",
     "destination": "/services/",
-    "permanent": true
-  },
-  {
-    "source": "/massage-therapy-langford",
-    "destination": "/services/massage-therapy-langford/",
     "permanent": true
   },
   {
@@ -621,17 +601,17 @@
   },
   {
     "source": "/conditions/bursitis-treatment-colwood",
-    "destination": "/conditions/bursitis-treatment-victoria/",
+    "destination": "/conditions/bursitis-treatment/",
     "permanent": true
   },
   {
     "source": "/conditions/bursitis-treatment-langford",
-    "destination": "/conditions/bursitis-treatment-victoria/",
+    "destination": "/conditions/bursitis-treatment/",
     "permanent": true
   },
   {
     "source": "/conditions/it-band-syndrome-langford",
-    "destination": "/conditions/it-band-syndrome-victoria/",
+    "destination": "/conditions/it-band-syndrome/",
     "permanent": true
   },
   {
@@ -681,7 +661,7 @@
   },
   {
     "source": "/conditions/shin-splints-treatment-langford",
-    "destination": "/conditions/shin-splints-treatment-victoria/",
+    "destination": "/conditions/shin-splints/",
     "permanent": true
   },
   {
@@ -696,22 +676,22 @@
   },
   {
     "source": "/conditions/sports-injury-prevention-langford",
-    "destination": "/conditions/sports-injury-prevention-victoria/",
+    "destination": "/conditions/sports-injuries-and-prevention/",
     "permanent": true
   },
   {
     "source": "/conditions/sprains-strains-langford",
-    "destination": "/conditions/sprains-strains-victoria/",
+    "destination": "/conditions/sprains-and-strains/",
     "permanent": true
   },
   {
     "source": "/conditions/tendonitis-treatment-colwood",
-    "destination": "/conditions/tendonitis-treatment-victoria/",
+    "destination": "/conditions/tendonitis-treatment/",
     "permanent": true
   },
   {
     "source": "/conditions/tendonitis-treatment-langford",
-    "destination": "/conditions/tendonitis-treatment-victoria/",
+    "destination": "/conditions/tendonitis-treatment/",
     "permanent": true
   },
   {
@@ -781,12 +761,12 @@
   },
   {
     "source": "/service-areas/langford-massage-therapy",
-    "destination": "/services/massage-therapy-langford/",
+    "destination": "/massage-therapist-langford/",
     "permanent": true
   },
   {
     "source": "/langford-running-guide",
-    "destination": "/langford-running-injuries/",
+    "destination": "/services/sports-injury-treatment/",
     "permanent": true
   },
   {
@@ -912,31 +892,6 @@
   {
     "source": "/myofascial-release-massage",
     "destination": "/services/myofascial-release/",
-    "permanent": true
-  },
-  {
-    "source": "/services/visceral-manipulation-massage-victoria",
-    "destination": "/services/visceral-manipulation-victoria/",
-    "permanent": true
-  },
-  {
-    "source": "/conditions/neck-pain",
-    "destination": "/conditions/neck-shoulder-pain/",
-    "permanent": true
-  },
-  {
-    "source": "/conditions/neck-pain-victoria",
-    "destination": "/conditions/neck-shoulder-pain/",
-    "permanent": true
-  },
-  {
-    "source": "/conditions/sciatica",
-    "destination": "/conditions/sciatica-treatment/",
-    "permanent": true
-  },
-  {
-    "source": "/conditions/muscle-tension-relief",
-    "destination": "/conditions/muscle-tension/",
     "permanent": true
   },
   {
@@ -1116,7 +1071,7 @@
   },
   {
     "source": "/echo-water-vs-kangen/",
-    "destination": "/kangen-water-vs-hydrogen-water/",
+    "destination": "/alkaline-water-vs-hydrogen-water/",
     "permanent": true
   },
   {
@@ -1275,11 +1230,6 @@
     "permanent": true
   },
   {
-    "source": "/red-light-therapy-for-inflammation/",
-    "destination": "/red-light-therapy/",
-    "permanent": true
-  },
-  {
     "source": "/sauna-blanket-benefits/",
     "destination": "/bon-charge-sauna-blanket-review/",
     "permanent": true
@@ -1362,6 +1312,106 @@
   {
     "source": "/our-team/athletic-therapist-daryl-stubbs",
     "destination": "/our-team/daryl-stubbs/",
+    "permanent": true
+  },
+  {
+    "source": "/red-light-therapy-beds-vs-panels/",
+    "destination": "/best-red-light-therapy-panels/",
+    "permanent": true
+  },
+  {
+    "source": "/best-mental-health-quotes/",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/high-functioning-anxiety/",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/car-accidents-and-mental-health/",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/benefits-of-gratitude/",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/7-benefits-of-massage-therapy-for-victoria-residents/",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/back-pain-treatment-victoria-options/",
+    "destination": "/conditions/back-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/benefits-of-massage-therapy-colwood/",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/massage-therapy-desk-workers-langford/",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/langford-running-injuries/",
+    "destination": "/services/sports-injury-treatment/",
+    "permanent": true
+  },
+  {
+    "source": "/preparing-first-massage-session-langford/",
+    "destination": "/services/massage-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/why-rmt-massage-should-be-part-of-your-2025-wellness-plan-evidence-based-benefits-for-optimal-health/",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/services/swedish-relaxation-massage-victoria/",
+    "destination": "/services/swedish-massage/",
+    "permanent": true
+  },
+  {
+    "source": "/services/myofascial-release-massage/",
+    "destination": "/services/myofascial-release/",
+    "permanent": true
+  },
+  {
+    "source": "/services/sports-massage-therapy/",
+    "destination": "/services/sports-massage/",
+    "permanent": true
+  },
+  {
+    "source": "/services/athletic-therapy-victoria/",
+    "destination": "/services/athletic-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/services/athletic-therapy-langford/",
+    "destination": "/services/athletic-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/services/athletic-therapy-colwood/",
+    "destination": "/services/athletic-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/holistic-nutrition/",
+    "destination": "/nutrition-consulting/",
+    "permanent": true
+  },
+  {
+    "source": "/athletic-therapy-victoria/",
+    "destination": "/services/athletic-therapy/",
     "permanent": true
   }
 ]
