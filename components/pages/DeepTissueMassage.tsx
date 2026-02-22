@@ -420,7 +420,7 @@ export function DeepTissueMassage() {
                             <Link href="/services/athletic-therapy/" className="px-6 py-3 rounded-full bg-slate-50 border border-slate-200 text-slate-700 font-medium hover:bg-blue-50 hover:text-blue-700 hover:border-blue-200 transition-all">
                                 Athletic Therapy
                             </Link>
-                            <Link href="/services/sports-massage-therapy/" className="px-6 py-3 rounded-full bg-slate-50 border border-slate-200 text-slate-700 font-medium hover:bg-blue-50 hover:text-blue-700 hover:border-blue-200 transition-all">
+                            <Link href="/services/sports-massage/" className="px-6 py-3 rounded-full bg-slate-50 border border-slate-200 text-slate-700 font-medium hover:bg-blue-50 hover:text-blue-700 hover:border-blue-200 transition-all">
                                 Sports Massage
                             </Link>
                             <Link href="/services/visceral-manipulation-victoria/" className="px-6 py-3 rounded-full bg-slate-50 border border-slate-200 text-slate-700 font-medium hover:bg-blue-50 hover:text-blue-700 hover:border-blue-200 transition-all">

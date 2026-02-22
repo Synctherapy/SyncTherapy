@@ -19,7 +19,7 @@ export function SportsMassage() {
         "@context": "https://schema.org",
         "@type": "MedicalOrganization",
         "name": "Sync Massage Therapy",
-        "url": "https://synctherapy.ca/services/sports-massage-therapy",
+        "url": "https://synctherapy.ca/services/sports-massage/",
         "logo": "https://synctherapy.ca/images/logo.png",
         "contactPoint": {
             "@type": "ContactPoint",

@@ -1,0 +1,130 @@
+{
+  "redirects": [
+    {
+      "source": "/deep-tissue-massage/",
+      "destination": "/deep-tissue-massage-victoria"
+    },
+    {
+      "source": "/athletic-therapy/",
+      "destination": "/athletic-therapy-victoria"
+    },
+    {
+      "source": "/terms/",
+      "destination": "/terms-of-service"
+    },
+    {
+      "source": "/sitemap/",
+      "destination": "/html-sitemap"
+    },
+    {
+      "source": "/myofascial-release/",
+      "destination": "/services/myofascial-release"
+    },
+    {
+      "source": "/team/",
+      "destination": "/our-team/daryl-stubbs"
+    },
+    {
+      "source": "/visceral-manipulation/",
+      "destination": "/services/visceral-manipulation"
+    },
+    {
+      "source": "/services/athletic-therapy/",
+      "destination": "/athletic-therapy-victoria"
+    },
+    {
+      "source": "/about/about-sync-therapy/",
+      "destination": "/our-team/daryl-stubbs/"
+    },
+    {
+      "source": "/services/sports-massage/",
+      "destination": "/sports-massage-therapy"
+    },
+    {
+      "source": "/massage-therapist-langford/",
+      "destination": "/services/massage-therapy/"
+    },
+    {
+      "source": "/services/swedish-massage/",
+      "destination": "/services/massage-therapy/"
+    },
+    {
+      "source": "/massage-therapist-victoria/",
+      "destination": "/services/massage-therapy/"
+    },
+    {
+      "source": "/nutrition-consulting/",
+      "destination": "/services/nutrition-consulting"
+    },
+    {
+      "source": "/red-light-therapy-and-mitochondria/",
+      "destination": "/red-light-therapy/"
+    }
+  ],
+  "creates": [
+    "/conditions/shoulder-pain-relief-victoria/",
+    "/conditions/neck-pain-relief-victoria/",
+    "/conditions/chronic-pain-relief-victoria/",
+    "/conditions/sciatica-relief-victoria/",
+    "/services/ibs-diet-counseling/",
+    "/services/dietary-consultation/",
+    "/services/immune-support-nutrition/",
+    "/services/nutrition-counseling/",
+    "/services/sports-medicine/",
+    "/services/gut-health-optimization/",
+    "/services/low-fodmap-diet/",
+    "/services/supplements-advice/",
+    "/services/diabetes-nutrition/",
+    "/services/cholesterol-diet/"
+  ],
+  "ignores": [
+    {
+      "url": "https://search.google.com/local/reviews?placeid=ChIJh0e3HIV0j1QRtWxeiAnwzeo",
+      "reason": "External/Asset URL"
+    },
+    {
+      "url": "https://sync-therapy.vercel.app/_next/image/?url=%2Fimages%2Fdaryl-stubbs-thumb.jpg&w=640&q=75",
+      "reason": "Next.js system image route/ignore"
+    },
+    {
+      "url": "https://sync-therapy.vercel.app/wp-login.php?redirect_to=https%3A%2F%2Fwww.synctherapy.ca%2Fwp-admin%2Fedit.php%3Fpost_type%3Dpage&reauth=1",
+      "reason": "WordPress admin page/ignore"
+    },
+    {
+      "url": "https://ca.iherb.com/pr/thorne-women-s-daily-probiotic-30-capsules/117164?gad_campaignid=818099273&gad_source=1&gclid=CjwKCAjw-svEBhB6EiwAEzSdrkHHqtkUxk7D96Bd7w_gtUx62PO2HnYSNM591aQNOfbaIxX8zBAZmRoC36AQAvD_BwE&gclsrc=aw.ds&rcode=IQE9230",
+      "reason": "External/Asset URL"
+    },
+    {
+      "url": "https://drc.bmj.com/content/8/1/e001319",
+      "reason": "External/Asset URL"
+    },
+    {
+      "url": "https://ca.iherb.com/pr/culturelle-probiotics-women-s-4-in-1-protection-30-once-daily-vegetarian-capsules/88637?rcode=IQE9230",
+      "reason": "External/Asset URL"
+    },
+    {
+      "url": "https://www.synctherapy.ca/services/nutrition-consulting/",
+      "reason": "Already live and handled"
+    },
+    {
+      "url": "https://www.wjgnet.com/1007-9327/full/v21/i10/3072.htm",
+      "reason": "External/Asset URL"
+    },
+    {
+      "url": "https://www.synctherapy.ca/our-team/daryl-stubbs/",
+      "reason": "Already live and handled"
+    },
+    {
+      "url": "https://staging.synctherapy.ca/wordpress/wp-content/uploads/content/Infraredi-LED-Light-Therapy-Mask-using-red-light-to-improve-wrinkles-and-skin-health_224f2455-418c-43f5-9d7d-2e91414bbbec.webp",
+      "reason": "Old WordPress asset/ignore"
+    },
+    {
+      "url": "https://staging.synctherapy.ca/wordpress/wp-content/uploads/content/the-omnilux-contour-face-mask-is-a-top-rated-best-red-light-therapy-face-mask-to-help-with-aging_71d55d7a-eda3-44bb-ac46-f828263b1a50.webp",
+      "reason": "Old WordPress asset/ignore"
+    },
+    {
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/phpp.12812",
+      "reason": "External/Asset URL"
+    }
+  ]
+}

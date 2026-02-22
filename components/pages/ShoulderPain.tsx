@@ -203,7 +203,7 @@ export function ShoulderPain() {
                         </div>
 
                         <div className="grid md:grid-cols-3 gap-6">
-                            <Link href="/services/sports-massage-therapy/" className="group">
+                            <Link href="/services/sports-massage/" className="group">
                                 <GlassCard className="p-8 rounded-3xl h-full hover:border-blue-200 transition-all hover:-translate-y-1">
                                     <h3 className="text-xl font-bold text-blue-900 mb-3 group-hover:text-blue-700 transition-colors">
                                         Sports Massage →

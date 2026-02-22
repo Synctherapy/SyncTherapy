@@ -785,7 +785,7 @@
     "permanent": true
   },
   {
-    "source": "/seed-probiotics-reviews/\u2060",
+    "source": "/seed-probiotics-reviews/⁠",
     "destination": "/seed-probiotics-reviews/",
     "permanent": true
   },
@@ -1370,6 +1370,61 @@
     "permanent": true
   },
   {
+    "source": "/deep-tissue-massage/",
+    "destination": "/deep-tissue-massage-victoria",
+    "permanent": true
+  },
+  {
+    "source": "/athletic-therapy/",
+    "destination": "/athletic-therapy-victoria",
+    "permanent": true
+  },
+  {
+    "source": "/terms/",
+    "destination": "/terms-of-service",
+    "permanent": true
+  },
+  {
+    "source": "/sitemap/",
+    "destination": "/html-sitemap",
+    "permanent": true
+  },
+  {
+    "source": "/myofascial-release/",
+    "destination": "/services/myofascial-release",
+    "permanent": true
+  },
+  {
+    "source": "/team/",
+    "destination": "/our-team/daryl-stubbs",
+    "permanent": true
+  },
+  {
+    "source": "/visceral-manipulation/",
+    "destination": "/services/visceral-manipulation",
+    "permanent": true
+  },
+  {
+    "source": "/services/athletic-therapy/",
+    "destination": "/athletic-therapy-victoria",
+    "permanent": true
+  },
+  {
+    "source": "/about/about-sync-therapy/",
+    "destination": "/our-team/daryl-stubbs/",
+    "permanent": true
+  },
+  {
+    "source": "/services/sports-massage/",
+    "destination": "/sports-massage-therapy",
+    "permanent": true
+  },
+  {
+    "source": "/massage-therapist-langford/",
+    "destination": "/services/massage-therapy/",
+    "permanent": true
+  },
+  {
     "source": "/why-rmt-massage-should-be-part-of-your-2025-wellness-plan-evidence-based-benefits-for-optimal-health/",
     "destination": "/",
     "permanent": true
@@ -1412,6 +1467,46 @@
   {
     "source": "/athletic-therapy-victoria/",
     "destination": "/services/athletic-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/services/swedish-massage/",
+    "destination": "/services/massage-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/massage-therapist-victoria/",
+    "destination": "/services/massage-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/nutrition-consulting/",
+    "destination": "/services/nutrition-consulting",
+    "permanent": true
+  },
+  {
+    "source": "/red-light-therapy-and-mitochondria/",
+    "destination": "/red-light-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/shoulder-pain-relief-victoria/",
+    "destination": "/conditions/shoulder-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/neck-pain-relief-victoria/",
+    "destination": "/conditions/neck-shoulder-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/chronic-pain-relief-victoria/",
+    "destination": "/conditions/chronic-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/sciatica-relief-victoria/",
+    "destination": "/conditions/sciatica-treatment/",
     "permanent": true
   }
 ]

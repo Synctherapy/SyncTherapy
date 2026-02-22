@@ -100,26 +100,26 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         };
     }
 
-    // Custom Metadata for /services/sports-massage-therapy
+    // Custom Metadata for /services/sports-massage
     if (resolvedParams.slug.length === 2 &&
         resolvedParams.slug[0] === 'services' &&
-        resolvedParams.slug[1] === 'sports-massage-therapy') {
+        resolvedParams.slug[1] === 'sports-massage') {
         return {
             title: 'Sports Massage Colwood & Langford | Recovery RMT | Sync Therapy',
             description: 'Sports massage for runners, lifters & athletes in Colwood. Improve recovery & range of motion. Located near Juan de Fuca Rec. Direct Billing available.',
             openGraph: {
                 title: 'Sports Massage Colwood & Langford | Recovery RMT | Sync Therapy',
                 description: 'Sports massage for runners, lifters & athletes in Colwood. Improve recovery & range of motion. Located near Juan de Fuca Rec. Direct Billing available.',
-                url: 'https://www.synctherapy.ca/services/sports-massage-therapy/',
+                url: 'https://www.synctherapy.ca/services/sports-massage/',
                 siteName: 'Sync Therapy',
                 locale: 'en_CA',
                 type: 'website',
             },
             alternates: {
-                canonical: 'https://www.synctherapy.ca/services/sports-massage-therapy/',
+                canonical: 'https://www.synctherapy.ca/services/sports-massage/',
             },
         };
-    };
+    }
 
 
 
@@ -148,7 +148,7 @@ export default async function Page({ params }: Props) {
     const resolvedParams = await params;
     const item = await getContentBySlug(resolvedParams.slug);
 
-    if (!item && resolvedParams.slug[0] !== 'direct-billing' && !(resolvedParams.slug[0] === 'services' && resolvedParams.slug[1] === 'deep-tissue-massage')) {
+    if (!item && resolvedParams.slug[0] !== 'direct-billing' && !(resolvedParams.slug[0] === 'services' && (resolvedParams.slug[1] === 'deep-tissue-massage' || resolvedParams.slug[1] === 'sports-massage'))) {
         notFound();
     }
 
@@ -194,7 +194,7 @@ export default async function Page({ params }: Props) {
     // SPECIAL PAGE: Sports Massage Therapy
     if (resolvedParams.slug.length === 2 &&
         resolvedParams.slug[0] === 'services' &&
-        resolvedParams.slug[1] === 'sports-massage-therapy') {
+        resolvedParams.slug[1] === 'sports-massage') {
         return (
             <>
                 <Header />

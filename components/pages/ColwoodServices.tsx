@@ -69,7 +69,7 @@ const services: ServiceItem[] = [
         title: "Massage for Athletes",
         description: "Whether you're a trail runner, mountain biker, or gym-goer, we help you recover faster, address imbalances, and prevent injuries so you can keep doing what you love.",
         image: "/images/generated/massage-athletes-recovery-unique.png",
-        href: "/services/sports-massage-therapy",
+        href: "/services/sports-massage/",
         cta: "Optimize Performance"
     },
     {

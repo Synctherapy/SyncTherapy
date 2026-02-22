@@ -3,16 +3,17 @@
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { HeroSection } from "@/components/sections/hero-section";
-import { BioSection } from "@/components/sections/bio-section";
+import dynamic from "next/dynamic";
 
-import { DetailedServicesGrid } from "@/components/sections/detailed-services-grid";
-import { Feature as ConditionsSection } from "@/components/ui/feature-section-with-grid";
-import { TestimonialsSection } from "@/components/sections/testimonials-section";
-import { PlanSection } from "@/components/sections/plan-section"; // Process
-import { PricingSection } from "@/components/sections/pricing-section";
-import { LocationSection } from "@/components/sections/location-section";
-import { FaqSection } from "@/components/sections/faq-section";
-import { AboutOneClinic } from "@/components/sections/about-one-clinic";
+const BioSection = dynamic(() => import("@/components/sections/bio-section").then(mod => mod.BioSection));
+const DetailedServicesGrid = dynamic(() => import("@/components/sections/detailed-services-grid").then(mod => mod.DetailedServicesGrid));
+const ConditionsSection = dynamic(() => import("@/components/ui/feature-section-with-grid").then(mod => ({ default: mod.Feature })));
+const TestimonialsSection = dynamic(() => import("@/components/sections/testimonials-section").then(mod => mod.TestimonialsSection));
+const PlanSection = dynamic(() => import("@/components/sections/plan-section").then(mod => mod.PlanSection)); // Process
+const PricingSection = dynamic(() => import("@/components/sections/pricing-section").then(mod => mod.PricingSection));
+const LocationSection = dynamic(() => import("@/components/sections/location-section").then(mod => mod.LocationSection));
+const FaqSection = dynamic(() => import("@/components/sections/faq-section").then(mod => mod.FaqSection));
+const AboutOneClinic = dynamic(() => import("@/components/sections/about-one-clinic").then(mod => mod.AboutOneClinic));
 
 import { StickyMobileCTA } from "@/components/StickyMobileCTA";
 import { ScrollAnimation } from "@/components/ui/scroll-animation";
