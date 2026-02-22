@@ -114,9 +114,9 @@
 }
 
 @theme inline {
-  --font-sans: var(--font-sans), 'Inter', system-ui, sans-serif;
+  --font-sans: var(--font-inter), 'Inter', system-ui, sans-serif;
   --font-serif: var(--font-serif), 'DM Serif Display', Georgia, serif;
-  --font-mono: 'Geist Mono', 'Geist Mono Fallback';
+  --font-roboto: var(--font-roboto), 'Roboto', sans-serif;
 
   --color-navy: var(--navy);
   --color-medical-teal: var(--medical-teal);
