@@ -1,3 +1,4 @@
+import { sanitizeContent } from '@/lib/security';
 import { getContentBySlug, getAllPaths } from '@/lib/content';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
@@ -206,7 +207,7 @@ export default async function Page({ params }: Props) {
 
     // 1. Blog Post Layout
     if (item && item.type === 'post') {
-        const content = <div dangerouslySetInnerHTML={{ __html: item.content }} />;
+        const content = <div dangerouslySetInnerHTML={{ __html: sanitizeContent(item.content) }} />;
         const detectedCategory = getCategoryFromSlug(resolvedParams.slug.join('/'), item.frontmatter.category);
         const currentSlug = resolvedParams.slug.join('/');
 
@@ -386,7 +387,7 @@ export default async function Page({ params }: Props) {
         !['about', 'contact', 'home'].includes(resolvedParams.slug[0]);
 
     if (isServiceOrCondition && item) {
-        const content = <div dangerouslySetInnerHTML={{ __html: item.content }} />;
+        const content = <div dangerouslySetInnerHTML={{ __html: sanitizeContent(item.content) }} />;
         return (
             <>
                 <Header />
@@ -416,7 +417,7 @@ export default async function Page({ params }: Props) {
                 </div>
 
                 <div className="container mx-auto px-4 py-8">
-                    <div className="prose max-w-none prose-neutral dark:prose-invert" dangerouslySetInnerHTML={{ __html: item?.content || '' }} />
+                    <div className="prose max-w-none prose-neutral dark:prose-invert" dangerouslySetInnerHTML={{ __html: sanitizeContent(item?.content || '') }} />
                 </div>
             </main>
             <Footer />
