@@ -24,8 +24,8 @@ export function StickyMobileCTA() {
     if (!isVisible || isFooterVisible) return null;
 
     return (
-        <div className="fixed bottom-4 left-4 right-4 z-50 md:hidden animate-in slide-in-from-bottom-4 duration-300">
-            <Button className="w-full shadow-xl text-lg h-14 font-bold bg-accent text-accent-foreground hover:bg-accent/90" asChild>
+        <div className="fixed bottom-4 left-4 right-4 z-50 md:hidden flex justify-center animate-in slide-in-from-bottom-4 duration-300">
+            <Button className="w-full max-w-sm shadow-xl text-lg h-14 font-bold bg-accent text-accent-foreground hover:bg-accent/90" asChild>
                 <a href="https://synctherapy.janeapp.com/">Book Appointment</a>
             </Button>
         </div>
