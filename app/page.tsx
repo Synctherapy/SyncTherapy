@@ -1,5 +1,7 @@
+import { Suspense } from 'react';
 import { HomeLayout } from "@/components/layouts/HomeLayout";
 import { Metadata } from 'next';
+import { ReviewsLoadingSkeleton } from "@/components/testimonials/ReviewsLoadingSkeleton";
 
 export const metadata: Metadata = {
   title: 'Massage Therapist Colwood | RMT Colwood | Sync Therapy',
@@ -71,7 +73,13 @@ export default function Home() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
       />
-      <HomeLayout reviewsComponent={<GoogleReviewsColumns />} />
+      <HomeLayout
+        reviewsComponent={
+          <Suspense fallback={<ReviewsLoadingSkeleton />}>
+            <GoogleReviewsColumns />
+          </Suspense>
+        }
+      />
     </>
   );
 }
