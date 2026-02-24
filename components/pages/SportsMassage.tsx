@@ -1,5 +1,6 @@
 "use client";
 
+import { ServiceSchema } from '@/components/ServiceSchema';
 import { HeroSection } from "@/components/sections/hero-section";
 import { LocationSection } from "@/components/sections/location-section";
 import { FaqSection } from "@/components/sections/faq-section";
@@ -15,33 +16,6 @@ import { FirstVisitRoadmap } from "@/components/sections/first-visit-roadmap";
 import { Pricing } from "@/components/ui/pricing";
 
 export function SportsMassage() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@type": "MedicalOrganization",
-        "name": "Sync Massage Therapy",
-        "url": "https://synctherapy.ca/services/sports-massage/",
-        "logo": "https://synctherapy.ca/images/logo.png",
-        "contactPoint": {
-            "@type": "ContactPoint",
-            "telephone": "+1-250-812-8698",
-            "contactType": "customer service"
-        },
-        "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "328 Wale Rd #120",
-            "addressLocality": "Colwood",
-            "addressRegion": "BC",
-            "postalCode": "V9B 0J8",
-            "addressCountry": "CA"
-        },
-        "medicalSpecialty": "SportsPhysicalTherapy",
-        "availableService": {
-            "@type": "MedicalService",
-            "name": "Sports Massage Therapy",
-            "description": "Sports massage for athletes, runners, and active individuals in Colwood & West Shore."
-        }
-    };
-
     const pricingPlans = [
         {
             name: "75 Minute Massage",
@@ -94,10 +68,27 @@ export function SportsMassage() {
 
     return (
         <div className="bg-background min-h-screen relative selection:bg-blue-100 selection:text-blue-900 overflow-hidden">
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-            />
+            <ServiceSchema
+                    type="service"
+                    name="Sports Massage & Athletic Recovery in Colwood"
+                    description="Ideal for addressing multiple areas or complex conditions."
+                    slug="sports-massage"
+                    breadcrumbLabel="Sports Massage & Athletic Recovery in Colwood"
+                    faqItems={[
+                              {
+                                        "question": "When should I get a massage: Before or After an event?",
+                                        "answer": "Pre-Event: 2-3 days before to prime muscles (not too deep). Post-Event: 24-48 hours after to flush waste and reduce soreness. Immediately after can sometimes be too intense."
+                              },
+                              {
+                                        "question": "Is this different from Athletic Therapy?",
+                                        "answer": "Yes. Sports Massage focuses on tissue health, recovery, and maintenance. Athletic Therapy is a distinct profession focused on acute injury assessment, field care, and rehabilitation."
+                              },
+                              {
+                                        "question": "Do you treat non-athletes?",
+                                        "answer": "Absolutely. If you have an active job or lifestyle, 'Sports Massage' is simply a focused, results-driven treatment style."
+                              }
+                    ]}
+                />
 
             {/* Global Fluid Background */}
             <div className="fixed inset-0 z-0 pointer-events-none overflow-hidden">
@@ -309,43 +300,6 @@ export function SportsMassage() {
 
                 {/* 7. Roadmap */}
                 <FirstVisitRoadmap />
-
-                {/* 8. FAQ */}
-                <script
-                    type="application/ld+json"
-                    dangerouslySetInnerHTML={{
-                        __html: JSON.stringify({
-                            "@context": "https://schema.org",
-                            "@type": "FAQPage",
-                            "mainEntity": [
-                                {
-                                    "@type": "Question",
-                                    "name": "When should I get a massage: Before or After an event?",
-                                    "acceptedAnswer": {
-                                        "@type": "Answer",
-                                        "text": "Pre-Event: 2-3 days before to prime muscles (not too deep). Post-Event: 24-48 hours after to flush waste and reduce soreness. Immediately after can sometimes be too intense."
-                                    }
-                                },
-                                {
-                                    "@type": "Question",
-                                    "name": "Is this different from Athletic Therapy?",
-                                    "acceptedAnswer": {
-                                        "@type": "Answer",
-                                        "text": "Yes. Sports Massage focuses on tissue health, recovery, and maintenance. Athletic Therapy is a distinct profession focused on acute injury assessment, field care, and rehabilitation."
-                                    }
-                                },
-                                {
-                                    "@type": "Question",
-                                    "name": "Do you treat non-athletes?",
-                                    "acceptedAnswer": {
-                                        "@type": "Answer",
-                                        "text": "Absolutely. If you have an active job or lifestyle, 'Sports Massage' is simply a focused, results-driven treatment style."
-                                    }
-                                }
-                            ]
-                        })
-                    }}
-                />
                 <FaqSection
                     heading="Performance & Recovery FAQ"
                     description="Answers to common questions about sports massage."

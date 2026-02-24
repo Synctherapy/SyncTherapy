@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import { ServiceSchema } from '@/components/ServiceSchema';
 import Link from 'next/link';
 import Image from "next/image";
 import Header from '@/components/Header';
@@ -15,63 +16,31 @@ export const metadata: Metadata = {
 };
 
 export default function IbsDietCounselingPage() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "How long does a dietary assessment take?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Initial assessments for IBS dietary counseling typically take 60 minutes. This allows time for a thorough review of your symptoms and dietary habits."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Do I need to stop eating all my favorite foods?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "No. Our approach focuses on identifying specific trigger foods and finding comfortable, sustainable alternatives rather than strict, unnecessary restrictions."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Can manual therapy help my digestion?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Yes. Visceral manipulation can help reduce physical tension in the abdomen, supporting overall digestive comfort when combined with dietary changes."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <main>
             <Header />
             <div className="bg-white text-gray-900 font-sans">
-                {/* 1. JSON-LD Schema */}
-                <script
-                    type="application/ld+json"
-                    dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+                {/* JSON-LD Schema */}
+                <ServiceSchema
+                    type="service"
+                    name="IBS Diet Counseling"
+                    description="Empathetic, investigative IBS diet counseling in Colwood. We focus on comprehensive dietary analysis and trigger-food isolation to manage hidden patterns."
+                    slug="ibs-diet-counseling"
+                    breadcrumbLabel="IBS Diet Counseling"
+                    faqItems={[
+                              {
+                                        "question": "How long does a dietary assessment take?",
+                                        "answer": "Initial assessments for IBS dietary counseling typically take 60 minutes. This allows time for a thorough review of your symptoms and dietary habits."
+                              },
+                              {
+                                        "question": "Do I need to stop eating all my favorite foods?",
+                                        "answer": "No. Our approach focuses on identifying specific trigger foods and finding comfortable, sustainable alternatives rather than strict, unnecessary restrictions."
+                              },
+                              {
+                                        "question": "Can manual therapy help my digestion?",
+                                        "answer": "Yes. Visceral manipulation can help reduce physical tension in the abdomen, supporting overall digestive comfort when combined with dietary changes."
+                              }
+                    ]}
                 />
 
                 {/* 2. Breadcrumbs */}

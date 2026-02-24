@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import { ServiceSchema } from '@/components/ServiceSchema';
 import Link from 'next/link';
 import Image from "next/image";
 import Header from '@/components/Header';
@@ -15,63 +16,31 @@ export const metadata: Metadata = {
 };
 
 export default function LowFodmapDietPage() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "Is the Low FODMAP diet a permanent diet?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "No. The Low FODMAP diet is a temporary, 3-phase diagnostic tool used to identify specific intolerances. Long-term restriction is discouraged as it can negatively impact microbiome diversity."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Will I have to cook all my meals from scratch?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "While cooking at home gives you the most control over hidden ingredients (like garlic and onion powders), we provide practical strategies for navigating social events and dining out during the elimination phase."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "How long does the elimination phase normally last?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "The initial strict elimination phase typically lasts between 2 to 6 weeks. Once symptoms are adequately managed, we immediately begin the structured reintroduction phase."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <main>
             <Header />
             <div className="bg-white text-gray-900 font-sans">
-                {/* 1. JSON-LD Schema */}
-                <script
-                    type="application/ld+json"
-                    dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+                {/* JSON-LD Schema */}
+                <ServiceSchema
+                    type="service"
+                    name="Low FODMAP Diet Guidance"
+                    description="Structured, relieving Low FODMAP guidance in Colwood. We guide you through elimination and reintroduction protocols to isolate fermentable carbohydrate distress."
+                    slug="low-fodmap-diet"
+                    breadcrumbLabel="Low FODMAP Diet"
+                    faqItems={[
+                              {
+                                        "question": "Is the Low FODMAP diet a permanent diet?",
+                                        "answer": "No. The Low FODMAP diet is a temporary, 3-phase diagnostic tool used to identify specific intolerances. Long-term restriction is discouraged as it can negatively impact microbiome diversity."
+                              },
+                              {
+                                        "question": "Will I have to cook all my meals from scratch?",
+                                        "answer": "While cooking at home gives you the most control over hidden ingredients (like garlic and onion powders), we provide practical strategies for navigating social events and dining out during the elimination phase."
+                              },
+                              {
+                                        "question": "How long does the elimination phase normally last?",
+                                        "answer": "The initial strict elimination phase typically lasts between 2 to 6 weeks. Once symptoms are adequately managed, we immediately begin the structured reintroduction phase."
+                              }
+                    ]}
                 />
 
                 {/* 2. Breadcrumbs */}

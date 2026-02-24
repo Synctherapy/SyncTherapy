@@ -1,9 +1,12 @@
+"use client";
+import { useState, useEffect } from "react";
 import { Star } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
-import { getGoogleReviews, PLACE_ID } from "@/lib/google";
 import { Button } from "@/components/ui/button";
+import { fetchGoogleReviewsAction } from "@/lib/actions/google-reviews";
 
+const PLACE_ID = "ChIJh0e3HIV0j1QRtWxeiAnwzeo"; // Sync Therapy Colwood (Correct ID)
 
 interface ReviewProps {
     img: string;
@@ -56,43 +59,28 @@ const ReviewCard = ({ img, name, username, body, rating }: ReviewProps) => {
 
 // Client Component for Marquee
 function ReviewsMarquee({ reviews }: { reviews: any[] }) {
-    // Determine layout: if only 1 column worth of reviews or mobile, ensuring full width
-    // Tailwind config "animate-marquee-vertical" expects content to be duplicated for smooth loop.
-
-    // Safety check: ensure we have reviews
     if (!reviews || reviews.length === 0) return null;
-
-    // Split reviews into two columns if we have enough, otherwise repeated in one or just one.
-    // For a nice density, we want at least 3-4 items per column.
 
     const mid = Math.ceil(reviews.length / 2);
     const col1 = reviews.slice(0, mid);
     const col2 = reviews.slice(mid);
 
-    // If not enough reviews for 2 columns (e.g. < 6), duplicate them in col1 and hide col2?
-    // User requested "one half" fix.
-    // Better to have two balanced columns on desktop.
-
     return (
         <div className="relative flex h-[500px] w-full flex-row items-start gap-4 overflow-hidden px-4 md:px-0 max-w-7xl mx-auto">
-            {/* Column 1 */}
             <div className="flex-1 flex flex-col gap-4 animate-marquee-vertical">
                 {col1.map((review, i) => (
                     <ReviewCard key={`c1-${i}`} {...review} />
                 ))}
-                {/* Duplicate for Marquee Loop */}
                 {col1.map((review, i) => (
                     <ReviewCard key={`c1-dup-${i}`} {...review} />
                 ))}
             </div>
 
-            {/* Column 2 - Only show if we have content, otherwise Column 1 expands to flex-1 (full width if alone? no, gap will separate) */}
             {col2.length > 0 && (
                 <div className="hidden md:flex flex-1 flex-col gap-4 animate-marquee-vertical-reverse">
                     {col2.map((review, i) => (
                         <ReviewCard key={`c2-${i}`} {...review} />
                     ))}
-                    {/* Duplicate for Marquee Loop */}
                     {col2.map((review, i) => (
                         <ReviewCard key={`c2-dup-${i}`} {...review} />
                     ))}
@@ -105,25 +93,24 @@ function ReviewsMarquee({ reviews }: { reviews: any[] }) {
     )
 }
 
-// Async Server Component
-export async function GoogleReviewsColumns() {
-    const realReviews = await getGoogleReviews();
+export function GoogleReviewsColumns() {
+    const [formattedReviews, setFormattedReviews] = useState<any[]>([]);
+    const [isLoading, setIsLoading] = useState<boolean>(true);
 
-    // Transform real reviews to match ReviewProps if needed, or pass directly if keys match.
-    // Google API returns: author_name, profile_photo_url, rating, text, relative_time_description
-    // ReviewCard expects: img, name, username, body, rating.
-
-    const formattedReviews = realReviews.map((r: any) => ({
-        img: r.profile_photo_url || "https://avatar.vercel.sh/google",
-        name: r.author_name,
-        username: r.relative_time_description || "Google Review",
-        body: r.text,
-        rating: r.rating
-    }));
+    useEffect(() => {
+        fetchGoogleReviewsAction()
+            .then((data) => {
+                setFormattedReviews(data);
+                setIsLoading(false);
+            })
+            .catch((err) => {
+                console.error("Failed to load reviews:", err);
+                setIsLoading(false);
+            });
+    }, []);
 
     return (
         <section className="relative py-20 bg-slate-50 dark:bg-black/20 overflow-hidden">
-            {/* Google Brand Colors Top Border */}
             <div className="absolute top-0 left-0 right-0 h-1.5 flex">
                 <div className="flex-1 bg-[#4285F4]"></div>
                 <div className="flex-1 bg-[#EA4335]"></div>
@@ -142,7 +129,11 @@ export async function GoogleReviewsColumns() {
                 <p className="text-muted-foreground">Recent 5-Star Reviews from your neighbors in Colwood & Langford.</p>
             </div>
 
-            {formattedReviews.length > 0 ? (
+            {isLoading ? (
+                <div className="flex justify-center h-[200px] items-center">
+                    <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-blue-600"></div>
+                </div>
+            ) : formattedReviews.length > 0 ? (
                 <ReviewsMarquee reviews={formattedReviews} />
             ) : (
                 <p className="text-center text-muted-foreground italic">Temporarily unavailable. Please check our Google Business Profile.</p>

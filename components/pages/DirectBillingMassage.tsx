@@ -1,5 +1,6 @@
 "use client";
 
+import { ServiceSchema } from '@/components/ServiceSchema';
 import { HeroSection } from "@/components/sections/hero-section";
 import { ColwoodServices } from "@/components/pages/ColwoodServices";
 import { PricingSection } from "@/components/sections/pricing-section";
@@ -16,48 +17,15 @@ import { DirectBillingBar } from "@/components/sections/direct-billing-bar";
 import { FirstVisitRoadmap } from "@/components/sections/first-visit-roadmap";
 
 export function DirectBillingMassage() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@type": "LocalBusiness",
-        "name": "Sync Massage Therapy",
-        "image": "https://synctherapy.ca/images/massage-treatment.jpg",
-        "telephone": "+1-250-812-8698",
-        "email": "info@synctherapy.ca",
-        "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "328 Wale Rd #120",
-            "addressLocality": "Colwood",
-            "addressRegion": "BC",
-            "postalCode": "V9B 0J8",
-            "addressCountry": "CA"
-        },
-        "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 48.4359,
-            "longitude": -123.4752
-        },
-        "url": "https://synctherapy.ca/services/direct-billing-massage",
-        "priceRange": "$$",
-        "hasOfferCatalog": {
-            "@type": "OfferCatalog",
-            "name": "Therapeutic Massage Services",
-            "itemListElement": [
-                { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Deep Tissue Massage" } },
-                { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Sports Massage" } },
-                { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Myofascial Release" } },
-                { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Trigger Point Therapy" } },
-                { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Relaxation Massage" } },
-                { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Direct Billing Massage" } }
-            ]
-        }
-    };
-
     return (
         <div className="bg-background min-h-screen relative selection:bg-blue-100 selection:text-blue-900 overflow-hidden">
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-            />
+            <ServiceSchema
+                    type="service"
+                    name="Direct Billing Massage & Athletic Therapy in Victoria (Colwood)"
+                    description=""
+                    slug="direct-billing-massage"
+                    breadcrumbLabel="Direct Billing Massage & Athletic Therapy in Victoria (Colwood)"
+                />
 
             {/* Global Fluid Background */}
             <div className="fixed inset-0 z-0 pointer-events-none overflow-hidden">

@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import { ServiceSchema } from '@/components/ServiceSchema';
 import Link from 'next/link';
 import Image from "next/image";
 import Header from '@/components/Header';
@@ -15,63 +16,31 @@ export const metadata: Metadata = {
 };
 
 export default function SportsInjuryTreatmentPage() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "When should I seek treatment for a sports injury?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "It is best to seek clinical assessment within the first 48 to 72 hours of an acute injury. Early intervention helps manage initial inflammation safely and sets a foundation for faster remodeling."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Does treatment hurt?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "We prioritize pain-free, controlled movement. While rehabilitating injured tissue may involve some discomfort, we actively communicate to ensure treatments remain within your therapeutic tolerance."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "How is this different from regular massage?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Sports injury treatment incorporates active rehabilitation, tissue loading assessments, and the P.E.A.C.E. & L.O.V.E. protocols to actively rebuild tissue capacity, going beyond simple relaxation."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <main>
             <Header />
             <div className="bg-white text-gray-900 font-sans">
-                {/* 1. JSON-LD Schema */}
-                <script
-                    type="application/ld+json"
-                    dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+                {/* JSON-LD Schema */}
+                <ServiceSchema
+                    type="service"
+                    name="Sports Injury Treatment"
+                    description="Urgent, clinical, and performance-focused sports injury treatment in Colwood. We manage tissue loading and safely rehabilitate athletic injuries."
+                    slug="sports-injury-treatment"
+                    breadcrumbLabel="Sports Injury Treatment"
+                    faqItems={[
+                              {
+                                        "question": "When should I seek treatment for a sports injury?",
+                                        "answer": "It is best to seek clinical assessment within the first 48 to 72 hours of an acute injury. Early intervention helps manage initial inflammation safely and sets a foundation for faster remodeling."
+                              },
+                              {
+                                        "question": "Does treatment hurt?",
+                                        "answer": "We prioritize pain-free, controlled movement. While rehabilitating injured tissue may involve some discomfort, we actively communicate to ensure treatments remain within your therapeutic tolerance."
+                              },
+                              {
+                                        "question": "How is this different from regular massage?",
+                                        "answer": "Sports injury treatment incorporates active rehabilitation, tissue loading assessments, and the P.E.A.C.E. & L.O.V.E. protocols to actively rebuild tissue capacity, going beyond simple relaxation."
+                              }
+                    ]}
                 />
 
                 {/* 2. Breadcrumbs */}

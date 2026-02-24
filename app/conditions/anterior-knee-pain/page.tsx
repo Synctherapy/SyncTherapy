@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import { ServiceSchema } from '@/components/ServiceSchema';
 import Link from 'next/link';
 import Image from "next/image";
 import Header from '@/components/Header';
@@ -15,63 +16,31 @@ export const metadata: Metadata = {
 };
 
 export default function AnteriorKneePainPage() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "Do I have to stop running entirely?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Not always. We focus on load management. Often, modifying a runner's weekly volume or adjusting biomechanical stride rather than completely halting activity produces the most effective adaptation."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Is my knee cartilage permanently damaged?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Anterior knee pain is frequently caused by friction and active tissue inflammation, not permanent arthritis. Retraining how the kneecap moves usually resolves the localized pain entirely."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Will a knee brace fix this?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "A brace can provide temporary proprioceptive relief, but it acts solely as a band-aid. True rehabilitation requires strengthening the hip and thigh muscles to naturally pull the kneecap back into proper alignment."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <main>
             <Header />
             <div className="bg-white text-gray-900 font-sans">
-                {/* 1. JSON-LD Schema */}
-                <script
-                    type="application/ld+json"
-                    dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+                {/* JSON-LD Schema */}
+                <ServiceSchema
+                    type="condition"
+                    name="Anterior Knee Pain (Runner's Knee)"
+                    description="Biomechanical and corrective Anterior Knee Pain treatment in Colwood. We assess patellar tracking to relieve Runner\"
+                    slug="anterior-knee-pain"
+                    breadcrumbLabel="Anterior Knee Pain"
+                    faqItems={[
+                              {
+                                        "question": "Do I have to stop running entirely?",
+                                        "answer": "Not always. We focus on load management. Often, modifying a runner's weekly volume or adjusting biomechanical stride rather than completely halting activity produces the most effective adaptation."
+                              },
+                              {
+                                        "question": "Is my knee cartilage permanently damaged?",
+                                        "answer": "Anterior knee pain is frequently caused by friction and active tissue inflammation, not permanent arthritis. Retraining how the kneecap moves usually resolves the localized pain entirely."
+                              },
+                              {
+                                        "question": "Will a knee brace fix this?",
+                                        "answer": "A brace can provide temporary proprioceptive relief, but it acts solely as a band-aid. True rehabilitation requires strengthening the hip and thigh muscles to naturally pull the kneecap back into proper alignment."
+                              }
+                    ]}
                 />
 
                 {/* 2. Breadcrumbs */}

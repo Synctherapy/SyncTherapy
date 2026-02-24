@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import { ServiceSchema } from '@/components/ServiceSchema';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import Link from 'next/link';
@@ -14,70 +15,19 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "logo": "https://synctherapy.ca/images/logo.png",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                },
-                "telephone": "+1-250-812-8698",
-                "priceRange": "$$"
-            },
-            {
-                "@type": "MedicalWebPage",
-                "@id": "https://synctherapy.ca/conditions/headaches-migraines/#webpage",
-                "url": "https://synctherapy.ca/conditions/headaches-migraines/",
-                "name": "Headache & Migraine Treatment in Colwood",
-                "isPartOf": { "@id": "https://synctherapy.ca/#website" }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "Can massage help during an active migraine?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "During the acute, throbbing phase of a migraine, treatment may be too intense. We focus on treating you *between* episodes to reduce the frequency and severity of future attacks."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Do you treat TMJ and jaw pain?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Yes, tension in the jaw muscles is a massive contributor to headaches. We are trained to safely treat the muscles of mastication (chewing) to relieve this pressure."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Do I need a doctor's referral for headache treatment?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "No referral is necessary to book an assessment, though some extended health plans require one for direct billing purposes."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <main className="bg-white text-gray-900 font-sans">
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+            <ServiceSchema
+                type="condition"
+                name="Headaches & Migraines Treatment in Colwood"
+                description="Headache and migraine relief through clinical massage therapy. We target the true structural root causes."
+                slug="headaches-migraines"
+                breadcrumbLabel="Headaches & Migraines"
+                faqItems={[
+                    { question: "Can massage actually help migraines?", answer: "Yes. Many migraines originate from tension in the suboccipital muscles at the base of the skull. Releasing these muscles can reduce both frequency and intensity." },
+                    { question: "How many sessions will I need?", answer: "Most patients notice significant improvement within 3-4 sessions. Chronic migraine sufferers may benefit from ongoing monthly maintenance." },
+                    { question: "Is this covered by insurance?", answer: "Yes, all treatments are performed by Registered Massage Therapists and are covered by most extended health plans. We direct bill Pacific Blue Cross, Canada Life, and Sun Life." }
+                ]}
             />
             <Header />
 

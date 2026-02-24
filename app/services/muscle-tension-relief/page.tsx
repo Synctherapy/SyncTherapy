@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import { ServiceSchema } from '@/components/ServiceSchema';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import Link from 'next/link';
@@ -14,62 +15,18 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "logo": "https://synctherapy.ca/images/logo.png",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                },
-                "telephone": "+1-250-812-8698",
-                "priceRange": "$$"
-            },
-            {
-                "@type": "MedicalWebPage",
-                "@id": "https://synctherapy.ca/services/muscle-tension-relief/#webpage",
-                "url": "https://synctherapy.ca/services/muscle-tension-relief/",
-                "name": "Muscle Tension Relief in Colwood",
-                "isPartOf": { "@id": "https://synctherapy.ca/#website" }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "Why does my muscle tension always come back?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Tension returns if the root cause (like poor desk posture or weak stabilizing muscles) isn't addressed. We treat the tension and advise you on biomechanics."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Does direct billing cover tension relief?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Yes, tension relief performed by our RMTs is fully covered under standard extended health benefits."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <main className="bg-white text-gray-900 font-sans">
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+            <ServiceSchema
+                type="service"
+                name="Muscle Tension Relief in Colwood"
+                description="Targeted muscle tension relief massage for desk workers and those with persistent aches from poor posture and stress."
+                slug="muscle-tension-relief"
+                breadcrumbLabel="Muscle Tension Relief"
+                faqItems={[
+                    { question: "Why does my muscle tension always come back?", answer: "Tension returns if the root cause (like poor desk posture or weak stabilizing muscles) isn't addressed. We treat the tension and advise you on biomechanics." },
+                    { question: "Does direct billing cover tension relief?", answer: "Yes, tension relief performed by our RMTs is fully covered under standard extended health benefits." }
+                ]}
             />
             <Header />
 

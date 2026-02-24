@@ -1,5 +1,6 @@
 "use client";
 
+import { ServiceSchema } from '@/components/ServiceSchema';
 import { LocationSection } from "@/components/sections/location-section";
 import { FaqSection } from "@/components/sections/faq-section";
 import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-columns";
@@ -13,33 +14,6 @@ import { FirstVisitRoadmap } from "@/components/sections/first-visit-roadmap";
 import { Pricing } from "@/components/ui/pricing";
 
 export function PainManagement() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@type": "MedicalOrganization",
-        "name": "Sync Therapy Pain Management",
-        "url": "https://synctherapy.ca/services/pain-management",
-        "logo": "https://synctherapy.ca/images/logo.png",
-        "contactPoint": {
-            "@type": "ContactPoint",
-            "telephone": "+1-250-812-8698",
-            "contactType": "customer service"
-        },
-        "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "328 Wale Rd #120",
-            "addressLocality": "Colwood",
-            "addressRegion": "BC",
-            "postalCode": "V9B 0J8",
-            "addressCountry": "CA"
-        },
-        "medicalSpecialty": "PainManagement",
-        "availableService": {
-            "@type": "MedicalService",
-            "name": "Pain Management",
-            "description": "Specialized pain management focusing on nervous system regulation and chronic inflammation."
-        }
-    };
-
     const pricingPlans = [
         {
             name: "75 Minute Pain Management",
@@ -102,10 +76,13 @@ export function PainManagement() {
 
     return (
         <div className="bg-background min-h-screen relative selection:bg-blue-100 selection:text-blue-900 overflow-hidden">
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-            />
+            <ServiceSchema
+                    type="service"
+                    name="Pain Management & Chronic Pain Relief in Colwood"
+                    description="Ideal for complex chronic pain conditions."
+                    slug="pain-management"
+                    breadcrumbLabel="Pain Management & Chronic Pain Relief in Colwood"
+                />
 
             {/* Global Fluid Background */}
             <div className="fixed inset-0 z-0 pointer-events-none overflow-hidden">

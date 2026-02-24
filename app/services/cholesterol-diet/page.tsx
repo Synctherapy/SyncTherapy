@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import { ServiceSchema } from '@/components/ServiceSchema';
 import Link from 'next/link';
 import Image from "next/image";
 import Header from '@/components/Header';
@@ -15,63 +16,31 @@ export const metadata: Metadata = {
 };
 
 export default function CholesterolDietPage() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "Are eggs practically forbidden on this diet?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "No. Modern nutritional science differentiates between dietary cholesterol (like in eggs) and blood cholesterol levels. Recommending a balance of nutrient-dense whole foods over heavily processed trans fats is our priority."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Can you take me off my statin medication?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "No. Under no circumstances do we override or alter a doctor's medical prescriptions. We provide foundational dietary counseling designed to complement your established medical care."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "How quickly can diet impact my cholesterol numbers?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Dietary changes require time and consistency to reflect in blood panels. We typically focus on establishing sustainable habits over a 3-to-6-month period before looking for measurable trends with your physician."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <main>
             <Header />
             <div className="bg-white text-gray-900 font-sans">
-                {/* 1. JSON-LD Schema */}
-                <script
-                    type="application/ld+json"
-                    dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+                {/* JSON-LD Schema */}
+                <ServiceSchema
+                    type="service"
+                    name="Cholesterol Management Diet"
+                    description="Heart-healthy cholesterol management diet guidance in Colwood. We focus on structural fat ratio analysis and soluble fiber intake to support your cardiovascular system."
+                    slug="cholesterol-diet"
+                    breadcrumbLabel="Cholesterol Diet"
+                    faqItems={[
+                              {
+                                        "question": "Are eggs practically forbidden on this diet?",
+                                        "answer": "No. Modern nutritional science differentiates between dietary cholesterol (like in eggs) and blood cholesterol levels. Recommending a balance of nutrient-dense whole foods over heavily processed trans fats is our priority."
+                              },
+                              {
+                                        "question": "Can you take me off my statin medication?",
+                                        "answer": "No. Under no circumstances do we override or alter a doctor's medical prescriptions. We provide foundational dietary counseling designed to complement your established medical care."
+                              },
+                              {
+                                        "question": "How quickly can diet impact my cholesterol numbers?",
+                                        "answer": "Dietary changes require time and consistency to reflect in blood panels. We typically focus on establishing sustainable habits over a 3-to-6-month period before looking for measurable trends with your physician."
+                              }
+                    ]}
                 />
 
                 {/* 2. Breadcrumbs */}

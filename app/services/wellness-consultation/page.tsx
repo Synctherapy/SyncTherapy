@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import { ServiceSchema } from '@/components/ServiceSchema';
 import Link from 'next/link';
 import Image from "next/image";
 import Header from '@/components/Header';
@@ -15,63 +16,31 @@ export const metadata: Metadata = {
 };
 
 export default function WellnessConsultationPage() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "What exactly happens during a wellness consultation?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "We conduct a comprehensive audit of your current health history, daily habits, sleep hygiene, and nutritional intake to establish a clear baseline and identify systemic areas for optimization."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Do I need to be in physical pain to benefit from this?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Not at all. A wellness consultation is highly proactive. It is designed to optimize your baseline health, improve daily energy levels, and prevent future systemic or musculoskeletal issues before they arise."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Is this a one-time session or ongoing support?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "It can be either. Many clients start with an initial comprehensive consultation to establish their baseline, and then continue with follow-up sessions to track lifestyle habits and adjust their personalized plans."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <main>
             <Header />
             <div className="bg-white text-gray-900 font-sans">
-                {/* 1. JSON-LD Schema */}
-                <script
-                    type="application/ld+json"
-                    dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+                {/* JSON-LD Schema */}
+                <ServiceSchema
+                    type="service"
+                    name="Holistic Wellness Consultation"
+                    description="Encouraging, comprehensive Holistic Wellness Consultation in Colwood. Optimize your baseline health proactively with personalized lifestyle and habit tracking."
+                    slug="wellness-consultation"
+                    breadcrumbLabel="Wellness Consultation"
+                    faqItems={[
+                              {
+                                        "question": "What exactly happens during a wellness consultation?",
+                                        "answer": "We conduct a comprehensive audit of your current health history, daily habits, sleep hygiene, and nutritional intake to establish a clear baseline and identify systemic areas for optimization."
+                              },
+                              {
+                                        "question": "Do I need to be in physical pain to benefit from this?",
+                                        "answer": "Not at all. A wellness consultation is highly proactive. It is designed to optimize your baseline health, improve daily energy levels, and prevent future systemic or musculoskeletal issues before they arise."
+                              },
+                              {
+                                        "question": "Is this a one-time session or ongoing support?",
+                                        "answer": "It can be either. Many clients start with an initial comprehensive consultation to establish their baseline, and then continue with follow-up sessions to track lifestyle habits and adjust their personalized plans."
+                              }
+                    ]}
                 />
 
                 {/* 2. Breadcrumbs */}

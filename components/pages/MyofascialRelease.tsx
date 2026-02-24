@@ -1,82 +1,35 @@
 "use client";
 
+import { ServiceSchema } from '@/components/ServiceSchema';
 import React from 'react';
 import Link from 'next/link';
 import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-columns";
 import Image from "next/image";
 
 export function MyofascialRelease() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "logo": "https://synctherapy.ca/images/logo.png",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                },
-                "telephone": "+1-250-812-8698",
-                "priceRange": "$$",
-                "knowsAbout": ["Myofascial Release", "Massage Therapy", "Chronic Pain", "Scar Tissue"]
-            },
-            {
-                "@type": "MedicalWebPage",
-                "@id": "https://synctherapy.ca/services/myofascial-release/#webpage",
-                "url": "https://synctherapy.ca/services/myofascial-release/",
-                "name": "Myofascial Release Therapy Colwood & Langford",
-                "isPartOf": { "@id": "https://synctherapy.ca/#website" },
-                "about": {
-                    "@type": "TherapeuticProcedure",
-                    "name": "Myofascial Release",
-                    "description": "A safe and effective hands-on technique that involves applying gentle sustained pressure into the Myofascial connective tissue restrictions to eliminate pain and restore motion."
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "Does myofascial release hurt?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "No, it is generally very relaxing. Unlike deep tissue massage, it uses sustained, slow pressure to stretch the fascial web safely without forcing the muscle."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Is this covered by RMT benefits?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Yes, myofascial release performed by our Registered Massage Therapists is fully covered under standard extended health benefits."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Do you use oil for this?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Typically, no. We need a slight 'drag' on the skin to engage the fascial layer properly, so it is often performed with little to no lotion."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <div className="bg-white text-gray-900 font-sans">
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-            />
+            <ServiceSchema
+                    type="service"
+                    name="in Colwood & Langford"
+                    description=""
+                    slug="myofascial-release"
+                    breadcrumbLabel="in Colwood & Langford"
+                    faqItems={[
+                              {
+                                        "question": "Does myofascial release hurt?",
+                                        "answer": "No, it is generally very relaxing. Unlike deep tissue massage, it uses sustained, slow pressure to stretch the fascial web safely without forcing the muscle."
+                              },
+                              {
+                                        "question": "Is this covered by RMT benefits?",
+                                        "answer": "Yes, myofascial release performed by our Registered Massage Therapists is fully covered under standard extended health benefits."
+                              },
+                              {
+                                        "question": "Do you use oil for this?",
+                                        "answer": "Typically, no. We need a slight 'drag' on the skin to engage the fascial layer properly, so it is often performed with little to no lotion."
+                              }
+                    ]}
+                />
 
             {/* 0. BREADCRUMBS */}
             <div className="bg-blue-950 pt-4 px-4">

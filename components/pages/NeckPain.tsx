@@ -1,5 +1,6 @@
 "use client";
 
+import { ServiceSchema } from '@/components/ServiceSchema';
 import { LocationSection } from "@/components/sections/location-section";
 import { FaqSection } from "@/components/sections/faq-section";
 import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-columns";
@@ -12,38 +13,14 @@ import { DirectBillingBar } from "@/components/sections/direct-billing-bar";
 import { FirstVisitRoadmap } from "@/components/sections/first-visit-roadmap";
 
 export function NeckPain() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@type": "MedicalOrganization",
-        "name": "Sync Therapy Neck Pain Treatment",
-        "url": "https://synctherapy.ca/conditions/neck-pain/",
-        "logo": "https://synctherapy.ca/images/logo.png",
-        "contactPoint": {
-            "@type": "ContactPoint",
-            "telephone": "+1-250-812-8698",
-            "contactType": "customer service"
-        },
-        "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "328 Wale Rd #120",
-            "addressLocality": "Colwood",
-            "addressRegion": "BC",
-            "postalCode": "V9B 0J8",
-            "addressCountry": "CA"
-        },
-        "medicalSpecialty": "We reverse the effects of the 'desk hunch' for Langford office workers.",
-        "availableService": {
-            "@type": "MedicalService",
-            "name": "Neck Pain Treatment",
-            "description": "Relief for Tech Neck, whiplash, and tension headaches in Colwood & Langford."
-        }
-    };
-
     return (
         <div className="bg-background min-h-screen relative selection:bg-blue-100 selection:text-blue-900 overflow-hidden">
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+            <ServiceSchema
+                type="condition"
+                name={'Neck Pain & "Tech Neck" Treatment in Colwood'}
+                description="Neck pain and tech neck treatment in Colwood. We reverse the effects of forward head posture, desk strain, and whiplash."
+                slug="neck-shoulder-pain"
+                breadcrumbLabel="Neck & Shoulder Pain"
             />
 
             {/* Global Fluid Background */}

@@ -1,82 +1,35 @@
 "use client";
 
+import { ServiceSchema } from '@/components/ServiceSchema';
 import React from 'react';
 import Link from 'next/link';
 import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-columns";
 import Image from "next/image";
 
 export function RelaxationMassage() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "logo": "https://synctherapy.ca/images/logo.png",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                },
-                "telephone": "+1-250-812-8698",
-                "priceRange": "$$",
-                "knowsAbout": ["Relaxation Massage", "Swedish Massage", "Stress Relief", "Burnout Recovery"]
-            },
-            {
-                "@type": "MedicalWebPage",
-                "@id": "https://synctherapy.ca/services/relaxation-massage/#webpage",
-                "url": "https://synctherapy.ca/services/relaxation-massage/",
-                "name": "Relaxation & Swedish Massage Colwood",
-                "isPartOf": { "@id": "https://synctherapy.ca/#website" },
-                "about": {
-                    "@type": "TherapeuticProcedure",
-                    "name": "Relaxation Massage",
-                    "description": "A gentle, therapeutic massage designed to reduce stress, lower cortisol levels, and promote deep relaxation using Swedish techniques."
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "Can I still get a relaxation massage if I have an injury?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Absolutely. Relaxation massage is incredibly effective at calming the nervous system, which actually helps the body heal injuries faster by reducing systemic stress."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "What is the difference between Swedish and Deep Tissue?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Swedish focuses on calming the nervous system and improving superficial circulation using lighter, sweeping strokes. Deep Tissue targets specific muscular knots and adhesions with firmer, sustained pressure."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Will this help me sleep better?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Yes! By down-regulating your nervous system and lowering cortisol levels, many patients report significantly deeper, more restorative sleep after a session."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <div className="bg-white text-gray-900 font-sans">
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-            />
+            <ServiceSchema
+                    type="service"
+                    name="in Colwood"
+                    description=""
+                    slug="relaxation-massage"
+                    breadcrumbLabel="in Colwood"
+                    faqItems={[
+                              {
+                                        "question": "Can I still get a relaxation massage if I have an injury?",
+                                        "answer": "Absolutely. Relaxation massage is incredibly effective at calming the nervous system, which actually helps the body heal injuries faster by reducing systemic stress."
+                              },
+                              {
+                                        "question": "What is the difference between Swedish and Deep Tissue?",
+                                        "answer": "Swedish focuses on calming the nervous system and improving superficial circulation using lighter, sweeping strokes. Deep Tissue targets specific muscular knots and adhesions with firmer, sustained pressure."
+                              },
+                              {
+                                        "question": "Will this help me sleep better?",
+                                        "answer": "Yes! By down-regulating your nervous system and lowering cortisol levels, many patients report significantly deeper, more restorative sleep after a session."
+                              }
+                    ]}
+                />
 
             {/* 0. BREADCRUMBS */}
             <div className="bg-blue-950 pt-4 px-4">

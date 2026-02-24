@@ -1,86 +1,35 @@
 "use client";
 
+import { ServiceSchema } from '@/components/ServiceSchema';
 import React from 'react';
 import Link from 'next/link';
 import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-columns";
 import Image from "next/image";
 
 export function PosturalImbalance() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "logo": "https://synctherapy.ca/images/logo.png",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                },
-                "telephone": "+1-250-812-8698",
-                "priceRange": "$$",
-                "knowsAbout": ["Postural Correction", "Massage Therapy", "Athletic Therapy", "Myofascial Release"]
-            },
-            {
-                "@type": "MedicalWebPage",
-                "@id": "https://synctherapy.ca/conditions/postural-imbalance/#webpage",
-                "url": "https://synctherapy.ca/conditions/postural-imbalance/",
-                "name": "Postural Imbalance & Structural Correction in Langford",
-                "isPartOf": { "@id": "https://synctherapy.ca/#website" },
-                "about": {
-                    "@type": "MedicalCondition",
-                    "name": "Postural Imbalance",
-                    "alternateName": "Upper Cross Syndrome",
-                    "possibleTreatment": {
-                        "@type": "TherapeuticProcedure",
-                        "name": "Structural Integration & Corrective Exercise"
-                    }
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "Can massage fix my posture?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Massage releases the tissues holding you in a bad posture, but you must pair it with active rehabilitation to retrain the muscles to hold the new alignment."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "How long does it take to correct posture?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "It depends on how long you've had the imbalance. Structural changes take time, but you will often feel 'taller' and looser after just one session."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Do I have to wear a brace?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Typically, no. We prefer to strengthen your internal brace—your muscles—rather than relying on external support which can cause further weakness."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <div className="bg-white text-gray-900 font-sans">
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-            />
+            <ServiceSchema
+                    type="condition"
+                    name="Structural Correction"
+                    description=""
+                    slug="postural-imbalance"
+                    breadcrumbLabel="Structural Correction"
+                    faqItems={[
+                              {
+                                        "question": "Can massage fix my posture?",
+                                        "answer": "Massage releases the tissues holding you in a bad posture, but you must pair it with active rehabilitation to retrain the muscles to hold the new alignment."
+                              },
+                              {
+                                        "question": "How long does it take to correct posture?",
+                                        "answer": "It depends on how long you've had the imbalance. Structural changes take time, but you will often feel 'taller' and looser after just one session."
+                              },
+                              {
+                                        "question": "Do I have to wear a brace?",
+                                        "answer": "Typically, no. We prefer to strengthen your internal brace—your muscles—rather than relying on external support which can cause further weakness."
+                              }
+                    ]}
+                />
 
             {/* 0. BREADCRUMBS */}
             <div className="bg-blue-950 pt-4 px-4">

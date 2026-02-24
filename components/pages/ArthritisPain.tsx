@@ -1,86 +1,35 @@
 "use client";
 
+import { ServiceSchema } from '@/components/ServiceSchema';
 import React from 'react';
 import Link from 'next/link';
 import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-columns";
 import Image from "next/image";
 
 export function ArthritisPain() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "logo": "https://synctherapy.ca/images/logo.png",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                },
-                "telephone": "+1-250-812-8698",
-                "priceRange": "$$",
-                "knowsAbout": ["Arthritis Pain", "Rehabilitation", "Pain Management", "Nutrition Consulting"]
-            },
-            {
-                "@type": "MedicalWebPage",
-                "@id": "https://synctherapy.ca/conditions/arthritis-pain/#webpage",
-                "url": "https://synctherapy.ca/conditions/arthritis-pain/",
-                "name": "Arthritis Pain Management Clinic in Colwood",
-                "isPartOf": { "@id": "https://synctherapy.ca/#website" },
-                "about": {
-                    "@type": "MedicalCondition",
-                    "name": "Arthritis",
-                    "alternateName": "Osteoarthritis",
-                    "possibleTreatment": {
-                        "@type": "TherapeuticProcedure",
-                        "name": "Pain Management & Active Rehabilitation"
-                    }
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "Is deep tissue massage safe for arthritis?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "During a flare-up, deep tissue is often too aggressive. We use specialized pain management techniques to calm the nervous system and reduce inflammation without causing further irritation."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Can you stop arthritis from getting worse?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "We cannot reverse bone changes, but we CAN slow the progression. By keeping the joint mobile and the surrounding muscles strong, we reduce the pressure that causes wear and tear."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "What foods should I avoid?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Inflammatory foods differ for everyone, but sugar, processed oils, and sometimes nightshades can be triggers. Our approach involves identifying your specific triggers."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <div className="bg-white text-gray-900 font-sans">
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-            />
+            <ServiceSchema
+                    type="condition"
+                    name="Clinic in Colwood"
+                    description=""
+                    slug="arthritis-pain"
+                    breadcrumbLabel="Clinic in Colwood"
+                    faqItems={[
+                              {
+                                        "question": "Is deep tissue massage safe for arthritis?",
+                                        "answer": "During a flare-up, deep tissue is often too aggressive. We use specialized pain management techniques to calm the nervous system and reduce inflammation without causing further irritation."
+                              },
+                              {
+                                        "question": "Can you stop arthritis from getting worse?",
+                                        "answer": "We cannot reverse bone changes, but we CAN slow the progression. By keeping the joint mobile and the surrounding muscles strong, we reduce the pressure that causes wear and tear."
+                              },
+                              {
+                                        "question": "What foods should I avoid?",
+                                        "answer": "Inflammatory foods differ for everyone, but sugar, processed oils, and sometimes nightshades can be triggers. Our approach involves identifying your specific triggers."
+                              }
+                    ]}
+                />
 
             {/* 0. BREADCRUMBS */}
             <div className="bg-blue-950 pt-4 px-4">

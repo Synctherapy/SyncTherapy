@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import { ServiceSchema } from '@/components/ServiceSchema';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import Link from 'next/link';
@@ -14,62 +15,18 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "logo": "https://synctherapy.ca/images/logo.png",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                },
-                "telephone": "+1-250-812-8698",
-                "priceRange": "$$"
-            },
-            {
-                "@type": "MedicalWebPage",
-                "@id": "https://synctherapy.ca/services/muscle-recovery-massage/#webpage",
-                "url": "https://synctherapy.ca/services/muscle-recovery-massage/",
-                "name": "Muscle Recovery Massage in Colwood",
-                "isPartOf": { "@id": "https://synctherapy.ca/#website" }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "How often should I get a recovery massage?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "During heavy training blocks, many athletes benefit from bi-weekly or monthly sessions to prevent tissue restriction from accumulating."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Can this help with DOMS?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Yes, by increasing blood flow and manually flushing the tissue, we can significantly reduce the severity and duration of delayed onset muscle soreness."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <main className="bg-white text-gray-900 font-sans">
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+            <ServiceSchema
+                type="service"
+                name="Muscle Recovery Massage in Colwood"
+                description="Muscle recovery massage designed for gym goers, lifters, and CrossFit athletes feeling fatigued or plateaued."
+                slug="muscle-recovery-massage"
+                breadcrumbLabel="Muscle Recovery Massage"
+                faqItems={[
+                    { question: "How often should I get a recovery massage?", answer: "During heavy training blocks, many athletes benefit from bi-weekly or monthly sessions to prevent tissue restriction from accumulating." },
+                    { question: "Can this help with DOMS?", answer: "Yes, by increasing blood flow and manually flushing the tissue, we can significantly reduce the severity and duration of delayed onset muscle soreness." }
+                ]}
             />
             <Header />
 

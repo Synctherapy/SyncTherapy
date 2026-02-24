@@ -14,8 +14,6 @@ const PricingSection = dynamic(() => import("@/components/sections/pricing-secti
 const LocationSection = dynamic(() => import("@/components/sections/location-section").then(mod => mod.LocationSection));
 const FaqSection = dynamic(() => import("@/components/sections/faq-section").then(mod => mod.FaqSection));
 const AboutOneClinic = dynamic(() => import("@/components/sections/about-one-clinic").then(mod => mod.AboutOneClinic));
-
-import { StickyMobileCTA } from "@/components/StickyMobileCTA";
 import { ScrollAnimation } from "@/components/ui/scroll-animation";
 
 interface HomeLayoutProps {
@@ -24,7 +22,7 @@ interface HomeLayoutProps {
 
 export function HomeLayout({ reviewsComponent }: HomeLayoutProps) {
     return (
-        <div className="font-sans antialiased bg-white">
+        <div className="font-sans antialiased bg-white overflow-x-hidden">
             <Header />
 
             <main className="relative">
@@ -81,8 +79,6 @@ export function HomeLayout({ reviewsComponent }: HomeLayoutProps) {
                 <ScrollAnimation>
                     <FaqSection />
                 </ScrollAnimation>
-
-                <StickyMobileCTA />
             </main>
 
             <Footer />

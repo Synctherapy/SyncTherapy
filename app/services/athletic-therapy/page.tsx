@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import { ServiceSchema } from '@/components/ServiceSchema';
 import Link from 'next/link';
 import Image from "next/image";
 import Header from '@/components/Header';
@@ -15,63 +16,31 @@ export const metadata: Metadata = {
 };
 
 export default function AthleticTherapyPage() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "What is Athletic Therapy?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Athletic Therapy is a specialized healthcare profession focused on the prevention, assessment, and active rehabilitation of musculoskeletal injuries, often combining manual therapy with exercise prescription."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Do I need to be an athlete to see an Athletic Therapist?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "No. The principles of biomechanics and tissue loading apply to everybody, whether you are returning to a competitive sport or simply wanting to lift groceries without pain."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "What should I wear to an Athletic Therapy appointment?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Please wear comfortable, loose-fitting athletic clothing (like shorts and a t-shirt) that allows for a full, unrestricted range of movement during our functional assessments."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <main>
             <Header />
             <div className="bg-white text-gray-900 font-sans">
-                {/* 1. JSON-LD Schema */}
-                <script
-                    type="application/ld+json"
-                    dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+                {/* JSON-LD Schema */}
+                <ServiceSchema
+                    type="service"
+                    name="Clinical Athletic Therapy"
+                    description="Rehabilitative, functional, and active Athletic Therapy in Colwood. We focus on movement screening and safe return-to-play testing."
+                    slug="athletic-therapy"
+                    breadcrumbLabel="Athletic Therapy"
+                    faqItems={[
+                              {
+                                        "question": "What is Athletic Therapy?",
+                                        "answer": "Athletic Therapy is a specialized healthcare profession focused on the prevention, assessment, and active rehabilitation of musculoskeletal injuries, often combining manual therapy with exercise prescription."
+                              },
+                              {
+                                        "question": "Do I need to be an athlete to see an Athletic Therapist?",
+                                        "answer": "No. The principles of biomechanics and tissue loading apply to everybody, whether you are returning to a competitive sport or simply wanting to lift groceries without pain."
+                              },
+                              {
+                                        "question": "What should I wear to an Athletic Therapy appointment?",
+                                        "answer": "Please wear comfortable, loose-fitting athletic clothing (like shorts and a t-shirt) that allows for a full, unrestricted range of movement during our functional assessments."
+                              }
+                    ]}
                 />
 
                 {/* 2. Breadcrumbs */}

@@ -1,5 +1,6 @@
 "use client";
 
+import { ServiceSchema } from '@/components/ServiceSchema';
 import { LocationSection } from "@/components/sections/location-section";
 import { FaqSection } from "@/components/sections/faq-section";
 import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-columns";
@@ -13,33 +14,6 @@ import { FirstVisitRoadmap } from "@/components/sections/first-visit-roadmap";
 import { Pricing } from "@/components/ui/pricing";
 
 export function PhysicalRehabilitation() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@type": "MedicalOrganization",
-        "name": "Sync Physical Rehabilitation",
-        "url": "https://synctherapy.ca/services/physical-rehabilitation",
-        "logo": "https://synctherapy.ca/images/logo.png",
-        "contactPoint": {
-            "@type": "ContactPoint",
-            "telephone": "+1-250-812-8698",
-            "contactType": "customer service"
-        },
-        "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "328 Wale Rd #120",
-            "addressLocality": "Colwood",
-            "addressRegion": "BC",
-            "postalCode": "V9B 0J8",
-            "addressCountry": "CA"
-        },
-        "medicalSpecialty": "PhysicalTherapy",
-        "availableService": {
-            "@type": "MedicalService",
-            "name": "Physical Rehabilitation",
-            "description": "Functional rehabilitation and strength training to build capacity and prevent injury recurrence."
-        }
-    };
-
     const pricingPlans = [
         {
             name: "Initial Functional Assessment",
@@ -103,10 +77,13 @@ export function PhysicalRehabilitation() {
 
     return (
         <div className="bg-background min-h-screen relative selection:bg-blue-100 selection:text-blue-900 overflow-hidden">
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-            />
+            <ServiceSchema
+                    type="service"
+                    name="Physical Rehabilitation Center in Colwood"
+                    description="We identify biomechanical faults and build a plan to fix them."
+                    slug="physical-rehabilitation"
+                    breadcrumbLabel="Physical Rehabilitation Center in Colwood"
+                />
 
             {/* Global Fluid Background */}
             <div className="fixed inset-0 z-0 pointer-events-none overflow-hidden">

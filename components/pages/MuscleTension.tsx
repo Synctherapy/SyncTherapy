@@ -1,86 +1,35 @@
 "use client";
 
+import { ServiceSchema } from '@/components/ServiceSchema';
 import React from 'react';
 import Link from 'next/link';
 import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-columns";
 import Image from "next/image";
 
 export function MuscleTension() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "logo": "https://synctherapy.ca/images/logo.png",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                },
-                "telephone": "+1-250-812-8698",
-                "priceRange": "$$",
-                "knowsAbout": ["Muscle Tension", "Deep Tissue Massage", "Myofascial Release", "Athletic Therapy"]
-            },
-            {
-                "@type": "MedicalWebPage",
-                "@id": "https://synctherapy.ca/conditions/muscle-tension-relief/#webpage",
-                "url": "https://synctherapy.ca/conditions/muscle-tension-relief/",
-                "name": "Muscle Tension Relief & Deep Tissue Massage in Colwood",
-                "isPartOf": { "@id": "https://synctherapy.ca/#website" },
-                "about": {
-                    "@type": "MedicalCondition",
-                    "name": "Muscle Tension",
-                    "alternateName": "Hypertonicity",
-                    "possibleTreatment": {
-                        "@type": "TherapeuticProcedure",
-                        "name": "Deep Tissue Massage"
-                    }
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "Will a deep tissue massage hurt?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "It should feel like \"good pain.\" We communicate with you to find the exact pressure that releases the muscle without causing your body to tense up and fight the treatment."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Why do my knots keep coming back?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Knots return if the underlying cause (posture, stress, overuse) isn't addressed. We help identify these triggers so the relief lasts longer."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "How often should I come in?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "For chronic tension, we often recommend a few sessions close together to 'reset' the muscle tone, followed by monthly maintenance."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <div className="bg-white text-gray-900 font-sans">
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-            />
+            <ServiceSchema
+                    type="condition"
+                    name="in Colwood & Langford"
+                    description=""
+                    slug="muscle-tension"
+                    breadcrumbLabel="in Colwood & Langford"
+                    faqItems={[
+                              {
+                                        "question": "Will a deep tissue massage hurt?",
+                                        "answer": "It should feel like \\"
+                              },
+                              {
+                                        "question": "Why do my knots keep coming back?",
+                                        "answer": "Knots return if the underlying cause (posture, stress, overuse) isn't addressed. We help identify these triggers so the relief lasts longer."
+                              },
+                              {
+                                        "question": "How often should I come in?",
+                                        "answer": "For chronic tension, we often recommend a few sessions close together to 'reset' the muscle tone, followed by monthly maintenance."
+                              }
+                    ]}
+                />
 
             {/* 0. BREADCRUMBS */}
             <div className="bg-blue-950 pt-4 px-4">

@@ -1,5 +1,6 @@
 "use client";
 
+import { ServiceSchema } from '@/components/ServiceSchema';
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { LocationSection } from "@/components/sections/location-section";
@@ -13,33 +14,6 @@ import { GlassCard } from "@/components/ui/glass-card";
 import { Pricing } from "@/components/ui/pricing";
 
 export function VisceralManipulation() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@type": "MedicalOrganization",
-        "name": "Sync Therapy Visceral Manipulation",
-        "url": "https://synctherapy.ca/services/visceral-manipulation",
-        "logo": "https://synctherapy.ca/images/logo.png",
-        "contactPoint": {
-            "@type": "ContactPoint",
-            "telephone": "+1-250-812-8698",
-            "contactType": "customer service"
-        },
-        "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "328 Wale Rd #120",
-            "addressLocality": "Colwood",
-            "addressRegion": "BC",
-            "postalCode": "V9B 0J8",
-            "addressCountry": "CA"
-        },
-        "medicalSpecialty": "PhysicalTherapy",
-        "availableService": {
-            "@type": "MedicalService",
-            "name": "Visceral Manipulation",
-            "description": "Gentle manual therapy for internal organ restrictions and chronic pain."
-        }
-    };
-
     const pricingPlans = [
         {
             name: "Initial Assessment & Treatment",
@@ -87,11 +61,13 @@ export function VisceralManipulation() {
     return (
         <div className="bg-background min-h-screen relative selection:bg-indigo-100 selection:text-indigo-900 overflow-hidden">
             <Header /> {/* Manually included as requested */}
-
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-            />
+            <ServiceSchema
+                    type="service"
+                    name="Visceral Manipulation in Colwood: Back Pain Often Starts in the Front"
+                    description="Required for all new patients to identify internal restrictions."
+                    slug="visceral-manipulation"
+                    breadcrumbLabel="Visceral Manipulation in Colwood: Back Pain Often Starts in the Front"
+                />
 
             {/* Global Fluid Background (Indigo Theme) */}
             <div className="fixed inset-0 z-0 pointer-events-none overflow-hidden">

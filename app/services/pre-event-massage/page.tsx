@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import { ServiceSchema } from '@/components/ServiceSchema';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import Link from 'next/link';
@@ -14,62 +15,18 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "logo": "https://synctherapy.ca/images/logo.png",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                },
-                "telephone": "+1-250-812-8698",
-                "priceRange": "$$"
-            },
-            {
-                "@type": "MedicalWebPage",
-                "@id": "https://synctherapy.ca/services/pre-event-massage/#webpage",
-                "url": "https://synctherapy.ca/services/pre-event-massage/",
-                "name": "Pre-Event Sports Massage in Colwood",
-                "isPartOf": { "@id": "https://synctherapy.ca/#website" }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "How close to my event should I get a pre-event massage?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Ideally, 24 to 48 hours before your event to optimize circulation without causing muscle fatigue."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Will this make me too relaxed to compete?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "No, pre-event massage uses specific, fast-paced techniques designed to stimulate the nervous system, not sedate it."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <main className="bg-white text-gray-900 font-sans">
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+            <ServiceSchema
+                type="service"
+                name="Pre-Event Sports Massage in Colwood"
+                description="Pre-event massage to increase blood flow and activate your nervous system. Serving Colwood athletes prepping for events."
+                slug="pre-event-massage"
+                breadcrumbLabel="Pre-Event Sports Massage"
+                faqItems={[
+                    { question: "How close to my event should I get a pre-event massage?", answer: "Ideally, 24 to 48 hours before your event to optimize circulation without causing muscle fatigue." },
+                    { question: "Will this make me too relaxed to compete?", answer: "No, pre-event massage uses specific, fast-paced techniques designed to stimulate the nervous system, not sedate it." }
+                ]}
             />
             <Header />
 

@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import { ServiceSchema } from '@/components/ServiceSchema';
 import Link from 'next/link';
 import Image from "next/image";
 import Header from '@/components/Header';
@@ -15,63 +16,31 @@ export const metadata: Metadata = {
 };
 
 export default function PersonalizedHealthPlanPage() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "How long does a personalized plan take to show results?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Because we focus on sustainable physiological adaptation rather than crash diets, clients typically begin noticing distinct improvements in energy and digestion within the first 14 to 21 days."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Are these plans restrictive and hard to follow?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "No. A personalized plan is specifically built around your current lifestyle. We implement a 'minimum effective dose' strategy, gradually introducing manageable habits to ensure long-term compliance."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Do you adjust the plan if my goals change?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Absolutely. Your physiological needs are constantly evolving. The core benefit of clinical accountability is repeatedly reassessing your baseline and systematically altering the protocol as your capacity grows."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <main>
             <Header />
             <div className="bg-white text-gray-900 font-sans">
-                {/* 1. JSON-LD Schema */}
-                <script
-                    type="application/ld+json"
-                    dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+                {/* JSON-LD Schema */}
+                <ServiceSchema
+                    type="service"
+                    name="Personalized Health Plans"
+                    description="Structured, actionable Personalized Health Plans in Colwood. We assess your unique baseline to build a realistic, goal-oriented timeline for your wellness."
+                    slug="personalized-health-plan"
+                    breadcrumbLabel="Personalized Health Plan"
+                    faqItems={[
+                              {
+                                        "question": "How long does a personalized plan take to show results?",
+                                        "answer": "Because we focus on sustainable physiological adaptation rather than crash diets, clients typically begin noticing distinct improvements in energy and digestion within the first 14 to 21 days."
+                              },
+                              {
+                                        "question": "Are these plans restrictive and hard to follow?",
+                                        "answer": "No. A personalized plan is specifically built around your current lifestyle. We implement a 'minimum effective dose' strategy, gradually introducing manageable habits to ensure long-term compliance."
+                              },
+                              {
+                                        "question": "Do you adjust the plan if my goals change?",
+                                        "answer": "Absolutely. Your physiological needs are constantly evolving. The core benefit of clinical accountability is repeatedly reassessing your baseline and systematically altering the protocol as your capacity grows."
+                              }
+                    ]}
                 />
 
                 {/* 2. Breadcrumbs */}

@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import { ServiceSchema } from '@/components/ServiceSchema';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import Link from 'next/link';
@@ -14,62 +15,18 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "logo": "https://synctherapy.ca/images/logo.png",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                },
-                "telephone": "+1-250-812-8698",
-                "priceRange": "$$"
-            },
-            {
-                "@type": "MedicalWebPage",
-                "@id": "https://synctherapy.ca/services/injury-rehab-massage/#webpage",
-                "url": "https://synctherapy.ca/services/injury-rehab-massage/",
-                "name": "Injury Rehabilitation Massage in Colwood",
-                "isPartOf": { "@id": "https://synctherapy.ca/#website" }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "Will massage damage my healing injury?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "No, when performed by a clinical RMT, rehabilitative massage is carefully scaled to your tissue's healing stage to promote recovery without causing re-injury."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Do you treat post-surgical scars?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Yes, once the incision is fully closed and cleared by your doctor, manual therapy is highly effective at reducing scar tissue restriction."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <main className="bg-white text-gray-900 font-sans">
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+            <ServiceSchema
+                type="service"
+                name="Injury Rehabilitation Massage in Colwood"
+                description="Clinical injury rehabilitation massage focusing on scar tissue reduction, mobility restoration, and post-surgery care."
+                slug="injury-rehab-massage"
+                breadcrumbLabel="Injury Rehabilitation Massage"
+                faqItems={[
+                    { question: "Will massage damage my healing injury?", answer: "No, when performed by a clinical RMT, rehabilitative massage is carefully scaled to your tissue's healing stage to promote recovery without causing re-injury." },
+                    { question: "Do you treat post-surgical scars?", answer: "Yes, once the incision is fully closed and cleared by your doctor, manual therapy is highly effective at reducing scar tissue restriction." }
+                ]}
             />
             <Header />
 
@@ -123,7 +80,7 @@ export default function Page() {
                 <div className="max-w-4xl mx-auto">
                     <h2 className="text-3xl font-bold mb-12 text-center text-blue-950">Is This You?</h2>
                     <div className="grid md:grid-cols-2 gap-8">
-                        {["Thick, stiff scar tissue from an old tear","Restricted joint mobility post-surgery","Compensatory pain (your good knee hurts from limping)","Fear of bearing weight on an old injury"].map((symptom, i) => (
+                        {["Thick, stiff scar tissue from an old tear", "Restricted joint mobility post-surgery", "Compensatory pain (your good knee hurts from limping)", "Fear of bearing weight on an old injury"].map((symptom, i) => (
                             <div key={i} className="bg-blue-50 p-6 rounded-xl border border-blue-100">
                                 <h3 className="font-bold text-xl mb-4 flex items-center text-blue-900">
                                     <span className="text-blue-600 text-2xl mr-2">✓</span> {symptom}
@@ -162,7 +119,7 @@ export default function Page() {
                 <div className="max-w-4xl mx-auto">
                     <h2 className="text-3xl font-bold mb-12 text-center text-blue-950">Our Recovery Toolkit</h2>
                     <div className="grid md:grid-cols-2 gap-6">
-                        {[{"url":"/conditions/","title":"Conditions Overview","desc":"Overall strategy"},{"url":"/services/athletic-therapy/","title":"Athletic Therapy","desc":"Active rehab and strengthening"}].map((link, i) => (
+                        {[{ "url": "/conditions/", "title": "Conditions Overview", "desc": "Overall strategy" }, { "url": "/services/athletic-therapy/", "title": "Athletic Therapy", "desc": "Active rehab and strengthening" }].map((link, i) => (
                             <Link key={i} href={link.url} className="block p-8 bg-white border border-gray-200 rounded-xl hover:border-blue-600 hover:shadow-xl transition-all group">
                                 <h3 className="font-bold text-xl mb-2 text-blue-900 group-hover:text-blue-600">{link.title} →</h3>
                                 <p className="text-sm text-slate-600">{link.desc}</p>
@@ -210,7 +167,7 @@ export default function Page() {
                 <div className="max-w-3xl mx-auto">
                     <h2 className="text-2xl font-bold mb-8 text-center text-blue-950">Common Questions</h2>
                     <div className="space-y-4">
-                        {[{"q":"Will massage damage my healing injury?","a":"No, when performed by a clinical RMT, rehabilitative massage is carefully scaled to your tissue's healing stage to promote recovery without causing re-injury."},{"q":"Do you treat post-surgical scars?","a":"Yes, once the incision is fully closed and cleared by your doctor, manual therapy is highly effective at reducing scar tissue restriction."}].map((f, i) => (
+                        {[{ "q": "Will massage damage my healing injury?", "a": "No, when performed by a clinical RMT, rehabilitative massage is carefully scaled to your tissue's healing stage to promote recovery without causing re-injury." }, { "q": "Do you treat post-surgical scars?", "a": "Yes, once the incision is fully closed and cleared by your doctor, manual therapy is highly effective at reducing scar tissue restriction." }].map((f, i) => (
                             <div key={i} className="bg-slate-50 p-6 rounded-xl border border-slate-100">
                                 <h3 className="font-bold text-lg mb-2 text-blue-900">{f.q}</h3>
                                 <p className="text-slate-600 text-sm">{f.a}</p>

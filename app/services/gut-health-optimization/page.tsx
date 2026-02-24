@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import { ServiceSchema } from '@/components/ServiceSchema';
 import Link from 'next/link';
 import Image from "next/image";
 import Header from '@/components/Header';
@@ -15,63 +16,31 @@ export const metadata: Metadata = {
 };
 
 export default function GutHealthOptimizationPage() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "What does a microbiome diversity assessment involve?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "We conduct a thorough review of your dietary intake over an extended period to evaluate the variety of plant fibers and pre/probiotics supporting your digestive tract ecosystem."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "How is this different from IBS Diet Counseling?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "While IBS counseling often focuses on acute symptom management and trigger isolation, Gut Health Optimization is a broader, systemic approach focused on building long-term diversity and mucosal lining resilience."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Are supplements required for gut optimization?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Not always. Our primary goal is to establish gut resilience through foundational whole-food nutrition and mechanical breakdown (like chewing), using targeted supplements only when there is a clearly identified gap."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <main>
             <Header />
             <div className="bg-white text-gray-900 font-sans">
-                {/* 1. JSON-LD Schema */}
-                <script
-                    type="application/ld+json"
-                    dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+                {/* JSON-LD Schema */}
+                <ServiceSchema
+                    type="service"
+                    name="Gut Health Optimization"
+                    description="Systemic, scientific, and balancing gut health optimization in Colwood. We assess microbiome diversity and the gut-brain axis to support whole-body wellness."
+                    slug="gut-health-optimization"
+                    breadcrumbLabel="Gut Health Optimization"
+                    faqItems={[
+                              {
+                                        "question": "What does a microbiome diversity assessment involve?",
+                                        "answer": "We conduct a thorough review of your dietary intake over an extended period to evaluate the variety of plant fibers and pre/probiotics supporting your digestive tract ecosystem."
+                              },
+                              {
+                                        "question": "How is this different from IBS Diet Counseling?",
+                                        "answer": "While IBS counseling often focuses on acute symptom management and trigger isolation, Gut Health Optimization is a broader, systemic approach focused on building long-term diversity and mucosal lining resilience."
+                              },
+                              {
+                                        "question": "Are supplements required for gut optimization?",
+                                        "answer": "Not always. Our primary goal is to establish gut resilience through foundational whole-food nutrition and mechanical breakdown (like chewing), using targeted supplements only when there is a clearly identified gap."
+                              }
+                    ]}
                 />
 
                 {/* 2. Breadcrumbs */}

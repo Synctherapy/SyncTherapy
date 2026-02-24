@@ -1,5 +1,6 @@
 "use client";
 
+import { ServiceSchema } from '@/components/ServiceSchema';
 import { LocationSection } from "@/components/sections/location-section";
 import { FaqSection } from "@/components/sections/faq-section";
 import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-columns";
@@ -13,33 +14,6 @@ import { FirstVisitRoadmap } from "@/components/sections/first-visit-roadmap";
 import { Pricing } from "@/components/ui/pricing";
 
 export function SportsInjuryRehab() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@type": "MedicalOrganization",
-        "name": "Sync Sports Injury Rehab",
-        "url": "https://synctherapy.ca/services/sports-injury-rehab",
-        "logo": "https://synctherapy.ca/images/logo.png",
-        "contactPoint": {
-            "@type": "ContactPoint",
-            "telephone": "+1-250-812-8698",
-            "contactType": "customer service"
-        },
-        "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "328 Wale Rd #120",
-            "addressLocality": "Colwood",
-            "addressRegion": "BC",
-            "postalCode": "V9B 0J8",
-            "addressCountry": "CA"
-        },
-        "medicalSpecialty": "SportsMedicine",
-        "availableService": {
-            "@type": "MedicalService",
-            "name": "Sports Injury Rehabilitation",
-            "description": "Clinical orthopedic assessment and return-to-play rehabilitation for acute injuries."
-        }
-    };
-
     const pricingPlans = [
         {
             name: "Initial Athletic Therapy Assessment",
@@ -104,10 +78,13 @@ export function SportsInjuryRehab() {
 
     return (
         <div className="bg-background min-h-screen relative selection:bg-blue-100 selection:text-blue-900 overflow-hidden">
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-            />
+            <ServiceSchema
+                    type="service"
+                    name="Sports Injury Rehabilitation"
+                    description="Required for new injuries to determine the root cause."
+                    slug="sports-injury-rehab"
+                    breadcrumbLabel="Sports Injury Rehabilitation"
+                />
 
             {/* Global Fluid Background */}
             <div className="fixed inset-0 z-0 pointer-events-none overflow-hidden">

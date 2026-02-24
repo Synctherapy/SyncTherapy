@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import { ServiceSchema } from '@/components/ServiceSchema';
 import Link from 'next/link';
 import Image from "next/image";
 import Header from '@/components/Header';
@@ -15,63 +16,31 @@ export const metadata: Metadata = {
 };
 
 export default function NutritionCounselingPage() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "What is the difference between counseling and consultation?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "While a consultation provides foundational guidance, nutrition counseling focuses on ongoing coaching, behavioral habit building, and supporting you through long-term dietary changes."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Do you offer restrictive meal plans?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "No. We believe in realistic, sustainable habits. We utilize frameworks like the '80/20 rule' to prevent the burnout associated with strict perfectionism."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "How often should I attend counseling sessions?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "This varies based on personal goals. Most clients find success with bi-weekly or monthly check-ins to monitor metabolic adaptation and track behavioral wins."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <main>
             <Header />
             <div className="bg-white text-gray-900 font-sans">
-                {/* 1. JSON-LD Schema */}
-                <script
-                    type="application/ld+json"
-                    dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+                {/* JSON-LD Schema */}
+                <ServiceSchema
+                    type="service"
+                    name="Clinical Nutrition Counseling"
+                    description="Coaching, habit-forming clinical nutrition counseling in Colwood. We specialize in behavioral habit tracking and sustainable long-term goal setting."
+                    slug="nutrition-counseling"
+                    breadcrumbLabel="Nutrition Counseling"
+                    faqItems={[
+                              {
+                                        "question": "What is the difference between counseling and consultation?",
+                                        "answer": "While a consultation provides foundational guidance, nutrition counseling focuses on ongoing coaching, behavioral habit building, and supporting you through long-term dietary changes."
+                              },
+                              {
+                                        "question": "Do you offer restrictive meal plans?",
+                                        "answer": "No. We believe in realistic, sustainable habits. We utilize frameworks like the '80/20 rule' to prevent the burnout associated with strict perfectionism."
+                              },
+                              {
+                                        "question": "How often should I attend counseling sessions?",
+                                        "answer": "This varies based on personal goals. Most clients find success with bi-weekly or monthly check-ins to monitor metabolic adaptation and track behavioral wins."
+                              }
+                    ]}
                 />
 
                 {/* 2. Breadcrumbs */}

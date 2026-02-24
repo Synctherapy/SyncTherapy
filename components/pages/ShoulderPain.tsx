@@ -1,5 +1,6 @@
 "use client";
 
+import { ServiceSchema } from '@/components/ServiceSchema';
 import { LocationSection } from "@/components/sections/location-section";
 import { FaqSection } from "@/components/sections/faq-section";
 import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-columns";
@@ -12,39 +13,15 @@ import { DirectBillingBar } from "@/components/sections/direct-billing-bar";
 import { FirstVisitRoadmap } from "@/components/sections/first-visit-roadmap";
 
 export function ShoulderPain() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@type": "MedicalOrganization",
-        "name": "Sync Therapy Shoulder Pain Treatment",
-        "url": "https://synctherapy.ca/conditions/shoulder-pain/",
-        "logo": "https://synctherapy.ca/images/logo.png",
-        "contactPoint": {
-            "@type": "ContactPoint",
-            "telephone": "+1-250-812-8698",
-            "contactType": "customer service"
-        },
-        "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "328 Wale Rd #120",
-            "addressLocality": "Colwood",
-            "addressRegion": "BC",
-            "postalCode": "V9B 0J8",
-            "addressCountry": "CA"
-        },
-        "medicalSpecialty": "We fix the rotator cuff mechanics so you can lift overhead without pain.",
-        "availableService": {
-            "@type": "MedicalService",
-            "name": "Shoulder Pain Treatment",
-            "description": "Relief for Rotator Cuff tears, Frozen Shoulder, and Impingement in Colwood & Langford."
-        }
-    };
-
     return (
         <div className="bg-background min-h-screen relative selection:bg-blue-100 selection:text-blue-900 overflow-hidden">
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-            />
+            <ServiceSchema
+                    type="condition"
+                    name="Shoulder Pain & Rotator Cuff Therapy in Colwood"
+                    description=""
+                    slug="shoulder-pain"
+                    breadcrumbLabel="Shoulder Pain & Rotator Cuff Therapy in Colwood"
+                />
 
             {/* Global Fluid Background */}
             <div className="fixed inset-0 z-0 pointer-events-none overflow-hidden">

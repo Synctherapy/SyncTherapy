@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import { FaFacebook, FaInstagram, FaLinkedin, FaTwitter, FaYoutube, FaPinterest } from "react-icons/fa";
+import { FaFacebook, FaInstagram, FaYoutube, FaPinterest } from "react-icons/fa";
 import { ReactNode } from "react";
 
 interface FooterLink {
@@ -21,16 +21,17 @@ interface SocialLink {
 
 const footerNavigation = {
     column1: [
-        { name: "Massage Therapy", href: "/massage-therapy/" },
-        { name: "Athletic Therapy", href: "/athletic-therapy/" },
-        { name: "Deep Tissue & Sports", href: "/deep-tissue-massage/" },
-        { name: "Myofascial Release", href: "/myofascial-release/" },
-        { name: "Visceral Manipulation", href: "/visceral-manipulation/" },
-        { name: "Direct Billing", href: "/direct-billing/" },
+        { name: "Massage Therapy", href: "/services/massage-therapy/" },
+        { name: "Athletic Therapy", href: "/services/athletic-therapy/" },
+        { name: "Sports Massage", href: "/services/sports-massage/" },
+        { name: "Deep Tissue Massage", href: "/services/deep-tissue-massage/" },
+        { name: "Myofascial Release", href: "/services/myofascial-release/" },
+        { name: "Visceral Manipulation", href: "/services/visceral-manipulation/" },
+        { name: "Direct Billing & Rates", href: "/direct-billing/" },
     ],
     column2: [
         { name: "About Us", href: "/about/" },
-        { name: "Our Team", href: "/team/" },
+        { name: "Our Team", href: "/our-team/daryl-stubbs/" },
         { name: "Blog", href: "/blog/" },
         { name: "Contact", href: "/contact/" },
     ],
@@ -80,7 +81,7 @@ export default function Footer() {
                         </Link>
                         <p className="text-sm leading-6 text-slate-500 max-w-xs">
                             <span className="block font-semibold mb-2 text-navy">Feel Better. Move Better. Live Better.</span>
-                            6x Award-Winning Clinic (2022-2024). Providing premier registered massage therapy and athletic therapy in Colwood, BC. Trusted by 800+ clients since 2015.
+                            8x Award-Winning Clinic (2022-2025). Providing registered massage therapy and athletic therapy in Colwood, BC. Trusted by 800+ clients since 2015.
                         </p>
                         <div className="flex space-x-6">
                             {footerNavigation.social.map((item) => (
@@ -121,7 +122,7 @@ export default function Footer() {
                                         </li>
                                     ))}
                                     <li>
-                                        <a href="https://synctherapy.janeapp.com/" className="text-sm leading-6 font-semibold text-blue-600 hover:text-blue-700 transition-colors">
+                                        <a href="https://synctherapy.janeapp.com/" rel="noopener noreferrer" className="text-sm leading-6 font-semibold text-blue-600 hover:text-blue-700 transition-colors">
                                             Book Online &rarr;
                                         </a>
                                     </li>

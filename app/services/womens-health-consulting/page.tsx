@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import { ServiceSchema } from '@/components/ServiceSchema';
 import Link from 'next/link';
 import Image from "next/image";
 import Header from '@/components/Header';
@@ -15,63 +16,31 @@ export const metadata: Metadata = {
 };
 
 export default function WomensHealthConsultingPage() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "Can holistic nutrition actually help balance my hormones?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Yes. Hormones are physically built from the dietary fats, proteins, and micronutrients you consume. By optimizing your systemic nutritional baseline and stabilizing blood sugar, you provide your endocrine system with the exact raw materials it requires to regulate itself naturally."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Do you only help with perimenopause and menopause?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "No. We support women at every stage of their physiological journey—from managing energy fluctuations in their 20s and 30s, to navigating the heavy structural demands of postpartum recovery, to supporting bone density during menopause."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "How does this combine with my existing medical care?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Holistic nutrition is actively complementary. We do not replace your physician or prescribe medications. Rather, we manage the foundational, everyday nutritional and lifestyle variables that directly support the clinical goals you've established with your primary medical provider."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <main>
             <Header />
             <div className="bg-white text-gray-900 font-sans">
-                {/* 1. JSON-LD Schema */}
-                <script
-                    type="application/ld+json"
-                    dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+                {/* JSON-LD Schema */}
+                <ServiceSchema
+                    type="service"
+                    name="Holistic Women's Health Consulting"
+                    description="Supportive, empowering Holistic Women\"
+                    slug="womens-health-consulting"
+                    breadcrumbLabel="Women's Health Consulting"
+                    faqItems={[
+                              {
+                                        "question": "Can holistic nutrition actually help balance my hormones?",
+                                        "answer": "Yes. Hormones are physically built from the dietary fats, proteins, and micronutrients you consume. By optimizing your systemic nutritional baseline and stabilizing blood sugar, you provide your endocrine system with the exact raw materials it requires to regulate itself naturally."
+                              },
+                              {
+                                        "question": "Do you only help with perimenopause and menopause?",
+                                        "answer": "No. We support women at every stage of their physiological journey—from managing energy fluctuations in their 20s and 30s, to navigating the heavy structural demands of postpartum recovery, to supporting bone density during menopause."
+                              },
+                              {
+                                        "question": "How does this combine with my existing medical care?",
+                                        "answer": "Holistic nutrition is actively complementary. We do not replace your physician or prescribe medications. Rather, we manage the foundational, everyday nutritional and lifestyle variables that directly support the clinical goals you've established with your primary medical provider."
+                              }
+                    ]}
                 />
 
                 {/* 2. Breadcrumbs */}

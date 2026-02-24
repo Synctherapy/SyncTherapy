@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import { ServiceSchema } from '@/components/ServiceSchema';
 import Link from 'next/link';
 import Image from "next/image";
 import Header from '@/components/Header';
@@ -15,63 +16,31 @@ export const metadata: Metadata = {
 };
 
 export default function ShoulderImpingementPage() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "What exactly is being 'impinged' in my shoulder?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Typically, the supraspinatus tendon or a protective bursa sac is getting physically pinched between your arm bone and the roof of your shoulder blade when you raise your arm."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Can poor posture actually cause shoulder pain?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Yes, profoundly so. A slouched, forward-rounded posture mechanically tilts the shoulder blade downward, actively closing the joint space and increasing the likelihood of painful internal friction."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Will cortisone shots fix this permanently?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "A cortisone injection may rapidly decrease the local inflammation, providing excellent short-term relief, but it does not fix the underlying postural or biomechanical root cause pulling the joint out of alignment."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <main>
             <Header />
             <div className="bg-white text-gray-900 font-sans">
-                {/* 1. JSON-LD Schema */}
-                <script
-                    type="application/ld+json"
-                    dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+                {/* JSON-LD Schema */}
+                <ServiceSchema
+                    type="condition"
+                    name="Shoulder Impingement Treatment"
+                    description="Relieving, structural shoulder impingement treatment in Colwood. We assess the subacromial space and address postural rounding safely."
+                    slug="shoulder-impingement"
+                    breadcrumbLabel="Shoulder Impingement"
+                    faqItems={[
+                              {
+                                        "question": "What exactly is being 'impinged' in my shoulder?",
+                                        "answer": "Typically, the supraspinatus tendon or a protective bursa sac is getting physically pinched between your arm bone and the roof of your shoulder blade when you raise your arm."
+                              },
+                              {
+                                        "question": "Can poor posture actually cause shoulder pain?",
+                                        "answer": "Yes, profoundly so. A slouched, forward-rounded posture mechanically tilts the shoulder blade downward, actively closing the joint space and increasing the likelihood of painful internal friction."
+                              },
+                              {
+                                        "question": "Will cortisone shots fix this permanently?",
+                                        "answer": "A cortisone injection may rapidly decrease the local inflammation, providing excellent short-term relief, but it does not fix the underlying postural or biomechanical root cause pulling the joint out of alignment."
+                              }
+                    ]}
                 />
 
                 {/* 2. Breadcrumbs */}

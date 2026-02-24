@@ -1,85 +1,35 @@
 "use client";
 
+import { ServiceSchema } from '@/components/ServiceSchema';
 import React from 'react';
 import Link from 'next/link';
 import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-columns";
 import Image from "next/image";
 
 export function SportsInjuriesPrevention() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "logo": "https://synctherapy.ca/images/logo.png",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                },
-                "telephone": "+1-250-812-8698",
-                "priceRange": "$$",
-                "knowsAbout": ["Sports Injuries", "Injury Prevention", "Performance Therapy", "Athletic Therapy"]
-            },
-            {
-                "@type": "MedicalWebPage",
-                "@id": "https://synctherapy.ca/conditions/sports-injuries-and-prevention/#webpage",
-                "url": "https://synctherapy.ca/conditions/sports-injuries-and-prevention/",
-                "name": "Sports Injury Rehab & Athletic Prevention in Colwood",
-                "isPartOf": { "@id": "https://synctherapy.ca/#website" },
-                "about": {
-                    "@type": "MedicalCondition",
-                    "name": "Sports Injury",
-                    "possibleTreatment": {
-                        "@type": "TherapeuticProcedure",
-                        "name": "Biomechanical Analysis & Strength Conditioning"
-                    }
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "Do you only treat professional athletes?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "No! We treat anyone with an active goal, from weekend hikers to competitive triathletes. You get the same clinical standard of care regardless of your level."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Why do I keep getting injured?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Recurring injuries usually mean the root cause wasn't fixed. You likely have a biomechanical compensation or a training load error that keeps overloading the same tissue."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "How can I prevent injuries?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Prevention isn't just luck. It's about adequate strength, proper mobility, and smart load management. We audit your movement to find the weak link before it breaks."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <div className="bg-white text-gray-900 font-sans">
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-            />
+            <ServiceSchema
+                    type="condition"
+                    name="Prevention"
+                    description=""
+                    slug="sports-injuries-prevention"
+                    breadcrumbLabel="Prevention"
+                    faqItems={[
+                              {
+                                        "question": "Do you only treat professional athletes?",
+                                        "answer": "No! We treat anyone with an active goal, from weekend hikers to competitive triathletes. You get the same clinical standard of care regardless of your level."
+                              },
+                              {
+                                        "question": "Why do I keep getting injured?",
+                                        "answer": "Recurring injuries usually mean the root cause wasn't fixed. You likely have a biomechanical compensation or a training load error that keeps overloading the same tissue."
+                              },
+                              {
+                                        "question": "How can I prevent injuries?",
+                                        "answer": "Prevention isn't just luck. It's about adequate strength, proper mobility, and smart load management. We audit your movement to find the weak link before it breaks."
+                              }
+                    ]}
+                />
 
             {/* 0. BREADCRUMBS */}
             <div className="bg-blue-950 pt-4 px-4">

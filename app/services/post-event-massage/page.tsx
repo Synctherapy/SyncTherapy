@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import { ServiceSchema } from '@/components/ServiceSchema';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import Link from 'next/link';
@@ -14,62 +15,18 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "logo": "https://synctherapy.ca/images/logo.png",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                },
-                "telephone": "+1-250-812-8698",
-                "priceRange": "$$"
-            },
-            {
-                "@type": "MedicalWebPage",
-                "@id": "https://synctherapy.ca/services/post-event-massage/#webpage",
-                "url": "https://synctherapy.ca/services/post-event-massage/",
-                "name": "Post-Event Sports Massage in Colwood",
-                "isPartOf": { "@id": "https://synctherapy.ca/#website" }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "When is the best time to get a post-event massage?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Anywhere from 2 hours to 3 days after your event. Immediate treatment focuses on flushing, while later treatment focuses on restoring mobility."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Is post-event massage painful?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "It shouldn't be. Your tissues are already traumatized from competition. We use a lighter, flushing pressure to encourage healing, not deep tissue pain."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <main className="bg-white text-gray-900 font-sans">
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+            <ServiceSchema
+                type="service"
+                name="Post-Event Sports Massage in Colwood"
+                description="Post-event sports massage to flush metabolic waste and speed up recovery after a grueling event."
+                slug="post-event-massage"
+                breadcrumbLabel="Post-Event Sports Massage"
+                faqItems={[
+                    { question: "When is the best time to get a post-event massage?", answer: "Anywhere from 2 hours to 3 days after your event. Immediate treatment focuses on flushing, while later treatment focuses on restoring mobility." },
+                    { question: "Is post-event massage painful?", answer: "It shouldn't be. Your tissues are already traumatized from competition. We use a lighter, flushing pressure to encourage healing, not deep tissue pain." }
+                ]}
             />
             <Header />
 

@@ -1,85 +1,35 @@
 "use client";
 
+import { ServiceSchema } from '@/components/ServiceSchema';
 import React from 'react';
 import Link from 'next/link';
 import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-columns";
 import Image from "next/image";
 
 export function BursitisTreatment() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "logo": "https://synctherapy.ca/images/logo.png",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                },
-                "telephone": "+1-250-812-8698",
-                "priceRange": "$$",
-                "knowsAbout": ["Bursitis", "Joint Pain", "Massage Therapy", "Physical Rehabilitation"]
-            },
-            {
-                "@type": "MedicalWebPage",
-                "@id": "https://synctherapy.ca/conditions/bursitis-treatment/#webpage",
-                "url": "https://synctherapy.ca/conditions/bursitis-treatment/",
-                "name": "Bursitis Treatment & Joint Pain Relief in Colwood & Langford",
-                "isPartOf": { "@id": "https://synctherapy.ca/#website" },
-                "about": {
-                    "@type": "MedicalCondition",
-                    "name": "Bursitis",
-                    "possibleTreatment": {
-                        "@type": "TherapeuticProcedure",
-                        "name": "Joint Mobilization & Decompression"
-                    }
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "Do I need a cortisone shot for bursitis?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "While injections reduce acute swelling, if you don't use Manual Therapy to fix the tight muscles causing the friction, the bursitis often returns. We treat the compression causing the inflammation."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Why does my bursitis keep coming back?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Bursitis recurs because the mechanical pressure (tight muscle or poor joint tracking) hasn't been resolved. Treating the inflammation without treating the cause is a temporary fix."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Can massage help bursitis?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Yes, but we don't massage the inflamed bursa directly. We release the tight muscles squeezing the bursa to allow it to drain and heal naturally."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <div className="bg-white text-gray-900 font-sans">
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-            />
+            <ServiceSchema
+                    type="condition"
+                    name="Joint Relief"
+                    description=""
+                    slug="bursitis-treatment"
+                    breadcrumbLabel="Joint Relief"
+                    faqItems={[
+                              {
+                                        "question": "Do I need a cortisone shot for bursitis?",
+                                        "answer": "While injections reduce acute swelling, if you don't use Manual Therapy to fix the tight muscles causing the friction, the bursitis often returns. We treat the compression causing the inflammation."
+                              },
+                              {
+                                        "question": "Why does my bursitis keep coming back?",
+                                        "answer": "Bursitis recurs because the mechanical pressure (tight muscle or poor joint tracking) hasn't been resolved. Treating the inflammation without treating the cause is a temporary fix."
+                              },
+                              {
+                                        "question": "Can massage help bursitis?",
+                                        "answer": "Yes, but we don't massage the inflamed bursa directly. We release the tight muscles squeezing the bursa to allow it to drain and heal naturally."
+                              }
+                    ]}
+                />
 
             {/* 0. BREADCRUMBS */}
             <div className="bg-blue-950 pt-4 px-4">

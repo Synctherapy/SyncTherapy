@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import { ServiceSchema } from '@/components/ServiceSchema';
 import Link from 'next/link';
 import Image from "next/image";
 import Header from '@/components/Header';
@@ -15,63 +16,31 @@ export const metadata: Metadata = {
 };
 
 export default function SupplementsAdvicePage() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "Do I have to buy supplements directly from your clinic?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "No. While we may provide recommendations for high-quality, professional-grade brands, you are never obligated to purchase products through us. Our priority is unbiased, safe advice."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Can you review the supplements I am currently taking?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Absolutely. Bringing in your current supplement regimen is highly encouraged. We will review them for redundancies, potential interactions, and overall necessity based on your current diet."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Is more always better when taking vitamins?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "No. Many vitamins (especially fat-soluble ones like A, D, E, and K) can accumulate in the body and cause toxicity. Supplementation should always be targeted and measured."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <main>
             <Header />
             <div className="bg-white text-gray-900 font-sans">
-                {/* 1. JSON-LD Schema */}
-                <script
-                    type="application/ld+json"
-                    dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+                {/* JSON-LD Schema */}
+                <ServiceSchema
+                    type="service"
+                    name="Nutritional Supplements Advice"
+                    description="Cautious, evidence-based, and integrative nutritional supplements advice in Colwood. We identify specific, measurable micronutrient gaps safely."
+                    slug="supplements-advice"
+                    breadcrumbLabel="Supplements Advice"
+                    faqItems={[
+                              {
+                                        "question": "Do I have to buy supplements directly from your clinic?",
+                                        "answer": "No. While we may provide recommendations for high-quality, professional-grade brands, you are never obligated to purchase products through us. Our priority is unbiased, safe advice."
+                              },
+                              {
+                                        "question": "Can you review the supplements I am currently taking?",
+                                        "answer": "Absolutely. Bringing in your current supplement regimen is highly encouraged. We will review them for redundancies, potential interactions, and overall necessity based on your current diet."
+                              },
+                              {
+                                        "question": "Is more always better when taking vitamins?",
+                                        "answer": "No. Many vitamins (especially fat-soluble ones like A, D, E, and K) can accumulate in the body and cause toxicity. Supplementation should always be targeted and measured."
+                              }
+                    ]}
                 />
 
                 {/* 2. Breadcrumbs */}

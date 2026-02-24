@@ -1,86 +1,35 @@
 "use client";
 
+import { ServiceSchema } from '@/components/ServiceSchema';
 import React from 'react';
 import Link from 'next/link';
 import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-columns";
 import Image from "next/image";
 
 export function ShinSplints() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "logo": "https://synctherapy.ca/images/logo.png",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                },
-                "telephone": "+1-250-812-8698",
-                "priceRange": "$$",
-                "knowsAbout": ["Shin Splints", "Medial Tibial Stress Syndrome", "Massage Therapy", "Athletic Therapy"]
-            },
-            {
-                "@type": "MedicalWebPage",
-                "@id": "https://synctherapy.ca/conditions/shin-splints/#webpage",
-                "url": "https://synctherapy.ca/conditions/shin-splints/",
-                "name": "Shin Splints Treatment & Lower Leg Rehab in Langford & Colwood",
-                "isPartOf": { "@id": "https://synctherapy.ca/#website" },
-                "about": {
-                    "@type": "MedicalCondition",
-                    "name": "Shin Splints",
-                    "alternateName": "Medial Tibial Stress Syndrome",
-                    "possibleTreatment": {
-                        "@type": "TherapeuticProcedure",
-                        "name": "Deep Tissue Massage & Gait Correction"
-                    }
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "Can I keep running with shin splints?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Usually no, but we provide cross-training alternatives while we build your tissue capacity back up. Continuing to run on painful shins can lead to stress fractures."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Do I need new shoes?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Maybe. Worn-out shoes or shoes with insufficient arch support can contribute to the issue, but they aren't usually the sole cause. We check your foot mechanics first."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "How do you treat shin splints?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "We use deep tissue release on the deep calf muscles (Soleus, Tib Posterior) to stop them from pulling on the bone, and strengthen the foot arch to prevent collapse."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <div className="bg-white text-gray-900 font-sans">
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-            />
+            <ServiceSchema
+                    type="condition"
+                    name="Langford & Colwood"
+                    description=""
+                    slug="shin-splints"
+                    breadcrumbLabel="Langford & Colwood"
+                    faqItems={[
+                              {
+                                        "question": "Can I keep running with shin splints?",
+                                        "answer": "Usually no, but we provide cross-training alternatives while we build your tissue capacity back up. Continuing to run on painful shins can lead to stress fractures."
+                              },
+                              {
+                                        "question": "Do I need new shoes?",
+                                        "answer": "Maybe. Worn-out shoes or shoes with insufficient arch support can contribute to the issue, but they aren't usually the sole cause. We check your foot mechanics first."
+                              },
+                              {
+                                        "question": "How do you treat shin splints?",
+                                        "answer": "We use deep tissue release on the deep calf muscles (Soleus, Tib Posterior) to stop them from pulling on the bone, and strengthen the foot arch to prevent collapse."
+                              }
+                    ]}
+                />
 
             {/* 0. BREADCRUMBS */}
             <div className="bg-blue-950 pt-4 px-4">

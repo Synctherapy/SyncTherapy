@@ -1,5 +1,6 @@
 "use client";
 
+import { ServiceSchema } from '@/components/ServiceSchema';
 import { HeroSection } from "@/components/sections/hero-section";
 import { LocationSection } from "@/components/sections/location-section";
 import { FaqSection } from "@/components/sections/faq-section";
@@ -15,33 +16,6 @@ import { FirstVisitRoadmap } from "@/components/sections/first-visit-roadmap";
 import { Pricing } from "@/components/ui/pricing";
 
 export function DeepTissueMassage() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@type": "MedicalOrganization",
-        "name": "Sync Massage Therapy",
-        "url": "https://synctherapy.ca/services/deep-tissue-massage",
-        "logo": "https://synctherapy.ca/images/logo.png",
-        "contactPoint": {
-            "@type": "ContactPoint",
-            "telephone": "+1-250-812-8698",
-            "contactType": "customer service"
-        },
-        "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "328 Wale Rd #120",
-            "addressLocality": "Colwood",
-            "addressRegion": "BC",
-            "postalCode": "V9B 0J8",
-            "addressCountry": "CA"
-        },
-        "medicalSpecialty": "PhysicalTherapy",
-        "availableService": {
-            "@type": "MedicalService",
-            "name": "Deep Tissue Massage",
-            "description": "Clinical deep tissue massage focusing on chronic tension and sports injuries."
-        }
-    };
-
     const pricingPlans = [
         {
             name: "75 Minute Massage",
@@ -94,10 +68,31 @@ export function DeepTissueMassage() {
 
     return (
         <div className="bg-background min-h-screen relative selection:bg-blue-100 selection:text-blue-900 overflow-hidden">
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-            />
+            <ServiceSchema
+                    type="service"
+                    name="Clinical Deep Tissue Massage in Colwood & Langford"
+                    description="Ideal for addressing multiple areas or complex conditions."
+                    slug="deep-tissue-massage"
+                    breadcrumbLabel="Clinical Deep Tissue Massage in Colwood & Langford"
+                    faqItems={[
+                              {
+                                        "question": "Will deep tissue massage hurt?",
+                                        "answer": "It should feel like a 'good hurt,' not sharp pain. Our RMTs work within your tolerance to release tension without causing guarding."
+                              },
+                              {
+                                        "question": "How is Deep Tissue different from Swedish massage?",
+                                        "answer": "Swedish massage focuses on relaxation and circulation. Deep Tissue focuses on structural changes, breaking down scar tissue and releasing chronic knots."
+                              },
+                              {
+                                        "question": "Is deep tissue massage covered by insurance?",
+                                        "answer": "Yes. All treatments at Sync Therapy are performed by Registered Massage Therapists (RMTs) and are covered by most plans. We direct bill Pacific Blue Cross, Canada Life, and Sun Life."
+                              },
+                              {
+                                        "question": "How often should I get a deep tissue massage?",
+                                        "answer": "For acute pain, we recommend 3-4 sessions spaced 1-2 weeks apart. For maintenance, once every 4-6 weeks is standard."
+                              }
+                    ]}
+                />
 
             {/* Global Fluid Background */}
             <div className="fixed inset-0 z-0 pointer-events-none overflow-hidden">
@@ -328,50 +323,6 @@ export function DeepTissueMassage() {
                 <FirstVisitRoadmap />
 
                 {/* 8. FAQ */}
-                {/* 8. FAQ */}
-                <script
-                    type="application/ld+json"
-                    dangerouslySetInnerHTML={{
-                        __html: JSON.stringify({
-                            "@context": "https://schema.org",
-                            "@type": "FAQPage",
-                            "mainEntity": [
-                                {
-                                    "@type": "Question",
-                                    "name": "Will deep tissue massage hurt?",
-                                    "acceptedAnswer": {
-                                        "@type": "Answer",
-                                        "text": "It should feel like a 'good hurt,' not sharp pain. Our RMTs work within your tolerance to release tension without causing guarding."
-                                    }
-                                },
-                                {
-                                    "@type": "Question",
-                                    "name": "How is Deep Tissue different from Swedish massage?",
-                                    "acceptedAnswer": {
-                                        "@type": "Answer",
-                                        "text": "Swedish massage focuses on relaxation and circulation. Deep Tissue focuses on structural changes, breaking down scar tissue and releasing chronic knots."
-                                    }
-                                },
-                                {
-                                    "@type": "Question",
-                                    "name": "Is deep tissue massage covered by insurance?",
-                                    "acceptedAnswer": {
-                                        "@type": "Answer",
-                                        "text": "Yes. All treatments at Sync Therapy are performed by Registered Massage Therapists (RMTs) and are covered by most plans. We direct bill Pacific Blue Cross, Canada Life, and Sun Life."
-                                    }
-                                },
-                                {
-                                    "@type": "Question",
-                                    "name": "How often should I get a deep tissue massage?",
-                                    "acceptedAnswer": {
-                                        "@type": "Answer",
-                                        "text": "For acute pain, we recommend 3-4 sessions spaced 1-2 weeks apart. For maintenance, once every 4-6 weeks is standard."
-                                    }
-                                }
-                            ]
-                        })
-                    }}
-                />
                 <FaqSection
                     heading="Frequently Asked Questions About Deep Tissue Massage"
                     description="Common questions about our treatments and billing."

@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import { ServiceSchema } from '@/components/ServiceSchema';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import Link from 'next/link';
@@ -14,62 +15,18 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "logo": "https://synctherapy.ca/images/logo.png",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                },
-                "telephone": "+1-250-812-8698",
-                "priceRange": "$$"
-            },
-            {
-                "@type": "MedicalWebPage",
-                "@id": "https://synctherapy.ca/services/rotator-cuff-release/#webpage",
-                "url": "https://synctherapy.ca/services/rotator-cuff-release/",
-                "name": "Rotator Cuff Release in Colwood",
-                "isPartOf": { "@id": "https://synctherapy.ca/#website" }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "Is it painful to have the rotator cuff released?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "It can be intensely tender, as these muscles are small and often highly inflamed. We communicate with you to ensure the pressure remains therapeutic, not painful."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "How do I know if it's my rotator cuff?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Our dual-credentialed therapists perform specific orthopedic tests during your assessment to isolate exactly which tendon or muscle is causing the impingement."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <main className="bg-white text-gray-900 font-sans">
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+            <ServiceSchema
+                type="service"
+                name="Rotator Cuff Release in Colwood"
+                description="Targeted rotator cuff release to alleviate impingement, clicking, and sharp shoulder pain."
+                slug="rotator-cuff-release"
+                breadcrumbLabel="Rotator Cuff Release"
+                faqItems={[
+                    { question: "Is it painful to have the rotator cuff released?", answer: "It can be intensely tender, as these muscles are small and often highly inflamed. We communicate with you to ensure the pressure remains therapeutic, not painful." },
+                    { question: "How do I know if it's my rotator cuff?", answer: "Our dual-credentialed therapists perform specific orthopedic tests during your assessment to isolate exactly which tendon or muscle is causing the impingement." }
+                ]}
             />
             <Header />
 

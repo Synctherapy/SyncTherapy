@@ -49,7 +49,7 @@ export function LocationSection() {
                 <MapPin className="w-5 h-5 text-accent flex-shrink-0 mt-0.5" />
                 <div>
                   <p className="text-foreground">132, 328 Wale Rd #120</p>
-                  <p className="text-foreground">Colwood, BC V9B 0J8</p>
+                  <p className="text-foreground">Colwood, BC V9B 1J2</p>
                 </div>
               </div>
 

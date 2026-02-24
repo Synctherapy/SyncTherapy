@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import { ServiceSchema } from '@/components/ServiceSchema';
 import Link from 'next/link';
 import Image from "next/image";
 import Header from '@/components/Header';
@@ -15,63 +16,31 @@ export const metadata: Metadata = {
 };
 
 export default function ExerciseTherapyPage() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "What is the difference between an exercise therapist and a personal trainer?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "A personal trainer primarily focuses on general fitness and cardiovascular conditioning, whereas an exercise therapist (typically a Certified Athletic Therapist) is medically trained to clinically assess, diagnose, and rehabilitate specific orthopedic injuries using precise biomechanical protocols."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Should exercise therapy hurt?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "No. The movements should feel challenging and fatiguing to the muscle bellies, but they should never elicit the sharp, stabbing, or pinpoint joint pain associated with an acute injury."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "What should I wear to an exercise therapy session?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Please wear comfortable, loose-fitting athletic clothing such as shorts or leggings and a t-shirt. Clean indoor athletic shoes are also recommended as we will be actively moving."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <main>
             <Header />
             <div className="bg-white text-gray-900 font-sans">
-                {/* 1. JSON-LD Schema */}
-                <script
-                    type="application/ld+json"
-                    dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+                {/* JSON-LD Schema */}
+                <ServiceSchema
+                    type="service"
+                    name="Clinical Exercise Therapy"
+                    description="Active and rehabilitative Clinical Exercise Therapy in Colwood. We rebuild neural pathways and increase the tensile strength of healing joint tissue safely."
+                    slug="exercise-therapy"
+                    breadcrumbLabel="Exercise Therapy"
+                    faqItems={[
+                              {
+                                        "question": "What is the difference between an exercise therapist and a personal trainer?",
+                                        "answer": "A personal trainer primarily focuses on general fitness and cardiovascular conditioning, whereas an exercise therapist (typically a Certified Athletic Therapist) is medically trained to clinically assess, diagnose, and rehabilitate specific orthopedic injuries using precise biomechanical protocols."
+                              },
+                              {
+                                        "question": "Should exercise therapy hurt?",
+                                        "answer": "No. The movements should feel challenging and fatiguing to the muscle bellies, but they should never elicit the sharp, stabbing, or pinpoint joint pain associated with an acute injury."
+                              },
+                              {
+                                        "question": "What should I wear to an exercise therapy session?",
+                                        "answer": "Please wear comfortable, loose-fitting athletic clothing such as shorts or leggings and a t-shirt. Clean indoor athletic shoes are also recommended as we will be actively moving."
+                              }
+                    ]}
                 />
 
                 {/* 2. Breadcrumbs */}

@@ -9,23 +9,39 @@ export const MenuItem = ({
     item,
     children,
 }: {
-    setActive: (item: string) => void;
+    setActive: (item: string | null) => void;
     active: string | null;
     item: string;
     children?: React.ReactNode;
 }) => {
+    const isOpen = active === item;
+
     return (
-        <div onMouseEnter={() => setActive(item)} className="relative ">
-            <p className="cursor-pointer text-black hover:opacity-[0.9] dark:text-white transition-opacity duration-300">
+        <div
+            onMouseEnter={() => setActive(item)}
+            onKeyDown={(e) => {
+                if (e.key === "Escape") {
+                    setActive(null);
+                }
+            }}
+            className="relative"
+        >
+            <button
+                onClick={() => setActive(isOpen ? null : item)}
+                onFocus={() => setActive(item)}
+                aria-expanded={isOpen}
+                aria-haspopup="true"
+                className="cursor-pointer text-black hover:opacity-[0.9] dark:text-white transition-opacity duration-300 bg-transparent border-none p-0 font-inherit text-inherit focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 rounded-sm"
+            >
                 {item}
-            </p>
+            </button>
             {active !== null && (
                 <div
-                    className={`transition-all duration-300 ${active === item ? "opacity-100 scale-100 translate-y-0" : "opacity-0 scale-95 translate-y-2"
-                        } pointer-events-none`}
+                    className={`transition-all duration-300 ${isOpen ? "opacity-100 scale-100 translate-y-0" : "opacity-0 scale-95 translate-y-2 pointer-events-none"
+                        }`}
                 >
-                    {active === item && (
-                        <div className="absolute top-[calc(100%_+_1.2rem)] left-1/2 transform -translate-x-1/2 pt-4 pointer-events-auto">
+                    {isOpen && (
+                        <div className="absolute top-[calc(100%_+_1.2rem)] left-1/2 transform -translate-x-1/2 pt-4">
                             <div className="bg-white dark:bg-black backdrop-blur-sm rounded-2xl overflow-hidden border border-black/[0.2] dark:border-white/[0.2] shadow-xl transition-all duration-300">
                                 <div className="w-max h-full p-4 transition-all duration-300">
                                     {children}
@@ -66,7 +82,7 @@ export const ProductItem = ({
     href: string;
 }) => {
     return (
-        <Link href={href} className="flex space-x-2">
+        <Link href={href} className="flex space-x-2 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 rounded-md">
             <div>
                 <h4 className="text-xl font-bold mb-1 text-black dark:text-white">
                     {title}
@@ -79,13 +95,14 @@ export const ProductItem = ({
     );
 };
 
-export const HoveredLink = ({ children, ...rest }: any) => {
+export const HoveredLink = ({ children, ...rest }: { children: React.ReactNode; href: string;[key: string]: any }) => {
     return (
         <Link
             {...rest}
-            className="text-neutral-700 dark:text-neutral-200 hover:text-black "
+            className="text-neutral-700 dark:text-neutral-200 hover:text-black focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 rounded-sm transition-colors"
         >
             {children}
         </Link>
     );
 };
+

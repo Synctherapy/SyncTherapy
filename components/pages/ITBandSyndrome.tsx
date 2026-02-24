@@ -1,86 +1,35 @@
 "use client";
 
+import { ServiceSchema } from '@/components/ServiceSchema';
 import React from 'react';
 import Link from 'next/link';
 import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-columns";
 import Image from "next/image";
 
 export function ITBandSyndrome() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "logo": "https://synctherapy.ca/images/logo.png",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                },
-                "telephone": "+1-250-812-8698",
-                "priceRange": "$$",
-                "knowsAbout": ["IT Band Syndrome", "Runner's Knee", "Massage Therapy", "Athletic Therapy"]
-            },
-            {
-                "@type": "MedicalWebPage",
-                "@id": "https://synctherapy.ca/conditions/it-band-syndrome/#webpage",
-                "url": "https://synctherapy.ca/conditions/it-band-syndrome/",
-                "name": "IT Band Syndrome & Runner's Knee Rehab in Colwood",
-                "isPartOf": { "@id": "https://synctherapy.ca/#website" },
-                "about": {
-                    "@type": "MedicalCondition",
-                    "name": "IT Band Syndrome",
-                    "alternateName": "Iliotibial Band Friction Syndrome",
-                    "possibleTreatment": {
-                        "@type": "TherapeuticProcedure",
-                        "name": "Myofascial Release & Glute Strengthening"
-                    }
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "Should I foam roll my IT band?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "No, rolling the IT band directly often crushes the tissue and causes more inflammation. We work on the muscles attached to it (TFL and Glutes) instead."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Can I keep running with IT Band Syndrome?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "It depends on the severity. In acute stages, rest is often required. We perform a gait analysis to see if your running form is contributing to the friction."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "How long does IT Band Syndrome take to heal?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "With proper treatment (releasing the TFL and strengthening the glutes), most runners see significant relief in 4-6 weeks."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <div className="bg-white text-gray-900 font-sans">
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-            />
+            <ServiceSchema
+                    type="condition"
+                    name="Runner's Knee Rehab"
+                    description=""
+                    slug="i-t-band-syndrome"
+                    breadcrumbLabel="Runner's Knee Rehab"
+                    faqItems={[
+                              {
+                                        "question": "Should I foam roll my IT band?",
+                                        "answer": "No, rolling the IT band directly often crushes the tissue and causes more inflammation. We work on the muscles attached to it (TFL and Glutes) instead."
+                              },
+                              {
+                                        "question": "Can I keep running with IT Band Syndrome?",
+                                        "answer": "It depends on the severity. In acute stages, rest is often required. We perform a gait analysis to see if your running form is contributing to the friction."
+                              },
+                              {
+                                        "question": "How long does IT Band Syndrome take to heal?",
+                                        "answer": "With proper treatment (releasing the TFL and strengthening the glutes), most runners see significant relief in 4-6 weeks."
+                              }
+                    ]}
+                />
 
             {/* 0. BREADCRUMBS */}
             <div className="bg-blue-950 pt-4 px-4">

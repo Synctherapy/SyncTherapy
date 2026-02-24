@@ -1,86 +1,35 @@
 "use client";
 
+import { ServiceSchema } from '@/components/ServiceSchema';
 import React from 'react';
 import Link from 'next/link';
 import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-columns";
 import Image from "next/image";
 
 export function ChronicPain() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "logo": "https://synctherapy.ca/images/logo.png",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                },
-                "telephone": "+1-250-812-8698",
-                "priceRange": "$$",
-                "knowsAbout": ["Chronic Pain", "Pain Management", "Massage Therapy", "Visceral Manipulation", "Health Consulting"]
-            },
-            {
-                "@type": "MedicalWebPage",
-                "@id": "https://synctherapy.ca/conditions/chronic-pain/#webpage",
-                "url": "https://synctherapy.ca/conditions/chronic-pain/",
-                "name": "Chronic Pain Management in Colwood & Langford",
-                "isPartOf": { "@id": "https://synctherapy.ca/#website" },
-                "about": {
-                    "@type": "MedicalCondition",
-                    "name": "Chronic Pain",
-                    "alternateName": "Central Sensitization",
-                    "possibleTreatment": {
-                        "@type": "TherapeuticProcedure",
-                        "name": "Pain Science Education & Nervous System Regulation"
-                    }
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "Why hasn't other therapy worked for my chronic pain?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Many therapies only address the muscle (the hardware). Chronic pain often requires treating the nervous system (the software) to turn down the volume of the pain signals."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Is my pain all in my head?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "The pain is 100% real. However, it is processed by the brain. In chronic pain, the brain becomes overprotective and amplifies signals. We treat this hypersensitivity."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Do I need to manage stress?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Yes. Stress hormones (cortisol) increase inflammation and pain sensitivity. Our health consulting approach helps you manage sleep and stress to aid recovery."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <div className="bg-white text-gray-900 font-sans">
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-            />
+            <ServiceSchema
+                    type="condition"
+                    name="in Colwood & Langford"
+                    description=""
+                    slug="chronic-pain"
+                    breadcrumbLabel="in Colwood & Langford"
+                    faqItems={[
+                              {
+                                        "question": "Why hasn't other therapy worked for my chronic pain?",
+                                        "answer": "Many therapies only address the muscle (the hardware). Chronic pain often requires treating the nervous system (the software) to turn down the volume of the pain signals."
+                              },
+                              {
+                                        "question": "Is my pain all in my head?",
+                                        "answer": "The pain is 100% real. However, it is processed by the brain. In chronic pain, the brain becomes overprotective and amplifies signals. We treat this hypersensitivity."
+                              },
+                              {
+                                        "question": "Do I need to manage stress?",
+                                        "answer": "Yes. Stress hormones (cortisol) increase inflammation and pain sensitivity. Our health consulting approach helps you manage sleep and stress to aid recovery."
+                              }
+                    ]}
+                />
 
             {/* 0. BREADCRUMBS */}
             <div className="bg-blue-950 pt-4 px-4">

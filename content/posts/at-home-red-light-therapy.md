@@ -402,7 +402,7 @@ seoTitle: 12 Best At-Home Red Light Devices in Canada (2026)
                     <h3 class="text-2xl font-bold">12. Infraredi LED Light Therapy Mask - Best Medical-Grade Mask</h3>
                     <p class="text-accent font-semibold mb-4">Best Medical-Grade for Wrinkles & Acne</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://staging.synctherapy.ca/wordpress/wp-content/uploads/content/Infraredi-LED-Light-Therapy-Mask-using-red-light-to-improve-wrinkles-and-skin-health_224f2455-418c-43f5-9d7d-2e91414bbbec.webp" onerror="this.onerror=null;this.src="/uploads/2025/11/infraredi-red-light-therapy-mask-at-home.webp";" alt="The Infraredi LED Light Therapy Mask, a medical-grade option available in Canada." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/2025/11/infraredi-red-light-therapy-mask-at-home.webp" alt="The Infraredi LED Light Therapy Mask, a medical-grade option available in Canada." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">This medical-grade option utilizes both red (630nm) and near-infrared (850nm) light for a powerful, dual-action approach to treating both wrinkles and acne with clinical precision. For more, read our <a data-wpil="url" href="https://synctherapylocal.local/infraredi-reviews/" class="text-primary hover:underline font-semibold">Infraredi reviews</a>.</p>
                             <ul class="list-disc list-inside space-y-2 mb-4">
@@ -421,7 +421,7 @@ seoTitle: 12 Best At-Home Red Light Devices in Canada (2026)
                     <h3 class="text-2xl font-bold">13. Omnilux Contour FACE - Best for Anti-Aging</h3>
                     <p class="text-accent font-semibold mb-4">Best for Anti-Aging & Younger Looking Skin</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="https://staging.synctherapy.ca/wordpress/wp-content/uploads/content/the-omnilux-contour-face-mask-is-a-top-rated-best-red-light-therapy-face-mask-to-help-with-aging_71d55d7a-eda3-44bb-ac46-f828263b1a50.webp" onerror="this.onerror=null;this.src="/uploads/2025/11/Contour_Face_Cover_Image.jpg";" alt="The Omnilux Contour led light therapy mask, a popular choice in Canada for anti-aging." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/2025/11/Contour_Face_Cover_Image.jpg" alt="The Omnilux Contour led light therapy mask, a popular choice in Canada for anti-aging." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">A dermatologist-recommended, FDA-cleared mask celebrated for its anti-aging results. It's clinically proven to reduce fine lines, pigmentation, and redness for a plumper, brighter complexion.</p>
                             <ul class="list-disc list-inside space-y-2 mb-4">

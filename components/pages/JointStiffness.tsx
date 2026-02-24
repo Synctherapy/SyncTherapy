@@ -1,86 +1,35 @@
 "use client";
 
+import { ServiceSchema } from '@/components/ServiceSchema';
 import React from 'react';
 import Link from 'next/link';
 import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-columns";
 import Image from "next/image";
 
 export function JointStiffness() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "logo": "https://synctherapy.ca/images/logo.png",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                },
-                "telephone": "+1-250-812-8698",
-                "priceRange": "$$",
-                "knowsAbout": ["Joint Stiffness", "Mobility", "Massage Therapy", "Athletic Therapy", "Nutrition"]
-            },
-            {
-                "@type": "MedicalWebPage",
-                "@id": "https://synctherapy.ca/conditions/joint-stiffness/#webpage",
-                "url": "https://synctherapy.ca/conditions/joint-stiffness/",
-                "name": "Joint Stiffness & Mobility Relief in Colwood",
-                "isPartOf": { "@id": "https://synctherapy.ca/#website" },
-                "about": {
-                    "@type": "MedicalCondition",
-                    "name": "Joint Stiffness",
-                    "alternateName": "Reduced Range of Motion",
-                    "possibleTreatment": {
-                        "@type": "TherapeuticProcedure",
-                        "name": "Mobilization & Myofascial Release"
-                    }
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "Will cracking my joints help?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Joint manipulation provides temporary relief, but if the surrounding muscles remain tight, the joint will simply compress again. We focus on soft tissue release."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Why are my joints so stiff in the morning?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Synovial fluid (joint oil) thickens when you are inactive. Movement warms it up, but if you have chronic tension, the joint stays compressed and 'dry' longer."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Is this arthritis?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Stiffness can be a sign of early osteoarthritis, but it is often just soft tissue restriction. We can help determine if it's muscular or skeletal."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <div className="bg-white text-gray-900 font-sans">
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-            />
+            <ServiceSchema
+                    type="condition"
+                    name="Mobility Relief"
+                    description=""
+                    slug="joint-stiffness"
+                    breadcrumbLabel="Mobility Relief"
+                    faqItems={[
+                              {
+                                        "question": "Will cracking my joints help?",
+                                        "answer": "Joint manipulation provides temporary relief, but if the surrounding muscles remain tight, the joint will simply compress again. We focus on soft tissue release."
+                              },
+                              {
+                                        "question": "Why are my joints so stiff in the morning?",
+                                        "answer": "Synovial fluid (joint oil) thickens when you are inactive. Movement warms it up, but if you have chronic tension, the joint stays compressed and 'dry' longer."
+                              },
+                              {
+                                        "question": "Is this arthritis?",
+                                        "answer": "Stiffness can be a sign of early osteoarthritis, but it is often just soft tissue restriction. We can help determine if it's muscular or skeletal."
+                              }
+                    ]}
+                />
 
             {/* 0. BREADCRUMBS */}
             <div className="bg-blue-950 pt-4 px-4">

@@ -1,86 +1,35 @@
 "use client";
 
+import { ServiceSchema } from '@/components/ServiceSchema';
 import React from 'react';
 import Link from 'next/link';
 import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-columns";
 import Image from "next/image";
 
 export function SprainsAndStrains() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "logo": "https://synctherapy.ca/images/logo.png",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                },
-                "telephone": "+1-250-812-8698",
-                "priceRange": "$$",
-                "knowsAbout": ["Sprains", "Strains", "Ankle Sprain", "Hamstring Strain", "Massage Therapy"]
-            },
-            {
-                "@type": "MedicalWebPage",
-                "@id": "https://synctherapy.ca/conditions/sprains-and-strains/#webpage",
-                "url": "https://synctherapy.ca/conditions/sprains-and-strains/",
-                "name": "Sprains, Strains & Acute Injury Rehab in Colwood",
-                "isPartOf": { "@id": "https://synctherapy.ca/#website" },
-                "about": {
-                    "@type": "MedicalCondition",
-                    "name": "Acute Injury",
-                    "alternateName": "Soft Tissue Injury",
-                    "possibleTreatment": {
-                        "@type": "TherapeuticProcedure",
-                        "name": "PEACE & LOVE Protocol"
-                    }
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "Should I put ice on my sprain?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Ice can actually delay long-term healing by stopping the natural inflammatory repair process. We guide you on when to use movement instead of ice (The PEACE & LOVE protocol)."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "What's the difference between a sprain and a strain?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "A Sprain is a stretched ligament (bone to bone), common in ankles. A Strain is a torn muscle or tendon (muscle to bone), common in hamstrings or calves."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "How soon should I come in after an injury?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "We recommend coming in within 48-72 hours. We need to rule out fractures and start early mobilization to prevent scar tissue from forming incorrectly."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <div className="bg-white text-gray-900 font-sans">
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-            />
+            <ServiceSchema
+                    type="condition"
+                    name="Acute Injury Rehab"
+                    description=""
+                    slug="sprains-and-strains"
+                    breadcrumbLabel="Acute Injury Rehab"
+                    faqItems={[
+                              {
+                                        "question": "Should I put ice on my sprain?",
+                                        "answer": "Ice can actually delay long-term healing by stopping the natural inflammatory repair process. We guide you on when to use movement instead of ice (The PEACE & LOVE protocol)."
+                              },
+                              {
+                                        "question": "What's the difference between a sprain and a strain?",
+                                        "answer": "A Sprain is a stretched ligament (bone to bone), common in ankles. A Strain is a torn muscle or tendon (muscle to bone), common in hamstrings or calves."
+                              },
+                              {
+                                        "question": "How soon should I come in after an injury?",
+                                        "answer": "We recommend coming in within 48-72 hours. We need to rule out fractures and start early mobilization to prevent scar tissue from forming incorrectly."
+                              }
+                    ]}
+                />
 
             {/* 0. BREADCRUMBS */}
             <div className="bg-blue-950 pt-4 px-4">

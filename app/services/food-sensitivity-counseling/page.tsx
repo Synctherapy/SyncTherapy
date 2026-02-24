@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import { ServiceSchema } from '@/components/ServiceSchema';
 import Link from 'next/link';
 import Image from "next/image";
 import Header from '@/components/Header';
@@ -15,63 +16,31 @@ export const metadata: Metadata = {
 };
 
 export default function FoodSensitivityCounselingPage() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "Are food sensitivities the same thing as food allergies?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "No. An allergy is an immediate, potentially life-threatening immune system response (IgE). A sensitivity is typically a delayed immune or digestive reaction (IgG) that causes lingering discomfort like bloating, fatigue, or joint pain hours or days later."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Do I have to stop eating these foods forever?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Often, no. The primary goal is to isolate the trigger, remove it temporarily to allow the gut lining to structurally heal, and then systematically reintroduce it later to determine your personal threshold of tolerance."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Does an elimination diet mean I will be starving?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Absolutely not. A properly guided elimination protocol simply shifts your caloric intake away from highly reactive foods directly toward nourishing, hypoallergenic alternatives to intentionally calm systemic inflammation."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <main>
             <Header />
             <div className="bg-white text-gray-900 font-sans">
-                {/* 1. JSON-LD Schema */}
-                <script
-                    type="application/ld+json"
-                    dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+                {/* JSON-LD Schema */}
+                <ServiceSchema
+                    type="service"
+                    name="Food Sensitivity Counseling"
+                    description="Investigative, relieving Food Sensitivity Counseling in Colwood. We use guided elimination diets to systematically isolate triggers without unnecessary restriction."
+                    slug="food-sensitivity-counseling"
+                    breadcrumbLabel="Food Sensitivity Counseling"
+                    faqItems={[
+                              {
+                                        "question": "Are food sensitivities the same thing as food allergies?",
+                                        "answer": "No. An allergy is an immediate, potentially life-threatening immune system response (IgE). A sensitivity is typically a delayed immune or digestive reaction (IgG) that causes lingering discomfort like bloating, fatigue, or joint pain hours or days later."
+                              },
+                              {
+                                        "question": "Do I have to stop eating these foods forever?",
+                                        "answer": "Often, no. The primary goal is to isolate the trigger, remove it temporarily to allow the gut lining to structurally heal, and then systematically reintroduce it later to determine your personal threshold of tolerance."
+                              },
+                              {
+                                        "question": "Does an elimination diet mean I will be starving?",
+                                        "answer": "Absolutely not. A properly guided elimination protocol simply shifts your caloric intake away from highly reactive foods directly toward nourishing, hypoallergenic alternatives to intentionally calm systemic inflammation."
+                              }
+                    ]}
                 />
 
                 {/* 2. Breadcrumbs */}

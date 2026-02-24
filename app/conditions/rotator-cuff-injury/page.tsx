@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import { ServiceSchema } from '@/components/ServiceSchema';
 import Link from 'next/link';
 import Image from "next/image";
 import Header from '@/components/Header';
@@ -15,63 +16,31 @@ export const metadata: Metadata = {
 };
 
 export default function RotatorCuffInjuryPage() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "Can a rotator cuff tear heal without surgery?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Many partial tears or severe tendinopathies can be successfully managed and rehabilitated without surgical intervention by strengthening the surrounding compensatory musculature to stabilize the joint."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Should I wear a sling?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Generally, prolonged immobilization in a sling after the initial acute phase (first 48-72 hours) is discouraged as it can lead to severe muscle atrophy and 'frozen shoulder' complications."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Why does my shoulder hurt worst at night?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "When you lie down, the structural layout of your shoulder shifts, often compressing already inflamed tendons against the surrounding bones, reducing blood flow and increasing swelling in a confined space."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <main>
             <Header />
             <div className="bg-white text-gray-900 font-sans">
-                {/* 1. JSON-LD Schema */}
-                <script
-                    type="application/ld+json"
-                    dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+                {/* JSON-LD Schema */}
+                <ServiceSchema
+                    type="condition"
+                    name="Rotator Cuff Injury Treatment"
+                    description="Precise, rehabilitative rotator cuff injury treatment in Colwood. We assess specific tendons and focus on restoring dynamic shoulder mobility safely."
+                    slug="rotator-cuff-injury"
+                    breadcrumbLabel="Rotator Cuff Injury"
+                    faqItems={[
+                              {
+                                        "question": "Can a rotator cuff tear heal without surgery?",
+                                        "answer": "Many partial tears or severe tendinopathies can be successfully managed and rehabilitated without surgical intervention by strengthening the surrounding compensatory musculature to stabilize the joint."
+                              },
+                              {
+                                        "question": "Should I wear a sling?",
+                                        "answer": "Generally, prolonged immobilization in a sling after the initial acute phase (first 48-72 hours) is discouraged as it can lead to severe muscle atrophy and 'frozen shoulder' complications."
+                              },
+                              {
+                                        "question": "Why does my shoulder hurt worst at night?",
+                                        "answer": "When you lie down, the structural layout of your shoulder shifts, often compressing already inflamed tendons against the surrounding bones, reducing blood flow and increasing swelling in a confined space."
+                              }
+                    ]}
                 />
 
                 {/* 2. Breadcrumbs */}

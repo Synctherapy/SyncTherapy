@@ -536,17 +536,17 @@
   },
   {
     "source": "/conditions/back-pain-relief-victoria",
-    "destination": "/conditions/back-pain-victoria/",
+    "destination": "/conditions/back-pain/",
     "permanent": true
   },
   {
     "source": "/conditions/back-pain-langford",
-    "destination": "/conditions/back-pain-victoria/",
+    "destination": "/conditions/back-pain/",
     "permanent": true
   },
   {
     "source": "/conditions/back-pain-colwood",
-    "destination": "/conditions/back-pain-victoria/",
+    "destination": "/conditions/back-pain/",
     "permanent": true
   },
   {
@@ -1371,12 +1371,12 @@
   },
   {
     "source": "/deep-tissue-massage/",
-    "destination": "/deep-tissue-massage-victoria",
+    "destination": "/services/deep-tissue-massage/",
     "permanent": true
   },
   {
     "source": "/athletic-therapy/",
-    "destination": "/athletic-therapy-victoria",
+    "destination": "/services/athletic-therapy/",
     "permanent": true
   },
   {
@@ -1405,18 +1405,8 @@
     "permanent": true
   },
   {
-    "source": "/services/athletic-therapy/",
-    "destination": "/athletic-therapy-victoria",
-    "permanent": true
-  },
-  {
     "source": "/about/about-sync-therapy/",
-    "destination": "/our-team/daryl-stubbs/",
-    "permanent": true
-  },
-  {
-    "source": "/services/sports-massage/",
-    "destination": "/sports-massage-therapy",
+    "destination": "/about/",
     "permanent": true
   },
   {
@@ -1507,6 +1497,26 @@
   {
     "source": "/conditions/sciatica-relief-victoria/",
     "destination": "/conditions/sciatica-treatment/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/back-pain-relief-victoria/",
+    "destination": "/conditions/back-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/services/massage-therapy-victoria/",
+    "destination": "/services/massage-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/services/sports-massage-victoria/",
+    "destination": "/services/sports-massage/",
+    "permanent": true
+  },
+  {
+    "source": "/services/deep-tissue-massage-victoria/",
+    "destination": "/services/deep-tissue-massage/",
     "permanent": true
   }
 ]

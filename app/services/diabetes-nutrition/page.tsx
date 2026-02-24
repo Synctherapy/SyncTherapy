@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import { ServiceSchema } from '@/components/ServiceSchema';
 import Link from 'next/link';
 import Image from "next/image";
 import Header from '@/components/Header';
@@ -15,63 +16,31 @@ export const metadata: Metadata = {
 };
 
 export default function DiabetesNutritionPage() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "Can you replace my doctor's advice on diabetes?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "No. Our holistic nutrition services are complementary. We do not prescribe medication or override your primary healthcare provider's medical advice; we guide your daily food choices to support your overall wellness strategy."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Will I have to eliminate all carbohydrates?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Not necessarily. We focus on carbohydrate quality, glycemic index education, and proper meal-pairing techniques rather than severely restricting all forms of carbohydrates."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "How does meal timing affect blood sugar?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Consistency and timing are crucial. Irregular meal times or prolonged fasting can cause erratic blood sugar spikes and crashes; we help you establish a stable, manageable routine."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <main>
             <Header />
             <div className="bg-white text-gray-900 font-sans">
-                {/* 1. JSON-LD Schema */}
-                <script
-                    type="application/ld+json"
-                    dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+                {/* JSON-LD Schema */}
+                <ServiceSchema
+                    type="service"
+                    name="Diabetes Nutrition Management"
+                    description="Careful, stabilizing diabetes nutrition management in Colwood. Learn glycemic index strategies and meal timing to help naturally manage blood sugar levels."
+                    slug="diabetes-nutrition"
+                    breadcrumbLabel="Diabetes Nutrition"
+                    faqItems={[
+                              {
+                                        "question": "Can you replace my doctor's advice on diabetes?",
+                                        "answer": "No. Our holistic nutrition services are complementary. We do not prescribe medication or override your primary healthcare provider's medical advice; we guide your daily food choices to support your overall wellness strategy."
+                              },
+                              {
+                                        "question": "Will I have to eliminate all carbohydrates?",
+                                        "answer": "Not necessarily. We focus on carbohydrate quality, glycemic index education, and proper meal-pairing techniques rather than severely restricting all forms of carbohydrates."
+                              },
+                              {
+                                        "question": "How does meal timing affect blood sugar?",
+                                        "answer": "Consistency and timing are crucial. Irregular meal times or prolonged fasting can cause erratic blood sugar spikes and crashes; we help you establish a stable, manageable routine."
+                              }
+                    ]}
                 />
 
                 {/* 2. Breadcrumbs */}

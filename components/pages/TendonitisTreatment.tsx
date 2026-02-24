@@ -1,86 +1,35 @@
 "use client";
 
+import { ServiceSchema } from '@/components/ServiceSchema';
 import React from 'react';
 import Link from 'next/link';
 import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-columns";
 import Image from "next/image";
 
 export function TendonitisTreatment() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "logo": "https://synctherapy.ca/images/logo.png",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                },
-                "telephone": "+1-250-812-8698",
-                "priceRange": "$$",
-                "knowsAbout": ["Tendonitis", "Tennis Elbow", "Achilles Tendonitis", "Massage Therapy"]
-            },
-            {
-                "@type": "MedicalWebPage",
-                "@id": "https://synctherapy.ca/conditions/tendonitis-treatment/#webpage",
-                "url": "https://synctherapy.ca/conditions/tendonitis-treatment/",
-                "name": "Tendonitis Treatment & Joint Rehab in Colwood",
-                "isPartOf": { "@id": "https://synctherapy.ca/#website" },
-                "about": {
-                    "@type": "MedicalCondition",
-                    "name": "Tendinopathy",
-                    "alternateName": "Tendonitis",
-                    "possibleTreatment": {
-                        "@type": "TherapeuticProcedure",
-                        "name": "Progressive Loading & Deep Cross-Friction Massage"
-                    }
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "Why isn't resting helping my tendonitis?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Tendons require mechanical load to heal. While rest reduces acute pain, it weakens the tendon structure. Progressive, heavy-slow resistance training is needed to rebuild healthy collagen fibers."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Does massage help tendonitis?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Yes. We use deep friction techniques to break down scar tissue alignment and release the tight muscles pulling on the tendon attachment point."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Is it Tendonitis or Tendinosis?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Most chronic cases (pain > 3 months) are Tendinosis (degeneration), not Tendonitis (inflammation). This distinction changes the treatment plan completely from 'rest/ice' to 'load/heat'."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <div className="bg-white text-gray-900 font-sans">
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-            />
+            <ServiceSchema
+                    type="condition"
+                    name="Joint Rehab in Colwood"
+                    description=""
+                    slug="tendonitis-treatment"
+                    breadcrumbLabel="Joint Rehab in Colwood"
+                    faqItems={[
+                              {
+                                        "question": "Why isn't resting helping my tendonitis?",
+                                        "answer": "Tendons require mechanical load to heal. While rest reduces acute pain, it weakens the tendon structure. Progressive, heavy-slow resistance training is needed to rebuild healthy collagen fibers."
+                              },
+                              {
+                                        "question": "Does massage help tendonitis?",
+                                        "answer": "Yes. We use deep friction techniques to break down scar tissue alignment and release the tight muscles pulling on the tendon attachment point."
+                              },
+                              {
+                                        "question": "Is it Tendonitis or Tendinosis?",
+                                        "answer": "Most chronic cases (pain > 3 months) are Tendinosis (degeneration), not Tendonitis (inflammation). This distinction changes the treatment plan completely from 'rest/ice' to 'load/heat'."
+                              }
+                    ]}
+                />
 
             {/* 0. BREADCRUMBS */}
             <div className="bg-blue-950 pt-4 px-4">

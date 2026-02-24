@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import { ServiceSchema } from '@/components/ServiceSchema';
 import Link from 'next/link';
 import Image from "next/image";
 import Header from '@/components/Header';
@@ -15,63 +16,31 @@ export const metadata: Metadata = {
 };
 
 export default function ImmuneSupportNutritionPage() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "How does gut health relate to my immune system?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Roughly 70% of your immune system resides in your gut. By supporting your gut microbiome through nutrition, you build a stronger foundation for immune function."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Can I just take supplements instead of changing my diet?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Supplements are helpful but they cannot replace a nutrient-dense diet. We guide you to focus on high-quality whole foods first, using supplements only when necessary to fill specific gaps."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Is immune support nutrition beneficial all year round?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Yes. A proactive, preventative approach to micronutrient density builds resilience for not just seasonal shifts but daily stress and athletic recovery."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <main>
             <Header />
             <div className="bg-white text-gray-900 font-sans">
-                {/* 1. JSON-LD Schema */}
-                <script
-                    type="application/ld+json"
-                    dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+                {/* JSON-LD Schema */}
+                <ServiceSchema
+                    type="service"
+                    name="Immune Support Nutrition"
+                    description="Preventative, science-based immune support nutrition in Colwood. We focus on micronutrient density and gut microbiome health to support your resilient system."
+                    slug="immune-support-nutrition"
+                    breadcrumbLabel="Immune Support Nutrition"
+                    faqItems={[
+                              {
+                                        "question": "How does gut health relate to my immune system?",
+                                        "answer": "Roughly 70% of your immune system resides in your gut. By supporting your gut microbiome through nutrition, you build a stronger foundation for immune function."
+                              },
+                              {
+                                        "question": "Can I just take supplements instead of changing my diet?",
+                                        "answer": "Supplements are helpful but they cannot replace a nutrient-dense diet. We guide you to focus on high-quality whole foods first, using supplements only when necessary to fill specific gaps."
+                              },
+                              {
+                                        "question": "Is immune support nutrition beneficial all year round?",
+                                        "answer": "Yes. A proactive, preventative approach to micronutrient density builds resilience for not just seasonal shifts but daily stress and athletic recovery."
+                              }
+                    ]}
                 />
 
                 {/* 2. Breadcrumbs */}

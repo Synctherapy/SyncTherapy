@@ -1,5 +1,6 @@
 "use client";
 
+import { ServiceSchema } from '@/components/ServiceSchema';
 import { LocationSection } from "@/components/sections/location-section";
 import { FaqSection } from "@/components/sections/faq-section";
 import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-columns";
@@ -12,39 +13,15 @@ import { DirectBillingBar } from "@/components/sections/direct-billing-bar";
 import { FirstVisitRoadmap } from "@/components/sections/first-visit-roadmap";
 
 export function PlantarFasciitis() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@type": "MedicalOrganization",
-        "name": "Sync Therapy Plantar Fasciitis Treatment",
-        "url": "https://synctherapy.ca/conditions/plantar-fasciitis/",
-        "logo": "https://synctherapy.ca/images/logo.png",
-        "contactPoint": {
-            "@type": "ContactPoint",
-            "telephone": "+1-250-812-8698",
-            "contactType": "customer service"
-        },
-        "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "328 Wale Rd #120",
-            "addressLocality": "Colwood",
-            "addressRegion": "BC",
-            "postalCode": "V9B 0J8",
-            "addressCountry": "CA"
-        },
-        "medicalSpecialty": "We treat the fascia, calves, and foot mechanics to stop the pain cycle.",
-        "availableService": {
-            "@type": "MedicalService",
-            "name": "Plantar Fasciitis Treatment",
-            "description": "Relief for Plantar Fasciitis and heel pain in Colwood & Langford. We treat the root cause: tight calves and foot immobility."
-        }
-    };
-
     return (
         <div className="bg-background min-h-screen relative selection:bg-blue-100 selection:text-blue-900 overflow-hidden">
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-            />
+            <ServiceSchema
+                    type="condition"
+                    name="Plantar Fasciitis & Foot Pain Treatment in Colwood"
+                    description=""
+                    slug="plantar-fasciitis"
+                    breadcrumbLabel="Plantar Fasciitis & Foot Pain Treatment in Colwood"
+                />
 
             {/* Global Fluid Background */}
             <div className="fixed inset-0 z-0 pointer-events-none overflow-hidden">

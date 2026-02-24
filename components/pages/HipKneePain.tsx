@@ -1,86 +1,35 @@
 "use client";
 
+import { ServiceSchema } from '@/components/ServiceSchema';
 import React from 'react';
 import Link from 'next/link';
 import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-columns";
 import Image from "next/image";
 
 export function HipKneePain() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "logo": "https://synctherapy.ca/images/logo.png",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                },
-                "telephone": "+1-250-812-8698",
-                "priceRange": "$$",
-                "knowsAbout": ["Hip Pain", "Knee Pain", "Massage Therapy", "Physical Rehabilitation", "Sports Medicine"]
-            },
-            {
-                "@type": "MedicalWebPage",
-                "@id": "https://synctherapy.ca/conditions/hip-and-knee-pain/#webpage",
-                "url": "https://synctherapy.ca/conditions/hip-and-knee-pain/",
-                "name": "Hip & Knee Pain Treatment in Colwood",
-                "isPartOf": { "@id": "https://synctherapy.ca/#website" },
-                "about": {
-                    "@type": "MedicalCondition",
-                    "name": "Hip and Knee Pain",
-                    "alternateName": "Patellofemoral Pain Syndrome",
-                    "possibleTreatment": {
-                        "@type": "TherapeuticProcedure",
-                        "name": "Orthopedic Assessment & Manual Therapy"
-                    }
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "Why does my knee hurt if the problem is my hip?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "The knee is a 'dumb joint'—it only does what the hip and ankle tell it to do. If your hip rotators are tight or your glutes are weak, your knee takes all the rotational stress."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Do I need a referral for hip or knee treatment?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "No, you do not need a referral to see our Athletic Therapists or Registered Massage Therapists for hip and knee pain assessment and treatment."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Can you treat 'bone-on-bone' knee pain?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "While we cannot regrow cartilage, we can significantly reduce pain by releasing the tight muscles compressing the joint and improving the mechanics of how you move."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <div className="bg-white text-gray-900 font-sans">
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-            />
+            <ServiceSchema
+                    type="condition"
+                    name="Treatment in Colwood"
+                    description=""
+                    slug="hip-knee-pain"
+                    breadcrumbLabel="Treatment in Colwood"
+                    faqItems={[
+                              {
+                                        "question": "Why does my knee hurt if the problem is my hip?",
+                                        "answer": "The knee is a 'dumb joint'—it only does what the hip and ankle tell it to do. If your hip rotators are tight or your glutes are weak, your knee takes all the rotational stress."
+                              },
+                              {
+                                        "question": "Do I need a referral for hip or knee treatment?",
+                                        "answer": "No, you do not need a referral to see our Athletic Therapists or Registered Massage Therapists for hip and knee pain assessment and treatment."
+                              },
+                              {
+                                        "question": "Can you treat 'bone-on-bone' knee pain?",
+                                        "answer": "While we cannot regrow cartilage, we can significantly reduce pain by releasing the tight muscles compressing the joint and improving the mechanics of how you move."
+                              }
+                    ]}
+                />
 
             {/* 0. BREADCRUMBS */}
             <div className="bg-blue-950 pt-4 px-4">

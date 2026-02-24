@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import { ServiceSchema } from '@/components/ServiceSchema';
 import Link from 'next/link';
 import Image from "next/image";
 import Header from '@/components/Header';
@@ -15,63 +16,31 @@ export const metadata: Metadata = {
 };
 
 export default function SportsMedicinePage() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "How does Athletic Therapy differ from regular massage?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Athletic Therapy is highly clinical and active. Instead of just releasing tension, we incorporate functional movement screening and active rehabilitative exercises tailored to your sport mechanics."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Is this only for professional athletes?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Not at all. Whether you're a high-level competitor, a dedicated weekend warrior, or just trying to stay active without pain, we optimize your performance and recovery."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "What should I wear to my appointment?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Wear comfortable athletic clothing (shorts and a tank top are ideal). Since we perform active movement screening and gait analysis, you will need to move freely."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <main>
             <Header />
             <div className="bg-white text-gray-900 font-sans">
-                {/* 1. JSON-LD Schema */}
-                <script
-                    type="application/ld+json"
-                    dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+                {/* JSON-LD Schema */}
+                <ServiceSchema
+                    type="service"
+                    name="Sports Medicine & Athletic Therapy"
+                    description="Clinical, performance-driven sports medicine and athletic therapy in Colwood. We focus on functional movement screening and biomechanical rehab."
+                    slug="sports-medicine"
+                    breadcrumbLabel="Sports Medicine"
+                    faqItems={[
+                              {
+                                        "question": "How does Athletic Therapy differ from regular massage?",
+                                        "answer": "Athletic Therapy is highly clinical and active. Instead of just releasing tension, we incorporate functional movement screening and active rehabilitative exercises tailored to your sport mechanics."
+                              },
+                              {
+                                        "question": "Is this only for professional athletes?",
+                                        "answer": "Not at all. Whether you're a high-level competitor, a dedicated weekend warrior, or just trying to stay active without pain, we optimize your performance and recovery."
+                              },
+                              {
+                                        "question": "What should I wear to my appointment?",
+                                        "answer": "Wear comfortable athletic clothing (shorts and a tank top are ideal). Since we perform active movement screening and gait analysis, you will need to move freely."
+                              }
+                    ]}
                 />
 
                 {/* 2. Breadcrumbs */}

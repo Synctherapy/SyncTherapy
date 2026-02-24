@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import { ServiceSchema } from '@/components/ServiceSchema';
 import Link from 'next/link';
 import Image from "next/image";
 import Header from '@/components/Header';
@@ -15,63 +16,31 @@ export const metadata: Metadata = {
 };
 
 export default function HomeExercisePlansPage() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "Do I need to buy expensive gym equipment for my home plan?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "No, absolutely not. The vast majority of our clinical home exercise programs start entirely with bodyweight or simple resistance bands that we can provide. Progression is based on movement quality, not heavy equipment."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "How often are the plans updated?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Plans are continuously updated as your tissue capacity progresses. Once you can safely complete your baseline exercises without pain or compensatory shifting, we prescribe the next clinical phase."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Is a home exercise plan covered by my extended health benefits?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Yes, when it is prescribed and supervised by a Certified Athletic Therapist or Registered Massage Therapist as part of an active clinical treatment plan, it is eligible under most standard extended health physical therapy or massage therapy benefits."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <main>
             <Header />
             <div className="bg-white text-gray-900 font-sans">
-                {/* 1. JSON-LD Schema */}
-                <script
-                    type="application/ld+json"
-                    dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+                {/* JSON-LD Schema */}
+                <ServiceSchema
+                    type="service"
+                    name="Custom Home Exercise Plans"
+                    description="Empowering, structured Custom Home Exercise Plans in Colwood. We design personalized, biomechanically-sound programs that bridge manual therapy to daily life."
+                    slug="home-exercise-plans"
+                    breadcrumbLabel="Home Exercise Plans"
+                    faqItems={[
+                              {
+                                        "question": "Do I need to buy expensive gym equipment for my home plan?",
+                                        "answer": "No, absolutely not. The vast majority of our clinical home exercise programs start entirely with bodyweight or simple resistance bands that we can provide. Progression is based on movement quality, not heavy equipment."
+                              },
+                              {
+                                        "question": "How often are the plans updated?",
+                                        "answer": "Plans are continuously updated as your tissue capacity progresses. Once you can safely complete your baseline exercises without pain or compensatory shifting, we prescribe the next clinical phase."
+                              },
+                              {
+                                        "question": "Is a home exercise plan covered by my extended health benefits?",
+                                        "answer": "Yes, when it is prescribed and supervised by a Certified Athletic Therapist or Registered Massage Therapist as part of an active clinical treatment plan, it is eligible under most standard extended health physical therapy or massage therapy benefits."
+                              }
+                    ]}
                 />
 
                 {/* 2. Breadcrumbs */}

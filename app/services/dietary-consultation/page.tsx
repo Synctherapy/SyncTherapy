@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import { ServiceSchema } from '@/components/ServiceSchema';
 import Link from 'next/link';
 import Image from "next/image";
 import Header from '@/components/Header';
@@ -15,63 +16,31 @@ export const metadata: Metadata = {
 };
 
 export default function DietaryConsultationPage() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "What is the focus of a dietary consultation?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "The focus is to provide holistic, foundational guidance. We look at macronutrient balance and lifestyle habits to manage systemic inflammation and support your daily energy."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Will I get a meal plan?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "We provide personalized templates and flexible guidelines rather than rigid meal plans. Our goal is to help you build adaptable habits you can maintain long term."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Is this separate from sports therapy?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "While it is a designated service, our holistic approach means we recognize how your nutritional habits directly impact physical recovery and athletic performance."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <main>
             <Header />
             <div className="bg-white text-gray-900 font-sans">
-                {/* 1. JSON-LD Schema */}
-                <script
-                    type="application/ld+json"
-                    dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+                {/* JSON-LD Schema */}
+                <ServiceSchema
+                    type="service"
+                    name="Holistic Dietary Consultation"
+                    description="Educational, foundational dietary consultation in Colwood. We review macronutrient balance and systemic inflammation to build sustainable habits."
+                    slug="dietary-consultation"
+                    breadcrumbLabel="Dietary Consultation"
+                    faqItems={[
+                              {
+                                        "question": "What is the focus of a dietary consultation?",
+                                        "answer": "The focus is to provide holistic, foundational guidance. We look at macronutrient balance and lifestyle habits to manage systemic inflammation and support your daily energy."
+                              },
+                              {
+                                        "question": "Will I get a meal plan?",
+                                        "answer": "We provide personalized templates and flexible guidelines rather than rigid meal plans. Our goal is to help you build adaptable habits you can maintain long term."
+                              },
+                              {
+                                        "question": "Is this separate from sports therapy?",
+                                        "answer": "While it is a designated service, our holistic approach means we recognize how your nutritional habits directly impact physical recovery and athletic performance."
+                              }
+                    ]}
                 />
 
                 {/* 2. Breadcrumbs */}

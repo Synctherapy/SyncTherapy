@@ -1,12 +1,7 @@
 import { NextResponse } from "next/server";
 import type { NextRequest } from "next/server";
-import goneRoutes from './gone.json';
 
 export function middleware(request: NextRequest) {
-    if (goneRoutes.includes(request.nextUrl.pathname)) {
-        return new NextResponse(null, { status: 410 });
-    }
-
     const nonce = Buffer.from(crypto.randomUUID()).toString("base64");
     const cspHeader = `
     default-src 'self';

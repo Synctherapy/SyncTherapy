@@ -1,86 +1,35 @@
 "use client";
 
+import { ServiceSchema } from '@/components/ServiceSchema';
 import React from 'react';
 import Link from 'next/link';
 import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-columns";
 import Image from "next/image";
 
 export function BackPain() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "logo": "https://synctherapy.ca/images/logo.png",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                },
-                "telephone": "+1-250-812-8698",
-                "priceRange": "$$",
-                "knowsAbout": ["Back Pain", "Sciatica", "Massage Therapy", "Physical Rehabilitation"]
-            },
-            {
-                "@type": "MedicalWebPage",
-                "@id": "https://synctherapy.ca/conditions/back-pain/#webpage",
-                "url": "https://synctherapy.ca/conditions/back-pain/",
-                "name": "Back Pain Treatment Colwood & Langford",
-                "isPartOf": { "@id": "https://synctherapy.ca/#website" },
-                "about": {
-                    "@type": "MedicalCondition",
-                    "name": "Back Pain",
-                    "alternateName": "Lower Back Pain",
-                    "possibleTreatment": {
-                        "@type": "TherapeuticProcedure",
-                        "name": "Deep Tissue Massage & Visceral Manipulation"
-                    }
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "Is massage safe if my back is in spasm?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Yes, but we treat it differently. We don't force deep pressure into a spasm (that makes it worse). We use gentle release techniques on surrounding muscles to convince the nervous system to let go."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "What's the difference between you and a Chiropractor?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Chiropractors focus on skeletal alignment and joint manipulation. We focus on the soft tissue (muscles, fascia, tendons) that pulls those joints out of place. Often, the best results come from combining both!"
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "How many sessions will I need?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Most acute back pain sees significant relief in 3-5 sessions. Chronic issues (lasting months/years) may require a longer maintenance plan combined with strengthening exercises."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <div className="bg-white text-gray-900 font-sans">
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-            />
+            <ServiceSchema
+                    type="condition"
+                    name="Back Pain"
+                    description=""
+                    slug="back-pain"
+                    breadcrumbLabel="Back Pain"
+                    faqItems={[
+                              {
+                                        "question": "Is massage safe if my back is in spasm?",
+                                        "answer": "Yes, but we treat it differently. We don't force deep pressure into a spasm (that makes it worse). We use gentle release techniques on surrounding muscles to convince the nervous system to let go."
+                              },
+                              {
+                                        "question": "What's the difference between you and a Chiropractor?",
+                                        "answer": "Chiropractors focus on skeletal alignment and joint manipulation. We focus on the soft tissue (muscles, fascia, tendons) that pulls those joints out of place. Often, the best results come from combining both!"
+                              },
+                              {
+                                        "question": "How many sessions will I need?",
+                                        "answer": "Most acute back pain sees significant relief in 3-5 sessions. Chronic issues (lasting months/years) may require a longer maintenance plan combined with strengthening exercises."
+                              }
+                    ]}
+                />
 
             {/* 0. BREADCRUMBS */}
             <div className="bg-blue-950 pt-4 px-4">

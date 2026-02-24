@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import { ServiceSchema } from '@/components/ServiceSchema';
 import Link from 'next/link';
 import Image from "next/image";
 import Header from '@/components/Header';
@@ -15,63 +16,31 @@ export const metadata: Metadata = {
 };
 
 export default function KneePainPage() {
-    const jsonLd = {
-        "@context": "https://schema.org",
-        "@graph": [
-            {
-                "@type": "MedicalClinic",
-                "@id": "https://synctherapy.ca/#organization",
-                "name": "Sync Massage Therapy",
-                "url": "https://synctherapy.ca",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "328 Wale Rd #120",
-                    "addressLocality": "Colwood",
-                    "addressRegion": "BC",
-                    "postalCode": "V9B 0J8",
-                    "addressCountry": "CA"
-                }
-            },
-            {
-                "@type": "FAQPage",
-                "mainEntity": [
-                    {
-                        "@type": "Question",
-                        "name": "Do I need an MRI before attending a rehab session?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "No. While imaging is helpful, our physical orthopedic screening assessments can often reliably identify the compromised structural tissue guiding our immediate rehabilitative approach."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "Is walking good for knee pain?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "It depends highly on the root cause. If your pain stems from improper pelvic tracking, walking may simply aggravate the friction. We assess your biomechanics to advise safely."
-                        }
-                    },
-                    {
-                        "@type": "Question",
-                        "name": "How long does knee ligament recovery take?",
-                        "acceptedAnswer": {
-                            "@type": "Answer",
-                            "text": "Ligaments have poor blood supply. Rebuilding functional capacity in a severely strained knee ligament often takes between 6 to 12 weeks of structured, consistent therapy."
-                        }
-                    }
-                ]
-            }
-        ]
-    };
-
     return (
         <main>
             <Header />
             <div className="bg-white text-gray-900 font-sans">
-                {/* 1. JSON-LD Schema */}
-                <script
-                    type="application/ld+json"
-                    dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+                {/* JSON-LD Schema */}
+                <ServiceSchema
+                    type="condition"
+                    name="Knee Pain & Injury Rehab"
+                    description="Structural, stabilizing knee pain rehabilitation in Colwood. We assess ligamentous laxity and proper meniscus tracking to manage joint pain effectively."
+                    slug="knee-pain"
+                    breadcrumbLabel="Knee Pain"
+                    faqItems={[
+                              {
+                                        "question": "Do I need an MRI before attending a rehab session?",
+                                        "answer": "No. While imaging is helpful, our physical orthopedic screening assessments can often reliably identify the compromised structural tissue guiding our immediate rehabilitative approach."
+                              },
+                              {
+                                        "question": "Is walking good for knee pain?",
+                                        "answer": "It depends highly on the root cause. If your pain stems from improper pelvic tracking, walking may simply aggravate the friction. We assess your biomechanics to advise safely."
+                              },
+                              {
+                                        "question": "How long does knee ligament recovery take?",
+                                        "answer": "Ligaments have poor blood supply. Rebuilding functional capacity in a severely strained knee ligament often takes between 6 to 12 weeks of structured, consistent therapy."
+                              }
+                    ]}
                 />
 
                 {/* 2. Breadcrumbs */}
