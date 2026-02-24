@@ -29,7 +29,7 @@ export interface ServiceSchemaProps {
     parentCategory?: string;
     /** Optional FAQ items — generates FAQPage schema */
     faqItems?: FaqItem[];
-    /** CSS selectors for speakable. Defaults to ["h1", "[data-speakable]"] */
+    /** CSS selectors for speakable. Defaults to ["h1"]. Add "[data-speakable]" when pages use that attribute. */
     speakableCssSelectors?: string[];
     /** Optional hero/feature image URL for schema */
     imageUrl?: string;
@@ -47,7 +47,7 @@ export function ServiceSchema({
     breadcrumbLabel,
     parentCategory,
     faqItems,
-    speakableCssSelectors = ['h1', '[data-speakable]'],
+    speakableCssSelectors = ['h1'],
     imageUrl,
 }: ServiceSchemaProps) {
     const pathPrefix = type === 'service' ? 'services' : 'conditions';
@@ -119,7 +119,6 @@ export function ServiceSchema({
                 'possibleTreatment': {
                     '@type': 'MedicalTherapy',
                     'name': 'Massage Therapy & Athletic Therapy',
-                    'provider': { '@id': ORG_ID },
                 },
                 'signOrSymptom': {
                     '@type': 'MedicalSignOrSymptom',
