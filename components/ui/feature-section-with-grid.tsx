@@ -11,37 +11,37 @@ function Feature() {
             title: "Back Pain",
             description: "Sciatica, herniated discs, lower back strain, and posture correction.",
             image: "/images/conditions/back-pain.png", // Generated AI image
-            href: "/conditions/back-pain-relief-victoria"
+            href: "/conditions/back-pain/"
         },
         {
             title: "Neck Pain",
             description: "Whiplash, stiff neck, tech-neck, and tension headaches.",
             image: "/images/conditions/neck-pain.png", // Generated AI image
-            href: "/conditions/neck-pain-relief-victoria"
+            href: "/conditions/neck-shoulder-pain/"
         },
         {
             title: "Shoulder Pain",
             description: "Rotator cuff injuries, frozen shoulder, and impingement.",
             image: "/images/conditions/shoulder-pain.png", // Generated AI image
-            href: "/conditions/shoulder-pain-relief-victoria"
+            href: "/conditions/shoulder-pain/"
         },
         {
             title: "Hip & Knee Pain",
-            description: "Runner’s knee, IT band syndrome, arthritis, and hip flexor strain.",
+            description: "Runner's knee, IT band syndrome, arthritis, and hip flexor strain.",
             image: "/images/conditions/hip-knee-pain.png", // Generated AI image
-            href: "/conditions/sciatica-relief-victoria"
+            href: "/conditions/hip-and-knee-pain/"
         },
         {
             title: "Chronic Pain",
             description: "Fibromyalgia, arthritis management, and long-standing injury patterns.",
             image: "/images/conditions/chronic-pain.png", // Generated AI image
-            href: "/conditions/chronic-pain-relief-victoria"
+            href: "/conditions/chronic-pain/"
         },
         {
             title: "Sports Injuries",
             description: "Sprains, strains, tendonitis, and post-surgical rehab.",
             image: "/images/conditions/sports-injuries.png", // Generated AI image
-            href: "/conditions/conditions-sports-injuries"
+            href: "/conditions/sports-injuries-and-prevention/"
         }
     ];
 

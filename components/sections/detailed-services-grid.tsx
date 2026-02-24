@@ -11,7 +11,7 @@ const services = [
         label: "RMT",
         description: "Most people in Colwood come to see me for one reason—something hurts. Massage therapy is one of the best ways to deal with that kind of pain.",
         image: "https://images.unsplash.com/photo-1600334129128-685c5582fd35?auto=format&fit=crop&q=80&w=800",
-        href: "/services",
+        href: "/services/massage-therapy/",
         cta: "View Massage Therapy Services"
     },
     {
@@ -19,7 +19,7 @@ const services = [
         label: "CAT(C)",
         description: "You don't have to be a pro athlete. I look at how your body moves, find what's not working right, and put together a recovery plan.",
         image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&q=80&w=800",
-        href: "/services",
+        href: "/services/athletic-therapy/",
         cta: "View Athletic Therapy Services"
     },
     {
@@ -27,7 +27,7 @@ const services = [
         label: "Nutritionist",
         description: "What you eat plays a huge role in pain and inflammation. I sit down with you to figure out where the gaps are.",
         image: "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&q=80&w=800",
-        href: "/services",
+        href: "/services/nutrition-consulting/",
         cta: "View Nutrition Services"
     },
     {
@@ -35,7 +35,7 @@ const services = [
         label: "RMT",
         description: "No upfront costs, no fighting with your insurance company. You show up, you get your treatment, and I handle the paperwork.",
         image: "/images/services/direct-billing.png",
-        href: "/services",
+        href: "/direct-billing/",
         cta: "Learn About Direct Billing"
     },
     {
@@ -43,15 +43,15 @@ const services = [
         label: "RMT",
         description: "It gets into the layers of muscle that are actually causing your pain. Good deep tissue work should hurt a little.",
         image: "https://images.unsplash.com/photo-1519823551278-64ac92734fb1?auto=format&fit=crop&q=80&w=800",
-        href: "/services",
-        cta: "Book Deep Tissue Massage"
+        href: "/services/deep-tissue-massage/",
+        cta: "Learn More About Deep Tissue Massage"
     },
     {
         title: "Nutritionist",
         label: "Nutritionist",
         description: "Chronic pain, slow recovery, poor sleep—all can tie back to nutrition. I work with you on real food changes.",
         image: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&q=80&w=800",
-        href: "/services",
+        href: "/services/nutrition-counseling/",
         cta: "View Nutrition Consulting"
     },
     {
@@ -59,48 +59,48 @@ const services = [
         label: "General Practice",
         description: "Sometimes you need someone to sit down and talk about your health—like a real person. I help you understand an injury.",
         image: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80&w=800",
-        href: "/contact",
-        cta: "Book a Consultation"
+        href: "/services/health-consulting/",
+        cta: "Learn About Our Health Programs"
     },
     {
         title: "Pain Management Clinic",
         label: "RMT / CAT(C)",
         description: "I separate the root cause from the symptoms. Between massage, athletic therapy, and nutrition, I use every tool.",
         image: "/images/services/pain-management.png",
-        href: "/services",
-        cta: "Get Pain Relief"
+        href: "/services/pain-management/",
+        cta: "Learn About Our Pain Relief Services"
     },
     {
         title: "Rehabilitation Center",
         label: "CAT(C) / RMT",
         description: "Recovering from surgery or an accident? I help you get your strength, mobility, and confidence back. Step by step.",
         image: "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&q=80&w=800",
-        href: "/services",
-        cta: "Start Your Recovery"
+        href: "/services/physical-rehabilitation/",
+        cta: "Learn About Our Rehabilitation Services"
     },
     {
         title: "Sports Injury Clinic",
         label: "CAT(C) / RMT",
         description: "Getting it moving right again after something goes wrong is exactly what this clinic does. From prevention to recovery.",
         image: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800",
-        href: "/services",
-        cta: "Book Sports Injury Assessment"
+        href: "/services/sports-injury-treatment/",
+        cta: "Read About Our Sports Injury Services"
     },
     {
         title: "Sports Massage Therapist",
         label: "RMT",
         description: "I understand how athletic bodies work. Helping an athlete recover vs just giving a relaxing rub down.",
         image: "https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&q=80&w=800",
-        href: "/services",
-        cta: "Book Sports Massage"
+        href: "/services/sports-massage/",
+        cta: "Learn About Our Sports Massage Services"
     },
     {
         title: "Physical Rehabilitation",
         label: "CAT(C) / RMT",
         description: "I combine hands-on therapy with a real recovery plan—something you can actually follow. No binders full of generic handouts.",
         image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&q=80&w=800",
-        href: "/services",
-        cta: "Start Physical Rehab"
+        href: "/services/physical-rehabilitation/",
+        cta: "Learn About Our Physical Rehab Solutions"
     }
 ];
 

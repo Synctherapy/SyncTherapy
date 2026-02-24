@@ -55,7 +55,7 @@ export function BioSection({
                             And yeah—I've won Best Massage and Rehab Clinic six times in a row. But honestly, I don't care about awards. I care that you feel better when you walk out.
                         </p>
                         <Button asChild size="lg">
-                            <a href="/about/about-sync-therapy">
+                            <a href="/our-team/daryl-stubbs/">
                                 Read Bio
                             </a>
                         </Button>

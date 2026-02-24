@@ -35,7 +35,7 @@ export function AboutOneClinic() {
                             ))}
                         </div>
 
-                        <Link href="/about" className="inline-block">
+                        <Link href="/about/" className="inline-block">
                             <ShineBorder
                                 className="bg-navy text-white px-8 py-4 rounded-full font-bold text-sm tracking-wide uppercase hover:scale-105 transition-transform"
                                 color={["#0052cc", "#3385ff", "#002966"]}
