@@ -38,7 +38,7 @@ Seed Probiotic is $49 - Use "synctherapy" discount code for 15% offMagSRT is $60
 <p>After all, leading a stress-free life and fostering a positive perception of self is our ultimate aim.</p>
 <img src="/uploads/content/natural-anxiety-vitamins-1_ff2b57f1-1095-4ee7-a8c8-aa0b8123de66.jpg" alt="" id="10324" width="500px" height="auto" sizes="(max-width: 640px) 100vw, 800px"> <img src="/uploads/content/best-vitamins-for-anxiety_bb747e02-e4e9-4eeb-b1a6-163d1737e57d.png" alt="" id="10314" width="500px" height="auto" sizes="(max-width: 640px) 100vw, 800px">
 <p><a href="https://seedhealthinc.pxf.io/1rNjng">Seed Probiotic DS-01</a></p>
-<p style="color: var(--awb-color5);">Voted Best For: <a class="wpil_keyword_link" href="https://synctherapylocal.local/best-probiotic-strains/"   title="Best probiotic" data-wpil-keyword-link="linked"  data-wpil-monitor-id="7938">Best probiotic</a> for anxiety and IBS</p>
+<p style="color: var(--awb-color5);">Voted Best For: <a class="wpil_keyword_link" href="https://synctherapylocal.local/best-prebiotics-and-probiotics-supplements/"   title="Best probiotic" data-wpil-keyword-link="linked"  data-wpil-monitor-id="7938">Best probiotic</a> for anxiety and IBS</p>
 <p>I've personally taken Seed probiotic and It's one of the few probiotic supplements that I've seen work for my gut health and mood.</p>
 <p>Unlike other probiotics with good marketing, this probiotic does what it says it does. There are only 5 probiotics that I recommend to my clients and this probiotic is one of them.</p>
 <p>Honestly, it's amazing. I feel so good when i'm using Seed probiotic</p>

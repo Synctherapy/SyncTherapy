@@ -99,7 +99,7 @@ export default function Header() {
                                 </div>
                             </MenuItem>
 
-                            <Link href="/blog" className="text-black hover:opacity-[0.9] dark:text-white cursor-pointer hover:text-primary transition-colors">
+                            <Link href="/blog/" className="text-black hover:opacity-[0.9] dark:text-white cursor-pointer hover:text-primary transition-colors">
                                 Blog
                             </Link>
                         </Menu>

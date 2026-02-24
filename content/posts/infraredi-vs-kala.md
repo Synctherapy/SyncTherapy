@@ -480,7 +480,7 @@ seoTitle: 'Infraredi vs. Kala (2026): Best Red Light Panel in Canada?'
                     </div>
                     <div class="bg-white p-6 rounded-lg shadow-md">
                         <h3 class="font-bold text-primary text-xl"><i class="fas fa-spa text-accent mr-2"></i>For Anti-Aging & Skin Health</h3>
-                        <p class="mb-4">For skin rejuvenation, <a href="https://synctherapylocal.local/wavelength-for-red-light/"  data-wpil-monitor-id="2">red wavelengths</a> are most critical. Both brands use the highly effective 660nm wavelength. Infraredi adds 630nm light, which studies show is excellent for stimulating collagen. This gives it a slight advantage for comprehensive skincare. If you're looking for a dedicated device, check out our review of the <a data-wpil="url" href="https://synctherapylocal.local/best-red-light-therapy-mask/" class="text-primary hover:underline font-semibold">best red light therapy masks</a>.</p>
+                        <p class="mb-4">For skin rejuvenation, <a href="https://synctherapylocal.local/red-light-therapy/"  data-wpil-monitor-id="2">red wavelengths</a> are most critical. Both brands use the highly effective 660nm wavelength. Infraredi adds 630nm light, which studies show is excellent for stimulating collagen. This gives it a slight advantage for comprehensive skincare. If you're looking for a dedicated device, check out our review of the <a data-wpil="url" href="https://synctherapylocal.local/best-red-light-therapy-mask/" class="text-primary hover:underline font-semibold">best red light therapy masks</a>.</p>
                         <p><strong>Winner: <span class="text-accent font-bold">Infraredi (by a slight margin)</span></strong></p>
                     </div>
                     <div class="bg-white p-6 rounded-lg shadow-md">
@@ -563,7 +563,7 @@ seoTitle: 'Infraredi vs. Kala (2026): Best Red Light Panel in Canada?'
                                 <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
                             </summary>
                             <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" class="mt-4 text-gray-700">
-                                <p itemprop="text">Red light therapy, or <a href="https://synctherapylocal.local/photobiomodulation-explained/" class="text-primary hover:underline font-semibold">photobiomodulation (PBM)</a>, is a non-invasive treatment that uses specific wavelengths of red and near-infrared light to stimulate cellular repair, increase circulation, and promote healing. It's used for muscle recovery, joint pain relief, anti-aging, and improving skin health.</p>
+                                <p itemprop="text">Red light therapy, or <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline font-semibold">photobiomodulation (PBM)</a>, is a non-invasive treatment that uses specific wavelengths of red and near-infrared light to stimulate cellular repair, increase circulation, and promote healing. It's used for muscle recovery, joint pain relief, anti-aging, and improving skin health.</p>
                             </div>
                         </details>
                     </div>

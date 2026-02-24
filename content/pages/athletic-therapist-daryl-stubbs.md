@@ -501,11 +501,11 @@ seoTitle: Our Athletic Therapist
                                 <ul class="list-none">
                                     <li class="list-item">
                                         <div class="list-dot dot-secondary"></div>
-                                        <a href="https://synctherapylocal.local/conditions/sports-injury-prevention-victoria/">Sports Injury Assessment</a>
+                                        <a href="https://synctherapylocal.local/conditions/sports-injuries-and-prevention/">Sports Injury Assessment</a>
                                     </li>
                                     <li class="list-item">
                                         <div class="list-dot dot-secondary"></div>
-                                        <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" href="https://synctherapylocal.local/services/athletic-therapy-victoria/">Athletic Rehabilitation</a>
+                                        <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" href="https://synctherapylocal.local/services/athletic-therapy/">Athletic Rehabilitation</a>
                                     </li>
                                     <li class="list-item">
                                         <div class="list-dot dot-secondary"></div>
@@ -542,7 +542,7 @@ seoTitle: Our Athletic Therapist
                                     </li>
                                     <li class="list-item">
                                         <div class="list-dot dot-secondary"></div>
-                                        <a href="https://synctherapylocal.local/conditions/sports-injury-prevention-victoria/">Sports Injury Prevention</a>
+                                        <a href="https://synctherapylocal.local/conditions/sports-injuries-and-prevention/">Sports Injury Prevention</a>
                                     </li>
                                     <li class="list-item">
                                         <div class="list-dot dot-secondary"></div>
@@ -550,11 +550,11 @@ seoTitle: Our Athletic Therapist
                                     </li>
                                     <li class="list-item">
                                         <div class="list-dot dot-secondary"></div>
-                                        <a href="https://synctherapylocal.local/conditions/sprains-strains-victoria/">Sprains & Strains</a>
+                                        <a href="https://synctherapylocal.local/conditions/sprains-and-strains/">Sprains & Strains</a>
                                     </li>
                                     <li class="list-item">
                                         <div class="list-dot dot-secondary"></div>
-                                        <a href="https://synctherapylocal.local/conditions/tendonitis-treatment-victoria/">Tendonitis Treatment</a>
+                                        <a href="https://synctherapylocal.local/conditions/tendonitis-treatment/">Tendonitis Treatment</a>
                                     </li>
                                 </ul>
                             </div>
@@ -582,7 +582,7 @@ seoTitle: Our Athletic Therapist
                                         </li>
                                         <li class="list-item">
                                             <div class="list-dot dot-secondary"></div>
-                                            <a href="https://synctherapylocal.local/conditions/it-band-syndrome-victoria/">IT Band Syndrome</a>
+                                            <a href="https://synctherapylocal.local/conditions/it-band-syndrome/">IT Band Syndrome</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -718,7 +718,7 @@ seoTitle: Our Athletic Therapist
                         <div class="highlight-box highlight-accent">
                             <p style="color: #4b5563;">
                                 <strong>Local Expertise:</strong> Having lived and worked in Greater Victoria for over a decade, Daryl understands the unique needs of local athletes - from weekend warriors exploring the Galloping Goose Trail to competitive athletes training at local facilities like the Juan de Fuca Recreation Centre and Westhills Stadium.
-                             With a deep connection to the community, Daryl is dedicated to providing tailored support and guidance for individuals at every level of fitness. Whether it's helping someone prepare for their first marathon or advising seasoned pros on optimizing their performance, he is committed to ensuring their success and safety. This local insight is just one of the many reasons <a href="https://synctherapylocal.local/about/why-us/">why choose us for your needs</a>.</p>
+                             With a deep connection to the community, Daryl is dedicated to providing tailored support and guidance for individuals at every level of fitness. Whether it's helping someone prepare for their first marathon or advising seasoned pros on optimizing their performance, he is committed to ensuring their success and safety. This local insight is just one of the many reasons <a href="https://synctherapylocal.local/about/">why choose us for your needs</a>.</p>
                         </div>
                     </div>
                 </div>
@@ -729,7 +729,7 @@ seoTitle: Our Athletic Therapist
                         <h2 class="font-poppins" style="color: white;">Ready to Optimize Your Athletic Performance in Victoria BC?</h2>
                         <p style="margin-bottom: 1.5rem;">
                             Book your athletic therapy assessment with Daryl today and experience comprehensive, evidence-based athletic therapy care in Colwood, serving all of Greater Victoria and the West Shore.
-                         Daryl is dedicated to helping you achieve your health and performance goals through personalized treatment plans tailored to your unique needs. With a wide range of <a href="https://synctherapylocal.local/services/athletic-therapy-colwood/">athletic therapy services in Colwood</a>, you can trust that you are in skilled hands. Take the first step towards recovery and enhanced athletic performance by booking your assessment today.</p>
+                         Daryl is dedicated to helping you achieve your health and performance goals through personalized treatment plans tailored to your unique needs. With a wide range of <a href="https://synctherapylocal.local/services/athletic-therapy/">athletic therapy services in Colwood</a>, you can trust that you are in skilled hands. Take the first step towards recovery and enhanced athletic performance by booking your assessment today.</p>
                         <div class="cta-buttons">
                             <a href="https://synctherapy.janeapp.com/" target="_blank" rel="noopener noreferrer" 
                                class="btn btn-primary">
@@ -781,7 +781,7 @@ seoTitle: Our Athletic Therapist
             "Sports Injury Rehabilitation Specialist"
         ],
         "description": "Daryl Stubbs is a Certified Athletic Therapist (CAT(C)) based in Colwood, serving Victoria, Langford, and the West Shore. He specializes in rapid return-to-sport rehabilitation and injury prevention.",
-        "url": "https://synctherapylocal.local/our-team/athletic-therapist-daryl-stubbs/",
+        "url": "https://synctherapylocal.local/our-team/daryl-stubbs/",
         "image": "/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg",
         "email": "daryl@synctherapy.ca",
         "telephone": "+1-250-812-8698",

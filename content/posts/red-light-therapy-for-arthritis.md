@@ -235,7 +235,7 @@ seoTitle: 'Red Light Therapy for Arthritis: What Science Really Says About Pain 
             <section id="core-benefits">
                 <h2>The Core Benefits for Joint Health</h2>
                 
-                <p class="mb-6">The benefits of red light therapy for arthritis are wide-ranging, offering hope to those who haven't found relief through traditional treatments. Consistent use can lead to transformative results. Research has shown that <a href="https://synctherapylocal.local/red-light-therapy-for-inflammation/">effective red light therapy benefits</a> include reducing inflammation and promoting healing at the cellular level. Many users report significant improvements in pain management and overall joint function after regular sessions. This emerging therapy is becoming an attractive alternative for individuals seeking to improve their quality of life without relying solely on medications.</p>
+                <p class="mb-6">The benefits of red light therapy for arthritis are wide-ranging, offering hope to those who haven't found relief through traditional treatments. Consistent use can lead to transformative results. Research has shown that <a href="https://synctherapylocal.local/red-light-therapy/">effective red light therapy benefits</a> include reducing inflammation and promoting healing at the cellular level. Many users report significant improvements in pain management and overall joint function after regular sessions. This emerging therapy is becoming an attractive alternative for individuals seeking to improve their quality of life without relying solely on medications.</p>
                 
                 <div class="grid-2-col">
                     <div class="card">

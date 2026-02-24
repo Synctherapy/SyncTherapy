@@ -269,7 +269,7 @@ seoTitle: 'Align vs. Culturelle: Is Align Worth the Extra Cost?'
             <!-- Clinical Effectiveness Section -->
             <section id="clinical-effectiveness">
                 <h2 class="text-3xl font-bold">Align vs Culturelle for IBS: In-Depth Clinical Reviews</h2>
-                <p class="mb-6 text-gray-700">The most significant difference between these two probiotics lies in their performance across different types of Irritable Bowel Syndrome. The clinical data shows <a href="https://synctherapylocal.local/do-probiotics-help-ibs/" class="text-primary hover:underline font-semibold">probiotics help IBS</a> in different ways and are not interchangeable.</p>
+                <p class="mb-6 text-gray-700">The most significant difference between these two probiotics lies in their performance across different types of Irritable Bowel Syndrome. The clinical data shows <a href="https://synctherapylocal.local/best-probiotic-supplements-for-ibs/" class="text-primary hover:underline font-semibold">probiotics help IBS</a> in different ways and are not interchangeable.</p>
                 
                 <div id="align-review" class="bg-white p-6 rounded-lg shadow-md mb-8 border-t-4 border-accent">
                     <h3 class="text-2xl font-bold">In-Depth Review: Align (Bifidobacterium 35624)</h3>
@@ -342,7 +342,7 @@ seoTitle: 'Align vs. Culturelle: Is Align Worth the Extra Cost?'
                 <div class="space-y-6 bg-white p-8 rounded-lg shadow-md">
                     <div>
                         <h4 class="text-xl font-semibold text-primary">Safety Profile & Side Effects</h4>
-                        <p>Both probiotics have excellent safety records in clinical trials. Potential side effects are rare and typically mild. Align has no reported cases of systemic infection in literature. Culturelle's 30-year history shows extremely rare cases of bacteremia, almost exclusively in severely immunocompromised patients. For the general population, both are considered very safe, with mild, temporary gas or <a href="https://synctherapylocal.local/do-probiotics-help-with-bloating/" class="text-primary hover:underline font-semibold">bloating</a> being the most common side effect.</p>
+                        <p>Both probiotics have excellent safety records in clinical trials. Potential side effects are rare and typically mild. Align has no reported cases of systemic infection in literature. Culturelle's 30-year history shows extremely rare cases of bacteremia, almost exclusively in severely immunocompromised patients. For the general population, both are considered very safe, with mild, temporary gas or <a href="https://synctherapylocal.local/best-prebiotics-and-probiotics-supplements/" class="text-primary hover:underline font-semibold">bloating</a> being the most common side effect.</p>
                     </div>
                     <div>
                         <h4 class="text-xl font-semibold text-primary">Cost & Value</h4>
@@ -359,7 +359,7 @@ seoTitle: 'Align vs. Culturelle: Is Align Worth the Extra Cost?'
             <section id="final-verdict" class="bg-primary text-white p-8 rounded-lg shadow-lg">
                 <h2 class="text-3xl font-bold mb-4 !text-white !border-accent">Final Verdict: Which Probiotic Should You Choose in 2026?</h2>
                 <p class="text-lg leading-relaxed mb-6">
-                    The clinical evidence does not point to one universally "better" probiotic. Instead, it highlights two effective but distinct tools for IBS management. Your choice between different <a href="https://synctherapylocal.local/best-probiotic-strains/" class="text-white hover:underline font-semibold">probiotic strains</a> should be guided by your primary symptoms and goals, in consultation with your gastroenterologist.
+                    The clinical evidence does not point to one universally "better" probiotic. Instead, it highlights two effective but distinct tools for IBS management. Your choice between different <a href="https://synctherapylocal.local/best-prebiotics-and-probiotics-supplements/" class="text-white hover:underline font-semibold">probiotic strains</a> should be guided by your primary symptoms and goals, in consultation with your gastroenterologist.
                 </p>
                 <div class="grid md:grid-cols-2 gap-8 mt-6 bg-white/10 p-6 rounded-lg">
                     <div>

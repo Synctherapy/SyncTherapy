@@ -892,7 +892,7 @@ seoTitle: Services
                                 <span>Injury Recovery</span>
                             </div>
                         </div>
-                        <a href="https://synctherapylocal.local/services/deep-tissue-massage-victoria/" class="btn btn-primary" style="width: 100%;">
+                        <a href="https://synctherapylocal.local/services/deep-tissue-massage/" class="btn btn-primary" style="width: 100%;">
                             Learn More
                             <i data-lucide="arrow-right" style="margin-left: 0.5rem;"></i>
                         </a>
@@ -948,7 +948,7 @@ seoTitle: Services
                                 <span>Injury Prevention</span>
                             </div>
                         </div>
-                        <a href="/services/sports-massage-therapy/" class="btn btn-primary" style="width: 100%;">
+                        <a href="/services/sports-massage/" class="btn btn-primary" style="width: 100%;">
                             Learn More
                             <i data-lucide="arrow-right" style="margin-left: 0.5rem;"></i>
                         </a>
@@ -1004,7 +1004,7 @@ seoTitle: Services
                                 <span>Pain Relief</span>
                             </div>
                         </div>
-                        <a href="/services/myofascial-release-massage/" class="btn btn-primary" style="width: 100%;">
+                        <a href="/services/myofascial-release/" class="btn btn-primary" style="width: 100%;">
                             Learn More
                             <i data-lucide="arrow-right" style="margin-left: 0.5rem;"></i>
                         </a>
@@ -1047,7 +1047,7 @@ seoTitle: Services
                                 <span>Performance Enhancement</span>
                             </div>
                         </div>
-                        <a href="https://synctherapylocal.local/services/athletic-therapy-victoria/" class="btn btn-primary" style="width: 100%;">
+                        <a href="https://synctherapylocal.local/services/athletic-therapy/" class="btn btn-primary" style="width: 100%;">
                             Learn More
                             <i data-lucide="arrow-right" style="margin-left: 0.5rem;"></i>
                         </a>

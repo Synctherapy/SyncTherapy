@@ -17,7 +17,7 @@ seoTitle: 'Optimal Red Light Wavelengths: Color & Science Explained'
 <p><span class="">For hair growth, a study found that 650 nm red light significantly delayed the transition of hair follicles from the anagen to catagen phase, promoting hair growth</span><span class=""><span class="whitespace-nowrap">.</span></span></p>
 <p><span class="">For skin health, red light therapy with wavelengths around 620 and 670 nm has been shown to increase collagen density and improve skin complexion</span><span class=""><span class="whitespace-nowrap">.</span></span></p>
 <p><span class="">In summary, for hair growth, consider using red light therapy with a wavelength of 650 nm, and for pain relief and skin health, use red light therapy with wavelengths between 630 and 700 nm, with 660 nm being the most common.</span></p>
-<p><a href="https://synctherapylocal.local/how-often-red-light-therapy/">Find Out How Long You Should Use Red Light Therapy</a></p>
+<p><a href="https://synctherapylocal.local/at-home-red-light-therapy/">Find Out How Long You Should Use Red Light Therapy</a></p>
 <p><a href="https://synctherapylocal.local/at-home-red-light-therapy/"><span style="color: #ff8000;"><strong>Best At Home Red Light Therapy Devices</strong></span></a></p>
 <p>Red light is a type of electromagnetic radiation with a longer wavelength than other colors visible to the human eye. It has a wavelength range of approximately 620-750 nanometers (nm) and is often associated with warmth, passion, and excitement.</p>
 <p><img src="/uploads/content/v2-6xxa7-xtm3m.jpg" alt="A red light passes through a medium, its wavelength stretching and bending as it travels"></p>
@@ -106,7 +106,7 @@ seoTitle: 'Optimal Red Light Wavelengths: Color & Science Explained'
 <p><a href="https://synctherapylocal.local/red-light-therapy-for-alopecia/">Red wavelengths have been shown to promote hair growth.</a> Red light therapy stimulates blood flow to the scalp, which can help to promote hair growth.</p>
 <p>Additionally, red light therapy has been shown to increase the production of ATP, which is essential for healthy hair growth.</p>
 <h3>Reduced Inflammation</h3>
-<p><a href="https://synctherapylocal.local/red-light-therapy-for-inflammation/">Red wavelengths have anti-inflammatory benefits</a>. Red light therapy has been shown to reduce inflammation and swelling, making it an effective treatment for those with inflammatory conditions such as arthritis.</p>
+<p><a href="https://synctherapylocal.local/red-light-therapy/">Red wavelengths have anti-inflammatory benefits</a>. Red light therapy has been shown to reduce inflammation and swelling, making it an effective treatment for those with inflammatory conditions such as arthritis.</p>
 <h3>Improved bone healing</h3>
 <p>Red wavelengths have been shown to improve bone healing.</p>
 <p>Red light therapy has been shown to increase bone density and promote the healing of fractures, making it an effective treatment for those with bone injuries.</p>

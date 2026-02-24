@@ -579,7 +579,7 @@ seoTitle: 'Seed vs Bioma (2026): Which Probiotic Is Better For You?'
                             For bloating, is Seed or Bioma better?
                             <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
                         </summary>
-                        <p class="mt-4 text-gray-700"><strong>Seed</strong> is definitively better for bloating. Its formula contains 24 specific strains clinically studied for digestive health benefits, delivered via a capsule designed to survive stomach acid. Bioma's claims to help bloating are unsubstantiated, and its vague formula cannot be trusted to deliver consistent results. Learn more about how <a data-wpil="url" href="https://synctherapylocal.local/do-probiotics-help-with-bloating/" class="text-primary hover:underline font-semibold">probiotics can help with bloating</a>.</p>
+                        <p class="mt-4 text-gray-700"><strong>Seed</strong> is definitively better for bloating. Its formula contains 24 specific strains clinically studied for digestive health benefits, delivered via a capsule designed to survive stomach acid. Bioma's claims to help bloating are unsubstantiated, and its vague formula cannot be trusted to deliver consistent results. Learn more about how <a data-wpil="url" href="https://synctherapylocal.local/best-prebiotics-and-probiotics-supplements/" class="text-primary hover:underline font-semibold">probiotics can help with bloating</a>.</p>
                     </details>
                     <details class="bg-white p-6 rounded-lg shadow-sm group">
                         <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">

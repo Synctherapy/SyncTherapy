@@ -280,7 +280,7 @@ seoTitle: Home
                     <div class="space-y-3">
                         <h4 class="font-semibold text-text mb-3">Service Areas:</h4>
                         <div class="grid grid-cols-1 gap-2">
-                            <a href="https://synctherapylocal.local/services/athletic-therapy-victoria/" class="flex items-center text-sm text-primary hover:text-accent transition-colors group">
+                            <a href="https://synctherapylocal.local/services/athletic-therapy/" class="flex items-center text-sm text-primary hover:text-accent transition-colors group">
                                 <svg class="h-4 w-4 mr-2 group-hover:text-accent" fill="currentColor" viewBox="0 0 20 20">
                                     <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
                                 </svg>
@@ -292,7 +292,7 @@ seoTitle: Home
                                 </svg>
                                 Athletic Therapy Langford
                             </a>
-                            <a href="https://synctherapylocal.local/services/athletic-therapy-colwood/" class="flex items-center text-sm text-primary hover:text-accent transition-colors group">
+                            <a href="https://synctherapylocal.local/services/athletic-therapy/" class="flex items-center text-sm text-primary hover:text-accent transition-colors group">
                                 <svg class="h-4 w-4 mr-2 group-hover:text-accent" fill="currentColor" viewBox="0 0 20 20">
                                     <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
                                 </svg>
@@ -327,7 +327,7 @@ seoTitle: Home
                 </div>
                 <h3 class="font-semibold text-text mb-2">Deep Tissue Massage</h3>
                 <p class="text-sm text-text/70 mb-4">Targeted pressure for chronic tension and pain relief</p>
-                <a href="https://synctherapylocal.local/services/deep-tissue-massage-victoria/" class="text-primary hover:text-accent text-sm font-medium">
+                <a href="https://synctherapylocal.local/services/deep-tissue-massage/" class="text-primary hover:text-accent text-sm font-medium">
                     View Deep Tissue Details →
                 </a>
             </div>
@@ -339,7 +339,7 @@ seoTitle: Home
                 </div>
                 <h3 class="font-semibold text-text mb-2">Sports Massage</h3>
                 <p class="text-sm text-text/70 mb-4">Performance enhancement and injury prevention</p>
-                <a href="https://synctherapylocal.local/services/sports-massage-therapy/" class="text-primary hover:text-accent text-sm font-medium">
+                <a href="https://synctherapylocal.local/services/sports-massage/" class="text-primary hover:text-accent text-sm font-medium">
                     View Sports Massage Details →
                 </a>
             </div>
@@ -351,7 +351,7 @@ seoTitle: Home
                 </div>
                 <h3 class="font-semibold text-text mb-2">Myofascial Release</h3>
                 <p class="text-sm text-text/70 mb-4">Gentle technique for fascial restrictions</p>
-                <a href="https://synctherapylocal.local/services/myofascial-release-massage/" class="text-primary hover:text-accent text-sm font-medium">
+                <a href="https://synctherapylocal.local/services/myofascial-release/" class="text-primary hover:text-accent text-sm font-medium">
                     View Myofascial Release Details →
                 </a>
             </div>
@@ -466,8 +466,8 @@ seoTitle: Home
                         </li>
                     </ul>
                 </div>
-                <a data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktdmljdG9yaWEv" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktdmljdG9yaWEv" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktdmljdG9yaWEv" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktdmljdG9yaWEv" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktdmljdG9yaWEv" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktdmljdG9yaWEv" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktdmljdG9yaWEv" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktdmljdG9yaWEv" href="/services/athletic-therapy-victoria/" class="btn-primary w-full text-center mb-2">Schedule 60-Minute Assessment</a>
-                <a href="https://synctherapylocal.local/services/athletic-therapy-victoria/" class="text-sm text-primary hover:underline block text-center">
+                <a data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktdmljdG9yaWEv" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktdmljdG9yaWEv" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktdmljdG9yaWEv" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktdmljdG9yaWEv" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktdmljdG9yaWEv" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktdmljdG9yaWEv" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktdmljdG9yaWEv" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktdmljdG9yaWEv" href="/services/athletic-therapy/" class="btn-primary w-full text-center mb-2">Schedule 60-Minute Assessment</a>
+                <a href="https://synctherapylocal.local/services/athletic-therapy/" class="text-sm text-primary hover:underline block text-center">
                     Learn more about athletic therapy →
                 </a>
             </article>
@@ -649,7 +649,7 @@ seoTitle: Home
                     <p class="text-text/70">We bill your insurance directly - no upfront payment required</p>
                 </div>
             </div>
-            <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" href="https://synctherapylocal.local/services/direct-billing-massage/" class="btn-accent px-6 py-3">Learn About Direct Billing</a>
+            <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" href="https://synctherapylocal.local/direct-billing/" class="btn-accent px-6 py-3">Learn About Direct Billing</a>
         </div>
     </div>
 </section>
@@ -740,7 +740,7 @@ seoTitle: Home
                 <p class="text-text/70 mb-6 leading-relaxed">
                     Licensed athletic therapist specializing in sports injury rehabilitation, performance enhancement, and movement optimization.
                 </p>
-                <a href="https://synctherapylocal.local/our-team/athletic-therapist-daryl-stubbs/" class="btn-primary px-6 py-2 mb-2 w-full text-center">View Langford Athletic Therapist Profile</a>
+                <a href="https://synctherapylocal.local/our-team/daryl-stubbs/" class="btn-primary px-6 py-2 mb-2 w-full text-center">View Langford Athletic Therapist Profile</a>
             </div>
         </div>
         <div class="text-center">
@@ -784,7 +784,7 @@ seoTitle: Home
                         <span class="text-text">Convenient location (1 min from Juan De Fuca Rec Centre)</span>
                     </div>
                 </div>
-                <a href="https://synctherapylocal.local/about/why-us/" class="btn-primary px-8 py-3">Learn More About Us</a>
+                <a href="https://synctherapylocal.local/about/" class="btn-primary px-8 py-3">Learn More About Us</a>
             </div>
             <div class="relative">
                 <img src="/uploads/2025/07/sync-massage-therapy-clinic-in-colwood-langford-and-victoria-treating-with-an-RMT.jpg" alt="Sync Therapy massage clinic interior in Colwood serving Victoria, Langford with professional RMT treatment rooms" class="rounded-2xl shadow-xl w-full h-auto object-cover">

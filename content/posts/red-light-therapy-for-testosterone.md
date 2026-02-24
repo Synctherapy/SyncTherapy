@@ -278,7 +278,7 @@ seoTitle: 'Red Light Therapy for Testosterone: Science-Backed Guide (2026)'
     
     <main class="space-y-12">
 
-            <p class="text-lg text-gray-700 leading-relaxed"><strong>Red light therapy for testosterone</strong> is one of the most searched topics in men's health optimization. Can <strong>red light therapy on testicles</strong> actually boost testosterone levels? As a Registered Massage Therapist who has used <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">red light therapy</a> clinically since 2017—and personally for testicular health with <strong>red light therapy on balls</strong>—I'll share what the <a href="https://synctherapylocal.local/photobiomodulation-explained/" class="text-primary hover:underline">photobiomodulation</a> research actually shows, <strong>how to use red light therapy for testosterone</strong> safely, and which devices deliver real results.</p>
+            <p class="text-lg text-gray-700 leading-relaxed"><strong>Red light therapy for testosterone</strong> is one of the most searched topics in men's health optimization. Can <strong>red light therapy on testicles</strong> actually boost testosterone levels? As a Registered Massage Therapist who has used <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">red light therapy</a> clinically since 2017—and personally for testicular health with <strong>red light therapy on balls</strong>—I'll share what the <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">photobiomodulation</a> research actually shows, <strong>how to use red light therapy for testosterone</strong> safely, and which devices deliver real results.</p>
         </header>
 
         <!-- Featured Image -->
@@ -290,8 +290,8 @@ seoTitle: 'Red Light Therapy for Testosterone: Science-Backed Guide (2026)'
         <section id="key-takeaways" class="bg-blue-50 border-l-4 border-primary p-6 rounded-lg shadow-sm">
             <h2 class="text-2xl font-bold mb-4 !border-none !pl-0 !mt-0"><i class="fas fa-bolt text-accent mr-2"></i>Key Takeaways: Red Light Therapy Testosterone</h2>
             <ul class="space-y-3 list-disc list-inside text-gray-800">
-                <li><strong>The Science:</strong> Research shows <a href="https://synctherapylocal.local/photobiomodulation-explained/" class="text-primary hover:underline">photobiomodulation</a> can stimulate Leydig cells and increase testosterone production</li>
-                <li><strong>Optimal Wavelengths:</strong> <a href="https://synctherapylocal.local/wavelength-for-red-light/" class="text-primary hover:underline">630-670nm (red) and 810-850nm (near-infrared)</a> for deepest penetration</li>
+                <li><strong>The Science:</strong> Research shows <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">photobiomodulation</a> can stimulate Leydig cells and increase testosterone production</li>
+                <li><strong>Optimal Wavelengths:</strong> <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">630-670nm (red) and 810-850nm (near-infrared)</a> for deepest penetration</li>
                 <li><strong>Treatment Protocol:</strong> 10-20 minutes, 3-5x per week, targeting testicles and lower back (L2-L3)</li>
                 <li><strong>Safety:</strong> <strong>Red light therapy for testicles</strong> is generally safe with proper wavelengths—no tissue damage reported</li>
                 <li><strong>Additional Benefits:</strong> <a href="#sperm-quality" class="text-primary hover:underline">Improved sperm motility</a>, enhanced fertility, better energy</li>
@@ -338,7 +338,7 @@ seoTitle: 'Red Light Therapy for Testosterone: Science-Backed Guide (2026)'
                 
                 <div class="science-highlight p-4 rounded-lg mb-6">
                     <p class="font-semibold text-blue-800 mb-2"><i class="fas fa-flask mr-2"></i>Bottom Line on Red Light Therapy Testosterone:</p>
-                    <p class="text-gray-700">There's promising evidence that <a href="https://synctherapylocal.local/photobiomodulation-explained/" class="text-primary hover:underline">photobiomodulation (PBM)</a> can stimulate testosterone production, improve testicular function, and enhance sperm quality. The <strong>effects of red light therapy on testosterone</strong> appear mediated through Leydig cell stimulation and mitochondrial activation. However, most research has been conducted on animals or in vitro, with limited large-scale human studies.</p>
+                    <p class="text-gray-700">There's promising evidence that <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">photobiomodulation (PBM)</a> can stimulate testosterone production, improve testicular function, and enhance sperm quality. The <strong>effects of red light therapy on testosterone</strong> appear mediated through Leydig cell stimulation and mitochondrial activation. However, most research has been conducted on animals or in vitro, with limited large-scale human studies.</p>
                 </div>
 
                 <h3 class="text-xl font-bold mb-4">What the Research Shows About Red Light Therapy Testicles Testosterone</h3>
@@ -368,7 +368,7 @@ seoTitle: 'Red Light Therapy for Testosterone: Science-Backed Guide (2026)'
                     </div>
                 </div>
 
-                <p class="mb-4">The theory behind <strong>red light therapy for testosterone</strong> centers on its ability to stimulate <strong>Leydig cells</strong>—the cells in your testes responsible for producing testosterone. Red and near-infrared light penetrate tissue and enhance ATP (adenosine triphosphate) production in mitochondria, which may boost cellular energy and <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdGhlLXJvbGUtb2YtcmVkLWxpZ2h0LXRoZXJhcHktaW4taG9ybW9uZS1yZWd1bGF0aW9uLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdGhlLXJvbGUtb2YtcmVkLWxpZ2h0LXRoZXJhcHktaW4taG9ybW9uZS1yZWd1bGF0aW9uLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdGhlLXJvbGUtb2YtcmVkLWxpZ2h0LXRoZXJhcHktaW4taG9ybW9uZS1yZWd1bGF0aW9uLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdGhlLXJvbGUtb2YtcmVkLWxpZ2h0LXRoZXJhcHktaW4taG9ybW9uZS1yZWd1bGF0aW9uLw==" href="https://synctherapylocal.local/the-role-of-red-light-therapy-in-hormone-regulation/" class="text-primary hover:underline">hormone synthesis</a>.</p>
+                <p class="mb-4">The theory behind <strong>red light therapy for testosterone</strong> centers on its ability to stimulate <strong>Leydig cells</strong>—the cells in your testes responsible for producing testosterone. Red and near-infrared light penetrate tissue and enhance ATP (adenosine triphosphate) production in mitochondria, which may boost cellular energy and <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdGhlLXJvbGUtb2YtcmVkLWxpZ2h0LXRoZXJhcHktaW4taG9ybW9uZS1yZWd1bGF0aW9uLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdGhlLXJvbGUtb2YtcmVkLWxpZ2h0LXRoZXJhcHktaW4taG9ybW9uZS1yZWd1bGF0aW9uLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdGhlLXJvbGUtb2YtcmVkLWxpZ2h0LXRoZXJhcHktaW4taG9ybW9uZS1yZWd1bGF0aW9uLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdGhlLXJvbGUtb2YtcmVkLWxpZ2h0LXRoZXJhcHktaW4taG9ybW9uZS1yZWd1bGF0aW9uLw==" href="https://synctherapylocal.local/red-light-therapy-for-testosterone/" class="text-primary hover:underline">hormone synthesis</a>.</p>
             </div>
         </section>
 
@@ -389,7 +389,7 @@ seoTitle: 'Red Light Therapy for Testosterone: Science-Backed Guide (2026)'
                         <div class="bg-primary text-white rounded-full w-8 h-8 flex items-center justify-center font-bold flex-shrink-0">1</div>
                         <div>
                             <h4 class="font-bold text-primary">Light Penetration to Testicles</h4>
-                            <p class="text-sm text-gray-700"><a href="https://synctherapylocal.local/wavelength-for-red-light/" class="text-primary hover:underline">Red (630-670nm) and near-infrared (810-850nm) wavelengths</a> penetrate skin and tissue to reach the Leydig cells in your testicles. NIR penetrates deeper (~4-5cm) than red light (~2-3cm), making it ideal for <strong>red light therapy on balls</strong>.</p>
+                            <p class="text-sm text-gray-700"><a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">Red (630-670nm) and near-infrared (810-850nm) wavelengths</a> penetrate skin and tissue to reach the Leydig cells in your testicles. NIR penetrates deeper (~4-5cm) than red light (~2-3cm), making it ideal for <strong>red light therapy on balls</strong>.</p>
                         </div>
                     </div>
                     <div class="flex items-start gap-4 bg-gray-50 p-4 rounded-lg">
@@ -410,7 +410,7 @@ seoTitle: 'Red Light Therapy for Testosterone: Science-Backed Guide (2026)'
                         <div class="bg-primary text-white rounded-full w-8 h-8 flex items-center justify-center font-bold flex-shrink-0">4</div>
                         <div>
                             <h4 class="font-bold text-primary">Reduced Oxidative Stress</h4>
-                            <p class="text-sm text-gray-700"><a href="https://synctherapylocal.local/red-light-therapy-for-inflammation/" class="text-primary hover:underline">Red light therapy reduces reactive oxygen species (ROS) and inflammation</a>, creating a better environment for testosterone production and sperm development in the testes.</p>
+                            <p class="text-sm text-gray-700"><a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">Red light therapy reduces reactive oxygen species (ROS) and inflammation</a>, creating a better environment for testosterone production and sperm development in the testes.</p>
                         </div>
                     </div>
                 </div>
@@ -534,7 +534,7 @@ seoTitle: 'Red Light Therapy for Testosterone: Science-Backed Guide (2026)'
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary mb-2"><i class="fas fa-3 mr-2 text-accent"></i>Frequency & Duration</h4>
-                        <p class="text-sm text-gray-700">Perform sessions 3-5 times per week. Learn more about <a href="https://synctherapylocal.local/how-often-red-light-therapy/" class="text-primary hover:underline">how often to do red light therapy</a>. Start with shorter sessions (5-10 minutes) and gradually increase to 15-20 minutes as your body adapts. Consistency is more important than session length.</p>
+                        <p class="text-sm text-gray-700">Perform sessions 3-5 times per week. Learn more about <a href="https://synctherapylocal.local/at-home-red-light-therapy/" class="text-primary hover:underline">how often to do red light therapy</a>. Start with shorter sessions (5-10 minutes) and gradually increase to 15-20 minutes as your body adapts. Consistency is more important than session length.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h4 class="font-bold text-primary mb-2"><i class="fas fa-4 mr-2 text-accent"></i>Monitor & Adjust</h4>
@@ -554,7 +554,7 @@ seoTitle: 'Red Light Therapy for Testosterone: Science-Backed Guide (2026)'
                         <tbody>
                             <tr>
                                 <td class="p-3 font-semibold">Wavelengths</td>
-                                <td class="p-3"><a href="https://synctherapylocal.local/wavelength-for-red-light/" class="text-primary hover:underline">660nm (red) + 850nm (near-infrared)</a></td>
+                                <td class="p-3"><a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">660nm (red) + 850nm (near-infrared)</a></td>
                             </tr>
                             <tr>
                                 <td class="p-3 font-semibold">Distance</td>
@@ -566,7 +566,7 @@ seoTitle: 'Red Light Therapy for Testosterone: Science-Backed Guide (2026)'
                             </tr>
                             <tr>
                                 <td class="p-3 font-semibold">Frequency</td>
-                                <td class="p-3">3-5 sessions per week (<a href="https://synctherapylocal.local/how-often-red-light-therapy/" class="text-primary hover:underline">more details</a>)</td>
+                                <td class="p-3">3-5 sessions per week (<a href="https://synctherapylocal.local/at-home-red-light-therapy/" class="text-primary hover:underline">more details</a>)</td>
                             </tr>
                             <tr>
                                 <td class="p-3 font-semibold">Target Areas</td>
@@ -587,7 +587,7 @@ seoTitle: 'Red Light Therapy for Testosterone: Science-Backed Guide (2026)'
                         <li>• <strong>Don't wear underwear</strong> during testicular exposure—fabric can reduce light penetration for <strong>red light therapy on balls</strong></li>
                         <li>• <strong>Avoid excessive heat</strong>—if the device feels hot, increase distance or reduce time</li>
                         <li>• <strong>Combine with lifestyle factors:</strong> <a href="https://synctherapylocal.local/red-light-therapy-for-sleep/" class="text-primary hover:underline">Sleep</a>, exercise, and diet still matter most</li>
-                        <li>• <strong>Consider full-body benefits:</strong> Learn about <a href="https://synctherapylocal.local/how-to-use-red-light-therapy-at-home/" class="text-primary hover:underline">how to use red light therapy at home</a> for overall health</li>
+                        <li>• <strong>Consider full-body benefits:</strong> Learn about <a href="https://synctherapylocal.local/at-home-red-light-therapy/" class="text-primary hover:underline">how to use red light therapy at home</a> for overall health</li>
                     </ul>
                 </div>
             </div>
@@ -596,7 +596,7 @@ seoTitle: 'Red Light Therapy for Testosterone: Science-Backed Guide (2026)'
         <!-- Andrew Huberman Video -->
         <section class="bg-white p-6 rounded-lg shadow-md">
             <h3 class="text-xl font-bold mb-3"><i class="fas fa-user-md text-accent mr-2"></i>Andrew Huberman on Red Light & Hormonal Health</h3>
-            <p class="mb-4">Stanford neuroscientist Dr. Andrew Huberman discusses the relationship between light exposure and <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdGhlLXJvbGUtb2YtcmVkLWxpZ2h0LXRoZXJhcHktaW4taG9ybW9uZS1yZWd1bGF0aW9uLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdGhlLXJvbGUtb2YtcmVkLWxpZ2h0LXRoZXJhcHktaW4taG9ybW9uZS1yZWd1bGF0aW9uLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdGhlLXJvbGUtb2YtcmVkLWxpZ2h0LXRoZXJhcHktaW4taG9ybW9uZS1yZWd1bGF0aW9uLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdGhlLXJvbGUtb2YtcmVkLWxpZ2h0LXRoZXJhcHktaW4taG9ybW9uZS1yZWd1bGF0aW9uLw==" href="https://synctherapylocal.local/the-role-of-red-light-therapy-in-hormone-regulation/" class="text-primary hover:underline">hormonal health</a>:</p>
+            <p class="mb-4">Stanford neuroscientist Dr. Andrew Huberman discusses the relationship between light exposure and <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdGhlLXJvbGUtb2YtcmVkLWxpZ2h0LXRoZXJhcHktaW4taG9ybW9uZS1yZWd1bGF0aW9uLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdGhlLXJvbGUtb2YtcmVkLWxpZ2h0LXRoZXJhcHktaW4taG9ybW9uZS1yZWd1bGF0aW9uLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdGhlLXJvbGUtb2YtcmVkLWxpZ2h0LXRoZXJhcHktaW4taG9ybW9uZS1yZWd1bGF0aW9uLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdGhlLXJvbGUtb2YtcmVkLWxpZ2h0LXRoZXJhcHktaW4taG9ybW9uZS1yZWd1bGF0aW9uLw==" href="https://synctherapylocal.local/red-light-therapy-for-testosterone/" class="text-primary hover:underline">hormonal health</a>:</p>
             <div class="video-container shadow-lg max-w-md mx-auto">
                 <iframe src="https://www.youtube.com/embed/goCbY3zIZKo" title="Andrew Huberman on Red Light Therapy and Hormones" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
@@ -676,7 +676,7 @@ seoTitle: 'Red Light Therapy for Testosterone: Science-Backed Guide (2026)'
         <section id="wavelengths">
             <h2><i class="fas fa-wave-square text-accent mr-2"></i>Best Wavelengths for Red Light Therapy Testicles</h2>
             <div class="bg-white p-6 rounded-lg shadow-md">
-                <p class="mb-4">Not all red light is created equal. Here are the optimal <a href="https://synctherapylocal.local/wavelength-for-red-light/" class="text-primary hover:underline">wavelengths</a> for <strong>red light therapy testosterone</strong> and <strong>red light therapy for testicles</strong> benefits:</p>
+                <p class="mb-4">Not all red light is created equal. Here are the optimal <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">wavelengths</a> for <strong>red light therapy testosterone</strong> and <strong>red light therapy for testicles</strong> benefits:</p>
 
                 <div class="overflow-x-auto mb-6">
                     <table class="w-full border-collapse comparison-table rounded-lg overflow-hidden">
@@ -902,7 +902,7 @@ seoTitle: 'Red Light Therapy for Testosterone: Science-Backed Guide (2026)'
                 <p class="mb-4">Beyond <strong>red light therapy testosterone</strong> benefits, men can experience numerous other health improvements from regular use:</p>
 
                 <div class="grid md:grid-cols-3 gap-4">
-                    <a href="https://synctherapylocal.local/red-light-therapy-for-chronic-fatigue/" class="bg-gray-50 p-4 rounded-lg hover:shadow-md transition-shadow">
+                    <a href="https://synctherapylocal.local/red-light-therapy/" class="bg-gray-50 p-4 rounded-lg hover:shadow-md transition-shadow">
                         <div class="text-2xl text-primary mb-2"><i class="fas fa-battery-three-quarters"></i></div>
                         <h4 class="font-bold text-primary mb-1">Energy & Fatigue</h4>
                         <p class="text-sm text-gray-600">Combat chronic fatigue and boost daily energy</p>
@@ -912,7 +912,7 @@ seoTitle: 'Red Light Therapy for Testosterone: Science-Backed Guide (2026)'
                         <h4 class="font-bold text-primary mb-1">Weight Management</h4>
                         <p class="text-sm text-gray-600">Support metabolism and body composition</p>
                     </a>
-                    <a href="https://synctherapylocal.local/red-light-therapy-for-depression/" class="bg-gray-50 p-4 rounded-lg hover:shadow-md transition-shadow">
+                    <a href="https://synctherapylocal.local/red-light-therapy/" class="bg-gray-50 p-4 rounded-lg hover:shadow-md transition-shadow">
                         <div class="text-2xl text-primary mb-2"><i class="fas fa-brain"></i></div>
                         <h4 class="font-bold text-primary mb-1">Mood & Mental Health</h4>
                         <p class="text-sm text-gray-600">Support emotional well-being naturally</p>
@@ -927,7 +927,7 @@ seoTitle: 'Red Light Therapy for Testosterone: Science-Backed Guide (2026)'
                         <h4 class="font-bold text-primary mb-1">Injury Recovery</h4>
                         <p class="text-sm text-gray-600">Accelerate healing from sports injuries</p>
                     </a>
-                    <a href="https://synctherapylocal.local/role-of-red-light-therapy-in-anti-aging-studies-and-findings/" class="bg-gray-50 p-4 rounded-lg hover:shadow-md transition-shadow">
+                    <a href="https://synctherapylocal.local/red-light-therapy/" class="bg-gray-50 p-4 rounded-lg hover:shadow-md transition-shadow">
                         <div class="text-2xl text-primary mb-2"><i class="fas fa-user-clock"></i></div>
                         <h4 class="font-bold text-primary mb-1">Anti-Aging</h4>
                         <p class="text-sm text-gray-600">Support skin health and cellular regeneration</p>
@@ -943,12 +943,12 @@ seoTitle: 'Red Light Therapy for Testosterone: Science-Backed Guide (2026)'
 
                 <details class="bg-white p-6 rounded-lg shadow-sm group">
                     <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">Does red light therapy boost testosterone?<i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i></summary>
-                    <p class="mt-4 text-gray-700">Research suggests <strong>red light therapy</strong> may help boost testosterone levels by stimulating Leydig cells in the testes. Studies show <a href="https://synctherapylocal.local/photobiomodulation-explained/" class="text-primary hover:underline">photobiomodulation</a> can increase serum testosterone and improve testicular function, particularly when using <a href="https://synctherapylocal.local/wavelength-for-red-light/" class="text-primary hover:underline">wavelengths in the 630-850nm range</a>. However, most human studies are limited, and more research is needed to confirm <strong>red light therapy testosterone</strong> effects.</p>
+                    <p class="mt-4 text-gray-700">Research suggests <strong>red light therapy</strong> may help boost testosterone levels by stimulating Leydig cells in the testes. Studies show <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">photobiomodulation</a> can increase serum testosterone and improve testicular function, particularly when using <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">wavelengths in the 630-850nm range</a>. However, most human studies are limited, and more research is needed to confirm <strong>red light therapy testosterone</strong> effects.</p>
                 </details>
 
                 <details class="bg-white p-6 rounded-lg shadow-sm group">
                     <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">How do you use red light therapy for testosterone?<i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i></summary>
-                    <p class="mt-4 text-gray-700">To use <strong>red light therapy for testosterone</strong>, expose the testicles and <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" href="https://synctherapylocal.local/red-light-therapy-back-pain/" class="text-primary hover:underline">lower back</a> (L2-L3 vertebrae area) to red or near-infrared light at 630-850nm wavelengths. Start with 5-10 minutes per session, 3-5 times per week, at a distance of 6-12 inches from the panel. Gradually increase to 15-20 minutes as tolerated. Learn more about <a href="https://synctherapylocal.local/how-to-use-red-light-therapy-at-home/" class="text-primary hover:underline">how to use red light therapy at home</a>.</p>
+                    <p class="mt-4 text-gray-700">To use <strong>red light therapy for testosterone</strong>, expose the testicles and <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" href="https://synctherapylocal.local/red-light-therapy-back-pain/" class="text-primary hover:underline">lower back</a> (L2-L3 vertebrae area) to red or near-infrared light at 630-850nm wavelengths. Start with 5-10 minutes per session, 3-5 times per week, at a distance of 6-12 inches from the panel. Gradually increase to 15-20 minutes as tolerated. Learn more about <a href="https://synctherapylocal.local/at-home-red-light-therapy/" class="text-primary hover:underline">how to use red light therapy at home</a>.</p>
                 </details>
 
                 <details class="bg-white p-6 rounded-lg shadow-sm group">
@@ -958,7 +958,7 @@ seoTitle: 'Red Light Therapy for Testosterone: Science-Backed Guide (2026)'
 
                 <details class="bg-white p-6 rounded-lg shadow-sm group">
                     <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">What wavelength is best for testosterone?<i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i></summary>
-                    <p class="mt-4 text-gray-700">The optimal <a href="https://synctherapylocal.local/wavelength-for-red-light/" class="text-primary hover:underline">wavelengths</a> for <strong>red light therapy testosterone</strong> support are 630-670nm (red light) and 810-850nm (near-infrared). Research showing positive effects on Leydig cells has used wavelengths around 670nm, 808nm, and 890nm. Near-infrared penetrates deeper (~4-5cm), making it particularly effective for <strong>red light therapy on testicles</strong>.</p>
+                    <p class="mt-4 text-gray-700">The optimal <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">wavelengths</a> for <strong>red light therapy testosterone</strong> support are 630-670nm (red light) and 810-850nm (near-infrared). Research showing positive effects on Leydig cells has used wavelengths around 670nm, 808nm, and 890nm. Near-infrared penetrates deeper (~4-5cm), making it particularly effective for <strong>red light therapy on testicles</strong>.</p>
                 </details>
 
                 <details class="bg-white p-6 rounded-lg shadow-sm group">
@@ -988,7 +988,7 @@ seoTitle: 'Red Light Therapy for Testosterone: Science-Backed Guide (2026)'
 
                 <details class="bg-white p-6 rounded-lg shadow-sm group">
                     <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">Does red light therapy help with erectile dysfunction?<i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i></summary>
-                    <p class="mt-4 text-gray-700"><strong>Red light therapy</strong> may help with erectile dysfunction by improving blood flow, <a href="https://synctherapylocal.local/red-light-therapy-for-inflammation/" class="text-primary hover:underline">reducing inflammation</a>, and potentially boosting testosterone levels. While direct research on red light for ED is limited, the mechanisms that improve testosterone and cellular energy could theoretically support erectile function. Some men report improvements, but more clinical studies are needed.</p>
+                    <p class="mt-4 text-gray-700"><strong>Red light therapy</strong> may help with erectile dysfunction by improving blood flow, <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">reducing inflammation</a>, and potentially boosting testosterone levels. While direct research on red light for ED is limited, the mechanisms that improve testosterone and cellular energy could theoretically support erectile function. Some men report improvements, but more clinical studies are needed.</p>
                 </details>
 
             </div>
@@ -1033,7 +1033,7 @@ seoTitle: 'Red Light Therapy for Testosterone: Science-Backed Guide (2026)'
                     <h4 class="font-semibold text-primary">Complete Guide to Red Light Therapy</h4>
                     <p class="text-sm text-gray-600">Everything you need to know about photobiomodulation</p>
                 </a>
-                <a href="https://synctherapylocal.local/the-role-of-red-light-therapy-in-hormone-regulation/" class="bg-white p-4 rounded-lg shadow-sm hover:shadow-md transition-shadow">
+                <a href="https://synctherapylocal.local/red-light-therapy-for-testosterone/" class="bg-white p-4 rounded-lg shadow-sm hover:shadow-md transition-shadow">
                     <h4 class="font-semibold text-primary">Red Light Therapy & Hormone Regulation</h4>
                     <p class="text-sm text-gray-600">How red light affects hormonal balance</p>
                 </a>
@@ -1045,7 +1045,7 @@ seoTitle: 'Red Light Therapy for Testosterone: Science-Backed Guide (2026)'
                     <h4 class="font-semibold text-primary">Best Red Light Therapy Panels</h4>
                     <p class="text-sm text-gray-600">Top devices compared and reviewed</p>
                 </a>
-                <a href="https://synctherapylocal.local/red-light-therapy-for-inflammation/" class="bg-white p-4 rounded-lg shadow-sm hover:shadow-md transition-shadow">
+                <a href="https://synctherapylocal.local/red-light-therapy/" class="bg-white p-4 rounded-lg shadow-sm hover:shadow-md transition-shadow">
                     <h4 class="font-semibold text-primary">Red Light Therapy for Inflammation</h4>
                     <p class="text-sm text-gray-600">How PBM reduces inflammation</p>
                 </a>

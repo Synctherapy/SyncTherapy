@@ -331,7 +331,7 @@ seoTitle: 'Red Light Therapy Beds vs Panels: Complete Comparison Guide 2026'
             As a Registered Massage Therapist, Certified Athletic Therapist, and Holistic Nutritionist who uses <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" href="https://synctherapylocal.local/red-light-therapy/">red light therapy</a> daily in my clinic, I've spent years evaluating both beds and panels for patient treatments and personal use. This guide cuts through the marketing hype to give you an honest, practitioner-level comparison.
         </p>
         <p class="text-lg text-gray-600">
-            <strong>The bottom line:</strong> Beds and panels use identical <a href="https://synctherapylocal.local/photobiomodulation-explained/">photobiomodulation</a> science—same wavelengths, same cellular mechanisms, same therapeutic benefits. The difference is delivery method, convenience, and cost. By the end of this guide, you'll know exactly which option fits your situation.
+            <strong>The bottom line:</strong> Beds and panels use identical <a href="https://synctherapylocal.local/red-light-therapy/">photobiomodulation</a> science—same wavelengths, same cellular mechanisms, same therapeutic benefits. The difference is delivery method, convenience, and cost. By the end of this guide, you'll know exactly which option fits your situation.
         </p>
     </header>
 
@@ -406,7 +406,7 @@ seoTitle: 'Red Light Therapy Beds vs Panels: Complete Comparison Guide 2026'
                             <td class="winner"><i class="fas fa-bed text-primary mr-1"></i> Beds</td>
                         </tr>
                         <tr>
-                            <td class="font-semibold"><a href="https://synctherapylocal.local/wavelength-for-red-light/">Therapeutic Wavelengths</a></td>
+                            <td class="font-semibold"><a href="https://synctherapylocal.local/red-light-therapy/">Therapeutic Wavelengths</a></td>
                             <td>660nm / 850nm</td>
                             <td>660nm / 850nm</td>
                             <td><i class="fas fa-equals text-gray-500 mr-1"></i> Tie</td>
@@ -459,7 +459,7 @@ seoTitle: 'Red Light Therapy Beds vs Panels: Complete Comparison Guide 2026'
             
             <div class="pro-tip">
                 <h4><i class="fas fa-lightbulb mr-2"></i>The Critical Insight Most Articles Miss</h4>
-                <p>Notice that <a href="https://synctherapylocal.local/wavelength-for-red-light/">therapeutic wavelengths</a> and cellular benefits are <strong>identical</strong>. This is the most important point: the science is the same. Everything else—cost, time, convenience—is about delivery method, not effectiveness.</p>
+                <p>Notice that <a href="https://synctherapylocal.local/red-light-therapy/">therapeutic wavelengths</a> and cellular benefits are <strong>identical</strong>. This is the most important point: the science is the same. Everything else—cost, time, convenience—is about delivery method, not effectiveness.</p>
             </div>
         </section>
 
@@ -499,7 +499,7 @@ seoTitle: 'Red Light Therapy Beds vs Panels: Complete Comparison Guide 2026'
                     <i class="fas fa-clinic-medical text-primary text-2xl mt-1"></i>
                     <div>
                         <h4 class="font-semibold text-lg">Practitioner Experience</h4>
-                        <p class="text-gray-600">I use red light therapy daily in my award-winning clinic, treating real patients with conditions like <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" href="https://synctherapylocal.local/red-light-therapy-back-pain/">back pain</a>, <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" href="https://synctherapylocal.local/red-light-therapy-for-arthritis/">arthritis</a>, and <a href="https://synctherapylocal.local/red-light-therapy-for-inflammation/">inflammation</a>.</p>
+                        <p class="text-gray-600">I use red light therapy daily in my award-winning clinic, treating real patients with conditions like <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" href="https://synctherapylocal.local/red-light-therapy-back-pain/">back pain</a>, <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" href="https://synctherapylocal.local/red-light-therapy-for-arthritis/">arthritis</a>, and <a href="https://synctherapylocal.local/red-light-therapy/">inflammation</a>.</p>
                     </div>
                 </div>
                 <div class="flex items-start space-x-4">
@@ -520,7 +520,7 @@ seoTitle: 'Red Light Therapy Beds vs Panels: Complete Comparison Guide 2026'
                     <i class="fas fa-microscope text-primary text-2xl mt-1"></i>
                     <div>
                         <h4 class="font-semibold text-lg">Research-Backed</h4>
-                        <p class="text-gray-600">Recommendations based on peer-reviewed <a href="https://synctherapylocal.local/photobiomodulation-explained/">photobiomodulation research</a>, not manufacturer marketing claims.</p>
+                        <p class="text-gray-600">Recommendations based on peer-reviewed <a href="https://synctherapylocal.local/red-light-therapy/">photobiomodulation research</a>, not manufacturer marketing claims.</p>
                     </div>
                 </div>
             </div>
@@ -570,7 +570,7 @@ seoTitle: 'Red Light Therapy Beds vs Panels: Complete Comparison Guide 2026'
             <h3>The Photobiomodulation Science Is Identical</h3>
             <p>Here's what most comparison articles won't tell you: <strong>both beds and panels use the exact same therapeutic mechanism.</strong></p>
             
-            <p><a href="https://synctherapylocal.local/photobiomodulation-explained/">Photobiomodulation</a> works by delivering specific <a href="https://synctherapylocal.local/wavelength-for-red-light/">wavelengths of light</a> (primarily 660nm red and 850nm near-infrared) to your cells. This light is absorbed by chromophores in your mitochondria, <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" href="https://synctherapylocal.local/red-light-therapy-boosts-mitochondrial-function/">stimulating ATP production</a> and triggering a cascade of beneficial cellular responses—<a href="https://synctherapylocal.local/red-light-therapy-for-inflammation/">reduced inflammation</a>, enhanced tissue repair, improved circulation.</p>
+            <p><a href="https://synctherapylocal.local/red-light-therapy/">Photobiomodulation</a> works by delivering specific <a href="https://synctherapylocal.local/red-light-therapy/">wavelengths of light</a> (primarily 660nm red and 850nm near-infrared) to your cells. This light is absorbed by chromophores in your mitochondria, <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" href="https://synctherapylocal.local/red-light-therapy-boosts-mitochondrial-function/">stimulating ATP production</a> and triggering a cascade of beneficial cellular responses—<a href="https://synctherapylocal.local/red-light-therapy/">reduced inflammation</a>, enhanced tissue repair, improved circulation.</p>
             
             <p>Whether those photons come from a $50,000 bed or a $1,500 panel is irrelevant to your cells. They respond to wavelength and dose, not price tag.</p>
 
@@ -687,7 +687,7 @@ seoTitle: 'Red Light Therapy Beds vs Panels: Complete Comparison Guide 2026'
         <section id="treatment-time">
             <h2><i class="fas fa-clock text-accent mr-2"></i>Full Body Red Light Therapy: Treatment Time Comparison</h2>
             
-            <p>This is where beds have an undeniable advantage—if time is your primary constraint. Understanding <a href="https://synctherapylocal.local/how-often-red-light-therapy/">how often to use red light therapy</a> is just as important as session duration.</p>
+            <p>This is where beds have an undeniable advantage—if time is your primary constraint. Understanding <a href="https://synctherapylocal.local/at-home-red-light-therapy/">how often to use red light therapy</a> is just as important as session duration.</p>
 
             <h3>Session Duration: Beds vs Panels</h3>
             
@@ -718,7 +718,7 @@ seoTitle: 'Red Light Therapy Beds vs Panels: Complete Comparison Guide 2026'
             
             <ul class="space-y-3 my-4">
                 <li><i class="fas fa-arrow-right text-primary mr-2"></i><strong>You're already home.</strong> An extra 15 minutes isn't "lost" time—many people read, meditate, or do light stretching during panel sessions.</li>
-                <li><i class="fas fa-arrow-right text-primary mr-2"></i><strong>Consistency beats speed.</strong> A therapy you actually use 5x/week beats a "faster" option you skip because it requires traveling to a clinic. <a href="https://synctherapylocal.local/how-often-red-light-therapy/">Frequency matters</a>.</li>
+                <li><i class="fas fa-arrow-right text-primary mr-2"></i><strong>Consistency beats speed.</strong> A therapy you actually use 5x/week beats a "faster" option you skip because it requires traveling to a clinic. <a href="https://synctherapylocal.local/at-home-red-light-therapy/">Frequency matters</a>.</li>
                 <li><i class="fas fa-arrow-right text-primary mr-2"></i><strong>Targeted treatments take the same time.</strong> If you're treating a specific injury or skin concern, panels and beds are equivalent.</li>
             </ul>
             
@@ -736,22 +736,22 @@ seoTitle: 'Red Light Therapy Beds vs Panels: Complete Comparison Guide 2026'
 
             <h3>Therapeutic Wavelengths: Identical for Beds and Panels</h3>
             
-            <p>Both quality beds and panels deliver the same <a href="https://synctherapylocal.local/wavelength-for-red-light/">therapeutic wavelengths</a>:</p>
+            <p>Both quality beds and panels deliver the same <a href="https://synctherapylocal.local/red-light-therapy/">therapeutic wavelengths</a>:</p>
             
             <div class="bg-white p-6 rounded-lg shadow-md my-6">
                 <div class="grid md:grid-cols-2 gap-6">
                     <div>
                         <h4 class="font-bold text-red-600"><i class="fas fa-sun mr-2"></i>660nm Red Light</h4>
-                        <p class="text-sm text-gray-600 mt-2">Penetrates 1-2mm into skin. Primary benefits for <a href="https://synctherapylocal.local/role-of-red-light-therapy-in-anti-aging-studies-and-findings/">skin health and anti-aging</a>, collagen production, <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" href="https://synctherapylocal.local/red-light-therapy-and-wound-healing-clinical-evidence/">wound healing</a>, and surface-level inflammation.</p>
+                        <p class="text-sm text-gray-600 mt-2">Penetrates 1-2mm into skin. Primary benefits for <a href="https://synctherapylocal.local/red-light-therapy/">skin health and anti-aging</a>, collagen production, <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" href="https://synctherapylocal.local/red-light-therapy/">wound healing</a>, and surface-level inflammation.</p>
                     </div>
                     <div>
                         <h4 class="font-bold text-purple-600"><i class="fas fa-sun mr-2"></i>850nm Near-Infrared</h4>
-                        <p class="text-sm text-gray-600 mt-2">Penetrates 3-5cm into tissue. Primary benefits for muscle recovery, <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" href="https://synctherapylocal.local/red-light-therapy-for-arthritis/">joint pain</a>, deep tissue repair, and systemic <a href="https://synctherapylocal.local/red-light-therapy-for-inflammation/">inflammation reduction</a>.</p>
+                        <p class="text-sm text-gray-600 mt-2">Penetrates 3-5cm into tissue. Primary benefits for muscle recovery, <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" href="https://synctherapylocal.local/red-light-therapy-for-arthritis/">joint pain</a>, deep tissue repair, and systemic <a href="https://synctherapylocal.local/red-light-therapy/">inflammation reduction</a>.</p>
                     </div>
                 </div>
             </div>
             
-            <p>Your mitochondria don't know or care whether these wavelengths come from a bed or panel. The <a href="https://synctherapylocal.local/photobiomodulation-explained/">photobiomodulation mechanism</a> is identical.</p>
+            <p>Your mitochondria don't know or care whether these wavelengths come from a bed or panel. The <a href="https://synctherapylocal.local/red-light-therapy/">photobiomodulation mechanism</a> is identical.</p>
 
             <h3>Irradiance: Panels Often Deliver More Power</h3>
             
@@ -768,7 +768,7 @@ seoTitle: 'Red Light Therapy Beds vs Panels: Complete Comparison Guide 2026'
 
             <h3>Can Panels Achieve Full-Body Red Light Therapy Coverage?</h3>
             
-            <p><strong>Yes, absolutely.</strong> Here's how to set up <a href="https://synctherapylocal.local/how-to-use-red-light-therapy-at-home/">red light therapy at home</a>:</p>
+            <p><strong>Yes, absolutely.</strong> Here's how to set up <a href="https://synctherapylocal.local/at-home-red-light-therapy/">red light therapy at home</a>:</p>
             
             <div class="bg-gray-50 p-6 rounded-lg my-6">
                 <h4 class="font-bold text-primary mb-3">Option 1: Sequential Positioning (Single Large Panel)</h4>
@@ -897,7 +897,7 @@ seoTitle: 'Red Light Therapy Beds vs Panels: Complete Comparison Guide 2026'
                 
                 <div class="scenario-card">
                     <h4 class="font-bold text-primary"><i class="fas fa-wheelchair mr-2"></i>Mobility Limitations</h4>
-                    <p class="text-gray-700 mt-2">Users who cannot stand for extended periods benefit from lying down during treatment. Beds eliminate the need for repositioning. Especially relevant for treating conditions like <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" href="https://synctherapylocal.local/red-light-therapy-for-fibromyalgia/">fibromyalgia</a> or <a href="https://synctherapylocal.local/red-light-therapy-for-chronic-fatigue/">chronic fatigue</a>.</p>
+                    <p class="text-gray-700 mt-2">Users who cannot stand for extended periods benefit from lying down during treatment. Beds eliminate the need for repositioning. Especially relevant for treating conditions like <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" href="https://synctherapylocal.local/red-light-therapy-for-arthritis/">fibromyalgia</a> or <a href="https://synctherapylocal.local/red-light-therapy/">chronic fatigue</a>.</p>
                 </div>
                 
                 <div class="scenario-card">
@@ -960,7 +960,7 @@ seoTitle: 'Red Light Therapy Beds vs Panels: Complete Comparison Guide 2026'
                 
                 <div class="scenario-card">
                     <h4 class="font-bold text-primary"><i class="fas fa-sliders-h mr-2"></i>Biohackers Wanting Wavelength Control</h4>
-                    <p class="text-gray-700 mt-2">Many panels offer adjustable <a href="https://synctherapylocal.local/wavelength-for-red-light/">wavelengths</a>, pulsing modes, and intensity control. Beds are typically fixed protocols.</p>
+                    <p class="text-gray-700 mt-2">Many panels offer adjustable <a href="https://synctherapylocal.local/red-light-therapy/">wavelengths</a>, pulsing modes, and intensity control. Beds are typically fixed protocols.</p>
                 </div>
             </div>
             
@@ -1130,7 +1130,7 @@ seoTitle: 'Red Light Therapy Beds vs Panels: Complete Comparison Guide 2026'
                     <div class="grid md:grid-cols-2 gap-4 mt-4">
                         <div class="bg-green-50 p-4 rounded-lg">
                             <p class="font-semibold text-green-700">No Dedicated Space</p>
-                            <p class="text-sm text-gray-600 mt-1"><strong>→ Panels.</strong> Hang on door, store in closet, minimal footprint. Learn <a href="https://synctherapylocal.local/how-to-use-red-light-therapy-at-home/">how to use at home</a>.</p>
+                            <p class="text-sm text-gray-600 mt-1"><strong>→ Panels.</strong> Hang on door, store in closet, minimal footprint. Learn <a href="https://synctherapylocal.local/at-home-red-light-therapy/">how to use at home</a>.</p>
                         </div>
                         <div class="bg-yellow-50 p-4 rounded-lg">
                             <p class="font-semibold text-yellow-700">Yes, 10×12 ft+</p>
@@ -1202,7 +1202,7 @@ seoTitle: 'Red Light Therapy Beds vs Panels: Complete Comparison Guide 2026'
                         Is a red light therapy bed better than panels?
                         <i class="fas fa-chevron-down text-gray-400"></i>
                     </summary>
-                    <p class="mt-4 text-gray-700">Not therapeutically—both use identical <a href="https://synctherapylocal.local/wavelength-for-red-light/">wavelengths</a> (660nm/850nm) and <a href="https://synctherapylocal.local/photobiomodulation-explained/">photobiomodulation mechanisms</a>. Beds offer convenience and faster full-body sessions (8-15 minutes vs 20-40 minutes), but panels deliver the same cellular benefits at 5-10% of the cost. For 95% of home users, panels provide equivalent therapeutic results.</p>
+                    <p class="mt-4 text-gray-700">Not therapeutically—both use identical <a href="https://synctherapylocal.local/red-light-therapy/">wavelengths</a> (660nm/850nm) and <a href="https://synctherapylocal.local/red-light-therapy/">photobiomodulation mechanisms</a>. Beds offer convenience and faster full-body sessions (8-15 minutes vs 20-40 minutes), but panels deliver the same cellular benefits at 5-10% of the cost. For 95% of home users, panels provide equivalent therapeutic results.</p>
                 </details>
                 
                 <details class="bg-white p-6 rounded-lg shadow-sm group">
@@ -1210,7 +1210,7 @@ seoTitle: 'Red Light Therapy Beds vs Panels: Complete Comparison Guide 2026'
                         Can I get full-body coverage with red light therapy panels?
                         <i class="fas fa-chevron-down text-gray-400"></i>
                     </summary>
-                    <p class="mt-4 text-gray-700">Yes. Large panels (36-48 inches) can cover from shoulders to knees in one position. Treat your front for 10-15 minutes, then your back for 10-15 minutes. Alternatively, a two-panel setup ($1,500-$3,000) can provide simultaneous front-and-back coverage similar to beds. See our <a href="https://synctherapylocal.local/how-to-use-red-light-therapy-at-home/">home setup guide</a> for detailed instructions.</p>
+                    <p class="mt-4 text-gray-700">Yes. Large panels (36-48 inches) can cover from shoulders to knees in one position. Treat your front for 10-15 minutes, then your back for 10-15 minutes. Alternatively, a two-panel setup ($1,500-$3,000) can provide simultaneous front-and-back coverage similar to beds. See our <a href="https://synctherapylocal.local/at-home-red-light-therapy/">home setup guide</a> for detailed instructions.</p>
                 </details>
                 
                 <details class="bg-white p-6 rounded-lg shadow-sm group">
@@ -1226,7 +1226,7 @@ seoTitle: 'Red Light Therapy Beds vs Panels: Complete Comparison Guide 2026'
                         Do red light therapy beds and panels produce the same results?
                         <i class="fas fa-chevron-down text-gray-400"></i>
                     </summary>
-                    <p class="mt-4 text-gray-700">Yes, when both use proper wavelengths and dosing. The cellular mechanisms of <a href="https://synctherapylocal.local/photobiomodulation-explained/">photobiomodulation</a> depend on wavelength accuracy (660nm and 850nm), adequate irradiance (20-100+ mW/cm²), and sufficient exposure time. Both beds and quality panels meet these criteria. Many panels actually deliver higher irradiance than beds. Check out <a href="https://synctherapylocal.local/red-light-therapy-before-and-after/">before and after results</a> from both.</p>
+                    <p class="mt-4 text-gray-700">Yes, when both use proper wavelengths and dosing. The cellular mechanisms of <a href="https://synctherapylocal.local/red-light-therapy/">photobiomodulation</a> depend on wavelength accuracy (660nm and 850nm), adequate irradiance (20-100+ mW/cm²), and sufficient exposure time. Both beds and quality panels meet these criteria. Many panels actually deliver higher irradiance than beds. Check out <a href="https://synctherapylocal.local/red-light-therapy-before-and-after/">before and after results</a> from both.</p>
                 </details>
                 
                 <details class="bg-white p-6 rounded-lg shadow-sm group">
@@ -1250,7 +1250,7 @@ seoTitle: 'Red Light Therapy Beds vs Panels: Complete Comparison Guide 2026'
                         How often should I use red light therapy?
                         <i class="fas fa-chevron-down text-gray-400"></i>
                     </summary>
-                    <p class="mt-4 text-gray-700">Most research supports 3-5 sessions per week for optimal results. Consistency matters more than session length. Whether using a bed or panel, aim for 10-20 minutes of exposure per treatment area. Results typically appear within 4-8 weeks of consistent use. See our detailed <a href="https://synctherapylocal.local/how-often-red-light-therapy/">frequency guide</a>.</p>
+                    <p class="mt-4 text-gray-700">Most research supports 3-5 sessions per week for optimal results. Consistency matters more than session length. Whether using a bed or panel, aim for 10-20 minutes of exposure per treatment area. Results typically appear within 4-8 weeks of consistent use. See our detailed <a href="https://synctherapylocal.local/at-home-red-light-therapy/">frequency guide</a>.</p>
                 </details>
             </div>
         </section>
@@ -1283,10 +1283,10 @@ seoTitle: 'Red Light Therapy Beds vs Panels: Complete Comparison Guide 2026'
         <section class="bg-primary text-white p-8 rounded-lg shadow-lg">
             <h2 class="text-3xl font-bold mb-4 !text-white !border-accent">Ready to Start Your Red Light Therapy Journey?</h2>
             <p class="text-lg leading-relaxed mb-4">
-                Both beds and panels deliver proven <a href="https://synctherapylocal.local/photobiomodulation-explained/" class="text-accent">photobiomodulation benefits</a>—the same wavelengths stimulating the same cellular responses. Your choice comes down to budget, space, and whether you value convenience over cost savings.
+                Both beds and panels deliver proven <a href="https://synctherapylocal.local/red-light-therapy/" class="text-accent">photobiomodulation benefits</a>—the same wavelengths stimulating the same cellular responses. Your choice comes down to budget, space, and whether you value convenience over cost savings.
             </p>
             <p class="text-lg leading-relaxed mb-6">
-                For most readers, a quality panel setup offers the best value. For high-volume commercial operations, beds provide the throughput to justify their premium. Either way, <a href="https://synctherapylocal.local/how-often-red-light-therapy/" class="text-accent">consistent use</a> is what drives results.
+                For most readers, a quality panel setup offers the best value. For high-volume commercial operations, beds provide the throughput to justify their premium. Either way, <a href="https://synctherapylocal.local/at-home-red-light-therapy/" class="text-accent">consistent use</a> is what drives results.
             </p>
             <div class="flex flex-wrap gap-4">
                 <a href="https://synctherapylocal.local/best-red-light-therapy-panels/" class="affiliate-button">

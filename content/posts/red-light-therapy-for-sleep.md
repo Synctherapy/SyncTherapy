@@ -380,7 +380,7 @@ seoTitle: 'Red Light Therapy for Sleep (2026): Complete Science-Backed Guide'
                     
                     <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded mb-4">
                         <p class="font-semibold text-green-700"><i class="fas fa-check-circle mr-2"></i>Why It's Best for Sleep</p>
-                        <p class="text-gray-700 text-sm">The Rouge G4 Pro covers your entire upper body in one session—targeting face for melatonin production, neck for vagus nerve stimulation, and body for overall relaxation. The same device works for pain, skin health, and <a href="https://synctherapylocal.local/red-light-therapy-for-inflammation/" class="text-primary hover:underline">inflammation</a>.</p>
+                        <p class="text-gray-700 text-sm">The Rouge G4 Pro covers your entire upper body in one session—targeting face for melatonin production, neck for vagus nerve stimulation, and body for overall relaxation. The same device works for pain, skin health, and <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">inflammation</a>.</p>
                     </div>
                     
                     <a href="https://rougecare.ca/?ref=hphwim9l" target="_blank" rel="nofollow sponsored" class="affiliate-button w-full">Get the Rouge G4 Pro <i class="fas fa-arrow-right ml-2"></i></a>
@@ -455,7 +455,7 @@ seoTitle: 'Red Light Therapy for Sleep (2026): Complete Science-Backed Guide'
         <section id="how-it-works">
             <h2><i class="fas fa-cogs text-accent mr-2"></i>How Red Light Therapy Improves Sleep</h2>
             <div class="bg-white p-6 rounded-lg shadow-md">
-                <p class="mb-6"><a href="https://synctherapylocal.local/photobiomodulation-explained/" class="text-primary hover:underline">Red light therapy (photobiomodulation)</a> works through multiple mechanisms to improve sleep quality:</p>
+                <p class="mb-6"><a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">Red light therapy (photobiomodulation)</a> works through multiple mechanisms to improve sleep quality:</p>
                 
                 <div class="grid md:grid-cols-2 gap-6 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-accent">
@@ -468,7 +468,7 @@ seoTitle: 'Red Light Therapy for Sleep (2026): Complete Science-Backed Guide'
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-accent">
                         <h4 class="font-bold text-primary mb-2"><i class="fas fa-fire-alt text-accent mr-2"></i>3. Reduces Inflammation</h4>
-                        <p class="text-sm text-gray-700">Chronic <a href="https://synctherapylocal.local/red-light-therapy-for-inflammation/" class="text-primary hover:underline">inflammation</a> disrupts sleep. NIR wavelengths (810-850nm) penetrate deep tissues to reduce inflammatory cytokines, promoting more restorative sleep.</p>
+                        <p class="text-sm text-gray-700">Chronic <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">inflammation</a> disrupts sleep. NIR wavelengths (810-850nm) penetrate deep tissues to reduce inflammatory cytokines, promoting more restorative sleep.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-accent">
                         <h4 class="font-bold text-primary mb-2"><i class="fas fa-bolt text-accent mr-2"></i>4. Increases Cellular ATP</h4>

@@ -150,7 +150,7 @@ seoTitle: 'GI-MAP Stool Test Canada: 2026 Cost & Review'
             <!-- Why You Can Trust Us -->
             <section id="why-trust-us" class="bg-white p-8 rounded-lg shadow-md">
                 <h2 class="text-2xl font-bold"><i class="fas fa-shield-halved text-accent mr-2"></i>Why You Can Trust Our GI-MAP Analysis</h2>
-                <p class="mb-6 text-gray-600">Our comprehensive understanding of <a href="https://synctherapylocal.local/viome-vs-zoe/"  data-wpil-monitor-id="7895">gut health testing</a> comes from years of clinical experience and staying current with the latest advances in functional medicine and digestive health research.</p>
+                <p class="mb-6 text-gray-600">Our comprehensive understanding of <a href="https://synctherapylocal.local/viome-review/"  data-wpil-monitor-id="7895">gut health testing</a> comes from years of clinical experience and staying current with the latest advances in functional medicine and digestive health research.</p>
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                     <div class="flex items-start space-x-4">
                         <i class="fas fa-award text-primary text-2xl mt-1"></i>

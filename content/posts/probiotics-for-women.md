@@ -471,7 +471,7 @@ seoTitle: Best Probiotics for Women in Canada (2026 Top 7)
                     </div>
                     <div>
                         <h3 class="text-xl font-semibold text-primary"><i class="fas fa-seedling mr-2"></i>Digestive Harmony & IBS</h3>
-                        <p>Probiotics aid digestion, improve nutrient absorption, and can significantly relieve symptoms of Irritable Bowel Syndrome (IBS), which affects women at higher rates than men. If you're wondering <a href="https://synctherapylocal.local/do-probiotics-help-ibs/" class="text-primary hover:underline font-semibold">"do probiotics help IBS?"</a>, the answer is yes. Strains like <em>Lactobacillus plantarum</em> have been shown in studies to decrease constipation severity by 79%, while <em>Saccharomyces boulardii</em> is effective for diarrhea (IBS-D).</p>
+                        <p>Probiotics aid digestion, improve nutrient absorption, and can significantly relieve symptoms of Irritable Bowel Syndrome (IBS), which affects women at higher rates than men. If you're wondering <a href="https://synctherapylocal.local/best-probiotic-supplements-for-ibs/" class="text-primary hover:underline font-semibold">"do probiotics help IBS?"</a>, the answer is yes. Strains like <em>Lactobacillus plantarum</em> have been shown in studies to decrease constipation severity by 79%, while <em>Saccharomyces boulardii</em> is effective for diarrhea (IBS-D).</p>
                     </div>
                     <div>
                         <h3 class="text-xl font-semibold text-primary"><i class="fas fa-shield-alt mr-2"></i>Immune Resilience</h3>
@@ -487,7 +487,7 @@ seoTitle: Best Probiotics for Women in Canada (2026 Top 7)
                     </div>
                      <div>
                         <h3 class="text-xl font-semibold text-primary"><i class="fas fa-weight mr-2"></i>Weight Management</h3>
-                        <p>Looking for the <strong>best probiotics for women weight loss</strong>? While not a magic pill, certain probiotics can support a healthy weight. A notable study found that women taking <em>L. rhamnosus</em> lost 50% more weight over 24 weeks compared to a placebo, likely by influencing appetite-regulating hormones. Learn more about if <a href="https://synctherapylocal.local/can-a-probiotic-help-you-lose-weight/" class="text-primary hover:underline font-semibold">a probiotic can help you lose weight</a> in our detailed guide.</p>
+                        <p>Looking for the <strong>best probiotics for women weight loss</strong>? While not a magic pill, certain probiotics can support a healthy weight. A notable study found that women taking <em>L. rhamnosus</em> lost 50% more weight over 24 weeks compared to a placebo, likely by influencing appetite-regulating hormones. Learn more about if <a href="https://synctherapylocal.local/best-prebiotics-and-probiotics-supplements/" class="text-primary hover:underline font-semibold">a probiotic can help you lose weight</a> in our detailed guide.</p>
                     </div>
                 </div>
             </section>
@@ -516,7 +516,7 @@ seoTitle: Best Probiotics for Women in Canada (2026 Top 7)
                         <i class="fas fa-check-circle text-primary text-xl mt-1 mr-4"></i>
                         <div>
                             <h4 class="text-xl font-semibold text-primary">Look for Clinically-Studied Strains</h4>
-                            <p>Don't settle for generic "Lactobacillus." Look for specific, full strain names on the label, like <em>Lactobacillus rhamnosus GG</em> or <em>Lactobacillus reuteri RC-14®</em>. The strain is what guarantees the benefit. We break down the <a href="https://synctherapylocal.local/best-probiotic-strains/" class="text-primary hover:underline font-semibold">best probiotic strains</a> in another guide.</p>
+                            <p>Don't settle for generic "Lactobacillus." Look for specific, full strain names on the label, like <em>Lactobacillus rhamnosus GG</em> or <em>Lactobacillus reuteri RC-14®</em>. The strain is what guarantees the benefit. We break down the <a href="https://synctherapylocal.local/best-prebiotics-and-probiotics-supplements/" class="text-primary hover:underline font-semibold">best probiotic strains</a> in another guide.</p>
                         </div>
                     </div>
                     <div class="flex items-start">
@@ -552,7 +552,7 @@ seoTitle: Best Probiotics for Women in Canada (2026 Top 7)
                             How long does it take for women's probiotics to work?
                             <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
                         </summary>
-                        <p class="mt-4 text-gray-700">Results vary. Some women notice improvements in digestion and <a href="https://synctherapylocal.local/do-probiotics-help-with-bloating/" class="text-primary hover:underline font-semibold">bloating</a> within a few days. For vaginal health balance or immune benefits, it typically takes 2-4 weeks of consistent daily use to see significant results. Consistency is key.</p>
+                        <p class="mt-4 text-gray-700">Results vary. Some women notice improvements in digestion and <a href="https://synctherapylocal.local/best-prebiotics-and-probiotics-supplements/" class="text-primary hover:underline font-semibold">bloating</a> within a few days. For vaginal health balance or immune benefits, it typically takes 2-4 weeks of consistent daily use to see significant results. Consistency is key.</p>
                     </details>
                     <details class="bg-white p-6 rounded-lg shadow-sm group">
                         <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">

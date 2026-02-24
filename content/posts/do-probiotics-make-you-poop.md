@@ -929,7 +929,7 @@ seoTitle: Do Probiotics Make You Poop? Complete Guide to Digestive Relief 2026
                     </div>
                 </div>
 
-                <p class="mb-6">If you suspect you might have IBS, take our comprehensive <a href="https://synctherapylocal.local/ibs-quiz/" class="text-primary hover:underline">IBS quiz</a> to better understand your symptoms. For more detailed information about how probiotics can help, read our complete guide on <a href="https://synctherapylocal.local/do-probiotics-help-ibs/" class="text-primary hover:underline">whether probiotics help IBS</a>.</p>
+                <p class="mb-6">If you suspect you might have IBS, take our comprehensive <a href="https://synctherapylocal.local/ibs-quiz/" class="text-primary hover:underline">IBS quiz</a> to better understand your symptoms. For more detailed information about how probiotics can help, read our complete guide on <a href="https://synctherapylocal.local/best-probiotic-supplements-for-ibs/" class="text-primary hover:underline">whether probiotics help IBS</a>.</p>
             </section>
 
             <!-- FAQ Section -->
@@ -988,7 +988,7 @@ seoTitle: Do Probiotics Make You Poop? Complete Guide to Digestive Relief 2026
                             Can probiotics help with weight loss while improving bowel movements?
                             <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
                         </summary>
-                        <p class="mt-4 text-gray-700">Research suggests that certain probiotic strains may support healthy weight management while improving digestive function. The improved gut health can enhance metabolism and reduce inflammation. Learn more about <a href="https://synctherapylocal.local/can-a-probiotic-help-you-lose-weight/" class="text-primary hover:underline">how probiotics may help with weight loss</a> through multiple mechanisms.</p>
+                        <p class="mt-4 text-gray-700">Research suggests that certain probiotic strains may support healthy weight management while improving digestive function. The improved gut health can enhance metabolism and reduce inflammation. Learn more about <a href="https://synctherapylocal.local/best-prebiotics-and-probiotics-supplements/" class="text-primary hover:underline">how probiotics may help with weight loss</a> through multiple mechanisms.</p>
                     </details>
                 </div>
             </section>

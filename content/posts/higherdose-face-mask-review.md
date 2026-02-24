@@ -282,13 +282,13 @@ seoTitle: 'HigherDOSE Red Light Face Mask Review: Is It Worth The Price?'
     <main class="space-y-12">
         
         <!-- Intro paragraph - keyword optimized -->
-        <p class="text-lg text-gray-700 leading-relaxed">Looking for an honest <strong>HigherDOSE red light face mask review</strong>? This <strong>HigherDOSE face mask review</strong> (also known as the "Higher Dose face mask") breaks down everything you need to know: clinical trial results, real user experiences, how it compares to competitors, and whether this <strong>HigherDOSE LED mask</strong> is worth $349. We've analyzed <a href="https://synctherapylocal.local/photobiomodulation-explained/" class="text-primary hover:underline font-semibold">photobiomodulation</a> research and hundreds of verified <strong>HigherDOSE face mask reviews</strong> from women and men to give you the complete picture.</p>
+        <p class="text-lg text-gray-700 leading-relaxed">Looking for an honest <strong>HigherDOSE red light face mask review</strong>? This <strong>HigherDOSE face mask review</strong> (also known as the "Higher Dose face mask") breaks down everything you need to know: clinical trial results, real user experiences, how it compares to competitors, and whether this <strong>HigherDOSE LED mask</strong> is worth $349. We've analyzed <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline font-semibold">photobiomodulation</a> research and hundreds of verified <strong>HigherDOSE face mask reviews</strong> from women and men to give you the complete picture.</p>
 
         <!-- Key Takeaways -->
         <section id="key-takeaways" class="bg-blue-50 border-l-4 border-primary p-6 rounded-lg shadow-sm">
             <h2 class="text-2xl font-bold mb-4 !border-none !pl-0"><i class="fas fa-star text-accent mr-2"></i>HigherDOSE Red Light Face Mask Review: Key Takeaways</h2>
             <ul class="space-y-3 list-disc list-inside text-gray-800">
-                <li><strong>Clinical-Grade Wavelengths:</strong> Uses <a href="https://synctherapylocal.local/wavelength-for-red-light/" class="text-primary hover:underline font-semibold">630nm red + 830nm near-infrared</a>—the exact combination proven in peer-reviewed research for collagen production and wrinkle reduction.</li>
+                <li><strong>Clinical-Grade Wavelengths:</strong> Uses <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline font-semibold">630nm red + 830nm near-infrared</a>—the exact combination proven in peer-reviewed research for collagen production and wrinkle reduction.</li>
                 <li><strong>Proven Results:</strong> In HigherDOSE's clinical trial, 93% reported firmer skin and 82% noticed reduced fine lines after 8 weeks of consistent use.</li>
                 <li><strong>Comfort Leader:</strong> Flexible medical-grade silicone + cordless design—unlike rigid competitors, you can move freely during treatment.</li>
                 <li><strong>Best Return Policy:</strong> 120-day money-back guarantee lets you test for nearly 4 months risk-free (competitors offer only 30 days).</li>
@@ -359,7 +359,7 @@ seoTitle: 'HigherDOSE Red Light Face Mask Review: Is It Worth The Price?'
         <section id="what-is">
             <h2><i class="fas fa-question-circle text-accent mr-2"></i>What Is the HigherDOSE Red Light Face Mask?</h2>
             <div class="bg-white p-6 rounded-lg shadow-md">
-                <p class="mb-6">The <strong>HigherDOSE Red Light Face Mask</strong> is an FDA-cleared LED therapy device that delivers red and near-infrared light to your face for <a href="https://synctherapylocal.local/role-of-red-light-therapy-in-anti-aging-studies-and-findings/" class="text-primary hover:underline font-semibold">anti-aging</a>, collagen production, and skin rejuvenation. Unlike full-body <a href="https://synctherapylocal.local/best-red-light-therapy-panels/" class="text-primary hover:underline font-semibold">red light therapy panels</a>, this mask targets your face with concentrated, therapeutic-level light.</p>
+                <p class="mb-6">The <strong>HigherDOSE Red Light Face Mask</strong> is an FDA-cleared LED therapy device that delivers red and near-infrared light to your face for <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline font-semibold">anti-aging</a>, collagen production, and skin rejuvenation. Unlike full-body <a href="https://synctherapylocal.local/best-red-light-therapy-panels/" class="text-primary hover:underline font-semibold">red light therapy panels</a>, this mask targets your face with concentrated, therapeutic-level light.</p>
                 
                 <div class="overflow-x-auto mb-6">
                     <table class="w-full border-collapse bg-gray-50 rounded-lg overflow-hidden">
@@ -395,7 +395,7 @@ seoTitle: 'HigherDOSE Red Light Face Mask Review: Is It Worth The Price?'
                 
                 <div class="bg-blue-50 border-l-4 border-primary p-4 rounded mb-6">
                     <h3 class="text-xl font-bold mb-2">How Red Light Therapy Works</h3>
-                    <p>Red and near-infrared light penetrate skin and are absorbed by mitochondria—your cells' power generators. This triggers increased ATP production, enhanced collagen synthesis, <a href="https://synctherapylocal.local/red-light-therapy-for-inflammation/" class="text-primary hover:underline font-semibold">reduced inflammation</a>, and improved circulation. The result: healthier, more youthful-looking skin over time.</p>
+                    <p>Red and near-infrared light penetrate skin and are absorbed by mitochondria—your cells' power generators. This triggers increased ATP production, enhanced collagen synthesis, <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline font-semibold">reduced inflammation</a>, and improved circulation. The result: healthier, more youthful-looking skin over time.</p>
                 </div>
 
                 <h3 class="text-xl font-bold mb-4">Peer-Reviewed Research</h3>
@@ -624,7 +624,7 @@ seoTitle: 'HigherDOSE Red Light Face Mask Review: Is It Worth The Price?'
                         <div class="space-y-4">
                             <div class="bg-blue-50 p-4 rounded-lg">
                                 <p class="font-semibold text-primary"><i class="fas fa-lightbulb mr-2"></i>Frequency</p>
-                                <p class="text-gray-700 text-sm">Use 4-5x weekly for 10 min OR 3-4x weekly for 20 min. Learn more about <a href="https://synctherapylocal.local/how-often-red-light-therapy/" class="text-primary hover:underline font-semibold">optimal treatment frequency</a>.</p>
+                                <p class="text-gray-700 text-sm">Use 4-5x weekly for 10 min OR 3-4x weekly for 20 min. Learn more about <a href="https://synctherapylocal.local/at-home-red-light-therapy/" class="text-primary hover:underline font-semibold">optimal treatment frequency</a>.</p>
                             </div>
                             <div class="bg-blue-50 p-4 rounded-lg">
                                 <p class="font-semibold text-primary"><i class="fas fa-eye mr-2"></i>Eye Safety</p>
@@ -691,7 +691,7 @@ seoTitle: 'HigherDOSE Red Light Face Mask Review: Is It Worth The Price?'
                 
                 <details class="bg-white p-6 rounded-lg shadow-sm group">
                     <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">How often should I use the HigherDOSE mask?<i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i></summary>
-                    <p class="mt-4 text-gray-700">HigherDOSE recommends <strong>4-5 times weekly for 10 minutes</strong>, or <strong>3-4 times weekly for 20 minutes</strong>. Rest days matter—red light therapy is a beneficial micro-stressor, and cells need recovery time. Read more on <a href="https://synctherapylocal.local/how-often-red-light-therapy/" class="text-primary hover:underline font-semibold">treatment frequency</a>.</p>
+                    <p class="mt-4 text-gray-700">HigherDOSE recommends <strong>4-5 times weekly for 10 minutes</strong>, or <strong>3-4 times weekly for 20 minutes</strong>. Rest days matter—red light therapy is a beneficial micro-stressor, and cells need recovery time. Read more on <a href="https://synctherapylocal.local/at-home-red-light-therapy/" class="text-primary hover:underline font-semibold">treatment frequency</a>.</p>
                 </details>
                 
                 <details class="bg-white p-6 rounded-lg shadow-sm group">
@@ -706,7 +706,7 @@ seoTitle: 'HigherDOSE Red Light Face Mask Review: Is It Worth The Price?'
                 
                 <details class="bg-white p-6 rounded-lg shadow-sm group">
                     <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">What's the difference between HigherDOSE and cheap Amazon masks?<i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i></summary>
-                    <p class="mt-4 text-gray-700">Cheaper masks ($50-150) typically have <strong>lower power output, fewer LEDs, and questionable wavelength accuracy</strong>. Many don't disclose actual specifications. HigherDOSE uses clinically-proven wavelengths at therapeutic power levels (~50 mW/cm²), is FDA-cleared, and uses medical-grade materials. See our guide on <a href="https://synctherapylocal.local/how-to-use-red-light-therapy-at-home/" class="text-primary hover:underline font-semibold">at-home red light therapy</a>.</p>
+                    <p class="mt-4 text-gray-700">Cheaper masks ($50-150) typically have <strong>lower power output, fewer LEDs, and questionable wavelength accuracy</strong>. Many don't disclose actual specifications. HigherDOSE uses clinically-proven wavelengths at therapeutic power levels (~50 mW/cm²), is FDA-cleared, and uses medical-grade materials. See our guide on <a href="https://synctherapylocal.local/at-home-red-light-therapy/" class="text-primary hover:underline font-semibold">at-home red light therapy</a>.</p>
                 </details>
                 
                 <details class="bg-white p-6 rounded-lg shadow-sm group">

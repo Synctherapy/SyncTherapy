@@ -625,7 +625,7 @@ seoTitle: Contact
                                     <a data-wpil="url" href="https://synctherapylocal.local/our-team/" style="color: #86BBD8; font-weight: 500;">expert team</a>
                                     and 
                                     <a href="https://synctherapylocal.local/about/" style="color: #86BBD8; font-weight: 500;">learn more about us</a>
-                                 We provide a comprehensive approach to wellness, ensuring that each client's unique needs are addressed. For a detailed understanding of our offerings, check out our <a href="https://synctherapylocal.local/our-team/athletic-therapist-daryl-stubbs/">athletic therapist services overview</a>, which highlights the benefits of our specialized therapy options. We're committed to helping you achieve your goals and improve your overall quality of life. Our experienced team is also well-versed in providing effective back pain treatment options in Victoria, tailored to meet individual needs. We prioritize creating personalized plans that not only alleviate pain but also enhance mobility and overall well-being. Together, we can work towards a healthier, pain-free future for you.</p>
+                                 We provide a comprehensive approach to wellness, ensuring that each client's unique needs are addressed. For a detailed understanding of our offerings, check out our <a href="https://synctherapylocal.local/our-team/daryl-stubbs/">athletic therapist services overview</a>, which highlights the benefits of our specialized therapy options. We're committed to helping you achieve your goals and improve your overall quality of life. Our experienced team is also well-versed in providing effective back pain treatment options in Victoria, tailored to meet individual needs. We prioritize creating personalized plans that not only alleviate pain but also enhance mobility and overall well-being. Together, we can work towards a healthier, pain-free future for you.</p>
                             </div>
                         </div>
                     </div>
@@ -733,7 +733,7 @@ seoTitle: Contact
                                 <div class="service-dot dot-gold"></div>
                                 <div class="service-content">
                                     <h4>
-                                        <a href="https://synctherapylocal.local/services/athletic-therapy-victoria/">
+                                        <a href="https://synctherapylocal.local/services/athletic-therapy/">
                                             Athletic Therapy
                                         </a>
                                     </h4>
@@ -754,7 +754,7 @@ seoTitle: Contact
                             </div>
 
                             <div style="margin-top: 1rem; text-align: center;">
-                                <a href="https://synctherapylocal.local/about/why-us/" style="color: #86BBD8; font-size: 0.875rem; text-decoration: underline;">
+                                <a href="https://synctherapylocal.local/about/" style="color: #86BBD8; font-size: 0.875rem; text-decoration: underline;">
                                     Learn why clients choose us →
                                 </a>
                             </div>

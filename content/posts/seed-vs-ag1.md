@@ -210,7 +210,7 @@ seoTitle: 'Seed vs AG1 (2026): Which Synbiotic is Better for Your Health?'
                         <p class="text-gray-700">People often turn to these supplements to address specific health concerns. Here’s a quick look at how each product can help:</p>
                         <div class="bg-white p-4 rounded-lg shadow-sm">
                             <h4 class="font-bold text-primary">Digestive Discomfort (Bloating, Irregularity)</h4>
-                            <p class="text-sm text-gray-600"><strong>Seed</strong> excels here with its high-potency, targeted probiotic strains. <strong>AG1</strong> also supports digestion but is less specialized. Find out if <a data-wpil="url" href="https://synctherapylocal.local/do-probiotics-help-with-bloating/" class="text-primary hover:underline font-semibold">probiotics help with bloating</a>.</p>
+                            <p class="text-sm text-gray-600"><strong>Seed</strong> excels here with its high-potency, targeted probiotic strains. <strong>AG1</strong> also supports digestion but is less specialized. Find out if <a data-wpil="url" href="https://synctherapylocal.local/best-prebiotics-and-probiotics-supplements/" class="text-primary hover:underline font-semibold">probiotics help with bloating</a>.</p>
                         </div>
                         <div class="bg-white p-4 rounded-lg shadow-sm">
                             <h4 class="font-bold text-primary">Nutrient Gaps & Low Energy</h4>
@@ -424,7 +424,7 @@ seoTitle: 'Seed vs AG1 (2026): Which Synbiotic is Better for Your Health?'
                             When comparing AG1 vs Seed for bloating, which is better?
                             <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
                         </summary>
-                        <p class="mt-4 text-gray-700">For issues specifically related to bloating and digestion, <strong>Seed</strong> often has an edge due to its highly-targeted, potent blend of 24 probiotic strains and its innovative capsule technology. Its prebiotic is also non-fermenting, which is less likely to cause gas. Learn more about how <a data-wpil="url" href="https://synctherapylocal.local/do-probiotics-help-with-bloating/" class="text-primary hover:underline font-semibold">probiotics can help with bloating</a>.</p>
+                        <p class="mt-4 text-gray-700">For issues specifically related to bloating and digestion, <strong>Seed</strong> often has an edge due to its highly-targeted, potent blend of 24 probiotic strains and its innovative capsule technology. Its prebiotic is also non-fermenting, which is less likely to cause gas. Learn more about how <a data-wpil="url" href="https://synctherapylocal.local/best-prebiotics-and-probiotics-supplements/" class="text-primary hover:underline font-semibold">probiotics can help with bloating</a>.</p>
                     </details>
                     <details class="bg-white p-6 rounded-lg shadow-sm group">
                         <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">

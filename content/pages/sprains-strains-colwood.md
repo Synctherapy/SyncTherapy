@@ -101,7 +101,7 @@ seoTitle: Sprains Strains Colwood
                     <div class="flex justify-center items-center space-x-4 sm:space-x-6 mt-4 flex-wrap">
                         <a data-wpil="url" href="https://synctherapylocal.local/our-team/" class="link-primary">Our Team</a>
                         <span class="text-gray-300">|</span>
-                        <a data-wpil="url" href="https://synctherapylocal.local/about/why-us/" class="link-primary">Why Us</a>
+                        <a data-wpil="url" href="https://synctherapylocal.local/about/" class="link-primary">Why Us</a>
                         <span class="text-gray-300">|</span>
                         <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" href="https://synctherapylocal.local/contact/" class="link-primary">Contact Us</a>
                     </div>

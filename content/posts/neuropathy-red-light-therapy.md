@@ -402,7 +402,7 @@ seoTitle: >-
                     </iframe>
                 </div>
                 <div>
-                    <p class="mb-4"><strong>Red light therapy</strong> (also called <a href="https://synctherapylocal.local/photobiomodulation-explained/" class="text-primary hover:underline">photobiomodulation</a> or low-level light therapy) uses specific <a href="https://synctherapylocal.local/wavelength-for-red-light/" class="text-primary hover:underline">wavelengths of red and near-infrared light</a> to stimulate cellular healing deep within your tissues.</p>
+                    <p class="mb-4"><strong>Red light therapy</strong> (also called <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">photobiomodulation</a> or low-level light therapy) uses specific <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">wavelengths of red and near-infrared light</a> to stimulate cellular healing deep within your tissues.</p>
                     <p class="mb-4">Unlike UV light or heat lamps, these therapeutic wavelengths penetrate through your skin to reach damaged nerves, triggering a cascade of healing responses at the cellular level.</p>
                     <div class="bg-blue-50 p-4 rounded-lg">
                         <p class="font-semibold text-primary mb-2"><i class="fas fa-info-circle mr-2"></i>Key Difference for Neuropathy</p>
@@ -629,7 +629,7 @@ seoTitle: >-
         <section id="how-it-works">
             <h2><i class="fas fa-cogs text-accent mr-2"></i>How Red Light Therapy Works for Neuropathy (The Science)</h2>
             <div class="bg-white p-6 rounded-lg shadow-md">
-                <p class="mb-6">Red light therapy works through a process called <a href="https://synctherapylocal.local/photobiomodulation-explained/" class="text-primary hover:underline">photobiomodulation</a>, which triggers healing responses at the cellular level when specific wavelengths of light interact with your cells.</p>
+                <p class="mb-6">Red light therapy works through a process called <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">photobiomodulation</a>, which triggers healing responses at the cellular level when specific wavelengths of light interact with your cells.</p>
                 
                 <div class="grid md:grid-cols-2 gap-6 mb-6">
                     <div class="bg-blue-50 p-5 rounded-lg">
@@ -642,7 +642,7 @@ seoTitle: >-
                     <div class="bg-green-50 p-5 rounded-lg">
                         <div class="text-2xl text-green-600 mb-2"><i class="fas fa-shield-alt"></i></div>
                         <h3 class="text-lg font-bold mb-2">2. Inflammation Reduction</h3>
-                        <p class="text-gray-700 text-sm"><a href="https://synctherapylocal.local/red-light-therapy-for-inflammation/" class="text-primary hover:underline">Red light therapy reduces inflammation</a> by decreasing pro-inflammatory cytokines (TNF-α, IL-1β) while increasing anti-inflammatory mediators (IL-10). This breaks the cycle of chronic inflammation driving neuropathy.</p>
+                        <p class="text-gray-700 text-sm"><a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">Red light therapy reduces inflammation</a> by decreasing pro-inflammatory cytokines (TNF-α, IL-1β) while increasing anti-inflammatory mediators (IL-10). This breaks the cycle of chronic inflammation driving neuropathy.</p>
                         <p class="text-xs text-gray-500 mt-2">Less inflammation = reduced pain, slower nerve damage</p>
                     </div>
                     
@@ -706,7 +706,7 @@ seoTitle: >-
                     </div>
                 </div>
                 
-                <p class="mt-6 text-sm text-gray-600">Related: <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" href="https://synctherapylocal.local/red-light-therapy-for-fibromyalgia/" class="text-primary hover:underline">Red light therapy also helps fibromyalgia</a>, another chronic pain condition with nerve-related symptoms.</p>
+                <p class="mt-6 text-sm text-gray-600">Related: <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" href="https://synctherapylocal.local/red-light-therapy-for-arthritis/" class="text-primary hover:underline">Red light therapy also helps fibromyalgia</a>, another chronic pain condition with nerve-related symptoms.</p>
             </div>
         </section>
 
@@ -1033,7 +1033,7 @@ seoTitle: >-
                     <li>Track your symptoms in a journal to monitor progress</li>
                 </ul>
                 
-                <p class="mt-4 text-sm text-gray-600">Learn more: <a href="https://synctherapylocal.local/how-to-use-red-light-therapy-at-home/" class="text-primary hover:underline">Complete guide to using red light therapy at home</a></p>
+                <p class="mt-4 text-sm text-gray-600">Learn more: <a href="https://synctherapylocal.local/at-home-red-light-therapy/" class="text-primary hover:underline">Complete guide to using red light therapy at home</a></p>
             </div>
         </section>
 
@@ -1107,7 +1107,7 @@ seoTitle: >-
                     <p class="text-gray-700 text-sm">Most people notice initial improvements within <strong>2-6 weeks</strong> of consistent use. Complete nerve regeneration takes time—expect several months for substantial results. Research shows protocols of at least 12 sessions produce the most consistent therapeutic effects.</p>
                 </div>
                 
-                <p class="mt-4 text-sm text-gray-600">More details: <a href="https://synctherapylocal.local/how-often-red-light-therapy/" class="text-primary hover:underline">How often should you use red light therapy?</a></p>
+                <p class="mt-4 text-sm text-gray-600">More details: <a href="https://synctherapylocal.local/at-home-red-light-therapy/" class="text-primary hover:underline">How often should you use red light therapy?</a></p>
             </div>
         </section>
 
@@ -1115,7 +1115,7 @@ seoTitle: >-
         <section id="wavelengths">
             <h2><i class="fas fa-wave-square text-accent mr-2"></i>Best Wavelengths for Neuropathy Treatment</h2>
             <div class="bg-white p-6 rounded-lg shadow-md">
-                <p class="mb-6">Not all red light is created equal. For effective neuropathy treatment, you need specific <a href="https://synctherapylocal.local/wavelength-for-red-light/" class="text-primary hover:underline">wavelengths that penetrate to the proper depth</a>.</p>
+                <p class="mb-6">Not all red light is created equal. For effective neuropathy treatment, you need specific <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">wavelengths that penetrate to the proper depth</a>.</p>
 
                 <div class="grid md:grid-cols-2 gap-6 mb-6">
                     <div class="bg-red-50 p-5 rounded-lg border-l-4 border-red-500">

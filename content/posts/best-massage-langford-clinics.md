@@ -86,7 +86,7 @@ seoTitle: >-
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://synctherapylocal.local/services/direct-billing-massage/">Sync Massage Therapy offers direct billing</a> to most major insurance companies.</p>
+<p><a href="https://synctherapylocal.local/direct-billing/">Sync Massage Therapy offers direct billing</a> to most major insurance companies.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

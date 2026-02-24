@@ -490,11 +490,11 @@ seoTitle: Our RMT
                                 <ul class="list-none">
                                     <li class="list-item">
                                         <div class="list-dot dot-secondary"></div>
-                                        <a wpil="url" old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYQ==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9zZXJ2aWNlcy9kZWVwLXRpc3N1ZS1tYXNzYWdlLXZpY3Rvcmlh" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9zZXJ2aWNlcy9kZWVwLXRpc3N1ZS1tYXNzYWdlLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9zZXJ2aWNlcy9kZWVwLXRpc3N1ZS1tYXNzYWdlLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYQ==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" href="https://synctherapylocal.local/services/deep-tissue-massage-victoria/">Deep Tissue Massage</a>
+                                        <a wpil="url" old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYQ==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9zZXJ2aWNlcy9kZWVwLXRpc3N1ZS1tYXNzYWdlLXZpY3Rvcmlh" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9zZXJ2aWNlcy9kZWVwLXRpc3N1ZS1tYXNzYWdlLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9zZXJ2aWNlcy9kZWVwLXRpc3N1ZS1tYXNzYWdlLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYQ==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" href="https://synctherapylocal.local/services/deep-tissue-massage/">Deep Tissue Massage</a>
                                     </li>
                                     <li class="list-item">
                                         <div class="list-dot dot-secondary"></div>
-                                        <a href="https://synctherapylocal.local/services/sports-massage-therapy/">Sports Massage</a>
+                                        <a href="https://synctherapylocal.local/services/sports-massage/">Sports Massage</a>
                                     </li>
                                     <li class="list-item">
                                         <div class="list-dot dot-secondary"></div>
@@ -502,7 +502,7 @@ seoTitle: Our RMT
                                     </li>
                                     <li class="list-item">
                                         <div class="list-dot dot-secondary"></div>
-                                        <a href="https://synctherapylocal.local/conditions/sports-injury-prevention-victoria/">Injury Rehabilitation</a>
+                                        <a href="https://synctherapylocal.local/conditions/sports-injuries-and-prevention/">Injury Rehabilitation</a>
                                     </li>
                                 </ul>
                             </div>
@@ -511,7 +511,7 @@ seoTitle: Our RMT
                                 <ul class="list-none">
                                     <li class="list-item">
                                         <div class="list-dot dot-secondary"></div>
-                                        <a href="https://synctherapylocal.local/conditions/sports-injury-prevention-victoria/">Sports Injuries</a>
+                                        <a href="https://synctherapylocal.local/conditions/sports-injuries-and-prevention/">Sports Injuries</a>
                                     </li>
                                     <li class="list-item">
                                         <div class="list-dot dot-secondary"></div>
@@ -585,7 +585,7 @@ seoTitle: Our RMT
                         <div class="highlight-box highlight-accent">
                             <p style="color: #4b5563;">
                                 <strong>Professional Development:</strong> Daryl is committed to staying current with the latest massage therapy techniques and research. He regularly attends continuing education courses and workshops to ensure his clients receive the most effective, evidence-based treatments available.
-                             In addition to enhancing his skill set, Daryl also strives to make his services more accessible to clients by offering <a href="https://synctherapylocal.local/services/direct-billing-massage/">massage direct billing options</a>. This convenience allows clients to focus on their health and wellness without the added stress of financial logistics. By combining ongoing education with flexible payment solutions, he fosters a supportive environment for all individuals seeking effective massage therapy.</p>
+                             In addition to enhancing his skill set, Daryl also strives to make his services more accessible to clients by offering <a href="https://synctherapylocal.local/direct-billing/">massage direct billing options</a>. This convenience allows clients to focus on their health and wellness without the added stress of financial logistics. By combining ongoing education with flexible payment solutions, he fosters a supportive environment for all individuals seeking effective massage therapy.</p>
                         </div>
                     </div>
                 </div>

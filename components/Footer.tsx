@@ -37,8 +37,8 @@ const footerNavigation = {
     ],
     legal: [
         { name: "Privacy Policy", href: "/privacy-policy/" },
-        { name: "Terms", href: "/terms/" },
-        { name: "Sitemap", href: "/sitemap/" },
+        { name: "Terms", href: "/terms-of-service/" },
+        { name: "Sitemap", href: "/html-sitemap/" },
     ],
     social: [
         {

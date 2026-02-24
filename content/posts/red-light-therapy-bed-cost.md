@@ -318,7 +318,7 @@ seoTitle: 'Red Light Therapy Bed Cost: Complete Pricing Guide [2026]'
                         <tr class="comparison-row border-t">
                             <td class="p-4 font-medium">TheraLight 360</td>
                             <td class="p-4 text-primary font-bold">$85,000</td>
-                            <td class="p-4">4 wavelengths (633, 810, 850, 940nm), <a class="wpil_keyword_link" href="https://synctherapylocal.local/pemf-therapy/"   title="PEMF" data-wpil-keyword-link="linked"  data-wpil-monitor-id="7963">PEMF</a> option</td>
+                            <td class="p-4">4 wavelengths (633, 810, 850, 940nm), <a class="wpil_keyword_link" href="https://synctherapylocal.local/best-pemf-mats/"   title="PEMF" data-wpil-keyword-link="linked"  data-wpil-monitor-id="7963">PEMF</a> option</td>
                             <td class="p-4">Wellness centers, chiropractors</td>
                         </tr>
                         <tr class="comparison-row border-t">
@@ -332,7 +332,7 @@ seoTitle: 'Red Light Therapy Bed Cost: Complete Pricing Guide [2026]'
             </div>
 
             <div class="bg-blue-50 border-l-4 border-primary p-4 mb-6 rounded-r-lg">
-                <p class="text-sm"><strong><i class="fas fa-info-circle mr-1"></i>Why NovoTHOR costs $130,000+:</strong> It's the only red light bed with extensive published clinical research, FDA Class II medical device clearance, and is used by NFL, MLB, NBA, and UFC teams. The price reflects R&D investment and USA manufacturing. <a href="https://synctherapylocal.local/photobiomodulation-explained/" class="text-primary hover:underline font-semibold">Learn how photobiomodulation works →</a></p>
+                <p class="text-sm"><strong><i class="fas fa-info-circle mr-1"></i>Why NovoTHOR costs $130,000+:</strong> It's the only red light bed with extensive published clinical research, FDA Class II medical device clearance, and is used by NFL, MLB, NBA, and UFC teams. The price reflects R&D investment and USA manufacturing. <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline font-semibold">Learn how photobiomodulation works →</a></p>
             </div>
 
             <!-- Mid-Range Tier -->
@@ -468,7 +468,7 @@ seoTitle: 'Red Light Therapy Bed Cost: Complete Pricing Guide [2026]'
             </div>
 
             <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded-r-lg">
-                <p class="text-sm"><strong><i class="fas fa-exclamation-triangle mr-1"></i>Important:</strong> Many "home beds" under $7,000 are actually retrofitted tanning beds with red LED strips. These lack therapeutic irradiance and proper <a href="https://synctherapylocal.local/wavelength-for-red-light/" class="text-yellow-700 hover:underline font-semibold">wavelengths</a>. Always verify: Does it include 810-850nm near-infrared? What's the irradiance (mW/cm²)? Is there third-party testing? See my <a href="https://synctherapylocal.local/red-light-therapy-beds-vs-panels/" class="text-yellow-700 hover:underline font-semibold">beds vs panels comparison</a> for alternatives.</p>
+                <p class="text-sm"><strong><i class="fas fa-exclamation-triangle mr-1"></i>Important:</strong> Many "home beds" under $7,000 are actually retrofitted tanning beds with red LED strips. These lack therapeutic irradiance and proper <a href="https://synctherapylocal.local/red-light-therapy/" class="text-yellow-700 hover:underline font-semibold">wavelengths</a>. Always verify: Does it include 810-850nm near-infrared? What's the irradiance (mW/cm²)? Is there third-party testing? See my <a href="https://synctherapylocal.local/red-light-therapy-beds-vs-panels/" class="text-yellow-700 hover:underline font-semibold">beds vs panels comparison</a> for alternatives.</p>
             </div>
         </section>
 
@@ -553,7 +553,7 @@ seoTitle: 'Red Light Therapy Bed Cost: Complete Pricing Guide [2026]'
                 </div>
             </div>
 
-            <p class="text-sm text-gray-600">For guidance on treatment frequency, see <a href="https://synctherapylocal.local/how-often-red-light-therapy/" class="text-primary hover:underline font-semibold">how often should you do red light therapy</a>.</p>
+            <p class="text-sm text-gray-600">For guidance on treatment frequency, see <a href="https://synctherapylocal.local/at-home-red-light-therapy/" class="text-primary hover:underline font-semibold">how often should you do red light therapy</a>.</p>
         </section>
 
         <!-- Why So Expensive Section -->
@@ -581,7 +581,7 @@ seoTitle: 'Red Light Therapy Bed Cost: Complete Pricing Guide [2026]'
                 
                 <div class="bg-white rounded-xl shadow-sm p-5">
                     <h3 class="text-lg font-semibold text-primary mb-2"><i class="fas fa-wave-square text-accent mr-2"></i>2. Wavelength Precision</h3>
-                    <p class="text-sm text-gray-600">Therapeutic wavelengths (630nm, 660nm, 810nm, 850nm) must be precisely calibrated. Premium beds use binned LEDs with tight tolerances. <a href="https://synctherapylocal.local/wavelength-for-red-light/" class="text-primary hover:underline font-semibold">Wavelength matters for different conditions</a>.</p>
+                    <p class="text-sm text-gray-600">Therapeutic wavelengths (630nm, 660nm, 810nm, 850nm) must be precisely calibrated. Premium beds use binned LEDs with tight tolerances. <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline font-semibold">Wavelength matters for different conditions</a>.</p>
                 </div>
                 
                 <div class="bg-white rounded-xl shadow-sm p-5">
@@ -925,7 +925,7 @@ seoTitle: 'Red Light Therapy Bed Cost: Complete Pricing Guide [2026]'
         <section id="final-recommendation" class="bg-primary text-white p-8 rounded-lg shadow-lg">
             <h2 class="text-3xl font-bold mb-4 !text-white !border-accent !mt-0"><i class="fas fa-thumbs-up mr-2"></i>My Recommendation: Where to Start</h2>
             <div class="space-y-4 text-blue-100">
-                <p><strong class="text-white"><i class="fas fa-home mr-2"></i>For Home Users:</strong> Start with a quality panel ($500-$1,500) from <a href="https://synctherapylocal.local/rouge-red-light-therapy-reviews/" class="text-accent hover:underline font-semibold">Rouge</a>, <a href="https://synctherapylocal.local/mito-red-light-therapy-review/" class="text-accent hover:underline font-semibold">Mito Red</a>, or <a href="https://synctherapylocal.local/platinum-led-therapy-lights-review/" class="text-accent hover:underline font-semibold">PlatinumLED</a>. Same therapeutic wavelengths as beds at 5% of the cost. <a href="https://synctherapylocal.local/how-to-use-red-light-therapy-at-home/" class="text-accent hover:underline font-semibold">See my home setup guide</a>. Additionally, these panels offer flexibility for users to integrate red light therapy into their daily routines conveniently. For those considering different options, an <a href="https://synctherapylocal.local/kala-red-light-therapy-review/">honest kala red light therapy review</a> can provide valuable insights into the effectiveness and features of various devices on the market. Taking the time to research can ensure you select a panel that best suits your needs and lifestyle. Additionally, for those seeking an in-depth evaluation, the <a href="https://synctherapylocal.local/infraredi-vs-kala/">infraredi red light panel review</a> offers comprehensive analysis and user experiences to help potential buyers make informed decisions. This resource highlights the advantages and drawbacks of various red light therapy options, ensuring that users find a product that aligns with their wellness goals. Investing time in such reviews can enhance your understanding of the technology and its benefits, ultimately leading to a more satisfying purchase.</p>
+                <p><strong class="text-white"><i class="fas fa-home mr-2"></i>For Home Users:</strong> Start with a quality panel ($500-$1,500) from <a href="https://synctherapylocal.local/rouge-red-light-therapy-reviews/" class="text-accent hover:underline font-semibold">Rouge</a>, <a href="https://synctherapylocal.local/mito-red-light-therapy-review/" class="text-accent hover:underline font-semibold">Mito Red</a>, or <a href="https://synctherapylocal.local/platinum-led-therapy-lights-review/" class="text-accent hover:underline font-semibold">PlatinumLED</a>. Same therapeutic wavelengths as beds at 5% of the cost. <a href="https://synctherapylocal.local/at-home-red-light-therapy/" class="text-accent hover:underline font-semibold">See my home setup guide</a>. Additionally, these panels offer flexibility for users to integrate red light therapy into their daily routines conveniently. For those considering different options, an <a href="https://synctherapylocal.local/kala-red-light-therapy-review/">honest kala red light therapy review</a> can provide valuable insights into the effectiveness and features of various devices on the market. Taking the time to research can ensure you select a panel that best suits your needs and lifestyle. Additionally, for those seeking an in-depth evaluation, the <a href="https://synctherapylocal.local/infraredi-vs-kala/">infraredi red light panel review</a> offers comprehensive analysis and user experiences to help potential buyers make informed decisions. This resource highlights the advantages and drawbacks of various red light therapy options, ensuring that users find a product that aligns with their wellness goals. Investing time in such reviews can enhance your understanding of the technology and its benefits, ultimately leading to a more satisfying purchase.</p>
                 
                 <p><strong class="text-white"><i class="fas fa-store mr-2"></i>For New Clinics:</strong> Test market demand with the <a href="https://synctherapylocal.local/mito-red-light-therapy-review/" class="text-accent hover:underline font-semibold">Mito Red MitoRecharge</a> ($23,000) or panel setup first. Upgrade to premium beds once you've proven ROI.</p>
                 

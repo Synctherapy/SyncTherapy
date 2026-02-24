@@ -626,7 +626,7 @@ seoTitle: 2026 Red Light Therapy Cost Pricing Guide for Sessions &amp; Devices
                 <div class="grid md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-green-50 p-4 rounded-lg">
                         <p class="font-semibold text-green-700"><i class="fas fa-check mr-2"></i>Pain & Inflammation</p>
-                        <p class="text-sm text-gray-700">Multiple studies show significant reduction in <a href="https://synctherapylocal.local/red-light-therapy-for-inflammation/" class="text-primary hover:underline">inflammation</a> and chronic pain conditions.</p>
+                        <p class="text-sm text-gray-700">Multiple studies show significant reduction in <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">inflammation</a> and chronic pain conditions.</p>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
                         <p class="font-semibold text-green-700"><i class="fas fa-check mr-2"></i>Skin Health</p>

@@ -830,7 +830,7 @@
     "permanent": true
   },
   {
-    "source": "/seed-probiotics-reviews/⁠",
+    "source": "/seed-probiotics-reviews/\u2060",
     "destination": "/seed-probiotics-reviews/",
     "permanent": true
   },
@@ -1360,11 +1360,6 @@
     "permanent": true
   },
   {
-    "source": "/red-light-therapy-beds-vs-panels/",
-    "destination": "/best-red-light-therapy-panels/",
-    "permanent": true
-  },
-  {
     "source": "/best-mental-health-quotes/",
     "destination": "/",
     "permanent": true
@@ -1562,11 +1557,6 @@
   {
     "source": "/services/deep-tissue-massage-victoria/",
     "destination": "/services/deep-tissue-massage/",
-    "permanent": true
-  },
-  {
-    "source": "/wp-login.php",
-    "destination": "/",
     "permanent": true
   }
 ]

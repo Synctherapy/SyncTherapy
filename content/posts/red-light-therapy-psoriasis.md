@@ -280,7 +280,7 @@ seoTitle: 'Red Light Therapy For Psoriasis: How To Use It In 2026'
     <main class="space-y-12">
         
         <!-- Intro paragraph - keyword optimized -->
-        <p class="text-lg text-gray-700 leading-relaxed">If you're searching for answers about <strong>red light therapy for psoriasis</strong>, you're not alone. As a Registered Massage Therapist and Certified Athletic Therapist who works with clients dealing with inflammatory skin conditions, I've spent years researching <a href="https://synctherapylocal.local/photobiomodulation-explained/" class="text-primary hover:underline font-semibold">photobiomodulation</a> and its applications. The question I hear most often: <strong>does red light therapy help psoriasis?</strong> The short answer is yes—and the clinical evidence is stronger than most people realize. In this comprehensive guide, I'll walk you through what the research actually shows, share realistic expectations for <strong>red light therapy psoriasis before and after</strong> results, and help you choose the right device for your needs.</p>
+        <p class="text-lg text-gray-700 leading-relaxed">If you're searching for answers about <strong>red light therapy for psoriasis</strong>, you're not alone. As a Registered Massage Therapist and Certified Athletic Therapist who works with clients dealing with inflammatory skin conditions, I've spent years researching <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline font-semibold">photobiomodulation</a> and its applications. The question I hear most often: <strong>does red light therapy help psoriasis?</strong> The short answer is yes—and the clinical evidence is stronger than most people realize. In this comprehensive guide, I'll walk you through what the research actually shows, share realistic expectations for <strong>red light therapy psoriasis before and after</strong> results, and help you choose the right device for your needs.</p>
 
         <!-- Key Takeaways -->
         <section id="key-takeaways" class="bg-blue-50 border-l-4 border-primary p-6 rounded-lg shadow-sm">
@@ -289,7 +289,7 @@ seoTitle: 'Red Light Therapy For Psoriasis: How To Use It In 2026'
                 <li><strong>Clinical Evidence:</strong> Studies show <strong>60-100% clearance rates</strong> in psoriasis patients using combination red (633nm) and near-infrared (830nm) LED therapy over 4-5 weeks.</li>
                 <li><strong>How It Works:</strong> Red light reduces inflammation, promotes cellular repair, and helps regulate the overactive immune response that causes psoriasis—without UV exposure risks.</li>
                 <li><strong>Safe Alternative:</strong> Unlike UV phototherapy, red light therapy doesn't increase skin cancer risk or cause DNA damage to skin cells.</li>
-                <li><strong>Best Wavelengths:</strong> Research supports <a href="https://synctherapylocal.local/wavelength-for-red-light/" class="text-primary hover:underline font-semibold">630-660nm (red) combined with 830-850nm (near-infrared)</a> for optimal results.</li>
+                <li><strong>Best Wavelengths:</strong> Research supports <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline font-semibold">630-660nm (red) combined with 830-850nm (near-infrared)</a> for optimal results.</li>
                 <li><strong>Treatment Timeline:</strong> Expect initial improvements in 3-4 weeks, with significant results by weeks 6-8 with consistent daily use.</li>
             </ul>
         </section>
@@ -378,7 +378,7 @@ seoTitle: 'Red Light Therapy For Psoriasis: How To Use It In 2026'
                     </ul>
                 </div>
 
-                <p>For a deeper dive into the cellular mechanisms, check out my article on <a href="https://synctherapylocal.local/red-light-therapy-for-inflammation/" class="text-primary hover:underline font-semibold">red light therapy for inflammation</a>.</p>
+                <p>For a deeper dive into the cellular mechanisms, check out my article on <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline font-semibold">red light therapy for inflammation</a>.</p>
             </div>
         </section>
 
@@ -893,7 +893,7 @@ seoTitle: 'Red Light Therapy For Psoriasis: How To Use It In 2026'
                                 <p class="text-gray-700">Sporadic use won't produce results. Commit to regular sessions for at least 8 weeks before evaluating effectiveness.</p>
                             </div>
                         </div>
-                        <p class="mt-4 text-sm">For more detailed guidance, see my article on <a href="https://synctherapylocal.local/how-often-red-light-therapy/" class="text-primary hover:underline font-semibold">how often to do red light therapy</a>.</p>
+                        <p class="mt-4 text-sm">For more detailed guidance, see my article on <a href="https://synctherapylocal.local/at-home-red-light-therapy/" class="text-primary hover:underline font-semibold">how often to do red light therapy</a>.</p>
                     </div>
                 </div>
             </div>
@@ -956,7 +956,7 @@ seoTitle: 'Red Light Therapy For Psoriasis: How To Use It In 2026'
                 
                 <details class="bg-white p-6 rounded-lg shadow-sm group">
                     <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">How often should you do red light therapy for psoriasis?<i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i></summary>
-                    <p class="mt-4 text-gray-700">During the initial 8-week phase, <strong>daily or every-other-day sessions of 10-20 minutes</strong> produce the best results. Once you see improvement, reduce to 3-4 times weekly for maintenance. Consistency matters more than session length. Learn more about <a href="https://synctherapylocal.local/how-often-red-light-therapy/" class="text-primary hover:underline">optimal treatment frequency</a>.</p>
+                    <p class="mt-4 text-gray-700">During the initial 8-week phase, <strong>daily or every-other-day sessions of 10-20 minutes</strong> produce the best results. Once you see improvement, reduce to 3-4 times weekly for maintenance. Consistency matters more than session length. Learn more about <a href="https://synctherapylocal.local/at-home-red-light-therapy/" class="text-primary hover:underline">optimal treatment frequency</a>.</p>
                 </details>
                 
                 <details class="bg-white p-6 rounded-lg shadow-sm group">
@@ -1008,7 +1008,7 @@ seoTitle: 'Red Light Therapy For Psoriasis: How To Use It In 2026'
             
             <p class="text-lg leading-relaxed mb-6 opacity-90">If you're ready to explore red light therapy further, start with my <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" href="https://synctherapylocal.local/red-light-therapy/" class="text-accent hover:underline font-semibold">comprehensive guide to red light therapy</a> for more details on how this treatment works across various conditions.</p>
             
-            <p class="text-center italic opacity-75">Have questions about red light therapy for psoriasis? Feel free to reach out—I'm happy to help guide you toward finding relief. In addition to its effectiveness for psoriasis, many people are discovering <a href="https://synctherapylocal.local/red-light-therapy-for-cold-sore/">red light therapy benefits for cold sores</a> as well. This treatment can reduce healing time and alleviate discomfort associated with outbreaks. If you're curious about how it works or would like more information on its applications, I'm here to assist you. In addition to its benefits for psoriasis and cold sores, many patients are also exploring the <a href="https://synctherapylocal.local/red-light-therapy-and-wound-healing-clinical-evidence/">red light therapy benefits for healing</a> various skin conditions, including acne and eczema. This innovative therapy works by stimulating cellular repair and reducing inflammation, leading to faster recovery times. With continued research and positive testimonials, red light therapy is becoming a popular option for those seeking effective solutions for their skin concerns.</p>
+            <p class="text-center italic opacity-75">Have questions about red light therapy for psoriasis? Feel free to reach out—I'm happy to help guide you toward finding relief. In addition to its effectiveness for psoriasis, many people are discovering <a href="https://synctherapylocal.local/red-light-therapy-for-cold-sore/">red light therapy benefits for cold sores</a> as well. This treatment can reduce healing time and alleviate discomfort associated with outbreaks. If you're curious about how it works or would like more information on its applications, I'm here to assist you. In addition to its benefits for psoriasis and cold sores, many patients are also exploring the <a href="https://synctherapylocal.local/red-light-therapy/">red light therapy benefits for healing</a> various skin conditions, including acne and eczema. This innovative therapy works by stimulating cellular repair and reducing inflammation, leading to faster recovery times. With continued research and positive testimonials, red light therapy is becoming a popular option for those seeking effective solutions for their skin concerns.</p>
         </section>
 
         <!-- Sources -->
@@ -1036,7 +1036,7 @@ seoTitle: 'Red Light Therapy For Psoriasis: How To Use It In 2026'
                     <p class="font-semibold text-primary">Kala Red Light Therapy Review</p>
                     <p class="text-sm text-gray-600">In-depth review of my recommended panels</p>
                 </a>
-                <a href="https://synctherapylocal.local/red-light-therapy-for-inflammation/" class="bg-white p-4 rounded-lg shadow-sm hover:shadow-md transition block">
+                <a href="https://synctherapylocal.local/red-light-therapy/" class="bg-white p-4 rounded-lg shadow-sm hover:shadow-md transition block">
                     <p class="font-semibold text-primary">Red Light for Inflammation</p>
                     <p class="text-sm text-gray-600">Understanding the anti-inflammatory mechanisms</p>
                 </a>

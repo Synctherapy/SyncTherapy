@@ -362,7 +362,7 @@ seoTitle: 'Best Probiotics for Men (2026): Gut & Testosterone'
                                 <li><strong>3-in-1 Formula:</strong> Combines prebiotics, probiotics, and a postbiotic for comprehensive gut support.</li>
                                 <li><strong>Clinically-Studied Strains:</strong> Features LGG® and BB-12®, two of the world's most studied strains for men's digestive health.</li>
                                 <li><strong>Clean Ingredients:</strong> Vegan, non-GMO, and free of major allergens and artificial colors.</li>
-                                <li><strong>Targeted Relief:</strong> Helps relieve mild and occasional <a href="https://synctherapylocal.local/do-probiotics-help-with-bloating/" class="text-primary hover:underline font-semibold">bloating</a>, gas, and diarrhea.</li>
+                                <li><strong>Targeted Relief:</strong> Helps relieve mild and occasional <a href="https://synctherapylocal.local/best-prebiotics-and-probiotics-supplements/" class="text-primary hover:underline font-semibold">bloating</a>, gas, and diarrhea.</li>
                             </ul>
                             <a href="https://ritual.sjv.io/AWmP2D" target="_blank" class="affiliate-button w-full">Check Latest Price on Ritual <i class="fas fa-arrow-right ml-2"></i></a>
                             <p class="text-center text-sm mt-2 text-gray-500">Price: ~$76 CAD (Ships to Canada)</p>
@@ -549,7 +549,7 @@ seoTitle: 'Best Probiotics for Men (2026): Gut & Testosterone'
                         <i class="fas fa-leaf text-primary text-2xl mr-4 mt-1"></i>
                         <div>
                             <h4 class="text-xl font-semibold text-primary">Digestive & Gut Health</h4>
-                            <p>The primary benefit of probiotics for men is supporting digestive health. They help maintain a healthy balance of gut bacteria, which can alleviate common issues like bloating, gas, and constipation, especially for those with <a href="https://synctherapylocal.local/do-probiotics-help-ibs/" class="text-primary hover:underline font-semibold">IBS</a>. A meta-analysis of 42 trials found that co-administering probiotics cut the risk of antibiotic-associated diarrhea by 37% in adults (<a href="https://pubmed.ncbi.nlm.nih.gov/34385227/" target="_blank" class="text-primary hover:underline">Study</a>).</p>
+                            <p>The primary benefit of probiotics for men is supporting digestive health. They help maintain a healthy balance of gut bacteria, which can alleviate common issues like bloating, gas, and constipation, especially for those with <a href="https://synctherapylocal.local/best-probiotic-supplements-for-ibs/" class="text-primary hover:underline font-semibold">IBS</a>. A meta-analysis of 42 trials found that co-administering probiotics cut the risk of antibiotic-associated diarrhea by 37% in adults (<a href="https://pubmed.ncbi.nlm.nih.gov/34385227/" target="_blank" class="text-primary hover:underline">Study</a>).</p>
                         </div>
                     </div>
                      <div class="flex items-start">
@@ -570,7 +570,7 @@ seoTitle: 'Best Probiotics for Men (2026): Gut & Testosterone'
                         <i class="fas fa-heartbeat text-primary text-2xl mr-4 mt-1"></i>
                         <div>
                             <h4 class="text-xl font-semibold text-primary">Cardiometabolic Health & Weight Management</h4>
-                            <p>An unbalanced gut can affect metabolism and heart health markers. A 2024 meta-analysis linked synbiotic supplements to reduced BMI and fasting blood glucose (<a href="https://pubmed.ncbi.nlm.nih.gov/38260154/" target="_blank" class="text-primary hover:underline">Study</a>). Other studies have shown certain probiotics can lower LDL cholesterol (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4155708/" target="_blank" class="text-primary hover:underline">Study</a>), which can also support healthy <a href="https://synctherapylocal.local/can-a-probiotic-help-you-lose-weight/" class="text-primary hover:underline font-semibold">weight loss goals</a>.</p>
+                            <p>An unbalanced gut can affect metabolism and heart health markers. A 2024 meta-analysis linked synbiotic supplements to reduced BMI and fasting blood glucose (<a href="https://pubmed.ncbi.nlm.nih.gov/38260154/" target="_blank" class="text-primary hover:underline">Study</a>). Other studies have shown certain probiotics can lower LDL cholesterol (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4155708/" target="_blank" class="text-primary hover:underline">Study</a>), which can also support healthy <a href="https://synctherapylocal.local/best-prebiotics-and-probiotics-supplements/" class="text-primary hover:underline font-semibold">weight loss goals</a>.</p>
                         </div>
                     </div>
                      <div class="flex items-start">
@@ -624,7 +624,7 @@ seoTitle: 'Best Probiotics for Men (2026): Gut & Testosterone'
                         <i class="fas fa-check-circle text-primary text-xl mt-1 mr-4"></i>
                         <div>
                             <h4 class="text-xl font-semibold text-primary">Clinically-Studied Strains for Men</h4>
-                            <p>Don't just look at the CFU count. Look for supplements that use specific <a href="https://synctherapylocal.local/best-probiotic-strains/" class="text-primary hover:underline font-semibold">probiotic strains</a> (e.g., L. acidophilus, B. lactis, L. reuteri) that are researched and proven effective for men's health goals like digestion, testosterone, or prostate health.</p>
+                            <p>Don't just look at the CFU count. Look for supplements that use specific <a href="https://synctherapylocal.local/best-prebiotics-and-probiotics-supplements/" class="text-primary hover:underline font-semibold">probiotic strains</a> (e.g., L. acidophilus, B. lactis, L. reuteri) that are researched and proven effective for men's health goals like digestion, testosterone, or prostate health.</p>
                         </div>
                     </div>
                     <div class="flex items-start">

@@ -243,7 +243,7 @@ seoTitle: Red Light Therapy for Eyesight &amp; AMD (2026 Safety Guide)
                     <li><strong>Vision Improvement:</strong> <strong>Red light therapy for vision improvement</strong> shows FDA-authorized results for dry AMD, with clinical trials demonstrating improved visual acuity and reduced disease progression.</li>
                     <li><strong>Dry Eyes at Home:</strong> <strong>Red light therapy for dry eyes at home</strong> provides relief from meibomian gland dysfunction with emerging clinical evidence supporting its effectiveness.</li>
                     <li><strong>Aging Eyes Support:</strong> <strong>Red light therapy for aging eyes</strong> may enhance color contrast sensitivity and support mitochondrial function in people over 40.</li>
-                    <li><strong>Optimal Wavelength:</strong> 660-670nm <a href="https://synctherapylocal.local/wavelength-for-red-light/" class="text-primary hover:underline font-semibold">red light wavelengths</a> show the strongest evidence for eye health benefits and eyesight improvement.</li>
+                    <li><strong>Optimal Wavelength:</strong> 660-670nm <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline font-semibold">red light wavelengths</a> show the strongest evidence for eye health benefits and eyesight improvement.</li>
                     <li><strong>Safety First:</strong> Recent 2025 studies reveal potential risks with prolonged exposure—professional guidance is essential for therapeutic use of <strong>red light therapy on eyes</strong>.</li>
                 </ul>
             </section>
@@ -382,7 +382,7 @@ seoTitle: Red Light Therapy for Eyesight &amp; AMD (2026 Safety Guide)
                 <div class="bg-blue-50 p-6 rounded-lg mb-6">
                     <ul class="space-y-3 list-disc list-inside text-gray-800">
                         <li><strong>Warming meibomian glands:</strong> Low-level heat from red light helps liquefy thickened oils in blocked glands</li>
-                        <li><strong>Reducing inflammation:</strong> <a href="https://synctherapylocal.local/red-light-therapy-for-inflammation/" class="text-primary hover:underline font-semibold">Anti-inflammatory effects</a> calm irritated eyelid tissues</li>
+                        <li><strong>Reducing inflammation:</strong> <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline font-semibold">Anti-inflammatory effects</a> calm irritated eyelid tissues</li>
                         <li><strong>Improving circulation:</strong> Enhanced blood flow brings nutrients to glands and removes inflammatory debris</li>
                         <li><strong>Supporting tear production:</strong> Better gland function means more stable, longer-lasting tear film</li>
                     </ul>
@@ -524,7 +524,7 @@ seoTitle: Red Light Therapy for Eyesight &amp; AMD (2026 Safety Guide)
                     
                     <p class="mb-4 text-gray-700">Low-level light therapy shows promise for dry eye disease, particularly related to meibomian gland dysfunction (MGD)—blocked oil glands in the eyelids that cause tear film instability.</p>
 
-                    <p class="text-gray-700">Clinical trials have shown improvements in tear production, symptom relief, and eye surface health after a series of LED light treatments around the eyes. The therapy appears to work by improving meibomian gland function and reducing <a href="https://synctherapylocal.local/red-light-therapy-for-inflammation/" class="text-primary hover:underline font-semibold">inflammation</a> in the eyelid tissues.</p>
+                    <p class="text-gray-700">Clinical trials have shown improvements in tear production, symptom relief, and eye surface health after a series of LED light treatments around the eyes. The therapy appears to work by improving meibomian gland function and reducing <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline font-semibold">inflammation</a> in the eyelid tissues.</p>
                 </div>
 
                 <!-- Age-Related Vision Decline -->
@@ -592,7 +592,7 @@ seoTitle: Red Light Therapy for Eyesight &amp; AMD (2026 Safety Guide)
                 <p class="mb-6 text-gray-700">The type of device and protocol you use dramatically affects both safety and effectiveness. Here's what you need to know:</p>
 
                 <h3 class="text-xl font-semibold mb-4">Optimal Wavelengths for Eye Health</h3>
-                <p class="mb-4 text-gray-700">According to PubMed research on <a href="https://synctherapylocal.local/wavelength-for-red-light/" class="text-primary hover:underline font-semibold">optimal wavelengths for therapeutic benefits</a>, the most studied and effective wavelengths for ocular applications are: These wavelengths typically fall within the red and near-infrared spectrum, specifically around 600-900 nm. Devices like the <a href="https://synctherapylocal.local/platinum-led-therapy-lights-review/">platinum led biomax 900 features</a> innovative designs that enhance light delivery, ensuring optimal penetration for therapeutic effects. Incorporating such technology can significantly improve treatment outcomes for various ocular conditions.</p>
+                <p class="mb-4 text-gray-700">According to PubMed research on <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline font-semibold">optimal wavelengths for therapeutic benefits</a>, the most studied and effective wavelengths for ocular applications are: These wavelengths typically fall within the red and near-infrared spectrum, specifically around 600-900 nm. Devices like the <a href="https://synctherapylocal.local/platinum-led-therapy-lights-review/">platinum led biomax 900 features</a> innovative designs that enhance light delivery, ensuring optimal penetration for therapeutic effects. Incorporating such technology can significantly improve treatment outcomes for various ocular conditions.</p>
 
                 <div class="grid md:grid-cols-2 gap-6 mb-8">
                     <div class="bg-white p-5 rounded-lg shadow-sm">
@@ -790,7 +790,7 @@ seoTitle: Red Light Therapy for Eyesight &amp; AMD (2026 Safety Guide)
                     </ul>
                 </div>
 
-                <p class="mt-6 text-gray-700">For more information on <a href="https://synctherapylocal.local/at-home-red-light-therapy/" class="text-primary hover:underline font-semibold">using red light therapy safely at home</a> and <a href="https://synctherapylocal.local/how-to-use-red-light-therapy-at-home/" class="text-primary hover:underline font-semibold">proper protocols</a>, see our comprehensive guides.</p>
+                <p class="mt-6 text-gray-700">For more information on <a href="https://synctherapylocal.local/at-home-red-light-therapy/" class="text-primary hover:underline font-semibold">using red light therapy safely at home</a> and <a href="https://synctherapylocal.local/at-home-red-light-therapy/" class="text-primary hover:underline font-semibold">proper protocols</a>, see our comprehensive guides.</p>
             </section>
 
             <!-- FAQ Section -->
@@ -927,16 +927,16 @@ seoTitle: Red Light Therapy for Eyesight &amp; AMD (2026 Safety Guide)
                     <div>
                         <h3 class="text-lg font-semibold mb-3">Understanding the Science</h3>
                         <ul class="space-y-2 text-sm">
-                            <li><a href="https://synctherapylocal.local/photobiomodulation-explained/" class="text-primary hover:underline">• Photobiomodulation Explained</a></li>
+                            <li><a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">• Photobiomodulation Explained</a></li>
                             <li><a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" href="https://synctherapylocal.local/red-light-therapy-boosts-mitochondrial-function/" class="text-primary hover:underline">• How RLT Boosts Mitochondria</a></li>
-                            <li><a href="https://synctherapylocal.local/wavelength-for-red-light/" class="text-primary hover:underline">• Optimal Wavelengths Guide</a></li>
+                            <li><a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">• Optimal Wavelengths Guide</a></li>
                         </ul>
                     </div>
                     <div>
                         <h3 class="text-lg font-semibold mb-3">Related Health Benefits</h3>
                         <ul class="space-y-2 text-sm">
                             <li><a href="https://synctherapylocal.local/red-light-therapy-for-sleep/" class="text-primary hover:underline">• Red Light Therapy for Sleep</a></li>
-                            <li><a href="https://synctherapylocal.local/red-light-therapy-for-inflammation/" class="text-primary hover:underline">• RLT for Inflammation</a></li>
+                            <li><a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">• RLT for Inflammation</a></li>
                             <li><a href="https://synctherapylocal.local/red-light-therapy-for-migraines/" class="text-primary hover:underline">• RLT for Migraines</a></li>
                         </ul>
                     </div>

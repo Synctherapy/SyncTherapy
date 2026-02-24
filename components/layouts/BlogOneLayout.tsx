@@ -133,7 +133,7 @@ export function BlogOneLayout({ frontmatter, content, category = "manual-therapy
                     </li>
                     <li><ChevronRight className="w-3 h-3" /></li>
                     <li>
-                        <Link href="/blog" className="hover:text-[#2563EB] transition-colors cursor-pointer">Blog</Link>
+                        <Link href="/blog/" className="hover:text-[#2563EB] transition-colors cursor-pointer">Blog</Link>
                     </li>
                     <li><ChevronRight className="w-3 h-3" /></li>
                     <li className="text-[#1A2B3C]/80 font-medium truncate max-w-[200px]" aria-current="page">
@@ -282,7 +282,7 @@ export function BlogOneLayout({ frontmatter, content, category = "manual-therapy
                                     : "Browse our clinically reviewed guides on probiotics, gut health supplements, and hydration protocols."}
                             </p>
                             <a
-                                href="/blog"
+                                href="/blog/"
                                 className="inline-block bg-[#2563EB] text-white font-bold uppercase tracking-[0.1em] text-[12px] px-8 py-4 rounded-xl shadow-lg hover:shadow-xl hover:scale-[1.02] active:scale-95 transition-all cursor-pointer min-h-[48px] min-w-[48px]"
                             >
                                 Browse Articles →
@@ -418,7 +418,7 @@ export function BlogOneLayout({ frontmatter, content, category = "manual-therapy
                 {/* ─── Back to Blog ───────────────────────────────────── */}
                 <div className="px-6 pb-12 text-center">
                     <Link
-                        href="/blog"
+                        href="/blog/"
                         className="inline-flex items-center gap-2 text-sm text-[#2563EB] font-semibold hover:underline transition-colors cursor-pointer min-h-[44px]"
                     >
                         ← Back to All Articles

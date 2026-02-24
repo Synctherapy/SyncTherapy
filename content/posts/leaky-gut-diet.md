@@ -44,7 +44,7 @@ seoTitle: 'Leaky Gut Diet: Simple Steps to Heal Your Digestive System'
 <p>Diet plays a big role in keeping our gut healthy. What we eat affects our gut bacteria and how well our intestines work.</p>
 <h3>How Diet Affects the Gut</h3>
 <p>The foods we eat can change our gut in good or bad ways. A diet high in fats and low in fiber can harm gut health. This type of eating can make the gut leaky, letting bad stuff pass through.</p>
-<p>Eating lots of fruits and veggies helps good gut bacteria grow. These foods have fiber that feeds helpful microbes. A <a wpil="url" href="https://synctherapylocal.local/can-a-probiotic-help-you-lose-weight/">diet rich in probiotics</a> may also boost gut health.</p>
+<p>Eating lots of fruits and veggies helps good gut bacteria grow. These foods have fiber that feeds helpful microbes. A <a wpil="url" href="https://synctherapylocal.local/best-prebiotics-and-probiotics-supplements/">diet rich in probiotics</a> may also boost gut health.</p>
 <p>Some foods can cause swelling in the gut. Cutting back on sugar, alcohol, and processed foods may help reduce this.</p>
 <h3>Foods That Promote a Healthy Gut Microbiome</h3>
 <p>Certain foods are great for gut health. Here are some top picks:</p>

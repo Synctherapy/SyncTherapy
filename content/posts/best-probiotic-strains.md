@@ -123,7 +123,7 @@ seoTitle: The Best Probiotic Strains for Your Health Goals (2026 Guide)
       "description": "A science-backed guide to the best probiotic strains of 2025. Discover which strains are clinically proven for digestion, anxiety, immunity, and more.",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://synctherapylocal.local/best-probiotic-strains/"
+        "@id": "https://synctherapylocal.local/best-prebiotics-and-probiotics-supplements/"
       },
       "mainEntity": [
         {
@@ -136,7 +136,7 @@ seoTitle: The Best Probiotic Strains for Your Health Goals (2026 Guide)
               "item": {
                 "@type": "Product",
                 "name": "Seed DS-01® Daily Synbiotic",
-                "url": "https://synctherapylocal.local/best-probiotic-strains/#product1",
+                "url": "https://synctherapylocal.local/best-prebiotics-and-probiotics-supplements/#product1",
                 "image": "/uploads/2025/07/seed-probiotic-is-the-best-multi-strain-probiotics-for-digestive-health.webp",
                 "description": "A comprehensive synbiotic with 24 distinct strains and a prebiotic, designed for systemic health benefits.",
                 "brand": { "@type": "Brand", "name": "Seed" },
@@ -153,7 +153,7 @@ seoTitle: The Best Probiotic Strains for Your Health Goals (2026 Guide)
               "item": {
                 "@type": "Product",
                 "name": "Just Thrive Probiotic",
-                "url": "https://synctherapylocal.local/best-probiotic-strains/#product3",
+                "url": "https://synctherapylocal.local/best-prebiotics-and-probiotics-supplements/#product3",
                 "image": "/uploads/2025/07/just-thrive-has-the-be-soil-based-probiotic-strains-and-best-bacillus-subtilis-probiotic-available.webp",
                 "description": "A 100% spore-based probiotic featuring proprietary strains, clinically proven to address leaky gut and recondition the microbiome.",
                 "brand": { "@type": "Brand", "name": "Just Thrive" },
@@ -170,7 +170,7 @@ seoTitle: The Best Probiotic Strains for Your Health Goals (2026 Guide)
               "item": {
                 "@type": "Product",
                 "name": "Just Calm",
-                "url": "https://synctherapylocal.local/best-probiotic-strains/#product4",
+                "url": "https://synctherapylocal.local/best-prebiotics-and-probiotics-supplements/#product4",
                 "image": "/uploads/2025/07/just-thrive-just-calm-is-the-best-probiotic-for-mental-health-and-anxiety.webp",
                 "description": "A targeted psychobiotic formula with B. longum 1714™ and B vitamins to support stress, mood, and mental focus.",
                 "brand": { "@type": "Brand", "name": "Just Thrive" },
@@ -549,7 +549,7 @@ seoTitle: The Best Probiotic Strains for Your Health Goals (2026 Guide)
                            Can probiotics help you lose weight?
                             <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
                         </summary>
-                        <p class="mt-4 text-gray-700">Some research suggests a link between gut health and weight management. Certain probiotic strains may influence metabolism, inflammation, and appetite hormones. However, probiotics are not a magic weight-loss pill. They are best used to support overall gut health as part of a balanced diet and healthy lifestyle. See our guide to learn <a href="https://synctherapylocal.local/can-a-probiotic-help-you-lose-weight/" class="text-primary hover:underline font-semibold">how probiotics can help you lose weight</a>.</p>
+                        <p class="mt-4 text-gray-700">Some research suggests a link between gut health and weight management. Certain probiotic strains may influence metabolism, inflammation, and appetite hormones. However, probiotics are not a magic weight-loss pill. They are best used to support overall gut health as part of a balanced diet and healthy lifestyle. See our guide to learn <a href="https://synctherapylocal.local/best-prebiotics-and-probiotics-supplements/" class="text-primary hover:underline font-semibold">how probiotics can help you lose weight</a>.</p>
                     </details>
                     <details class="bg-white p-6 rounded-lg shadow-sm group">
                         <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">

@@ -312,7 +312,7 @@ seoTitle: 'Seed vs Pendulum (2026): Which Probiotic is Better for Your Health?'
                             </tr>
                             <tr>
                                 <td><strong>Probiotic Strains</strong></td>
-                                <td>24 diverse, clinically-studied strains from <i>Lactobacillus</i> & <i>Bifidobacterium</i> families. See our guide to the <a href="https://synctherapylocal.local/best-probiotic-strains/" target="_blank" class="text-primary hover:underline">best probiotic strains</a>.</td>
+                                <td>24 diverse, clinically-studied strains from <i>Lactobacillus</i> & <i>Bifidobacterium</i> families. See our guide to the <a href="https://synctherapylocal.local/best-prebiotics-and-probiotics-supplements/" target="_blank" class="text-primary hover:underline">best probiotic strains</a>.</td>
                                 <td>5 novel, highly specific anaerobic strains, including the keystone <i>Akkermansia muciniphila</i>.</td>
                             </tr>
                             <tr class="bg-blue-50">
@@ -454,7 +454,7 @@ seoTitle: 'Seed vs Pendulum (2026): Which Probiotic is Better for Your Health?'
                 <div class="grid md:grid-cols-1 lg:grid-cols-2 gap-8">
                     <div>
                         <h4 class="text-xl font-bold text-accent mb-2">Choose Seed DS-01 if...</h4>
-                        <p>You are in generally good health and want to proactively support your overall wellness. Your goals are better digestion, improved regularity, reduced <a href="https://synctherapylocal.local/do-probiotics-help-with-bloating/" target="_blank" class="text-white hover:underline">bloating</a>, and stronger immunity. You value convenience, sustainability, and broad scientific validation in a daily supplement.</p>
+                        <p>You are in generally good health and want to proactively support your overall wellness. Your goals are better digestion, improved regularity, reduced <a href="https://synctherapylocal.local/best-prebiotics-and-probiotics-supplements/" target="_blank" class="text-white hover:underline">bloating</a>, and stronger immunity. You value convenience, sustainability, and broad scientific validation in a daily supplement.</p>
                     </div>
                     <div>
                         <h4 class="text-xl font-bold text-accent mb-2">Choose a Pendulum Product if...</h4>

@@ -427,7 +427,7 @@ seoTitle: Red Light Therapy for Migraines &amp; Headaches (2026) Complete Guide
         <section id="how-it-works">
             <h2><i class="fas fa-cogs text-accent mr-2"></i>How Red Light Therapy Works for Headaches</h2>
             <div class="bg-white p-6 rounded-lg shadow-md">
-                <p class="mb-6"><a href="https://synctherapylocal.local/photobiomodulation-explained/" class="text-primary hover:underline">Red light therapy (photobiomodulation)</a> works through multiple mechanisms to reduce migraine frequency and intensity:</p>
+                <p class="mb-6"><a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">Red light therapy (photobiomodulation)</a> works through multiple mechanisms to reduce migraine frequency and intensity:</p>
                 
                 <div class="grid md:grid-cols-2 gap-6 mb-6">
                     <div class="bg-blue-50 p-5 rounded-lg">
@@ -445,7 +445,7 @@ seoTitle: Red Light Therapy for Migraines &amp; Headaches (2026) Complete Guide
                     <div class="bg-red-50 p-5 rounded-lg">
                         <div class="text-2xl text-red-500 mb-2"><i class="fas fa-fire-alt"></i></div>
                         <h3 class="text-lg font-bold mb-2">3. Inflammation Reduction</h3>
-                        <p class="text-gray-700 text-sm"><a href="https://synctherapylocal.local/red-light-therapy-for-inflammation/" class="text-primary hover:underline">Red light therapy reduces inflammation</a> by releasing anti-inflammatory enzymes and rebalancing inflammatory responses. This reduces the swelling and irritation of blood vessels that contribute to intense migraine pain.</p>
+                        <p class="text-gray-700 text-sm"><a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">Red light therapy reduces inflammation</a> by releasing anti-inflammatory enzymes and rebalancing inflammatory responses. This reduces the swelling and irritation of blood vessels that contribute to intense migraine pain.</p>
                     </div>
                     
                     <div class="bg-purple-50 p-5 rounded-lg">

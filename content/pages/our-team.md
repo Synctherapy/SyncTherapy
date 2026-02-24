@@ -940,7 +940,7 @@ seoTitle: Our Team
                             </div>
 
                             <div class="team-cta">
-                                <a href="https://synctherapylocal.local/our-team/athletic-therapist-daryl-stubbs/" class="btn btn-primary">
+                                <a href="https://synctherapylocal.local/our-team/daryl-stubbs/" class="btn btn-primary">
                                     View Full Profile
                                     <i class="fas fa-arrow-right btn-icon"></i>
                                 </a>
@@ -967,19 +967,19 @@ seoTitle: Our Team
                     <p class="service-description">Therapeutic massage treatments</p>
                 </a>
                 
-                <a href="https://synctherapylocal.local/services/athletic-therapy-victoria/" class="service-card">
+                <a href="https://synctherapylocal.local/services/athletic-therapy/" class="service-card">
                     <div class="service-icon">🏃‍♂️</div>
                     <h3 class="service-title">Athletic Therapy</h3>
                     <p class="service-description">Sports injury rehabilitation</p>
                 </a>
                 
-                <a href="https://synctherapylocal.local/services/sports-massage-therapy/" class="service-card">
+                <a href="https://synctherapylocal.local/services/sports-massage/" class="service-card">
                     <div class="service-icon">⚽</div>
                     <h3 class="service-title">Sports Massage</h3>
                     <p class="service-description">Performance-focused treatments</p>
                 </a>
                 
-                <a href="https://synctherapylocal.local/services/deep-tissue-massage-victoria/" class="service-card">
+                <a href="https://synctherapylocal.local/services/deep-tissue-massage/" class="service-card">
                     <div class="service-icon">💪</div>
                     <h3 class="service-title">Deep Tissue Massage</h3>
                     <p class="service-description">Intensive muscle therapy</p>
@@ -1037,17 +1037,17 @@ seoTitle: Our Team
                 <div class="footer-column">
                     <h3>Learn More About Us</h3>
                     <a href="https://synctherapylocal.local/about/">About Sync Therapy</a>
-                    <a data-wpil="url" href="https://synctherapylocal.local/about/why-us/">Why Choose Us</a>
+                    <a data-wpil="url" href="https://synctherapylocal.local/about/">Why Choose Us</a>
                 </div>
                 <div class="footer-column">
                     <h3>Our Services</h3>
                     <a data-wpil="url" href="https://synctherapylocal.local/services/">All Services</a>
-                    <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" href="https://synctherapylocal.local/services/direct-billing-massage/">Direct Billing</a>
+                    <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" href="https://synctherapylocal.local/direct-billing/">Direct Billing</a>
                 </div>
                 <div class="footer-column">
                     <h3>Conditions We Treat</h3>
                     <a data-wpil="url" href="https://synctherapylocal.local/conditions/back-pain-victoria/">Back Pain</a>
-                    <a href="https://synctherapylocal.local/conditions/sports-injury-prevention-victoria/">Sports Injuries</a>
+                    <a href="https://synctherapylocal.local/conditions/sports-injuries-and-prevention/">Sports Injuries</a>
                 </div>
                 <div class="footer-column">
                     <h3>Locations</h3>

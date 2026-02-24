@@ -148,7 +148,7 @@ seoTitle: 'Gut Health Diet: Simple Steps for a Happier Tummy'
 <h3>The Link Between Gut and Mood Disorders</h3>
 <p>Our gut and brain talk to each other a lot. This chat affects how we feel. When our gut is happy, we often feel better too. But when it's not, we might feel down or anxious.</p>
 <p>Some bacteria in our gut make chemicals that change our mood. These chemicals can make us feel good or bad. People with mood issues often have different gut bacteria than others.</p>
-<p>Eating the right foods can help our gut and our mood. Foods with fiber feed good bacteria. This may help us feel better. Some studies show that <a wpil="url" href="https://synctherapylocal.local/can-a-probiotic-help-you-lose-weight/">probiotics might even help with weight loss</a>.</p>
+<p>Eating the right foods can help our gut and our mood. Foods with fiber feed good bacteria. This may help us feel better. Some studies show that <a wpil="url" href="https://synctherapylocal.local/best-prebiotics-and-probiotics-supplements/">probiotics might even help with weight loss</a>.</p>
 <h3>Digestive Symptoms and Food Intolerances</h3>
 <p>When our gut isn't healthy, we might have trouble with certain foods. This can cause tummy aches, gas, or bloating. Some people can't eat dairy or gluten without feeling sick.</p>
 <p>Food intolerances can happen if our gut lining gets weak. This is sometimes called "leaky gut." When this happens, food particles can slip through the gut wall. Our body then reacts to these particles, causing symptoms.</p>

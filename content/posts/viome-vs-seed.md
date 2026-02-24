@@ -263,7 +263,7 @@ seoTitle: 'Viome vs Seed (2025): Viome Alternatives'
                     <div class="bg-green-50 border border-green-200 p-4 rounded-lg flex flex-col items-center justify-center">
                         <img src="/uploads/2025/07/seed-probiotic-logo.jpg" alt="Seed Logo" class="rounded-lg h-24 w-auto mb-3" onerror="this.onerror=null;this.src='https://placehold.co/150x80/16a34a/ffffff?text=SEED';">
                         <h3 class="text-xl font-bold text-primary">Save on Seed</h3>
-                        <p class="text-gray-600 text-sm mb-3">Use our exclusive code for a big discount on the <a class="wpil_keyword_link" href="https://synctherapylocal.local/best-probiotic-strains/"   title="best probiotic" data-wpil-keyword-link="linked"  data-wpil-monitor-id="7947">best probiotic</a> for general wellness.</p>
+                        <p class="text-gray-600 text-sm mb-3">Use our exclusive code for a big discount on the <a class="wpil_keyword_link" href="https://synctherapylocal.local/best-prebiotics-and-probiotics-supplements/"   title="best probiotic" data-wpil-keyword-link="linked"  data-wpil-monitor-id="7947">best probiotic</a> for general wellness.</p>
                         <p class="text-2xl font-bold text-green-700">25% OFF</p>
                         <p class="font-semibold text-gray-800">Your First Order</p>
                         <p class="mt-2 text-gray-500">with code:</p>

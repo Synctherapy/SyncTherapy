@@ -138,7 +138,7 @@ seoTitle: Athletic Therapy Langford
                 <p style="margin-bottom: 30px; color: var(--text-color);">
                     Your trusted athletic therapist in Langford BC, proudly serving 
                     <a data-wpil="url" href="https://synctherapylocal.local/services/athletic-therapy-langford/" style="color: var(--primary-color);">Langford</a>, 
-                    <a data-wpil="url" href="https://synctherapylocal.local/services/athletic-therapy-colwood/" style="color: var(--primary-color);">Colwood</a>, 
+                    <a data-wpil="url" href="https://synctherapylocal.local/services/athletic-therapy/" style="color: var(--primary-color);">Colwood</a>, 
                     and the greater West Shore area. Find an athletic therapist near you in Langford.
                 </p>
 
@@ -213,7 +213,7 @@ seoTitle: Athletic Therapy Langford
             </h2>
             <p style="margin-bottom: 30px; color: var(--text-color);">
                 Looking for an "athletic therapist near me" in Langford BC? Sync Therapy is conveniently located in the heart of Langford, serving athletes and active individuals throughout Langford, Colwood, and the greater West Shore area. Our certified athletic therapist is easily accessible from all Langford neighborhoods including Bear Mountain, Millstream, and downtown Langford.
-             In addition to personalized therapy sessions, we offer a comprehensive Langford runner's blueprint overview, designed to aid runners in optimizing their performance and preventing injuries. Our expert team is dedicated to creating customized strategies that cater to each individual's needs, ensuring your athletic journey is both safe and effective. With a focus on rehabilitation and performance enhancement, Sync Therapy is your ultimate partner in achieving your fitness goals. Whether you're recovering from an injury or seeking to elevate your physical capabilities, our athlete-centered approach is here for you. For those searching for an <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" href="https://synctherapylocal.local/services/athletic-therapy-victoria/">athletic therapist Victoria BC</a>, we extend our services to ensure that you receive the support you need, no matter where you are located. Join us at Sync Therapy and take the first step towards achieving your personal best.</p>
+             In addition to personalized therapy sessions, we offer a comprehensive Langford runner's blueprint overview, designed to aid runners in optimizing their performance and preventing injuries. Our expert team is dedicated to creating customized strategies that cater to each individual's needs, ensuring your athletic journey is both safe and effective. With a focus on rehabilitation and performance enhancement, Sync Therapy is your ultimate partner in achieving your fitness goals. Whether you're recovering from an injury or seeking to elevate your physical capabilities, our athlete-centered approach is here for you. For those searching for an <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" href="https://synctherapylocal.local/services/athletic-therapy/">athletic therapist Victoria BC</a>, we extend our services to ensure that you receive the support you need, no matter where you are located. Join us at Sync Therapy and take the first step towards achieving your personal best.</p>
             <div class="grid grid-3">
                 <div class="text-center">
                     <div style="font-size: 2rem; margin-bottom: 10px;">📍</div>
@@ -258,7 +258,7 @@ seoTitle: Athletic Therapy Langford
                     <h3 style="font-weight: bold; margin-bottom: 15px; color: var(--primary-color);">Acute Sports Injuries</h3>
                     <ul style="text-align: left; font-size: 0.9rem; line-height: 1.6;">
                         <li><a href="https://synctherapylocal.local/services/" style="color: var(--primary-color);">Sprains & Strains</a></li>
-                        <li><a href="https://synctherapylocal.local/conditions/sports-injury-prevention-victoria/" style="color: var(--primary-color);">Sports Injury Prevention</a></li>
+                        <li><a href="https://synctherapylocal.local/conditions/sports-injuries-and-prevention/" style="color: var(--primary-color);">Sports Injury Prevention</a></li>
                         <li>Muscle Tears</li>
                         <li>Ligament Injuries</li>
                         <li>Joint Dislocations</li>
@@ -297,9 +297,9 @@ seoTitle: Athletic Therapy Langford
                     <h3 style="font-weight: bold; margin-bottom: 15px; color: var(--primary-color);">Overuse Injuries</h3>
                     <ul style="text-align: left; font-size: 0.9rem; line-height: 1.6;">
                         <li><a href="https://synctherapylocal.local/conditions/overuse-injuries-victoria/" style="color: var(--primary-color);">Overuse Injuries</a></li>
-                        <li><a href="https://synctherapylocal.local/conditions/tendonitis-treatment-victoria/" style="color: var(--primary-color);">Tendonitis</a></li>
+                        <li><a href="https://synctherapylocal.local/conditions/tendonitis-treatment/" style="color: var(--primary-color);">Tendonitis</a></li>
                         <li><a href="https://synctherapylocal.local/services/" style="color: var(--primary-color);">Bursitis</a></li>
-                        <li><a href="https://synctherapylocal.local/conditions/it-band-syndrome-victoria/" style="color: var(--primary-color);">IT Band Syndrome</a></li>
+                        <li><a href="https://synctherapylocal.local/conditions/it-band-syndrome/" style="color: var(--primary-color);">IT Band Syndrome</a></li>
                         <li>Repetitive Strain Injuries</li>
                     </ul>
                 </div>
@@ -497,7 +497,7 @@ seoTitle: Athletic Therapy Langford
                 </div>
 
                 <div style="margin-top: 30px;">
-                    <a href="https://synctherapylocal.local/services/direct-billing-massage/" style="color: var(--primary-color);">
+                    <a href="https://synctherapylocal.local/direct-billing/" style="color: var(--primary-color);">
                         View Complete Pricing & Insurance Information →
                     </a>
                 </div>
@@ -556,7 +556,7 @@ seoTitle: Athletic Therapy Langford
                         <a href="https://synctherapy.janeapp.com/" target="_blank" class="btn btn-accent">
                             📅 Book with Daryl
                         </a>
-                        <a href="https://synctherapylocal.local/our-team/athletic-therapist-daryl-stubbs/" class="btn" style="border: 2px solid var(--primary-color); color: var(--primary-color);">
+                        <a href="https://synctherapylocal.local/our-team/daryl-stubbs/" class="btn" style="border: 2px solid var(--primary-color); color: var(--primary-color);">
                             👥 Learn About Athletic Therapist Daryl
                         </a>
                     </div>
@@ -717,7 +717,7 @@ seoTitle: Athletic Therapy Langford
                 <ul>
                     <li style="margin-bottom: 10px; color: var(--text-color);">✅ Injury Prevention Programs</li>
                     <li style="margin-bottom: 10px; color: var(--text-color);">✅ Performance Enhancement</li>
-                    <li style="margin-bottom: 10px;"><a data-wpil="url" href="https://synctherapylocal.local/services/sports-massage-therapy/" style="color: var(--primary-color);">✅ Sports Massage</a></li>
+                    <li style="margin-bottom: 10px;"><a data-wpil="url" href="https://synctherapylocal.local/services/sports-massage/" style="color: var(--primary-color);">✅ Sports Massage</a></li>
                 </ul>
             </div>
         </div>
@@ -817,7 +817,7 @@ seoTitle: Athletic Therapy Langford
                             <a href="https://synctherapylocal.local/about/" style="color: var(--primary-color); text-decoration: none;">About Sync Therapy</a>
                         </li>
                         <li style="margin-bottom: 10px;">
-                            <a data-wpil="url" href="https://synctherapylocal.local/about/why-us/" style="color: var(--primary-color); text-decoration: none;">Why Choose Us</a>
+                            <a data-wpil="url" href="https://synctherapylocal.local/about/" style="color: var(--primary-color); text-decoration: none;">Why Choose Us</a>
                         </li>
                         <li style="margin-bottom: 10px;">
                             <a data-wpil="url" href="https://synctherapylocal.local/our-team/" style="color: var(--primary-color); text-decoration: none;">Our Team</a>
@@ -832,7 +832,7 @@ seoTitle: Athletic Therapy Langford
                             <a data-wpil="url" href="https://synctherapylocal.local/services/athletic-therapy-langford/" style="color: var(--primary-color); text-decoration: none;">Athletic Therapy Langford</a>
                         </li>
                         <li style="margin-bottom: 10px;">
-                            <a data-wpil="url" href="https://synctherapylocal.local/services/athletic-therapy-colwood/" style="color: var(--primary-color); text-decoration: none;">Athletic Therapy Colwood</a>
+                            <a data-wpil="url" href="https://synctherapylocal.local/services/athletic-therapy/" style="color: var(--primary-color); text-decoration: none;">Athletic Therapy Colwood</a>
                         </li>
                         <li style="margin-bottom: 10px;">
                             <a data-wpil="url" href="https://synctherapylocal.local/services/massage-therapy/" style="color: var(--primary-color); text-decoration: none;">Massage Therapy Langford</a>

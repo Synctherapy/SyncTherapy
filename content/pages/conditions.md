@@ -466,7 +466,7 @@ seoTitle: Conditions
                     <h2 class="text-3xl font-bold text-gray-900 mb-4">Find Your Condition</h2>
                     <p class="text-lg text-gray-600">
                         Search through our comprehensive list of treatable conditions or browse by category.
-                     In addition to understanding various treatable conditions, we also provide valuable resources to enhance your overall well-being. Explore our insightful articles and expert advice, including <a href="https://synctherapylocal.local/conditions/sports-injury-prevention-victoria/">sports injury prevention tips</a> to help you stay safe while engaging in physical activities. Our aim is to empower you with knowledge to maintain your health and prevent potential setbacks.</p>
+                     In addition to understanding various treatable conditions, we also provide valuable resources to enhance your overall well-being. Explore our insightful articles and expert advice, including <a href="https://synctherapylocal.local/conditions/sports-injuries-and-prevention/">sports injury prevention tips</a> to help you stay safe while engaging in physical activities. Our aim is to empower you with knowledge to maintain your health and prevent potential setbacks.</p>
                 </div>
 
                 <!-- Search Bar -->
@@ -847,7 +847,7 @@ seoTitle: Conditions
                 commonality: "Common",
                 treatmentTime: "4-8 sessions",
                 symptoms: ["Pain", "Swelling", "Bruising", "Limited movement", "Instability"],
-                url: "/conditions/sprains-strains-victoria/",
+                url: "/conditions/sprains-and-strains/",
                 icon: "🏃"
             },
             {
@@ -859,7 +859,7 @@ seoTitle: Conditions
                 commonality: "Common",
                 treatmentTime: "6-10 sessions",
                 symptoms: ["Tendon pain", "Stiffness", "Swelling", "Weakness", "Clicking sensation"],
-                url: "/conditions/tendonitis-treatment-victoria/",
+                url: "/conditions/tendonitis-treatment/",
                 icon: "🎾"
             },
             {
@@ -871,7 +871,7 @@ seoTitle: Conditions
                 commonality: "Less Common",
                 treatmentTime: "4-8 sessions",
                 symptoms: ["Joint pain", "Swelling", "Warmth", "Limited movement", "Tenderness"],
-                url: "/conditions/bursitis-treatment-victoria/",
+                url: "/conditions/bursitis-treatment/",
                 icon: "🔥"
             },
             {
@@ -907,7 +907,7 @@ seoTitle: Conditions
                 commonality: "Common",
                 treatmentTime: "6-10 sessions",
                 symptoms: ["Lateral knee pain", "Hip pain", "Snapping sensation", "Pain during running", "Stiffness"],
-                url: "/conditions/it-band-syndrome-victoria/",
+                url: "/conditions/it-band-syndrome/",
                 icon: "🏃"
             },
             {
@@ -919,7 +919,7 @@ seoTitle: Conditions
                 commonality: "Common",
                 treatmentTime: "Ongoing",
                 symptoms: ["Muscle tightness", "Fatigue", "Minor aches", "Reduced performance", "Stiffness"],
-                url: "/conditions/sports-injury-prevention-victoria/",
+                url: "/conditions/sports-injuries-and-prevention/",
                 icon: "🛡️"
             },
             {

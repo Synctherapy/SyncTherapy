@@ -306,7 +306,7 @@ seoTitle: Benefits Of Soil Based Probiotics in 2026 - Are They Effective?
                     </div>
                     <div id="benefit-3">
                         <h3>3. Enhances Digestion and Reduces Discomfort</h3>
-                        <p>These probiotics aid in the breakdown of complex carbohydrates and proteins. Strains like <em>Bacillus subtilis</em> MB40 have been clinically shown to significantly reduce common digestive complaints like bloating, gas, and abdominal discomfort. If you're wondering, "<a href="https://synctherapylocal.local/do-probiotics-help-with-bloating/">do probiotics help with bloating?</a>", spore-based strains are a proven place to start.</p>
+                        <p>These probiotics aid in the breakdown of complex carbohydrates and proteins. Strains like <em>Bacillus subtilis</em> MB40 have been clinically shown to significantly reduce common digestive complaints like bloating, gas, and abdominal discomfort. If you're wondering, "<a href="https://synctherapylocal.local/best-prebiotics-and-probiotics-supplements/">do probiotics help with bloating?</a>", spore-based strains are a proven place to start.</p>
                     </div>
                     <div id="benefit-4">
                         <h3>4. Improves Immune System Function</h3>
@@ -334,7 +334,7 @@ seoTitle: Benefits Of Soil Based Probiotics in 2026 - Are They Effective?
                     </div>
                     <div id="benefit-10">
                         <h3>10. Promotes Optimal Weight</h3>
-                        <p>By improving digestion, reducing the low-grade inflammation associated with obesity, and supporting a healthy metabolism, SBOs can be a valuable tool in a comprehensive weight management plan. <a href="https://ecosh.com/bacillus-subtilis-17-possible-health-benefits-based-on-science/" target="_blank" rel="noopener noreferrer">Studies on <em>Bacillus subtilis</em> DE111</a> have linked it to a reduction in body fat percentage, supporting the idea that <a href="https://synctherapylocal.local/can-a-probiotic-help-you-lose-weight/">probiotics can help you lose weight</a>.</p>
+                        <p>By improving digestion, reducing the low-grade inflammation associated with obesity, and supporting a healthy metabolism, SBOs can be a valuable tool in a comprehensive weight management plan. <a href="https://ecosh.com/bacillus-subtilis-17-possible-health-benefits-based-on-science/" target="_blank" rel="noopener noreferrer">Studies on <em>Bacillus subtilis</em> DE111</a> have linked it to a reduction in body fat percentage, supporting the idea that <a href="https://synctherapylocal.local/best-prebiotics-and-probiotics-supplements/">probiotics can help you lose weight</a>.</p>
                     </div>
                     <div id="benefit-11">
                         <h3>11. Leads to Healthier Skin via the Gut-Skin Axis</h3>
@@ -414,7 +414,7 @@ seoTitle: Benefits Of Soil Based Probiotics in 2026 - Are They Effective?
             <section id="types-of-sbos">
                 <h2>Types of Soil-Based Probiotics: A Closer Look at the Strains</h2>
                 <img src="/uploads/content/soil-based-organisms-are-bacillus-probiotic-strains-and-bacillus-probiotics-that-create-healthy-immune-system-function.png" onerror="this.onerror=null;this.src='https://placehold.co/800x400/CCCCCC/333333?text=Bacteria+Strains';" alt="Microscopic view of Bacillus probiotic strains." class="rounded-lg shadow-lg mb-6 w-full">
-                <p class="mb-4">The most effective SBOs belong to the <em>Bacillus</em> family. Understanding the different <a href="https://synctherapylocal.local/best-probiotic-strains/">probiotic strains</a> is key to choosing the right supplement for your needs. Here are the key players you'll find in high-quality formulas:</p>
+                <p class="mb-4">The most effective SBOs belong to the <em>Bacillus</em> family. Understanding the different <a href="https://synctherapylocal.local/best-prebiotics-and-probiotics-supplements/">probiotic strains</a> is key to choosing the right supplement for your needs. Here are the key players you'll find in high-quality formulas:</p>
                 <div class="space-y-6">
                     <div>
                         <h4 class="font-bold text-lg text-primary"><em>Bacillus coagulans</em></h4>

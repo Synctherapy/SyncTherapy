@@ -126,7 +126,7 @@ seoTitle: 'Red Light Therapy on Stomach: Benefits &amp; How to Use'
         <section id="how-it-works">
             <h2>How Red Light Therapy Works for Gut Health</h2>
             
-            <p class="mb-4 text-gray-700">Red light therapy (also called <a href="https://synctherapylocal.local/photobiomodulation-explained/" class="text-primary hover:underline font-semibold">photobiomodulation</a>) uses specific wavelengths of light to trigger healing at the cellular level. When you shine red or near-infrared light on your abdomen, something interesting happens inside your cells.</p>
+            <p class="mb-4 text-gray-700">Red light therapy (also called <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline font-semibold">photobiomodulation</a>) uses specific wavelengths of light to trigger healing at the cellular level. When you shine red or near-infrared light on your abdomen, something interesting happens inside your cells.</p>
 
             <div class="bg-white p-6 rounded-lg shadow-sm mb-6">
                 <h3>The Cellular Process</h3>
@@ -169,7 +169,7 @@ seoTitle: 'Red Light Therapy on Stomach: Benefits &amp; How to Use'
                     </table>
                 </div>
                 <p class="mt-4 text-gray-700">For gut health, <strong>near-infrared (808-850nm) is essential</strong>. It penetrates deep enough to reach your stomach and intestines. Red light (630-660nm) helps with surface-level gut lining repair.</p>
-                <p class="mt-2 text-gray-700">Most effective devices combine both wavelengths. Check out our guide on <a href="https://synctherapylocal.local/wavelength-for-red-light/" class="text-primary hover:underline font-semibold">choosing the right wavelength</a> for more details.</p>
+                <p class="mt-2 text-gray-700">Most effective devices combine both wavelengths. Check out our guide on <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline font-semibold">choosing the right wavelength</a> for more details.</p>
             </div>
         </section>
 
@@ -182,7 +182,7 @@ seoTitle: 'Red Light Therapy on Stomach: Benefits &amp; How to Use'
             <div class="space-y-6">
                 <div class="bg-white p-6 rounded-lg shadow-sm">
                     <h3><i class="fas fa-fire-flame-simple text-accent mr-2"></i>1. Reduces Gut Inflammation</h3>
-                    <p class="mb-3 text-gray-700"><a href="https://synctherapylocal.local/red-light-therapy-for-inflammation/" class="text-primary hover:underline font-semibold">Red light therapy's anti-inflammatory effects</a> are well-documented. In the gut specifically, PBM has been shown to:</p>
+                    <p class="mb-3 text-gray-700"><a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline font-semibold">Red light therapy's anti-inflammatory effects</a> are well-documented. In the gut specifically, PBM has been shown to:</p>
                     <ul class="list-disc list-inside space-y-2 text-gray-700">
                         <li>Decrease pro-inflammatory cytokines (IL-6, TNF-α, IL-1β)</li>
                         <li>Reduce prostaglandin E2 synthesis</li>
@@ -317,7 +317,7 @@ seoTitle: 'Red Light Therapy on Stomach: Benefits &amp; How to Use'
 
                 <div class="bg-white p-6 rounded-lg shadow-sm">
                     <h3 id="bloating">Red Light Therapy for Bloating</h3>
-                    <p class="mb-3 text-gray-700">Bloating often stems from dysbiosis, slow transit, and inflammation. <a href="https://synctherapylocal.local/do-probiotics-help-with-bloating/" class="text-primary hover:underline font-semibold">Red light therapy addresses all three</a>:</p>
+                    <p class="mb-3 text-gray-700">Bloating often stems from dysbiosis, slow transit, and inflammation. <a href="https://synctherapylocal.local/best-prebiotics-and-probiotics-supplements/" class="text-primary hover:underline font-semibold">Red light therapy addresses all three</a>:</p>
                     <ul class="list-disc list-inside space-y-2 text-gray-700 mb-4">
                         <li>Restores healthy fermenters that produce appropriate gas volumes</li>
                         <li>Enhances gut motility</li>
@@ -450,7 +450,7 @@ seoTitle: 'Red Light Therapy on Stomach: Benefits &amp; How to Use'
                         </ul>
                     </div>
                 </div>
-                <p class="mt-4"><a href="https://synctherapylocal.local/how-often-red-light-therapy/" class="text-primary hover:underline font-semibold">For more guidance, see our full article on how often to do red light therapy.</a></p>
+                <p class="mt-4"><a href="https://synctherapylocal.local/at-home-red-light-therapy/" class="text-primary hover:underline font-semibold">For more guidance, see our full article on how often to do red light therapy.</a></p>
             </div>
 
             <div class="grid md:grid-cols-2 gap-6">
@@ -481,7 +481,7 @@ seoTitle: 'Red Light Therapy on Stomach: Benefits &amp; How to Use'
                 </div>
             </div>
 
-            <p class="mt-4"><a href="https://synctherapylocal.local/how-to-use-red-light-therapy-at-home/" class="text-primary hover:underline font-semibold">Learn more about using red light therapy safely at home.</a></p>
+            <p class="mt-4"><a href="https://synctherapylocal.local/at-home-red-light-therapy/" class="text-primary hover:underline font-semibold">Learn more about using red light therapy safely at home.</a></p>
         </section>
 
         <!-- Section 7: Devices -->
@@ -619,7 +619,7 @@ seoTitle: 'Red Light Therapy on Stomach: Benefits &amp; How to Use'
                         Can red light therapy help with IBS?
                         <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
                     </summary>
-                    <p class="mt-4 text-gray-700">Early evidence is promising. Red light therapy addresses several IBS drivers: gut dysbiosis, inflammation, and visceral hypersensitivity. While large clinical trials are still needed, the mechanistic evidence and patient reports suggest it can be a helpful addition to an IBS management plan. See also: <a href="https://synctherapylocal.local/do-probiotics-help-ibs/" class="text-primary hover:underline font-semibold">Do Probiotics Help IBS?</a></p>
+                    <p class="mt-4 text-gray-700">Early evidence is promising. Red light therapy addresses several IBS drivers: gut dysbiosis, inflammation, and visceral hypersensitivity. While large clinical trials are still needed, the mechanistic evidence and patient reports suggest it can be a helpful addition to an IBS management plan. See also: <a href="https://synctherapylocal.local/best-probiotic-supplements-for-ibs/" class="text-primary hover:underline font-semibold">Do Probiotics Help IBS?</a></p>
                 </details>
 
                 <details class="bg-white p-6 rounded-lg shadow-sm group">

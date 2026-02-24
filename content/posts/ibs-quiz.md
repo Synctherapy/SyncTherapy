@@ -401,7 +401,7 @@ seoTitle: 'Free IBS Quiz (14 Questions): Assess Your Symptoms in 3 Mins'
                     <li><strong>The Trigger:</strong> You get a bout of gastroenteritis (food poisoning).</li>
                     <li><strong>The Damage:</strong> Toxins from the bad bacteria can damage the nerves responsible for your gut's "cleansing waves," which normally sweep food and bacteria down into the colon.</li>
                     <li><strong>The Overgrowth:</strong> With the cleansing waves impaired, bacteria from your large intestine can migrate up and multiply in your small intestine, where they don't belong. This is SIBO.</li>
-                    <li><strong>The Symptoms:</strong> These misplaced bacteria ferment the food you eat, producing excess gas (hydrogen, methane). This gas is a primary driver of the <a href="https://synctherapylocal.local/do-probiotics-help-with-bloating/" class="text-primary font-semibold hover:underline">managing IBS bloating</a>, pain, constipation (IBS-C), and/or diarrhea (IBS-D) that define many IBS triggers.</li>
+                    <li><strong>The Symptoms:</strong> These misplaced bacteria ferment the food you eat, producing excess gas (hydrogen, methane). This gas is a primary driver of the <a href="https://synctherapylocal.local/best-prebiotics-and-probiotics-supplements/" class="text-primary font-semibold hover:underline">managing IBS bloating</a>, pain, constipation (IBS-C), and/or diarrhea (IBS-D) that define many IBS triggers.</li>
                 </ol>
 
                 <div class="bg-blue-50 border-l-4 border-primary p-6 rounded-md mt-6">
