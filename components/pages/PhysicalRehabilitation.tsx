@@ -66,24 +66,24 @@ export function PhysicalRehabilitation() {
     const treatmentLinks = [
         { title: "Sports Injury Rehab", href: "/services/sports-injury-rehab/" },
         { title: "Exercise Therapy", href: "/services/exercise-therapy/" },
-        { title: "Chronic Pain Rehab", href: "/services/chronic-pain-rehab/" },
-        { title: "Knee Rehab", href: "/services/knee-rehab/" },
-        { title: "Back Pain Rehab", href: "/services/back-pain-rehab/" },
-        { title: "Shoulder Rehab", href: "/services/shoulder-rehab/" },
-        { title: "Hip Rehab", href: "/services/hip-rehab/" },
+        { title: "Chronic Pain Rehab", href: "/conditions/chronic-pain/" },
+        { title: "Knee Rehab", href: "/conditions/hip-and-knee-pain/" },
+        { title: "Back Pain Rehab", href: "/conditions/back-pain/" },
+        { title: "Shoulder Rehab", href: "/conditions/shoulder-pain/" },
+        { title: "Hip Rehab", href: "/conditions/hip-and-knee-pain/" },
         { title: "Home Exercise Plans", href: "/services/home-exercise-plans/" },
-        { title: "Arthritis Management", href: "/services/arthritis-management/" },
+        { title: "Arthritis Management", href: "/conditions/arthritis-pain/" },
     ];
 
     return (
         <div className="bg-background min-h-screen relative selection:bg-blue-100 selection:text-blue-900 overflow-hidden">
             <ServiceSchema
-                    type="service"
-                    name="Physical Rehabilitation Center in Colwood"
-                    description="We identify biomechanical faults and build a plan to fix them."
-                    slug="physical-rehabilitation"
-                    breadcrumbLabel="Physical Rehabilitation Center in Colwood"
-                />
+                type="service"
+                name="Physical Rehabilitation Center in Colwood"
+                description="We identify biomechanical faults and build a plan to fix them."
+                slug="physical-rehabilitation"
+                breadcrumbLabel="Physical Rehabilitation Center in Colwood"
+            />
 
             {/* Global Fluid Background */}
             <div className="fixed inset-0 z-0 pointer-events-none overflow-hidden">

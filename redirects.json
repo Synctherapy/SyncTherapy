@@ -1,5 +1,50 @@
 [
   {
+    "source": "/services/sciatica-treatment/",
+    "destination": "/conditions/sciatica-treatment/",
+    "permanent": true
+  },
+  {
+    "source": "/services/neck-pain-massage/",
+    "destination": "/conditions/neck-shoulder-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/services/hip-rehab/",
+    "destination": "/conditions/hip-and-knee-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/services/back-pain-treatment/",
+    "destination": "/conditions/back-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/services/back-pain-rehab/",
+    "destination": "/conditions/back-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/services/chronic-pain-rehab/",
+    "destination": "/conditions/chronic-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/services/knee-rehab/",
+    "destination": "/conditions/hip-and-knee-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/services/arthritis-management/",
+    "destination": "/conditions/arthritis-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/services/shoulder-rehab/",
+    "destination": "/conditions/shoulder-pain/",
+    "permanent": true
+  },
+  {
     "source": "/services/visceral-manipulation-victoria/",
     "destination": "/services/visceral-manipulation/",
     "permanent": true
@@ -1517,6 +1562,11 @@
   {
     "source": "/services/deep-tissue-massage-victoria/",
     "destination": "/services/deep-tissue-massage/",
+    "permanent": true
+  },
+  {
+    "source": "/wp-login.php",
+    "destination": "/",
     "permanent": true
   }
 ]

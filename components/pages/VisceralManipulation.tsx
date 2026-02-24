@@ -50,11 +50,11 @@ export function VisceralManipulation() {
     ];
 
     const conditions = [
-        { name: 'Chronic Back Pain', url: '/services/back-pain-treatment/', desc: 'Releasing deep tension pulling from the front.' },
+        { name: 'Chronic Back Pain', url: '/conditions/back-pain/', desc: 'Releasing deep tension pulling from the front.' },
         { name: 'Digestive Issues (IBS)', url: '/services/nutrition-consulting/', desc: 'Reducing mechanical restriction in the gut.' },
-        { name: 'Sciatica Relief', url: '/services/sciatica-treatment/', desc: 'Addressing pelvic organ pressure on nerves.' },
+        { name: 'Sciatica Relief', url: '/conditions/sciatica-treatment/', desc: 'Addressing pelvic organ pressure on nerves.' },
         { name: 'C-Section/Surgery Scars', url: '/services/myofascial-release/', desc: 'Mobilizing scar tissue adhesions.' },
-        { name: 'Hip Mobility', url: '/services/hip-rehab/', desc: 'Restoring cecum/sigmoid colon motion.' },
+        { name: 'Hip Mobility', url: '/conditions/hip-and-knee-pain/', desc: 'Restoring cecum/sigmoid colon motion.' },
         { name: 'Chronic Acid Reflux', url: '/services/nutrition-counseling/', desc: 'Releasing tension in the diaphragm/stomach.' },
     ];
 
@@ -62,12 +62,12 @@ export function VisceralManipulation() {
         <div className="bg-background min-h-screen relative selection:bg-indigo-100 selection:text-indigo-900 overflow-hidden">
             <Header /> {/* Manually included as requested */}
             <ServiceSchema
-                    type="service"
-                    name="Visceral Manipulation in Colwood: Back Pain Often Starts in the Front"
-                    description="Required for all new patients to identify internal restrictions."
-                    slug="visceral-manipulation"
-                    breadcrumbLabel="Visceral Manipulation in Colwood: Back Pain Often Starts in the Front"
-                />
+                type="service"
+                name="Visceral Manipulation in Colwood: Back Pain Often Starts in the Front"
+                description="Required for all new patients to identify internal restrictions."
+                slug="visceral-manipulation"
+                breadcrumbLabel="Visceral Manipulation in Colwood: Back Pain Often Starts in the Front"
+            />
 
             {/* Global Fluid Background (Indigo Theme) */}
             <div className="fixed inset-0 z-0 pointer-events-none overflow-hidden">
@@ -268,7 +268,7 @@ export function VisceralManipulation() {
                             <div className="md:w-1/3">
                                 <div className="relative aspect-square rounded-3xl overflow-hidden shadow-2xl border-4 border-white">
                                     <Image
-                                        src="/wp-content/uploads/ShortpixelBackups/wp-content/uploads/2025/06/daryls-an-RMT-in-downtown-victoria-offering-massage-therapy-600x801.jpg"
+                                        src="/wp-content/uploads/2025/06/daryls-an-RMT-in-downtown-victoria-offering-massage-therapy-600x801.jpg"
                                         alt="Daryl Stubbs RMT"
                                         fill
                                         className="object-cover"

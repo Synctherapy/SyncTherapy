@@ -66,23 +66,23 @@ export function PainManagement() {
 
     const treatmentLinks = [
         { title: "Chronic Pain Management", href: "/services/chronic-pain-management/" },
-        { title: "Back Pain Treatment", href: "/services/back-pain-treatment/" },
+        { title: "Back Pain Treatment", href: "/conditions/back-pain/" },
         { title: "Neck Pain Relief", href: "/services/neck-pain-relief/" },
         { title: "Fibromyalgia Treatment", href: "/services/fibromyalgia-treatment/" },
         { title: "Migraine & Headache", href: "/services/migraine-headache-management/" },
-        { title: "Sciatica Treatment", href: "/services/sciatica-treatment/" },
+        { title: "Sciatica Treatment", href: "/conditions/sciatica-treatment/" },
         { title: "Arthritis Pain Management", href: "/services/arthritis-pain-management/" },
     ];
 
     return (
         <div className="bg-background min-h-screen relative selection:bg-blue-100 selection:text-blue-900 overflow-hidden">
             <ServiceSchema
-                    type="service"
-                    name="Pain Management & Chronic Pain Relief in Colwood"
-                    description="Ideal for complex chronic pain conditions."
-                    slug="pain-management"
-                    breadcrumbLabel="Pain Management & Chronic Pain Relief in Colwood"
-                />
+                type="service"
+                name="Pain Management & Chronic Pain Relief in Colwood"
+                description="Ideal for complex chronic pain conditions."
+                slug="pain-management"
+                breadcrumbLabel="Pain Management & Chronic Pain Relief in Colwood"
+            />
 
             {/* Global Fluid Background */}
             <div className="fixed inset-0 z-0 pointer-events-none overflow-hidden">

@@ -69,30 +69,30 @@ export function DeepTissueMassage() {
     return (
         <div className="bg-background min-h-screen relative selection:bg-blue-100 selection:text-blue-900 overflow-hidden">
             <ServiceSchema
-                    type="service"
-                    name="Clinical Deep Tissue Massage in Colwood & Langford"
-                    description="Ideal for addressing multiple areas or complex conditions."
-                    slug="deep-tissue-massage"
-                    breadcrumbLabel="Clinical Deep Tissue Massage in Colwood & Langford"
-                    faqItems={[
-                              {
-                                        "question": "Will deep tissue massage hurt?",
-                                        "answer": "It should feel like a 'good hurt,' not sharp pain. Our RMTs work within your tolerance to release tension without causing guarding."
-                              },
-                              {
-                                        "question": "How is Deep Tissue different from Swedish massage?",
-                                        "answer": "Swedish massage focuses on relaxation and circulation. Deep Tissue focuses on structural changes, breaking down scar tissue and releasing chronic knots."
-                              },
-                              {
-                                        "question": "Is deep tissue massage covered by insurance?",
-                                        "answer": "Yes. All treatments at Sync Therapy are performed by Registered Massage Therapists (RMTs) and are covered by most plans. We direct bill Pacific Blue Cross, Canada Life, and Sun Life."
-                              },
-                              {
-                                        "question": "How often should I get a deep tissue massage?",
-                                        "answer": "For acute pain, we recommend 3-4 sessions spaced 1-2 weeks apart. For maintenance, once every 4-6 weeks is standard."
-                              }
-                    ]}
-                />
+                type="service"
+                name="Clinical Deep Tissue Massage in Colwood & Langford"
+                description="Ideal for addressing multiple areas or complex conditions."
+                slug="deep-tissue-massage"
+                breadcrumbLabel="Clinical Deep Tissue Massage in Colwood & Langford"
+                faqItems={[
+                    {
+                        "question": "Will deep tissue massage hurt?",
+                        "answer": "It should feel like a 'good hurt,' not sharp pain. Our RMTs work within your tolerance to release tension without causing guarding."
+                    },
+                    {
+                        "question": "How is Deep Tissue different from Swedish massage?",
+                        "answer": "Swedish massage focuses on relaxation and circulation. Deep Tissue focuses on structural changes, breaking down scar tissue and releasing chronic knots."
+                    },
+                    {
+                        "question": "Is deep tissue massage covered by insurance?",
+                        "answer": "Yes. All treatments at Sync Therapy are performed by Registered Massage Therapists (RMTs) and are covered by most plans. We direct bill Pacific Blue Cross, Canada Life, and Sun Life."
+                    },
+                    {
+                        "question": "How often should I get a deep tissue massage?",
+                        "answer": "For acute pain, we recommend 3-4 sessions spaced 1-2 weeks apart. For maintenance, once every 4-6 weeks is standard."
+                    }
+                ]}
+            />
 
             {/* Global Fluid Background */}
             <div className="fixed inset-0 z-0 pointer-events-none overflow-hidden">
@@ -185,7 +185,7 @@ export function DeepTissueMassage() {
                                 <p className="text-slate-600 mb-6 leading-relaxed">
                                     Chronic 'Tech Neck' and upper back tension from the Langford commute or sitting all day? We restore posture and mobility.
                                 </p>
-                                <Link href="/services/neck-pain-massage/" className="text-blue-600 font-bold hover:underline inline-flex items-center gap-1">
+                                <Link href="/conditions/neck-shoulder-pain/" className="text-blue-600 font-bold hover:underline inline-flex items-center gap-1">
                                     Treat Tech Neck <span className="text-lg">→</span>
                                 </Link>
                             </GlassCard>
