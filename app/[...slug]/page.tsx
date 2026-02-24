@@ -48,7 +48,7 @@ type Props = {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
     const resolvedParams = await params;
-    const item = await getContentBySlug(resolvedParams.slug);
+    const item = await getContentBySlug(resolvedParams.slug.join('/'));
 
     if (!item) {
         return {
@@ -146,7 +146,7 @@ import { SportsMassage } from '@/components/pages/SportsMassage';
 
 export default async function Page({ params }: Props) {
     const resolvedParams = await params;
-    const item = await getContentBySlug(resolvedParams.slug);
+    const item = await getContentBySlug(resolvedParams.slug.join('/'));
 
     if (!item && resolvedParams.slug[0] !== 'direct-billing' && !(resolvedParams.slug[0] === 'services' && (resolvedParams.slug[1] === 'deep-tissue-massage' || resolvedParams.slug[1] === 'sports-massage'))) {
         notFound();
@@ -217,7 +217,7 @@ export default async function Page({ params }: Props) {
                 .filter(p => p.slug[0] !== currentSlug)
                 .slice(0, 30) // Check a reasonable number
                 .map(async (p) => {
-                    const post = await getContentBySlug(p.slug);
+                    const post = await getContentBySlug(p.slug.join('/'));
                     if (post && post.type === 'post') {
                         const postCategory = getCategoryFromSlug(p.slug[0], post.frontmatter.category);
                         if (postCategory === detectedCategory) {
