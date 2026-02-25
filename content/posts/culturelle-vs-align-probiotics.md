@@ -350,7 +350,7 @@ seoTitle: 'Align vs. Culturelle: Is Align Worth the Extra Cost?'
                     </div>
                     <div>
                         <h4 class="text-xl font-semibold text-primary">Dosing and Onset of Action</h4>
-                        <p>The <a href="https://synctherapylocal.local/best-time-to-take-probiotics/" class="text-primary hover:underline font-semibold">dosing</a> reflects their different uses. Culturelle uses higher CFU (Colony Forming Units) counts of 10-20 billion and can show effects within 48 hours, making it suitable for acute issues. Align uses a much lower, precisely researched dose of 100 million CFU and requires 2-4 weeks to reach its full, system-modulating effect, positioning it for chronic management.</p>
+                        <p>The <a href="https://synctherapylocal.local/best-prebiotics-and-probiotics-supplements/" class="text-primary hover:underline font-semibold">dosing</a> reflects their different uses. Culturelle uses higher CFU (Colony Forming Units) counts of 10-20 billion and can show effects within 48 hours, making it suitable for acute issues. Align uses a much lower, precisely researched dose of 100 million CFU and requires 2-4 weeks to reach its full, system-modulating effect, positioning it for chronic management.</p>
                     </div>
                 </div>
             </section>

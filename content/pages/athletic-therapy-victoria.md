@@ -945,7 +945,7 @@ seoTitle: Athletic Therapy Victoria
                             <a data-wpil="url" href="https://synctherapylocal.local/about/" style="color: #007bff; text-decoration: none;">Why Choose Us</a>
                         </li>
                         <li style="margin-bottom: 10px;">
-                            <a data-wpil="url" href="https://synctherapylocal.local/our-team/" style="color: #007bff; text-decoration: none;">Our Team</a>
+                            <a data-wpil="url" href="https://synctherapylocal.local/our-team/daryl-stubbs/" style="color: #007bff; text-decoration: none;">Our Team</a>
                         </li>
                     </ul>
                 </div>

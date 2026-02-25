@@ -8,8 +8,8 @@ import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-c
 import { Activity, Flame, ShieldAlert, Zap } from 'lucide-react';
 
 export const metadata: Metadata = {
-    title: 'Sports Injury Treatment in Colwood | Sync Massage Therapy',
-    description: 'Urgent, clinical, and performance-focused sports injury treatment in Colwood. We manage tissue loading and safely rehabilitate athletic injuries.',
+    title: 'Athletic Therapy Langford | Sync Massage Therapy',
+    description: 'Get professional Athletic Therapy in Langford. We provide strict physical rehabilitation to fully resolve your injuries. Book an appointment today for relief!',
     alternates: {
         canonical: 'https://synctherapy.ca/services/sports-injury-treatment/',
     },

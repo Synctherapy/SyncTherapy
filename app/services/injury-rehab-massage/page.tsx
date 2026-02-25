@@ -7,8 +7,8 @@ import Image from 'next/image';
 import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-columns";
 
 export const metadata: Metadata = {
-    title: 'Injury Rehabilitation Massage in Colwood',
-    description: 'Clinical injury rehabilitation massage focusing on scar tissue reduction, mobility restoration, and post-surgery care.',
+    title: 'Registered Massage Therapy Colwood | Sync Massage Therapy',
+    description: 'Clinical Registered Massage Therapy in Colwood. We focus on physical rehabilitation to treat root causes of pain. Book an appointment today to start healing!',
     alternates: {
         canonical: 'https://synctherapy.ca/services/injury-rehab-massage/',
     },

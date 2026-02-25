@@ -363,7 +363,7 @@ seoTitle: Home
                 </div>
                 <h3 class="font-semibold text-text mb-2">Visceral Manipulation</h3>
                 <p class="text-sm text-text/70 mb-4">Specialized technique for organ mobility</p>
-                <a href="https://synctherapylocal.local/services/visceral-manipulation-victoria/" class="text-primary hover:text-accent text-sm font-medium">
+                <a href="https://synctherapylocal.local/services/visceral-manipulation/" class="text-primary hover:text-accent text-sm font-medium">
                     View Visceral Manipulation Details →
                 </a>
             </div>
@@ -744,7 +744,7 @@ seoTitle: Home
             </div>
         </div>
         <div class="text-center">
-            <a data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" href="/our-team/" class="btn-outline px-8 py-3">Meet Our Full Team</a>
+            <a data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" href="/our-team/daryl-stubbs/" class="btn-outline px-8 py-3">Meet Our Full Team</a>
         </div>
     </div>
 </section>

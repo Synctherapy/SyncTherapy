@@ -6,16 +6,14 @@ import Image from 'next/image';
 import { GoogleReviewsColumns } from '@/components/testimonials/google-reviews-columns';
 
 export const metadata: Metadata = {
-    title: 'About Sync Massage Therapy | Award-Winning Clinic in Colwood',
-    description:
-        'Learn why Colwood and Langford residents choose Sync Massage Therapy for clinical pain relief. We combine RMT, Athletic Therapy, and Holistic Nutrition.',
+    title: 'Registered Massage Therapy Langford | Sync Massage Therapy',
+    description: 'Clinical Registered Massage Therapy in Langford. We focus on physical rehabilitation to treat root causes of pain. Book an appointment today to start healing!',
     alternates: {
         canonical: 'https://www.synctherapy.ca/about/',
     },
     openGraph: {
-        title: 'About Sync Massage Therapy | Award-Winning Clinic in Colwood',
-        description:
-            'Learn why Colwood and Langford residents choose Sync Massage Therapy for clinical pain relief. We combine RMT, Athletic Therapy, and Holistic Nutrition.',
+        title: 'Registered Massage Therapy Langford | Sync Massage Therapy',
+        description: 'Clinical Registered Massage Therapy in Langford. We focus on physical rehabilitation to treat root causes of pain. Book an appointment today to start healing!',
         url: 'https://www.synctherapy.ca/about/',
         siteName: 'Sync Therapy',
         locale: 'en_CA',

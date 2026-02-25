@@ -8,8 +8,8 @@ import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-c
 import { BookOpen, Flame, Clock, TrendingDown } from 'lucide-react';
 
 export const metadata: Metadata = {
-    title: 'Holistic Dietary Consultation in Colwood | Sync Massage Therapy',
-    description: 'Educational, foundational dietary consultation in Colwood. We review macronutrient balance and systemic inflammation to build sustainable habits.',
+    title: 'Holistic Nutrition Westshore | Sync Massage Therapy',
+    description: 'Comprehensive Holistic Nutrition in Westshore. We support physical rehabilitation with targeted dietary plans. Book an appointment today to improve your health!',
     alternates: {
         canonical: 'https://synctherapy.ca/services/dietary-consultation/',
     },

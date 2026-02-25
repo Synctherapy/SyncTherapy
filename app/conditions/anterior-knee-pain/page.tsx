@@ -8,8 +8,8 @@ import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-c
 import { Activity, Footprints, ChevronDown, Repeat } from 'lucide-react';
 
 export const metadata: Metadata = {
-    title: 'Anterior Knee Pain (Runner\'s Knee) Relief in Colwood | Sync Massage Therapy',
-    description: 'Biomechanical and corrective Anterior Knee Pain treatment in Colwood. We assess patellar tracking to relieve Runner\'s Knee pain safely.',
+    title: 'Athletic Therapy Westshore | Sync Massage Therapy's Knee) Relief in Colwood | Sync Massage Therapy',
+    description: 'Get professional Athletic Therapy in Westshore. We provide strict physical rehabilitation to fully resolve your injuries. Book an appointment today for relief!'s Knee pain safely.',
     alternates: {
         canonical: 'https://synctherapy.ca/conditions/anterior-knee-pain/',
     },

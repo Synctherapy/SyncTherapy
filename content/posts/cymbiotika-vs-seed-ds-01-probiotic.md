@@ -165,7 +165,7 @@ seoTitle: Cymbiotika vs. Seed DS-01 (2026 Review)
             "description": "A premium probiotic supplement with 16 strains, plant-based prebiotics, and a unique blend of herbal alchemy and amino acids.",
             "offers": {
               "@type": "Offer",
-              "url": "https://synctherapylocal.local/cymbiotika-vs-seed-ds-01-probiotic/#cymbiotika",
+              "url": "https://synctherapylocal.local/seed-vs-pendulum/#cymbiotika",
               "priceCurrency": "CAD",
               "price": "116.00",
               "availability": "https://schema.org/InStock"

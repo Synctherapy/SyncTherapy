@@ -41,14 +41,14 @@ const services: ServiceItem[] = [
         title: "Therapeutic & Swedish Massage",
         description: "Therapeutic massage has a specific goal like reducing pain or improving range of motion. Swedish massage focuses on relaxation and general wellness. We offer both.",
         image: "/images/generated/massage-swedish-unique.png",
-        href: "/services/swedish-relaxation-massage-victoria",
+        href: "/services/swedish-massage",
         cta: "Book Therapeutic Massage"
     },
     {
         title: "Stress Relief & Relaxation",
         description: "Calm your nervous system. When you're in constant stress mode, your body doesn't heal properly. Regular massage helps break that cycle and improve sleep.",
         image: "/images/generated/massage-stress-relief-unique.png",
-        href: "/services/swedish-relaxation-massage-victoria",
+        href: "/services/swedish-massage",
         cta: "De-Stress Now"
     },
     {
@@ -90,7 +90,7 @@ const services: ServiceItem[] = [
         title: "Visceral Manipulation",
         description: "Gentle, specific work for abdominal organs to help with digestive issues, post-surgical recovery, and chronic pelvic pain. A specialized technique for deep healing.",
         image: "/images/generated/massage-visceral-gentle.png",
-        href: "/services/visceral-manipulation-victoria",
+        href: "/services/visceral-manipulation",
         cta: "Learn About Visceral"
     }
 ];

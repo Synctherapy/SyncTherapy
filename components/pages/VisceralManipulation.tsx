@@ -268,7 +268,7 @@ export function VisceralManipulation() {
                             <div className="md:w-1/3">
                                 <div className="relative aspect-square rounded-3xl overflow-hidden shadow-2xl border-4 border-white">
                                     <Image
-                                        src="/wp-content/uploads/2025/06/daryls-an-RMT-in-downtown-victoria-offering-massage-therapy-600x801.jpg"
+                                        src="/images/generated/about-hero.png"
                                         alt="Daryl Stubbs RMT"
                                         fill
                                         className="object-cover"

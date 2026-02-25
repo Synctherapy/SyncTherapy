@@ -1203,7 +1203,7 @@ seoTitle: About
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                                 </svg>
                                 <span>
-                                    <a href="https://synctherapylocal.local/services/visceral-manipulation-victoria/" class="link-primary">
+                                    <a href="https://synctherapylocal.local/services/visceral-manipulation/" class="link-primary">
                                         Visceral Manipulation (VM1)
                                     </a>
                                 </span>
@@ -1493,7 +1493,7 @@ seoTitle: About
                                     </a>
                                 </p>
                                 <p class="mb-2">
-                                    <a href="https://synctherapylocal.local/our-team/" class="link-white">                                        → Meet Our Award-Winning Team                                    </a>
+                                    <a href="https://synctherapylocal.local/our-team/daryl-stubbs/" class="link-white">                                        → Meet Our Award-Winning Team                                    </a>
                                 </p>
                             </div>
                         </div>

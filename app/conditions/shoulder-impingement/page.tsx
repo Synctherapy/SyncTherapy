@@ -8,8 +8,8 @@ import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-c
 import { Activity, MoveUp, Shirt, ShieldCheck } from 'lucide-react';
 
 export const metadata: Metadata = {
-    title: 'Shoulder Impingement Treatment in Colwood | Sync Massage Therapy',
-    description: 'Relieving, structural shoulder impingement treatment in Colwood. We assess the subacromial space and address postural rounding safely.',
+    title: 'Athletic Therapy Langford | Sync Massage Therapy',
+    description: 'Get professional Athletic Therapy in Langford. We provide strict physical rehabilitation to fully resolve your injuries. Book an appointment today for relief!',
     alternates: {
         canonical: 'https://synctherapy.ca/conditions/shoulder-impingement/',
     },

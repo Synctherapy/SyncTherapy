@@ -4,10 +4,10 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
-    title: 'Muscle Tension Relief Colwood & Langford | Sync Therapy',
-    description: 'Expert deep tissue massage for chronic muscle knots and tension. Flush out stress and restore flexibility with targeted therapeutic massage.',
+    title: 'Registered Massage Therapy Westshore | Sync Massage Therapy',
+    description: 'Clinical Registered Massage Therapy in Westshore. We focus on physical rehabilitation to treat root causes of pain. Book an appointment today to start healing!',
     alternates: {
-        canonical: 'https://synctherapy.ca/conditions/muscle-tension-relief/',
+        canonical: 'https://synctherapy.ca/conditions/muscle-tension/',
     },
 };
 

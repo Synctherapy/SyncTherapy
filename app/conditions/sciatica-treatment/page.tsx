@@ -4,8 +4,8 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
-    title: 'Sciatica Treatment Colwood & Langford | Nerve Pain Relief | Sync Therapy',
-    description: 'Sciatica relief in Colwood & Langford. We treat piriformis syndrome, disc herniations, and shooting leg pain. Direct billing for West Shore residents.',
+    title: 'Registered Massage Therapy Westshore | Sync Massage Therapy',
+    description: 'Clinical Registered Massage Therapy in Westshore. We focus on physical rehabilitation to treat root causes of pain. Book an appointment today to start healing!',
     alternates: {
         canonical: 'https://synctherapy.ca/conditions/sciatica/',
     },

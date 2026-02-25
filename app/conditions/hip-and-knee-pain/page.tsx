@@ -4,8 +4,8 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
-    title: 'Hip & Knee Pain Treatment Colwood & Langford | Sync Massage Therapy',
-    description: "Relief for hip and knee pain, including runner's knee, IT band syndrome, and osteoarthritis. Correct your alignment and move pain-free again.",
+    title: 'Registered Massage Therapy Colwood | Sync Massage Therapy',
+    description: 'Clinical Registered Massage Therapy in Colwood. We focus on physical rehabilitation to treat root causes of pain. Book an appointment today to start healing!',
     alternates: {
         canonical: 'https://synctherapy.ca/conditions/hip-and-knee-pain/',
     },

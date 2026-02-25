@@ -436,7 +436,7 @@ seoTitle: Conditions
                                 </div>
                             </div>
 
-                            <a href="https://synctherapylocal.local/services/swedish-relaxation-massage-victoria/" class="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded transition-all duration-300 inline-flex items-center justify-center">
+                            <a href="https://synctherapylocal.local/services/swedish-massage/" class="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded transition-all duration-300 inline-flex items-center justify-center">
                                 Learn More
                                 <i class="fas fa-arrow-right ml-2"></i>
                             </a>

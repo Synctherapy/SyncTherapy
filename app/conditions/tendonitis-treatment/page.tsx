@@ -4,8 +4,8 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
-    title: 'Tendonitis Treatment Colwood & Langford | Tennis Elbow & Achilles Rehab',
-    description: 'Specialized tendonitis treatment in Colwood. We treat Tennis Elbow, Golfer\'s Elbow, and Achilles Tendinopathy using progressive loading and soft tissue release.',
+    title: 'Athletic Therapy Langford | Sync Massage Therapy',
+    description: 'Get professional Athletic Therapy in Langford. We provide strict physical rehabilitation to fully resolve your injuries. Book an appointment today for relief!'s Elbow, and Achilles Tendinopathy using progressive loading and soft tissue release.',
     alternates: {
         canonical: 'https://synctherapy.ca/conditions/tendonitis-treatment/',
     },

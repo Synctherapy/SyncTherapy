@@ -5,14 +5,14 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
-    title: 'Holistic Nutrition & Dietary Consulting | Sync Therapy',
-    description: 'Reduce inflammation from the inside out. We analyze metabolic health and gut function to speed up physical recovery.',
+    title: 'Holistic Nutrition Westshore | Sync Massage Therapy',
+    description: 'Comprehensive Holistic Nutrition in Westshore. We support physical rehabilitation with targeted dietary plans. Book an appointment today to improve your health!',
     alternates: {
         canonical: 'https://www.synctherapy.ca/services/nutrition-consulting/',
     },
     openGraph: {
-        title: 'Holistic Nutrition & Dietary Consulting | Sync Therapy',
-        description: 'Reduce inflammation from the inside out. We analyze metabolic health and gut function to speed up physical recovery.',
+        title: 'Holistic Nutrition Westshore | Sync Massage Therapy',
+        description: 'Comprehensive Holistic Nutrition in Westshore. We support physical rehabilitation with targeted dietary plans. Book an appointment today to improve your health!',
         url: 'https://www.synctherapy.ca/services/nutrition-consulting/',
         siteName: 'Sync Therapy',
         locale: 'en_CA',

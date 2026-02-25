@@ -1571,7 +1571,7 @@ seoTitle: Athletic Therapy Colwood
 
                         <li style="margin-bottom: 10px;">
 
-                            <a data-wpil="url" href="https://synctherapylocal.local/our-team/" style="color: var(--primary-color); text-decoration: none;">Our Team</a>
+                            <a data-wpil="url" href="https://synctherapylocal.local/our-team/daryl-stubbs/" style="color: var(--primary-color); text-decoration: none;">Our Team</a>
 
                         </li>
 

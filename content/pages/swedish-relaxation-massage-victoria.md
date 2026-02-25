@@ -538,7 +538,7 @@ seoTitle: Swedish Relaxation Massage Victoria
                 </p>
 
                 <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-                    <a href="https://synctherapylocal.local/services/swedish-relaxation-massage-victoria/" class="block">
+                    <a href="https://synctherapylocal.local/services/swedish-massage/" class="block">
                         <div class="bg-white rounded-lg shadow-sm hover:shadow-md hover:bg-primary/5 transition-all p-6 cursor-pointer border-2 border-primary/20">
                             <div class="bg-primary/10 w-12 h-12 rounded-full flex items-center justify-center mx-auto mb-4">
                                 <i data-lucide="heart" class="w-6 h-6 text-primary"></i>

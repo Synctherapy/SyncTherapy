@@ -8,8 +8,8 @@ import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-c
 import { Activity, Scissors, TrendingUp, AlertTriangle } from 'lucide-react';
 
 export const metadata: Metadata = {
-    title: 'Clinical Exercise Therapy in Colwood | Sync Massage Therapy',
-    description: 'Active and rehabilitative Clinical Exercise Therapy in Colwood. We rebuild neural pathways and increase the tensile strength of healing joint tissue safely.',
+    title: 'Athletic Therapy Colwood | Sync Massage Therapy',
+    description: 'Get professional Athletic Therapy in Colwood. We provide strict physical rehabilitation to fully resolve your injuries. Book an appointment today for relief!',
     alternates: {
         canonical: 'https://synctherapy.ca/services/exercise-therapy/',
     },

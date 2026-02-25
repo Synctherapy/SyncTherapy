@@ -4,8 +4,8 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
-    title: 'Postural Correction & Structural Integration Langford | Sync Therapy',
-    description: 'Fix slouching, uneven shoulders, and forward head posture. Structural integration and massage therapy to realign your body and relieve chronic tension.',
+    title: 'Registered Massage Therapy Colwood | Sync Massage Therapy',
+    description: 'Clinical Registered Massage Therapy in Colwood. We focus on physical rehabilitation to treat root causes of pain. Book an appointment today to start healing!',
     alternates: {
         canonical: 'https://synctherapy.ca/conditions/postural-imbalance/',
     },

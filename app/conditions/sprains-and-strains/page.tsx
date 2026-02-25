@@ -4,8 +4,8 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
-    title: 'Sprains & Strains Treatment Colwood | Acute Injury Rehab',
-    description: 'Fast assessment and rehab for ankle sprains, muscle strains, and sports injuries in Colwood & Langford using the PEACE & LOVE protocol.',
+    title: 'Athletic Therapy Colwood | Sync Massage Therapy',
+    description: 'Get professional Athletic Therapy in Colwood. We provide strict physical rehabilitation to fully resolve your injuries. Book an appointment today for relief!',
     alternates: {
         canonical: 'https://synctherapy.ca/conditions/sprains-and-strains/',
     },

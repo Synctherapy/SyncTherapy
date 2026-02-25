@@ -193,12 +193,12 @@ export function RelaxationMassage() {
                     <p className="text-center text-slate-600 mb-12 max-w-2xl mx-auto">More than just a treat—it's therapy.</p>
 
                     <div className="grid md:grid-cols-3 gap-6">
-                        <Link href="/conditions/muscle-tension-relief/" className="block p-8 bg-white border border-gray-200 rounded-xl hover:border-blue-600 hover:shadow-xl transition-all group">
+                        <Link href="/conditions/muscle-tension/" className="block p-8 bg-white border border-gray-200 rounded-xl hover:border-blue-600 hover:shadow-xl transition-all group">
                             <div className="w-12 h-12 bg-blue-100 text-blue-600 rounded-lg flex items-center justify-center text-2xl mb-4 group-hover:bg-blue-600 group-hover:text-white transition-colors">🚿</div>
                             <h3 className="font-bold text-xl mb-2 text-blue-900">Muscle Flushing</h3>
                             <p className="text-sm text-slate-600">Improving circulation to flush out metabolic waste and reduce soreness.</p>
                         </Link>
-                        <Link href="/conditions/neck-pain/" className="block p-8 bg-white border border-gray-200 rounded-xl hover:border-blue-600 hover:shadow-xl transition-all group">
+                        <Link href="/conditions/neck-shoulder-pain/" className="block p-8 bg-white border border-gray-200 rounded-xl hover:border-blue-600 hover:shadow-xl transition-all group">
                             <div className="w-12 h-12 bg-blue-100 text-blue-600 rounded-lg flex items-center justify-center text-2xl mb-4 group-hover:bg-blue-600 group-hover:text-white transition-colors">🧣</div>
                             <h3 className="font-bold text-xl mb-2 text-blue-900">Neck & Shoulder Relief</h3>
                             <p className="text-sm text-slate-600">Gently releasing the stress-holding patterns in your upper traps and neck.</p>

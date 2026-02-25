@@ -991,7 +991,7 @@ seoTitle: Our Team
                     <p class="service-description">Specialized headache and neck pain relief</p>
                 </a>
                 
-                <a href="https://synctherapylocal.local/services/visceral-manipulation-victoria/" class="service-card">
+                <a href="https://synctherapylocal.local/services/visceral-manipulation/" class="service-card">
                     <div class="service-icon">🫁</div>
                     <h3 class="service-title">Visceral Manipulation</h3>
                     <p class="service-description">Internal organ mobility therapy</p>

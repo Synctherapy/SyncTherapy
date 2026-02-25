@@ -8,8 +8,8 @@ import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-c
 import { ListChecks, Search, HelpCircle, Activity } from 'lucide-react';
 
 export const metadata: Metadata = {
-    title: 'Low FODMAP Diet Guidance in Colwood | Sync Massage Therapy',
-    description: 'Structured, relieving Low FODMAP guidance in Colwood. We guide you through elimination and reintroduction protocols to isolate fermentable carbohydrate distress.',
+    title: 'Holistic Nutrition Langford | Sync Massage Therapy',
+    description: 'Comprehensive Holistic Nutrition in Langford. We support physical rehabilitation with targeted dietary plans. Book an appointment today to improve your health!',
     alternates: {
         canonical: 'https://synctherapy.ca/services/low-fodmap-diet/',
     },

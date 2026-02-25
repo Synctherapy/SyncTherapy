@@ -8,8 +8,8 @@ import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-c
 import { Scale, Coffee, Brain, RefreshCcw } from 'lucide-react';
 
 export const metadata: Metadata = {
-    title: 'Clinical Nutrition Counseling in Colwood | Sync Massage Therapy',
-    description: 'Coaching, habit-forming clinical nutrition counseling in Colwood. We specialize in behavioral habit tracking and sustainable long-term goal setting.',
+    title: 'Holistic Nutrition Langford | Sync Massage Therapy',
+    description: 'Comprehensive Holistic Nutrition in Langford. We support physical rehabilitation with targeted dietary plans. Book an appointment today to improve your health!',
     alternates: {
         canonical: 'https://synctherapy.ca/services/nutrition-counseling/',
     },

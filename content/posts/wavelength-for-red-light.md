@@ -103,7 +103,7 @@ seoTitle: 'Optimal Red Light Wavelengths: Color & Science Explained'
 <p>Red wavelengths also have anti-aging benefits. Red light therapy has been shown to reduce the appearance of wrinkles and fine lines, making it an effective treatment for those looking to reverse the signs of aging.</p>
 <p>Additionally, red light therapy has been shown to improve skin elasticity, which is essential for youthful-looking skin.</p>
 <h3>Hair Growth</h3>
-<p><a href="https://synctherapylocal.local/red-light-therapy-for-alopecia/">Red wavelengths have been shown to promote hair growth.</a> Red light therapy stimulates blood flow to the scalp, which can help to promote hair growth.</p>
+<p><a href="https://synctherapylocal.local/red-light-therapy-and-scars/">Red wavelengths have been shown to promote hair growth.</a> Red light therapy stimulates blood flow to the scalp, which can help to promote hair growth.</p>
 <p>Additionally, red light therapy has been shown to increase the production of ATP, which is essential for healthy hair growth.</p>
 <h3>Reduced Inflammation</h3>
 <p><a href="https://synctherapylocal.local/red-light-therapy/">Red wavelengths have anti-inflammatory benefits</a>. Red light therapy has been shown to reduce inflammation and swelling, making it an effective treatment for those with inflammatory conditions such as arthritis.</p>

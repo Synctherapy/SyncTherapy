@@ -8,8 +8,8 @@ import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-c
 import { HeartPulse, Activity, TrendingDown, Shield } from 'lucide-react';
 
 export const metadata: Metadata = {
-    title: 'Cholesterol Management Diet in Colwood | Sync Massage Therapy',
-    description: 'Heart-healthy cholesterol management diet guidance in Colwood. We focus on structural fat ratio analysis and soluble fiber intake to support your cardiovascular system.',
+    title: 'Holistic Nutrition Colwood | Sync Massage Therapy',
+    description: 'Comprehensive Holistic Nutrition in Colwood. We support physical rehabilitation with targeted dietary plans. Book an appointment today to improve your health!',
     alternates: {
         canonical: 'https://synctherapy.ca/services/cholesterol-diet/',
     },

@@ -6,16 +6,14 @@ import Image from 'next/image';
 import { GoogleReviewsColumns } from '@/components/testimonials/google-reviews-columns';
 
 export const metadata: Metadata = {
-    title: 'Daryl Stubbs | RMT, Athletic Therapist & Nutritionist in Colwood',
-    description:
-        'Meet Daryl Stubbs, Clinical Director of Sync Massage Therapy. With over a decade of experience, Daryl offers RMT, Athletic Therapy, and Holistic Nutrition in the West Shore.',
+    title: 'Registered Massage Therapy Colwood | Sync Massage Therapy',
+    description: 'Clinical Registered Massage Therapy in Colwood. We focus on physical rehabilitation to treat root causes of pain. Book an appointment today to start healing!',
     alternates: {
         canonical: 'https://www.synctherapy.ca/our-team/daryl-stubbs/',
     },
     openGraph: {
-        title: 'Daryl Stubbs | RMT, Athletic Therapist & Nutritionist in Colwood',
-        description:
-            'Meet Daryl Stubbs, Clinical Director of Sync Massage Therapy. With over a decade of experience, Daryl offers RMT, Athletic Therapy, and Holistic Nutrition in the West Shore.',
+        title: 'Registered Massage Therapy Colwood | Sync Massage Therapy',
+        description: 'Clinical Registered Massage Therapy in Colwood. We focus on physical rehabilitation to treat root causes of pain. Book an appointment today to start healing!',
         url: 'https://www.synctherapy.ca/our-team/daryl-stubbs/',
         siteName: 'Sync Massage Therapy',
         locale: 'en_CA',
@@ -31,8 +29,7 @@ const personSchema = {
     url: 'https://www.synctherapy.ca/our-team/daryl-stubbs/',
     image: 'https://www.synctherapy.ca/images/daryl-stubbs-author.jpg',
     jobTitle: 'Registered Massage Therapist, Certified Athletic Therapist, Holistic Nutritionist',
-    description:
-        'Daryl Stubbs is the founder and Clinical Director of Sync Massage Therapy in Colwood, BC. He holds credentials as a Registered Massage Therapist (CCHPBC), Certified Athletic Therapist (CATA), and Holistic Nutritionist, with over a decade of clinical experience.',
+    description: 'Clinical Registered Massage Therapy in Colwood. We focus on physical rehabilitation to treat root causes of pain. Book an appointment today to start healing!',
     worksFor: { '@id': 'https://www.synctherapy.ca/#organization' },
     founder: { '@id': 'https://www.synctherapy.ca/#organization' },
     alumniOf: [

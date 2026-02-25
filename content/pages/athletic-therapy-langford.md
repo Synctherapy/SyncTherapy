@@ -820,7 +820,7 @@ seoTitle: Athletic Therapy Langford
                             <a data-wpil="url" href="https://synctherapylocal.local/about/" style="color: var(--primary-color); text-decoration: none;">Why Choose Us</a>
                         </li>
                         <li style="margin-bottom: 10px;">
-                            <a data-wpil="url" href="https://synctherapylocal.local/our-team/" style="color: var(--primary-color); text-decoration: none;">Our Team</a>
+                            <a data-wpil="url" href="https://synctherapylocal.local/our-team/daryl-stubbs/" style="color: var(--primary-color); text-decoration: none;">Our Team</a>
                         </li>
                     </ul>
                 </div>

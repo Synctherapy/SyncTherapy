@@ -99,7 +99,7 @@ seoTitle: overuse-injuries-victoria
                         Or learn more about us:
                     </p>
                     <div class="flex justify-center items-center space-x-4 sm:space-x-6 mt-4 flex-wrap">
-                        <a data-wpil="url" href="https://synctherapylocal.local/our-team/" class="link-primary">Our Team</a>
+                        <a data-wpil="url" href="https://synctherapylocal.local/our-team/daryl-stubbs/" class="link-primary">Our Team</a>
                         <span class="text-gray-300">|</span>
                         <a data-wpil="url" href="https://synctherapylocal.local/about/" class="link-primary">Why Us</a>
                         <span class="text-gray-300">|</span>

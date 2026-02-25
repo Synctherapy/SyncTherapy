@@ -738,7 +738,7 @@ seoTitle: Visceral Manipulation Massage Victoria BC | Expert Visceral Massage Ne
                             <td>60-90 minutes</td>
                         </tr>
                         <tr>
-                            <td><a href="https://synctherapylocal.local/services/swedish-relaxation-massage-victoria/" style="color: var(--accent); text-decoration: underline;">Swedish Massage</a></td>
+                            <td><a href="https://synctherapylocal.local/services/swedish-massage/" style="color: var(--accent); text-decoration: underline;">Swedish Massage</a></td>
                             <td>Light to Moderate</td>
                             <td>Surface Muscles</td>
                             <td>Relaxation, Stress Relief</td>
@@ -1146,7 +1146,7 @@ seoTitle: Visceral Manipulation Massage Victoria BC | Expert Visceral Massage Ne
       "name": "Visceral Manipulation & Abdominal Massage Victoria",
       "serviceType": "Visceral Manipulation",
       "category": "MedicalBusiness",
-      "url": "https://synctherapylocal.local/services/visceral-manipulation-victoria/",
+      "url": "https://synctherapylocal.local/services/visceral-manipulation/",
       "image": "/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg",
       "description": "Specialized Visceral Manipulation and abdominal organ massage in Victoria and Colwood. Performed by Registered Massage Therapists (RMT) and eligible for direct billing.",
       "provider": {

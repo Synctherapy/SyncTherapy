@@ -7,8 +7,8 @@ import Image from 'next/image';
 import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-columns";
 
 export const metadata: Metadata = {
-    title: 'Post-Event Sports Massage in Colwood',
-    description: 'Post-event sports massage to flush metabolic waste and speed up recovery after a grueling event.',
+    title: 'Registered Massage Therapy Colwood | Sync Massage Therapy',
+    description: 'Clinical Registered Massage Therapy in Colwood. We focus on physical rehabilitation to treat root causes of pain. Book an appointment today to start healing!',
     alternates: {
         canonical: 'https://synctherapy.ca/services/post-event-massage/',
     },

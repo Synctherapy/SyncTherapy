@@ -4,8 +4,8 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
-    title: 'Back Pain Treatment Colwood & Langford | Sync Massage Therapy',
-    description: 'Relief for lower back pain, stiffness, and spasms in Colwood & Langford. We treat the root cause: weak core, tight hips, and organ restrictions.',
+    title: 'Registered Massage Therapy Colwood | Sync Massage Therapy',
+    description: 'Clinical Registered Massage Therapy in Colwood. We focus on physical rehabilitation to treat root causes of pain. Book an appointment today to start healing!',
     alternates: {
         canonical: 'https://synctherapy.ca/conditions/back-pain/',
     },

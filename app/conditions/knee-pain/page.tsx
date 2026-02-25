@@ -8,8 +8,8 @@ import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-c
 import { MoveDown, Shield, TrendingDown, Footprints } from 'lucide-react';
 
 export const metadata: Metadata = {
-    title: 'Knee Pain & Injury Rehab in Colwood | Sync Massage Therapy',
-    description: 'Structural, stabilizing knee pain rehabilitation in Colwood. We assess ligamentous laxity and proper meniscus tracking to manage joint pain effectively.',
+    title: 'Registered Massage Therapy Westshore | Sync Massage Therapy',
+    description: 'Clinical Registered Massage Therapy in Westshore. We focus on physical rehabilitation to treat root causes of pain. Book an appointment today to start healing!',
     alternates: {
         canonical: 'https://synctherapy.ca/conditions/knee-pain/',
     },

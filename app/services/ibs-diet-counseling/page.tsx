@@ -8,8 +8,8 @@ import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-c
 import { Battery, MapPin, Search, Activity } from 'lucide-react';
 
 export const metadata: Metadata = {
-    title: 'IBS Diet Counseling in Colwood | Sync Massage Therapy',
-    description: 'Empathetic, investigative IBS diet counseling in Colwood. We focus on comprehensive dietary analysis and trigger-food isolation to manage hidden patterns.',
+    title: 'Holistic Nutrition Colwood | Sync Massage Therapy',
+    description: 'Comprehensive Holistic Nutrition in Colwood. We support physical rehabilitation with targeted dietary plans. Book an appointment today to improve your health!',
     alternates: {
         canonical: 'https://synctherapy.ca/services/ibs-diet-counseling/',
     },

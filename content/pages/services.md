@@ -920,7 +920,7 @@ seoTitle: Services
                                 <span>Full Body Relaxation</span>
                             </div>
                         </div>
-                        <a href="/services/swedish-relaxation-massage-victoria/" class="btn btn-primary" style="width: 100%;">
+                        <a href="/services/swedish-massage/" class="btn btn-primary" style="width: 100%;">
                             Learn More
                             <i data-lucide="arrow-right" style="margin-left: 0.5rem;"></i>
                         </a>
@@ -976,7 +976,7 @@ seoTitle: Services
                                 <span>Core Function</span>
                             </div>
                         </div>
-                        <a href="/services/visceral-manipulation-victoria/" class="btn btn-primary" style="width: 100%;">
+                        <a href="/services/visceral-manipulation/" class="btn btn-primary" style="width: 100%;">
                             Learn More
                             <i data-lucide="arrow-right" style="margin-left: 0.5rem;"></i>
                         </a>

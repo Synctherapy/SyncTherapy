@@ -8,8 +8,8 @@ import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-c
 import { AlertTriangle, Activity, Coffee, HelpCircle } from 'lucide-react';
 
 export const metadata: Metadata = {
-    title: 'Food Sensitivity Counseling in Colwood | Sync Massage Therapy',
-    description: 'Investigative, relieving Food Sensitivity Counseling in Colwood. We use guided elimination diets to systematically isolate triggers without unnecessary restriction.',
+    title: 'Holistic Nutrition Westshore | Sync Massage Therapy',
+    description: 'Comprehensive Holistic Nutrition in Westshore. We support physical rehabilitation with targeted dietary plans. Book an appointment today to improve your health!',
     alternates: {
         canonical: 'https://synctherapy.ca/services/food-sensitivity-counseling/',
     },
