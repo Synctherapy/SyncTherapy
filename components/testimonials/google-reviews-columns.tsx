@@ -7,6 +7,7 @@ import { Button } from "@/components/ui/button";
 import { fetchGoogleReviewsAction } from "@/lib/actions/google-reviews";
 
 const PLACE_ID = "ChIJh0e3HIV0j1QRtWxeiAnwzeo"; // Sync Therapy Colwood (Correct ID)
+const STARS = [0, 1, 2, 3, 4];
 
 interface ReviewProps {
     img: string;
@@ -44,7 +45,7 @@ const ReviewCard = ({ img, name, username, body, rating }: ReviewProps) => {
                     </figcaption>
                     <div className="flex items-center gap-1">
                         <div className="flex">
-                            {[...Array(rating || 5)].map((_, i) => (
+                            {STARS.slice(0, rating || 5).map((_, i) => (
                                 <Star key={i} className="w-3 h-3 fill-yellow-400 text-yellow-400" />
                             ))}
                         </div>

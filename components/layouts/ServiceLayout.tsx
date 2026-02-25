@@ -8,6 +8,8 @@ import {
 } from "lucide-react";
 import { cn } from "@/lib/utils";
 
+const STARS = [0, 1, 2, 3, 4];
+
 interface ServiceLayoutProps {
     frontmatter: {
         title: string;
@@ -57,7 +59,7 @@ export function ServiceLayout({ frontmatter, content }: ServiceLayoutProps) {
                             <h3 className="text-[#1A2B3C] text-lg font-bold font-sans">Patient Success</h3>
                             <div className="flex items-center gap-1 mt-1">
                                 <div className="flex text-[#2563EB]">
-                                    {[...Array(5)].map((_, i) => (
+                                {STARS.map((_, i) => (
                                         <Star key={i} className="w-3.5 h-3.5 fill-current" />
                                     ))}
                                 </div>
