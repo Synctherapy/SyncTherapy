@@ -2,8 +2,10 @@
 title: Checkout
 date: '2025-05-25 15:02:14'
 slug: checkout
-description: "Complete your booking or purchase at Sync Therapy."
-seoTitle: Checkout
+description: >-
+  Complete your purchase or booking at Sync Therapy. Secure checkout for
+  products and appointment bookings.
+seoTitle: Checkout | Sync Therapy
 ---
 
 <!-- wp:woocommerce/checkout -->

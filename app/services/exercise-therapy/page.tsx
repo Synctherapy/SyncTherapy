@@ -8,8 +8,8 @@ import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-c
 import { Activity, Scissors, TrendingUp, AlertTriangle } from 'lucide-react';
 
 export const metadata: Metadata = {
-    title: 'Athletic Therapy Colwood | Sync Massage Therapy',
-    description: 'Get professional Athletic Therapy in Colwood. We provide strict physical rehabilitation to fully resolve your injuries. Book an appointment today for relief!',
+    title: 'Exercise Therapy Colwood | West Shore Rehab',
+    description: 'Clinical exercise therapy and corrective movement in Colwood. Tailored rehab programs for injury recovery, chronic pain, and performance goals.',
     alternates: {
         canonical: 'https://synctherapy.ca/services/exercise-therapy/',
     },

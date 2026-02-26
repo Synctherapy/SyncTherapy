@@ -4,8 +4,8 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
-    title: 'Registered Massage Therapy Westshore | Sync Massage Therapy',
-    description: 'Clinical Registered Massage Therapy in Westshore. We focus on physical rehabilitation to treat root causes of pain. Book an appointment today to start healing!',
+    title: 'Relaxation Massage Colwood | Sync Massage Therapy',
+    description: 'Unwind with a relaxation or Swedish massage in Colwood. Reduce stress, improve sleep, and restore balance. Direct billing available. Book online today.',
     alternates: {
         canonical: 'https://synctherapy.ca/services/relaxation-massage/',
     },

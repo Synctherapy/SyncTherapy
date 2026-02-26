@@ -3,10 +3,10 @@ title: Chronic Pain Victoria
 date: '2025-07-03 00:26:04'
 slug: chronic-pain-victoria
 description: >-
-  { "@context": "https://schema.org", "@graph": [ { "@type": "Service", "@id":
-  "https://synctherapylocal.local/conditions/chronic-pain-victoria#service",
-  "name":...
-seoTitle: Chronic Pain Victoria
+  Chronic pain treatment near Victoria, BC. Our Colwood clinic uses a
+  multi-disciplinary approach combining RMT, athletic therapy, and visceral
+  work.
+seoTitle: Chronic Pain Treatment Victoria | Colwood Clinic
 ---
 
 <!-- wp:paragraph -->

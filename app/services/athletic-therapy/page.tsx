@@ -8,8 +8,8 @@ import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-c
 import { MoveRight, RefreshCcw, Activity, ShieldCheck } from 'lucide-react';
 
 export const metadata: Metadata = {
-    title: 'Athletic Therapy Langford | Sync Massage Therapy',
-    description: 'Get professional Athletic Therapy in Langford. We provide strict physical rehabilitation to fully resolve your injuries. Book an appointment today for relief!',
+    title: 'Athletic Therapy Colwood & Langford | Sync Clinic',
+    description: 'Certified Athletic Therapist in Colwood serving Langford & the West Shore. Sports injuries, concussions, and physical rehab. Direct billing available.',
     alternates: {
         canonical: 'https://synctherapy.ca/services/athletic-therapy/',
     },

@@ -3,10 +3,9 @@ title: '10 Best Synbiotics 2026: Top Pre & Probiotic Combos (US & CA)'
 date: '2023-06-05 18:03:37'
 slug: best-prebiotics-and-probiotics-supplements
 description: >-
-  :root { --primary: #2E5A88; /* Deep serene blue */ --accent: #F5B82E; /* Warm
-  gold */ --neutral-light: #F4F7F5; /* Off-white */ --neutral-dark: #333333;
-  /*...
-seoTitle: '10 Best Synbiotics 2026: Top Pre & Probiotic Combos (US & CA)'
+  Ten best synbiotic supplements for 2026. Pre and probiotic combos compared for
+  the US and Canada by a Holistic Nutritionist. Gut health made simple.
+seoTitle: 'Best Synbiotics 2026: Top Pre & Probiotic Combos'
 ---
 
 <!-- wp:html -->

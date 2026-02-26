@@ -3,10 +3,9 @@ title: 'Gary Brecka Diet Explained: What Does He Suggest To Eat In 2026'
 date: '2025-02-05 08:38:40'
 slug: gary-brecka-diet
 description: >-
-  /* Custom styles based on the new design template */ body { font-family:
-  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
-  #333333; /*...
-seoTitle: 'Gary Brecka Diet Explained: What Does He Suggest To Eat In 2026'
+  Gary Brecka's diet explained for 2026. Complete food list, meal timing, and
+  the science behind his nutritional recommendations. Easy-to-follow guide.
+seoTitle: 'Gary Brecka Diet Explained: Full Food List (2026)'
 ---
 
 <!-- wp:html -->

@@ -7,8 +7,8 @@ import Image from 'next/image';
 import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-columns";
 
 export const metadata: Metadata = {
-    title: 'Registered Massage Therapy Colwood | Sync Massage Therapy',
-    description: 'Clinical Registered Massage Therapy in Colwood. We focus on physical rehabilitation to treat root causes of pain. Book an appointment today to start healing!',
+    title: 'Headache & Migraine Treatment | Colwood RMT',
+    description: 'Headache and migraine treatment in Colwood. We target cervical tension, postural faults, and trigger points to reduce frequency and severity.',
     alternates: {
         canonical: 'https://synctherapy.ca/conditions/headaches-migraines/',
     },
@@ -154,9 +154,9 @@ export default function Page() {
                     <h2 className="text-3xl font-bold mb-12 text-center text-blue-950">Our Treatment Toolkit</h2>
                     <div className="grid md:grid-cols-3 gap-6">
                         {[
-                            { url: "/services/myofascial-release/", title: 'Registered Massage Therapy Colwood | Sync Massage Therapy', desc: "Cranial Fascia Release" },
-                            { url: "/services/trigger-point-therapy/", title: 'Registered Massage Therapy Colwood | Sync Massage Therapy', desc: "Targeted Knot Release" },
-                            { url: "/services/massage-therapy/", title: 'Registered Massage Therapy Colwood | Sync Massage Therapy', desc: "Cervical Tension Relief" }
+                            { url: "/services/myofascial-release/", title: 'Headache & Migraine Treatment | Colwood RMT', desc: "Cranial Fascia Release" },
+                            { url: "/services/trigger-point-therapy/", title: 'Headache & Migraine Treatment | Colwood RMT', desc: "Targeted Knot Release" },
+                            { url: "/services/massage-therapy/", title: 'Headache & Migraine Treatment | Colwood RMT', desc: "Cervical Tension Relief" }
                         ].map((link, i) => (
                             <Link key={i} href={link.url} className="block p-6 bg-slate-50 border border-slate-200 rounded-xl hover:border-blue-600 hover:shadow-xl transition-all focus:outline-none focus:ring-2 focus:ring-blue-500 group cursor-pointer" aria-label={`View details for ${link.title}`}>
                                 <h3 className="font-bold text-lg mb-2 text-blue-900 group-hover:text-blue-600 flex items-center justify-between">

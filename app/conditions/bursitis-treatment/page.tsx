@@ -4,8 +4,8 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
-    title: 'Registered Massage Therapy Colwood | Sync Massage Therapy',
-    description: 'Clinical Registered Massage Therapy in Colwood. We focus on physical rehabilitation to treat root causes of pain. Book an appointment today to start healing!',
+    title: 'Bursitis Treatment Colwood | Sync Massage Therapy',
+    description: 'Bursitis treatment in Colwood for hip, shoulder, and knee bursitis. Clinical assessment, manual therapy, and progressive rehab to resolve your pain.',
     alternates: {
         canonical: 'https://synctherapy.ca/conditions/bursitis-treatment/',
     },

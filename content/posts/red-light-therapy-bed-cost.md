@@ -3,10 +3,10 @@ title: 'Red Light Therapy Bed Cost: Complete Pricing Guide [2026]'
 date: '2025-12-24 19:50:57'
 slug: red-light-therapy-bed-cost
 description: >-
-  body { font-family: 'Inter', sans-serif; background-color: #F4F7F5; color:
-  #333333; } html { scroll-behavior: smooth; } .bg-primary {
-  background-color:...
-seoTitle: 'Red Light Therapy Bed Cost: Complete Pricing Guide [2026]'
+  How much does a red light therapy bed cost in 2026? Full pricing guide
+  covering commercial beds, home units, session costs, and the best value
+  options.
+seoTitle: 'Red Light Therapy Bed Cost: 2026 Pricing Guide'
 ---
 
 <!-- wp:html -->

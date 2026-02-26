@@ -3,10 +3,9 @@ title: Red Light Therapy for Thyroid & Hashimoto's (2026 Guide)
 date: '2025-07-19 22:58:56'
 slug: red-light-therapy-for-thyroid
 description: >-
-  /* Custom styles based on the new design template */ body { font-family:
-  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
-  #333333; /*...
-seoTitle: Red Light Therapy for Thyroid & Hashimoto's (2026 Guide)
+  Red light therapy for thyroid conditions and Hashimoto's disease. Research,
+  protocols, and device recommendations reviewed by a health professional.
+seoTitle: Red Light Therapy for Thyroid & Hashimoto's
 ---
 
 <!-- wp:html -->

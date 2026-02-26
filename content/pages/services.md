@@ -3,10 +3,10 @@ title: Services
 date: '2024-08-07 06:43:14'
 slug: services
 description: >-
-  :root { --primary: #2E5A88; --secondary: #86BBD8; --accent: #F5B82E;
-  --neutral: #F4F7F5; --text: #333333; } * { margin: 0; padding: 0; box-sizing:
-  border-box;...
-seoTitle: Services
+  RMT, athletic therapy, visceral manipulation, and holistic nutrition in
+  Colwood & Langford. View all services and book your first appointment online
+  today.
+seoTitle: Our Services | Sync Massage Therapy Colwood
 ---
 
 <!-- wp:html -->

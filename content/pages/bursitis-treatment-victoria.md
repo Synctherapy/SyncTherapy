@@ -3,10 +3,9 @@ title: Bursitis Treatment Victoria
 date: '2025-07-07 14:35:02'
 slug: bursitis-treatment-victoria
 description: >-
-  /* Custom styles based on the provided color palette */ body { font-family:
-  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
-  #333333;...
-seoTitle: Bursitis Treatment Victoria
+  Bursitis treatment near Victoria at Sync Massage Therapy in Colwood. Hip,
+  shoulder, and knee bursitis relief. Direct billing. Book your assessment.
+seoTitle: 'Bursitis Treatment Victoria, BC | Sync Massage'
 ---
 
 <!-- wp:html -->

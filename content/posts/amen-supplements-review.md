@@ -3,10 +3,9 @@ title: 'Amen Supplements Review: Are They Good In 2026 and Should You Try'
 date: '2023-05-08 04:37:16'
 slug: amen-supplements-review
 description: >-
-  /* Custom styles based on the new design template */ body { font-family:
-  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
-  #333333; /*...
-seoTitle: 'Amen Supplements Review: Are They Good In 2026 and Should You Try'
+  Amen supplements review for 2026. Are these brain and gut supplements worth
+  trying? Ingredients, dosages, and value reviewed by a Nutritionist.
+seoTitle: 'Amen Supplements Review 2026: Are They Good?'
 ---
 
 <!-- wp:html -->

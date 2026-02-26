@@ -3,10 +3,9 @@ title: Red Light Therapy for Eyesight &amp; AMD (2026 Safety Guide)
 date: '2024-06-25 15:30:53'
 slug: red-light-therapy-and-eye-health
 description: >-
-  /* Custom styles based on the template */ body { font-family: 'Inter',
-  sans-serif; background-color: #F4F7F5; color: #333333; } html {
-  scroll-behavior: smooth;...
-seoTitle: Red Light Therapy for Eyesight &amp; AMD (2026 Safety Guide)
+  Is red light therapy safe for your eyes? AMD research, eye safety protocols,
+  and protective guidelines reviewed for 2026 by a certified therapist.
+seoTitle: Red Light Therapy for Eyes & AMD (2026 Safety)
 ---
 
 <!-- wp:html -->

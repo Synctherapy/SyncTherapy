@@ -3,10 +3,9 @@ title: 5 Best Grounding Sheets in Canada (2026) | Do They Work?
 date: '2025-01-25 06:53:00'
 slug: best-grounding-sheets
 description: >-
-  /* Custom styles based on the new design template */ body { font-family:
-  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
-  #333333; /*...
-seoTitle: 5 Best Grounding Sheets in Canada (2026) | Do They Work?
+  Five best grounding sheets available in Canada for 2026. Do they work?
+  Materials, conductivity, and real-world results tested and compared honestly.
+seoTitle: Best Grounding Sheets Canada (2026) — 5 Tested
 ---
 
 <!-- wp:html -->

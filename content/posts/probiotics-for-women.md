@@ -3,10 +3,9 @@ title: Best Probiotics for Women in Canada (2026 Top 7)
 date: '2025-08-06 17:59:40'
 slug: probiotics-for-women
 description: >-
-  /* Custom styles based on the new design template */ body { font-family:
-  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
-  #333333; /*...
-seoTitle: Best Probiotics for Women in Canada (2026 Top 7)
+  Top seven probiotics for women in Canada for 2026. Vaginal health, hormones,
+  and gut balance strains chosen by a certified Holistic Nutritionist.
+seoTitle: Best Probiotics for Women in Canada (2026)
 ---
 
 <!-- wp:html -->

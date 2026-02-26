@@ -8,8 +8,8 @@ import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-c
 import { CloudRain, Timer, Cloud, ShieldAlert } from 'lucide-react';
 
 export const metadata: Metadata = {
-    title: 'Holistic Nutrition Colwood | Sync Massage Therapy',
-    description: 'Comprehensive Holistic Nutrition in Colwood. We support physical rehabilitation with targeted dietary plans. Book an appointment today to improve your health!',
+    title: 'Immune Support Nutrition Colwood | Sync Therapy',
+    description: 'Immune support nutrition in Colwood. Strengthen your immune system with targeted supplementation and dietary changes from a Holistic Nutritionist.',
     alternates: {
         canonical: 'https://synctherapy.ca/services/immune-support-nutrition/',
     },

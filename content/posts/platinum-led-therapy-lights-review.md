@@ -3,10 +3,9 @@ title: 'Platinum LED BioMax 900 Review: Your Best Choice'
 date: '2023-12-27 08:00:00'
 slug: platinum-led-therapy-lights-review
 description: >-
-  /* Custom styles for a professional and trustworthy feel */ body {
-  font-family: 'Inter', sans-serif; background-color: #f8f9fa; /* Light grey
-  background */...
-seoTitle: 'Platinum LED BioMax 900 Review: Your Best Choice'
+  Platinum LED BioMax 900 review by an RMT. Power density, build quality, and
+  treatment results compared against Rouge and Mito panels for 2026.
+seoTitle: Platinum LED BioMax 900 Review (2026) — Tested
 ---
 
 <!-- wp:html -->

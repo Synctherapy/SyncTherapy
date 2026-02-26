@@ -3,10 +3,10 @@ title: Best Soil Based Probiotics for Humans & Dogs (2026)
 date: '2023-05-03 00:17:53'
 slug: best-soil-based-probiotics
 description: >-
-  /* Custom styles based on the new design template */ body { font-family:
-  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
-  #333333; /*...
-seoTitle: Best Soil Based Probiotics for Humans & Dogs (2026)
+  Best soil-based probiotic supplements for humans and dogs in 2026.
+  Spore-forming strains reviewed by a Holistic Nutritionist for shelf-stable gut
+  support.
+seoTitle: Best Soil Based Probiotics for Humans & Dogs
 ---
 
 <!-- wp:html -->

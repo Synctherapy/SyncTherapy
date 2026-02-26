@@ -3,10 +3,9 @@ title: 'Newsletter: Subscription &amp; Disclaimer'
 date: '2024-08-07 06:43:28'
 slug: newsletter-subscription-disclaimer
 description: >-
-  If you choose to provide us with your email address or any other personally
-  identifiable information, we will use it only to send you our newsletter or
-  respond...
-seoTitle: 'Newsletter: Subscription &amp; Disclaimer'
+  Newsletter subscription disclaimer for Sync Therapy. By subscribing you agree
+  to receive periodic emails. You can unsubscribe at any time.
+seoTitle: Newsletter Disclaimer | Sync Therapy
 ---
 
 

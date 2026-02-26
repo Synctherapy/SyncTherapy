@@ -3,10 +3,9 @@ title: Mito Pro X 750 Review | Why I Use It As An Award Winning Therapist
 date: '2024-06-15 07:00:00'
 slug: mito-pro-x-750-review
 description: >-
-  { "@context": "https://schema.org", "@type": "Review", "name": "Mito Pro X 750
-  Review | Why I Use It As An Award Winning Therapist", "itemReviewed": {
-  "@type":...
-seoTitle: Mito Pro X 750 Review | Why I Use It As An Award Winning Therapist
+  Mito Pro X 750 red light therapy panel reviewed by an award-winning therapist.
+  Why I use this device in my clinic and whether it is worth the price.
+seoTitle: Mito Pro X 750 Review | Award-Winning RMT Tested
 ---
 
 <!-- wp:html -->

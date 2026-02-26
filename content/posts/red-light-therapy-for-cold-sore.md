@@ -3,10 +3,9 @@ title: 'Red Light Therapy for Cold Sores (2026): Heal Faster'
 date: '2024-06-11 07:00:00'
 slug: red-light-therapy-for-cold-sore
 description: >-
-  /* Custom styles based on the design template */ body { font-family: 'Inter',
-  sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color: #333333;
-  /*...
-seoTitle: 'Red Light Therapy for Cold Sores (2026): Heal Faster'
+  Red light therapy for cold sores explained. How photobiomodulation speeds
+  healing, reduces outbreaks, and which devices work best. Research reviewed.
+seoTitle: Red Light Therapy for Cold Sores (2026 Guide)
 ---
 
 <!-- wp:html -->

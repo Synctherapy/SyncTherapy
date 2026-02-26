@@ -7,8 +7,8 @@ import Image from 'next/image';
 import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-columns";
 
 export const metadata: Metadata = {
-    title: 'Registered Massage Therapy Westshore | Sync Massage Therapy',
-    description: 'Clinical Registered Massage Therapy in Westshore. We focus on physical rehabilitation to treat root causes of pain. Book an appointment today to start healing!',
+    title: 'Pre-Event Sports Massage Colwood | Sync Massage',
+    description: 'Pre-event sports massage in Colwood to prime your muscles for competition. Increase circulation, reduce injury risk, and perform at your best.',
     alternates: {
         canonical: 'https://synctherapy.ca/services/pre-event-massage/',
     },

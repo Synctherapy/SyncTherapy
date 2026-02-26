@@ -3,10 +3,9 @@ title: Red Light Therapy | Comprehensive Guide to Light Therapy & Red Light Uses
 date: '2023-12-27 20:35:27'
 slug: red-light-therapy
 description: >-
-  body { font-family: 'Inter', sans-serif; background-color: #F4F7F5; color:
-  #333333; } html { scroll-behavior: smooth; } .bg-primary {
-  background-color:...
-seoTitle: Red Light Therapy | Comprehensive Guide to Light Therapy & Red Light Uses
+  A comprehensive red light therapy guide covering benefits, wavelengths,
+  dosing, and device selection. Written by an RMT using red light since 2017.
+seoTitle: 'Red Light Therapy: Complete Guide to Benefits (2026)'
 ---
 
 <!-- wp:html -->

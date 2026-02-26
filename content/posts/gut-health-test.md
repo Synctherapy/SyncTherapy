@@ -5,12 +5,10 @@ title: >-
 date: '2023-03-02 15:57:43'
 slug: gut-health-test
 description: >-
-  /* Custom styles based on the new design template */ body { font-family:
-  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
-  #333333; /*...
-seoTitle: >-
-  Best Gut Health Test: Comprehensive Guide to Gut Health Testing and Microbiome
-  Tests
+  Best at-home gut health test kits for 2026. Microbiome testing options
+  compared for accuracy, actionable results, and value by a Holistic
+  Nutritionist.
+seoTitle: Best Gut Health Test Kits (2026) — Home Testing
 ---
 
 <!-- wp:html -->

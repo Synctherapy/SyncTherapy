@@ -3,10 +3,9 @@ title: Affiliate Disclosure
 date: '2024-08-07 06:43:26'
 slug: affiliate-disclosure
 description: >-
-  The owner of https://synctherapylocal.local/ may receive compensation for
-  recommendations made in reference to the products or services on this website.
-  This...
-seoTitle: Affiliate Disclosure
+  Affiliate disclosure for Sync Therapy. Some links on this site are affiliate
+  links. We only recommend products we have personally tested and trust.
+seoTitle: Affiliate Disclosure | Sync Therapy
 ---
 
 The owner of https://synctherapylocal.local/ may receive compensation for recommendations made in reference to the products or services on this website.

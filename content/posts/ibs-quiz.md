@@ -3,10 +3,9 @@ title: 'Free IBS Quiz (14 Questions): Assess Your Symptoms in 3 Mins'
 date: '2025-07-12 17:41:15'
 slug: ibs-quiz
 description: >-
-  /* Global & Main Article Styles */ * { margin: 0; padding: 0; box-sizing:
-  border-box; } body { font-family: 'Inter', sans-serif; background-color:
-  #F4F7F5; /*...
-seoTitle: 'Free IBS Quiz (14 Questions): Assess Your Symptoms in 3 Mins'
+  Take this free 14-question IBS quiz to assess your symptoms in three minutes.
+  Created by a Holistic Nutritionist to help you understand your gut health.
+seoTitle: 'Free IBS Quiz: Assess Your Symptoms in 3 Minutes'
 ---
 
 <!-- wp:html -->

@@ -5,12 +5,9 @@ title: >-
 date: '2024-01-10 08:00:00'
 slug: gary-brecka-supplements
 description: >-
-  tailwind.config = { theme: { extend: { fontFamily: { inter: ['Inter',
-  'sans-serif'], }, colors: { 'primary-blue': '#2E5A88', /* Primary - Deep
-  serene blue */...
-seoTitle: >-
-  Gary Brecka Supplements: List, Recommendations for MTHFR, Anxiety, Sleep &amp;
-  More
+  Gary Brecka supplement recommendations for 2026. His exact products, dosages,
+  and where to buy them in the US and Canada. Full protocol list reviewed.
+seoTitle: 'Gary Brecka Supplements: His Full 2026 Protocol'
 ---
 
 <!-- wp:html -->

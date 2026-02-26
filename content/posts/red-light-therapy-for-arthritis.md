@@ -3,10 +3,9 @@ title: 'Red Light Therapy for Arthritis: What Science Really Says About Pain Rel
 date: '2024-01-11 23:05:36'
 slug: red-light-therapy-for-arthritis
 description: >-
-  { "@context": "https://schema.org", "@type": "Article", "headline": "Red Light
-  Therapy for Arthritis: What Science Really Says About Pain Relief",
-  "image":...
-seoTitle: 'Red Light Therapy for Arthritis: What Science Really Says About Pain Relief'
+  Does red light therapy work for arthritis? The latest research on joint pain,
+  inflammation, and cartilage repair reviewed by a certified therapist.
+seoTitle: 'Red Light Therapy for Arthritis: Science Guide'
 ---
 
 <!-- wp:html -->

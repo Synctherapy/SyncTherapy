@@ -3,10 +3,9 @@ title: Hip and Knee Pain
 date: '2024-08-07 06:43:23'
 slug: hip-and-knee-pain
 description: >-
-  { "@context": "https://schema.org", "@graph": [ { "@type": "Service", "@id":
-  "https://synctherapylocal.local/conditions/hip-knee-pain#hipPainService",
-  "name":...
-seoTitle: Hip and Knee Pain
+  Hip and knee pain causes, diagnosis, and treatment options explained by an RMT
+  and Certified Athletic Therapist. When to get help and what to expect.
+seoTitle: 'Hip and Knee Pain: Causes & Treatment Options'
 ---
 
 <!-- wp:html -->

@@ -8,8 +8,8 @@ import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-c
 import { Battery, MapPin, Search, Activity } from 'lucide-react';
 
 export const metadata: Metadata = {
-    title: 'Holistic Nutrition Colwood | Sync Massage Therapy',
-    description: 'Comprehensive Holistic Nutrition in Colwood. We support physical rehabilitation with targeted dietary plans. Book an appointment today to improve your health!',
+    title: 'IBS Diet Counseling Colwood | West Shore Clinic',
+    description: 'IBS diet counseling in Colwood with a Holistic Nutritionist. Low FODMAP guidance, trigger identification, and gut repair protocols tailored to you.',
     alternates: {
         canonical: 'https://synctherapy.ca/services/ibs-diet-counseling/',
     },

@@ -8,8 +8,8 @@ import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-c
 import { Pill, AlertCircle, ShieldCheck, TrendingUp } from 'lucide-react';
 
 export const metadata: Metadata = {
-    title: 'Holistic Nutrition Langford | Sync Massage Therapy',
-    description: 'Comprehensive Holistic Nutrition in Langford. We support physical rehabilitation with targeted dietary plans. Book an appointment today to improve your health!',
+    title: 'Supplement Advice Colwood | Sync Massage Therapy',
+    description: 'Evidence-based supplement advice from a Holistic Nutritionist in Colwood. Cut through the noise and learn which supplements actually work for you.',
     alternates: {
         canonical: 'https://synctherapy.ca/services/supplements-advice/',
     },

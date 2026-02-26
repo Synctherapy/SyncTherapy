@@ -3,10 +3,9 @@ title: 'Infraredi vs. Kala (2026): Best Red Light Panel in Canada?'
 date: '2024-05-20 07:00:00'
 slug: infraredi-vs-kala
 description: >-
-  /* Custom styles based on the new design template */ body { font-family:
-  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
-  #333333; /*...
-seoTitle: 'Infraredi vs. Kala (2026): Best Red Light Panel in Canada?'
+  Infraredi vs Kala red light therapy comparison for 2026. An RMT compares
+  power, build quality, and value to find the best Canadian panel option.
+seoTitle: 'Infraredi vs Kala (2026): Best Red Light in Canada?'
 ---
 
 <!-- wp:html -->

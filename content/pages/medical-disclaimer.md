@@ -3,10 +3,9 @@ title: Medical Disclaimer
 date: '2024-08-07 06:43:30'
 slug: medical-disclaimer
 description: >-
-  No advice https://synctherapylocal.local/ contains general information about
-  medical conditions and treatments. The information is not advice, and should
-  not...
-seoTitle: Medical Disclaimer
+  Medical disclaimer for Sync Therapy. Information provided is educational and
+  does not replace consultation with a qualified healthcare professional.
+seoTitle: Medical Disclaimer | Sync Therapy
 ---
 
 

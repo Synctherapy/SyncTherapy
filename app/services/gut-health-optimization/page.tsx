@@ -8,8 +8,8 @@ import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-c
 import { Activity, Brain, Wind, Droplets } from 'lucide-react';
 
 export const metadata: Metadata = {
-    title: 'Holistic Nutrition Langford | Sync Massage Therapy',
-    description: 'Comprehensive Holistic Nutrition in Langford. We support physical rehabilitation with targeted dietary plans. Book an appointment today to improve your health!',
+    title: 'Gut Health Optimization | Colwood Nutritionist',
+    description: 'Gut health optimization by a Holistic Nutritionist in Colwood. We address bloating, IBS, dysbiosis, and leaky gut with targeted nutrition protocols.',
     alternates: {
         canonical: 'https://synctherapy.ca/services/gut-health-optimization/',
     },

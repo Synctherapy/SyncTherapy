@@ -2,8 +2,10 @@
 title: Cart
 date: '2025-05-25 15:02:14'
 slug: cart
-description: You may be interested in… Your cart is currently empty! New in store
-seoTitle: Cart
+description: >-
+  Review your cart at Sync Therapy. Check your selected products and proceed to
+  checkout when ready.
+seoTitle: Your Cart | Sync Therapy
 ---
 
 <!-- wp:woocommerce/cart -->

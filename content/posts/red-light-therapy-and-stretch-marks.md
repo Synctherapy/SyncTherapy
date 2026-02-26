@@ -3,10 +3,9 @@ title: 'Red Light Therapy for Stretch Marks: Red vs. White (2026)'
 date: '2024-03-10 08:00:00'
 slug: red-light-therapy-and-stretch-marks
 description: >-
-  body { font-family: 'Inter', sans-serif; background-color: #F4F7F5; color:
-  #333333; } html { scroll-behavior: smooth; } /* Custom color classes */
-  .bg-primary...
-seoTitle: 'Red Light Therapy for Stretch Marks: Red vs. White (2026)'
+  Can red light therapy reduce stretch marks? Red vs white stretch marks
+  explained with the best devices and protocols for visible results in 2026.
+seoTitle: Red Light Therapy for Stretch Marks (2026 Guide)
 ---
 
 <!-- wp:html -->

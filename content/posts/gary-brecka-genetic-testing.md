@@ -3,10 +3,9 @@ title: 'Gary Brecka Genetic Testing: Is It Worth It and How To Do It In Canada'
 date: '2025-02-03 03:28:53'
 slug: gary-brecka-genetic-testing
 description: >-
-  Welcome to Gary Brecka Genetic Testing, where cutting-edge science meets
-  holistic health. Discover the transformative power of Brecka's Methylation
-  Testing and...
-seoTitle: 'Gary Brecka Genetic Testing: Is It Worth It and How To Do It In Canada'
+  Gary Brecka genetic testing explained. Is it worth it and how do Canadians
+  access the same MTHFR and methylation testing? Step-by-step guide for 2026.
+seoTitle: 'Gary Brecka Genetic Testing: How to Do It in Canada'
 ---
 
 <p>Welcome to Gary Brecka Genetic Testing, where cutting-edge science meets holistic health. Discover the transformative power of Brecka's Methylation Testing and Genetic Insights, designed to unlock the secrets of your DNA &amp; promote optimal well-being.</p>

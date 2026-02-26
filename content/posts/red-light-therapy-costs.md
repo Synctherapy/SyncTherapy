@@ -3,10 +3,9 @@ title: 2026 Red Light Therapy Cost Pricing Guide for Sessions &amp; Devices
 date: '2024-02-27 08:00:00'
 slug: red-light-therapy-costs
 description: >-
-  body { font-family: 'Inter', sans-serif; background-color: #F4F7F5; color:
-  #333333; } html { scroll-behavior: smooth; } .bg-primary {
-  background-color:...
-seoTitle: 2026 Red Light Therapy Cost Pricing Guide for Sessions &amp; Devices
+  What does red light therapy cost in 2026? Session prices, device pricing, and
+  long-term value compared. Find the best option for your budget and goals.
+seoTitle: Red Light Therapy Cost Guide (2026) — Sessions & Devices
 ---
 
 <!-- wp:html -->

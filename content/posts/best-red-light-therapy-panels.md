@@ -3,10 +3,9 @@ title: Best Red Light Therapy Panels (2026 Buyer's Guide)
 date: '2023-12-30 08:00:00'
 slug: best-red-light-therapy-panels
 description: >-
-  /* Custom styles based on the provided color palette */ body { font-family:
-  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
-  #333333;...
-seoTitle: Best Red Light Therapy Panels (2026 Buyer's Guide)
+  A clinical therapist compares the best red light therapy panels for 2026.
+  Wavelengths, power density, and Canadian pricing all tested and reviewed.
+seoTitle: Best Red Light Therapy Panels (2026 Guide)
 ---
 
 <!-- wp:html -->

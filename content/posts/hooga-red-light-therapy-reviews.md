@@ -3,10 +3,9 @@ title: 'Hooga Red Light Therapy Reviews: hg200, hg300 & hg1500'
 date: '2024-02-15 08:00:00'
 slug: hooga-red-light-therapy-reviews
 description: >-
-  /* Custom styles based on the design template */ body { font-family: 'Inter',
-  sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color: #333333;
-  /*...
-seoTitle: 'Hooga Red Light Therapy Reviews: hg200, hg300 & hg1500'
+  Hooga red light therapy review covering the HG200, HG300, and HG1500 models.
+  Budget-friendly panels tested by an RMT. Specs, power, and verdict.
+seoTitle: 'Hooga Red Light Review: HG200, HG300 & HG1500'
 ---
 
 <!-- wp:html -->

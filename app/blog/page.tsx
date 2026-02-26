@@ -8,14 +8,14 @@ import type { Metadata } from 'next';
 
 // ─── SEO Metadata ──────────────────────────────────────────────
 export const metadata: Metadata = {
-    title: 'Blog | Sync Massage Therapy — Recovery, Nutrition & Rehab Insights',
-    description: 'Evidence-based articles on massage therapy, red light recovery, gut health, athletic therapy, and holistic wellness by Daryl Stubbs, RMT in Colwood, BC.',
+    title: 'Blog | Sync Massage Therapy — Recovery & Wellness',
+    description: 'Evidence-based articles on massage therapy, red light devices, gut health, and athletic recovery by Daryl Stubbs, RMT & Athletic Therapist in Colwood, BC.',
     alternates: {
         canonical: 'https://www.synctherapy.ca/blog/',
     },
     openGraph: {
-        title: 'The Sync Massage Therapy Blog',
-        description: 'Evidence-based insights on recovery, nutrition, and manual therapy — by Daryl Stubbs, RMT.',
+        title: 'Blog | Sync Massage Therapy — Recovery & Wellness',
+        description: 'Evidence-based articles on massage therapy, red light devices, gut health, and athletic recovery by Daryl Stubbs, RMT & Athletic Therapist in Colwood, BC.',
         url: 'https://www.synctherapy.ca/blog/',
         siteName: 'Sync Massage Therapy',
         type: 'website',
@@ -23,8 +23,8 @@ export const metadata: Metadata = {
     },
     twitter: {
         card: 'summary_large_image',
-        title: 'The Sync Massage Therapy Blog',
-        description: 'Evidence-based insights on recovery, nutrition, and manual therapy.',
+        title: 'Blog | Sync Massage Therapy — Recovery & Wellness',
+        description: 'Evidence-based articles on massage therapy, red light devices, gut health, and athletic recovery by Daryl Stubbs, RMT & Athletic Therapist in Colwood, BC.',
     },
 };
 

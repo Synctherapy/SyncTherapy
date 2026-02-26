@@ -4,8 +4,8 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
-    title: 'Athletic Therapy Langford | Sync Massage Therapy',
-    description: 'Get professional Athletic Therapy in Langford. We provide strict physical rehabilitation to fully resolve your injuries. Book an appointment today for relief!',
+    title: 'Sports Injuries Colwood | Sync Massage Therapy',
+    description: 'Sports injury treatment and prevention in Colwood. Our Certified Athletic Therapist treats acute injuries and builds prehab programs for athletes.',
     alternates: {
         canonical: 'https://synctherapy.ca/conditions/sports-injuries-and-prevention/',
     },

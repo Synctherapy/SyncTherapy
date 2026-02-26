@@ -3,10 +3,9 @@ title: GDPR Cookie Policy
 date: '2024-08-07 06:43:30'
 slug: gdpr-cookie-policy
 description: >-
-  What are cookies? How do we use cookies? What types of cookies do we use? What
-  are cookies? Cookies are often known as browser cookies or tracking
-  cookies....
-seoTitle: GDPR Cookie Policy
+  GDPR cookie policy for Sync Therapy. Details on how we comply with data
+  protection regulations and manage cookies on our website for EU visitors.
+seoTitle: GDPR Cookie Policy | Sync Therapy
 ---
 
 

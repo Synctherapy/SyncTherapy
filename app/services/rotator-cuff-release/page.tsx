@@ -7,8 +7,8 @@ import Image from 'next/image';
 import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-columns";
 
 export const metadata: Metadata = {
-    title: 'Registered Massage Therapy Westshore | Sync Massage Therapy',
-    description: 'Clinical Registered Massage Therapy in Westshore. We focus on physical rehabilitation to treat root causes of pain. Book an appointment today to start healing!',
+    title: 'Rotator Cuff Treatment Colwood | Sync Massage',
+    description: 'Rotator cuff release and shoulder rehab in Colwood. Our Athletic Therapist targets impingement, tears, and frozen shoulder. Direct billing available.',
     alternates: {
         canonical: 'https://synctherapy.ca/services/rotator-cuff-release/',
     },

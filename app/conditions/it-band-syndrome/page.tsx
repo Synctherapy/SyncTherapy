@@ -4,8 +4,8 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
-    title: 'Athletic Therapy Langford | Sync Massage Therapy',
-    description: 'Get professional Athletic Therapy in Langford. We provide strict physical rehabilitation to fully resolve your injuries. Book an appointment today for relief!',
+    title: 'IT Band Syndrome Rehab Colwood | Sync Massage',
+    description: 'IT band syndrome treatment in Colwood. Our Athletic Therapist addresses the hip and glute dysfunction driving your lateral knee and thigh pain.',
     alternates: {
         canonical: 'https://synctherapy.ca/conditions/it-band-syndrome/',
     },

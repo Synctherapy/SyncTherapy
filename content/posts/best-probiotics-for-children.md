@@ -3,10 +3,10 @@ title: '7 Best Probiotics for Kids, Children &amp; Toddlers (2026)'
 date: '2023-07-12 16:54:28'
 slug: best-probiotics-for-children
 description: >-
-  /* Custom styles based on the new design template */ body { font-family:
-  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
-  #333333; /*...
-seoTitle: '7 Best Probiotics for Kids, Children &amp; Toddlers (2026)'
+  Seven best probiotics for children, kids, and toddlers in 2026.
+  Age-appropriate strains and dosages reviewed by a certified Holistic
+  Nutritionist.
+seoTitle: Best Probiotics for Kids & Toddlers (2026)
 ---
 
 <!-- wp:html -->

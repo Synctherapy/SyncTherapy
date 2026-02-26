@@ -3,10 +3,9 @@ title: Align Probiotic Review 2026- Should You Even Bother Trying it?
 date: '2023-06-16 05:06:49'
 slug: align-probiotic-supplement-review
 description: >-
-  /* Custom styles based on the new design template */ body { font-family:
-  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
-  #333333; /*...
-seoTitle: Align Probiotic Review 2026- Should You Even Bother Trying it?
+  Align probiotic supplement review for 2026. Does Bifantis B. infantis 35624
+  actually work for IBS and bloating? A Holistic Nutritionist investigates.
+seoTitle: 'Align Probiotic Review 2026: Worth Trying?'
 ---
 
 <!-- wp:html -->

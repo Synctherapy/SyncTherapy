@@ -3,10 +3,9 @@ title: 'Deep Tissue Massage Therapy in Victoria, BC'
 date: '2025-02-18 20:41:58'
 slug: deep-tissue-massage-victoria
 description: >-
-  tailwind.config = { theme: { extend: { colors: { primary: { DEFAULT:
-  '#2E5A88', foreground: '#FFFFFF' }, secondary: { DEFAULT: '#86BBD8',
-  foreground: '#333333'...
-seoTitle: 'Deep Tissue Massage Therapy in Victoria, BC'
+  Deep tissue massage near Victoria at Sync Massage Therapy in Colwood. Clinical
+  pressure therapy for chronic tension and injuries. Book online today.
+seoTitle: 'Deep Tissue Massage Victoria, BC | Colwood RMT'
 ---
 
 <!-- wp:html -->

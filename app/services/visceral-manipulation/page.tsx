@@ -3,8 +3,8 @@ import { Metadata } from "next";
 import { VisceralManipulation } from "@/components/pages/VisceralManipulation";
 
 export const metadata: Metadata = {
-    title: 'Visceral Manipulation Colwood | Sync Massage Therapy',
-    description: 'Specialized Visceral Manipulation in Colwood. We focus on physical rehabilitation to treat deep structural pain. Book an appointment today to start recovery!',
+    title: 'Visceral Manipulation Colwood | Sync Massage',
+    description: 'Visceral manipulation by an RMT & Athletic Therapist in Colwood. We treat hidden causes of back pain, bloating, and digestive dysfunction. Book today.',
 };
 
 export default function VisceralManipulationPage() {

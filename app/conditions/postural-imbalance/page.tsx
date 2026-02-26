@@ -4,8 +4,8 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
-    title: 'Registered Massage Therapy Colwood | Sync Massage Therapy',
-    description: 'Clinical Registered Massage Therapy in Colwood. We focus on physical rehabilitation to treat root causes of pain. Book an appointment today to start healing!',
+    title: 'Postural Imbalance Correction | Sync Colwood',
+    description: 'Postural imbalance assessment and correction in Colwood. We identify structural dysfunction and build a progressive plan to restore proper alignment.',
     alternates: {
         canonical: 'https://synctherapy.ca/conditions/postural-imbalance/',
     },

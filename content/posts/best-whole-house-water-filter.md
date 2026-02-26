@@ -3,10 +3,9 @@ title: 'Best Whole House Water Filters Canada (2026): City vs. Well'
 date: '2025-01-16 08:00:00'
 slug: best-whole-house-water-filter
 description: >-
-  /* Custom styles based on the new design template */ body { font-family:
-  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
-  #333333; /*...
-seoTitle: 'Best Whole House Water Filters Canada (2026): City vs. Well'
+  Best whole house water filters for Canadian homes in 2026. City vs well water
+  systems compared for chlorine, sediment, and contaminant removal.
+seoTitle: Best Whole House Water Filters Canada (2026)
 ---
 
 <!-- wp:html -->

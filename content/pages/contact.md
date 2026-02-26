@@ -3,10 +3,9 @@ title: Contact
 date: '2024-07-02 22:19:13'
 slug: contact
 description: >-
-  * { margin: 0; padding: 0; box-sizing: border-box; } body { font-family:
-  'Inter', sans-serif; line-height: 1.6; color: #374151; } h1, h2, h3, h4, h5,
-  h6 {...
-seoTitle: Contact
+  Book an appointment or ask a question. Sync Massage Therapy is located at
+  132-328 Wale Road, Colwood, BC. Call, email, or book online today.
+seoTitle: 'Contact Sync Massage Therapy | Colwood, BC'
 ---
 
 <!-- wp:html -->

@@ -3,10 +3,9 @@ title: overuse-injuries-victoria
 date: '2025-07-07 14:48:18'
 slug: overuse-injuries-victoria
 description: >-
-  Page Coming Soon - Sync Therapy /* Custom styles based on the provided color
-  palette */ body { font-family: 'Inter', sans-serif; background-color: #F4F7F5;
-  /*...
-seoTitle: overuse-injuries-victoria
+  Overuse injury treatment near Victoria at Sync Massage Therapy in Colwood.
+  Repetitive strain, tendinopathy, and gradual-onset pain treated at the source.
+seoTitle: Overuse Injury Treatment Victoria | Sync Massage
 ---
 
 <!-- wp:html -->

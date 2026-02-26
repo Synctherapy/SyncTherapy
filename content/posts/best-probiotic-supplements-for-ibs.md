@@ -3,10 +3,10 @@ title: '11 Best Probiotics for IBS in Canada (2026) - IBS-D, IBS-C, Mixed'
 date: '2023-05-03 00:19:26'
 slug: best-probiotic-supplements-for-ibs
 description: >-
-  /* Custom styles based on the design template */ body { font-family: 'Inter',
-  sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color: #333333;
-  /*...
-seoTitle: '11 Best Probiotics for IBS in Canada (2026) - IBS-D, IBS-C, Mixed'
+  Eleven best probiotics for IBS in Canada for 2026. IBS-D, IBS-C, and
+  mixed-type picks chosen by a Holistic Nutritionist. Strain-specific
+  recommendations.
+seoTitle: Best Probiotics for IBS in Canada (2026 Guide)
 ---
 
 <!-- wp:html -->

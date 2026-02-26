@@ -3,10 +3,9 @@ title: 'Mito Red Light Review 2026: MitoPRO X, Adapt & Mobile'
 date: '2023-12-26 08:00:00'
 slug: mito-red-light-therapy-review
 description: >-
-  /* Custom styles based on the new design template */ body { font-family:
-  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
-  #333333; /*...
-seoTitle: 'Mito Red Light Review 2026: MitoPRO X, Adapt & Mobile'
+  Mito Red Light therapy review for 2026. MitoPRO X, Adapt, and Mobile devices
+  tested by an RMT. Specs, Canadian availability, and honest pros and cons.
+seoTitle: 'Mito Red Light Review 2026: MitoPRO X & Adapt'
 ---
 
 <!-- wp:html -->

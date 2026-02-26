@@ -8,8 +8,8 @@ import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-c
 import { MoveUp, Zap, Clock, Activity } from 'lucide-react';
 
 export const metadata: Metadata = {
-    title: 'Registered Massage Therapy Westshore | Sync Massage Therapy',
-    description: 'Clinical Registered Massage Therapy in Westshore. We focus on physical rehabilitation to treat root causes of pain. Book an appointment today to start healing!',
+    title: 'Rotator Cuff Injury Rehab | Colwood RMT Clinic',
+    description: 'Rotator cuff injury treatment in Colwood. Assessment, manual therapy, and sport-specific rehab by a Certified Athletic Therapist. Book online now.',
     alternates: {
         canonical: 'https://synctherapy.ca/conditions/rotator-cuff-injury/',
     },

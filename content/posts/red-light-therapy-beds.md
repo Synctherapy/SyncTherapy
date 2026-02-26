@@ -3,10 +3,9 @@ title: Best Commercial Red Light Therapy Beds (2026 Reviews)
 date: '2024-02-27 18:20:38'
 slug: red-light-therapy-beds
 description: >-
-  .rlt-beds-article { font-family: 'Inter', sans-serif; background-color:
-  #F4F7F5; color: #333333; } .rlt-beds-article .bg-primary { background-color:
-  #2E5A88; }...
-seoTitle: Best Commercial Red Light Therapy Beds (2026 Reviews)
+  Commercial red light therapy bed reviews for 2026. Full-body LED beds compared
+  for clinics and home use. Coverage, power, pricing, and recommendations.
+seoTitle: Best Red Light Therapy Beds (2026 Reviews)
 ---
 
 <!-- wp:html -->

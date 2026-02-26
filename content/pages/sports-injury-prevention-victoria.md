@@ -3,10 +3,9 @@ title: sports-injury-prevention-victoria/
 date: '2025-07-07 14:51:06'
 slug: sports-injury-prevention-victoria
 description: >-
-  Page Coming Soon - Sync Therapy /* Custom styles based on the provided color
-  palette */ body { font-family: 'Inter', sans-serif; background-color: #F4F7F5;
-  /*...
-seoTitle: sports-injury-prevention-victoria/
+  Sports injury prevention near Victoria, BC. Biomechanical screening and prehab
+  programs from a Certified Athletic Therapist in Colwood. Book now.
+seoTitle: Sports Injury Prevention Victoria | Sync Massage
 ---
 
 <!-- wp:html -->

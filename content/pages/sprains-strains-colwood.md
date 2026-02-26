@@ -3,10 +3,9 @@ title: Sprains Strains Colwood
 date: '2025-07-07 14:32:40'
 slug: sprains-strains-colwood
 description: >-
-  Page Coming Soon - Sync Therapy /* Custom styles based on the provided color
-  palette */ body { font-family: 'Inter', sans-serif; background-color: #F4F7F5;
-  /*...
-seoTitle: Sprains Strains Colwood
+  Sprain and strain treatment at our Colwood clinic. Acute injury care and
+  progressive rehab from a Certified Athletic Therapist. Direct billing.
+seoTitle: Sprains & Strains Treatment Colwood | Book Today
 ---
 
 <!-- wp:html -->

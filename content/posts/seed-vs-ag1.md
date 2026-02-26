@@ -3,10 +3,9 @@ title: 'Seed vs AG1 (2026): Which Synbiotic is Better for Your Health?'
 date: '2025-07-02 23:33:27'
 slug: seed-vs-ag1
 description: >-
-  /* Custom styles based on the new design template */ body { font-family:
-  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
-  #333333; /*...
-seoTitle: 'Seed vs AG1 (2026): Which Synbiotic is Better for Your Health?'
+  Seed DS-01 vs AG1 compared for 2026. Probiotics vs greens powder — which is
+  worth your money? Ingredients and value reviewed by a Nutritionist.
+seoTitle: 'Seed vs AG1 (2026): Which Supplement Is Better?'
 ---
 
 <!-- wp:html -->

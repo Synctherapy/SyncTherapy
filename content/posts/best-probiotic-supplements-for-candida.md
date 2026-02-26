@@ -3,10 +3,10 @@ title: 5 Best Probiotic Supplements for Candida and Yeast Infections
 date: '2023-09-20 04:10:29'
 slug: best-probiotic-supplements-for-candida
 description: >-
-  /* Custom styles based on the new design template */ body { font-family:
-  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
-  #333333; /*...
-seoTitle: 5 Best Probiotic Supplements for Candida and Yeast Infections
+  Five best probiotic supplements for candida and yeast infections.
+  Strain-specific picks reviewed by a Holistic Nutritionist for antifungal
+  support.
+seoTitle: Best Probiotics for Candida & Yeast Infections
 ---
 
 <!-- wp:html -->

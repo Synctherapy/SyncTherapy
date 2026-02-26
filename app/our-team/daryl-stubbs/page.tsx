@@ -6,14 +6,14 @@ import Image from 'next/image';
 import { GoogleReviewsColumns } from '@/components/testimonials/google-reviews-columns';
 
 export const metadata: Metadata = {
-    title: 'Registered Massage Therapy Colwood | Sync Massage Therapy',
-    description: 'Clinical Registered Massage Therapy in Colwood. We focus on physical rehabilitation to treat root causes of pain. Book an appointment today to start healing!',
+    title: 'Daryl Stubbs, RMT, CAT(C) | Sync Massage Colwood',
+    description: 'Daryl Stubbs is a Registered Massage Therapist, Certified Athletic Therapist, and Holistic Nutritionist practicing at Sync Massage Therapy, Colwood.',
     alternates: {
         canonical: 'https://www.synctherapy.ca/our-team/daryl-stubbs/',
     },
     openGraph: {
-        title: 'Registered Massage Therapy Colwood | Sync Massage Therapy',
-        description: 'Clinical Registered Massage Therapy in Colwood. We focus on physical rehabilitation to treat root causes of pain. Book an appointment today to start healing!',
+        title: 'Daryl Stubbs, RMT, CAT(C) | Sync Massage Colwood',
+        description: 'Daryl Stubbs is a Registered Massage Therapist, Certified Athletic Therapist, and Holistic Nutritionist practicing at Sync Massage Therapy, Colwood.',
         url: 'https://www.synctherapy.ca/our-team/daryl-stubbs/',
         siteName: 'Sync Massage Therapy',
         locale: 'en_CA',
@@ -29,7 +29,7 @@ const personSchema = {
     url: 'https://www.synctherapy.ca/our-team/daryl-stubbs/',
     image: 'https://www.synctherapy.ca/images/daryl-stubbs-author.jpg',
     jobTitle: 'Registered Massage Therapist, Certified Athletic Therapist, Holistic Nutritionist',
-    description: 'Clinical Registered Massage Therapy in Colwood. We focus on physical rehabilitation to treat root causes of pain. Book an appointment today to start healing!',
+    description: 'Daryl Stubbs is a Registered Massage Therapist, Certified Athletic Therapist, and Holistic Nutritionist practicing at Sync Massage Therapy, Colwood.',
     worksFor: { '@id': 'https://www.synctherapy.ca/#organization' },
     founder: { '@id': 'https://www.synctherapy.ca/#organization' },
     alumniOf: [

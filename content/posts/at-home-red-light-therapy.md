@@ -3,10 +3,9 @@ title: 12 Best At-Home Red Light Devices in Canada (2026)
 date: '2023-12-30 08:00:00'
 slug: at-home-red-light-therapy
 description: >-
-  /* Custom styles based on the new design template */ body { font-family:
-  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
-  #333333; /*...
-seoTitle: 12 Best At-Home Red Light Devices in Canada (2026)
+  An RMT reviews the 12 best at-home red light therapy devices in Canada for
+  2026. Panel, mask, and portable options compared with pros and cons.
+seoTitle: Best At-Home Red Light Devices Canada (2026)
 ---
 
 <!-- wp:html -->

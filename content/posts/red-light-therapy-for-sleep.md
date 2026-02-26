@@ -3,10 +3,9 @@ title: 'Red Light Therapy for Sleep (2026): Complete Science-Backed Guide'
 date: '2024-03-10 08:00:00'
 slug: red-light-therapy-for-sleep
 description: >-
-  body { font-family: 'Inter', sans-serif; background-color: #F4F7F5; color:
-  #333333; } html { scroll-behavior: smooth; } .bg-primary {
-  background-color:...
-seoTitle: 'Red Light Therapy for Sleep (2026): Complete Science-Backed Guide'
+  How red light therapy improves sleep quality. Melatonin production, circadian
+  rhythm benefits, and the best devices for evening use. Research reviewed.
+seoTitle: Red Light Therapy for Sleep (2026 Science Guide)
 ---
 
 <!-- wp:html -->

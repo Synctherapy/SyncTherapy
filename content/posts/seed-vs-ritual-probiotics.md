@@ -3,10 +3,9 @@ title: Seed vs Ritual Probiotics Honest Review In 2026 - Are They Worth it?
 date: '2023-08-21 15:43:25'
 slug: seed-vs-ritual-probiotics
 description: >-
-  /* Custom styles based on the new design template */ body { font-family:
-  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
-  #333333; /*...
-seoTitle: Seed vs Ritual Probiotics Honest Review In 2026 - Are They Worth it?
+  Seed vs Ritual synbiotic probiotics compared for 2026. Are they worth it?
+  Strains, pricing, and real gut health results from a Holistic Nutritionist.
+seoTitle: Seed vs Ritual Probiotics (2026 Honest Review)
 ---
 
 <!-- wp:html -->

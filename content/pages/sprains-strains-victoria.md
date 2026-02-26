@@ -3,10 +3,9 @@ title: sprains-strains-victoria
 date: '2025-07-07 14:42:19'
 slug: sprains-strains-victoria
 description: >-
-  Page Coming Soon - Sync Therapy /* Custom styles based on the provided color
-  palette */ body { font-family: 'Inter', sans-serif; background-color: #F4F7F5;
-  /*...
-seoTitle: sprains-strains-victoria
+  Sprain and strain treatment near Victoria at Sync Massage Therapy in Colwood.
+  Acute care and structured rehab by a Certified Athletic Therapist.
+seoTitle: Sprains & Strains Treatment Victoria | Sync
 ---
 
 <!-- wp:html -->

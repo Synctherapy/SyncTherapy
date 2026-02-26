@@ -3,10 +3,9 @@ title: Muscle Tension Relief Victoria
 date: '2025-07-07 14:46:57'
 slug: muscle-tension-relief-victoria
 description: >-
-  /* Custom styles based on the provided color palette */ body { font-family:
-  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
-  #333333;...
-seoTitle: Muscle Tension Relief Victoria
+  Muscle tension relief near Victoria, BC. Clinical massage therapy in Colwood
+  targeting chronic tightness, myofascial restrictions, and trigger points.
+seoTitle: Muscle Tension Relief Victoria | Sync Massage
 ---
 
 <!-- wp:html -->

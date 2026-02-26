@@ -3,10 +3,9 @@ title: Joint Stiffness Victoria
 date: '2025-07-07 14:40:47'
 slug: joint-stiffness-victoria
 description: >-
-  /* Custom styles based on the provided color palette */ body { font-family:
-  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
-  #333333;...
-seoTitle: Joint Stiffness Victoria
+  Joint stiffness treatment near Victoria at our Colwood clinic. Restore
+  mobility with clinical manual therapy and progressive joint mobilizations.
+seoTitle: Joint Stiffness Treatment Victoria | Sync Massage
 ---
 
 <!-- wp:html -->

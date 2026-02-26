@@ -3,10 +3,9 @@ title: ICBC Massage Therapy
 date: '2024-08-07 06:43:20'
 slug: icbc-massage-therapy
 description: >-
-  Helping you recover from a car accident with Massage Therapy in Victoria Book
-  Your Appointment Online - WE'RE NOT ACCEPTING NEW CLEINTS CURRENTLY Working
-  with...
-seoTitle: ICBC Massage Therapy
+  ICBC massage therapy coverage at Sync Massage Therapy in Colwood. Learn how to
+  access RMT treatment through your ICBC motor vehicle accident claim.
+seoTitle: ICBC Massage Therapy Claims | Sync Colwood Clinic
 ---
 
 <p> </p>

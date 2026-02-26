@@ -3,10 +3,9 @@ title: Our Athletic Therapist
 date: '2025-07-03 00:25:40'
 slug: athletic-therapist-daryl-stubbs
 description: >-
-  :root { --primary: #2E5A88; --secondary: #86BBD8; --accent: #F5B82E;
-  --accent-hover: #E5A71E; } * { margin: 0; padding: 0; box-sizing: border-box;
-  } body {...
-seoTitle: Our Athletic Therapist
+  Meet Daryl Stubbs, RMT, Certified Athletic Therapist, and Holistic
+  Nutritionist at Sync Massage Therapy in Colwood. Triple-certified since 2013.
+seoTitle: Daryl Stubbs — RMT & Athletic Therapist Colwood
 ---
 
 <!-- wp:html -->

@@ -3,8 +3,8 @@ title: 'Seed DS-01 Review 2026: Worth the Hype in Canada?'
 date: '2023-07-04 07:00:00'
 slug: seed-probiotics-reviews
 description: >-
-  // Configuration for Tailwind CSS tailwind.config = { theme: { extend: { //
-  Customizations can go here }, }, } body { font-family: 'Inter', sans-serif;...
+  Seed DS-01 probiotic review for 2026. Is this synbiotic worth the price in
+  Canada? Strains, research, and real results from a Holistic Nutritionist.
 seoTitle: 'Seed DS-01 Review 2026: Worth the Hype in Canada?'
 ---
 

@@ -3,10 +3,9 @@ title: 'Best SIBO Supplements 2026: Expert Protocol (Methane/Hydrogen)'
 date: '2023-08-18 01:04:08'
 slug: best-supplements-for-sibo
 description: >-
-  /* Custom styles based on the new design template */ body { font-family:
-  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
-  #333333; /*...
-seoTitle: 'Best SIBO Supplements 2026: Expert Protocol (Methane/Hydrogen)'
+  Best supplements for SIBO in 2026. Expert protocols for methane-dominant and
+  hydrogen-dominant SIBO reviewed by a certified Holistic Nutritionist.
+seoTitle: 'Best SIBO Supplements 2026: Methane & Hydrogen'
 ---
 
 <!-- wp:html -->

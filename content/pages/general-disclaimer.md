@@ -3,9 +3,10 @@ title: General Disclaimer
 date: '2024-08-07 06:43:26'
 slug: general-disclaimer
 description: >-
-  The information contained in https://synctherapylocal.local/ is for general
-  information purposes only. The information is provided by...
-seoTitle: General Disclaimer
+  General disclaimer for Sync Therapy. Content on this website is for
+  informational purposes only and is not a substitute for professional medical
+  advice.
+seoTitle: General Disclaimer | Sync Therapy
 ---
 
 <!-- wp:paragraph -->

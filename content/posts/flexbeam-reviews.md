@@ -3,10 +3,9 @@ title: 'FlexBeam Review 2026: Recharge Health Red Light Therapy Device'
 date: '2024-04-11 17:49:13'
 slug: flexbeam-reviews
 description: >-
-  body { font-family: 'Inter', sans-serif; background-color: #F4F7F5; color:
-  #333333; } html { scroll-behavior: smooth; } .bg-primary {
-  background-color:...
-seoTitle: 'FlexBeam Review 2026: Recharge Health Red Light Therapy Device'
+  FlexBeam red light therapy review for 2026. Portable targeted device tested by
+  an RMT for pain, recovery, and joint health. Honest pros and cons.
+seoTitle: 'FlexBeam Review 2026: Portable Red Light Device'
 ---
 
 <!-- wp:html -->

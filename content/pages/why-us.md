@@ -3,10 +3,9 @@ title: Why Us
 date: '2024-07-10 03:25:04'
 slug: why-us
 description: >-
-  /* Color Palette & Typography */ :root { --primary-color: #2E5A88;
-  --secondary-color: #86BBD8; --accent-color: #F5B82E; --text-dark: #333333;
-  --text-light:...
-seoTitle: Why Us
+  Six-time award-winning clinic with a triple-certified therapist. We treat root
+  causes, not just symptoms. Serving Colwood, Langford & the West Shore.
+seoTitle: Why Choose Sync Massage Therapy | Colwood Clinic
 ---
 
 <!-- wp:html -->

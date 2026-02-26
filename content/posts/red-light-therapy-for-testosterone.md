@@ -3,10 +3,9 @@ title: 'Red Light Therapy for Testosterone: Science-Backed Guide (2026)'
 date: '2024-02-29 08:00:00'
 slug: red-light-therapy-for-testosterone
 description: >-
-  body { font-family: 'Inter', sans-serif; background-color: #F4F7F5; color:
-  #333333; } html { scroll-behavior: smooth; } .bg-primary {
-  background-color:...
-seoTitle: 'Red Light Therapy for Testosterone: Science-Backed Guide (2026)'
+  Does red light therapy boost testosterone? The science-backed guide for 2026
+  covering research, protocols, wavelengths, and realistic expectations.
+seoTitle: Red Light Therapy for Testosterone (2026 Guide)
 ---
 
 <!-- wp:html -->

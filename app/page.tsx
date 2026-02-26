@@ -2,8 +2,8 @@ import { HomeLayout } from "@/components/layouts/HomeLayout";
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Registered Massage Therapy Colwood | Sync Massage Therapy',
-  description: 'Clinical Registered Massage Therapy in Colwood. We focus on physical rehabilitation to treat root causes of pain. Book an appointment today to start healing!',
+  title: 'Registered Massage Therapist Colwood | Sync Massage',
+  description: 'Award-winning Registered Massage Therapist in Colwood serving Langford & the West Shore. Triple-certified RMT clinic. Direct billing. Book online today.',
 };
 
 import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-columns";

@@ -3,10 +3,9 @@ title: Testimonials Disclosure
 date: '2024-08-07 06:43:28'
 slug: testimonials-disclosure
 description: >-
-  Unique experiences and past performances do not guarantee future results!
-  Testimonials herein are unsolicited and are non-representative of all
-  clients;...
-seoTitle: Testimonials Disclosure
+  Testimonials disclosure for Sync Therapy. Reviews and testimonials on this
+  website reflect individual experiences and may not represent typical results.
+seoTitle: Testimonials Disclosure | Sync Therapy
 ---
 
 

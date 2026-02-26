@@ -3,10 +3,9 @@ title: 'Lourdes Hydrogen Water Generator Review: Holy Hydrogen Review'
 date: '2024-03-06 08:00:00'
 slug: lourdes-hydrofix-review
 description: >-
-  /* Custom styles based on the new design template */ body { font-family:
-  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
-  #333333; /*...
-seoTitle: 'Lourdes Hydrogen Water Generator Review: Holy Hydrogen Review'
+  Lourdes Hydrofix hydrogen water generator review. Also known as Holy Hydrogen.
+  PPM output, build quality, and whether it is worth the investment.
+seoTitle: 'Lourdes Hydrofix Review: Holy Hydrogen Generator'
 ---
 
 <!-- wp:html -->

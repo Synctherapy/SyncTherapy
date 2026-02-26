@@ -3,10 +3,9 @@ title: Our Team
 date: '2025-06-22 15:16:38'
 slug: our-team
 description: >-
-  :root { --primary: #2e5a88; --secondary: #86bbd8; --accent: #f5b82e; } * {
-  margin: 0; padding: 0; box-sizing: border-box; } body { font-family:
-  'Inter',...
-seoTitle: Our Team
+  Meet the team at Sync Massage Therapy in Colwood. Award-winning registered
+  massage therapy, athletic therapy, and holistic nutrition services.
+seoTitle: Our Team | Sync Massage Therapy Colwood
 ---
 
 <!-- wp:html -->

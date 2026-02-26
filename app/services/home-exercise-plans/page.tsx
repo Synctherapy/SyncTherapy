@@ -8,8 +8,8 @@ import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-c
 import { HelpCircle, Play, Calendar, ListChecks } from 'lucide-react';
 
 export const metadata: Metadata = {
-    title: 'Athletic Therapy Westshore | Sync Massage Therapy',
-    description: 'Get professional Athletic Therapy in Westshore. We provide strict physical rehabilitation to fully resolve your injuries. Book an appointment today for relief!',
+    title: 'Home Exercise Plans Colwood | Sync Massage Therapy',
+    description: 'Custom home exercise programs designed by a Certified Athletic Therapist in Colwood. Structured rehab and strengthening plans you can do at home.',
     alternates: {
         canonical: 'https://synctherapy.ca/services/home-exercise-plans/',
     },

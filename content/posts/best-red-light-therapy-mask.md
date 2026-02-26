@@ -3,10 +3,9 @@ title: Best Red Light Therapy Masks in Canada (2026 Review)
 date: '2024-03-11 07:00:00'
 slug: best-red-light-therapy-mask
 description: >-
-  /* Custom styles based on the new design template */ body { font-family:
-  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
-  #333333; /*...
-seoTitle: Best Red Light Therapy Masks in Canada (2026 Review)
+  Comparing the best red light therapy masks available in Canada for 2026. LED
+  coverage, wavelengths, and comfort rated by a certified health professional.
+seoTitle: Best Red Light Therapy Masks Canada (2026)
 ---
 
 <!-- wp:html -->

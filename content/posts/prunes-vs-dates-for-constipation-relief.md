@@ -3,10 +3,9 @@ title: Prunes vs Dates for Constipation Relief
 date: '2023-05-06 20:49:40'
 slug: prunes-vs-dates-for-constipation-relief
 description: >-
-  /* Custom styles based on the new design template */ body { font-family:
-  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
-  #333333; /*...
-seoTitle: Prunes vs Dates for Constipation Relief
+  Prunes vs dates for constipation relief compared. Which fruit works better,
+  how much to eat, and what the research says. Simple guide with dosages.
+seoTitle: 'Prunes vs Dates for Constipation: Which Works?'
 ---
 
 <!-- wp:html -->

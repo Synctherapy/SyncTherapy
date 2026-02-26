@@ -8,8 +8,8 @@ import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-c
 import { ListChecks, Search, HelpCircle, Activity } from 'lucide-react';
 
 export const metadata: Metadata = {
-    title: 'Holistic Nutrition Langford | Sync Massage Therapy',
-    description: 'Comprehensive Holistic Nutrition in Langford. We support physical rehabilitation with targeted dietary plans. Book an appointment today to improve your health!',
+    title: 'Low FODMAP Diet Guidance Colwood | Sync Therapy',
+    description: 'Low FODMAP diet guidance from a Holistic Nutritionist in Colwood. We help you navigate elimination, reintroduction, and long-term IBS management.',
     alternates: {
         canonical: 'https://synctherapy.ca/services/low-fodmap-diet/',
     },

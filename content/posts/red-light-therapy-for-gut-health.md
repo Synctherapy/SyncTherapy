@@ -3,10 +3,9 @@ title: 'Red Light Therapy on Stomach: Benefits &amp; How to Use'
 date: '2024-04-12 07:00:00'
 slug: red-light-therapy-for-gut-health
 description: >-
-  /* Custom styles based on the template */ body { font-family: 'Inter',
-  sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color: #333333;
-  /*...
-seoTitle: 'Red Light Therapy on Stomach: Benefits &amp; How to Use'
+  Using red light therapy on your stomach for gut health. Research on IBS,
+  inflammation, and microbiome benefits reviewed by a Holistic Nutritionist.
+seoTitle: Red Light Therapy for Gut Health & Stomach Use
 ---
 
 <!-- wp:html -->

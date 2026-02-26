@@ -7,8 +7,8 @@ import Image from 'next/image';
 import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-columns";
 
 export const metadata: Metadata = {
-    title: 'Registered Massage Therapy Langford | Sync Massage Therapy',
-    description: 'Clinical Registered Massage Therapy in Langford. We focus on physical rehabilitation to treat root causes of pain. Book an appointment today to start healing!',
+    title: 'Muscle Tension Relief Colwood | Sync Massage',
+    description: 'Chronic muscle tension treatment in Colwood & Langford. We find and release the areas causing your stiffness, headaches, and restricted movement.',
     alternates: {
         canonical: 'https://synctherapy.ca/services/muscle-tension-relief/',
     },

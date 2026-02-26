@@ -3,10 +3,9 @@ title: Terms of Service
 date: '2024-08-07 06:43:30'
 slug: terms-of-service
 description: >-
-  These Terms govern your access to, usage of all content, Product and Services
-  available at https://synctherapylocal.local/ website (the “Service”) operated
-  by...
-seoTitle: Terms of Service
+  Terms of service for Sync Therapy. Please review the terms and conditions
+  governing your use of our website and services before proceeding.
+seoTitle: Terms of Service | Sync Therapy
 ---
 
 <!-- wp:paragraph -->

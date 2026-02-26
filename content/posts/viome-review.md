@@ -5,12 +5,9 @@ title: >-
 date: '2023-06-27 03:44:03'
 slug: viome-review
 description: >-
-  /* Custom styles based on the new design template */ body { font-family:
-  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
-  #333333; /*...
-seoTitle: >-
-  Viome Gut Intelligence Test Review: In-Depth Viome Reviews & Personal
-  Experience
+  Viome gut intelligence test reviewed for 2026. Is this at-home microbiome test
+  accurate and actionable? A Holistic Nutritionist gives an honest verdict.
+seoTitle: 'Viome Gut Health Test Review 2026: Is It Worth It?'
 ---
 
 <!-- wp:html -->

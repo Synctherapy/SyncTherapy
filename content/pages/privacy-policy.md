@@ -3,10 +3,9 @@ title: Privacy Policy
 date: '2024-08-07 06:43:26'
 slug: privacy-policy
 description: >-
-  Definitions and legal references This Website (or this Application) The
-  property that enables the provision of the Service. Owner (or We) Sync Therapy
-  - The...
-seoTitle: Privacy Policy
+  Privacy policy for Sync Therapy. Learn how we collect, use, and protect your
+  personal information when you visit our website or book an appointment.
+seoTitle: Privacy Policy | Sync Therapy
 ---
 
 <!-- wp:heading -->

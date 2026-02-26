@@ -3,10 +3,9 @@ title: Conditions
 date: '2025-06-26 05:25:01'
 slug: conditions
 description: >-
-  body { font-family: Arial, Helvetica, sans-serif; } .animate-pulse {
-  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite; } @keyframes pulse
-  { 0%, 100% {...
-seoTitle: Conditions
+  Back pain, sports injuries, chronic pain, sciatica, and more. Our Colwood
+  clinic treats the root cause of your condition with a clinical rehab approach.
+seoTitle: Conditions We Treat | Sync Massage Therapy
 ---
 
 <!-- wp:html -->

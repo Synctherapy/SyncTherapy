@@ -4,8 +4,8 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
-    title: 'Registered Massage Therapy Westshore | Sync Massage Therapy',
-    description: 'Clinical Registered Massage Therapy in Westshore. We focus on physical rehabilitation to treat root causes of pain. Book an appointment today to start healing!',
+    title: 'Sciatica Treatment Colwood | West Shore Clinic',
+    description: 'Sciatica treatment in Colwood. We identify whether your nerve pain is disc, piriformis, or visceral in origin, then treat the actual source.',
     alternates: {
         canonical: 'https://synctherapy.ca/conditions/sciatica/',
     },

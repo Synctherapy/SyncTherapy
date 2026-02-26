@@ -3,10 +3,9 @@ title: 8 Best Leaky Gut Supplements & Probiotics (2026 Guide)
 date: '2023-09-01 03:31:39'
 slug: best-leaky-gut-supplements
 description: >-
-  /* Custom styles based on the new design template */ body { font-family:
-  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
-  #333333; /*...
-seoTitle: 8 Best Leaky Gut Supplements & Probiotics (2026 Guide)
+  Eight best leaky gut supplements and probiotics for 2026. Gut lining repair,
+  L-glutamine, and targeted strains reviewed by a Holistic Nutritionist.
+seoTitle: Best Leaky Gut Supplements & Probiotics (2026)
 ---
 
 <!-- wp:html -->

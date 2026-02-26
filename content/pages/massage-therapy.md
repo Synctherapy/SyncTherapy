@@ -3,10 +3,10 @@ title: Massage Therapy Colwood
 date: '2025-07-03 00:31:09'
 slug: massage-therapy
 description: >-
-  :root { --primary: #2E5A88; --primary-light: #4A7AAA; --secondary: #86BBD8;
-  --accent: #F5B82E; --neutral: #F4F7F5; --text: #333333; --text-light:
-  #666666;...
-seoTitle: Massage Therapy Colwood
+  Clinical massage therapy in Colwood serving Langford & the West Shore. RMT
+  treatments for pain, injuries, and chronic conditions. Direct billing
+  available.
+seoTitle: Massage Therapy Colwood & Langford | Sync Massage
 ---
 
 <!-- wp:html -->

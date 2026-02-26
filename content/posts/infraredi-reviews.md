@@ -3,10 +3,9 @@ title: 'Infraredi Reviews, Pro Max, Flex Max, 15% Off'
 date: '2024-02-12 08:00:00'
 slug: infraredi-reviews
 description: >-
-  /* Custom styles based on the new design template */ body { font-family:
-  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
-  #333333; /*...
-seoTitle: 'Infraredi Reviews, Pro Max, Flex Max, 15% Off'
+  Detailed Infraredi red light therapy review for 2026. Pro Max and Flex Max
+  panels tested by an RMT. Canadian shipping, specs, and 15% discount code.
+seoTitle: 'Infraredi Review 2026: Pro Max & Flex Max Tested'
 ---
 
 <!-- wp:html -->

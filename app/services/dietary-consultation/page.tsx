@@ -8,8 +8,8 @@ import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-c
 import { BookOpen, Flame, Clock, TrendingDown } from 'lucide-react';
 
 export const metadata: Metadata = {
-    title: 'Holistic Nutrition Westshore | Sync Massage Therapy',
-    description: 'Comprehensive Holistic Nutrition in Westshore. We support physical rehabilitation with targeted dietary plans. Book an appointment today to improve your health!',
+    title: 'Dietary Consultation Langford | Sync Therapy',
+    description: 'Holistic dietary consultation near Langford. Personalized nutrition plans for weight management, energy, and chronic health conditions. Book online.',
     alternates: {
         canonical: 'https://synctherapy.ca/services/dietary-consultation/',
     },

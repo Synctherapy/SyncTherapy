@@ -5,12 +5,9 @@ title: >-
 date: '2024-02-15 08:00:00'
 slug: neuropathy-red-light-therapy
 description: >-
-  body { font-family: 'Inter', sans-serif; background-color: #F4F7F5; color:
-  #333333; } html { scroll-behavior: smooth; } .bg-primary {
-  background-color:...
-seoTitle: >-
-  Red Light Therapy for Neuropathy: Effective Red Light Therapy and Light
-  Therapy Solutions
+  Can red light therapy help peripheral neuropathy? Research on nerve pain,
+  numbness, and tingling reviewed with the best devices and treatment protocols.
+seoTitle: 'Red Light Therapy for Neuropathy: Does It Work?'
 ---
 
 <!-- wp:html -->

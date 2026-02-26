@@ -3,10 +3,9 @@ title: 'Red Light Therapy for Back Pain: LED Treatment for Pain Relief'
 date: '2024-02-27 08:00:00'
 slug: red-light-therapy-back-pain
 description: >-
-  /* Custom styles based on the new design template */ body { font-family:
-  'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
-  #333333; /*...
-seoTitle: 'Red Light Therapy for Back Pain: LED Treatment for Pain Relief'
+  Can red light therapy help back pain? An RMT explains the research, best
+  devices, treatment protocols, and realistic expectations for pain relief.
+seoTitle: Red Light Therapy for Back Pain (2026 Guide)
 ---
 
 <!-- wp:html -->

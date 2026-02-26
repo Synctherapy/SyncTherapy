@@ -5,12 +5,9 @@ title: >-
 date: '2023-12-26 08:00:00'
 slug: kala-red-light-therapy-review
 description: >-
-  /* Custom styles based on the design template */ body { font-family: 'Inter',
-  sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color: #333333;
-  /*...
-seoTitle: >-
-  Honest Kala Red Light Therapy Review 2026: Kala Pro Panel, PEMF Mat, and Mask
-  Reviews
+  Kala red light therapy panel review for 2026. A Canadian-made device tested by
+  an RMT for power density, build quality, and value vs imported panels.
+seoTitle: 'Kala Red Light Review 2026: Best Canadian Panel?'
 ---
 
 <!-- wp:html -->

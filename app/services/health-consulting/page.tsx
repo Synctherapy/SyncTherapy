@@ -5,14 +5,14 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
-    title: 'Holistic Nutrition Westshore | Sync Massage Therapy',
-    description: 'Comprehensive Holistic Nutrition in Westshore. We support physical rehabilitation with targeted dietary plans. Book an appointment today to improve your health!',
+    title: 'Health Consulting West Shore | Sync Therapy',
+    description: 'Health consulting and wellness strategy on the West Shore. Our triple-certified therapist assesses your vitality and creates an actionable health plan.',
     alternates: {
         canonical: 'https://www.synctherapy.ca/services/health-consulting/',
     },
     openGraph: {
-        title: 'Holistic Nutrition Westshore | Sync Massage Therapy',
-        description: 'Comprehensive Holistic Nutrition in Westshore. We support physical rehabilitation with targeted dietary plans. Book an appointment today to improve your health!',
+        title: 'Health Consulting West Shore | Sync Therapy',
+        description: 'Health consulting and wellness strategy on the West Shore. Our triple-certified therapist assesses your vitality and creates an actionable health plan.',
         url: 'https://www.synctherapy.ca/services/health-consulting/',
         siteName: 'Sync Therapy',
         locale: 'en_CA',

@@ -8,8 +8,8 @@ import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-c
 import { HeartPulse, Activity, TrendingDown, Shield } from 'lucide-react';
 
 export const metadata: Metadata = {
-    title: 'Holistic Nutrition Colwood | Sync Massage Therapy',
-    description: 'Comprehensive Holistic Nutrition in Colwood. We support physical rehabilitation with targeted dietary plans. Book an appointment today to improve your health!',
+    title: 'Cholesterol Diet Plan Colwood | Sync Therapy',
+    description: 'Cholesterol management through diet in Colwood. A Holistic Nutritionist helps you lower LDL, raise HDL, and reduce cardiovascular risk naturally.',
     alternates: {
         canonical: 'https://synctherapy.ca/services/cholesterol-diet/',
     },

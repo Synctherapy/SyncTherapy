@@ -2,8 +2,10 @@
 title: Direct Billing RMT & Athletic Therapy | Colwood & Victoria | Sync Therapy
 date: '2026-02-16 11:12:49'
 slug: direct-billing
-description: Direct billing massage therapist in Colwood. We bill Pacific Blue Cross, Canada Life & Sun Life. Accepting insurance for Visceral Manipulation & Athletic Therapy.
-seoTitle: Direct Billing RMT & Athletic Therapy | Colwood & Victoria | Sync Therapy
+description: >-
+  We direct bill Pacific Blue Cross, Canada Life & Sun Life for massage therapy
+  and athletic therapy. Skip the paperwork at our Colwood clinic.
+seoTitle: Direct Billing RMT Colwood | Sync Massage Therapy
 ---
 
 <!-- wp:html -->

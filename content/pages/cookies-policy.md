@@ -3,10 +3,9 @@ title: Cookies Policy
 date: '2024-08-07 06:43:30'
 slug: cookies-policy
 description: >-
-  My Company Sync Therapy ("us", "we", or "our") uses cookies on My Website
-  https://synctherapylocal.local/ (the "Service"). By using the Service, you
-  consent to...
-seoTitle: Cookies Policy
+  Cookies policy for Sync Therapy. Learn how our website uses cookies to improve
+  your browsing experience and how you can manage your cookie preferences.
+seoTitle: Cookies Policy | Sync Therapy
 ---
 
 <!-- wp:paragraph -->

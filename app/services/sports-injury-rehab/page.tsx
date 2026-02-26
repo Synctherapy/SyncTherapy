@@ -5,14 +5,14 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
-    title: 'Athletic Therapy Colwood | Sync Massage Therapy',
-    description: 'Get professional Athletic Therapy in Colwood. We provide strict physical rehabilitation to fully resolve your injuries. Book an appointment today for relief!',
+    title: 'Sports Injury Rehab Colwood | Sync Massage Therapy',
+    description: 'Sports injury rehabilitation by a Certified Athletic Therapist in Colwood. We diagnose the root cause of your injury and build a full recovery plan.',
     alternates: {
         canonical: 'https://www.synctherapy.ca/services/sports-injury-rehab/',
     },
     openGraph: {
-        title: 'Athletic Therapy Colwood | Sync Massage Therapy',
-        description: 'Get professional Athletic Therapy in Colwood. We provide strict physical rehabilitation to fully resolve your injuries. Book an appointment today for relief!',
+        title: 'Sports Injury Rehab Colwood | Sync Massage Therapy',
+        description: 'Sports injury rehabilitation by a Certified Athletic Therapist in Colwood. We diagnose the root cause of your injury and build a full recovery plan.',
         url: 'https://www.synctherapy.ca/services/sports-injury-rehab/',
         siteName: 'Sync Therapy',
         locale: 'en_CA',

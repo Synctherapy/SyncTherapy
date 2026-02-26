@@ -4,8 +4,8 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
-    title: 'Registered Massage Therapy Colwood | Sync Massage Therapy',
-    description: 'Clinical Registered Massage Therapy in Colwood. We focus on physical rehabilitation to treat root causes of pain. Book an appointment today to start healing!',
+    title: 'Hip & Knee Pain Relief Colwood | Sync Massage',
+    description: 'Hip and knee pain relief in Colwood. Biomechanical assessment, manual therapy, and corrective exercise to treat the cause of your hip or knee pain.',
     alternates: {
         canonical: 'https://synctherapy.ca/conditions/hip-and-knee-pain/',
     },
