@@ -2,7 +2,7 @@ import { HomeLayout } from "@/components/layouts/HomeLayout";
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Registered Massage Therapist Colwood | Sync Massage',
+  title: 'Registered Massage Therapist Colwood | Sync Massage Therapy',
   description: 'Award-winning Registered Massage Therapist in Colwood serving Langford & the West Shore. Triple-certified RMT clinic. Direct billing. Book online today.',
 };
 

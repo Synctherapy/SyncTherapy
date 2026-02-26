@@ -10,7 +10,7 @@ const credentials = [
 
 export function GuideSection() {
   return (
-    <section className="py-24 bg-background">
+    <section id="guide" className="py-24 bg-background">
       <div className="container mx-auto px-4">
         <h2 className="font-serif text-3xl md:text-4xl text-center text-foreground mb-16 text-balance">
           One Clinic. One Therapist. Real Answers.
@@ -29,7 +29,7 @@ export function GuideSection() {
                 />
               </div>
             </div>
-            
+
             <div>
               <h3 className="font-serif text-2xl text-foreground">
                 Daryl Stubbs, RMT, CAT(C)
@@ -37,7 +37,7 @@ export function GuideSection() {
               <p className="text-muted-foreground font-medium mt-1">
                 Registered Massage Therapist in Colwood
               </p>
-              
+
               <p className="mt-4 text-foreground/80 leading-relaxed">
                 I run one clinic. I'm one therapist. My name is Daryl, and I'm a Registered Massage Therapist, a Certified Athletic Therapist, and a Holistic Nutritionist. That means depending on what you need, I can help from a couple of different angles. I've been helping people in this community since 2013.
               </p>
@@ -55,8 +55,8 @@ export function GuideSection() {
                 ))}
               </ul>
 
-              <a 
-                href="/about/" 
+              <a
+                href="/about/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block mt-6 text-accent hover:text-accent/80 font-medium text-sm"
@@ -75,7 +75,7 @@ export function GuideSection() {
                 <p className="mt-1 font-semibold text-foreground">Best Massage & Rehab Clinic</p>
                 <p className="mt-1 text-sm text-muted-foreground">Community Votes Victoria 2019-2024</p>
               </div>
-              
+
               <div className="text-center p-6 bg-background rounded-lg">
                 <Star className="w-12 h-12 text-accent mx-auto" />
                 <p className="mt-4 font-serif text-3xl text-foreground">4.9/5</p>

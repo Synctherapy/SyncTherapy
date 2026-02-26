@@ -29,12 +29,12 @@ import { ScrollReveal } from "@/components/ui/scroll-reveal";
 
 export function HeroSection({
   title = "Award Winning Massage Therapist in Colwood",
-  subtitle = "Sync Therapy: Where expert RMT care meets athletic therapy for comprehensive recovery.",
+  subtitle = "Sync Massage Therapy: Where Clinical RMT care meets athletic therapy for comprehensive recovery.",
   image = "/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg",
   primaryCtaText = "Book Treatment",
   primaryCtaLink = "https://synctherapy.janeapp.com/",
   secondaryCtaText = "View Services",
-  secondaryCtaLink = "#services",
+  secondaryCtaLink = "#guide",
   secondaryCtaSubtext,
   tertiaryCtaText,
   tertiaryCtaLink,
