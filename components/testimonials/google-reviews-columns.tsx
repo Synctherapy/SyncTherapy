@@ -7,6 +7,7 @@ import { Button } from "@/components/ui/button";
 import { fetchGoogleReviewsAction } from "@/lib/actions/google-reviews";
 
 const PLACE_ID = "ChIJh0e3HIV0j1QRtWxeiAnwzeo"; // Sync Therapy Colwood (Correct ID)
+const STARS = [0, 1, 2, 3, 4];
 
 interface ReviewProps {
     img: string;
@@ -44,7 +45,7 @@ const ReviewCard = ({ img, name, username, body, rating }: ReviewProps) => {
                     </figcaption>
                     <div className="flex items-center gap-1">
                         <div className="flex">
-                            {[...Array(rating || 5)].map((_, i) => (
+                            {STARS.slice(0, rating || 5).map((_, i) => (
                                 <Star key={i} className="w-3 h-3 fill-yellow-400 text-yellow-400" />
                             ))}
                         </div>
@@ -93,11 +94,13 @@ function ReviewsMarquee({ reviews }: { reviews: any[] }) {
     )
 }
 
-export function GoogleReviewsColumns() {
-    const [formattedReviews, setFormattedReviews] = useState<any[]>([]);
-    const [isLoading, setIsLoading] = useState<boolean>(true);
+export function GoogleReviewsColumns({ initialReviews }: { initialReviews?: any[] }) {
+    const [formattedReviews, setFormattedReviews] = useState<any[]>(initialReviews || []);
+    const [isLoading, setIsLoading] = useState<boolean>(!initialReviews);
 
     useEffect(() => {
+        if (initialReviews) return;
+
         fetchGoogleReviewsAction()
             .then((data) => {
                 setFormattedReviews(data);
@@ -107,7 +110,7 @@ export function GoogleReviewsColumns() {
                 console.error("Failed to load reviews:", err);
                 setIsLoading(false);
             });
-    }, []);
+    }, [initialReviews]);
 
     return (
         <section className="relative py-20 bg-slate-50 dark:bg-black/20 overflow-hidden">

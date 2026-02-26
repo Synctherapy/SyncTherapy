@@ -7,8 +7,11 @@ export const metadata: Metadata = {
 };
 
 import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-columns";
+import { fetchGoogleReviewsAction } from "@/lib/actions/google-reviews";
 
-export default function Home() {
+export default async function Home() {
+  const reviews = await fetchGoogleReviewsAction();
+
   // ... existing faqSchema logic ...
   const faqSchema = {
     '@context': 'https://schema.org',
@@ -71,7 +74,7 @@ export default function Home() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
       />
-      <HomeLayout reviewsComponent={<GoogleReviewsColumns />} />
+      <HomeLayout reviewsComponent={<GoogleReviewsColumns initialReviews={reviews} />} />
     </>
   );
 }
