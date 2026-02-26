@@ -287,7 +287,7 @@ export function VisceralManipulation() {
                                     "I have pursued advanced training in Visceral Manipulation because I saw too many patients whose back pain wasn't just a muscle knot. By treating the organ system, we often solve chronic cases that have failed other treatments."
                                 </p>
                                 <Button asChild variant="link" className="text-indigo-600 font-bold p-0 text-lg">
-                                    <Link href="/about">Read Full Bio →</Link>
+                                    <Link href="/about/">Read Full Bio →</Link>
                                 </Button>
                             </div>
                         </div>

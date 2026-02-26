@@ -156,7 +156,7 @@ export function RelaxationMassage() {
                         <p className="text-gray-300 text-lg mb-6 leading-relaxed">
                             We don't just "rub lotion on." Our relaxation treatments are clinically designed to lower systemic inflammation. We combine spa-level comfort with orthopedic knowledge, ensuring you leave not just relaxed, but physically better.
                         </p>
-                        <Link href="/about" className="text-blue-400 font-bold border-b-2 border-blue-400 hover:text-white hover:border-white transition-all">
+                        <Link href="/about/" className="text-blue-400 font-bold border-b-2 border-blue-400 hover:text-white hover:border-white transition-all">
                             About Our Clinic →
                         </Link>
                     </div>

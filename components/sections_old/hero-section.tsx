@@ -41,7 +41,7 @@ export function HeroSection() {
               className="bg-accent text-accent-foreground hover:bg-accent/90 text-base px-8"
               asChild
             >
-              <a href="https://www.synctherapy.ca/book" target="_blank" rel="noopener noreferrer">
+              <a href="/book/" target="_blank" rel="noopener noreferrer">
                 Book Your Appointment
               </a>
             </Button>

@@ -357,7 +357,7 @@ seoTitle: 2026 Red Light Therapy Cost Pricing Guide for Sessions &amp; Devices
         <section id="session-costs">
             <h2><i class="fas fa-clinic-medical text-accent mr-2"></i>Professional Red Light Therapy Session Costs</h2>
             <div class="bg-white p-6 rounded-lg shadow-md">
-                <p class="mb-6">Professional <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">red light therapy</a> treatments are offered at dermatology offices, medical spas, wellness clinics, and increasingly at gyms and tanning salons. Here's what you can expect to pay:</p>
+                <p class="mb-6">Professional <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" href="/red-light-therapy/" class="text-primary hover:underline">red light therapy</a> treatments are offered at dermatology offices, medical spas, wellness clinics, and increasingly at gyms and tanning salons. Here's what you can expect to pay:</p>
 
                 <h3 class="text-xl font-bold mb-4">Cost by Treatment Type</h3>
                 <div class="grid md:grid-cols-2 gap-4 mb-6">
@@ -436,7 +436,7 @@ seoTitle: 2026 Red Light Therapy Cost Pricing Guide for Sessions &amp; Devices
         <section id="at-home-costs">
             <h2><i class="fas fa-home text-accent mr-2"></i>At-Home Red Light Therapy Device Costs</h2>
             <div class="bg-white p-6 rounded-lg shadow-md">
-                <p class="mb-6">At-home <a href="https://synctherapylocal.local/at-home-red-light-therapy/" class="text-primary hover:underline">red light therapy devices</a> range dramatically in price based on size, power output, and build quality. Here's a realistic breakdown:</p>
+                <p class="mb-6">At-home <a href="/at-home-red-light-therapy/" class="text-primary hover:underline">red light therapy devices</a> range dramatically in price based on size, power output, and build quality. Here's a realistic breakdown:</p>
 
                 <h3 class="text-xl font-bold mb-4">Device Categories by Price</h3>
                 <div class="space-y-4 mb-6">
@@ -463,7 +463,7 @@ seoTitle: 2026 Red Light Therapy Cost Pricing Guide for Sessions &amp; Devices
                             <h4 class="font-bold text-green-700"><i class="fas fa-check-circle mr-2"></i>Quality Mid-Size Panels (SWEET SPOT)</h4>
                             <span class="text-xl font-bold text-green-700">$500-$1,500</span>
                         </div>
-                        <p class="text-sm text-gray-700 mb-2">Panels like <a href="https://synctherapylocal.local/kala-red-light-therapy-review/" class="text-primary hover:underline">Kala Pro</a>, <a href="https://synctherapylocal.local/rouge-red-light-therapy-reviews/" class="text-primary hover:underline">Rouge G4</a>, <a href="https://synctherapylocal.local/mito-red-light-therapy-review/" class="text-primary hover:underline">Mito Pro X</a>. Therapeutic power, good coverage area.</p>
+                        <p class="text-sm text-gray-700 mb-2">Panels like <a href="/kala-red-light-therapy-review/" class="text-primary hover:underline">Kala Pro</a>, <a href="/rouge-red-light-therapy-reviews/" class="text-primary hover:underline">Rouge G4</a>, <a href="/mito-red-light-therapy-review/" class="text-primary hover:underline">Mito Pro X</a>. Therapeutic power, good coverage area.</p>
                         <p class="text-sm text-green-700"><strong>Best value:</strong> Most users get optimal results in this range. Pays for itself in 10-30 clinic sessions.</p>
                     </div>
 
@@ -472,7 +472,7 @@ seoTitle: 2026 Red Light Therapy Cost Pricing Guide for Sessions &amp; Devices
                             <h4 class="font-bold text-purple-700"><i class="fas fa-crown mr-2"></i>Premium/Full-Body Panels</h4>
                             <span class="text-xl font-bold">$1,500-$4,000+</span>
                         </div>
-                        <p class="text-sm text-gray-700 mb-2">Large panels like <a href="https://synctherapylocal.local/platinum-led-therapy-lights-review/" class="text-primary hover:underline">PlatinumLED Biomax</a>, full-body setups. Professional-grade power and coverage.</p>
+                        <p class="text-sm text-gray-700 mb-2">Large panels like <a href="/platinum-led-therapy-lights-review/" class="text-primary hover:underline">PlatinumLED Biomax</a>, full-body setups. Professional-grade power and coverage.</p>
                         <p class="text-sm text-purple-700"><strong>Best for:</strong> Serious biohackers, athletes, practitioners, or those treating multiple body areas.</p>
                     </div>
                 </div>
@@ -490,37 +490,37 @@ seoTitle: 2026 Red Light Therapy Cost Pricing Guide for Sessions &amp; Devices
                         </thead>
                         <tbody>
                             <tr>
-                                <td class="p-3 font-semibold"><a href="https://synctherapylocal.local/kala-red-light-therapy-review/" class="text-primary hover:underline">Kala Pro</a></td>
+                                <td class="p-3 font-semibold"><a href="/kala-red-light-therapy-review/" class="text-primary hover:underline">Kala Pro</a></td>
                                 <td class="p-3">~$700 CAD</td>
                                 <td class="p-3">Half-body</td>
                                 <td class="p-3 text-green-600">Best value Canada 🇨🇦</td>
                             </tr>
                             <tr>
-                                <td class="p-3 font-semibold"><a href="https://synctherapylocal.local/rouge-red-light-therapy-reviews/" class="text-primary hover:underline">Rouge G4 Pro</a></td>
+                                <td class="p-3 font-semibold"><a href="/rouge-red-light-therapy-reviews/" class="text-primary hover:underline">Rouge G4 Pro</a></td>
                                 <td class="p-3">~$1,100 CAD</td>
                                 <td class="p-3">Half-body</td>
                                 <td class="p-3">Premium Canada 🇨🇦</td>
                             </tr>
                             <tr>
-                                <td class="p-3 font-semibold"><a href="https://synctherapylocal.local/mito-red-light-therapy-review/" class="text-primary hover:underline">Mito Pro X 750</a></td>
+                                <td class="p-3 font-semibold"><a href="/mito-red-light-therapy-review/" class="text-primary hover:underline">Mito Pro X 750</a></td>
                                 <td class="p-3">~$1,200 USD</td>
                                 <td class="p-3">Half-body</td>
                                 <td class="p-3">Best USA value 🇺🇸</td>
                             </tr>
                             <tr>
-                                <td class="p-3 font-semibold"><a href="https://synctherapylocal.local/platinum-led-therapy-lights-review/" class="text-primary hover:underline">PlatinumLED Biomax 600</a></td>
+                                <td class="p-3 font-semibold"><a href="/platinum-led-therapy-lights-review/" class="text-primary hover:underline">PlatinumLED Biomax 600</a></td>
                                 <td class="p-3">~$1,100 USD</td>
                                 <td class="p-3">Half-body</td>
                                 <td class="p-3">5 wavelengths 🇺🇸</td>
                             </tr>
                             <tr>
-                                <td class="p-3 font-semibold"><a href="https://synctherapylocal.local/infraredi-reviews/" class="text-primary hover:underline">Infraredi Pro Max</a></td>
+                                <td class="p-3 font-semibold"><a href="/infraredi-reviews/" class="text-primary hover:underline">Infraredi Pro Max</a></td>
                                 <td class="p-3">~$1,400 CAD</td>
                                 <td class="p-3">Full-body</td>
                                 <td class="p-3">Health Canada licensed 🇨🇦</td>
                             </tr>
                             <tr>
-                                <td class="p-3 font-semibold"><a href="https://synctherapylocal.local/hooga-red-light-therapy-reviews/" class="text-primary hover:underline">Hooga HG300</a></td>
+                                <td class="p-3 font-semibold"><a href="/hooga-red-light-therapy-reviews/" class="text-primary hover:underline">Hooga HG300</a></td>
                                 <td class="p-3">~$300 USD</td>
                                 <td class="p-3">Targeted</td>
                                 <td class="p-3">Budget entry</td>
@@ -626,7 +626,7 @@ seoTitle: 2026 Red Light Therapy Cost Pricing Guide for Sessions &amp; Devices
                 <div class="grid md:grid-cols-2 gap-4 mb-6">
                     <div class="bg-green-50 p-4 rounded-lg">
                         <p class="font-semibold text-green-700"><i class="fas fa-check mr-2"></i>Pain & Inflammation</p>
-                        <p class="text-sm text-gray-700">Multiple studies show significant reduction in <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">inflammation</a> and chronic pain conditions.</p>
+                        <p class="text-sm text-gray-700">Multiple studies show significant reduction in <a href="/red-light-therapy/" class="text-primary hover:underline">inflammation</a> and chronic pain conditions.</p>
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
                         <p class="font-semibold text-green-700"><i class="fas fa-check mr-2"></i>Skin Health</p>
@@ -638,7 +638,7 @@ seoTitle: 2026 Red Light Therapy Cost Pricing Guide for Sessions &amp; Devices
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
                         <p class="font-semibold text-green-700"><i class="fas fa-check mr-2"></i>Sleep & Energy</p>
-                        <p class="text-sm text-gray-700">Improved <a href="https://synctherapylocal.local/red-light-therapy-for-sleep/" class="text-primary hover:underline">sleep quality</a>, increased melatonin, better <a href="https://synctherapylocal.local/red-light-therapy-and-mitochondria/" class="text-primary hover:underline">mitochondrial function</a>.</p>
+                        <p class="text-sm text-gray-700">Improved <a href="/red-light-therapy-for-sleep/" class="text-primary hover:underline">sleep quality</a>, increased melatonin, better <a href="/red-light-therapy/" class="text-primary hover:underline">mitochondrial function</a>.</p>
                     </div>
                 </div>
 
@@ -681,7 +681,7 @@ seoTitle: 2026 Red Light Therapy Cost Pricing Guide for Sessions &amp; Devices
                     <span class="text-2xl font-bold text-green-600 mr-4">~$700 CAD</span>
                     <span class="bg-green-100 text-green-700 text-sm font-semibold px-3 py-1 rounded-full">🇨🇦 Best Value</span>
                 </div>
-                <p class="mb-4">The <a href="https://synctherapylocal.local/kala-red-light-therapy-review/" class="text-primary hover:underline"><strong>Kala Pro</strong></a> delivers professional-grade 660nm + 850nm wavelengths at therapeutic power levels—at a fraction of the cost of premium brands. It's my go-to recommendation for Canadians who want quality without overpaying.</p>
+                <p class="mb-4">The <a href="/kala-red-light-therapy-review/" class="text-primary hover:underline"><strong>Kala Pro</strong></a> delivers professional-grade 660nm + 850nm wavelengths at therapeutic power levels—at a fraction of the cost of premium brands. It's my go-to recommendation for Canadians who want quality without overpaying.</p>
                 <div class="grid md:grid-cols-2 gap-4 mb-4">
                     <div>
                         <p class="font-semibold text-green-600">Pros:</p>
@@ -710,7 +710,7 @@ seoTitle: 2026 Red Light Therapy Cost Pricing Guide for Sessions &amp; Devices
                     <span class="text-2xl font-bold text-primary mr-4">~$1,100 CAD</span>
                     <span class="bg-blue-100 text-blue-700 text-sm font-semibold px-3 py-1 rounded-full">🇨🇦 Premium Pick</span>
                 </div>
-                <p class="mb-4">The <a href="https://synctherapylocal.local/rouge-red-light-therapy-reviews/" class="text-primary hover:underline"><strong>Rouge G4 Pro</strong></a> offers larger coverage, superior build quality, and a 3-year warranty. If you can afford the extra investment, it's worth it.</p>
+                <p class="mb-4">The <a href="/rouge-red-light-therapy-reviews/" class="text-primary hover:underline"><strong>Rouge G4 Pro</strong></a> offers larger coverage, superior build quality, and a 3-year warranty. If you can afford the extra investment, it's worth it.</p>
                 <a href="https://rougecare.ca/?ref=hphwim9l" target="_blank" rel="nofollow sponsored" class="affiliate-button"><i class="fas fa-shopping-cart mr-2"></i>Get Rouge G4 Pro</a>
             </div>
 
@@ -721,7 +721,7 @@ seoTitle: 2026 Red Light Therapy Cost Pricing Guide for Sessions &amp; Devices
                     <span class="text-2xl font-bold text-primary mr-4">~$1,200 USD</span>
                     <span class="bg-purple-100 text-purple-700 text-sm font-semibold px-3 py-1 rounded-full">🇺🇸 USA Pick</span>
                 </div>
-                <p class="mb-4">I personally own the <a href="https://synctherapylocal.local/mito-red-light-therapy-review/" class="text-primary hover:underline"><strong>Mito Pro X 750</strong></a>. Excellent build quality, therapeutic power, and great customer service. Best option for US-based buyers.</p>
+                <p class="mb-4">I personally own the <a href="/mito-red-light-therapy-review/" class="text-primary hover:underline"><strong>Mito Pro X 750</strong></a>. Excellent build quality, therapeutic power, and great customer service. Best option for US-based buyers.</p>
                 <a href="https://www.mitoredlight.com/DARYL87554" target="_blank" rel="nofollow sponsored" class="affiliate-button"><i class="fas fa-shopping-cart mr-2"></i>Get Mito Pro X</a>
             </div>
         </section>
@@ -806,31 +806,31 @@ seoTitle: 2026 Red Light Therapy Cost Pricing Guide for Sessions &amp; Devices
                         </thead>
                         <tbody>
                             <tr>
-                                <td class="p-3 font-semibold"><a href="https://synctherapylocal.local/mito-red-light-therapy-review/" class="text-primary hover:underline">Mito Red Light</a></td>
+                                <td class="p-3 font-semibold"><a href="/mito-red-light-therapy-review/" class="text-primary hover:underline">Mito Red Light</a></td>
                                 <td class="p-3 text-green-600 font-semibold">✓ HSA/FSA Eligible</td>
                                 <td class="p-3">$269-$2,995 USD</td>
                                 <td class="p-3">Partners with TrueMed; my personal device</td>
                             </tr>
                             <tr>
-                                <td class="p-3 font-semibold"><a href="https://synctherapylocal.local/platinum-led-therapy-lights-review/" class="text-primary hover:underline">PlatinumLED</a></td>
+                                <td class="p-3 font-semibold"><a href="/platinum-led-therapy-lights-review/" class="text-primary hover:underline">PlatinumLED</a></td>
                                 <td class="p-3 text-green-600 font-semibold">✓ HSA/FSA Eligible</td>
                                 <td class="p-3">$369-$2,799 USD</td>
                                 <td class="p-3">5 wavelengths; FDA-registered</td>
                             </tr>
                             <tr>
-                                <td class="p-3 font-semibold"><a href="https://synctherapylocal.local/rouge-red-light-therapy-reviews/" class="text-primary hover:underline">Rouge</a></td>
+                                <td class="p-3 font-semibold"><a href="/rouge-red-light-therapy-reviews/" class="text-primary hover:underline">Rouge</a></td>
                                 <td class="p-3 text-green-600 font-semibold">✓ HSA/FSA Eligible</td>
                                 <td class="p-3">$449-$1,899 CAD</td>
                                 <td class="p-3">Canadian brand; 3-year warranty</td>
                             </tr>
                             <tr>
-                                <td class="p-3 font-semibold"><a href="https://synctherapylocal.local/infraredi-reviews/" class="text-primary hover:underline">Infraredi</a></td>
+                                <td class="p-3 font-semibold"><a href="/infraredi-reviews/" class="text-primary hover:underline">Infraredi</a></td>
                                 <td class="p-3 text-green-600 font-semibold">✓ HSA/FSA Eligible</td>
                                 <td class="p-3">$349-$1,699 CAD</td>
                                 <td class="p-3">Health Canada licensed; Canadian</td>
                             </tr>
                             <tr>
-                                <td class="p-3 font-semibold"><a href="https://synctherapylocal.local/bon-charge-mini-red-light-review/" class="text-primary hover:underline">Bon Charge</a></td>
+                                <td class="p-3 font-semibold"><a href="/bon-charge-mini-red-light-review/" class="text-primary hover:underline">Bon Charge</a></td>
                                 <td class="p-3 text-green-600 font-semibold">✓ HSA/FSA Eligible</td>
                                 <td class="p-3">$199-$1,299 USD</td>
                                 <td class="p-3">Portable options; great for travel</td>
@@ -883,7 +883,7 @@ seoTitle: 2026 Red Light Therapy Cost Pricing Guide for Sessions &amp; Devices
 
                 <h3 class="text-xl font-bold mb-4">HSA/FSA Savings Calculator</h3>
                 <div class="bg-green-50 p-4 rounded-lg">
-                    <p class="font-semibold text-green-700 mb-2">Example Savings on a $1,000 <a class="wpil_keyword_link" href="https://synctherapylocal.local/best-red-light-therapy-panels/"   title="Red Light Panel" data-wpil-keyword-link="linked"  data-wpil-monitor-id="8006">Red Light Panel</a>:</p>
+                    <p class="font-semibold text-green-700 mb-2">Example Savings on a $1,000 <a class="wpil_keyword_link" href="/best-red-light-therapy-panels/"   title="Red Light Panel" data-wpil-keyword-link="linked"  data-wpil-monitor-id="8006">Red Light Panel</a>:</p>
                     <div class="grid md:grid-cols-3 gap-4 text-center">
                         <div class="bg-white p-3 rounded">
                             <p class="text-sm text-gray-500">22% Tax Bracket</p>
@@ -914,7 +914,7 @@ seoTitle: 2026 Red Light Therapy Cost Pricing Guide for Sessions &amp; Devices
         <section id="commercial">
             <h2><i class="fas fa-building text-accent mr-2"></i>Commercial Red Light Therapy Bed Costs</h2>
             <div class="bg-white p-6 rounded-lg shadow-md">
-                <p class="mb-6">If you're opening a clinic, spa, or wellness center, here's what commercial-grade <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmVkcw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmVkcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmVkcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmVkcy8=" href="https://synctherapylocal.local/red-light-therapy-beds/" class="text-primary hover:underline">red light therapy beds</a> cost:</p>
+                <p class="mb-6">If you're opening a clinic, spa, or wellness center, here's what commercial-grade <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmVkcw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmVkcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmVkcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmVkcy8=" href="/red-light-therapy-beds/" class="text-primary hover:underline">red light therapy beds</a> cost:</p>
 
                 <div class="overflow-x-auto mb-6">
                     <table class="w-full border-collapse comparison-table rounded-lg overflow-hidden">

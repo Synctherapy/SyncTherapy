@@ -129,7 +129,7 @@ export function NutritionConsulting() {
                         <p className="text-gray-600 mb-6 italic">
                             "I combine my background in physical therapy with holistic nutrition because I've seen too many patients fail to recover due to poor fueling. Nutrition isn't about restriction; it's about giving your body the raw materials it needs to repair tissue."
                         </p>
-                        <Link href="/about" className="text-blue-600 font-bold hover:underline flex items-center">
+                        <Link href="/about/" className="text-blue-600 font-bold hover:underline flex items-center">
                             Read Full Bio <span className="ml-1">→</span>
                         </Link>
                     </div>

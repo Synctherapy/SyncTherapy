@@ -531,12 +531,12 @@ seoTitle: 5 Best Tankless Reverse Osmosis Systems 2026 Reviews &amp; Guide
             <section class="bg-gray-100 p-6 rounded-lg">
                 <h2 class="!mt-0 text-xl">Related Water Filtration Guides</h2>
                 <div class="grid md:grid-cols-2 gap-3 mt-4">
-                    <a href="https://synctherapylocal.local/best-reverse-osmosis-ro-water-filter/" class="bg-white p-3 rounded-lg shadow hover:shadow-md transition-shadow border-l-4 border-primary">
+                    <a href="/best-reverse-osmosis-ro-water-filter/" class="bg-white p-3 rounded-lg shadow hover:shadow-md transition-shadow border-l-4 border-primary">
                         <h3 class="!mt-0 !mb-1 text-base">Complete RO Systems Guide</h3>
                         <p class="text-xs text-gray-600">Everything about reverse osmosis filtration</p>
                     </a>
 
-                    <a href="https://synctherapylocal.local/best-countertop-reverse-osmosis-system/" class="bg-white p-3 rounded-lg shadow hover:shadow-md transition-shadow border-l-4 border-primary">
+                    <a href="/best-countertop-reverse-osmosis-system/" class="bg-white p-3 rounded-lg shadow hover:shadow-md transition-shadow border-l-4 border-primary">
                         <h3 class="!mt-0 !mb-1 text-base">Best Countertop RO Systems</h3>
                         <p class="text-xs text-gray-600">Portable reverse osmosis options</p>
                     </a>

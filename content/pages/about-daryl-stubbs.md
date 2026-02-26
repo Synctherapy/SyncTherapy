@@ -29,7 +29,7 @@ seoTitle: About Author Daryl Stubbs
     <strong style="display:block;font-size:.95rem;color:#2e5a88;">About the Author</strong>
     <span style="font-size:.93rem;">
       <strong>Daryl Stubbs</strong>—<em>6-time “Best Massage & Rehab Clinic” winner (Community Votes)</em> and founder
-      of <a href="https://synctherapylocal.local/about/" style="color:#2e5a88;text-decoration:underline;">Sync Therapy</a>.  
+      of <a href="/about/" style="color:#2e5a88;text-decoration:underline;">Sync Therapy</a>.  
       With 12 years’ experience and 10,000+ treatment hours, he blends manual therapy with
       evidence-based gut-health and lifestyle coaching, helping clients on-site and <em>online worldwide</em> move
       better, sleep deeper, and feel their best.

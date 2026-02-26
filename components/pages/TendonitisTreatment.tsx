@@ -174,7 +174,7 @@ export function TendonitisTreatment() {
                         <p className="text-gray-300 text-lg mb-8 leading-relaxed">
                             Our approach combines manual therapy to fix the tissue with progressive loading to fix the structure. We don't just treat the pain; we make the tendon stronger than it was before.
                         </p>
-                        <Link href="/about" className="text-blue-400 font-bold border-b-2 border-blue-400 hover:text-white hover:border-white transition-all">
+                        <Link href="/about/" className="text-blue-400 font-bold border-b-2 border-blue-400 hover:text-white hover:border-white transition-all">
                             How We Rehab Tendons →
                         </Link>
                     </div>

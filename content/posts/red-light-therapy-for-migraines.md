@@ -336,7 +336,7 @@ seoTitle: Red Light Therapy for Migraines &amp; Headaches (2026) Complete Guide
                     </div>
                 </div>
                 <div>
-                    <p class="mb-4">The <a href="https://synctherapylocal.local/rouge-red-light-therapy-reviews/" class="text-primary hover:underline"><strong>Rouge G4 Pro</strong></a> delivers the exact wavelengths clinically proven to reduce migraine frequency and intensity. As a Canadian company, you avoid import duties and get excellent customer support.</p>
+                    <p class="mb-4">The <a href="/rouge-red-light-therapy-reviews/" class="text-primary hover:underline"><strong>Rouge G4 Pro</strong></a> delivers the exact wavelengths clinically proven to reduce migraine frequency and intensity. As a Canadian company, you avoid import duties and get excellent customer support.</p>
                     <div class="grid grid-cols-2 gap-4 mb-4 text-sm">
                         <div><strong class="text-green-600">Pros:</strong>
                             <ul class="list-disc list-inside">
@@ -427,7 +427,7 @@ seoTitle: Red Light Therapy for Migraines &amp; Headaches (2026) Complete Guide
         <section id="how-it-works">
             <h2><i class="fas fa-cogs text-accent mr-2"></i>How Red Light Therapy Works for Headaches</h2>
             <div class="bg-white p-6 rounded-lg shadow-md">
-                <p class="mb-6"><a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">Red light therapy (photobiomodulation)</a> works through multiple mechanisms to reduce migraine frequency and intensity:</p>
+                <p class="mb-6"><a href="/red-light-therapy/" class="text-primary hover:underline">Red light therapy (photobiomodulation)</a> works through multiple mechanisms to reduce migraine frequency and intensity:</p>
                 
                 <div class="grid md:grid-cols-2 gap-6 mb-6">
                     <div class="bg-blue-50 p-5 rounded-lg">
@@ -445,13 +445,13 @@ seoTitle: Red Light Therapy for Migraines &amp; Headaches (2026) Complete Guide
                     <div class="bg-red-50 p-5 rounded-lg">
                         <div class="text-2xl text-red-500 mb-2"><i class="fas fa-fire-alt"></i></div>
                         <h3 class="text-lg font-bold mb-2">3. Inflammation Reduction</h3>
-                        <p class="text-gray-700 text-sm"><a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">Red light therapy reduces inflammation</a> by releasing anti-inflammatory enzymes and rebalancing inflammatory responses. This reduces the swelling and irritation of blood vessels that contribute to intense migraine pain.</p>
+                        <p class="text-gray-700 text-sm"><a href="/red-light-therapy/" class="text-primary hover:underline">Red light therapy reduces inflammation</a> by releasing anti-inflammatory enzymes and rebalancing inflammatory responses. This reduces the swelling and irritation of blood vessels that contribute to intense migraine pain.</p>
                     </div>
                     
                     <div class="bg-purple-50 p-5 rounded-lg">
                         <div class="text-2xl text-purple-600 mb-2"><i class="fas fa-bolt"></i></div>
                         <h3 class="text-lg font-bold mb-2">4. ATP Production Boost</h3>
-                        <p class="text-gray-700 text-sm"><a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">Red light boosts mitochondrial function</a>, increasing ATP (cellular energy) production. This enhanced cellular energy helps brain cells function optimally and recover from migraine attacks faster.</p>
+                        <p class="text-gray-700 text-sm"><a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" href="/red-light-therapy/" class="text-primary hover:underline">Red light boosts mitochondrial function</a>, increasing ATP (cellular energy) production. This enhanced cellular energy helps brain cells function optimally and recover from migraine attacks faster.</p>
                     </div>
                     
                     <div class="bg-yellow-50 p-5 rounded-lg">
@@ -653,7 +653,7 @@ seoTitle: Red Light Therapy for Migraines &amp; Headaches (2026) Complete Guide
                         <div class="bg-primary text-white rounded-full w-8 h-8 flex items-center justify-center mr-4 flex-shrink-0 font-bold">1</div>
                         <div>
                             <p class="font-semibold">Choose the Right Device</p>
-                            <p class="text-gray-700 text-sm">Use a panel or mask that emits both 660nm (red) and 850nm (near-infrared) wavelengths. <a href="https://synctherapylocal.local/best-red-light-therapy-panels/" class="text-primary hover:underline">See our panel recommendations</a> or <a href="https://synctherapylocal.local/best-red-light-therapy-mask/" class="text-primary hover:underline">top-rated masks</a>.</p>
+                            <p class="text-gray-700 text-sm">Use a panel or mask that emits both 660nm (red) and 850nm (near-infrared) wavelengths. <a href="/best-red-light-therapy-panels/" class="text-primary hover:underline">See our panel recommendations</a> or <a href="/best-red-light-therapy-mask/" class="text-primary hover:underline">top-rated masks</a>.</p>
                         </div>
                     </div>
                     
@@ -729,7 +729,7 @@ seoTitle: Red Light Therapy for Migraines &amp; Headaches (2026) Complete Guide
 
                 <div class="bg-blue-50 border-l-4 border-primary p-4 rounded">
                     <p class="font-semibold text-primary"><i class="fas fa-info-circle mr-2"></i>Pro Tip: Treat the Abdomen Too</p>
-                    <p class="text-gray-700 text-sm">The gut-brain connection plays a significant role in migraines. I recommend shining red light on your abdomen for 5-10 minutes in addition to face and neck. Many of my clients report better results with this comprehensive approach. Learn more about <a href="https://synctherapylocal.local/red-light-therapy-for-gut-health/" class="text-primary hover:underline">red light therapy for gut health</a>.</p>
+                    <p class="text-gray-700 text-sm">The gut-brain connection plays a significant role in migraines. I recommend shining red light on your abdomen for 5-10 minutes in addition to face and neck. Many of my clients report better results with this comprehensive approach. Learn more about <a href="/red-light-therapy-for-gut-health/" class="text-primary hover:underline">red light therapy for gut health</a>.</p>
                 </div>
             </div>
         </section>
@@ -753,7 +753,7 @@ seoTitle: Red Light Therapy for Migraines &amp; Headaches (2026) Complete Guide
                     <span class="text-gray-600">Canadian Company, No Import Duties</span>
                 </div>
                 
-                <p class="mb-4">The <a href="https://synctherapylocal.local/rouge-red-light-therapy-reviews/" class="text-primary hover:underline"><strong>Rouge G4 Pro</strong></a> is my top recommendation for Canadians with migraines. It delivers medical-grade 660nm + 850nm wavelengths at therapeutic power levels, and as a Canadian company, you avoid import duties and get excellent customer support.</p>
+                <p class="mb-4">The <a href="/rouge-red-light-therapy-reviews/" class="text-primary hover:underline"><strong>Rouge G4 Pro</strong></a> is my top recommendation for Canadians with migraines. It delivers medical-grade 660nm + 850nm wavelengths at therapeutic power levels, and as a Canadian company, you avoid import duties and get excellent customer support.</p>
 
                 <div class="pros-cons-grid mb-6">
                     <div class="bg-green-50 p-4 rounded-lg">
@@ -797,7 +797,7 @@ seoTitle: Red Light Therapy for Migraines &amp; Headaches (2026) Complete Guide
                     <span class="text-gray-600">5 Wavelengths, Maximum Penetration</span>
                 </div>
                 
-                <p class="mb-4">The <a href="https://synctherapylocal.local/platinum-led-therapy-lights-review/" class="text-primary hover:underline"><strong>PlatinumLED Biomax Series</strong></a> offers five different wavelengths (630nm, 660nm, 810nm, 830nm, 850nm) for comprehensive treatment. The multiple near-infrared options provide excellent penetration to reach deeper tissues involved in migraine pathophysiology.</p>
+                <p class="mb-4">The <a href="/platinum-led-therapy-lights-review/" class="text-primary hover:underline"><strong>PlatinumLED Biomax Series</strong></a> offers five different wavelengths (630nm, 660nm, 810nm, 830nm, 850nm) for comprehensive treatment. The multiple near-infrared options provide excellent penetration to reach deeper tissues involved in migraine pathophysiology.</p>
 
                 <div class="text-center">
                     <a href="https://snwbl.io/platinumled-therapy-lights/LJBBS6913" target="_blank" rel="nofollow sponsored" class="affiliate-button text-lg"><i class="fas fa-shopping-cart mr-2"></i>Get PlatinumLED Biomax</a>
@@ -816,7 +816,7 @@ seoTitle: Red Light Therapy for Migraines &amp; Headaches (2026) Complete Guide
                     <span class="text-gray-600">Great Quality, Fair Price</span>
                 </div>
                 
-                <p class="mb-4">I personally own the <a href="https://synctherapylocal.local/mito-red-light-therapy-review/" class="text-primary hover:underline"><strong>Mito Pro X 750</strong></a> and am amazed by its quality. The Pro X series delivers medical-grade wavelengths at therapeutic power levels. For Americans looking for proven quality at a reasonable price, this is my recommendation.</p>
+                <p class="mb-4">I personally own the <a href="/mito-red-light-therapy-review/" class="text-primary hover:underline"><strong>Mito Pro X 750</strong></a> and am amazed by its quality. The Pro X series delivers medical-grade wavelengths at therapeutic power levels. For Americans looking for proven quality at a reasonable price, this is my recommendation.</p>
 
                 <div class="text-center">
                     <a href="https://www.mitoredlight.com/DARYL87554" target="_blank" rel="nofollow sponsored" class="affiliate-button text-lg"><i class="fas fa-shopping-cart mr-2"></i>Get Mito Red Light Pro X</a>
@@ -835,7 +835,7 @@ seoTitle: Red Light Therapy for Migraines &amp; Headaches (2026) Complete Guide
                     <span class="text-gray-600">Best Value in Canada</span>
                 </div>
                 
-                <p class="mb-4">The <a href="https://synctherapylocal.local/kala-red-light-therapy-review/" class="text-primary hover:underline"><strong>Kala Pro</strong></a> provides professional-grade red light therapy at a more accessible price point. It's a great choice for Canadians who want effective treatment without the premium price tag.</p>
+                <p class="mb-4">The <a href="/kala-red-light-therapy-review/" class="text-primary hover:underline"><strong>Kala Pro</strong></a> provides professional-grade red light therapy at a more accessible price point. It's a great choice for Canadians who want effective treatment without the premium price tag.</p>
 
                 <div class="text-center">
                     <a href="https://snwbl.io/kalatherapy/DARYL95230" target="_blank" rel="nofollow sponsored" class="affiliate-button text-lg"><i class="fas fa-shopping-cart mr-2"></i>Get the Kala Pro</a>
@@ -854,7 +854,7 @@ seoTitle: Red Light Therapy for Migraines &amp; Headaches (2026) Complete Guide
                     <span class="text-gray-600">Health Canada Licensed</span>
                 </div>
                 
-                <p class="mb-4"><a href="https://synctherapylocal.local/infraredi-reviews/" class="text-primary hover:underline"><strong>Infraredi</strong></a> offers both panels and targeted devices. Their Health Canada license adds credibility. The joint wrap is particularly useful if you have TMD-related headaches and want to treat your jaw directly.</p>
+                <p class="mb-4"><a href="/infraredi-reviews/" class="text-primary hover:underline"><strong>Infraredi</strong></a> offers both panels and targeted devices. Their Health Canada license adds credibility. The joint wrap is particularly useful if you have TMD-related headaches and want to treat your jaw directly.</p>
 
                 <div class="text-center">
                     <a href="https://infraredi.com.au?sca_ref=5139909.hUut5gisEb" target="_blank" rel="nofollow sponsored" class="affiliate-button text-lg"><i class="fas fa-shopping-cart mr-2"></i>Shop Infraredi</a>
@@ -866,7 +866,7 @@ seoTitle: Red Light Therapy for Migraines &amp; Headaches (2026) Complete Guide
         <section id="masks-vs-panels">
             <h2><i class="fas fa-balance-scale text-accent mr-2"></i>Red Light Therapy Masks vs. Panels for Migraines</h2>
             <div class="bg-white p-6 rounded-lg shadow-md">
-                <p class="mb-6">Should you get a <a href="https://synctherapylocal.local/best-red-light-therapy-mask/" class="text-primary hover:underline">red light therapy mask</a> or a <a href="https://synctherapylocal.local/best-red-light-therapy-panels/" class="text-primary hover:underline">panel</a> for migraines? Here's my comparison:</p>
+                <p class="mb-6">Should you get a <a href="/best-red-light-therapy-mask/" class="text-primary hover:underline">red light therapy mask</a> or a <a href="/best-red-light-therapy-panels/" class="text-primary hover:underline">panel</a> for migraines? Here's my comparison:</p>
 
                 <div class="overflow-x-auto mb-6">
                     <table class="w-full border-collapse bg-gray-50 rounded-lg overflow-hidden">
@@ -1036,7 +1036,7 @@ seoTitle: Red Light Therapy for Migraines &amp; Headaches (2026) Complete Guide
                 
                 <details class="bg-white p-6 rounded-lg shadow-sm group">
                     <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">Can I use red light therapy for migraines at home?<i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i></summary>
-                    <p class="mt-4 text-gray-700">Yes, <a href="https://synctherapylocal.local/at-home-red-light-therapy/" class="text-primary hover:underline">home red light therapy</a> is effective for migraines. The convenience of home treatment allows for more consistent use, which is key for prevention. Invest in a quality device with both 660nm and 850nm wavelengths, follow proper protocols, and always use eye protection.</p>
+                    <p class="mt-4 text-gray-700">Yes, <a href="/at-home-red-light-therapy/" class="text-primary hover:underline">home red light therapy</a> is effective for migraines. The convenience of home treatment allows for more consistent use, which is key for prevention. Invest in a quality device with both 660nm and 850nm wavelengths, follow proper protocols, and always use eye protection.</p>
                 </details>
             </div>
         </section>

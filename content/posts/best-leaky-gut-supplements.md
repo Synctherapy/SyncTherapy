@@ -137,7 +137,7 @@ seoTitle: 8 Best Leaky Gut Supplements & Probiotics (2026 Guide)
                     <div class="flex flex-col sm:flex-row items-center gap-4 p-3 bg-blue-50 rounded-lg">
                         <div class="font-bold text-primary text-lg w-full sm:w-1/3">Best Overall Probiotic:</div>
                         <div class="flex-1 text-center sm:text-left">
-                            <p class="font-semibold"><a class="wpil_keyword_link" href="https://synctherapylocal.local/just-thrive-probiotic-review/"   title="Just Thrive Probiotic" data-wpil-keyword-link="linked"  data-wpil-monitor-id="7960">Just Thrive Probiotic</a> <span class="text-accent">★★★★★</span></p>
+                            <p class="font-semibold"><a class="wpil_keyword_link" href="/just-thrive-probiotic-review/"   title="Just Thrive Probiotic" data-wpil-keyword-link="linked"  data-wpil-monitor-id="7960">Just Thrive Probiotic</a> <span class="text-accent">★★★★★</span></p>
                             <p class="text-sm text-gray-600">Clinically proven to repair leaky gut in 30 days.</p>
                         </div>
                         <a href="https://justthrivehealth.com/SYNCTHERAPY" target="_blank" class="affiliate-button w-full sm:w-auto">Get 15% Off Just Thrive</a>
@@ -583,7 +583,7 @@ seoTitle: 8 Best Leaky Gut Supplements & Probiotics (2026 Guide)
                             What vitamins help with leaky gut?
                             <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
                         </summary>
-                        <p class="mt-4 text-gray-700">Key vitamins and nutrients that support <a href="https://synctherapylocal.local/leaky-gut-diet/"  data-wpil-monitor-id="43">healing a leaky gut</a> include L-Glutamine (an amino acid), Zinc, and Omega-3 fatty acids. These nutrients provide the building blocks for repairing the gut lining and reducing inflammation. Vitamin D is also beneficial for its role in immune function.</p>
+                        <p class="mt-4 text-gray-700">Key vitamins and nutrients that support <a href="/best-leaky-gut-supplements/"  data-wpil-monitor-id="43">healing a leaky gut</a> include L-Glutamine (an amino acid), Zinc, and Omega-3 fatty acids. These nutrients provide the building blocks for repairing the gut lining and reducing inflammation. Vitamin D is also beneficial for its role in immune function.</p>
                     </details>
                     <details class="bg-white p-6 rounded-lg shadow-sm group">
                         <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">

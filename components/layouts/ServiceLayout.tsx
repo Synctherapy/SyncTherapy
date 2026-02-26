@@ -22,7 +22,7 @@ export function ServiceLayout({ frontmatter, content }: ServiceLayoutProps) {
             {/* Header */}
             <header className="sticky top-0 z-50 bg-[#F0F5FF]/80 backdrop-blur-md border-b border-[#2563EB]/10">
                 <div className="flex items-center px-4 h-14 justify-between">
-                    <Link href="/services" className="flex items-center justify-center size-10 rounded-full active:bg-[#2563EB]/10 transition-colors text-[#1A2B3C]">
+                    <Link href="/services/" className="flex items-center justify-center size-10 rounded-full active:bg-[#2563EB]/10 transition-colors text-[#1A2B3C]">
                         <ChevronLeft className="w-5 h-5" />
                     </Link>
                     <h2 className="text-[#1A2B3C] text-[13px] font-extrabold uppercase tracking-[0.2em]">Service Detail</h2>

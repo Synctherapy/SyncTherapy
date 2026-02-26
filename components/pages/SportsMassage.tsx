@@ -168,7 +168,7 @@ export function SportsMassage() {
                                 <div className="w-12 h-12 bg-blue-100 rounded-2xl flex items-center justify-center text-2xl mb-6">🏃</div>
                                 <h3 className="text-xl font-bold text-blue-900 mb-3">The Endurance Athlete</h3>
                                 <p className="text-slate-600 mb-6 leading-relaxed">
-                                    Training for the Royal Victoria Marathon or running the Galloping Goose? We target <Link href="/services/myofascial-release" className="text-blue-600 underline">IT bands</Link>, calves, and hip flexors to keep your stride fluid.
+                                    Training for the Royal Victoria Marathon or running the Galloping Goose? We target <Link href="/services/myofascial-release/" className="text-blue-600 underline">IT bands</Link>, calves, and hip flexors to keep your stride fluid.
                                 </p>
                             </GlassCard>
 

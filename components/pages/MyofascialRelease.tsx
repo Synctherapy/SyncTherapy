@@ -156,7 +156,7 @@ export function MyofascialRelease() {
                         <p className="text-gray-300 text-lg mb-6 leading-relaxed">
                             Many clinics treat fascia in isolation. At Sync, we combine myofascial release with movement assessment. We don't just release the restriction; we re-integrate it into your movement patterns so the "glue" doesn't just stick back together.
                         </p>
-                        <Link href="/about" className="text-blue-400 font-bold border-b-2 border-blue-400 hover:text-white hover:border-white transition-all">
+                        <Link href="/about/" className="text-blue-400 font-bold border-b-2 border-blue-400 hover:text-white hover:border-white transition-all">
                             Learn About Our Philosophy →
                         </Link>
                     </div>

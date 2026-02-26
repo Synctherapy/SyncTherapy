@@ -429,7 +429,7 @@ seoTitle: 'Red Light Therapy for Fibromyalgia (2026): The Correct Protocol'
                 </div>
                 <div>
                     <p class="mb-4">This video provides an excellent overview of how red light therapy can help manage fibromyalgia symptoms.</p>
-                    <p class="mb-4"><strong>Red light therapy</strong> (also called <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">photobiomodulation</a> or low-level light therapy) uses specific wavelengths of red and near-infrared light to stimulate cellular healing.</p>
+                    <p class="mb-4"><strong>Red light therapy</strong> (also called <a href="/red-light-therapy/" class="text-primary hover:underline">photobiomodulation</a> or low-level light therapy) uses specific wavelengths of red and near-infrared light to stimulate cellular healing.</p>
                     <div class="bg-blue-50 p-4 rounded-lg">
                         <p class="font-semibold text-primary mb-2"><i class="fas fa-info-circle mr-2"></i>Key Point</p>
                         <p class="text-sm text-gray-700">Unlike medications commonly prescribed for fibromyalgia, red light therapy works at the cellular level without causing dependency, cognitive impairment, or systemic side effects.</p>
@@ -467,7 +467,7 @@ seoTitle: 'Red Light Therapy for Fibromyalgia (2026): The Correct Protocol'
                     <div class="bg-red-50 p-4 rounded-lg border-l-4 border-red-500">
                         <h3 class="text-lg font-bold mb-2" style="color: #dc2626;"><i class="fas fa-fire-alt mr-2"></i>Primary Symptoms</h3>
                         <ul class="text-gray-700 text-sm space-y-2">
-                            <li><strong><a href="https://synctherapylocal.local/hip-pain-with-fibromyalgia/" class="text-primary hover:underline">Chronic widespread pain</a></strong> lasting at least 3 months</li>
+                            <li><strong><a href="/red-light-therapy-for-arthritis/" class="text-primary hover:underline">Chronic widespread pain</a></strong> lasting at least 3 months</li>
                             <li><strong>Debilitating fatigue</strong> that doesn't improve with rest</li>
                             <li><strong>Cognitive difficulties</strong> ("fibro fog")</li>
                             <li><strong>Sleep disturbances</strong> despite sleeping long hours</li>
@@ -566,7 +566,7 @@ seoTitle: 'Red Light Therapy for Fibromyalgia (2026): The Correct Protocol'
         <section id="how-it-works">
             <h2><i class="fas fa-cogs text-accent mr-2"></i>How Red Light Therapy Helps Fibromyalgia</h2>
             <div class="bg-white p-6 rounded-lg shadow-md">
-                <p class="mb-6">Red light therapy, also known as <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">photobiomodulation (PBM)</a>, works at the cellular level to address several underlying mechanisms of fibromyalgia. Here's the science:</p>
+                <p class="mb-6">Red light therapy, also known as <a href="/red-light-therapy/" class="text-primary hover:underline">photobiomodulation (PBM)</a>, works at the cellular level to address several underlying mechanisms of fibromyalgia. Here's the science:</p>
 
                 <div class="grid md:grid-cols-2 gap-6 mb-6">
                     <div class="bg-blue-50 p-5 rounded-lg">
@@ -578,7 +578,7 @@ seoTitle: 'Red Light Therapy for Fibromyalgia (2026): The Correct Protocol'
                     <div class="bg-green-50 p-5 rounded-lg">
                         <div class="text-2xl text-green-600 mb-2"><i class="fas fa-shield-alt"></i></div>
                         <h3 class="text-lg font-bold mb-2">2. Reduced Inflammation</h3>
-                        <p class="text-gray-700 text-sm">Research shows <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">red light therapy reduces inflammatory markers</a> (IL-6, IL-8) while increasing anti-inflammatory cytokines (IL-10).</p>
+                        <p class="text-gray-700 text-sm">Research shows <a href="/red-light-therapy/" class="text-primary hover:underline">red light therapy reduces inflammatory markers</a> (IL-6, IL-8) while increasing anti-inflammatory cytokines (IL-10).</p>
                     </div>
                     
                     <div class="bg-red-50 p-5 rounded-lg">
@@ -749,7 +749,7 @@ seoTitle: 'Red Light Therapy for Fibromyalgia (2026): The Correct Protocol'
                 <div class="mt-4 p-4 bg-white border border-gray-200 rounded-lg">
                     <h5 class="font-bold text-gray-800 mb-2">Share This Visual Guide</h5>
                     <p class="text-sm text-gray-600 mb-2">Find this helpful? Feel free to link to it on your website.</p>
-                    <textarea readonly onclick="this.select();" class="w-full h-12 bg-gray-50 border border-gray-200 rounded p-2 font-mono text-xs text-gray-600"><a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" href="https://synctherapylocal.local/red-light-therapy-for-arthritis/">Red Light Therapy for Fibromyalgia Guide (Infographic)</a></textarea>
+                    <textarea readonly onclick="this.select();" class="w-full h-12 bg-gray-50 border border-gray-200 rounded p-2 font-mono text-xs text-gray-600"><a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWZpYnJvbXlhbGdpYS8=" href="/red-light-therapy-for-arthritis/">Red Light Therapy for Fibromyalgia Guide (Infographic)</a></textarea>
                 </div>
             </div>
         </section>
@@ -773,7 +773,7 @@ seoTitle: 'Red Light Therapy for Fibromyalgia (2026): The Correct Protocol'
 
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h3 class="font-bold text-lg text-primary mb-2"><span class="text-accent mr-2">3.</span>Anti-Inflammatory</h3>
-                        <p class="text-gray-700 text-sm">Red light therapy <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">reduces inflammation</a> by suppressing pro-inflammatory cytokines while increasing anti-inflammatory markers.</p>
+                        <p class="text-gray-700 text-sm">Red light therapy <a href="/red-light-therapy/" class="text-primary hover:underline">reduces inflammation</a> by suppressing pro-inflammatory cytokines while increasing anti-inflammatory markers.</p>
                     </div>
 
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -788,7 +788,7 @@ seoTitle: 'Red Light Therapy for Fibromyalgia (2026): The Correct Protocol'
 
                     <div class="bg-gray-50 p-4 rounded-lg">
                         <h3 class="font-bold text-lg text-primary mb-2"><span class="text-accent mr-2">6.</span>Improved Mood</h3>
-                        <p class="text-gray-700 text-sm">Research suggests <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWRlcHJlc3Npb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWRlcHJlc3Npb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWRlcHJlc3Npb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWRlcHJlc3Npb24v" href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">red light therapy helps balance serotonin</a> levels. Studies consistently show improvements in depression and anxiety scores.</p>
+                        <p class="text-gray-700 text-sm">Research suggests <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWRlcHJlc3Npb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWRlcHJlc3Npb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWRlcHJlc3Npb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWRlcHJlc3Npb24v" href="/red-light-therapy/" class="text-primary hover:underline">red light therapy helps balance serotonin</a> levels. Studies consistently show improvements in depression and anxiety scores.</p>
                     </div>
 
                     <div class="bg-gray-50 p-4 rounded-lg">
@@ -835,7 +835,7 @@ seoTitle: 'Red Light Therapy for Fibromyalgia (2026): The Correct Protocol'
                         <span class="text-gray-600">Highest Irradiance, 5 Wavelengths</span>
                     </div>
                     
-                    <p class="mb-4"><a href="https://synctherapylocal.local/platinum-led-therapy-lights-review/" class="text-primary hover:underline"><strong>PlatinumLED BioMax</strong></a> is the most powerful <a href="https://synctherapylocal.local/best-red-light-therapy-panels/" class="text-primary hover:underline">red light panel</a> available with 5 different wavelengths for maximum penetration depth. Ideal for treating widespread fibromyalgia symptoms.</p>
+                    <p class="mb-4"><a href="/platinum-led-therapy-lights-review/" class="text-primary hover:underline"><strong>PlatinumLED BioMax</strong></a> is the most powerful <a href="/best-red-light-therapy-panels/" class="text-primary hover:underline">red light panel</a> available with 5 different wavelengths for maximum penetration depth. Ideal for treating widespread fibromyalgia symptoms.</p>
 
                     <div class="pros-cons-grid mb-6">
                         <div class="bg-green-50 p-4 rounded-lg">
@@ -876,7 +876,7 @@ seoTitle: 'Red Light Therapy for Fibromyalgia (2026): The Correct Protocol'
                         <span class="text-gray-600">My Personal Choice</span>
                     </div>
                     
-                    <p class="mb-4">I personally own the <a href="https://synctherapylocal.local/mito-pro-x-750-review/" class="text-primary hover:underline"><strong>MitoPRO X 750</strong></a> and am amazed by its quality. <a href="https://synctherapylocal.local/mito-red-light-therapy-review/" class="text-primary hover:underline">Mito Red Light</a> offers excellent power output at a more accessible price point with great customer service.</p>
+                    <p class="mb-4">I personally own the <a href="/mito-pro-x-750-review/" class="text-primary hover:underline"><strong>MitoPRO X 750</strong></a> and am amazed by its quality. <a href="/mito-red-light-therapy-review/" class="text-primary hover:underline">Mito Red Light</a> offers excellent power output at a more accessible price point with great customer service.</p>
 
                     <div class="text-center">
                         <a href="https://www.mitoredlight.com/DARYL87554" target="_blank" rel="nofollow sponsored" class="affiliate-button text-lg"><i class="fas fa-shopping-cart mr-2"></i>Shop Mito Red Light</a>
@@ -898,7 +898,7 @@ seoTitle: 'Red Light Therapy for Fibromyalgia (2026): The Correct Protocol'
                         <span class="text-gray-600">Canadian Company, No Duties</span>
                     </div>
                     
-                    <p class="mb-4"><a href="https://synctherapylocal.local/kala-red-light-therapy-review/" class="text-primary hover:underline"><strong>Kala Red Light</strong></a> is a Canadian company with local support, no customs fees, and fast shipping within Canada. Great option for Canadians looking for quality without import hassles.</p>
+                    <p class="mb-4"><a href="/kala-red-light-therapy-review/" class="text-primary hover:underline"><strong>Kala Red Light</strong></a> is a Canadian company with local support, no customs fees, and fast shipping within Canada. Great option for Canadians looking for quality without import hassles.</p>
 
                     <div class="text-center">
                         <a href="https://snwbl.io/kalatherapy/DARYL95230" target="_blank" rel="nofollow sponsored" class="affiliate-button text-lg"><i class="fas fa-shopping-cart mr-2"></i>Shop Kala Red Light</a>
@@ -917,7 +917,7 @@ seoTitle: 'Red Light Therapy for Fibromyalgia (2026): The Correct Protocol'
                         <span class="text-gray-600">Canadian Company, Good Value</span>
                     </div>
                     
-                    <p class="mb-4"><a href="https://synctherapylocal.local/rouge-red-light-therapy-reviews/" class="text-primary hover:underline"><strong>Rouge Red Light</strong></a> is another excellent Canadian option with competitive pricing and no import duties for Canadian buyers.</p>
+                    <p class="mb-4"><a href="/rouge-red-light-therapy-reviews/" class="text-primary hover:underline"><strong>Rouge Red Light</strong></a> is another excellent Canadian option with competitive pricing and no import duties for Canadian buyers.</p>
 
                     <div class="text-center">
                         <a href="https://rougecare.ca/?ref=hphwim9l" target="_blank" rel="nofollow sponsored" class="affiliate-button text-lg"><i class="fas fa-shopping-cart mr-2"></i>Shop Rouge Red Light</a>
@@ -936,7 +936,7 @@ seoTitle: 'Red Light Therapy for Fibromyalgia (2026): The Correct Protocol'
                         <span class="text-gray-600">Wrap-Around Design</span>
                     </div>
                     
-                    <p class="mb-4"><a href="https://synctherapylocal.local/infraredi-reviews/" class="text-primary hover:underline"><strong>Infraredi</strong></a> offers flexible panel options that can wrap around body parts—good choice for targeting specific tender points. See our <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvaW5mcmFyZWRpLXZzLWthbGEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvaW5mcmFyZWRpLXZzLWthbGEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvaW5mcmFyZWRpLXZzLWthbGEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvaW5mcmFyZWRpLXZzLWthbGEv" href="https://synctherapylocal.local/infraredi-vs-kala/" class="text-primary hover:underline">Infraredi vs Kala comparison</a>.</p>
+                    <p class="mb-4"><a href="/infraredi-reviews/" class="text-primary hover:underline"><strong>Infraredi</strong></a> offers flexible panel options that can wrap around body parts—good choice for targeting specific tender points. See our <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvaW5mcmFyZWRpLXZzLWthbGEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvaW5mcmFyZWRpLXZzLWthbGEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvaW5mcmFyZWRpLXZzLWthbGEv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvaW5mcmFyZWRpLXZzLWthbGEv" href="/infraredi-vs-kala/" class="text-primary hover:underline">Infraredi vs Kala comparison</a>.</p>
 
                     <div class="text-center">
                         <a href="https://infraredi.com/products/infraredi-flex-max?sca_ref=5139909.hUut5gisEb" target="_blank" rel="nofollow sponsored" class="affiliate-button text-lg"><i class="fas fa-shopping-cart mr-2"></i>Shop Infraredi</a>
@@ -977,7 +977,7 @@ seoTitle: 'Red Light Therapy for Fibromyalgia (2026): The Correct Protocol'
                                 <td class="p-3">Start with 10, increase gradually</td>
                             </tr>
                             <tr class="border-b border-gray-200">
-                                <td class="p-3 font-semibold"><a href="https://synctherapylocal.local/at-home-red-light-therapy/" class="text-primary hover:underline">Frequency</a></td>
+                                <td class="p-3 font-semibold"><a href="/at-home-red-light-therapy/" class="text-primary hover:underline">Frequency</a></td>
                                 <td class="p-3">2-3x per week initially</td>
                                 <td class="p-3">Can increase to daily for maintenance</td>
                             </tr>
@@ -1115,7 +1115,7 @@ seoTitle: 'Red Light Therapy for Fibromyalgia (2026): The Correct Protocol'
                 
                 <details class="bg-white p-6 rounded-lg shadow-sm group">
                     <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">What wavelengths are best for fibromyalgia?<i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i></summary>
-                    <p class="mt-4 text-gray-700">A combination of red light (630-660nm) and near-infrared light (810-850nm) works best. Red light penetrates superficial tissues while near-infrared penetrates deeper to reach muscles and joints. Learn more about optimal <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">wavelengths for red light therapy</a>.</p>
+                    <p class="mt-4 text-gray-700">A combination of red light (630-660nm) and near-infrared light (810-850nm) works best. Red light penetrates superficial tissues while near-infrared penetrates deeper to reach muscles and joints. Learn more about optimal <a href="/red-light-therapy/" class="text-primary hover:underline">wavelengths for red light therapy</a>.</p>
                 </details>
             </div>
         </section>

@@ -103,7 +103,7 @@ export function LocationSection() {
                 </a>
               </Button>
               <Button variant="outline" asChild>
-                <a href="https://www.synctherapy.ca/book" target="_blank" rel="noopener noreferrer">
+                <a href="/book/" target="_blank" rel="noopener noreferrer">
                   Book Online
                 </a>
               </Button>

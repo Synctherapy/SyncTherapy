@@ -892,7 +892,7 @@ seoTitle: Services
                                 <span>Injury Recovery</span>
                             </div>
                         </div>
-                        <a href="https://synctherapylocal.local/services/deep-tissue-massage/" class="btn btn-primary" style="width: 100%;">
+                        <a href="/services/deep-tissue-massage/" class="btn btn-primary" style="width: 100%;">
                             Learn More
                             <i data-lucide="arrow-right" style="margin-left: 0.5rem;"></i>
                         </a>
@@ -920,7 +920,7 @@ seoTitle: Services
                                 <span>Full Body Relaxation</span>
                             </div>
                         </div>
-                        <a href="/services/swedish-massage/" class="btn btn-primary" style="width: 100%;">
+                        <a href="/services/massage-therapy/" class="btn btn-primary" style="width: 100%;">
                             Learn More
                             <i data-lucide="arrow-right" style="margin-left: 0.5rem;"></i>
                         </a>
@@ -1047,7 +1047,7 @@ seoTitle: Services
                                 <span>Performance Enhancement</span>
                             </div>
                         </div>
-                        <a href="https://synctherapylocal.local/services/athletic-therapy/" class="btn btn-primary" style="width: 100%;">
+                        <a href="/services/athletic-therapy/" class="btn btn-primary" style="width: 100%;">
                             Learn More
                             <i data-lucide="arrow-right" style="margin-left: 0.5rem;"></i>
                         </a>
@@ -1090,7 +1090,7 @@ seoTitle: Services
                                 <span>Wellness Goals</span>
                             </div>
                         </div>
-                        <a href="https://synctherapylocal.local/holistic-nutrition/" class="btn btn-primary" style="width: 100%;">                            Learn More                            <i data-lucide="arrow-right" style="margin-left: 0.5rem;"></i>                        </a>
+                        <a href="/nutrition-consulting/" class="btn btn-primary" style="width: 100%;">                            Learn More                            <i data-lucide="arrow-right" style="margin-left: 0.5rem;"></i>                        </a>
                     </div>
                 </div>
             </div>
@@ -1349,7 +1349,7 @@ seoTitle: Services
                     
                     <div class="billing-info">
                         <h4 class="font-heading">Direct Billing Available</h4>
-                        <p>We offer direct billing for most BC insurance providers, including Extended Health Benefits. Please contact our Colwood clinic to verify your coverage. Our team is dedicated to ensuring you receive the care you need without any hassle. If you're interested in our <a href="https://synctherapylocal.local/services/massage-therapy/">massage services in Colwood</a>, our friendly staff will be happy to assist you in navigating your insurance options. We aim to make your experience as seamless as possible while prioritizing your health and wellness. In addition to our massage services, we also provide a variety of back pain treatment options in Victoria tailored to meet your specific needs. Our skilled practitioners will work closely with you to create a personalized treatment plan that addresses your concerns and promotes recovery. We believe in empowering our clients with the knowledge and tools for lasting health improvements.</p>
+                        <p>We offer direct billing for most BC insurance providers, including Extended Health Benefits. Please contact our Colwood clinic to verify your coverage. Our team is dedicated to ensuring you receive the care you need without any hassle. If you're interested in our <a href="/services/massage-therapy/">massage services in Colwood</a>, our friendly staff will be happy to assist you in navigating your insurance options. We aim to make your experience as seamless as possible while prioritizing your health and wellness. In addition to our massage services, we also provide a variety of back pain treatment options in Victoria tailored to meet your specific needs. Our skilled practitioners will work closely with you to create a personalized treatment plan that addresses your concerns and promotes recovery. We believe in empowering our clients with the knowledge and tools for lasting health improvements.</p>
                     </div>
                 </div>
             </div>

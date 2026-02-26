@@ -178,7 +178,7 @@ export default function AnteriorKneePainPage() {
                     <div className="max-w-6xl mx-auto text-center">
                         <h2 className="text-3xl font-bold mb-12 text-blue-950">Explore Related Conditions</h2>
                         <div className="grid md:grid-cols-3 gap-6">
-                            <Link href="/conditions/knee-pain/" className="block p-8 bg-white border border-gray-200 rounded-xl hover:border-blue-600 hover:shadow-xl transition-all duration-300 cursor-pointer focus:outline-none focus:ring-4 focus:ring-blue-500 focus:ring-offset-2">
+                            <Link href="/conditions/hip-and-knee-pain/" className="block p-8 bg-white border border-gray-200 rounded-xl hover:border-blue-600 hover:shadow-xl transition-all duration-300 cursor-pointer focus:outline-none focus:ring-4 focus:ring-blue-500 focus:ring-offset-2">
                                 <h3 className="font-bold text-xl mb-2 text-blue-900">Knee Pain</h3>
                             </Link>
                             <Link href="/conditions/it-band-syndrome/" className="block p-8 bg-white border border-gray-200 rounded-xl hover:border-blue-600 hover:shadow-xl transition-all duration-300 cursor-pointer focus:outline-none focus:ring-4 focus:ring-blue-500 focus:ring-offset-2">

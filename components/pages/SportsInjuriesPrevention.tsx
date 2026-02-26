@@ -174,7 +174,7 @@ export function SportsInjuriesPrevention() {
                         <p className="text-gray-300 text-lg mb-8 leading-relaxed">
                             A proactive audit of your movement can catch the imbalances that will cause an ACL tear or rotator cuff strain six months from now. We don't just fix you; we upgrade you.
                         </p>
-                        <Link href="/about" className="text-blue-400 font-bold border-b-2 border-blue-400 hover:text-white hover:border-white transition-all">
+                        <Link href="/about/" className="text-blue-400 font-bold border-b-2 border-blue-400 hover:text-white hover:border-white transition-all">
                             Our Performance Philosophy →
                         </Link>
                     </div>

@@ -174,7 +174,7 @@ export function BackPain() {
                         <p className="text-gray-300 text-lg mb-8 leading-relaxed">
                             If you just rub the sore spot, the pain returns in 3 days. We treat the <strong>System</strong>, not just the Symptom.
                         </p>
-                        <Link href="/about" className="text-blue-400 font-bold border-b-2 border-blue-400 hover:text-white hover:border-white transition-all">
+                        <Link href="/about/" className="text-blue-400 font-bold border-b-2 border-blue-400 hover:text-white hover:border-white transition-all">
                             Read Our Clinical Philosophy →
                         </Link>
                     </div>

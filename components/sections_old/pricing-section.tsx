@@ -78,7 +78,7 @@ export function PricingSection() {
                 }`}
                 asChild
               >
-                <a href="https://www.synctherapy.ca/book" target="_blank" rel="noopener noreferrer">
+                <a href="/book/" target="_blank" rel="noopener noreferrer">
                   Book {plan.duration.split(" ")[0]} Min Session
                 </a>
               </Button>

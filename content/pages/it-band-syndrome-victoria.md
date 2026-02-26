@@ -82,12 +82,12 @@ seoTitle: It Band Syndrome Victoria
                 
                 <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
                     <!-- Link to Conditions Page -->
-                    <a href="https://synctherapylocal.local/conditions/" class="btn-primary w-full py-3 px-4 rounded-lg text-center">
+                    <a href="/conditions/" class="btn-primary w-full py-3 px-4 rounded-lg text-center">
                         View All Conditions
                     </a>
                     
                     <!-- Link to Services Page -->
-                    <a href="https://synctherapylocal.local/services/" class="btn-primary w-full py-3 px-4 rounded-lg text-center">
+                    <a href="/services/" class="btn-primary w-full py-3 px-4 rounded-lg text-center">
                         Explore Our Services
                     </a>
                 </div>
@@ -98,11 +98,11 @@ seoTitle: It Band Syndrome Victoria
                         Or learn more about us:
                     </p>
                     <div class="flex justify-center items-center space-x-4 sm:space-x-6 mt-4 flex-wrap">
-                        <a data-wpil="url" href="https://synctherapylocal.local/our-team/daryl-stubbs/" class="link-primary">Our Team</a>
+                        <a data-wpil="url" href="/our-team/daryl-stubbs/" class="link-primary">Our Team</a>
                         <span class="text-gray-300">|</span>
-                        <a data-wpil="url" href="https://synctherapylocal.local/about/" class="link-primary">Why Us</a>
+                        <a data-wpil="url" href="/about/" class="link-primary">Why Us</a>
                         <span class="text-gray-300">|</span>
-                        <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" href="https://synctherapylocal.local/contact/" class="link-primary">Contact Us</a>
+                        <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" href="/contact/" class="link-primary">Contact Us</a>
                     </div>
                 </div>
             </div>

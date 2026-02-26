@@ -118,7 +118,7 @@ export function MassageTherapyColwood() {
                                             className="border-2 border-slate-200 text-foreground hover:bg-slate-50 hover:border-slate-300 text-lg px-8 py-6 h-auto rounded-xl"
                                             asChild
                                         >
-                                            <Link href="/about">Meet Daryl</Link>
+                                            <Link href="/about/">Meet Daryl</Link>
                                         </Button>
                                     </div>
                                 </ScrollReveal>

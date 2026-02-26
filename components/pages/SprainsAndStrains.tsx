@@ -174,7 +174,7 @@ export function SprainsAndStrains() {
                         <p className="text-gray-300 text-lg mb-8 leading-relaxed">
                             We use the <strong>P.E.A.C.E. & L.O.V.E.</strong> protocol. Specifically, "Optimism" and "Vascularization" (cardio movement) accelerate healing faster than ice ever did.
                         </p>
-                        <Link href="/about" className="text-blue-400 font-bold border-b-2 border-blue-400 hover:text-white hover:border-white transition-all">
+                        <Link href="/about/" className="text-blue-400 font-bold border-b-2 border-blue-400 hover:text-white hover:border-white transition-all">
                             Read About The New Protocol →
                         </Link>
                     </div>

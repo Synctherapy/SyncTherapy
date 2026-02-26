@@ -204,7 +204,7 @@ seoTitle: >-
         <div class="container mx-auto">
             Home
             <span class="mx-2 text-text">›</span>
-            <a data-wpil="url" href="https://synctherapylocal.local/services/" class="text-primary hover:underline">Services</a>
+            <a data-wpil="url" href="/services/" class="text-primary hover:underline">Services</a>
             <span class="mx-2 text-text">›</span>
             <span class="text-text">Sports Massage Therapy</span>
         </div>
@@ -242,9 +242,9 @@ seoTitle: >-
 
                     <p class="text-base text-text/70 mb-8">
                         Located in <strong>Colwood</strong>, we proudly serve athletes and active individuals from 
-                        <a data-wpil="url" href="https://synctherapylocal.local/services/massage-therapy/" class="text-primary hover:underline">Colwood</a>, 
-                        <a data-wpil="url" href="https://synctherapylocal.local/services/massage-therapy/" class="text-primary hover:underline">Langford</a>, 
-                        <a wpil="url" old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZS1hcmVhcy8=" href="https://synctherapylocal.local/services/" class="text-primary hover:underline">Victoria</a>, 
+                        <a data-wpil="url" href="/services/massage-therapy/" class="text-primary hover:underline">Colwood</a>, 
+                        <a data-wpil="url" href="/services/massage-therapy/" class="text-primary hover:underline">Langford</a>, 
+                        <a wpil="url" old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZS1hcmVhcy8=" href="/services/" class="text-primary hover:underline">Victoria</a>, 
                         and surrounding areas.
                     </p>
 
@@ -548,7 +548,7 @@ seoTitle: >-
                 </p>
 
                 <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-                    <a href="https://synctherapylocal.local/services/sports-massage/" class="block">
+                    <a href="/services/sports-massage/" class="block">
                         <div class="bg-white rounded-lg shadow-sm hover:shadow-md hover:bg-primary/5 transition-all p-6 cursor-pointer border-2 border-primary/20">
                             <div class="bg-primary/10 w-12 h-12 rounded-full flex items-center justify-center mx-auto mb-4">
                                 <i data-lucide="activity" class="w-6 h-6 text-primary"></i>
@@ -558,7 +558,7 @@ seoTitle: >-
                         </div>
                     </a>
 
-                    <a href="https://synctherapylocal.local/services/deep-tissue-massage/" class="block">
+                    <a href="/services/deep-tissue-massage/" class="block">
                         <div class="bg-white rounded-lg shadow-sm hover:shadow-md hover:bg-neutral-DEFAULT/50 transition-all p-6 cursor-pointer">
                             <div class="bg-secondary/20 w-12 h-12 rounded-full flex items-center justify-center mx-auto mb-4">
                                 <i data-lucide="target" class="w-6 h-6 text-primary"></i>
@@ -568,7 +568,7 @@ seoTitle: >-
                         </div>
                     </a>
 
-                    <a href="https://synctherapylocal.local/services/athletic-therapy/" class="block">
+                    <a href="/services/athletic-therapy/" class="block">
                         <div class="bg-white rounded-lg shadow-sm hover:shadow-md hover:bg-neutral-DEFAULT/50 transition-all p-6 cursor-pointer">
                             <div class="bg-accent/20 w-12 h-12 rounded-full flex items-center justify-center mx-auto mb-4">
                                 <i data-lucide="zap" class="w-6 h-6 text-primary"></i>
@@ -580,7 +580,7 @@ seoTitle: >-
                 </div>
 
                 <div class="mt-8">
-                    <a href="https://synctherapylocal.local/services/" class="text-primary hover:underline font-medium">
+                    <a href="/services/" class="text-primary hover:underline font-medium">
                         View All Athletic Therapy Services →
                     </a>
                 </div>
@@ -595,7 +595,7 @@ seoTitle: >-
                 <h2 class="text-3xl font-heading font-bold text-center text-text mb-4">Athletic Conditions Treated with Sports Massage</h2>
                 <p class="text-lg text-text/70 text-center max-w-3xl mx-auto mb-12">
                     Our sports massage therapy specializes in treating athletic injuries and conditions that affect performance and recovery.
-                 Our highly trained therapists utilize a combination of techniques tailored to the individual needs of each athlete, ensuring optimal results. We are proud to offer <a href="https://synctherapylocal.local/services/athletic-therapy/">athletic therapy services in Colwood</a>, providing a supportive environment for healing and performance enhancement. Whether you’re a professional athlete or a weekend warrior, our goal is to help you achieve your best.</p>
+                 Our highly trained therapists utilize a combination of techniques tailored to the individual needs of each athlete, ensuring optimal results. We are proud to offer <a href="/services/athletic-therapy/">athletic therapy services in Colwood</a>, providing a supportive environment for healing and performance enhancement. Whether you’re a professional athlete or a weekend warrior, our goal is to help you achieve your best.</p>
 
                 <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
                     <div class="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow">
@@ -652,7 +652,7 @@ seoTitle: >-
                 </div>
 
                 <div class="mt-8 text-center">
-                    <a href="https://synctherapylocal.local/conditions/" class="text-primary hover:underline font-medium">
+                    <a href="/conditions/" class="text-primary hover:underline font-medium">
                         View All Conditions We Treat →
                     </a>
                 </div>
@@ -767,7 +767,7 @@ seoTitle: >-
                 </div>
 
                 <div class="text-center mt-8">
-                    <a href="https://synctherapylocal.local/direct-billing/" class="text-primary hover:underline font-medium">                        View Complete Pricing & Insurance Information →                    </a>
+                    <a href="/direct-billing/" class="text-primary hover:underline font-medium">                        View Complete Pricing & Insurance Information →                    </a>
                 </div>
             </div>
         </div>
@@ -926,10 +926,10 @@ seoTitle: >-
                         <h3 class="text-lg font-heading font-semibold text-text mb-4">Complementary Therapies</h3>
                         <ul class="space-y-3">
                             <li>
-                                <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" href="https://synctherapylocal.local/services/athletic-therapy/" class="text-primary hover:underline">Athletic Therapy</a>
+                                <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" href="/services/athletic-therapy/" class="text-primary hover:underline">Athletic Therapy</a>
                             </li>
                             <li>
-                                <a data-wpil="url" href="https://synctherapylocal.local/holistic-nutrition/" class="text-primary hover:underline">Sports Nutrition</a>
+                                <a data-wpil="url" href="/nutrition-consulting/" class="text-primary hover:underline">Sports Nutrition</a>
                             </li>
                         </ul>
                     </div>
@@ -938,13 +938,13 @@ seoTitle: >-
                         <h3 class="text-lg font-heading font-semibold text-text mb-4">Sports Massage Info</h3>
                         <ul class="space-y-3">
                             <li>
-                                <a wpil="url" old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" href="https://synctherapylocal.local/our-team/rmt-daryl-stubbs/" class="text-primary hover:underline">About Our RMT</a>
+                                <a wpil="url" old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" href="/our-team/rmt-daryl-stubbs/" class="text-primary hover:underline">About Our RMT</a>
                             </li>
                             <li>
                                 Sports Massage FAQ
                             </li>
                             <li>
-                                <a data-wpil="url" href="https://synctherapylocal.local/direct-billing/" class="text-primary hover:underline">Rates & Billing</a>
+                                <a data-wpil="url" href="/direct-billing/" class="text-primary hover:underline">Rates & Billing</a>
                             </li>
                         </ul>
                     </div>
@@ -953,13 +953,13 @@ seoTitle: >-
                         <h3 class="text-lg font-heading font-semibold text-text mb-4">Get In Touch</h3>
                         <ul class="space-y-3">
                             <li>
-                                <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" href="https://synctherapylocal.local/contact/" class="text-primary hover:underline">Contact Us</a>
+                                <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" href="/contact/" class="text-primary hover:underline">Contact Us</a>
                             </li>
                             <li>
                                 <a href="https://www.google.com/maps/place/Sync+Massage+Therapy/@48.4454689,-123.4745349,17z/data=!3m1!4b1!4m6!3m5!1s0x548f74851cb74787:0xeacdf009885e6cb5!8m2!3d48.445469!4d-123.4699215!16s%2Fg%2F11b6gptl28?entry=tts&amp;g_ep=EgoyMDI1MDcwOC4wIPu8ASoASAFQAw%3D%3D&amp;skid=5df59fd5-a859-4f7e-85e5-3eb02142eae0" class="text-primary hover:underline">Client Reviews</a>
                             </li>
                             <li>
-                                <a wpil="url" old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZS1hcmVhcy8=" href="https://synctherapylocal.local/services/" class="text-primary hover:underline">Service Areas</a>
+                                <a wpil="url" old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZS1hcmVhcy8=" href="/services/" class="text-primary hover:underline">Service Areas</a>
                             </li>
                         </ul>
                     </div>

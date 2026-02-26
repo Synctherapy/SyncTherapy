@@ -50,7 +50,7 @@ export function PlanSection() {
 
         <div className="mt-12 text-center">
           <Button size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90" asChild>
-            <a href="https://www.synctherapy.ca/book" target="_blank" rel="noopener noreferrer">
+            <a href="/book/" target="_blank" rel="noopener noreferrer">
               Book Your First Appointment →
             </a>
           </Button>

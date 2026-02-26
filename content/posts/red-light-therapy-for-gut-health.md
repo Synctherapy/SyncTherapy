@@ -82,7 +82,7 @@ seoTitle: 'Red Light Therapy on Stomach: Benefits &amp; How to Use'
     <header class="text-center mb-10">
         <p class="text-lg text-gray-600 max-w-3xl mx-auto">Struggling with bloating, IBS, or digestive issues that just won't quit? You're not alone. Millions deal with gut problems daily—and most treatments only mask symptoms.</p>
         <p class="text-lg text-gray-600 max-w-3xl mx-auto mt-4">Here's the good news: <strong>red light therapy on stomach</strong> is gaining serious attention from researchers. This simple, painless treatment may help calm inflammation, support your gut bacteria, and improve digestion naturally.</p>
-        <p class="text-lg text-gray-600 max-w-3xl mx-auto mt-4">In this guide, I'll break down exactly how <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline font-semibold">red light therapy</a> works for gut health, what the science actually shows, and how to use it at home for the best results.</p>
+        <p class="text-lg text-gray-600 max-w-3xl mx-auto mt-4">In this guide, I'll break down exactly how <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" href="/red-light-therapy/" class="text-primary hover:underline font-semibold">red light therapy</a> works for gut health, what the science actually shows, and how to use it at home for the best results.</p>
     </header>
 
     <main class="space-y-16">
@@ -126,7 +126,7 @@ seoTitle: 'Red Light Therapy on Stomach: Benefits &amp; How to Use'
         <section id="how-it-works">
             <h2>How Red Light Therapy Works for Gut Health</h2>
             
-            <p class="mb-4 text-gray-700">Red light therapy (also called <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline font-semibold">photobiomodulation</a>) uses specific wavelengths of light to trigger healing at the cellular level. When you shine red or near-infrared light on your abdomen, something interesting happens inside your cells.</p>
+            <p class="mb-4 text-gray-700">Red light therapy (also called <a href="/red-light-therapy/" class="text-primary hover:underline font-semibold">photobiomodulation</a>) uses specific wavelengths of light to trigger healing at the cellular level. When you shine red or near-infrared light on your abdomen, something interesting happens inside your cells.</p>
 
             <div class="bg-white p-6 rounded-lg shadow-sm mb-6">
                 <h3>The Cellular Process</h3>
@@ -139,7 +139,7 @@ seoTitle: 'Red Light Therapy on Stomach: Benefits &amp; How to Use'
                     <li>Reduces oxidative stress and inflammation</li>
                 </ul>
                 <p class="text-gray-700">This process is especially important for your gut. The intestinal lining replaces itself every 3-5 days—faster than almost any tissue in your body. That requires massive amounts of cellular energy.</p>
-                <p class="mt-4"><a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline font-semibold">Learn more: How Red Light Therapy Boosts Mitochondrial Function</a></p>
+                <p class="mt-4"><a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYm9vc3RzLW1pdG9jaG9uZHJpYWwtZnVuY3Rpb24v" href="/red-light-therapy/" class="text-primary hover:underline font-semibold">Learn more: How Red Light Therapy Boosts Mitochondrial Function</a></p>
             </div>
 
             <div class="bg-white p-6 rounded-lg shadow-sm">
@@ -169,7 +169,7 @@ seoTitle: 'Red Light Therapy on Stomach: Benefits &amp; How to Use'
                     </table>
                 </div>
                 <p class="mt-4 text-gray-700">For gut health, <strong>near-infrared (808-850nm) is essential</strong>. It penetrates deep enough to reach your stomach and intestines. Red light (630-660nm) helps with surface-level gut lining repair.</p>
-                <p class="mt-2 text-gray-700">Most effective devices combine both wavelengths. Check out our guide on <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline font-semibold">choosing the right wavelength</a> for more details.</p>
+                <p class="mt-2 text-gray-700">Most effective devices combine both wavelengths. Check out our guide on <a href="/red-light-therapy/" class="text-primary hover:underline font-semibold">choosing the right wavelength</a> for more details.</p>
             </div>
         </section>
 
@@ -182,7 +182,7 @@ seoTitle: 'Red Light Therapy on Stomach: Benefits &amp; How to Use'
             <div class="space-y-6">
                 <div class="bg-white p-6 rounded-lg shadow-sm">
                     <h3><i class="fas fa-fire-flame-simple text-accent mr-2"></i>1. Reduces Gut Inflammation</h3>
-                    <p class="mb-3 text-gray-700"><a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline font-semibold">Red light therapy's anti-inflammatory effects</a> are well-documented. In the gut specifically, PBM has been shown to:</p>
+                    <p class="mb-3 text-gray-700"><a href="/red-light-therapy/" class="text-primary hover:underline font-semibold">Red light therapy's anti-inflammatory effects</a> are well-documented. In the gut specifically, PBM has been shown to:</p>
                     <ul class="list-disc list-inside space-y-2 text-gray-700">
                         <li>Decrease pro-inflammatory cytokines (IL-6, TNF-α, IL-1β)</li>
                         <li>Reduce prostaglandin E2 synthesis</li>
@@ -194,7 +194,7 @@ seoTitle: 'Red Light Therapy on Stomach: Benefits &amp; How to Use'
 
                 <div class="bg-white p-6 rounded-lg shadow-sm">
                     <h3><i class="fas fa-shield-halved text-accent mr-2"></i>2. Supports Gut Barrier Repair</h3>
-                    <p class="mb-3 text-gray-700">Your intestinal lining is just one cell thick. When it gets damaged (often called "<a href="https://synctherapylocal.local/warning-signs-you-have-leaky-gut/" class="text-primary hover:underline font-semibold">leaky gut</a>"), unwanted particles slip into your bloodstream and trigger inflammation throughout your body.</p>
+                    <p class="mb-3 text-gray-700">Your intestinal lining is just one cell thick. When it gets damaged (often called "<a href="/best-leaky-gut-supplements/" class="text-primary hover:underline font-semibold">leaky gut</a>"), unwanted particles slip into your bloodstream and trigger inflammation throughout your body.</p>
                     <p class="mb-3 text-gray-700">Red light therapy helps by:</p>
                     <ul class="list-disc list-inside space-y-2 text-gray-700">
                         <li>Boosting collagen production in gut tissue</li>
@@ -202,7 +202,7 @@ seoTitle: 'Red Light Therapy on Stomach: Benefits &amp; How to Use'
                         <li>Accelerating epithelial cell regeneration</li>
                         <li>Improving blood flow for faster healing</li>
                     </ul>
-                    <p class="mt-3"><a href="https://synctherapylocal.local/home-remedies-for-leaky-gut/" class="text-primary hover:underline font-semibold">Related: Home Remedies for Leaky Gut</a></p>
+                    <p class="mt-3"><a href="/best-leaky-gut-supplements/" class="text-primary hover:underline font-semibold">Related: Home Remedies for Leaky Gut</a></p>
                 </div>
 
                 <div class="bg-white p-6 rounded-lg shadow-sm">
@@ -261,7 +261,7 @@ seoTitle: 'Red Light Therapy on Stomach: Benefits &amp; How to Use'
                     </div>
                 </div>
                 <p class="mt-4 text-gray-700">Studies also show PBM can decrease the Firmicutes-to-Bacteroidetes ratio—an elevated ratio is linked to obesity and metabolic dysfunction.</p>
-                <p class="mt-4"><a href="https://synctherapylocal.local/gut-health-test/" class="text-primary hover:underline font-semibold">Want to test your gut health? Check out our gut health assessment.</a></p>
+                <p class="mt-4"><a href="/gut-health-test/" class="text-primary hover:underline font-semibold">Want to test your gut health? Check out our gut health assessment.</a></p>
             </div>
         </section>
 
@@ -278,19 +278,19 @@ seoTitle: 'Red Light Therapy on Stomach: Benefits &amp; How to Use'
                         <li><strong>Inflammation:</strong> Even "non-inflammatory" IBS involves elevated cytokines. Red light reduces these markers.</li>
                         <li><strong>Visceral sensitivity:</strong> PBM's effects on nerve signaling may reduce the heightened pain response common in IBS.</li>
                     </ul>
-                    <p class="text-gray-700">If you're dealing with IBS, you might also benefit from <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" href="https://synctherapylocal.local/best-probiotic-supplements-for-ibs/" class="text-primary hover:underline font-semibold">targeted probiotics</a>. Take our <a href="https://synctherapylocal.local/ibs-quiz/" class="text-primary hover:underline font-semibold">IBS quiz</a> to learn more about your specific type.</p>
+                    <p class="text-gray-700">If you're dealing with IBS, you might also benefit from <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" href="/best-probiotic-supplements-for-ibs/" class="text-primary hover:underline font-semibold">targeted probiotics</a>. Take our <a href="/ibs-quiz/" class="text-primary hover:underline font-semibold">IBS quiz</a> to learn more about your specific type.</p>
                 </div>
 
                 <div class="bg-white p-6 rounded-lg shadow-sm">
                     <h3 id="constipation">Red Light Therapy for Constipation</h3>
-                    <p class="mb-3 text-gray-700"><a href="https://synctherapylocal.local/do-probiotics-make-you-poop/" class="text-primary hover:underline font-semibold">Does red light therapy make you poop?</a> Some users report improved regularity. Here's why it might help:</p>
+                    <p class="mb-3 text-gray-700"><a href="/do-probiotics-make-you-poop/" class="text-primary hover:underline font-semibold">Does red light therapy make you poop?</a> Some users report improved regularity. Here's why it might help:</p>
                     <ul class="list-disc list-inside space-y-2 text-gray-700 mb-4">
                         <li>Increases energy production in intestinal smooth muscle cells</li>
                         <li>Improves gut motility through neuronal stimulation</li>
                         <li>Enhances blood flow to digestive organs</li>
                         <li>Reduces inflammation that can slow transit time</li>
                     </ul>
-                    <p class="text-gray-700">For constipation relief, combine red light therapy with <a href="https://synctherapylocal.local/best-supplements-for-constipation/" class="text-primary hover:underline font-semibold">proven supplements</a> and adequate fiber intake.</p>
+                    <p class="text-gray-700">For constipation relief, combine red light therapy with <a href="/best-supplements-for-constipation/" class="text-primary hover:underline font-semibold">proven supplements</a> and adequate fiber intake.</p>
                 </div>
 
                 <div class="bg-white p-6 rounded-lg shadow-sm">
@@ -301,7 +301,7 @@ seoTitle: 'Red Light Therapy on Stomach: Benefits &amp; How to Use'
                         <li>Supporting tissue repair in damaged areas</li>
                         <li>Improving vagal tone, which regulates stomach acid production</li>
                     </ul>
-                    <p class="text-gray-700">If you struggle with acid reflux, also consider <a href="https://synctherapylocal.local/best-probiotic-for-acid-reflux/" class="text-primary hover:underline font-semibold">probiotics formulated for reflux</a>.</p>
+                    <p class="text-gray-700">If you struggle with acid reflux, also consider <a href="/best-probiotic-for-acid-reflux/" class="text-primary hover:underline font-semibold">probiotics formulated for reflux</a>.</p>
                 </div>
 
                 <div class="bg-white p-6 rounded-lg shadow-sm">
@@ -312,12 +312,12 @@ seoTitle: 'Red Light Therapy on Stomach: Benefits &amp; How to Use'
                         <li>Supporting gut motility (impaired motility is a SIBO risk factor)</li>
                         <li>Helping restore healthy bacterial populations after treatment</li>
                     </ul>
-                    <p class="text-gray-700">Learn about <a href="https://synctherapylocal.local/best-supplements-for-sibo/" class="text-primary hover:underline font-semibold">supplements that support SIBO recovery</a>.</p>
+                    <p class="text-gray-700">Learn about <a href="/best-supplements-for-sibo/" class="text-primary hover:underline font-semibold">supplements that support SIBO recovery</a>.</p>
                 </div>
 
                 <div class="bg-white p-6 rounded-lg shadow-sm">
                     <h3 id="bloating">Red Light Therapy for Bloating</h3>
-                    <p class="mb-3 text-gray-700">Bloating often stems from dysbiosis, slow transit, and inflammation. <a href="https://synctherapylocal.local/best-prebiotics-and-probiotics-supplements/" class="text-primary hover:underline font-semibold">Red light therapy addresses all three</a>:</p>
+                    <p class="mb-3 text-gray-700">Bloating often stems from dysbiosis, slow transit, and inflammation. <a href="/best-prebiotics-and-probiotics-supplements/" class="text-primary hover:underline font-semibold">Red light therapy addresses all three</a>:</p>
                     <ul class="list-disc list-inside space-y-2 text-gray-700 mb-4">
                         <li>Restores healthy fermenters that produce appropriate gas volumes</li>
                         <li>Enhances gut motility</li>
@@ -450,7 +450,7 @@ seoTitle: 'Red Light Therapy on Stomach: Benefits &amp; How to Use'
                         </ul>
                     </div>
                 </div>
-                <p class="mt-4"><a href="https://synctherapylocal.local/at-home-red-light-therapy/" class="text-primary hover:underline font-semibold">For more guidance, see our full article on how often to do red light therapy.</a></p>
+                <p class="mt-4"><a href="/at-home-red-light-therapy/" class="text-primary hover:underline font-semibold">For more guidance, see our full article on how often to do red light therapy.</a></p>
             </div>
 
             <div class="grid md:grid-cols-2 gap-6">
@@ -481,7 +481,7 @@ seoTitle: 'Red Light Therapy on Stomach: Benefits &amp; How to Use'
                 </div>
             </div>
 
-            <p class="mt-4"><a href="https://synctherapylocal.local/at-home-red-light-therapy/" class="text-primary hover:underline font-semibold">Learn more about using red light therapy safely at home.</a></p>
+            <p class="mt-4"><a href="/at-home-red-light-therapy/" class="text-primary hover:underline font-semibold">Learn more about using red light therapy safely at home.</a></p>
         </section>
 
         <!-- Section 7: Devices -->
@@ -492,7 +492,7 @@ seoTitle: 'Red Light Therapy on Stomach: Benefits &amp; How to Use'
 
             <div class="space-y-8">
                 <div class="bg-white p-6 rounded-lg shadow-md border-t-4 border-accent">
-                    <h3 class="text-2xl font-bold">Best Overall: <a href="https://synctherapylocal.local/rouge-red-light-therapy-reviews/" class="text-primary hover:underline">Rouge G4 Series</a></h3>
+                    <h3 class="text-2xl font-bold">Best Overall: <a href="/rouge-red-light-therapy-reviews/" class="text-primary hover:underline">Rouge G4 Series</a></h3>
                     <p class="mb-4 text-gray-700">The Rouge G4 delivers clinical-grade power with both red (660nm) and near-infrared (850nm) wavelengths. Key features:</p>
                     <ul class="list-disc list-inside space-y-2 text-gray-700 mb-4">
                         <li>Multiple size options to fit your space and budget</li>
@@ -504,7 +504,7 @@ seoTitle: 'Red Light Therapy on Stomach: Benefits &amp; How to Use'
                 </div>
 
                 <div class="bg-white p-6 rounded-lg shadow-md border-t-4 border-accent">
-                    <h3 class="text-2xl font-bold">Best Portable: <a href="https://synctherapylocal.local/kala-red-light-therapy-review/" class="text-primary hover:underline">Kala Pro</a></h3>
+                    <h3 class="text-2xl font-bold">Best Portable: <a href="/kala-red-light-therapy-review/" class="text-primary hover:underline">Kala Pro</a></h3>
                     <p class="mb-4 text-gray-700">If you want flexibility and portability, the Kala Pro is excellent. Features include:</p>
                     <ul class="list-disc list-inside space-y-2 text-gray-700 mb-4">
                         <li>Multiple wavelengths: 630nm, 660nm, and 850nm</li>
@@ -517,7 +517,7 @@ seoTitle: 'Red Light Therapy on Stomach: Benefits &amp; How to Use'
                 </div>
 
                 <div class="bg-white p-6 rounded-lg shadow-md border-t-4 border-accent">
-                    <h3 class="text-2xl font-bold">Best Large Panel: <a href="https://synctherapylocal.local/infraredi-reviews/" class="text-primary hover:underline">Infraredi Flex Max</a></h3>
+                    <h3 class="text-2xl font-bold">Best Large Panel: <a href="/infraredi-reviews/" class="text-primary hover:underline">Infraredi Flex Max</a></h3>
                     <p class="mb-4 text-gray-700">For comprehensive treatment covering your entire torso, the Infraredi Flex Max offers:</p>
                     <ul class="list-disc list-inside space-y-2 text-gray-700 mb-4">
                         <li>Large treatment area for full abdomen coverage</li>
@@ -539,7 +539,7 @@ seoTitle: 'Red Light Therapy on Stomach: Benefits &amp; How to Use'
                     <li><strong>Sufficient coverage:</strong> Large enough to treat your abdomen without repositioning</li>
                     <li><strong>Independent testing:</strong> Verify wavelength and power claims</li>
                 </ul>
-                <p class="mt-4"><a href="https://synctherapylocal.local/best-red-light-therapy-panels/" class="text-primary hover:underline font-semibold">Compare more options in our complete panel buying guide.</a></p>
+                <p class="mt-4"><a href="/best-red-light-therapy-panels/" class="text-primary hover:underline font-semibold">Compare more options in our complete panel buying guide.</a></p>
             </div>
         </section>
 
@@ -552,7 +552,7 @@ seoTitle: 'Red Light Therapy on Stomach: Benefits &amp; How to Use'
             <div class="grid md:grid-cols-2 gap-6">
                 <div class="bg-white p-6 rounded-lg shadow-sm">
                     <h3><i class="fas fa-capsules text-accent mr-2"></i>Probiotics</h3>
-                    <p class="text-gray-700">PBM creates better conditions for beneficial bacteria. Support this with quality probiotics, especially <em>Lactobacillus</em> and <em>Bifidobacterium</em> strains. See our <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcmViaW90aWNzLWFuZC1wcm9iaW90aWNzLXN1cHBsZW1lbnRzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcmViaW90aWNzLWFuZC1wcm9iaW90aWNzLXN1cHBsZW1lbnRzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcmViaW90aWNzLWFuZC1wcm9iaW90aWNzLXN1cHBsZW1lbnRzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcmViaW90aWNzLWFuZC1wcm9iaW90aWNzLXN1cHBsZW1lbnRzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcmViaW90aWNzLWFuZC1wcm9iaW90aWNzLXN1cHBsZW1lbnRzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcmViaW90aWNzLWFuZC1wcm9iaW90aWNzLXN1cHBsZW1lbnRzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcmViaW90aWNzLWFuZC1wcm9iaW90aWNzLXN1cHBsZW1lbnRzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcmViaW90aWNzLWFuZC1wcm9iaW90aWNzLXN1cHBsZW1lbnRzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcmViaW90aWNzLWFuZC1wcm9iaW90aWNzLXN1cHBsZW1lbnRzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcmViaW90aWNzLWFuZC1wcm9iaW90aWNzLXN1cHBsZW1lbnRzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcmViaW90aWNzLWFuZC1wcm9iaW90aWNzLXN1cHBsZW1lbnRzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcmViaW90aWNzLWFuZC1wcm9iaW90aWNzLXN1cHBsZW1lbnRzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcmViaW90aWNzLWFuZC1wcm9iaW90aWNzLXN1cHBsZW1lbnRzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcmViaW90aWNzLWFuZC1wcm9iaW90aWNzLXN1cHBsZW1lbnRzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcmViaW90aWNzLWFuZC1wcm9iaW90aWNzLXN1cHBsZW1lbnRzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcmViaW90aWNzLWFuZC1wcm9iaW90aWNzLXN1cHBsZW1lbnRzLw==" href="https://synctherapylocal.local/best-prebiotics-and-probiotics-supplements/" class="text-primary hover:underline font-semibold">top probiotic picks</a>.</p>
+                    <p class="text-gray-700">PBM creates better conditions for beneficial bacteria. Support this with quality probiotics, especially <em>Lactobacillus</em> and <em>Bifidobacterium</em> strains. See our <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcmViaW90aWNzLWFuZC1wcm9iaW90aWNzLXN1cHBsZW1lbnRzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcmViaW90aWNzLWFuZC1wcm9iaW90aWNzLXN1cHBsZW1lbnRzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcmViaW90aWNzLWFuZC1wcm9iaW90aWNzLXN1cHBsZW1lbnRzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcmViaW90aWNzLWFuZC1wcm9iaW90aWNzLXN1cHBsZW1lbnRzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcmViaW90aWNzLWFuZC1wcm9iaW90aWNzLXN1cHBsZW1lbnRzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcmViaW90aWNzLWFuZC1wcm9iaW90aWNzLXN1cHBsZW1lbnRzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcmViaW90aWNzLWFuZC1wcm9iaW90aWNzLXN1cHBsZW1lbnRzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcmViaW90aWNzLWFuZC1wcm9iaW90aWNzLXN1cHBsZW1lbnRzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcmViaW90aWNzLWFuZC1wcm9iaW90aWNzLXN1cHBsZW1lbnRzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcmViaW90aWNzLWFuZC1wcm9iaW90aWNzLXN1cHBsZW1lbnRzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcmViaW90aWNzLWFuZC1wcm9iaW90aWNzLXN1cHBsZW1lbnRzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcmViaW90aWNzLWFuZC1wcm9iaW90aWNzLXN1cHBsZW1lbnRzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcmViaW90aWNzLWFuZC1wcm9iaW90aWNzLXN1cHBsZW1lbnRzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcmViaW90aWNzLWFuZC1wcm9iaW90aWNzLXN1cHBsZW1lbnRzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcmViaW90aWNzLWFuZC1wcm9iaW90aWNzLXN1cHBsZW1lbnRzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcmViaW90aWNzLWFuZC1wcm9iaW90aWNzLXN1cHBsZW1lbnRzLw==" href="/best-prebiotics-and-probiotics-supplements/" class="text-primary hover:underline font-semibold">top probiotic picks</a>.</p>
                 </div>
 
                 <div class="bg-white p-6 rounded-lg shadow-sm">
@@ -562,7 +562,7 @@ seoTitle: 'Red Light Therapy on Stomach: Benefits &amp; How to Use'
 
                 <div class="bg-white p-6 rounded-lg shadow-sm">
                     <h3><i class="fas fa-apple-whole text-accent mr-2"></i>Anti-Inflammatory Diet</h3>
-                    <p class="text-gray-700">Reduce processed foods, sugar, and inflammatory fats. Mediterranean-style eating correlates with the healthiest microbiome diversity. Check out our <a href="https://synctherapylocal.local/leaky-gut-diet/" class="text-primary hover:underline font-semibold">gut-healing diet guide</a>.</p>
+                    <p class="text-gray-700">Reduce processed foods, sugar, and inflammatory fats. Mediterranean-style eating correlates with the healthiest microbiome diversity. Check out our <a href="/best-leaky-gut-supplements/" class="text-primary hover:underline font-semibold">gut-healing diet guide</a>.</p>
                 </div>
 
                 <div class="bg-white p-6 rounded-lg shadow-sm">
@@ -619,7 +619,7 @@ seoTitle: 'Red Light Therapy on Stomach: Benefits &amp; How to Use'
                         Can red light therapy help with IBS?
                         <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
                     </summary>
-                    <p class="mt-4 text-gray-700">Early evidence is promising. Red light therapy addresses several IBS drivers: gut dysbiosis, inflammation, and visceral hypersensitivity. While large clinical trials are still needed, the mechanistic evidence and patient reports suggest it can be a helpful addition to an IBS management plan. See also: <a href="https://synctherapylocal.local/best-probiotic-supplements-for-ibs/" class="text-primary hover:underline font-semibold">Do Probiotics Help IBS?</a></p>
+                    <p class="mt-4 text-gray-700">Early evidence is promising. Red light therapy addresses several IBS drivers: gut dysbiosis, inflammation, and visceral hypersensitivity. While large clinical trials are still needed, the mechanistic evidence and patient reports suggest it can be a helpful addition to an IBS management plan. See also: <a href="/best-probiotic-supplements-for-ibs/" class="text-primary hover:underline font-semibold">Do Probiotics Help IBS?</a></p>
                 </details>
 
                 <details class="bg-white p-6 rounded-lg shadow-sm group">
@@ -659,7 +659,7 @@ seoTitle: 'Red Light Therapy on Stomach: Benefits &amp; How to Use'
                 <li>It works well alongside diet, probiotics, and lifestyle changes</li>
             </ul>
             <p class="text-lg leading-relaxed mb-4">If you're dealing with digestive issues that haven't responded well to other approaches, red light therapy is worth considering. Start with a quality device that includes near-infrared wavelengths, follow a consistent protocol, and give it 6-8 weeks before evaluating results.</p>
-            <p class="text-lg leading-relaxed">For most people, the combination of <a href="https://synctherapylocal.local/at-home-red-light-therapy/" class="text-accent hover:underline font-semibold">at-home red light therapy</a>, targeted <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1zb2lsLWJhc2VkLXByb2Jpb3RpY3Mv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1zb2lsLWJhc2VkLXByb2Jpb3RpY3Mv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1zb2lsLWJhc2VkLXByb2Jpb3RpY3Mv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1zb2lsLWJhc2VkLXByb2Jpb3RpY3Mv" href="https://synctherapylocal.local/best-soil-based-probiotics/" class="text-accent hover:underline font-semibold">probiotics</a>, and a <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" href="https://synctherapylocal.local/gut-health-diet-simple-steps-for-a-happier-tummy/" class="text-accent hover:underline font-semibold">gut-supportive diet</a> creates a powerful foundation for digestive wellness.</p>
+            <p class="text-lg leading-relaxed">For most people, the combination of <a href="/at-home-red-light-therapy/" class="text-accent hover:underline font-semibold">at-home red light therapy</a>, targeted <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1zb2lsLWJhc2VkLXByb2Jpb3RpY3Mv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1zb2lsLWJhc2VkLXByb2Jpb3RpY3Mv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1zb2lsLWJhc2VkLXByb2Jpb3RpY3Mv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1zb2lsLWJhc2VkLXByb2Jpb3RpY3Mv" href="/best-soil-based-probiotics/" class="text-accent hover:underline font-semibold">probiotics</a>, and a <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" href="/best-supplements-for-sibo/" class="text-accent hover:underline font-semibold">gut-supportive diet</a> creates a powerful foundation for digestive wellness.</p>
         </section>
 
         <!-- CTA Box -->
@@ -667,9 +667,9 @@ seoTitle: 'Red Light Therapy on Stomach: Benefits &amp; How to Use'
             <h3 class="text-2xl font-bold mb-4">Ready to Try Red Light Therapy for Gut Health?</h3>
             <p class="text-lg mb-6">Check out our device reviews to find the right option for your needs and budget.</p>
             <div class="flex flex-wrap justify-center gap-4">
-                <a href="https://synctherapylocal.local/rouge-red-light-therapy-reviews/" class="bg-white text-primary font-bold py-3 px-6 rounded-lg hover:bg-gray-100 transition">Rouge G4 Review</a>
-                <a href="https://synctherapylocal.local/kala-red-light-therapy-review/" class="bg-white text-primary font-bold py-3 px-6 rounded-lg hover:bg-gray-100 transition">Kala Pro Review</a>
-                <a href="https://synctherapylocal.local/infraredi-reviews/" class="bg-white text-primary font-bold py-3 px-6 rounded-lg hover:bg-gray-100 transition">Infraredi Review</a>
+                <a href="/rouge-red-light-therapy-reviews/" class="bg-white text-primary font-bold py-3 px-6 rounded-lg hover:bg-gray-100 transition">Rouge G4 Review</a>
+                <a href="/kala-red-light-therapy-review/" class="bg-white text-primary font-bold py-3 px-6 rounded-lg hover:bg-gray-100 transition">Kala Pro Review</a>
+                <a href="/infraredi-reviews/" class="bg-white text-primary font-bold py-3 px-6 rounded-lg hover:bg-gray-100 transition">Infraredi Review</a>
             </div>
         </section>
 

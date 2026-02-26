@@ -56,7 +56,7 @@ export function GuideSection() {
               </ul>
 
               <a 
-                href="https://www.synctherapy.ca/about" 
+                href="/about/" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block mt-6 text-accent hover:text-accent/80 font-medium text-sm"

@@ -386,7 +386,7 @@ seoTitle: 'Echo Go Plus Review 2026: The Best Hydrogen Water Bottle Available'
                 <p class="text-sm text-gray-700">When clients ask me about hydrogen water, I always recommend Echo. The combination of third-party testing, therapeutic hydrogen levels, and the 5-year warranty gives me confidence that I'm recommending a quality product. You don't offer a 5-year warranty if you're not confident in your manufacturing.</p>
             </div>
 
-            <p class="text-sm text-gray-600">For more about the company, read my full <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZWNoby13YXRlci12cy1rYW5nZW4v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZWNoby13YXRlci12cy1rYW5nZW4v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZWNoby13YXRlci12cy1rYW5nZW4v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZWNoby13YXRlci12cy1rYW5nZW4v" href="https://synctherapylocal.local/echo-water-vs-kangen/" class="text-primary hover:underline font-semibold">Echo Water comparison guide</a>.</p>
+            <p class="text-sm text-gray-600">For more about the company, read my full <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZWNoby13YXRlci12cy1rYW5nZW4v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZWNoby13YXRlci12cy1rYW5nZW4v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZWNoby13YXRlci12cy1rYW5nZW4v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZWNoby13YXRlci12cy1rYW5nZW4v" href="/alkaline-water-vs-hydrogen-water/" class="text-primary hover:underline font-semibold">Echo Water comparison guide</a>.</p>
         </section>
 
         <!-- Echo Go Plus Review -->
@@ -426,7 +426,7 @@ seoTitle: 'Echo Go Plus Review 2026: The Best Hydrogen Water Bottle Available'
                     <li>• <a href="https://support.echowater.com/hc/en-us/articles/15773708676756-H2-Analytics-Laboratory-Report-Echo-Go" target="_blank" rel="nofollow" class="text-primary hover:underline">Third-party tested</a> for hydrogen output claims</li>
                     <li>• Produces therapeutic H2 levels above the minimum 0.5 ppm threshold</li>
                     <li>• Best warranty in the industry (5 years)</li>
-                    <li>• <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ2FyeS1icmVja2EtaHlkcm9nZW4td2F0ZXItYm90dGxlLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ2FyeS1icmVja2EtaHlkcm9nZW4td2F0ZXItYm90dGxlLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ2FyeS1icmVja2EtaHlkcm9nZW4td2F0ZXItYm90dGxlLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ2FyeS1icmVja2EtaHlkcm9nZW4td2F0ZXItYm90dGxlLw==" href="https://synctherapylocal.local/gary-brecka-hydrogen-water-bottle/" class="text-primary hover:underline font-semibold">Gary Brecka recommended it</a></li>
+                    <li>• <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ2FyeS1icmVja2EtaHlkcm9nZW4td2F0ZXItYm90dGxlLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ2FyeS1icmVja2EtaHlkcm9nZW4td2F0ZXItYm90dGxlLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ2FyeS1icmVja2EtaHlkcm9nZW4td2F0ZXItYm90dGxlLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ2FyeS1icmVja2EtaHlkcm9nZW4td2F0ZXItYm90dGxlLw==" href="/gary-brecka-hydrogen-water-bottle/" class="text-primary hover:underline font-semibold">Gary Brecka recommended it</a></li>
                     <li>• Dr. Paul Barattiero's credibility and purpose</li>
                 </ul>
             </div>
@@ -480,7 +480,7 @@ seoTitle: 'Echo Go Plus Review 2026: The Best Hydrogen Water Bottle Available'
                 </div>
             </div>
 
-            <p class="text-sm text-gray-600">For my full breakdown, read my dedicated <a href="https://synctherapylocal.local/echo-flask-review/" class="text-primary hover:underline font-semibold">Echo Flask review</a>.</p>
+            <p class="text-sm text-gray-600">For my full breakdown, read my dedicated <a href="/echo-flask-review/" class="text-primary hover:underline font-semibold">Echo Flask review</a>.</p>
         </section>
 
         <!-- Health Benefits Section -->
@@ -509,7 +509,7 @@ seoTitle: 'Echo Go Plus Review 2026: The Best Hydrogen Water Bottle Available'
                 </div>
             </div>
 
-            <p class="text-sm text-gray-600">For a deeper dive, read my article on <a href="https://synctherapylocal.local/hydrogen-water/" class="text-primary hover:underline font-semibold">hydrogen water benefits and risks</a>.</p>
+            <p class="text-sm text-gray-600">For a deeper dive, read my article on <a href="/hydrogen-water/" class="text-primary hover:underline font-semibold">hydrogen water benefits and risks</a>.</p>
         </section>
 
         <!-- The Science Section -->
@@ -569,7 +569,7 @@ seoTitle: 'Echo Go Plus Review 2026: The Best Hydrogen Water Bottle Available'
                         <li><i class="fas fa-times-circle text-red-500 mr-2"></i>Budget is a major concern</li>
                         <li><i class="fas fa-times-circle text-red-500 mr-2"></i>You're not interested in optimizing health</li>
                     </ul>
-                    <p class="mt-4 text-sm text-gray-600"><strong>Alternative:</strong> Try <a href="https://synctherapylocal.local/hydrogen-water-tablets/" class="text-primary hover:underline">H2 tablets</a> first to see if you notice benefits.</p>
+                    <p class="mt-4 text-sm text-gray-600"><strong>Alternative:</strong> Try <a href="/hydrogen-water-tablets/" class="text-primary hover:underline">H2 tablets</a> first to see if you notice benefits.</p>
                 </div>
             </div>
 
@@ -588,22 +588,22 @@ seoTitle: 'Echo Go Plus Review 2026: The Best Hydrogen Water Bottle Available'
                 <div class="bg-white p-4 rounded-lg shadow-sm">
                     <h4 class="font-bold text-primary mb-2">Echo Hydrogen Water Pitcher</h4>
                     <p class="text-sm text-gray-600 mb-2">57oz capacity pitcher with 10/20-minute cycles. Great for families.</p>
-                    <p class="text-xs"><a href="https://synctherapylocal.local/echo-hydrogen-pitcher-review/" class="text-primary hover:underline">Read my Echo Pitcher review →</a></p>
+                    <p class="text-xs"><a href="/echo-hydrogen-pitcher-review/" class="text-primary hover:underline">Read my Echo Pitcher review →</a></p>
                 </div>
                 <div class="bg-white p-4 rounded-lg shadow-sm">
                     <h4 class="font-bold text-primary mb-2">Echo Ultimate Machine</h4>
                     <p class="text-sm text-gray-600 mb-2">Countertop/under-sink unit producing hydrogen, alkaline, acidic, and filtered water.</p>
-                    <p class="text-xs"><a href="https://synctherapylocal.local/echo-ultimate-review/" class="text-primary hover:underline">Read my Echo Ultimate review →</a></p>
+                    <p class="text-xs"><a href="/echo-ultimate-review/" class="text-primary hover:underline">Read my Echo Ultimate review →</a></p>
                 </div>
                 <div class="bg-white p-4 rounded-lg shadow-sm">
                     <h4 class="font-bold text-primary mb-2">Echo H2 Machine</h4>
                     <p class="text-sm text-gray-600 mb-2">Dedicated hydrogen water machine for home use.</p>
-                    <p class="text-xs"><a href="https://synctherapylocal.local/echo-h2-machine-reviews/" class="text-primary hover:underline">Read my Echo H2 review →</a></p>
+                    <p class="text-xs"><a href="/echo-ultimate-review/" class="text-primary hover:underline">Read my Echo H2 review →</a></p>
                 </div>
                 <div class="bg-white p-4 rounded-lg shadow-sm">
                     <h4 class="font-bold text-primary mb-2">Echo Clean</h4>
                     <p class="text-sm text-gray-600 mb-2">Generates hypochlorous acid for natural cleaning.</p>
-                    <p class="text-xs"><a href="https://synctherapylocal.local/echo-clean-review/" class="text-primary hover:underline">Read my Echo Clean review →</a></p>
+                    <p class="text-xs"><a href="/echo-ultimate-review/" class="text-primary hover:underline">Read my Echo Clean review →</a></p>
                 </div>
             </div>
         </section>
@@ -689,16 +689,16 @@ seoTitle: 'Echo Go Plus Review 2026: The Best Hydrogen Water Bottle Available'
             <h2 class="!mt-0"><i class="fas fa-link text-accent mr-2"></i>Related Hydrogen Water Guides</h2>
             <div class="grid md:grid-cols-2 gap-4 mt-4">
                 <ul class="space-y-2 text-sm">
-                    <li><a href="https://synctherapylocal.local/hydrogen-water/" class="text-primary hover:underline font-semibold">→ Hydrogen Water Benefits and Risks</a></li>
-                    <li><a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ2FyeS1icmVja2EtaHlkcm9nZW4td2F0ZXItYm90dGxlLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ2FyeS1icmVja2EtaHlkcm9nZW4td2F0ZXItYm90dGxlLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ2FyeS1icmVja2EtaHlkcm9nZW4td2F0ZXItYm90dGxlLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ2FyeS1icmVja2EtaHlkcm9nZW4td2F0ZXItYm90dGxlLw==" href="https://synctherapylocal.local/gary-brecka-hydrogen-water-bottle/" class="text-primary hover:underline font-semibold">→ Gary Brecka Hydrogen Water Bottle</a></li>
-                    <li><a href="https://synctherapylocal.local/echo-flask-review/" class="text-primary hover:underline font-semibold">→ Echo Flask Review</a></li>
-                    <li><a href="https://synctherapylocal.local/echo-hydrogen-pitcher-review/" class="text-primary hover:underline font-semibold">→ Echo Hydrogen Pitcher Review</a></li>
+                    <li><a href="/hydrogen-water/" class="text-primary hover:underline font-semibold">→ Hydrogen Water Benefits and Risks</a></li>
+                    <li><a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ2FyeS1icmVja2EtaHlkcm9nZW4td2F0ZXItYm90dGxlLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ2FyeS1icmVja2EtaHlkcm9nZW4td2F0ZXItYm90dGxlLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ2FyeS1icmVja2EtaHlkcm9nZW4td2F0ZXItYm90dGxlLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ2FyeS1icmVja2EtaHlkcm9nZW4td2F0ZXItYm90dGxlLw==" href="/gary-brecka-hydrogen-water-bottle/" class="text-primary hover:underline font-semibold">→ Gary Brecka Hydrogen Water Bottle</a></li>
+                    <li><a href="/echo-flask-review/" class="text-primary hover:underline font-semibold">→ Echo Flask Review</a></li>
+                    <li><a href="/echo-hydrogen-pitcher-review/" class="text-primary hover:underline font-semibold">→ Echo Hydrogen Pitcher Review</a></li>
                 </ul>
                 <ul class="space-y-2 text-sm">
-                    <li><a href="https://synctherapylocal.local/echo-ultimate-review/" class="text-primary hover:underline font-semibold">→ Echo Ultimate Machine Review</a></li>
-                    <li><a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZWNoby13YXRlci12cy1rYW5nZW4v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZWNoby13YXRlci12cy1rYW5nZW4v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZWNoby13YXRlci12cy1rYW5nZW4v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZWNoby13YXRlci12cy1rYW5nZW4v" href="https://synctherapylocal.local/echo-water-vs-kangen/" class="text-primary hover:underline font-semibold">→ Echo Water vs Kangen</a></li>
-                    <li><a href="https://synctherapylocal.local/dana-white-hydrogen-water/" class="text-primary hover:underline font-semibold">→ Dana White's Hydrogen Water</a></li>
-                    <li><a href="https://synctherapylocal.local/echo-h2-machine-reviews/" class="text-primary hover:underline font-semibold">→ Echo H2 Machine Reviews</a></li>
+                    <li><a href="/echo-ultimate-review/" class="text-primary hover:underline font-semibold">→ Echo Ultimate Machine Review</a></li>
+                    <li><a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZWNoby13YXRlci12cy1rYW5nZW4v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZWNoby13YXRlci12cy1rYW5nZW4v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZWNoby13YXRlci12cy1rYW5nZW4v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZWNoby13YXRlci12cy1rYW5nZW4v" href="/alkaline-water-vs-hydrogen-water/" class="text-primary hover:underline font-semibold">→ Echo Water vs Kangen</a></li>
+                    <li><a href="/gary-brecka-hydrogen-water-bottle/" class="text-primary hover:underline font-semibold">→ Dana White's Hydrogen Water</a></li>
+                    <li><a href="/echo-ultimate-review/" class="text-primary hover:underline font-semibold">→ Echo H2 Machine Reviews</a></li>
                 </ul>
             </div>
         </section>

@@ -74,7 +74,7 @@ export function PopularServicesSection() {
         </div>
 
         <div className="mt-12 text-center">
-          <Link href="/services" className="inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-white bg-primary hover:bg-primary/90 transition-colors">
+          <Link href="/services/" className="inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-white bg-primary hover:bg-primary/90 transition-colors">
             View All Services <ArrowRight className="ml-2 w-4 h-4" />
           </Link>
         </div>

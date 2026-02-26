@@ -358,7 +358,7 @@ seoTitle: 'Red Light Therapy for Sleep (2026): Complete Science-Backed Guide'
                     </div>
                 </div>
                 <div>
-                    <p class="mb-4">The <a href="https://synctherapylocal.local/rouge-red-light-therapy-reviews/" class="text-primary hover:underline"><strong>Rouge G4 Pro</strong></a> delivers the exact wavelengths clinically proven to boost melatonin and improve sleep quality. As a Canadian company, you get excellent customer support, no import duties, and a 3-year warranty. The large panel lets you treat face, neck, and body simultaneously.</p>
+                    <p class="mb-4">The <a href="/rouge-red-light-therapy-reviews/" class="text-primary hover:underline"><strong>Rouge G4 Pro</strong></a> delivers the exact wavelengths clinically proven to boost melatonin and improve sleep quality. As a Canadian company, you get excellent customer support, no import duties, and a 3-year warranty. The large panel lets you treat face, neck, and body simultaneously.</p>
                     <div class="grid grid-cols-2 gap-4 mb-4 text-sm">
                         <div><strong class="text-green-600">Pros:</strong>
                             <ul class="list-disc list-inside">
@@ -380,7 +380,7 @@ seoTitle: 'Red Light Therapy for Sleep (2026): Complete Science-Backed Guide'
                     
                     <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded mb-4">
                         <p class="font-semibold text-green-700"><i class="fas fa-check-circle mr-2"></i>Why It's Best for Sleep</p>
-                        <p class="text-gray-700 text-sm">The Rouge G4 Pro covers your entire upper body in one session—targeting face for melatonin production, neck for vagus nerve stimulation, and body for overall relaxation. The same device works for pain, skin health, and <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">inflammation</a>.</p>
+                        <p class="text-gray-700 text-sm">The Rouge G4 Pro covers your entire upper body in one session—targeting face for melatonin production, neck for vagus nerve stimulation, and body for overall relaxation. The same device works for pain, skin health, and <a href="/red-light-therapy/" class="text-primary hover:underline">inflammation</a>.</p>
                     </div>
                     
                     <a href="https://rougecare.ca/?ref=hphwim9l" target="_blank" rel="nofollow sponsored" class="affiliate-button w-full">Get the Rouge G4 Pro <i class="fas fa-arrow-right ml-2"></i></a>
@@ -455,7 +455,7 @@ seoTitle: 'Red Light Therapy for Sleep (2026): Complete Science-Backed Guide'
         <section id="how-it-works">
             <h2><i class="fas fa-cogs text-accent mr-2"></i>How Red Light Therapy Improves Sleep</h2>
             <div class="bg-white p-6 rounded-lg shadow-md">
-                <p class="mb-6"><a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">Red light therapy (photobiomodulation)</a> works through multiple mechanisms to improve sleep quality:</p>
+                <p class="mb-6"><a href="/red-light-therapy/" class="text-primary hover:underline">Red light therapy (photobiomodulation)</a> works through multiple mechanisms to improve sleep quality:</p>
                 
                 <div class="grid md:grid-cols-2 gap-6 mb-6">
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-accent">
@@ -468,11 +468,11 @@ seoTitle: 'Red Light Therapy for Sleep (2026): Complete Science-Backed Guide'
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-accent">
                         <h4 class="font-bold text-primary mb-2"><i class="fas fa-fire-alt text-accent mr-2"></i>3. Reduces Inflammation</h4>
-                        <p class="text-sm text-gray-700">Chronic <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline">inflammation</a> disrupts sleep. NIR wavelengths (810-850nm) penetrate deep tissues to reduce inflammatory cytokines, promoting more restorative sleep.</p>
+                        <p class="text-sm text-gray-700">Chronic <a href="/red-light-therapy/" class="text-primary hover:underline">inflammation</a> disrupts sleep. NIR wavelengths (810-850nm) penetrate deep tissues to reduce inflammatory cytokines, promoting more restorative sleep.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-accent">
                         <h4 class="font-bold text-primary mb-2"><i class="fas fa-bolt text-accent mr-2"></i>4. Increases Cellular ATP</h4>
-                        <p class="text-sm text-gray-700">Red light energizes your <a href="https://synctherapylocal.local/red-light-therapy-and-mitochondria/" class="text-primary hover:underline">mitochondria</a>, increasing ATP production. This helps cells repair during sleep and may reduce the total sleep needed for full recovery.</p>
+                        <p class="text-sm text-gray-700">Red light energizes your <a href="/red-light-therapy/" class="text-primary hover:underline">mitochondria</a>, increasing ATP production. This helps cells repair during sleep and may reduce the total sleep needed for full recovery.</p>
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-accent">
                         <h4 class="font-bold text-primary mb-2"><i class="fas fa-sun text-accent mr-2"></i>5. Reduces Sleep Inertia</h4>
@@ -627,7 +627,7 @@ seoTitle: 'Red Light Therapy for Sleep (2026): Complete Science-Backed Guide'
                         <div class="bg-primary text-white rounded-full w-8 h-8 flex items-center justify-center mr-4 flex-shrink-0 font-bold">1</div>
                         <div>
                             <p class="font-semibold">Choose the Right Device</p>
-                            <p class="text-gray-700 text-sm">Use a panel or lamp that emits both 660nm (red) and 850nm (near-infrared) wavelengths. <a href="https://synctherapylocal.local/best-red-light-therapy-panels/" class="text-primary hover:underline">See our panel recommendations</a>.</p>
+                            <p class="text-gray-700 text-sm">Use a panel or lamp that emits both 660nm (red) and 850nm (near-infrared) wavelengths. <a href="/best-red-light-therapy-panels/" class="text-primary hover:underline">See our panel recommendations</a>.</p>
                         </div>
                     </div>
                     
@@ -732,7 +732,7 @@ seoTitle: 'Red Light Therapy for Sleep (2026): Complete Science-Backed Guide'
                     <span class="text-gray-600">Canadian Company, Medical-Grade, 3-Year Warranty</span>
                 </div>
                 
-                <p class="mb-4">The <a href="https://synctherapylocal.local/rouge-red-light-therapy-reviews/" class="text-primary hover:underline"><strong>Rouge G4 Pro</strong></a> is my top recommendation for sleep optimization. It delivers medical-grade 660nm + 850nm wavelengths at therapeutic power levels—the exact combination proven in clinical studies to boost melatonin and improve sleep quality. As a Canadian company, you avoid import duties and get excellent support.</p>
+                <p class="mb-4">The <a href="/rouge-red-light-therapy-reviews/" class="text-primary hover:underline"><strong>Rouge G4 Pro</strong></a> is my top recommendation for sleep optimization. It delivers medical-grade 660nm + 850nm wavelengths at therapeutic power levels—the exact combination proven in clinical studies to boost melatonin and improve sleep quality. As a Canadian company, you avoid import duties and get excellent support.</p>
 
                 <div class="pros-cons-grid mb-6">
                     <div class="bg-green-50 p-4 rounded-lg">
@@ -837,7 +837,7 @@ seoTitle: 'Red Light Therapy for Sleep (2026): Complete Science-Backed Guide'
                     <span class="text-gray-600">Personal Favorite, Medical-Grade</span>
                 </div>
                 
-                <p class="mb-4">I personally own the <a href="https://synctherapylocal.local/mito-red-light-therapy-review/" class="text-primary hover:underline"><strong>Mito Pro X 750</strong></a> and it's become essential to my nightly routine. The quality is exceptional, and it delivers consistent therapeutic wavelengths. It's one of the <a href="https://synctherapylocal.local/best-red-light-therapy-panels/" class="text-primary hover:underline">best red light panels on the market</a>.</p>
+                <p class="mb-4">I personally own the <a href="/mito-red-light-therapy-review/" class="text-primary hover:underline"><strong>Mito Pro X 750</strong></a> and it's become essential to my nightly routine. The quality is exceptional, and it delivers consistent therapeutic wavelengths. It's one of the <a href="/best-red-light-therapy-panels/" class="text-primary hover:underline">best red light panels on the market</a>.</p>
 
                 <div class="text-center">
                     <a href="https://www.mitoredlight.com/DARYL87554" target="_blank" rel="nofollow sponsored" class="affiliate-button text-lg"><i class="fas fa-shopping-cart mr-2"></i>Get Mito Red Light Pro X</a>
@@ -856,7 +856,7 @@ seoTitle: 'Red Light Therapy for Sleep (2026): Complete Science-Backed Guide'
                     <span class="text-gray-600">5 Wavelengths, Maximum Coverage</span>
                 </div>
                 
-                <p class="mb-4">The <a href="https://synctherapylocal.local/platinum-led-therapy-lights-review/" class="text-primary hover:underline"><strong>PlatinumLED Biomax Series</strong></a> offers five different wavelengths (630nm, 660nm, 810nm, 830nm, 850nm) for comprehensive treatment. If you want the most advanced panel device with multiple wavelength options, this is it.</p>
+                <p class="mb-4">The <a href="/platinum-led-therapy-lights-review/" class="text-primary hover:underline"><strong>PlatinumLED Biomax Series</strong></a> offers five different wavelengths (630nm, 660nm, 810nm, 830nm, 850nm) for comprehensive treatment. If you want the most advanced panel device with multiple wavelength options, this is it.</p>
 
                 <div class="text-center">
                     <a href="https://snwbl.io/platinumled-therapy-lights/LJBBS6913" target="_blank" rel="nofollow sponsored" class="affiliate-button text-lg"><i class="fas fa-shopping-cart mr-2"></i>Get PlatinumLED Biomax</a>
@@ -875,7 +875,7 @@ seoTitle: 'Red Light Therapy for Sleep (2026): Complete Science-Backed Guide'
                     <span class="text-gray-600">Best Value in Canada</span>
                 </div>
                 
-                <p class="mb-4">The <a href="https://synctherapylocal.local/kala-red-light-therapy-review/" class="text-primary hover:underline"><strong>Kala Pro</strong></a> provides professional-grade red light therapy at a more accessible price point. It's a great entry point for Canadians who want to try red light therapy for sleep without a huge investment.</p>
+                <p class="mb-4">The <a href="/kala-red-light-therapy-review/" class="text-primary hover:underline"><strong>Kala Pro</strong></a> provides professional-grade red light therapy at a more accessible price point. It's a great entry point for Canadians who want to try red light therapy for sleep without a huge investment.</p>
 
                 <div class="text-center">
                     <a href="https://snwbl.io/kalatherapy/DARYL95230" target="_blank" rel="nofollow sponsored" class="affiliate-button text-lg"><i class="fas fa-shopping-cart mr-2"></i>Get the Kala Pro</a>
@@ -894,7 +894,7 @@ seoTitle: 'Red Light Therapy for Sleep (2026): Complete Science-Backed Guide'
                     <span class="text-gray-600">Health Canada Licensed</span>
                 </div>
                 
-                <p class="mb-4">The <a href="https://synctherapylocal.local/infraredi-reviews/" class="text-primary hover:underline"><strong>Infraredi Flex Series</strong></a> offers various sizes from targeted devices to full-body panels. You can start small with a device just for sleep and upgrade later. Their Health Canada license adds credibility.</p>
+                <p class="mb-4">The <a href="/infraredi-reviews/" class="text-primary hover:underline"><strong>Infraredi Flex Series</strong></a> offers various sizes from targeted devices to full-body panels. You can start small with a device just for sleep and upgrade later. Their Health Canada license adds credibility.</p>
 
                 <div class="text-center">
                     <a href="https://infraredi.com.au?sca_ref=5139909.hUut5gisEb" target="_blank" rel="nofollow sponsored" class="affiliate-button text-lg"><i class="fas fa-shopping-cart mr-2"></i>Shop Infraredi</a>

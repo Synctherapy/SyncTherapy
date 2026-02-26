@@ -161,7 +161,7 @@ seoTitle: 'Best SIBO Supplements 2026: Expert Protocol (Methane/Hydrogen)'
             <section id="key-takeaways" class="bg-blue-50 border-l-4 border-primary p-6 rounded-lg shadow-sm">
                 <h2 class="text-2xl font-bold mb-4 !border-none !pl-0 !mt-0"><i class="fas fa-star text-accent mr-2"></i>Key Takeaways: Best SIBO Supplements for 2025</h2>
                 <ul class="space-y-3 list-disc list-inside text-gray-800">
-                    <li><strong>Comprehensive Testing is Key:</strong> Before starting any protocol, get a <a data-wpil="url" href="https://synctherapylocal.local/gut-health-test/" class="font-semibold text-primary hover:underline">comprehensive gut microbiome test</a> (like the US Biotek Microbiome test) to identify the exact nature of your overgrowth (e.g., Methane vs. Hydrogen SIBO) for a targeted and effective treatment.</li>
+                    <li><strong>Comprehensive Testing is Key:</strong> Before starting any protocol, get a <a data-wpil="url" href="/gut-health-test/" class="font-semibold text-primary hover:underline">comprehensive gut microbiome test</a> (like the US Biotek Microbiome test) to identify the exact nature of your overgrowth (e.g., Methane vs. Hydrogen SIBO) for a targeted and effective treatment.</li>
                     <li><strong>Best Herbal Antimicrobial Protocol:</strong> The combination of <a href="#product1" class="font-semibold text-primary hover:underline">Candibactin-AR</a> and <a href="#product2" class="font-semibold text-primary hover:underline">Candibactin-BR</a> is our top pick. This is a clinically validated herbal protocol shown to be as effective as prescription antibiotics for reducing SIBO.</li>
                     <li><strong>Best Spore-Based Probiotic:</strong> <a href="#product3" class="font-semibold text-primary hover:underline">Just Thrive Probiotic</a> is the best choice for rebalancing gut flora without causing bloat, thanks to its resilient, non-colonizing spore-based strains.</li>
                     <li><strong>Best for FODMAP Intolerance:</strong> For those struggling with high-FODMAP foods, <a href="#product5" class="font-semibold text-primary hover:underline">FODMATE</a> provides targeted digestive enzymes to break down these fermentable carbs and reduce bloating and gas.</li>
@@ -195,7 +195,7 @@ seoTitle: 'Best SIBO Supplements 2026: Expert Protocol (Methane/Hydrogen)'
                                     <img src="/uploads/content/best-supplements-for-sibo.jpg" alt="Just Thrive Probiotic" class="rounded-lg">
                                     <p class="font-bold text-primary mt-2">Just Thrive Probiotic</p>
                                 </td>
-                                <td><p class="font-semibold"><a class="wpil_keyword_link" href="https://synctherapylocal.local/best-prebiotics-and-probiotics-supplements/"   title="Best Probiotic" data-wpil-keyword-link="linked"  data-wpil-monitor-id="7942">Best Probiotic</a></p></td>
+                                <td><p class="font-semibold"><a class="wpil_keyword_link" href="/best-prebiotics-and-probiotics-supplements/"   title="Best Probiotic" data-wpil-keyword-link="linked"  data-wpil-monitor-id="7942">Best Probiotic</a></p></td>
                                 <td><a href="https://justthrivehealth.com/SYNCTHERAPY" target="_blank" class="affiliate-button w-full">Get 15% Off</a></td>
                             </tr>
                             <tr>
@@ -255,7 +255,7 @@ seoTitle: 'Best SIBO Supplements 2026: Expert Protocol (Methane/Hydrogen)'
                         <i class="fas fa-book-open-reader text-primary text-2xl mt-1"></i>
                         <div>
                             <h4 class="font-semibold text-lg">Continuous Research</h4>
-                            <p class="text-gray-600">We constantly review the latest research on gut health and SIBO to ensure our recommendations remain current and effective. This enables us to provide the most accurate guidance tailored to individual needs. We emphasize the importance of incorporating a variety of <a href="https://synctherapylocal.local/9-nutrients-needed-for-gut-health-boost-your-digestive-wellness-today/">nutrients for digestive wellness</a>, which can significantly improve gut function and overall health. Our approach is to combine cutting-edge research with practical advice for managing SIBO and promoting a balanced microbiome.</p>
+                            <p class="text-gray-600">We constantly review the latest research on gut health and SIBO to ensure our recommendations remain current and effective. This enables us to provide the most accurate guidance tailored to individual needs. We emphasize the importance of incorporating a variety of <a href="/best-prebiotics-and-probiotics-supplements/">nutrients for digestive wellness</a>, which can significantly improve gut function and overall health. Our approach is to combine cutting-edge research with practical advice for managing SIBO and promoting a balanced microbiome.</p>
                         </div>
                     </div>
                 </div>
@@ -306,7 +306,7 @@ seoTitle: 'Best SIBO Supplements 2026: Expert Protocol (Methane/Hydrogen)'
                     <div class="grid md:grid-cols-2 gap-6">
                         <img src="/uploads/content/how-to-treat-sibo-naturaly-dr-axe.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Candibactin+BR';" alt="The Candibactin BR supplement bottle, often used with Candibactin AR for SIBO." class="rounded-lg shadow-sm w-full">
                         <div>
-                            <p class="mb-4">Candibactin-BR is the perfect partner to Candibactin-AR. Its formula is centered around berberine, a well-researched plant alkaloid with strong antimicrobial effects. Using both Candibactin-AR and BR together provides a powerful, synergistic, and clinically validated approach to eradicating SIBO and its related symptoms like <a href="https://synctherapylocal.local/best-supplements-for-constipation/" class="text-primary hover:underline font-semibold">constipation</a>.</p>
+                            <p class="mb-4">Candibactin-BR is the perfect partner to Candibactin-AR. Its formula is centered around berberine, a well-researched plant alkaloid with strong antimicrobial effects. Using both Candibactin-AR and BR together provides a powerful, synergistic, and clinically validated approach to eradicating SIBO and its related symptoms like <a href="/best-supplements-for-constipation/" class="text-primary hover:underline font-semibold">constipation</a>.</p>
                             <ul class="space-y-2 mb-4">
                                 <li><i class="fas fa-leaf text-primary mr-2"></i><strong>Berberine Power:</strong> Features high-potency berberine to target harmful bacteria.</li>
                                 <li><i class="fas fa-cogs text-primary mr-2"></i><strong>Synergistic Formula:</strong> Designed to work with Candibactin-AR for maximum effect.</li>
@@ -348,7 +348,7 @@ seoTitle: 'Best SIBO Supplements 2026: Expert Protocol (Methane/Hydrogen)'
                     <div class="grid md:grid-cols-2 gap-6">
                         <img src="/uploads/content/methane-sibo-supplements.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Megasporebiotic';" alt="The Megasporebiotic Probiotic bottle, a professional-grade supplement for SIBO." class="rounded-lg shadow-sm w-full">
                         <div>
-                            <p class="mb-4">Megasporebiotic is a powerful, practitioner-grade spore probiotic containing a unique blend of 5 Bacillus spores. It's renowned for its ability to regulate the gut microbiome, support the growth of beneficial bacteria, and reduce indicators of <a href="https://synctherapylocal.local/best-leaky-gut-supplements/" class="text-primary hover:underline font-semibold">leaky gut</a>. It's a fantastic, potent option, though often more expensive and harder to acquire than Just Thrive.</p>
+                            <p class="mb-4">Megasporebiotic is a powerful, practitioner-grade spore probiotic containing a unique blend of 5 Bacillus spores. It's renowned for its ability to regulate the gut microbiome, support the growth of beneficial bacteria, and reduce indicators of <a href="/best-leaky-gut-supplements/" class="text-primary hover:underline font-semibold">leaky gut</a>. It's a fantastic, potent option, though often more expensive and harder to acquire than Just Thrive.</p>
                             <ul class="space-y-2 mb-4">
                                 <li><i class="fas fa-bacterium text-primary mr-2"></i><strong>5-Strain Blend:</strong> Offers a diverse range of beneficial spore-forming bacteria.</li>
                                 <li><i class="fas fa-link text-primary mr-2"></i><strong>Leaky Gut Support:</strong> Clinically shown to help strengthen the gut barrier.</li>
@@ -411,7 +411,7 @@ seoTitle: 'Best SIBO Supplements 2026: Expert Protocol (Methane/Hydrogen)'
                     <div class="grid md:grid-cols-2 gap-6">
                         <img src="/uploads/content/sibo-treatment-antibiotics-What-herb-kills-SIBO.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Intolerase';" alt="The Intolerase supplement bottle, a carbohydrase formula for SIBO." class="rounded-lg shadow-sm w-full">
                         <div>
-                            <p class="mb-4">Intolerase is an ultra-potent enzyme formula that goes beyond FODMATE. It's designed to break down a wide range of fermentable carbohydrates, making it a powerful tool for those on a restrictive diet like low-FODMAP or a specific carbohydrate diet. By improving carbohydrate digestion with <a href="https://synctherapylocal.local/probiotics-vs-digestive-enzymes/" class="text-primary hover:underline font-semibold">digestive enzymes</a>, it reduces the fuel available for bacterial overgrowth.</p>
+                            <p class="mb-4">Intolerase is an ultra-potent enzyme formula that goes beyond FODMATE. It's designed to break down a wide range of fermentable carbohydrates, making it a powerful tool for those on a restrictive diet like low-FODMAP or a specific carbohydrate diet. By improving carbohydrate digestion with <a href="/probiotics-vs-digestive-enzymes/" class="text-primary hover:underline font-semibold">digestive enzymes</a>, it reduces the fuel available for bacterial overgrowth.</p>
                             <ul class="space-y-2 mb-4">
                                 <li><i class="fas fa-bread-slice text-primary mr-2"></i><strong>Potent Enzyme Blend:</strong> Includes alpha-galactosidase, lactase, amylase, and more.</li>
                                 <li><i class="fas fa-carrot text-primary mr-2"></i><strong>Supports Restrictive Diets:</strong> Helps improve compliance and reduce symptoms on low-carb diets.</li>
@@ -475,7 +475,7 @@ seoTitle: 'Best SIBO Supplements 2026: Expert Protocol (Methane/Hydrogen)'
                             <li>Abdominal pain or cramping</li>
                             <li>Diarrhea, constipation, or both</li>
                             <li>An uncomfortable feeling of fullness</li>
-                            <li><a href="https://synctherapylocal.local/best-probiotic-for-acid-reflux/" class="text-primary hover:underline font-semibold">Acid reflux</a> or heartburn</li>
+                            <li><a href="/best-probiotic-for-acid-reflux/" class="text-primary hover:underline font-semibold">Acid reflux</a> or heartburn</li>
                             <li>Nausea</li>
                             <li>Fatigue and brain fog<sup><a href="https://www.ncbi.nlm.nih.gov/pubmed/29915215" target="_blank" rel="noopener noreferrer" class="text-primary">[3]</a></sup></li>
                         </ul>

@@ -22,7 +22,7 @@ seoTitle: 'Leaky Gut Diet: Simple Steps to Heal Your Digestive System'
 <p>This condition is also called increased intestinal permeability. It's not a official medical diagnosis, but many doctors recognize its effects. The gut lining becomes like a sieve, letting toxins and bacteria through.</p>
 <h3>Symptoms and Common Issues</h3>
 <p>Leaky gut can cause many symptoms. People often feel bloating, gas, and stomach pain. Some have diarrhea or constipation. Others notice skin problems or headaches.</p>
-<p>Many <a data-wpil="url" href="https://synctherapylocal.local/gut-health-test/">experience fatigue</a> and brain fog. Joint pain is another common issue. Food sensitivities may develop or worsen. Some people get frequent infections.</p>
+<p>Many <a data-wpil="url" href="/gut-health-test/">experience fatigue</a> and brain fog. Joint pain is another common issue. Food sensitivities may develop or worsen. Some people get frequent infections.</p>
 <p>Leaky gut might play a role in other conditions too. These include:</p>
 <ul>
 <li>Celiac disease</li>
@@ -44,7 +44,7 @@ seoTitle: 'Leaky Gut Diet: Simple Steps to Heal Your Digestive System'
 <p>Diet plays a big role in keeping our gut healthy. What we eat affects our gut bacteria and how well our intestines work.</p>
 <h3>How Diet Affects the Gut</h3>
 <p>The foods we eat can change our gut in good or bad ways. A diet high in fats and low in fiber can harm gut health. This type of eating can make the gut leaky, letting bad stuff pass through.</p>
-<p>Eating lots of fruits and veggies helps good gut bacteria grow. These foods have fiber that feeds helpful microbes. A <a wpil="url" href="https://synctherapylocal.local/best-prebiotics-and-probiotics-supplements/">diet rich in probiotics</a> may also boost gut health.</p>
+<p>Eating lots of fruits and veggies helps good gut bacteria grow. These foods have fiber that feeds helpful microbes. A <a wpil="url" href="/best-prebiotics-and-probiotics-supplements/">diet rich in probiotics</a> may also boost gut health.</p>
 <p>Some foods can cause swelling in the gut. Cutting back on sugar, alcohol, and processed foods may help reduce this.</p>
 <h3>Foods That Promote a Healthy Gut Microbiome</h3>
 <p>Certain foods are great for gut health. Here are some top picks:</p>
@@ -74,7 +74,7 @@ seoTitle: 'Leaky Gut Diet: Simple Steps to Heal Your Digestive System'
 <p>Excessive caffeine intake may also be detrimental. Moderate consumption is usually fine, but too much can increase gut permeability.</p>
 <h3>Creating a Balanced Meal Plan</h3>
 <p>A balanced leaky gut meal plan should include a variety of nutrient-dense foods. Aim for colorful plates with plenty of vegetables.</p>
-<p>Start your day with a <a wpil="url" href="https://synctherapylocal.local/gut-health-recipes/">gut-friendly breakfast</a> like a smoothie bowl with berries, spinach, and chia seeds.</p>
+<p>Start your day with a <a wpil="url" href="/prunes-vs-dates-for-constipation-relief/">gut-friendly breakfast</a> like a smoothie bowl with berries, spinach, and chia seeds.</p>
 <p>For lunch, try a salad with mixed greens, grilled chicken, avocado, and pumpkin seeds. Dress it with olive oil and lemon juice.</p>
 <p>Dinner could be baked salmon with roasted vegetables and quinoa. Add a side of sauerkraut for extra probiotics.</p>
 <p>Snack on fresh fruits, vegetable sticks with hummus, or a handful of mixed nuts. Stay hydrated with water and herbal teas throughout the day.</p>
@@ -135,10 +135,10 @@ seoTitle: 'Leaky Gut Diet: Simple Steps to Heal Your Digestive System'
 <p>Adding certain supplements to your diet can help support gut health and reduce leaky gut symptoms. These additions work alongside dietary changes to promote healing and balance.</p>
 <h3>Probiotics and Prebiotics</h3>
 <p>Probiotics are beneficial bacteria that support gut health. They can help balance the gut microbiome and reduce inflammation. Look for supplements with diverse strains of Lactobacillus and Bifidobacterium.</p>
-<p>Prebiotics are fibers that feed good gut bacteria. They include foods like garlic, onions, and asparagus. Combining probiotics with prebiotics can <a wpil="url" href="https://synctherapylocal.local/do-probiotics-make-you-poop/">boost their effectiveness</a>.</p>
+<p>Prebiotics are fibers that feed good gut bacteria. They include foods like garlic, onions, and asparagus. Combining probiotics with prebiotics can <a wpil="url" href="/do-probiotics-make-you-poop/">boost their effectiveness</a>.</p>
 <p>Some people notice changes in bowel movements when starting probiotics. This is often a sign that the gut bacteria are rebalancing.</p>
 <h3>Vitamins and Minerals</h3>
-<p>Certain vitamins and minerals play key roles in gut health. Vitamin D is crucial for maintaining the gut barrier. Many people are deficient in vitamin D, so supplementation may be helpful. Other essential <a href="https://synctherapylocal.local/9-nutrients-needed-for-gut-health-boost-your-digestive-wellness-today/">nutrients for digestive wellness</a> include probiotics, which promote a healthy balance of gut bacteria, and zinc, which aids in the repair of the gut lining. Additionally, dietary fiber from fruits, vegetables, and whole grains is vital for supporting regular bowel movements and overall digestive health. Ensuring a well-rounded intake of these nutrients can lead to improved gut function and a better overall sense of well-being.</p>
+<p>Certain vitamins and minerals play key roles in gut health. Vitamin D is crucial for maintaining the gut barrier. Many people are deficient in vitamin D, so supplementation may be helpful. Other essential <a href="/best-prebiotics-and-probiotics-supplements/">nutrients for digestive wellness</a> include probiotics, which promote a healthy balance of gut bacteria, and zinc, which aids in the repair of the gut lining. Additionally, dietary fiber from fruits, vegetables, and whole grains is vital for supporting regular bowel movements and overall digestive health. Ensuring a well-rounded intake of these nutrients can lead to improved gut function and a better overall sense of well-being.</p>
 <p>Zinc is another important mineral for gut health. It can help tighten the connections between intestinal cells, reducing leakiness.</p>
 <p>Other helpful supplements include:</p>
 <ul>

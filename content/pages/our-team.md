@@ -705,7 +705,7 @@ seoTitle: Our Team
             <div class="breadcrumb-nav">
                 Home
                 <span>/</span>
-                <a href="https://synctherapylocal.local/about/">About</a>
+                <a href="/about/">About</a>
                 <span>/</span>
                 <span class="breadcrumb-current">Our Team</span>
             </div>
@@ -871,7 +871,7 @@ seoTitle: Our Team
                             </div>
 
                             <div class="team-cta">
-                                <a href="https://synctherapylocal.local/our-team/rmt-daryl-stubbs/" class="btn btn-primary">
+                                <a href="/our-team/rmt-daryl-stubbs/" class="btn btn-primary">
                                     View Full Profile
                                     <i class="fas fa-arrow-right btn-icon"></i>
                                 </a>
@@ -940,7 +940,7 @@ seoTitle: Our Team
                             </div>
 
                             <div class="team-cta">
-                                <a href="https://synctherapylocal.local/our-team/daryl-stubbs/" class="btn btn-primary">
+                                <a href="/our-team/daryl-stubbs/" class="btn btn-primary">
                                     View Full Profile
                                     <i class="fas fa-arrow-right btn-icon"></i>
                                 </a>
@@ -961,37 +961,37 @@ seoTitle: Our Team
             </div>
 
             <div class="services-grid">
-                <a href="https://synctherapylocal.local/services/massage-therapy/" class="service-card">
+                <a href="/services/massage-therapy/" class="service-card">
                     <div class="service-icon">💆‍♂️</div>
                     <h3 class="service-title">Massage Therapy</h3>
                     <p class="service-description">Therapeutic massage treatments</p>
                 </a>
                 
-                <a href="https://synctherapylocal.local/services/athletic-therapy/" class="service-card">
+                <a href="/services/athletic-therapy/" class="service-card">
                     <div class="service-icon">🏃‍♂️</div>
                     <h3 class="service-title">Athletic Therapy</h3>
                     <p class="service-description">Sports injury rehabilitation</p>
                 </a>
                 
-                <a href="https://synctherapylocal.local/services/sports-massage/" class="service-card">
+                <a href="/services/sports-massage/" class="service-card">
                     <div class="service-icon">⚽</div>
                     <h3 class="service-title">Sports Massage</h3>
                     <p class="service-description">Performance-focused treatments</p>
                 </a>
                 
-                <a href="https://synctherapylocal.local/services/deep-tissue-massage/" class="service-card">
+                <a href="/services/deep-tissue-massage/" class="service-card">
                     <div class="service-icon">💪</div>
                     <h3 class="service-title">Deep Tissue Massage</h3>
                     <p class="service-description">Intensive muscle therapy</p>
                 </a>
                 
-                <a href="https://synctherapylocal.local/conditions/headaches-and-neck-pain/" class="service-card">
+                <a href="/conditions/headaches-and-neck-pain/" class="service-card">
                     <div class="service-icon">🧠</div>
                     <h3 class="service-title">Headaches & Neck Pain</h3>
                     <p class="service-description">Specialized headache and neck pain relief</p>
                 </a>
                 
-                <a href="https://synctherapylocal.local/services/visceral-manipulation/" class="service-card">
+                <a href="/services/visceral-manipulation/" class="service-card">
                     <div class="service-icon">🫁</div>
                     <h3 class="service-title">Visceral Manipulation</h3>
                     <p class="service-description">Internal organ mobility therapy</p>
@@ -1011,7 +1011,7 @@ seoTitle: Our Team
                     <i class="fas fa-calendar" style="margin-right: 0.5rem;"></i>
                     Book Your Appointment
                 </a>
-                <a href="https://synctherapylocal.local/contact/" class="btn btn-white">
+                <a href="/contact/" class="btn btn-white">
                     <i class="fas fa-phone" style="margin-right: 0.5rem;"></i>
                     Contact Our Team
                 </a>
@@ -1036,24 +1036,24 @@ seoTitle: Our Team
             <div class="footer-grid">
                 <div class="footer-column">
                     <h3>Learn More About Us</h3>
-                    <a href="https://synctherapylocal.local/about/">About Sync Therapy</a>
-                    <a data-wpil="url" href="https://synctherapylocal.local/about/">Why Choose Us</a>
+                    <a href="/about/">About Sync Therapy</a>
+                    <a data-wpil="url" href="/about/">Why Choose Us</a>
                 </div>
                 <div class="footer-column">
                     <h3>Our Services</h3>
-                    <a data-wpil="url" href="https://synctherapylocal.local/services/">All Services</a>
-                    <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" href="https://synctherapylocal.local/direct-billing/">Direct Billing</a>
+                    <a data-wpil="url" href="/services/">All Services</a>
+                    <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" href="/direct-billing/">Direct Billing</a>
                 </div>
                 <div class="footer-column">
                     <h3>Conditions We Treat</h3>
-                    <a data-wpil="url" href="https://synctherapylocal.local/conditions/back-pain-victoria/">Back Pain</a>
-                    <a href="https://synctherapylocal.local/conditions/sports-injuries-and-prevention/">Sports Injuries</a>
+                    <a data-wpil="url" href="/conditions/back-pain-victoria/">Back Pain</a>
+                    <a href="/conditions/sports-injuries-and-prevention/">Sports Injuries</a>
                 </div>
                 <div class="footer-column">
                     <h3>Locations</h3>
-                    <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LXZpY3RvcmlhLw==" href="https://synctherapylocal.local/services/massage-therapy-victoria/">Victoria</a>
-                    <a data-wpil="url" href="https://synctherapylocal.local/services/massage-therapy/">Colwood</a>
-                    <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LWxhbmdmb3JkLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LWxhbmdmb3JkLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LWxhbmdmb3JkLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LWxhbmdmb3JkLw==" href="https://synctherapylocal.local/services/massage-therapy/">Langford</a>
+                    <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LXZpY3RvcmlhLw==" href="/services/massage-therapy/">Victoria</a>
+                    <a data-wpil="url" href="/services/massage-therapy/">Colwood</a>
+                    <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LWxhbmdmb3JkLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LWxhbmdmb3JkLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LWxhbmdmb3JkLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LWxhbmdmb3JkLw==" href="/services/massage-therapy/">Langford</a>
                 </div>
             </div>
         </div>

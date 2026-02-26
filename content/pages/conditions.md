@@ -263,7 +263,7 @@ seoTitle: Conditions
                                 </div>
                             </div>
 
-                            <a href="https://synctherapylocal.local/conditions/headaches-and-neck-pain/" class="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded transition-all duration-300 inline-flex items-center justify-center">
+                            <a href="/conditions/headaches-and-neck-pain/" class="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded transition-all duration-300 inline-flex items-center justify-center">
                                 Learn More
                                 <i class="fas fa-arrow-right ml-2"></i>
                             </a>
@@ -350,7 +350,7 @@ seoTitle: Conditions
                                 </div>
                             </div>
 
-                            <a href="https://synctherapylocal.local/conditions/hip-and-knee-pain/" class="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded transition-all duration-300 inline-flex items-center justify-center">
+                            <a href="/conditions/hip-and-knee-pain/" class="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded transition-all duration-300 inline-flex items-center justify-center">
                                 Learn More
                                 <i class="fas fa-arrow-right ml-2"></i>
                             </a>
@@ -393,7 +393,7 @@ seoTitle: Conditions
                                 </div>
                             </div>
 
-                            <a href="https://synctherapylocal.local/conditions/shoulder-pain-victoria-bc/" class="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded transition-all duration-300 inline-flex items-center justify-center">
+                            <a href="/conditions/shoulder-pain-victoria-bc/" class="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded transition-all duration-300 inline-flex items-center justify-center">
                                 Learn More
                                 <i class="fas fa-arrow-right ml-2"></i>
                             </a>
@@ -436,7 +436,7 @@ seoTitle: Conditions
                                 </div>
                             </div>
 
-                            <a href="https://synctherapylocal.local/services/swedish-massage/" class="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded transition-all duration-300 inline-flex items-center justify-center">
+                            <a href="/services/massage-therapy/" class="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded transition-all duration-300 inline-flex items-center justify-center">
                                 Learn More
                                 <i class="fas fa-arrow-right ml-2"></i>
                             </a>
@@ -466,7 +466,7 @@ seoTitle: Conditions
                     <h2 class="text-3xl font-bold text-gray-900 mb-4">Find Your Condition</h2>
                     <p class="text-lg text-gray-600">
                         Search through our comprehensive list of treatable conditions or browse by category.
-                     In addition to understanding various treatable conditions, we also provide valuable resources to enhance your overall well-being. Explore our insightful articles and expert advice, including <a href="https://synctherapylocal.local/conditions/sports-injuries-and-prevention/">sports injury prevention tips</a> to help you stay safe while engaging in physical activities. Our aim is to empower you with knowledge to maintain your health and prevent potential setbacks.</p>
+                     In addition to understanding various treatable conditions, we also provide valuable resources to enhance your overall well-being. Explore our insightful articles and expert advice, including <a href="/conditions/sports-injuries-and-prevention/">sports injury prevention tips</a> to help you stay safe while engaging in physical activities. Our aim is to empower you with knowledge to maintain your health and prevent potential setbacks.</p>
                 </div>
 
                 <!-- Search Bar -->
@@ -1008,7 +1008,7 @@ seoTitle: Conditions
                                 </div>
                             </div>
 
-                            <a href="https://synctherapylocal.local/conditions/%7Bcondition.url" class="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded transition-all duration-300 inline-flex items-center justify-center">
+                            <a href="/conditions/%7Bcondition.url" class="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded transition-all duration-300 inline-flex items-center justify-center">
                                 Learn More
                                 <i class="fas fa-arrow-right ml-2"></i>
                             </a>

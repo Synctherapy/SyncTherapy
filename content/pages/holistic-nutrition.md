@@ -19,7 +19,7 @@ With a passion for helping people reach optimal health and wellness, we can prov
 
 As knowledgeable practitioners in nutrition science, we have the knowledge and resources to develop programs that are specific to each individual's needs.
 
-We've personally used <a class="wpil_keyword_link" href="https://synctherapylocal.local/viome-review/"   title="Viome" data-wpil-keyword-link="linked"  data-wpil-monitor-id="7998">Viome</a> and love how easy it is to useBenefits of Holistic NutritionHolistic Nutritionist Victoria BC services are essential for those seeking guidance in their nutrition journey. Through nutrition counselling, clients can receive the necessary advice and assistance from a professional who is knowledgeable and experienced in the field of holistic nutrition.
+We've personally used <a class="wpil_keyword_link" href="/viome-review/"   title="Viome" data-wpil-keyword-link="linked"  data-wpil-monitor-id="7998">Viome</a> and love how easy it is to useBenefits of Holistic NutritionHolistic Nutritionist Victoria BC services are essential for those seeking guidance in their nutrition journey. Through nutrition counselling, clients can receive the necessary advice and assistance from a professional who is knowledgeable and experienced in the field of holistic nutrition.
 
 In addition to providing quality advice, holistic nutritionists also offer personalized nutrition plans that are tailored to each individual's needs. These plans provide comprehensive dietary recommendations that can help improve one's overall health and well-being.
 
@@ -99,7 +99,7 @@ Holistic nutritionist may provide some of the same services as registered dietic
 
 The holistic approach encompasses not only food choices but also lifestyle changes such as stress management and physical activity that together can bring about better overall health. Holistic nutritionists are dedicated to helping individuals find balance in their lives and work towards achieving their ultimate goals for improved health
 
-Meet Our Holistic NutritionistDaryl graduated from the Camosun College, obtaining his Bachelor of Athletic and Exercise Therapy Degree in 2013 and is a part of the Canadian Athletic Therapist Association and the Athletic Therapists Association of British Columbia Daryl is passionate about integrating traditional nutrition with physical therapy to promote overall wellness. He offers specialized <a href="https://synctherapylocal.local/services/athletic-therapy/">athletic therapy services in Victoria</a>, helping clients recover from injuries while enhancing their performance. With a commitment to personalized care, Daryl tailors his programs to meet the unique needs of each individual.
+Meet Our Holistic NutritionistDaryl graduated from the Camosun College, obtaining his Bachelor of Athletic and Exercise Therapy Degree in 2013 and is a part of the Canadian Athletic Therapist Association and the Athletic Therapists Association of British Columbia Daryl is passionate about integrating traditional nutrition with physical therapy to promote overall wellness. He offers specialized <a href="/services/athletic-therapy/">athletic therapy services in Victoria</a>, helping clients recover from injuries while enhancing their performance. With a commitment to personalized care, Daryl tailors his programs to meet the unique needs of each individual.
 
 In 2017, he became a Registered Massage Therapist and is a part of the College of Registered Massage Therapists
 

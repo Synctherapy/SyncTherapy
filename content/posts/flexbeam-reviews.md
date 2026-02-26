@@ -300,7 +300,7 @@ seoTitle: 'FlexBeam Review 2026: Recharge Health Red Light Therapy Device'
                 </div>
             </div>
             <div class="bg-white p-4 rounded-lg border border-blue-200">
-                <p class="text-sm"><strong>Bottom Line:</strong> The <strong>FlexBeam</strong> is one of the most powerful portable <strong><a class="wpil_keyword_link" href="https://synctherapylocal.local/at-home-red-light-therapy/"   title="red light therapy devices" data-wpil-keyword-link="linked"  data-wpil-monitor-id="7995">red light therapy devices</a></strong> I've come across. <strong>Is FlexBeam worth it?</strong> For clients committed to consistent home therapy for <strong>back pain</strong>, <strong>knee pain</strong>, or <strong>neck pain</strong>, I believe it is.</p>
+                <p class="text-sm"><strong>Bottom Line:</strong> The <strong>FlexBeam</strong> is one of the most powerful portable <strong><a class="wpil_keyword_link" href="/at-home-red-light-therapy/"   title="red light therapy devices" data-wpil-keyword-link="linked"  data-wpil-monitor-id="7995">red light therapy devices</a></strong> I've come across. <strong>Is FlexBeam worth it?</strong> For clients committed to consistent home therapy for <strong>back pain</strong>, <strong>knee pain</strong>, or <strong>neck pain</strong>, I believe it is.</p>
             </div>
         </section>
 
@@ -365,7 +365,7 @@ seoTitle: 'FlexBeam Review 2026: Recharge Health Red Light Therapy Device'
         <!-- What Is FlexBeam -->
         <section id="what-is-flexbeam">
             <h2><i class="fas fa-info-circle text-accent mr-2"></i>What Is FlexBeam?</h2>
-            <p class="mb-4">The <strong>FlexBeam</strong> is a wearable, portable <strong>red light therapy device</strong> manufactured by <strong>Recharge Health</strong>, a company founded in 2018 and headquartered in Norway. Unlike large <a href="https://synctherapylocal.local/best-red-light-therapy-panels/" class="text-primary hover:underline font-semibold">red light therapy panels</a> that require you to stand in front of them, the <strong>FlexBeam red light therapy device</strong> wraps around your body using velcro straps, allowing targeted treatment of specific problem areas.</p>
+            <p class="mb-4">The <strong>FlexBeam</strong> is a wearable, portable <strong>red light therapy device</strong> manufactured by <strong>Recharge Health</strong>, a company founded in 2018 and headquartered in Norway. Unlike large <a href="/best-red-light-therapy-panels/" class="text-primary hover:underline font-semibold">red light therapy panels</a> that require you to stand in front of them, the <strong>FlexBeam red light therapy device</strong> wraps around your body using velcro straps, allowing targeted treatment of specific problem areas.</p>
             
             <div class="grid md:grid-cols-2 gap-6 mb-6">
                 <div>
@@ -432,7 +432,7 @@ seoTitle: 'FlexBeam Review 2026: Recharge Health Red Light Therapy Device'
                 <p class="text-xs text-gray-500 mt-1">— European Journal of Physical and Rehabilitation Medicine, 2023</p>
             </div>
 
-            <p class="text-sm text-gray-600">For more on the science, see my guide on <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline font-semibold">photobiomodulation explained</a>.</p>
+            <p class="text-sm text-gray-600">For more on the science, see my guide on <a href="/red-light-therapy/" class="text-primary hover:underline font-semibold">photobiomodulation explained</a>.</p>
         </section>
 
         <!-- FlexBeam Specifications -->
@@ -553,7 +553,7 @@ seoTitle: 'FlexBeam Review 2026: Recharge Health Red Light Therapy Device'
                 </div>
             </div>
 
-            <p class="text-sm text-gray-600">For more information, see my comprehensive guide on <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" href="https://synctherapylocal.local/red-light-therapy-back-pain/" class="text-primary hover:underline font-semibold">red light therapy for back pain</a>.</p>
+            <p class="text-sm text-gray-600">For more information, see my comprehensive guide on <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" href="/red-light-therapy-back-pain/" class="text-primary hover:underline font-semibold">red light therapy for back pain</a>.</p>
         </section>
 
         <!-- FlexBeam for Knee Pain -->
@@ -589,7 +589,7 @@ seoTitle: 'FlexBeam Review 2026: Recharge Health Red Light Therapy Device'
                 <p class="text-xs text-gray-500 mt-1">— Meta-analysis, <a href="https://pubmed.ncbi.nlm.nih.gov/10955339/" target="_blank" rel="nofollow" class="study-link">PubMed</a></p>
             </div>
 
-            <p class="text-sm text-gray-600">Learn more about <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" href="https://synctherapylocal.local/red-light-therapy-for-arthritis/" class="text-primary hover:underline font-semibold">red light therapy for arthritis</a>.</p>
+            <p class="text-sm text-gray-600">Learn more about <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" href="/red-light-therapy-for-arthritis/" class="text-primary hover:underline font-semibold">red light therapy for arthritis</a>.</p>
         </section>
 
         <!-- FlexBeam for Neck Pain -->
@@ -622,7 +622,7 @@ seoTitle: 'FlexBeam Review 2026: Recharge Health Red Light Therapy Device'
                 </div>
             </div>
 
-            <p class="text-sm text-gray-600">For more on inflammation management, see <a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline font-semibold">red light therapy for inflammation</a>.</p>
+            <p class="text-sm text-gray-600">For more on inflammation management, see <a href="/red-light-therapy/" class="text-primary hover:underline font-semibold">red light therapy for inflammation</a>.</p>
         </section>
 
         <!-- FlexBeam vs Kineon -->
@@ -833,7 +833,7 @@ seoTitle: 'FlexBeam Review 2026: Recharge Health Red Light Therapy Device'
 
                 <details class="bg-white p-6 rounded-lg shadow-sm group">
                     <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">Does FlexBeam work for back pain?<i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i></summary>
-                    <p class="mt-4 text-gray-700">Based on clinical research supporting photobiomodulation for low back pain, <strong>FlexBeam can be effective for back pain</strong>. A study in <em>Lasers in Medical Science</em> found laser photobiomodulation more effective than ultrasound for chronic low back pain (<a href="https://pubmed.ncbi.nlm.nih.gov/30334124/" target="_blank" rel="nofollow" class="study-link">source</a>). Additionally, FlexBeam has been shown to enhance recovery times and reduce inflammation, making it a versatile option for those suffering from various types of pain. For individuals dealing with knee discomfort, exploring the <a href="https://synctherapylocal.local/red-light-therapy-knee-pain/">best red light therapy devices for knee pain</a> can further support overall joint health and mobility. By incorporating multiple therapies, patients can achieve more comprehensive relief and improved quality of life.</p>
+                    <p class="mt-4 text-gray-700">Based on clinical research supporting photobiomodulation for low back pain, <strong>FlexBeam can be effective for back pain</strong>. A study in <em>Lasers in Medical Science</em> found laser photobiomodulation more effective than ultrasound for chronic low back pain (<a href="https://pubmed.ncbi.nlm.nih.gov/30334124/" target="_blank" rel="nofollow" class="study-link">source</a>). Additionally, FlexBeam has been shown to enhance recovery times and reduce inflammation, making it a versatile option for those suffering from various types of pain. For individuals dealing with knee discomfort, exploring the <a href="/red-light-therapy-knee-pain/">best red light therapy devices for knee pain</a> can further support overall joint health and mobility. By incorporating multiple therapies, patients can achieve more comprehensive relief and improved quality of life.</p>
                 </details>
 
                 <details class="bg-white p-6 rounded-lg shadow-sm group">
@@ -863,16 +863,16 @@ seoTitle: 'FlexBeam Review 2026: Recharge Health Red Light Therapy Device'
             <h2 class="!mt-0"><i class="fas fa-link text-accent mr-2"></i>Related Red Light Therapy Guides</h2>
             <div class="grid md:grid-cols-2 gap-4 mt-4">
                 <ul class="space-y-2 text-sm">
-                    <li><a href="https://synctherapylocal.local/best-red-light-therapy-panels/" class="text-primary hover:underline font-semibold">→ Best Red Light Therapy Panels</a></li>
-                    <li><a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" href="https://synctherapylocal.local/red-light-therapy-back-pain/" class="text-primary hover:underline font-semibold">→ Red Light Therapy for Back Pain</a></li>
-                    <li><a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" href="https://synctherapylocal.local/red-light-therapy-for-arthritis/" class="text-primary hover:underline font-semibold">→ Red Light Therapy for Arthritis</a></li>
-                    <li><a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline font-semibold">→ Photobiomodulation Explained</a></li>
+                    <li><a href="/best-red-light-therapy-panels/" class="text-primary hover:underline font-semibold">→ Best Red Light Therapy Panels</a></li>
+                    <li><a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" href="/red-light-therapy-back-pain/" class="text-primary hover:underline font-semibold">→ Red Light Therapy for Back Pain</a></li>
+                    <li><a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" href="/red-light-therapy-for-arthritis/" class="text-primary hover:underline font-semibold">→ Red Light Therapy for Arthritis</a></li>
+                    <li><a href="/red-light-therapy/" class="text-primary hover:underline font-semibold">→ Photobiomodulation Explained</a></li>
                 </ul>
                 <ul class="space-y-2 text-sm">
-                    <li><a href="https://synctherapylocal.local/mito-red-light-therapy-review/" class="text-primary hover:underline font-semibold">→ Mito Red Light Review</a></li>
-                    <li><a href="https://synctherapylocal.local/platinum-led-therapy-lights-review/" class="text-primary hover:underline font-semibold">→ Platinum LED Review</a></li>
-                    <li><a href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline font-semibold">→ Red Light Therapy for Inflammation</a></li>
-                    <li><a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" href="https://synctherapylocal.local/red-light-therapy/" class="text-primary hover:underline font-semibold">→ Complete Red Light Therapy Guide</a></li>
+                    <li><a href="/mito-red-light-therapy-review/" class="text-primary hover:underline font-semibold">→ Mito Red Light Review</a></li>
+                    <li><a href="/platinum-led-therapy-lights-review/" class="text-primary hover:underline font-semibold">→ Platinum LED Review</a></li>
+                    <li><a href="/red-light-therapy/" class="text-primary hover:underline font-semibold">→ Red Light Therapy for Inflammation</a></li>
+                    <li><a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" href="/red-light-therapy/" class="text-primary hover:underline font-semibold">→ Complete Red Light Therapy Guide</a></li>
                 </ul>
             </div>
         </section>

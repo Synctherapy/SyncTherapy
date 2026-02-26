@@ -404,7 +404,7 @@ The full article will include all product reviews, buying guide, comparisons, an
 
                         <div class="mt-6 space-y-3">
                             <a href="https://shareasale.com/r.cfm?b=1928873&u=1976584&m=113313&urllink=&afftrack=" target="_blank" rel="noopener" class="affiliate-button w-full block text-center">Get Best Price on AquaTru Classic ($449) →</a>
-                            <p class="text-xs text-center text-gray-500">See our complete <a href="https://synctherapylocal.local/best-reverse-osmosis-ro-water-filter/" class="text-primary hover:underline">reverse osmosis systems guide</a> | <a href="https://synctherapylocal.local/best-undersink-reverse-osmosis-system/" class="text-primary hover:underline">Compare with under-sink RO systems</a></p>
+                            <p class="text-xs text-center text-gray-500">See our complete <a href="/best-reverse-osmosis-ro-water-filter/" class="text-primary hover:underline">reverse osmosis systems guide</a> | <a href="/best-undersink-reverse-osmosis-system/" class="text-primary hover:underline">Compare with under-sink RO systems</a></p>
                         </div>
                     </div>
                 </div>
@@ -936,7 +936,7 @@ The full article will include all product reviews, buying guide, comparisons, an
                 <div class="grid md:grid-cols-2 gap-6 mb-8">
                     <div class="bg-green-50 p-5 rounded-lg border-l-4 border-green-500">
                         <h3 class="!mt-0 !mb-3">✓ No Installation Required</h3>
-                        <p class="text-gray-700">Unlike <a href="https://synctherapylocal.local/best-undersink-reverse-osmosis-system/" class="text-primary hover:underline">under-sink reverse osmosis systems</a>, countertop models require zero installation. No drilling holes, no plumbing modifications, no tools needed. Just fill the reservoir, plug it in, and start filtering. Perfect for renters who can't modify their apartments.</p>
+                        <p class="text-gray-700">Unlike <a href="/best-undersink-reverse-osmosis-system/" class="text-primary hover:underline">under-sink reverse osmosis systems</a>, countertop models require zero installation. No drilling holes, no plumbing modifications, no tools needed. Just fill the reservoir, plug it in, and start filtering. Perfect for renters who can't modify their apartments.</p>
                     </div>
 
                     <div class="bg-blue-50 p-5 rounded-lg border-l-4 border-blue-500">
@@ -1574,22 +1574,22 @@ The full article will include all product reviews, buying guide, comparisons, an
                 <p class="mb-6 text-gray-700">Continue your water filtration journey with these comprehensive guides:</p>
                 
                 <div class="grid md:grid-cols-2 gap-4">
-                    <a href="https://synctherapylocal.local/best-reverse-osmosis-ro-water-filter/" class="bg-white p-4 rounded-lg shadow hover:shadow-md transition-shadow border-l-4 border-primary">
+                    <a href="/best-reverse-osmosis-ro-water-filter/" class="bg-white p-4 rounded-lg shadow hover:shadow-md transition-shadow border-l-4 border-primary">
                         <h3 class="!mt-0 !mb-2 text-lg">Complete Reverse Osmosis Systems Guide</h3>
                         <p class="text-sm text-gray-600">Everything you need to know about RO filtration technology and choosing the right system</p>
                     </a>
 
-                    <a href="https://synctherapylocal.local/best-undersink-reverse-osmosis-system/" class="bg-white p-4 rounded-lg shadow hover:shadow-md transition-shadow border-l-4 border-primary">
+                    <a href="/best-undersink-reverse-osmosis-system/" class="bg-white p-4 rounded-lg shadow hover:shadow-md transition-shadow border-l-4 border-primary">
                         <h3 class="!mt-0 !mb-2 text-lg">Best Under-Sink RO Systems</h3>
                         <p class="text-sm text-gray-600">Compare countertop vs under-sink options for permanent home installations</p>
                     </a>
 
-                    <a href="https://synctherapylocal.local/best-whole-house-water-filter/" class="bg-white p-4 rounded-lg shadow hover:shadow-md transition-shadow border-l-4 border-primary">
+                    <a href="/best-whole-house-water-filter/" class="bg-white p-4 rounded-lg shadow hover:shadow-md transition-shadow border-l-4 border-primary">
                         <h3 class="!mt-0 !mb-2 text-lg">Best Whole House Water Filters</h3>
                         <p class="text-sm text-gray-600">Protect your entire home's water supply with whole-house filtration systems</p>
                     </a>
 
-                    <a href="https://synctherapylocal.local/best-tankless-reverse-osmosis-system/" class="bg-white p-4 rounded-lg shadow hover:shadow-md transition-shadow border-l-4 border-primary">
+                    <a href="/best-tankless-reverse-osmosis-system/" class="bg-white p-4 rounded-lg shadow hover:shadow-md transition-shadow border-l-4 border-primary">
                         <h3 class="!mt-0 !mb-2 text-lg">Best Tankless RO Systems</h3>
                         <p class="text-sm text-gray-600">Explore tankless reverse osmosis technology for on-demand filtration</p>
                     </a>

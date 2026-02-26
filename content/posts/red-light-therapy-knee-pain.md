@@ -558,7 +558,7 @@ seoTitle: 'Best Red Light Therapy for Knee Pain in 2026: Top Devices To Help'
                     <p class="text-sm text-gray-500 text-center mt-2">The Infraredi Joint Wrap - Best red light therapy knee wrap for targeted treatment</p>
                 </div>
                 
-                <p class="mb-4">The <strong>Infraredi Joint Wrap</strong> is my top recommendation for anyone seeking the <strong><a href="https://synctherapylocal.local/infraredi-reviews/">best red light therapy for knee</a></strong> pain. It delivers exactly what clinical research shows works: dual-wavelength therapy in a convenient wrap that treats your entire knee joint.</p>
+                <p class="mb-4">The <strong>Infraredi Joint Wrap</strong> is my top recommendation for anyone seeking the <strong><a href="/infraredi-reviews/">best red light therapy for knee</a></strong> pain. It delivers exactly what clinical research shows works: dual-wavelength therapy in a convenient wrap that treats your entire knee joint.</p>
                 
                 <p class="mb-4">What sets it apart from panels and handheld devices? The wrap-around design means you can treat the front, sides, and back of your knee simultaneously—critical for conditions like osteoarthritis where inflammation affects the entire joint capsule.</p>
 
