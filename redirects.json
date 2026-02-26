@@ -45,11 +45,6 @@
         "permanent": true
     },
     {
-        "source": "/services/visceral-manipulation/",
-        "destination": "/services/visceral-manipulation/",
-        "permanent": true
-    },
-    {
         "source": "/services/massage-therapy-colwood",
         "destination": "/services/massage-therapy/",
         "permanent": true
@@ -61,7 +56,7 @@
     },
     {
         "source": "/services/massage-therapy-victoria",
-        "destination": "/massage-therapist-victoria/",
+        "destination": "/services/massage-therapy/",
         "permanent": true
     },
     {
@@ -81,7 +76,7 @@
     },
     {
         "source": "/massage-therapy-victoria",
-        "destination": "/massage-therapist-victoria/",
+        "destination": "/services/massage-therapy/",
         "permanent": true
     },
     {
@@ -496,7 +491,7 @@
     },
     {
         "source": "/services/registered-massage-therapy",
-        "destination": "/massage-therapist-victoria/",
+        "destination": "/services/massage-therapy/",
         "permanent": true
     },
     {
@@ -515,11 +510,6 @@
         "permanent": true
     },
     {
-        "source": "/conditions/neck-shoulder-pain",
-        "destination": "/conditions/neck-shoulder-pain/",
-        "permanent": true
-    },
-    {
         "source": "/conditions/neck-pain-victoria",
         "destination": "/conditions/neck-shoulder-pain/",
         "permanent": true
@@ -527,11 +517,6 @@
     {
         "source": "/conditions/sciatica",
         "destination": "/conditions/sciatica-treatment/",
-        "permanent": true
-    },
-    {
-        "source": "/conditions/muscle-tension",
-        "destination": "/conditions/muscle-tension/",
         "permanent": true
     },
     {
@@ -552,11 +537,6 @@
     {
         "source": "/services/massage-therapy/direct-billing",
         "destination": "/direct-billing/",
-        "permanent": true
-    },
-    {
-        "source": "/services/massage-therapy",
-        "destination": "/services/massage-therapy/",
         "permanent": true
     },
     {
@@ -950,11 +930,6 @@
         "permanent": true
     },
     {
-        "source": "/best-prebiotics-and-probiotics-supplements/",
-        "destination": "/best-prebiotics-and-probiotics-supplements/",
-        "permanent": true
-    },
-    {
         "source": "/signs-that-probiotics-are-working/",
         "destination": "/best-prebiotics-and-probiotics-supplements/",
         "permanent": true
@@ -1025,33 +1000,8 @@
         "permanent": true
     },
     {
-        "source": "/seed-vs-pendulum/",
-        "destination": "/seed-vs-pendulum/",
-        "permanent": true
-    },
-    {
-        "source": "/viome-review/",
-        "destination": "/viome-review/",
-        "permanent": true
-    },
-    {
-        "source": "/seed-probiotics-reviews/",
-        "destination": "/seed-probiotics-reviews/",
-        "permanent": true
-    },
-    {
-        "source": "/viome-review/",
-        "destination": "/viome-review/",
-        "permanent": true
-    },
-    {
         "source": "/gi-map-test/",
         "destination": "/gut-health-test/",
-        "permanent": true
-    },
-    {
-        "source": "/best-sauerkraut-for-probiotics/",
-        "destination": "/best-sauerkraut-for-probiotics/",
         "permanent": true
     },
     {
@@ -1205,11 +1155,6 @@
         "permanent": true
     },
     {
-        "source": "/red-light-therapy-and-scars/",
-        "destination": "/red-light-therapy-and-scars/",
-        "permanent": true
-    },
-    {
         "source": "/red-light-therapy-for-depression/",
         "destination": "/red-light-therapy/",
         "permanent": true
@@ -1245,11 +1190,6 @@
         "permanent": true
     },
     {
-        "source": "/red-light-therapy/",
-        "destination": "/red-light-therapy/",
-        "permanent": true
-    },
-    {
         "source": "/the-role-of-red-light-therapy-in-hormone-regulation/",
         "destination": "/red-light-therapy-for-testosterone/",
         "permanent": true
@@ -1261,11 +1201,6 @@
     },
     {
         "source": "/photobiomodulation-explained/",
-        "destination": "/red-light-therapy/",
-        "permanent": true
-    },
-    {
-        "source": "/red-light-therapy/",
         "destination": "/red-light-therapy/",
         "permanent": true
     },
@@ -1337,11 +1272,6 @@
     {
         "source": "/about/why-us",
         "destination": "/about/",
-        "permanent": true
-    },
-    {
-        "source": "/our-team/daryl-stubbs",
-        "destination": "/our-team/daryl-stubbs/",
         "permanent": true
     },
     {
@@ -1421,27 +1351,27 @@
     },
     {
         "source": "/terms/",
-        "destination": "/terms-of-service",
+        "destination": "/terms-of-service/",
         "permanent": true
     },
     {
         "source": "/sitemap/",
-        "destination": "/html-sitemap",
+        "destination": "/html-sitemap/",
         "permanent": true
     },
     {
         "source": "/myofascial-release/",
-        "destination": "/services/myofascial-release",
+        "destination": "/services/myofascial-release/",
         "permanent": true
     },
     {
         "source": "/team/",
-        "destination": "/our-team/daryl-stubbs",
+        "destination": "/our-team/daryl-stubbs/",
         "permanent": true
     },
     {
         "source": "/visceral-manipulation/",
-        "destination": "/services/visceral-manipulation",
+        "destination": "/services/visceral-manipulation/",
         "permanent": true
     },
     {
@@ -1450,18 +1380,8 @@
         "permanent": true
     },
     {
-        "source": "/services/massage-therapy/",
-        "destination": "/services/massage-therapy/",
-        "permanent": true
-    },
-    {
         "source": "/why-rmt-massage-should-be-part-of-your-2025-wellness-plan-evidence-based-benefits-for-optimal-health/",
         "destination": "/",
-        "permanent": true
-    },
-    {
-        "source": "/services/swedish-massage/",
-        "destination": "/services/swedish-massage/",
         "permanent": true
     },
     {
@@ -1485,13 +1405,8 @@
         "permanent": true
     },
     {
-        "source": "/services/athletic-therapy/",
-        "destination": "/services/athletic-therapy/",
-        "permanent": true
-    },
-    {
         "source": "/holistic-nutrition/",
-        "destination": "/nutrition-consulting/",
+        "destination": "/services/nutrition-consulting/",
         "permanent": true
     },
     {
@@ -1511,7 +1426,7 @@
     },
     {
         "source": "/nutrition-consulting/",
-        "destination": "/services/nutrition-consulting",
+        "destination": "/services/nutrition-consulting/",
         "permanent": true
     },
     {
@@ -1641,12 +1556,12 @@
     },
     {
         "source": "/services/knee-pain-treatment",
-        "destination": "/conditions/knee-pain/",
+        "destination": "/conditions/hip-and-knee-pain/",
         "permanent": true
     },
     {
         "source": "/services/knee-pain-treatment/",
-        "destination": "/conditions/knee-pain/",
+        "destination": "/conditions/hip-and-knee-pain/",
         "permanent": true
     },
     {
@@ -1696,82 +1611,82 @@
     },
     {
         "source": "/seed-pediatric-probiotic-reviews",
-        "destination": "/seed-probiotics-reviews",
+        "destination": "/seed-probiotics-reviews/",
         "permanent": true
     },
     {
         "source": "/red-light-therapy-infographic",
-        "destination": "/red-light-therapy",
+        "destination": "/red-light-therapy/",
         "permanent": true
     },
     {
         "source": "/viome-vs-zoe",
-        "destination": "/viome-review",
+        "destination": "/viome-review/",
         "permanent": true
     },
     {
         "source": "/best-massage-langford-clinics",
-        "destination": "/services/massage-therapy",
+        "destination": "/services/massage-therapy/",
         "permanent": true
     },
     {
         "source": "/services/visceral-manipulation-victoria",
-        "destination": "/services/visceral-manipulation",
+        "destination": "/services/visceral-manipulation/",
         "permanent": true
     },
     {
         "source": "/red-light-therapy-for-alopecia",
-        "destination": "/red-light-therapy-and-scars",
+        "destination": "/red-light-therapy-and-scars/",
         "permanent": true
     },
     {
         "source": "/viome-vs-seed",
-        "destination": "/viome-review",
+        "destination": "/viome-review/",
         "permanent": true
     },
     {
         "source": "/services/swedish-relaxation-massage-victoria",
-        "destination": "/services/swedish-massage",
+        "destination": "/services/massage-therapy/",
         "permanent": true
     },
     {
         "source": "/best-time-to-take-probiotics",
-        "destination": "/best-prebiotics-and-probiotics-supplements",
+        "destination": "/best-prebiotics-and-probiotics-supplements/",
         "permanent": true
     },
     {
         "source": "/services/athletic-therapy-colwood",
-        "destination": "/services/athletic-therapy",
+        "destination": "/services/athletic-therapy/",
         "permanent": true
     },
     {
         "source": "/massage-therapist-langford",
-        "destination": "/services/massage-therapy",
+        "destination": "/services/massage-therapy/",
         "permanent": true
     },
     {
         "source": "/conditions/neck-pain",
-        "destination": "/conditions/neck-shoulder-pain",
+        "destination": "/conditions/neck-shoulder-pain/",
         "permanent": true
     },
     {
         "source": "/red-light-therapy-boosts-mitochondrial-function",
-        "destination": "/red-light-therapy",
+        "destination": "/red-light-therapy/",
         "permanent": true
     },
     {
         "source": "/conditions/muscle-tension-relief",
-        "destination": "/conditions/muscle-tension",
+        "destination": "/conditions/muscle-tension/",
         "permanent": true
     },
     {
         "source": "/cymbiotika-vs-seed-ds-01-probiotic",
-        "destination": "/seed-vs-pendulum",
+        "destination": "/seed-vs-pendulum/",
         "permanent": true
     },
     {
         "source": "/best-probiotic-foods-for-gut-health-naturally",
-        "destination": "/best-sauerkraut-for-probiotics",
+        "destination": "/best-sauerkraut-for-probiotics/",
         "permanent": true
     }
 ]
