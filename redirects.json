@@ -1693,5 +1693,85 @@
         "source": "/wp-content/uploads/2025/06/daryls-an-RMT-in-downtown-victoria-offering-massage-therapy-600x801.jpg",
         "destination": "/our-team/daryl-stubbs/",
         "permanent": true
+    },
+    {
+        "source": "/seed-pediatric-probiotic-reviews",
+        "destination": "/seed-probiotics-reviews",
+        "permanent": true
+    },
+    {
+        "source": "/red-light-therapy-infographic",
+        "destination": "/red-light-therapy",
+        "permanent": true
+    },
+    {
+        "source": "/viome-vs-zoe",
+        "destination": "/viome-review",
+        "permanent": true
+    },
+    {
+        "source": "/best-massage-langford-clinics",
+        "destination": "/services/massage-therapy",
+        "permanent": true
+    },
+    {
+        "source": "/services/visceral-manipulation-victoria",
+        "destination": "/services/visceral-manipulation",
+        "permanent": true
+    },
+    {
+        "source": "/red-light-therapy-for-alopecia",
+        "destination": "/red-light-therapy-and-scars",
+        "permanent": true
+    },
+    {
+        "source": "/viome-vs-seed",
+        "destination": "/viome-review",
+        "permanent": true
+    },
+    {
+        "source": "/services/swedish-relaxation-massage-victoria",
+        "destination": "/services/swedish-massage",
+        "permanent": true
+    },
+    {
+        "source": "/best-time-to-take-probiotics",
+        "destination": "/best-prebiotics-and-probiotics-supplements",
+        "permanent": true
+    },
+    {
+        "source": "/services/athletic-therapy-colwood",
+        "destination": "/services/athletic-therapy",
+        "permanent": true
+    },
+    {
+        "source": "/massage-therapist-langford",
+        "destination": "/services/massage-therapy",
+        "permanent": true
+    },
+    {
+        "source": "/conditions/neck-pain",
+        "destination": "/conditions/neck-shoulder-pain",
+        "permanent": true
+    },
+    {
+        "source": "/red-light-therapy-boosts-mitochondrial-function",
+        "destination": "/red-light-therapy",
+        "permanent": true
+    },
+    {
+        "source": "/conditions/muscle-tension-relief",
+        "destination": "/conditions/muscle-tension",
+        "permanent": true
+    },
+    {
+        "source": "/cymbiotika-vs-seed-ds-01-probiotic",
+        "destination": "/seed-vs-pendulum",
+        "permanent": true
+    },
+    {
+        "source": "/best-probiotic-foods-for-gut-health-naturally",
+        "destination": "/best-sauerkraut-for-probiotics",
+        "permanent": true
     }
 ]
