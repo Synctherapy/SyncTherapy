@@ -66,25 +66,25 @@ export function SportsInjuryRehab() {
     const treatmentLinks = [
         { title: "Sports Injury Treatment", href: "/services/sports-injury-treatment/" },
         { title: "Athletic Therapy", href: "/services/athletic-therapy/" },
-        { title: "Knee Pain Treatment", href: "/services/knee-pain-treatment/" },
-        { title: "Athletic Training", href: "/services/athletic-training/" },
-        { title: "Tendonitis Treatment", href: "/services/tendonitis-treatment/" },
-        { title: "Sprain & Strain Treatment", href: "/services/sprain-strain-treatment/" },
+        { title: "Knee Pain Treatment", href: "/conditions/hip-and-knee-pain/" },
+        { title: "Athletic Training", href: "/services/athletic-therapy/" },
+        { title: "Tendonitis Treatment", href: "/conditions/tendonitis-treatment/" },
+        { title: "Sprain & Strain Treatment", href: "/conditions/sprains-and-strains/" },
         { title: "Baseball Injury Therapy", href: "/services/baseball-injury-therapy/" },
-        { title: "Rotator Cuff Rehab", href: "/services/rotator-cuff-rehab/" },
-        { title: "Anterior Knee Pain", href: "/services/anterior-knee-pain/" },
-        { title: "Shoulder Impingement", href: "/services/shoulder-impingement/" },
+        { title: "Rotator Cuff Rehab", href: "/conditions/rotator-cuff-injury/" },
+        { title: "Anterior Knee Pain", href: "/conditions/anterior-knee-pain/" },
+        { title: "Shoulder Impingement", href: "/conditions/shoulder-impingement/" },
     ];
 
     return (
         <div className="bg-background min-h-screen relative selection:bg-blue-100 selection:text-blue-900 overflow-hidden">
             <ServiceSchema
-                    type="service"
-                    name="Sports Injury Rehabilitation"
-                    description="Required for new injuries to determine the root cause."
-                    slug="sports-injury-rehab"
-                    breadcrumbLabel="Sports Injury Rehabilitation"
-                />
+                type="service"
+                name="Sports Injury Rehabilitation"
+                description="Required for new injuries to determine the root cause."
+                slug="sports-injury-rehab"
+                breadcrumbLabel="Sports Injury Rehabilitation"
+            />
 
             {/* Global Fluid Background */}
             <div className="fixed inset-0 z-0 pointer-events-none overflow-hidden">

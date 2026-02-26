@@ -20,7 +20,7 @@ const services: ServiceItem[] = [
         title: "Deep Tissue Massage",
         description: "When regular massage just isn't cutting it anymore, deep tissue work reaches the layers of muscle and connective tissue causing your problems. Great for chronic tension from repetitive movements.",
         image: "/images/generated/massage-deep-tissue-unique.png",
-        href: "/services/deep-tissue-massage-victoria",
+        href: "/services/deep-tissue-massage/",
         cta: "Book Deep Tissue"
     },
     {
@@ -41,28 +41,28 @@ const services: ServiceItem[] = [
         title: "Therapeutic & Swedish Massage",
         description: "Therapeutic massage has a specific goal like reducing pain or improving range of motion. Swedish massage focuses on relaxation and general wellness. We offer both.",
         image: "/images/generated/massage-swedish-unique.png",
-        href: "/services/swedish-massage",
+        href: "/services/massage-therapy/",
         cta: "Book Therapeutic Massage"
     },
     {
         title: "Stress Relief & Relaxation",
         description: "Calm your nervous system. When you're in constant stress mode, your body doesn't heal properly. Regular massage helps break that cycle and improve sleep.",
         image: "/images/generated/massage-stress-relief-unique.png",
-        href: "/services/swedish-massage",
+        href: "/services/massage-therapy/",
         cta: "De-Stress Now"
     },
     {
         title: "Full Body Massage",
         description: "Addressing your whole system, because everything is connected. Foot pain can cause knee issues, which affect hips and back. Comprehensive care for your whole body.",
         image: "/images/generated/massage-full-body-unique.png",
-        href: "/services/massage-therapy-victoria",
+        href: "/services/massage-therapy/",
         cta: "Book Full Body"
     },
     {
         title: "Trigger Point & Myofascial Release",
         description: "Release those tender spots that refer pain elsewhere. We also focus on the connective tissue (fascia) to restore movement and reduce restriction.",
         image: "/images/generated/massage-trigger-point-unique.png",
-        href: "/services/myofascial-release-massage",
+        href: "/services/myofascial-release/",
         cta: "Release Tension"
     },
     {

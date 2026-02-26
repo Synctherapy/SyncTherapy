@@ -62,7 +62,7 @@ export function HealthConsulting() {
     ];
 
     const treatmentLinks = [
-        { title: "Health Assessment", href: "/services/health-assessment/" },
+        { title: "Health Assessment", href: "/services/wellness-consultation/" },
         { title: "Wellness Consultation", href: "/services/wellness-consultation/" },
         { title: "Personalized Health Plan", href: "/services/personalized-health-plan/" },
         { title: "Chronic Disease Management", href: "/services/chronic-disease-management/" },

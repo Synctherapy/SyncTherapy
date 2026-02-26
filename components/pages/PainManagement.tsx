@@ -65,13 +65,13 @@ export function PainManagement() {
     ];
 
     const treatmentLinks = [
-        { title: "Chronic Pain Management", href: "/services/chronic-pain-management/" },
+        { title: "Chronic Pain Management", href: "/conditions/chronic-pain/" },
         { title: "Back Pain Treatment", href: "/conditions/back-pain/" },
-        { title: "Neck Pain Relief", href: "/services/neck-pain-relief/" },
+        { title: "Neck Pain Relief", href: "/conditions/neck-shoulder-pain/" },
         { title: "Fibromyalgia Treatment", href: "/services/fibromyalgia-treatment/" },
-        { title: "Migraine & Headache", href: "/services/migraine-headache-management/" },
+        { title: "Migraine & Headache", href: "/conditions/headaches-migraines/" },
         { title: "Sciatica Treatment", href: "/conditions/sciatica-treatment/" },
-        { title: "Arthritis Pain Management", href: "/services/arthritis-pain-management/" },
+        { title: "Arthritis Pain Management", href: "/conditions/arthritis-pain/" },
     ];
 
     return (
