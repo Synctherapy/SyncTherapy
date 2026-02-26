@@ -80,6 +80,23 @@ async function getPosts(): Promise<BlogPost[]> {
     const postsDir = path.join(process.cwd(), 'content/posts');
     const filenames = fs.readdirSync(postsDir).filter(f => f.endsWith('.md'));
 
+    const redirectsPath = path.join(process.cwd(), 'redirects.json');
+    let redirects: { source: string; destination: string }[] = [];
+    if (fs.existsSync(redirectsPath)) {
+        redirects = JSON.parse(fs.readFileSync(redirectsPath, 'utf8'));
+    }
+
+    const unmappedSlugs = new Set<string>();
+    for (const r of redirects) {
+        // Strip trailing and leading slashes for comparison
+        const src = r.source.replace(/^\//, '').replace(/\/$/, '');
+        const dest = r.destination.replace(/^\//, '').replace(/\/$/, '');
+        // Only exclude if source & destination are actually different pages
+        if (src !== dest) {
+            unmappedSlugs.add(src);
+        }
+    }
+
     const posts: BlogPost[] = filenames.map((filename) => {
         const filePath = path.join(postsDir, filename);
         const raw = fs.readFileSync(filePath, 'utf8');
@@ -95,7 +112,7 @@ async function getPosts(): Promise<BlogPost[]> {
             readTime: estimateReadTime(content),
             image: extractFirstImage(content),
         };
-    });
+    }).filter(post => !unmappedSlugs.has(post.slug));
 
     // Sort newest first
     return posts.sort((a, b) => (a.date < b.date ? 1 : -1));
