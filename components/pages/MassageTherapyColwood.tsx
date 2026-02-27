@@ -21,15 +21,15 @@ export function MassageTherapyColwood() {
     return (
         <div className="bg-background min-h-screen relative selection:bg-blue-100 selection:text-blue-900 overflow-hidden">
             <ServiceSchema
-                    type="service"
-                    name="Massage Therapy Colwood"
-                    description=""
-                    slug="massage-therapy-colwood"
-                    breadcrumbLabel="Massage Therapy Colwood"
-                />
+                type="service"
+                name="Massage Therapy Colwood"
+                description=""
+                slug="massage-therapy-colwood"
+                breadcrumbLabel="Massage Therapy Colwood"
+            />
 
             {/* Global Fluid Background */}
-            <div className="fixed inset-0 z-0 pointer-events-none overflow-hidden">
+            <div className="fixed inset-0 z-0 pointer-events-none overflow-hidden" aria-hidden="true">
                 <div className="absolute top-[-10%] left-[-10%] w-[50vw] h-[50vw] bg-blue-100/30 rounded-full blur-[100px] animate-blob mix-blend-multiply filter will-change-transform" />
                 <div className="absolute top-[20%] right-[-10%] w-[40vw] h-[40vw] bg-purple-100/30 rounded-full blur-[100px] animate-blob animation-delay-2000 mix-blend-multiply filter will-change-transform" />
                 <div className="absolute bottom-[-10%] left-[20%] w-[45vw] h-[45vw] bg-teal-100/30 rounded-full blur-[100px] animate-blob animation-delay-4000 mix-blend-multiply filter will-change-transform" />
@@ -97,7 +97,7 @@ export function MassageTherapyColwood() {
                                         ].map((item, i) => (
                                             <div key={i} className="flex items-center gap-4 group">
                                                 <div className="w-8 h-8 rounded-full bg-blue-50 flex items-center justify-center text-blue-600 shadow-sm group-hover:bg-blue-600 group-hover:text-white transition-colors duration-300">
-                                                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" d="M5 13l4 4L19 7"></path></svg>
+                                                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" d="M5 13l4 4L19 7"></path></svg>
                                                 </div>
                                                 <span className="text-lg text-foreground/80 font-medium group-hover:text-foreground transition-colors">{item}</span>
                                             </div>
@@ -142,7 +142,7 @@ export function MassageTherapyColwood() {
                                     </div>
 
                                     {/* Deco elements */}
-                                    <div className="absolute -z-10 top-10 -right-10 w-full h-full border-2 border-blue-200/30 rounded-[2.5rem] rounded-tr-[5rem] rotate-6 group-hover:rotate-3 transition-transform duration-700" />
+                                    <div className="absolute -z-10 top-10 -right-10 w-full h-full border-2 border-blue-200/30 rounded-[2.5rem] rounded-tr-[5rem] rotate-6 group-hover:rotate-3 transition-transform duration-700" aria-hidden="true" />
                                 </ScrollReveal>
                             </div>
                         </div>
