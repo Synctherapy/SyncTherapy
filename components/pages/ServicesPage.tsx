@@ -27,6 +27,62 @@ import {
 
 /* ─── Services Data ────────────────────────────────────────────────── */
 const SERVICES = [
+    // === High Priority Requested Services ===
+    {
+        id: "massage-therapy",
+        title: "Massage Therapy",
+        description: "Comprehensive therapeutic massage tailored to your specific needs, addressing everything from chronic pain to acute tension.",
+        category: "Massage Therapy",
+        url: "/services/massage-therapy/",
+        icon: Heart,
+        featured: true,
+    },
+    {
+        id: "direct-billing-massage",
+        title: "Direct Billing Massage",
+        description: "Convenient massage therapy where we bill your extended health benefits provider directly on your behalf.",
+        category: "Massage Therapy",
+        url: "/services/direct-billing/",
+        icon: Shield,
+        featured: true,
+    },
+    {
+        id: "athletic-therapy",
+        title: "Athletic Therapy",
+        description: "Comprehensive assessment, treatment, and dynamic rehabilitation for musculoskeletal injuries.",
+        category: "Athletic Therapy",
+        url: "/services/athletic-therapy/",
+        icon: Dumbbell,
+        featured: true,
+    },
+    {
+        id: "nutrition-consulting",
+        title: "Registered Nutrition Consulting",
+        description: "Professional guidance to help you reach your health goals through practical, sustainable dietary changes.",
+        category: "Holistic Nutrition",
+        url: "/services/nutrition-consulting/",
+        icon: Award,
+        featured: true,
+    },
+    {
+        id: "deep-tissue-massage",
+        title: "Deep Tissue Massage",
+        description: "Intense, focused pressure to reach deeper layers of muscle tissue and relieve stubborn, chronic tension.",
+        category: "Massage Therapy",
+        url: "/services/deep-tissue-massage-victoria/", // Based on the standard markdown filename in content/pages
+        icon: Activity,
+        featured: true,
+    },
+    {
+        id: "visceral-manipulation",
+        title: "Visceral Manipulation",
+        description: "Gentle manual therapy encouraging normal mobility, tone, and intrinsic movement of internal organs.",
+        category: "Massage Therapy",
+        url: "/services/visceral-manipulation/",
+        icon: Heart,
+        featured: true,
+    },
+
     // === Massage Therapy ===
     {
         id: "relaxation-massage",
@@ -35,7 +91,6 @@ const SERVICES = [
         category: "Massage Therapy",
         url: "/services/relaxation-massage/",
         icon: Heart,
-        featured: true,
     },
     {
         id: "injury-rehab-massage",
@@ -68,7 +123,6 @@ const SERVICES = [
         category: "Massage Therapy",
         url: "/services/myofascial-release/",
         icon: Brain,
-        featured: true,
     },
     {
         id: "post-event-massage",
@@ -103,15 +157,6 @@ const SERVICES = [
         icon: Activity,
     },
     {
-        id: "visceral-manipulation",
-        title: "Visceral Manipulation",
-        description: "Gentle manual therapy encouraging normal mobility, tone, and intrinsic movement of internal organs.",
-        category: "Massage Therapy",
-        url: "/services/visceral-manipulation/",
-        icon: Heart,
-        featured: true,
-    },
-    {
         id: "pain-management",
         title: "Pain Management Massage",
         description: "Customized clinical massage integrating various modalities to systematically reduce chronic or acute pain signals.",
@@ -121,15 +166,6 @@ const SERVICES = [
     },
 
     // === Athletic Therapy ===
-    {
-        id: "athletic-therapy",
-        title: "Athletic Therapy",
-        description: "Comprehensive assessment, treatment, and dynamic rehabilitation for musculoskeletal injuries.",
-        category: "Athletic Therapy",
-        url: "/services/athletic-therapy/",
-        icon: Dumbbell,
-        featured: true,
-    },
     {
         id: "exercise-therapy",
         title: "Exercise Therapy",
@@ -219,7 +255,6 @@ const SERVICES = [
         category: "Holistic Nutrition",
         url: "/services/gut-health-optimization/",
         icon: Sparkles,
-        featured: true,
     },
     {
         id: "ibs-diet-counseling",
@@ -244,15 +279,6 @@ const SERVICES = [
         category: "Holistic Nutrition",
         url: "/services/low-fodmap-diet/",
         icon: Apple,
-    },
-    {
-        id: "nutrition-consulting",
-        title: "Registered Nutrition Consulting",
-        description: "Professional guidance to help you reach your health goals through practical, sustainable dietary changes.",
-        category: "Holistic Nutrition",
-        url: "/services/nutrition-consulting/",
-        icon: Award,
-        featured: true,
     },
     {
         id: "nutrition-counseling",
@@ -287,7 +313,6 @@ const SERVICES = [
         category: "Consulting & Wellness",
         url: "/services/health-consulting/",
         icon: Brain,
-        featured: true,
     },
     {
         id: "mens-health-consulting",

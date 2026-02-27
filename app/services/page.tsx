@@ -1,5 +1,7 @@
 import { Metadata } from 'next';
 import { ServicesPage } from '@/components/pages/ServicesPage';
+import Header from '@/components/Header';
+import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
     title: 'Our Services | Sync Massage Therapy Colwood',
@@ -24,5 +26,11 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
-    return <ServicesPage />;
+    return (
+        <>
+            <Header />
+            <ServicesPage />
+            <Footer />
+        </>
+    );
 }
