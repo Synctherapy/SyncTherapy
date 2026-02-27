@@ -12,8 +12,6 @@ seoTitle: Athletic Therapy Colwood
 <!-- wp:html -->
 <meta name="keywords" content="athletic therapist colwood, athletic therapy colwood bc, find athletic therapist colwood, sports injury rehabilitation colwood, athletic therapist near me colwood, certified athletic therapist colwood bc, sports medicine colwood">
 
-
-
     <style>
 
         /* Consistent color scheme with previous version */
@@ -126,9 +124,6 @@ seoTitle: Athletic Therapy Colwood
 
     </style>
 
-
-
-
 <!-- Urgent Banner -->
 
 <div class="urgent-banner">
@@ -136,8 +131,6 @@ seoTitle: Athletic Therapy Colwood
     ⚡ LIMITED TIME: Only 3 athletic therapy spots left this week in Colwood! Book now to secure your appointment
 
 </div>
-
-
 
 <!-- Breadcrumbs -->
 
@@ -150,8 +143,6 @@ seoTitle: Athletic Therapy Colwood
     </div>
 
 </nav>
-
-
 
 <!-- Hero Section -->
 
@@ -177,15 +168,11 @@ seoTitle: Athletic Therapy Colwood
 
                 </div>
 
-
-
                 <h1 style="font-size: 3rem; font-weight: bold; margin-bottom: 20px; line-height: 1.2; color: var(--text-color);">
 
                     Athletic Therapist Colwood BC | Find Athletic Therapy Near Me
 
                 </h1>
-
-
 
                 <p style="font-size: 1.2rem; margin-bottom: 20px; line-height: 1.6; color: var(--text-color);">
 
@@ -193,15 +180,11 @@ seoTitle: Athletic Therapy Colwood
 
                 </p>
 
-
-
                 <p style="font-size: 1.1rem; color: var(--primary-color); font-weight: bold; margin-bottom: 15px;">
 
                     Feel Better. Move Better. Live Better.
 
                 </p>
-
-
 
                 <p style="margin-bottom: 30px; color: var(--text-color);">
 
@@ -215,15 +198,11 @@ seoTitle: Athletic Therapy Colwood
 
                 </p>
 
-
-
                 <div style="background: rgba(245, 184, 46, 0.1); border: 1px solid rgba(245, 184, 46, 0.3); border-radius: 8px; padding: 15px; margin-bottom: 30px; text-align: center;">
 
                     🛡️ <strong>Direct Billing Available</strong> • Most Insurance Providers
 
                 </div>
-
-
 
                 <!-- Enhanced Trust Indicators for Colwood -->
 
@@ -265,8 +244,6 @@ seoTitle: Athletic Therapy Colwood
 
                 </div>
 
-
-
                 <!-- CTA Buttons -->
 
                 <div style="margin-bottom: 30px;">
@@ -299,8 +276,6 @@ seoTitle: Athletic Therapy Colwood
 
                 </div>
 
-
-
                 <!-- Trust Indicators -->
 
                 <div style="text-align: center; font-size: 0.9rem; color: #6c757d;">
@@ -310,8 +285,6 @@ seoTitle: Athletic Therapy Colwood
                 </div>
 
             </div>
-
-
 
             <div style="position: relative;">
 
@@ -338,8 +311,6 @@ seoTitle: Athletic Therapy Colwood
     </div>
 
 </section>
-
-
 
 <!-- Colwood Area Optimization Section -->
 
@@ -401,8 +372,6 @@ seoTitle: Athletic Therapy Colwood
 
 </section>
 
-
-
 <!-- What Injuries Can Athletic Therapists Help With - Colwood Focus -->
 
 <section class="section bg-white">
@@ -433,8 +402,6 @@ seoTitle: Athletic Therapy Colwood
 
             </div>
 
-
-
             <div class="injury-grid">
 
                 <!-- Acute Sports Injuries -->
@@ -461,8 +428,6 @@ seoTitle: Athletic Therapy Colwood
 
                 </div>
 
-
-
                 <!-- Chronic Pain Conditions -->
 
                 <div class="injury-item">
@@ -486,8 +451,6 @@ seoTitle: Athletic Therapy Colwood
                     </ul>
 
                 </div>
-
-
 
                 <!-- Joint & Movement Issues -->
 
@@ -513,8 +476,6 @@ seoTitle: Athletic Therapy Colwood
 
                 </div>
 
-
-
                 <!-- Overuse Injuries -->
 
                 <div class="injury-item">
@@ -539,8 +500,6 @@ seoTitle: Athletic Therapy Colwood
 
                 </div>
 
-
-
                 <!-- Specific Conditions -->
 
                 <div class="injury-item">
@@ -564,8 +523,6 @@ seoTitle: Athletic Therapy Colwood
                     </ul>
 
                 </div>
-
-
 
                 <!-- Performance Enhancement -->
 
@@ -593,8 +550,6 @@ seoTitle: Athletic Therapy Colwood
 
             </div>
 
-
-
             <div class="text-center" style="margin-top: 50px;">
 
                 <div style="background: rgba(46, 90, 136, 0.05); border: 1px solid rgba(46, 90, 136, 0.1); border-radius: 12px; padding: 30px; max-width: 600px; margin: 0 auto;">
@@ -617,8 +572,6 @@ seoTitle: Athletic Therapy Colwood
 
 </section>
 
-
-
 <!-- Problem → Solution -->
 
 <section class="section" style="background: var(--neutral-color);">
@@ -633,8 +586,6 @@ seoTitle: Athletic Therapy Colwood
 
             </div>
 
-
-
             <h2 style="font-size: 2.5rem; font-weight: bold; margin-bottom: 30px; color: var(--text-color);">
 
                 Find an Athletic Therapist Near Me - Colwood's Premier Athletic Therapy Clinic
@@ -646,8 +597,6 @@ seoTitle: Athletic Therapy Colwood
                 Whether you're dealing with acute sports injuries, chronic pain from overuse, or looking to enhance your athletic performance, our Colwood Athletic Therapist provides targeted rehabilitation and performance optimization through evidence-based treatment approaches.
 
             </p>
-
-
 
             <div class="grid grid-4" id="benefits">
 
@@ -663,8 +612,6 @@ seoTitle: Athletic Therapy Colwood
 
                 </div>
 
-
-
                 <div class="text-center">
 
                     <div style="background: rgba(134,187,216,0.3); width: 80px; height: 80px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 20px; font-size: 2rem;">🎯</div>
@@ -677,8 +624,6 @@ seoTitle: Athletic Therapy Colwood
 
                 </div>
 
-
-
                 <div class="text-center">
 
                     <div style="background: rgba(245,184,46,0.2); width: 80px; height: 80px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 20px; font-size: 2rem;">⚡</div>
@@ -690,8 +635,6 @@ seoTitle: Athletic Therapy Colwood
                     <span class="badge" style="background: #e2e3ff; color: #3d348b;">✓ Stay injury-free</span>
 
                 </div>
-
-
 
                 <div class="text-center">
 
@@ -712,8 +655,6 @@ seoTitle: Athletic Therapy Colwood
     </div>
 
 </section>
-
-
 
 <!-- Special Offer Section -->
 
@@ -748,8 +689,6 @@ seoTitle: Athletic Therapy Colwood
             *Valid for new athletic therapy clients in Colwood only. Mention this offer when booking.
 
         </p>
-
-
 
         <!-- Urgency Counter -->
 
@@ -789,8 +728,6 @@ seoTitle: Athletic Therapy Colwood
 
 </section>
 
-
-
 <!-- Direct Billing Section -->
 
 <section class="section bg-white">
@@ -817,8 +754,6 @@ seoTitle: Athletic Therapy Colwood
 
         </div>
 
-
-
         <div class="grid grid-3" style="margin-bottom: 60px;">
 
             <div class="card text-center">
@@ -833,8 +768,6 @@ seoTitle: Athletic Therapy Colwood
 
             </div>
 
-
-
             <div class="card text-center">
 
                 <div style="font-size: 3rem; margin-bottom: 20px;">⚡</div>
@@ -846,8 +779,6 @@ seoTitle: Athletic Therapy Colwood
                 <span class="badge" style="background: #cce5ff; color: #004085;">⚡ Real-time approval</span>
 
             </div>
-
-
 
             <div class="card text-center">
 
@@ -863,8 +794,6 @@ seoTitle: Athletic Therapy Colwood
 
         </div>
 
-
-
         <div class="card">
 
             <div class="text-center">
@@ -876,8 +805,6 @@ seoTitle: Athletic Therapy Colwood
                     Our direct billing system is connected to major insurance providers across Canada. Athletic therapy is covered by most extended health plans:
 
                 </p>
-
-
 
                 <div class="insurance-grid">
 
@@ -923,8 +850,6 @@ seoTitle: Athletic Therapy Colwood
 
                 </div>
 
-
-
                 <div style="margin-top: 30px;">
 
                     <a href="/direct-billing/" style="color: var(--primary-color);">
@@ -938,8 +863,6 @@ seoTitle: Athletic Therapy Colwood
             </div>
 
         </div>
-
-
 
         <div class="text-center" style="margin-top: 40px;">
 
@@ -957,8 +880,6 @@ seoTitle: Athletic Therapy Colwood
 
 </section>
 
-
-
 <!-- Therapist Credentials -->
 
 <section class="section bg-neutral">
@@ -970,8 +891,6 @@ seoTitle: Athletic Therapy Colwood
             Find an Athletic Therapist in Colwood BC - Meet Your Local Athletic Therapist
 
         </h2>
-
-
 
         <div class="card" style="overflow: hidden;">
 
@@ -997,21 +916,15 @@ seoTitle: Athletic Therapy Colwood
 
                     </div>
 
-
-
                     <h3 style="font-size: 2rem; font-weight: bold; margin-bottom: 10px; color: var(--text-color);">Daryl Stubbs, CAT(C)</h3>
 
                     <p style="color: var(--primary-color); margin-bottom: 30px; font-weight: bold; font-size: 1.1rem;">Certified Athletic Therapist - Colwood BC</p>
-
-
 
                     <p style="margin-bottom: 30px; line-height: 1.6; color: var(--text-color);">
 
                         With over a decade of clinical experience and 12+ years as a certified athletic therapist serving Colwood and the West Shore, Daryl brings extensive knowledge in <a href="/conditions/sports-injuries-and-prevention/"  data-wpil-monitor-id="7900">sports injury rehabilitation</a> and performance enhancement to Sync Therapy. His approach combines evidence-based athletic therapy techniques with personalized treatment plans, helping Colwood athletes and active individuals recover from injuries and optimize their performance.
 
                     </p>
-
-
 
                     <div style="margin-bottom: 30px;">
 
@@ -1034,8 +947,6 @@ seoTitle: Athletic Therapy Colwood
                         </div>
 
                     </div>
-
-
 
                     <div class="grid grid-2" style="gap: 15px;">
 
@@ -1063,8 +974,6 @@ seoTitle: Athletic Therapy Colwood
 
 </section>
 
-
-
 <!-- Pricing -->
 
 <section class="section bg-white" id="pricing">
@@ -1078,8 +987,6 @@ seoTitle: Athletic Therapy Colwood
             <p style="font-size: 1.1rem; color: var(--text-color);">Simple, straightforward rates with no hidden fees. All prices include applicable taxes.</p>
 
         </div>
-
-
 
         <div class="grid grid-2" style="max-width: 600px; margin: 0 auto;">
 
@@ -1122,8 +1029,6 @@ seoTitle: Athletic Therapy Colwood
                 </div>
 
             </div>
-
-
 
             <div class="card" style="border: 2px solid var(--primary-color); position: relative;">
 
@@ -1173,8 +1078,6 @@ seoTitle: Athletic Therapy Colwood
 
         </div>
 
-
-
         <div class="text-center" style="margin-top: 40px;">
 
             <p style="font-size: 0.9rem; color: var(--text-color);">All sessions include post-treatment consultation and personalized exercise recommendations</p>
@@ -1185,8 +1088,6 @@ seoTitle: Athletic Therapy Colwood
 
 </section>
 
-
-
 <!-- Testimonials (keeping original reviews as requested) -->
 
 <section class="section bg-neutral">
@@ -1194,8 +1095,6 @@ seoTitle: Athletic Therapy Colwood
     <div class="container">
 
         <h2 class="text-center" style="font-size: 2rem; font-weight: bold; margin-bottom: 60px; color: var(--text-color);">What Our Athletes Say</h2>
-
-
 
         <div class="grid grid-3">
 
@@ -1219,8 +1118,6 @@ seoTitle: Athletic Therapy Colwood
 
             </div>
 
-
-
             <div class="testimonial">
 
                 <div style="margin-bottom: 20px;">
@@ -1240,8 +1137,6 @@ seoTitle: Athletic Therapy Colwood
                 <span class="badge" style="background: #cce5ff; color: #004085;">✓ Regular client</span>
 
             </div>
-
-
 
             <div class="testimonial">
 
@@ -1265,8 +1160,6 @@ seoTitle: Athletic Therapy Colwood
 
         </div>
 
-
-
         <div class="text-center" style="margin-top: 40px;">
 
             <a href="https://www.google.com/maps/place/Sync+Massage+Therapy/@48.4454689,-123.4745349,17z/data=!3m1!4b1!4m6!3m5!1s0x548f74851cb74787:0xeacdf009885e6cb5!8m2!3d48.445469!4d-123.4699215!16s%2Fg%2F11b6gptl28?entry=tts&amp;g_ep=EgoyMDI1MDcwOC4wIPu8ASoASAFQAw%3D%3D&amp;skid=5df59fd5-a859-4f7e-85e5-3eb02142eae0" style="color: var(--primary-color);">Read all athlete reviews →</a>
@@ -1276,8 +1169,6 @@ seoTitle: Athletic Therapy Colwood
     </div>
 
 </section>
-
-
 
 <!-- Treatment Process -->
 
@@ -1290,8 +1181,6 @@ seoTitle: Athletic Therapy Colwood
             What to Expect During Your Athletic Therapy Session in Colwood
 
         </h2>
-
-
 
         <div class="grid grid-3" style="margin-bottom: 60px;">
 
@@ -1309,8 +1198,6 @@ seoTitle: Athletic Therapy Colwood
 
             </div>
 
-
-
             <div class="card">
 
                 <h3 style="display: flex; align-items: center; margin-bottom: 20px; color: var(--text-color);">
@@ -1324,8 +1211,6 @@ seoTitle: Athletic Therapy Colwood
                 <p style="color: var(--text-color);">Hands-on therapy and rehabilitation techniques tailored to your specific injury and sport.</p>
 
             </div>
-
-
 
             <div class="card">
 
@@ -1342,8 +1227,6 @@ seoTitle: Athletic Therapy Colwood
             </div>
 
         </div>
-
-
 
         <div style="background: var(--neutral-color); padding: 40px; border-radius: 12px;">
 
@@ -1387,8 +1270,6 @@ seoTitle: Athletic Therapy Colwood
 
 </section>
 
-
-
 <!-- Location & Contact -->
 
 <section class="section bg-neutral">
@@ -1401,15 +1282,11 @@ seoTitle: Athletic Therapy Colwood
 
         </h2>
 
-
-
         <div class="grid grid-2">
 
             <div class="card">
 
                 <h3 style="font-weight: bold; margin-bottom: 30px; color: var(--text-color);">Contact Information</h3>
-
-
 
                 <div style="margin-bottom: 20px;">
 
@@ -1431,8 +1308,6 @@ seoTitle: Athletic Therapy Colwood
 
                 </div>
 
-
-
                 <div style="margin-bottom: 20px;">
 
                     <span style="margin-right: 15px;">📞</span>
@@ -1440,8 +1315,6 @@ seoTitle: Athletic Therapy Colwood
                     <span style="color: var(--text-color);">+1 (250) 812-8698</span>
 
                 </div>
-
-
 
                 <div style="margin-bottom: 30px;">
 
@@ -1473,8 +1346,6 @@ seoTitle: Athletic Therapy Colwood
 
                 </div>
 
-
-
                 <div style="border-top: 1px solid #dee2e6; padding-top: 20px; margin-bottom: 20px;">
 
                     <h4 style="font-weight: bold; margin-bottom: 10px; color: var(--text-color);">Parking & Transit in Colwood</h4>
@@ -1482,8 +1353,6 @@ seoTitle: Athletic Therapy Colwood
                     <p style="font-size: 0.9rem; color: var(--text-color);">Free parking available on-site. Accessible by BC Transit routes serving Colwood. Ground floor location with wheelchair accessibility. Easy access from Royal Bay, Hatley Park, and Ocean Boulevard areas.</p>
 
                 </div>
-
-
 
                 <div style="background: #d4edda; border: 1px solid #c3e6cb; border-radius: 8px; padding: 15px;">
 
@@ -1496,8 +1365,6 @@ seoTitle: Athletic Therapy Colwood
                 </div>
 
             </div>
-
-
 
             <div>
 
@@ -1531,8 +1398,6 @@ seoTitle: Athletic Therapy Colwood
 
 </section>
 
-
-
 <!-- Additional Resources -->
 
 <section class="section bg-white">
@@ -1546,8 +1411,6 @@ seoTitle: Athletic Therapy Colwood
                 Additional Resources & Services in Colwood
 
             </h2>
-
-
 
             <div class="grid grid-3">
 
@@ -1579,8 +1442,6 @@ seoTitle: Athletic Therapy Colwood
 
                 </div>
 
-
-
                 <div class="card" style="border: 0; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
 
                     <h3 style="font-weight: bold; margin-bottom: 20px; color: var(--text-color);">Our Services</h3>
@@ -1608,8 +1469,6 @@ seoTitle: Athletic Therapy Colwood
                     </ul>
 
                 </div>
-
-
 
                 <div class="card" style="border: 0; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
 
@@ -1647,8 +1506,6 @@ seoTitle: Athletic Therapy Colwood
 
 </section>
 
-
-
 <!-- Final CTA -->
 
 <section class="section bg-primary">
@@ -1667,8 +1524,6 @@ seoTitle: Athletic Therapy Colwood
 
          Our experienced therapists are here to help you overcome challenges, whether you're looking to enhance your athletic performance or seek relief from <a href="/conditions/sprains-and-strains/">sprains and strains in Colwood</a>. With personalized treatment plans and hands-on techniques, we will work together to ensure your body is functioning at its best. Don't let injuries hold you back; regain your strength and mobility with our expert support.</p>
 
-
-
         <div style="background: rgba(255,255,255,0.1); border-radius: 8px; padding: 20px; margin-bottom: 40px; max-width: 400px; margin-left: auto; margin-right: auto;">
 
             <div style="color: white;">
@@ -1678,8 +1533,6 @@ seoTitle: Athletic Therapy Colwood
             </div>
 
         </div>
-
-
 
         <div class="grid grid-2" style="max-width: 600px; margin: 0 auto; gap: 20px;">
 
@@ -1701,8 +1554,6 @@ seoTitle: Athletic Therapy Colwood
 
 </section>
 
-
-
 <!-- FAQ Section -->
 
 <section class="section bg-neutral" id="faq">
@@ -1714,8 +1565,6 @@ seoTitle: Athletic Therapy Colwood
             Frequently Asked Questions About Athletic Therapy in Colwood
 
         </h2>
-
-
 
         <div style="max-width: 800px; margin: 0 auto;">
 
@@ -1731,8 +1580,6 @@ seoTitle: Athletic Therapy Colwood
 
             </div>
 
-
-
             <div class="faq-item">
 
                 <div class="faq-question" onclick="toggleFaq(2)">Do I need to be an athlete to see an athletic therapist in Colwood?</div>
@@ -1744,8 +1591,6 @@ seoTitle: Athletic Therapy Colwood
                 </div>
 
             </div>
-
-
 
             <div class="faq-item">
 
@@ -1759,8 +1604,6 @@ seoTitle: Athletic Therapy Colwood
 
             </div>
 
-
-
             <div class="faq-item">
 
                 <div class="faq-question" onclick="toggleFaq(4)">How is Athletic Therapy different from Physiotherapy in Colwood?</div>
@@ -1773,8 +1616,6 @@ seoTitle: Athletic Therapy Colwood
 
             </div>
 
-
-
             <div class="faq-item">
 
                 <div class="faq-question" onclick="toggleFaq(5)">Where is the athletic therapy clinic located in Colwood?</div>
@@ -1786,8 +1627,6 @@ seoTitle: Athletic Therapy Colwood
                 </div>
 
             </div>
-
-
 
             <div class="faq-item">
 
@@ -1806,8 +1645,6 @@ seoTitle: Athletic Therapy Colwood
     </div>
 
 </section>
-
-
 
 <!-- Mobile Sticky CTA -->
 
@@ -1837,8 +1674,6 @@ seoTitle: Athletic Therapy Colwood
 
 </div>
 
-
-
 <script>
 
 function toggleFaq(num) {
@@ -1867,8 +1702,6 @@ function toggleFaq(num) {
 
 }
 
-
-
 // Hide mobile CTA on desktop
 
 if (window.innerWidth > 768) {
@@ -1878,8 +1711,6 @@ if (window.innerWidth > 768) {
 }
 
 </script>
-
-
 
 <script type="application/ld+json">
 {

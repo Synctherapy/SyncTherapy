@@ -10,128 +10,12 @@ seoTitle: 'Mito Red Light Review 2026: MitoPRO X & Adapt'
 
 <!-- wp:html -->
 <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    
+        
     <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-    
+                
     <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-
-    <style>
-        /* Custom styles based on the new design template */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5; /* Neutral-Light */
-            color: #333333; /* Neutral-Dark */
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        /* Custom color classes */
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        .border-accent { border-color: #F5B82E; }
-        
-        /* Heading styles */
-        h1, h2, h3, h4 {
-            color: #2E5A88; /* Deep serene blue */
-            font-weight: 700;
-        }
-        h2 {
-            border-left: 4px solid #F5B82E; /* Warm gold accent */
-            padding-left: 1rem;
-            margin-bottom: 1.5rem;
-            margin-top: 2.5rem;
-            font-size: 1.875rem; /* text-3xl */
-        }
-        h3 {
-            margin-top: 2rem;
-            margin-bottom: 1rem;
-            font-size: 1.5rem; /* text-2xl */
-        }
-        h4 {
-             margin-top: 1.5rem;
-             margin-bottom: 0.5rem;
-             font-size: 1.25rem; /* text-xl */
-             font-weight: 600;
-        }
-
-        /* Affiliate button style */
-        body .affiliate-button {
-            background-color: #F5B82E !important;
-            color: #333333 !important;
-            font-weight: 700 !important;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.85rem 1.75rem !important;
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-        }
-        body .affiliate-button:hover {
-            background-color: #d9a229 !important;
-            transform: translateY(-2px);
-            box-shadow: 0 6px 8px rgba(0,0,0,0.1);
-        }
-        
-        /* Table of Contents Styling */
-        .toc a {
-            transition: color 0.3s ease;
-        }
-        .toc a:hover {
-            color: #F5B82E;
-        }
-        /* Comparison Table Styling */
-        .comparison-table th, .comparison-table td {
-            padding: 0.75rem 1rem;
-            text-align: left;
-            border-bottom: 1px solid #e5e7eb;
-            font-size: 0.875rem;
-        }
-        .comparison-table th {
-            background-color: #f9fafb;
-            font-weight: 600;
-            white-space: nowrap;
-        }
-        .comparison-table td:first-child {
-            font-weight: 600;
-        }
-        /* Video Facade Styling */
-        .video-facade {
-            position: relative;
-            cursor: pointer;
-            overflow: hidden;
-            border-radius: 0.5rem;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
-        }
-        .video-facade img {
-            width: 100%;
-            height: auto;
-            display: block;
-        }
-        .video-facade .play-icon {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            font-size: 5rem;
-            color: rgba(255, 255, 255, 0.9);
-            text-shadow: 0 2px 4px rgba(0,0,0,0.5);
-            transition: transform 0.2s ease;
-        }
-        .video-facade:hover .play-icon {
-            transform: translate(-50%, -50%) scale(1.1);
-        }
-    </style>
     
+        
     <!-- Schema Markup -->
     <script type="application/ld+json">
     {
@@ -188,7 +72,6 @@ seoTitle: 'Mito Red Light Review 2026: MitoPRO X & Adapt'
             <p class="text-lg text-gray-700">Mito Red Light has established itself as a leader in the at-home wellness space by consistently producing high-quality red light therapy products. The company is known for its commitment to efficacy and safety, building panels with high irradiance (power), low EMF output, and multiple, clinically-backed wavelengths of light. This focus on quality engineering ensures that users get a safe and effective treatment, making Mito Red a trusted name for those looking to invest in their health.</p>
 
             <img src="/uploads/2025/07/Mito-Red-Light-Reviews.png" alt="Mito Red Light reviews collage showing various panels like the MitoPRO and MitoAdapt series." class="rounded-lg shadow-lg my-8 w-full">
-
 
             <!-- Key Takeaways -->
             <section id="key-takeaways" class="bg-blue-50 border-l-4 border-primary p-6 rounded-lg shadow-sm">

@@ -11,146 +11,12 @@ seoTitle: 'How to Know If Probiotics Are Working: 11 Clear Signs in 2026'
 
 <!-- wp:html -->
 <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    
+        
     <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-    
+                
     <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-
-    <style>
-        /* Custom styles based on the new design template */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5; /* Neutral-Light */
-            color: #333333; /* Neutral-Dark */
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        /* Custom color classes */
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        .border-accent { border-color: #F5B82E; }
-        
-        /* Heading styles */
-        h1, h2, h3 {
-            color: #2E5A88; /* Deep serene blue */
-            font-weight: 700;
-        }
-        h2 {
-            border-left: 4px solid #F5B82E; /* Warm gold accent */
-            padding-left: 1rem;
-            margin-bottom: 1.5rem;
-            margin-top: 2.5rem;
-            font-size: 1.75rem;
-            font-weight: 800;
-        }
-        h3 {
-            margin-bottom: 0.5rem;
-            font-size: 1.25rem;
-            font-weight: 700;
-        }
-
-        /* Affiliate button style */
-        body .affiliate-button {
-            background-color: #F5B82E !important;
-            color: #333333 !important;
-            font-weight: 600 !important;
-            transition: background-color 0.3s ease, transform 0.2s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.75rem 1.5rem !important;
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-        }
-        body .affiliate-button:hover {
-            background-color: #d9a229 !important;
-            transform: translateY(-2px);
-        }
-        
-        /* General link styling - UPDATED */
-        a {
-            color: #2E5A88; /* Primary Blue */
-            font-weight: 500;
-            text-decoration: underline;
-            transition: opacity 0.3s ease;
-        }
-        a:hover {
-            opacity: 0.75;
-        }
-
-        /* List styling */
-        ul.custom-list, ol.custom-list {
-            list-style: none;
-            padding-left: 0;
-        }
-        ul.custom-list li, ol.custom-list li {
-            position: relative;
-            padding-left: 1.75rem;
-            margin-bottom: 0.75rem;
-        }
-        ul.custom-list li::before {
-            content: '\\f058'; /* Font Awesome check-circle icon */
-            font-family: 'Font Awesome 6 Free';
-            font-weight: 900;
-            color: #F5B82E; /* Warm gold */
-            position: absolute;
-            left: 0;
-            top: 2px;
-            font-size: 1.1rem;
-        }
-         ol.custom-list li {
-            counter-increment: custom-counter;
-            margin-bottom: 1rem;
-        }
-        ol.custom-list li::before {
-            content: counter(custom-counter);
-            background-color: #2E5A88;
-            color: white;
-            border-radius: 50%;
-            width: 1.5rem;
-            height: 1.5rem;
-            display: inline-block;
-            text-align: center;
-            line-height: 1.5rem;
-            font-size: 0.9rem;
-            font-weight: bold;
-            position: absolute;
-            left: 0;
-            top: 0;
-        }
-
-        /* Comparison Table Styling */
-        .comparison-table th, .comparison-table td {
-            padding: 0.75rem 1rem;
-            text-align: center;
-            border-bottom: 1px solid #e5e7eb;
-        }
-        .comparison-table th {
-            background-color: #2E5A88;
-            color: white;
-            font-weight: 600;
-        }
-        .comparison-table .fa-check-circle {
-            color: #16a34a; /* Green */
-        }
-        .comparison-table .fa-times-circle {
-            color: #dc2626; /* Red */
-        }
-        .comparison-table .winner {
-            background-color: #eff6ff;
-            font-weight: bold;
-        }
-    </style>
     
+        
     <!-- FAQ Schema -->
     <script type="application/ld+json">
     {
@@ -450,7 +316,6 @@ seoTitle: 'How to Know If Probiotics Are Working: 11 Clear Signs in 2026'
                     </table>
                 </div>
             </section>
-
 
             <section id="not-working">
                 <h2 class="text-3xl font-bold">What Are the Signs Probiotics Are NOT Working?</h2>

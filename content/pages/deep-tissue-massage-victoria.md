@@ -17,14 +17,12 @@ seoTitle: 'Deep Tissue Massage Victoria, BC | Colwood RMT'
     <meta property="og:type" content="website">
     
     <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-    
+        
     <!-- Lucide Icons -->
     <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js"></script>
     
     <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script>
+        <script>
         tailwind.config = {
             theme: {
                 extend: {

@@ -39,8 +39,6 @@ Learn About Visceral Manipulation<b></b>
 
 Correct Exercise Recommendations
 
-
-
 Do you want the right exercises to reduce your back pain at the same time? We get you the right exercises to get you feeling better without spending hours in the gym Our tailored program focuses on quick, effective routines that can be easily integrated into your daily life. If you're seeking comprehensive solutions, consider exploring the various back pain treatment options in Victoria that can complement your exercise plan. By combining the right movements with expert guidance, you’ll be on your way to a stronger, pain-free back in no time. In addition to exercises, it's important to understand the various back pain treatment options Victoria offers that can help accelerate your recovery. From physical therapy to specialized chiropractic care, these services can provide the support you need to enhance your progress. Embracing a holistic approach ensures that you're not only easing your pain but also building a foundation for long-term spinal health.
 
 Learn About Athletic Therapy
@@ -118,8 +116,6 @@ Nutrition Client
 It's Time To Book Your Appointment
 
 One dedicated therapist to you, over a decade of experience, and results tailored to you
-
-
 
 <span style="color: var(--awb-text-color); font-family: var(--awb-text-font-family); font-size: var(--awb-font-size); font-style: var(--awb-text-font-style); font-weight: var(--awb-text-font-weight); letter-spacing: var(--awb-letter-spacing); text-align: var(--awb-content-alignment); text-transform: var(--awb-text-transform); background-color: var(--awb-bg-color);">"...Daryl was instrumental in helping me gain back my mobility and add strength, to help me return to professional sport..</span><em>.</em><span style="color: var(--awb-text-color); font-family: var(--awb-text-font-family); font-size: var(--awb-font-size); font-style: var(--awb-text-font-style); font-weight: var(--awb-text-font-weight); letter-spacing: var(--awb-letter-spacing); text-align: var(--awb-content-alignment); text-transform: var(--awb-text-transform); background-color: var(--awb-bg-color);">I would recommend Sync Therapy to anyone who has a sports injury, or those seeking treatment for everyday aches and pains as Daryl goes above and beyond to make sure his clients are healthy both mind and body</span><em style="color: var(--awb-text-color); font-family: var(--awb-text-font-family); font-size: var(--awb-font-size); font-weight: var(--awb-text-font-weight); letter-spacing: var(--awb-letter-spacing); text-align: var(--awb-content-alignment); text-transform: var(--awb-text-transform); background-color: var(--awb-bg-color);">”</em>
 

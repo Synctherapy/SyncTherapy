@@ -235,7 +235,6 @@ seoTitle: Shoulder Pain
         }
     </style>
 
-
 <!-- Urgent Banner -->
 <div class="urgent-banner">
     ⚡ LIMITED TIME: Shoulder pain relief sessions available this week! Book now for immediate mobility improvement

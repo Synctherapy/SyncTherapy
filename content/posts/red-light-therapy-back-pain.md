@@ -10,118 +10,12 @@ seoTitle: Red Light Therapy for Back Pain (2026 Guide)
 
 <!-- wp:html -->
 <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    
+        
     <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-    
+                
     <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-
-    <style>
-        /* Custom styles based on the new design template */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5; /* Neutral-Light */
-            color: #333333; /* Neutral-Dark */
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        /* Custom color classes */
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        .border-accent { border-color: #F5B82E; }
-        
-        /* Heading styles */
-        h1, h2, h3, h4 {
-            color: #2E5A88; /* Deep serene blue */
-            font-weight: 700;
-        }
-        h2 {
-            border-left: 4px solid #F5B82E; /* Warm gold accent */
-            padding-left: 1rem;
-            margin-bottom: 1.5rem;
-            margin-top: 2.5rem;
-            font-size: 1.875rem; /* text-3xl */
-        }
-        h3 {
-            margin-bottom: 0.5rem;
-            font-size: 1.5rem; /* text-2xl */
-        }
-        h4 {
-            font-size: 1.25rem; /* text-xl */
-            margin-bottom: 0.5rem;
-        }
-
-        /* Affiliate button style */
-        body .affiliate-button {
-            background-color: #F5B82E !important;
-            color: #333333 !important;
-            font-weight: 700 !important;
-            transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;
-            display: inline-block !important;
-            text-align: center !important;
-            padding: 0.85rem 1.5rem !important;
-            border-radius: 0.5rem !important;
-            border: none !important;
-            text-decoration: none !important;
-            width: 100%;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-        }
-        body .affiliate-button:hover {
-            background-color: #d9a229 !important;
-            transform: translateY(-3px);
-            box-shadow: 0 7px 14px rgba(0,0,0,0.1);
-        }
-        
-        /* Comparison Table Styling */
-        .comparison-table th, .comparison-table td {
-            padding: 1rem;
-            text-align: center;
-            border-bottom: 1px solid #e5e7eb;
-            vertical-align: middle;
-        }
-        .comparison-table th {
-            background-color: #f9fafb;
-            font-weight: 600;
-            text-align: left;
-        }
-        .comparison-table td:first-child {
-            font-weight: 600;
-            text-align: left;
-        }
-        .comparison-table .fa-check-circle {
-            color: #16a34a; /* Green */
-            font-size: 1.5rem;
-        }
-        .comparison-table .fa-times-circle {
-            color: #dc2626; /* Red */
-            font-size: 1.5rem;
-        }
-        .comparison-table .product-image {
-            width: 100px;
-            height: 100px;
-            object-fit: contain;
-            margin: 0 auto;
-        }
-        .best-for-tag {
-            display: inline-block;
-            background-color: #e0f2fe;
-            color: #0c4a6e;
-            padding: 0.25rem 0.75rem;
-            border-radius: 9999px;
-            font-size: 0.875rem;
-            font-weight: 500;
-            margin-bottom: 1rem;
-        }
-    </style>
     
+        
     <!-- Schema Markup -->
     <script type="application/ld+json">
     {

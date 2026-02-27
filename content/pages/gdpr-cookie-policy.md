@@ -8,7 +8,6 @@ description: >-
 seoTitle: GDPR Cookie Policy | Sync Therapy
 ---
 
-
 <ul>
  	<li> <a href="#cookies_1">What are cookies?</a>
 </li>

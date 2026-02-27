@@ -177,6 +177,7 @@ export function BlogOneLayout({ frontmatter, content, category = "manual-therapy
                                 width={56}
                                 height={56}
                                 className="w-full h-full object-cover"
+                                priority={true}
                             />
                         </div>
                         <div className="flex-1">

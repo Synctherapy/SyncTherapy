@@ -6,6 +6,7 @@ const config: Config = {
         "./pages/**/*.{js,ts,jsx,tsx,mdx}",
         "./components/**/*.{js,ts,jsx,tsx,mdx}",
         "./app/**/*.{js,ts,jsx,tsx,mdx}",
+        "./content/**/*.md",
     ],
     theme: {
         extend: {
@@ -63,6 +64,9 @@ const config: Config = {
             colors: {
                 background: "var(--background)",
                 foreground: "var(--foreground)",
+                neutral: {
+                    light: "#F4F7F5",
+                }
             },
         },
     },

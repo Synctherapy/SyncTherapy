@@ -30,8 +30,7 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
     <!-- Google Fonts -->
 
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-
+    
     
 
     <!-- Lucide Icons -->
@@ -42,8 +41,7 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
     <!-- Tailwind CSS -->
 
-    <script src="https://cdn.tailwindcss.com"></script>
-
+    
     <script>
 
         tailwind.config = {
@@ -234,7 +232,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
     </style>
 
-
 <body class="min-h-screen bg-neutral-DEFAULT font-body">
 
     <!-- Breadcrumbs -->
@@ -256,8 +253,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
         </div>
 
     </nav>
-
-
 
     <!-- Hero Section -->
 
@@ -297,15 +292,11 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
                     </div>
 
-
-
                     <h1 class="text-3xl sm:text-4xl lg:text-5xl font-heading font-bold text-text mb-4 leading-tight">
 
                         Registered Massage Therapy in Victoria, BC
 
                     </h1>
-
-
 
                     <p class="text-lg sm:text-xl text-text/80 mb-6 leading-relaxed">
 
@@ -313,11 +304,7 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
                     </p>
 
-
-
                     <p class="text-lg text-primary font-medium mb-4">Feel Better. Move Better. Live Better.</p>
-
-
 
                     <p class="text-base text-text/70 mb-8">
 
@@ -330,8 +317,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
                         and the greater Victoria area.
 
                     </p>
-
-
 
                     <div class="bg-accent/10 border border-accent/20 rounded-lg p-4 mb-8">
 
@@ -347,8 +332,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
                     </div>
 
-
-
                     <!-- Jump Links -->
 
                     <div class="hidden sm:flex flex-wrap gap-2 lg:gap-4 mb-8 text-sm">
@@ -362,8 +345,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
                         <a href="#booking" class="text-primary hover:text-primary/80 font-semibold bg-primary/10 px-2 py-1 lg:px-3 lg:py-1 rounded-full text-xs sm:text-sm">Book</a>
 
                     </div>
-
-
 
                     <div class="flex flex-col gap-3 sm:flex-row sm:gap-4">
 
@@ -393,8 +374,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
                 </div>
 
-
-
                 <div class="relative mt-8 lg:mt-0">
 
                     <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Sync%20THerapy%20offers%20registered%20massage%20therapy%20in%20victoria%20BC%20%20%281%29-0j1ZhDGJJjMSoQYMQYuCBYZApgBfYY.webp" 
@@ -410,8 +389,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
         </div>
 
     </section>
-
-
 
     <!-- Problem → Solution -->
 
@@ -433,8 +410,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
                  With a focus on individual needs, we tailor each session to ensure optimal results and promote overall wellness. In addition to traditional techniques, we offer various back pain treatment options in Victoria that can be integrated into your personalized care plan. Experience the difference that specialized therapy can make in your journey towards a pain-free life.</p>
 
-
-
                 <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6" id="benefits">
 
                     <div class="text-center">
@@ -451,8 +426,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
                     </div>
 
-
-
                     <div class="text-center">
 
                         <div class="bg-secondary/30 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
@@ -467,8 +440,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
                     </div>
 
-
-
                     <div class="text-center">
 
                         <div class="bg-accent/20 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
@@ -482,8 +453,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
                         <p class="text-sm text-text/70">Deep relaxation and nervous system regulation</p>
 
                     </div>
-
-
 
                     <div class="text-center">
 
@@ -507,8 +476,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
     </section>
 
-
-
     <!-- Treatment Breakdown -->
 
     <section class="py-16 bg-neutral-DEFAULT">
@@ -522,8 +489,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
                     What to Expect During Your RMT Session
 
                 </h2>
-
-
 
                 <div class="grid md:grid-cols-3 gap-8 mb-12">
 
@@ -545,8 +510,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
                     </div>
 
-
-
                     <div class="bg-white rounded-lg shadow-md p-6">
 
                         <div class="flex items-center mb-4">
@@ -564,8 +527,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
                         </p>
 
                     </div>
-
-
 
                     <div class="bg-white rounded-lg shadow-md p-6">
 
@@ -586,8 +547,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
                     </div>
 
                 </div>
-
-
 
                 <div class="bg-white p-8 rounded-xl shadow-md">
 
@@ -661,8 +620,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
     </section>
 
-
-
     <!-- Additional Massage Services -->
 
     <section class="py-16 bg-white">
@@ -679,8 +636,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
                 </p>
 
-
-
                 <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
 
                     <a href="/services/deep-tissue-massage/" class="block">
@@ -695,8 +650,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
                     </a>
 
-
-
                     <a href="/services/massage-therapy/" class="block">
 
                         <div class="bg-white rounded-lg shadow-sm hover:shadow-md hover:bg-neutral-DEFAULT/50 transition-all p-6 cursor-pointer">
@@ -708,8 +661,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
                         </div>
 
                     </a>
-
-
 
                     <a href="/services/sports-massage/" class="block">
 
@@ -724,8 +675,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
                     </a>
 
                 </div>
-
-
 
                 <div class="mt-8">
 
@@ -743,8 +692,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
     </section>
 
-
-
     <!-- Conditions We Treat - Simplified Carousel -->
 
     <section class="py-16 bg-white">
@@ -760,8 +707,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
                     Our registered massage therapists specialize in treating a wide range of conditions with evidence-based techniques.
 
                 </p>
-
-
 
                 <!-- Simplified Conditions Grid -->
 
@@ -791,8 +736,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
                     </div>
 
-
-
                     <div class="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow">
 
                         <h3 class="font-semibold text-text mb-2">Headaches & Migraines</h3>
@@ -817,8 +760,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
                     </div>
 
-
-
                     <div class="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow">
 
                         <h3 class="font-semibold text-text mb-2">Sports Injuries</h3>
@@ -842,8 +783,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
                         </div>
 
                     </div>
-
-
 
                     <div class="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow">
 
@@ -871,8 +810,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
                 </div>
 
-
-
                 <div class="mt-8 text-center">
 
                     <a href="/conditions/" class="text-primary hover:underline font-medium">
@@ -889,8 +826,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
     </section>
 
-
-
     <!-- Therapist Credentials -->
 
     <section class="py-16 bg-neutral-DEFAULT">
@@ -904,8 +839,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
                     Meet Your Registered Massage Therapist
 
                 </h2>
-
-
 
                 <div class="bg-white rounded-lg shadow-md overflow-hidden">
 
@@ -927,15 +860,11 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
                             <p class="text-primary mb-4 font-medium">Registered Massage Therapist • 7+ Years Experience</p>
 
-
-
                             <p class="text-text/80 mb-6">
 
                                 With over a decade of clinical experience and 7+ years as a registered massage therapist in Victoria, Daryl brings a wealth of knowledge to Sync Therapy. His approach combines evidence-based techniques with intuitive touch, allowing him to effectively address chronic pain, sports injuries, and stress-related tension.
 
                             </p>
-
-
 
                             <div class="space-y-2">
 
@@ -969,8 +898,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
     </section>
 
-
-
     <!-- Pricing & Direct Billing -->
 
     <section class="py-16 bg-white" id="pricing">
@@ -984,8 +911,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
                     Transparent Pricing & Direct Billing
 
                 </h2>
-
-
 
                 <div class="grid md:grid-cols-2 gap-8">
 
@@ -1018,8 +943,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
                         </div>
 
                     </div>
-
-
 
                     <div class="bg-white rounded-lg shadow-md p-6">
 
@@ -1081,8 +1004,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
                 </div>
 
-
-
                 <div class="text-center mt-8">
 
                     <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" href="/direct-billing/" class="text-primary hover:underline font-medium">                        View Complete Pricing & Insurance Information →                    </a>
@@ -1095,8 +1016,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
     </section>
 
-
-
     <!-- Testimonials -->
 
     <section class="py-16 bg-neutral-DEFAULT">
@@ -1106,8 +1025,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
             <div class="max-w-4xl mx-auto">
 
                 <h2 class="text-3xl font-heading font-bold text-center text-text mb-12">What Our Clients Say</h2>
-
-
 
                 <div class="grid md:grid-cols-3 gap-8">
 
@@ -1137,8 +1054,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
                     </div>
 
-
-
                     <div class="bg-white rounded-lg shadow-md p-6">
 
                         <div class="flex mb-4">
@@ -1164,8 +1079,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
                         <p class="font-semibold text-text">- Melanie M.</p>
 
                     </div>
-
-
 
                     <div class="bg-white rounded-lg shadow-md p-6">
 
@@ -1195,8 +1108,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
                 </div>
 
-
-
                 <div class="text-center mt-8">
 
                     <a href="https://maps.app.goo.gl/6eFnmYUUQ3XcuMJFA" class="text-primary hover:underline font-medium" target="_blank" rel="noopener noreferrer">
@@ -1213,8 +1124,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
     </section>
 
-
-
     <!-- Location & Contact -->
 
     <section class="py-16 bg-white">
@@ -1225,8 +1134,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
                 <h2 class="text-3xl font-heading font-bold text-center text-text mb-12">Visit Our Colwood Clinic</h2>
 
-
-
                 <div class="grid lg:grid-cols-2 gap-12">
 
                     <div>
@@ -1234,8 +1141,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
                         <div class="bg-neutral-DEFAULT p-8 rounded-xl shadow-md">
 
                             <h3 class="text-xl font-heading font-semibold mb-6 text-text">Contact Information</h3>
-
-
 
                             <div class="space-y-4">
 
@@ -1255,8 +1160,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
                                 </div>
 
-
-
                                 <div class="flex items-center">
 
                                     <i data-lucide="phone" class="w-5 h-5 text-primary mr-3"></i>
@@ -1264,8 +1167,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
                                     <p class="text-text">+1 (250) 812-8698</p>
 
                                 </div>
-
-
 
                                 <div class="flex items-start">
 
@@ -1287,8 +1188,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
                             </div>
 
-
-
                             <div class="mt-6 pt-6 border-t border-neutral-DEFAULT">
 
                                 <h4 class="font-semibold mb-2 text-text">Parking & Transit</h4>
@@ -1304,8 +1203,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
                         </div>
 
                     </div>
-
-
 
                     <div>
 
@@ -1330,8 +1227,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
         </div>
 
     </section>
-
-
 
     <!-- Booking CTA Banner -->
 
@@ -1375,8 +1270,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
     </section>
 
-
-
     <!-- Additional Resources -->
 
     <section class="py-16 bg-white">
@@ -1390,8 +1283,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
                     Additional Resources & Services
 
                 </h2>
-
-
 
                 <div class="grid md:grid-cols-3 gap-8">
 
@@ -1416,8 +1307,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
                         </ul>
 
                     </div>
-
-
 
                     <div class="bg-white rounded-lg shadow-md p-6">
 
@@ -1446,8 +1335,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
                         </ul>
 
                     </div>
-
-
 
                     <div class="bg-white rounded-lg shadow-md p-6">
 
@@ -1485,8 +1372,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
     </section>
 
-
-
     <!-- FAQ -->
 
     <section class="py-16 bg-neutral-DEFAULT" id="faq">
@@ -1496,8 +1381,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
             <div class="max-w-3xl mx-auto">
 
                 <h2 class="text-3xl font-heading font-bold text-center text-text mb-12">Frequently Asked Questions</h2>
-
-
 
                 <div class="space-y-4">
 
@@ -1525,8 +1408,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
                     </div>
 
-
-
                     <div class="border border-neutral-DEFAULT rounded-xl bg-white">
 
                         <button class="w-full px-6 py-4 text-left font-medium text-text hover:bg-gray-50 rounded-xl focus:outline-none focus:ring-2 focus:ring-primary" 
@@ -1550,8 +1431,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
                         </div>
 
                     </div>
-
-
 
                     <div class="border border-neutral-DEFAULT rounded-xl bg-white">
 
@@ -1577,8 +1456,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
                     </div>
 
-
-
                     <div class="border border-neutral-DEFAULT rounded-xl bg-white">
 
                         <button class="w-full px-6 py-4 text-left font-medium text-text hover:bg-gray-50 rounded-xl focus:outline-none focus:ring-2 focus:ring-primary" 
@@ -1603,8 +1480,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
                     </div>
 
-
-
                     <div class="border border-neutral-DEFAULT rounded-xl bg-white">
 
                         <button class="w-full px-6 py-4 text-left font-medium text-text hover:bg-gray-50 rounded-xl focus:outline-none focus:ring-2 focus:ring-primary" 
@@ -1628,8 +1503,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
                         </div>
 
                     </div>
-
-
 
                     <div class="border border-neutral-DEFAULT rounded-xl bg-white">
 
@@ -1663,8 +1536,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
     </section>
 
-
-
     <!-- Mobile Sticky CTA -->
 
     <div class="fixed bottom-0 left-0 right-0 bg-primary text-primary-foreground p-4 md:hidden z-50 shadow-lg">
@@ -1690,8 +1561,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
         </div>
 
     </div>
-
-
 
     <!-- Floating Schedule Button (Mobile Only) -->
 
@@ -1802,7 +1671,6 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
   ]
 }
 </script>
-
 
     <!-- JavaScript -->
 

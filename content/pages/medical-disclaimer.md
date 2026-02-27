@@ -8,8 +8,6 @@ description: >-
 seoTitle: Medical Disclaimer | Sync Therapy
 ---
 
-
-
 <strong>No advice</strong>
 
 https://synctherapylocal.local/ contains general information about medical conditions and treatments. The information is not advice, and should not be treated as such.

@@ -15,8 +15,7 @@ seoTitle: Daryl Stubbs — RMT & Athletic Therapist Colwood
     <meta name="keywords" content="athletic therapist Victoria BC, sports rehabilitation Colwood, athletic therapy West Shore, back pain treatment Victoria, shoulder pain Langford, knee pain treatment Colwood, athletic therapy clinic Victoria, sports injury treatment West Shore, performance enhancement Victoria BC, certified athletic therapist Colwood, sports medicine Victoria, tendonitis treatment West Shore, plantar fasciitis Victoria BC, IT band syndrome treatment Colwood, athletic therapist near me Victoria">
     
     <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
-    
+        
     <!-- Lucide Icons -->
     <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js"></script>
     
@@ -862,7 +861,6 @@ seoTitle: Daryl Stubbs — RMT & Athletic Therapist Colwood
   ]
 }
 </script>
-
 
     <!-- Initialize Lucide Icons -->
     <script>

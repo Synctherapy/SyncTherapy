@@ -40,7 +40,6 @@ seoTitle: Athletic Therapy Langford
     }
     </script>
 
-
     <style>
         /* Consistent color scheme with previous version */
         :root {
@@ -953,7 +952,6 @@ seoTitle: Athletic Therapy Langford
         ⚠️ 3 spots left &nbsp;&nbsp; 🛡️ Direct billing &nbsp;&nbsp; ⭐ 4.9★ rated
     </div>
 </div>
-
 
 <script type="application/ld+json">
 {

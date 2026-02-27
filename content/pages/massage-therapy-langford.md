@@ -19,8 +19,7 @@ seoTitle: Massage Therapy Langford
     <meta property="og:url" content="https://synctherapylocal.local/services/massage-therapy/">
     
     <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-    
+        
     <style>
         :root {
             --primary: #2E5A88;
@@ -787,7 +786,6 @@ seoTitle: Massage Therapy Langford
             📞 Call
         </a>
     </div>
-
 
 <script type="application/ld+json">
 {

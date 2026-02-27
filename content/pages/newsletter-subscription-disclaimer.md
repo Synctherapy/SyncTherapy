@@ -8,8 +8,6 @@ description: >-
 seoTitle: Newsletter Disclaimer | Sync Therapy
 ---
 
-
-
 <strong>If you choose to provide us with your email address or any other personally identifiable information, we will use it only to send you our newsletter or respond to your query.</strong>
 
 If you choose to unsubscribe from the newsletters, you’ll stop receiving any newsletters.

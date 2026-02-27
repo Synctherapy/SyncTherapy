@@ -10,9 +10,6 @@ seoTitle: Best Red Light Therapy for Knee Pain (2026)
 
 <!-- wp:html -->
 <!-- Preconnect and Font Loading (Critical for preventing CLS) -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
 
 <style>
     body {

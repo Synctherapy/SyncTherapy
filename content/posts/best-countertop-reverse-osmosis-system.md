@@ -410,7 +410,6 @@ The full article will include all product reviews, buying guide, comparisons, an
                 </div>
             </section>
 
-
             <!-- Product #2: Waterdrop A1 - DETAILED REVIEW -->
             <section id="waterdrop-a1" class="product-card">
                 <h2 class="!mt-0">#2 Waterdrop A1: Best Premium Countertop RO System with Hot & Cold Water</h2>
@@ -504,7 +503,6 @@ The full article will include all product reviews, buying guide, comparisons, an
                     </div>
                 </div>
             </section>
-
 
             <!-- Product #3: Waterdrop K19 - DETAILED REVIEW -->
             <section id="waterdrop-k19" class="product-card">
@@ -616,7 +614,6 @@ The full article will include all product reviews, buying guide, comparisons, an
                     </div>
                 </div>
             </section>
-
 
             <!-- Product #4: Bluevua RoPot - DETAILED REVIEW -->
             <section id="bluevua-ropot" class="product-card featured">
@@ -731,7 +728,6 @@ The full article will include all product reviews, buying guide, comparisons, an
                     </div>
                 </div>
             </section>
-
 
             <!-- Product #5: Nu Aqua - DETAILED REVIEW -->
             <section id="nu-aqua" class="product-card">
@@ -848,7 +844,6 @@ The full article will include all product reviews, buying guide, comparisons, an
                 </div>
             </section>
 
-
             <!-- HOW COUNTERTOP RO SYSTEMS WORK -->
             <section id="how-they-work" class="bg-white p-8 rounded-lg shadow-md">
                 <h2 class="!mt-0">How Do Countertop Reverse Osmosis Systems Work?</h2>
@@ -925,7 +920,6 @@ The full article will include all product reviews, buying guide, comparisons, an
 
                 <p class="text-gray-700">Both methods produce water quality identical to under-sink systems—the only difference is how they generate the pressure needed for the RO process.</p>
             </section>
-
 
             <!-- BENEFITS OF COUNTERTOP RO SYSTEMS -->
             <section id="benefits" class="bg-white p-8 rounded-lg shadow-md">
@@ -1035,7 +1029,6 @@ The full article will include all product reviews, buying guide, comparisons, an
                     </div>
                 </div>
             </section>
-
 
             <!-- COMPLETE BUYING GUIDE -->
             <section id="buying-guide" class="bg-white p-8 rounded-lg shadow-md">
@@ -1243,7 +1236,6 @@ The full article will include all product reviews, buying guide, comparisons, an
                 </div>
             </section>
 
-
             <!-- BRAND COMPARISONS -->
             <section id="brand-comparisons" class="bg-white p-8 rounded-lg shadow-md">
                 <h2 class="!mt-0">Brand Comparisons: Which Countertop RO System Is Right for You?</h2>
@@ -1427,7 +1419,6 @@ The full article will include all product reviews, buying guide, comparisons, an
                 </div>
             </section>
 
-
             <!-- COMPREHENSIVE FAQ -->
             <section id="faq" class="bg-white p-8 rounded-lg shadow-md">
                 <h2 class="!mt-0">Frequently Asked Questions About Countertop Reverse Osmosis Systems</h2>
@@ -1524,7 +1515,6 @@ The full article will include all product reviews, buying guide, comparisons, an
                     </div>
                 </div>
             </section>
-
 
             <!-- FINAL RECOMMENDATIONS -->
             <section class="bg-gradient-to-r from-primary to-blue-700 text-white p-8 rounded-lg shadow-lg">

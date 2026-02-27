@@ -9,11 +9,7 @@ seoTitle: 'Best Synbiotics 2026: Top Pre & Probiotic Combos'
 ---
 
 <!-- wp:html -->
-<script src="https://cdn.tailwindcss.com"></script>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-    <style>
+                <style>
         :root {
             --primary: #2E5A88; /* Deep serene blue */
             --accent: #F5B82E; /* Warm gold */
