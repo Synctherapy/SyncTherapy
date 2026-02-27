@@ -65,11 +65,11 @@ export function HealthConsulting() {
         { title: "Health Assessment", href: "/services/wellness-consultation/" },
         { title: "Wellness Consultation", href: "/services/wellness-consultation/" },
         { title: "Personalized Health Plan", href: "/services/personalized-health-plan/" },
-        { title: "Chronic Disease Management", href: "/services/chronic-disease-management/" },
+        { title: "Chronic Disease Management", href: "/conditions/chronic-disease-management/" },
         { title: "Food Sensitivity Counseling", href: "/services/food-sensitivity-counseling/" },
         { title: "Women's Health Consulting", href: "/services/womens-health-consulting/" },
         { title: "Men's Health Consulting", href: "/services/mens-health-consulting/" },
-        { title: "Cardiovascular Health", href: "/services/cardiovascular-health/" },
+        { title: "Cardiovascular Health", href: "/conditions/cardiovascular-health/" },
     ];
 
     return (

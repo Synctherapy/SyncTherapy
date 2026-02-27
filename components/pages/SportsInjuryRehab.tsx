@@ -70,7 +70,7 @@ export function SportsInjuryRehab() {
         { title: "Athletic Training", href: "/services/athletic-therapy/" },
         { title: "Tendonitis Treatment", href: "/conditions/tendonitis-treatment/" },
         { title: "Sprain & Strain Treatment", href: "/conditions/sprains-and-strains/" },
-        { title: "Baseball Injury Therapy", href: "/services/baseball-injury-therapy/" },
+        { title: "Baseball Injury Therapy", href: "/conditions/baseball-injuries/" },
         { title: "Rotator Cuff Rehab", href: "/conditions/rotator-cuff-injury/" },
         { title: "Anterior Knee Pain", href: "/conditions/anterior-knee-pain/" },
         { title: "Shoulder Impingement", href: "/conditions/shoulder-impingement/" },

@@ -1,5 +1,25 @@
 [
     {
+        "source": "/services/chronic-disease-management/",
+        "destination": "/conditions/chronic-disease-management/",
+        "permanent": true
+    },
+    {
+        "source": "/services/cardiovascular-health/",
+        "destination": "/conditions/cardiovascular-health/",
+        "permanent": true
+    },
+    {
+        "source": "/services/fibromyalgia-treatment/",
+        "destination": "/conditions/fibromyalgia/",
+        "permanent": true
+    },
+    {
+        "source": "/services/baseball-injury-therapy/",
+        "destination": "/conditions/baseball-injuries/",
+        "permanent": true
+    },
+    {
         "source": "/services/sciatica-treatment/",
         "destination": "/conditions/sciatica-treatment/",
         "permanent": true
