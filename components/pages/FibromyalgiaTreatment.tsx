@@ -68,9 +68,13 @@ export function FibromyalgiaTreatment() {
 
                         <div className="relative">
                             <div className="relative rounded-[2.5rem] overflow-hidden shadow-2xl border-8 border-white/50 backdrop-blur-sm bg-white/20 aspect-[4/3] lg:aspect-square flex items-center justify-center bg-slate-100">
-                                <div className="text-center p-8">
-                                    <span className="text-slate-400 font-medium text-lg">Safe, Calming Environment</span>
-                                </div>
+                                <Image
+                                    src="/images/heroes/hero-fibromyalgia.png"
+                                    alt="Fibromyalgia Treatment"
+                                    fill
+                                    className="object-cover"
+                                    priority
+                                />
                             </div>
                             <div className="absolute -z-10 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[120%] h-[120%] bg-gradient-to-tr from-purple-100 to-indigo-100 rounded-full blur-3xl opacity-60" />
                         </div>
