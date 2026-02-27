@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     title: 'Sports Medicine & Athletic Therapy | Colwood',
     description: 'Sports medicine and athletic therapy in Colwood. From diagnosis to return-to-play, our Certified Athletic Therapist manages your full recovery.',
     alternates: {
-        canonical: 'https://synctherapy.ca/services/sports-medicine/',
+        canonical: 'https://www.synctherapy.ca/services/sports-medicine/',
     },
 };
 

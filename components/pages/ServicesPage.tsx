@@ -42,7 +42,7 @@ const SERVICES = [
         title: "Direct Billing Massage",
         description: "Convenient massage therapy where we bill your extended health benefits provider directly on your behalf.",
         category: "Massage Therapy",
-        url: "/services/direct-billing/",
+        url: "/direct-billing/",
         icon: Shield,
         featured: true,
     },
@@ -60,7 +60,7 @@ const SERVICES = [
         title: "Registered Nutrition Consulting",
         description: "Professional guidance to help you reach your health goals through practical, sustainable dietary changes.",
         category: "Holistic Nutrition",
-        url: "/services/nutrition-consulting/",
+        url: "/services/services/nutrition-consulting/",
         icon: Award,
         featured: true,
     },
@@ -69,7 +69,7 @@ const SERVICES = [
         title: "Deep Tissue Massage",
         description: "Intense, focused pressure to reach deeper layers of muscle tissue and relieve stubborn, chronic tension.",
         category: "Massage Therapy",
-        url: "/services/deep-tissue-massage-victoria/", // Based on the standard markdown filename in content/pages
+        url: "/services/deep-tissue-massage/", // Based on the standard markdown filename in content/pages
         icon: Activity,
         featured: true,
     },

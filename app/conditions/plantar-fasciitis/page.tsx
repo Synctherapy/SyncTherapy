@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: 'Plantar Fasciitis Treatment | Colwood RMT Clinic',
     description: 'Plantar fasciitis treatment in Colwood. We treat the calf, ankle, and foot mechanics driving your heel pain — not just the symptoms. Book today.',
     alternates: {
-        canonical: 'https://synctherapy.ca/conditions/plantar-fasciitis/',
+        canonical: 'https://www.synctherapy.ca/conditions/plantar-fasciitis/',
     },
 };
 

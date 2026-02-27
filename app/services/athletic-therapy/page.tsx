@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     title: 'Athletic Therapy Colwood & Langford | Sync Clinic',
     description: 'Certified Athletic Therapist in Colwood serving Langford & the West Shore. Sports injuries, concussions, and physical rehab. Direct billing available.',
     alternates: {
-        canonical: 'https://synctherapy.ca/services/athletic-therapy/',
+        canonical: 'https://www.synctherapy.ca/services/athletic-therapy/',
     },
 };
 

@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: 'Sciatica Treatment Colwood | West Shore Clinic',
     description: 'Sciatica treatment in Colwood. We identify whether your nerve pain is disc, piriformis, or visceral in origin, then treat the actual source.',
     alternates: {
-        canonical: 'https://synctherapy.ca/conditions/sciatica/',
+        canonical: 'https://www.synctherapy.ca/conditions/sciatica/',
     },
 };
 

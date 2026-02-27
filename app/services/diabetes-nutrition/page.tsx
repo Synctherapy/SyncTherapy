@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     title: 'Diabetes Nutrition Colwood | Sync Massage Therapy',
     description: 'Diabetes nutrition management in Colwood. Blood sugar stabilization, meal planning, and lifestyle changes guided by a certified Holistic Nutritionist.',
     alternates: {
-        canonical: 'https://synctherapy.ca/services/diabetes-nutrition/',
+        canonical: 'https://www.synctherapy.ca/services/diabetes-nutrition/',
     },
 };
 

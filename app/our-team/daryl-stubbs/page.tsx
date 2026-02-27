@@ -238,7 +238,7 @@ export default function DarylStubbsBio() {
                                         </div>
                                     </div>
                                     <div className="px-6 pb-6 md:px-8 md:pb-8 text-slate-600 leading-relaxed text-lg">
-                                        Healing often requires more than just physical manipulation; it requires the right cellular building blocks. As a <Link href="/services/nutrition-consulting/" className="text-blue-700 hover:text-blue-900 underline underline-offset-4 font-medium transition-colors">Holistic Nutritionist</Link>, I focus on systemic wellness. By utilizing targeted anti-inflammatory diets, gut health protocols, and lifestyle/supplement recommendations, I help clients reduce internal tension and systemic inflammation, allowing the body to truly feel its best and accelerate the physical healing process.
+                                        Healing often requires more than just physical manipulation; it requires the right cellular building blocks. As a <Link href="/services/services/nutrition-consulting/" className="text-blue-700 hover:text-blue-900 underline underline-offset-4 font-medium transition-colors">Holistic Nutritionist</Link>, I focus on systemic wellness. By utilizing targeted anti-inflammatory diets, gut health protocols, and lifestyle/supplement recommendations, I help clients reduce internal tension and systemic inflammation, allowing the body to truly feel its best and accelerate the physical healing process.
                                     </div>
                                 </div>
                             </div>

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     title: 'Dietary Consultation Langford | Sync Therapy',
     description: 'Holistic dietary consultation near Langford. Personalized nutrition plans for weight management, energy, and chronic health conditions. Book online.',
     alternates: {
-        canonical: 'https://synctherapy.ca/services/dietary-consultation/',
+        canonical: 'https://www.synctherapy.ca/services/dietary-consultation/',
     },
 };
 

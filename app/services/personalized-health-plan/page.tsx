@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     title: 'Personalized Health Plan Colwood | Sync Therapy',
     description: 'Get a personalized health plan from a Holistic Nutritionist in Colwood. We combine nutrition, supplements, and lifestyle changes for lasting results.',
     alternates: {
-        canonical: 'https://synctherapy.ca/services/personalized-health-plan/',
+        canonical: 'https://www.synctherapy.ca/services/personalized-health-plan/',
     },
 };
 

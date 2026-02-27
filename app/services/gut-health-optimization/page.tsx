@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     title: 'Gut Health Optimization | Colwood Nutritionist',
     description: 'Gut health optimization by a Holistic Nutritionist in Colwood. We address bloating, IBS, dysbiosis, and leaky gut with targeted nutrition protocols.',
     alternates: {
-        canonical: 'https://synctherapy.ca/services/gut-health-optimization/',
+        canonical: 'https://www.synctherapy.ca/services/gut-health-optimization/',
     },
 };
 

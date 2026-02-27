@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     title: 'Sports Injury Treatment Langford | Sync Massage',
     description: 'Acute sports injury treatment near Langford. Our Athletic Therapist provides same-week assessments and rehab protocols to accelerate your recovery.',
     alternates: {
-        canonical: 'https://synctherapy.ca/services/sports-injury-treatment/',
+        canonical: 'https://www.synctherapy.ca/services/sports-injury-treatment/',
     },
 };
 

@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: 'Relaxation Massage Colwood | Sync Massage Therapy',
     description: 'Unwind with a relaxation or Swedish massage in Colwood. Reduce stress, improve sleep, and restore balance. Direct billing available. Book online today.',
     alternates: {
-        canonical: 'https://synctherapy.ca/services/relaxation-massage/',
+        canonical: 'https://www.synctherapy.ca/services/relaxation-massage/',
     },
 };
 

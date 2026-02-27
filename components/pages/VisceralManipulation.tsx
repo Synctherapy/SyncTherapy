@@ -51,7 +51,7 @@ export function VisceralManipulation() {
 
     const conditions = [
         { name: 'Chronic Back Pain', url: '/conditions/back-pain/', desc: 'Releasing deep tension pulling from the front.' },
-        { name: 'Digestive Issues (IBS)', url: '/services/nutrition-consulting/', desc: 'Reducing mechanical restriction in the gut.' },
+        { name: 'Digestive Issues (IBS)', url: '/services/services/nutrition-consulting/', desc: 'Reducing mechanical restriction in the gut.' },
         { name: 'Sciatica Relief', url: '/conditions/sciatica-treatment/', desc: 'Addressing pelvic organ pressure on nerves.' },
         { name: 'C-Section/Surgery Scars', url: '/services/myofascial-release/', desc: 'Mobilizing scar tissue adhesions.' },
         { name: 'Hip Mobility', url: '/conditions/hip-and-knee-pain/', desc: 'Restoring cecum/sigmoid colon motion.' },

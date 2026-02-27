@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: 'Tendonitis Treatment Colwood | Sync Massage',
     description: 'Tendonitis treatment in Colwood & Langford. Load management, manual therapy, and progressive tendon rehab to resolve pain and restore function.',
     alternates: {
-        canonical: 'https://synctherapy.ca/conditions/tendonitis-treatment/',
+        canonical: 'https://www.synctherapy.ca/conditions/tendonitis-treatment/',
     },
 };
 

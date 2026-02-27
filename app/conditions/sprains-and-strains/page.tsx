@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: 'Sprains & Strains Treatment Colwood | Sync',
     description: 'Sprain and strain treatment in Colwood. Acute care, progressive loading, and structured rehab from a Certified Athletic Therapist. Book today.',
     alternates: {
-        canonical: 'https://synctherapy.ca/conditions/sprains-and-strains/',
+        canonical: 'https://www.synctherapy.ca/conditions/sprains-and-strains/',
     },
 };
 

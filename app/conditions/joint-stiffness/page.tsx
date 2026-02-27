@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: 'Joint Stiffness Relief Colwood | Sync Massage',
     description: 'Joint stiffness treatment in Colwood. Restore mobility and range of motion with joint mobilizations, manual therapy, and progressive movement work.',
     alternates: {
-        canonical: 'https://synctherapy.ca/conditions/joint-stiffness/',
+        canonical: 'https://www.synctherapy.ca/conditions/joint-stiffness/',
     },
 };
 

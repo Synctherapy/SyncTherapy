@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     title: 'Post-Event Sports Massage Colwood | Sync Massage',
     description: 'Post-event recovery massage in Colwood for athletes. Flush metabolic waste, reduce soreness, and speed up recovery after competition or hard training.',
     alternates: {
-        canonical: 'https://synctherapy.ca/services/post-event-massage/',
+        canonical: 'https://www.synctherapy.ca/services/post-event-massage/',
     },
 };
 

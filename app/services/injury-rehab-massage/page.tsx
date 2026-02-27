@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     title: 'Injury Rehab Massage Colwood | Sync Massage',
     description: 'Clinical injury rehabilitation massage in Colwood. We combine manual therapy with corrective exercise to resolve injuries at the source. Book online.',
     alternates: {
-        canonical: 'https://synctherapy.ca/services/injury-rehab-massage/',
+        canonical: 'https://www.synctherapy.ca/services/injury-rehab-massage/',
     },
 };
 

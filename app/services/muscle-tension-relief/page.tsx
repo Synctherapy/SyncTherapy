@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     title: 'Muscle Tension Relief Colwood | Sync Massage',
     description: 'Chronic muscle tension treatment in Colwood & Langford. We find and release the areas causing your stiffness, headaches, and restricted movement.',
     alternates: {
-        canonical: 'https://synctherapy.ca/services/muscle-tension-relief/',
+        canonical: 'https://www.synctherapy.ca/services/muscle-tension-relief/',
     },
 };
 

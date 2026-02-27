@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     title: 'Muscle Recovery Massage Colwood | Sync Therapy',
     description: 'Speed up muscle recovery with clinical massage therapy in Colwood. Ideal for post-workout soreness, overtraining, and active lifestyles. Book today.',
     alternates: {
-        canonical: 'https://synctherapy.ca/services/muscle-recovery-massage/',
+        canonical: 'https://www.synctherapy.ca/services/muscle-recovery-massage/',
     },
 };
 

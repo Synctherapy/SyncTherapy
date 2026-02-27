@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     title: 'Shoulder Impingement Treatment | Colwood Clinic',
     description: 'Shoulder impingement treatment in Colwood. We restore scapular mechanics and rotator cuff function so you can move overhead without pain. Book now.',
     alternates: {
-        canonical: 'https://synctherapy.ca/conditions/shoulder-impingement/',
+        canonical: 'https://www.synctherapy.ca/conditions/shoulder-impingement/',
     },
 };
 

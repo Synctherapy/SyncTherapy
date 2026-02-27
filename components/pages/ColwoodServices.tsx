@@ -27,14 +27,14 @@ const services: ServiceItem[] = [
         title: "Neck Pain & Shoulder Relief",
         description: "Our most requested service. Whether from tech-neck or stress, we address the muscles pulling things out of alignment—not just rubbing where it hurts.",
         image: "/images/generated/massage-neck-pain-unique.png",
-        href: "/conditions/headaches-and-neck-pain",
+        href: "/conditions/headaches-migraines",
         cta: "Relieve Neck Pain"
     },
     {
         title: "Massage for Headaches & Migraines",
         description: "Reducing triggers that set off migraines by working on suboccipital muscles, jaw tension, and shoulder muscles. Many clients see less frequent and less severe headaches.",
         image: "/images/generated/massage-headache-unique.png",
-        href: "/conditions/headaches-and-neck-pain",
+        href: "/conditions/headaches-migraines",
         cta: "Get Headache Relief"
     },
     {

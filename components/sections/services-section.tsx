@@ -7,7 +7,7 @@ const featuredItems = [
     title: "Deep Tissue Massage",
     description: "Targeted release for chronic tension and muscle pain. Effective for postural issues and long-standing discomfort.",
     image: "/images/service-massage.jpg",
-    href: "/services/deep-tissue-massage-victoria",
+    href: "/services/deep-tissue-massage",
     cta: "Book Deep Tissue"
   },
   {

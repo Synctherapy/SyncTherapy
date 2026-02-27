@@ -164,7 +164,7 @@ export function JointStiffness() {
                             <h3 className="font-bold text-xl mb-2 text-blue-900">Active Mobility</h3>
                             <p className="text-sm text-slate-600">Coaching you through specific movements to "pump" synovial fluid into the joint.</p>
                         </Link>
-                        <Link href="/services/nutrition-consulting/" className="block p-8 bg-white border border-gray-200 rounded-xl hover:border-blue-600 hover:shadow-xl transition-all group">
+                        <Link href="/services/services/nutrition-consulting/" className="block p-8 bg-white border border-gray-200 rounded-xl hover:border-blue-600 hover:shadow-xl transition-all group">
                             <div className="w-12 h-12 bg-blue-100 text-blue-600 rounded-lg flex items-center justify-center text-2xl mb-4 group-hover:bg-blue-600 group-hover:text-white transition-colors">💧</div>
                             <h3 className="font-bold text-xl mb-2 text-blue-900">Hydration Strategy</h3>
                             <p className="text-sm text-slate-600">Dietary changes to improve systemic hydration and fluid retention in specific tissues.</p>

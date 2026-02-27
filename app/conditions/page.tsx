@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: 'Conditions We Treat in Victoria | Sync Massage Therapy',
     description: 'Back pain, sports injuries, chronic pain, sciatica, and more. Our Colwood clinic treats the root cause of your condition with a clinical rehab approach.',
     alternates: {
-        canonical: 'https://synctherapy.ca/conditions/',
+        canonical: 'https://www.synctherapy.ca/conditions/',
     },
 };
 

@@ -27,7 +27,7 @@ const services = [
         label: "Nutritionist",
         description: "What you eat plays a huge role in pain and inflammation. I sit down with you to figure out where the gaps are.",
         image: "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&q=80&w=800",
-        href: "/services/nutrition-consulting/",
+        href: "/services/services/nutrition-consulting/",
         cta: "View Nutrition Services"
     },
     {

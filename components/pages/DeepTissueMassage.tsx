@@ -209,7 +209,7 @@ export function DeepTissueMassage() {
                                 <p className="text-slate-600 mb-6 leading-relaxed">
                                     Standard massage not enough? We use <Link href="/services/myofascial-release/" className="text-blue-600 underline">Myofascial Release</Link> and deep pressure to resolve long-standing adhesions.
                                 </p>
-                                <Link href="/services/chronic-pain-victoria/" className="text-blue-600 font-bold hover:underline inline-flex items-center gap-1">
+                                <Link href="/conditions/chronic-pain/" className="text-blue-600 font-bold hover:underline inline-flex items-center gap-1">
                                     Pain Solutions <span className="text-lg">→</span>
                                 </Link>
                             </GlassCard>

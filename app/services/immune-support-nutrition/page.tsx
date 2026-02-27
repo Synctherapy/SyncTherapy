@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     title: 'Immune Support Nutrition Colwood | Sync Therapy',
     description: 'Immune support nutrition in Colwood. Strengthen your immune system with targeted supplementation and dietary changes from a Holistic Nutritionist.',
     alternates: {
-        canonical: 'https://synctherapy.ca/services/immune-support-nutrition/',
+        canonical: 'https://www.synctherapy.ca/services/immune-support-nutrition/',
     },
 };
 

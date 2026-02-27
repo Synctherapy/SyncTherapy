@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     title: 'Headache & Migraine Treatment | Colwood RMT',
     description: 'Headache and migraine treatment in Colwood. We target cervical tension, postural faults, and trigger points to reduce frequency and severity.',
     alternates: {
-        canonical: 'https://synctherapy.ca/conditions/headaches-migraines/',
+        canonical: 'https://www.synctherapy.ca/conditions/headaches-migraines/',
     },
 };
 

@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: 'Bursitis Treatment Colwood | Sync Massage Therapy',
     description: 'Bursitis treatment in Colwood for hip, shoulder, and knee bursitis. Clinical assessment, manual therapy, and progressive rehab to resolve your pain.',
     alternates: {
-        canonical: 'https://synctherapy.ca/conditions/bursitis-treatment/',
+        canonical: 'https://www.synctherapy.ca/conditions/bursitis-treatment/',
     },
 };
 

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     title: 'Clinical Nutrition Counseling Colwood | Sync',
     description: 'Clinical nutrition counseling in Colwood. Evidence-based dietary guidance for IBS, food sensitivities, and chronic inflammation from a Holistic Nutritionist.',
     alternates: {
-        canonical: 'https://synctherapy.ca/services/nutrition-counseling/',
+        canonical: 'https://www.synctherapy.ca/services/nutrition-counseling/',
     },
 };
 

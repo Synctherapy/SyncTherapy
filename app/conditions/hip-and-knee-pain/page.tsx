@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: 'Hip & Knee Pain Relief Colwood | Sync Massage',
     description: 'Hip and knee pain relief in Colwood. Biomechanical assessment, manual therapy, and corrective exercise to treat the cause of your hip or knee pain.',
     alternates: {
-        canonical: 'https://synctherapy.ca/conditions/hip-and-knee-pain/',
+        canonical: 'https://www.synctherapy.ca/conditions/hip-and-knee-pain/',
     },
 };
 

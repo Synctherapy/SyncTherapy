@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     title: 'Supplement Advice Colwood | Sync Massage Therapy',
     description: 'Evidence-based supplement advice from a Holistic Nutritionist in Colwood. Cut through the noise and learn which supplements actually work for you.',
     alternates: {
-        canonical: 'https://synctherapy.ca/services/supplements-advice/',
+        canonical: 'https://www.synctherapy.ca/services/supplements-advice/',
     },
 };
 

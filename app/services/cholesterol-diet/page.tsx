@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     title: 'Cholesterol Diet Plan Colwood | Sync Therapy',
     description: 'Cholesterol management through diet in Colwood. A Holistic Nutritionist helps you lower LDL, raise HDL, and reduce cardiovascular risk naturally.',
     alternates: {
-        canonical: 'https://synctherapy.ca/services/cholesterol-diet/',
+        canonical: 'https://www.synctherapy.ca/services/cholesterol-diet/',
     },
 };
 

@@ -143,7 +143,7 @@ export default function AboutPage() {
                                     <div className="w-14 h-14 bg-emerald-100 rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
                                         <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" className="text-emerald-700"><path d="M12 22c4-4 8-7.5 8-12a8 8 0 0 0-16 0c0 4.5 4 8 8 12z" /><circle cx="12" cy="10" r="3" /></svg>
                                     </div>
-                                    <h3 className="text-xl font-bold text-blue-900 mb-3"><Link href="/services/nutrition-consulting/" className="hover:text-blue-700 transition-colors underline decoration-blue-200 underline-offset-4 hover:decoration-blue-500">Holistic Nutrition</Link></h3>
+                                    <h3 className="text-xl font-bold text-blue-900 mb-3"><Link href="/services/services/nutrition-consulting/" className="hover:text-blue-700 transition-colors underline decoration-blue-200 underline-offset-4 hover:decoration-blue-500">Holistic Nutrition</Link></h3>
                                     <p className="text-slate-600 leading-relaxed">
                                         We recognize that systemic inflammation, gut health, and tissue recovery start from the inside out. We fuel your recovery at a cellular level.
                                     </p>

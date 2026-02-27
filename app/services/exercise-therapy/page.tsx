@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     title: 'Exercise Therapy Colwood | West Shore Rehab',
     description: 'Clinical exercise therapy and corrective movement in Colwood. Tailored rehab programs for injury recovery, chronic pain, and performance goals.',
     alternates: {
-        canonical: 'https://synctherapy.ca/services/exercise-therapy/',
+        canonical: 'https://www.synctherapy.ca/services/exercise-therapy/',
     },
 };
 

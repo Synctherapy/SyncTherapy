@@ -542,7 +542,7 @@ seoTitle: Home
                         <p class="text-sm text-text/70 mb-3">
                             Comprehensive treatment for lower and upper back pain, sciatica, and spinal tension with 60-minute targeted sessions
                         </p>
-                        <a href="/conditions/back-pain-victoria/" class="text-primary hover:text-accent text-sm font-medium">
+                        <a href="/conditions/back-pain/" class="text-primary hover:text-accent text-sm font-medium">
                             Learn More About Back Pain Treatment →
                         </a>
                     </div>
@@ -578,7 +578,7 @@ seoTitle: Home
                         <p class="text-sm text-text/70 mb-3">
                             Targeted treatment for shoulder injuries, rotator cuff issues, and frozen shoulder with specialized techniques
                         </p>
-                        <a href="/conditions/shoulder-pain-victoria-bc/" class="text-primary hover:text-accent text-sm font-medium">
+                        <a href="/conditions/shoulder-pain/" class="text-primary hover:text-accent text-sm font-medium">
                             Learn More About Shoulder Pain Relief →
                         </a>
                     </div>
@@ -614,7 +614,7 @@ seoTitle: Home
                         <p class="text-sm text-text/70 mb-3">
                             Relief from tension headaches, migraines, and neck stiffness with targeted massage and manual therapy techniques
                         </p>
-                        <a href="/conditions/headaches-and-neck-pain/" class="text-primary hover:text-accent text-sm font-medium">
+                        <a href="/conditions/headaches-migraines/" class="text-primary hover:text-accent text-sm font-medium">
                             Learn More About Headache Relief →
                         </a>
                     </div>

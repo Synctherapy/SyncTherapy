@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     title: 'Low FODMAP Diet Guidance Colwood | Sync Therapy',
     description: 'Low FODMAP diet guidance from a Holistic Nutritionist in Colwood. We help you navigate elimination, reintroduction, and long-term IBS management.',
     alternates: {
-        canonical: 'https://synctherapy.ca/services/low-fodmap-diet/',
+        canonical: 'https://www.synctherapy.ca/services/low-fodmap-diet/',
     },
 };
 

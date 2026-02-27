@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: 'Postural Imbalance Correction | Sync Colwood',
     description: 'Postural imbalance assessment and correction in Colwood. We identify structural dysfunction and build a progressive plan to restore proper alignment.',
     alternates: {
-        canonical: 'https://synctherapy.ca/conditions/postural-imbalance/',
+        canonical: 'https://www.synctherapy.ca/conditions/postural-imbalance/',
     },
 };
 

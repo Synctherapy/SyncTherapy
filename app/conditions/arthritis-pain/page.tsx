@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: 'Arthritis Treatment Colwood | Sync Massage Therapy',
     description: 'Arthritis pain treatment in Colwood. Reduce joint stiffness and inflammation with clinical massage, mobilization, and targeted exercise therapy.',
     alternates: {
-        canonical: 'https://synctherapy.ca/conditions/arthritis-pain/',
+        canonical: 'https://www.synctherapy.ca/conditions/arthritis-pain/',
     },
 };
 

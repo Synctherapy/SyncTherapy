@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: 'Myofascial Release Therapy | Colwood RMT Clinic',
     description: 'Specialized myofascial release in Colwood & Langford. We address fascial restrictions causing chronic pain, limited mobility, and recurring injuries.',
     alternates: {
-        canonical: 'https://synctherapy.ca/services/myofascial-release/',
+        canonical: 'https://www.synctherapy.ca/services/myofascial-release/',
     },
 };
 

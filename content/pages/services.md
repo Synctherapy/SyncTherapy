@@ -1089,7 +1089,7 @@ seoTitle: Our Services | Sync Massage Therapy Colwood
                                 <span>Wellness Goals</span>
                             </div>
                         </div>
-                        <a href="/nutrition-consulting/" class="btn btn-primary" style="width: 100%;">                            Learn More                            <i data-lucide="arrow-right" style="margin-left: 0.5rem;"></i>                        </a>
+                        <a href="/services/nutrition-consulting/" class="btn btn-primary" style="width: 100%;">                            Learn More                            <i data-lucide="arrow-right" style="margin-left: 0.5rem;"></i>                        </a>
                     </div>
                 </div>
             </div>

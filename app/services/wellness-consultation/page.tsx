@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     title: 'Wellness Consultation Colwood | Sync Therapy',
     description: 'Holistic wellness consultation in Colwood. Assess your health goals with a certified Holistic Nutritionist and build a roadmap to feel your best.',
     alternates: {
-        canonical: 'https://synctherapy.ca/services/wellness-consultation/',
+        canonical: 'https://www.synctherapy.ca/services/wellness-consultation/',
     },
 };
 

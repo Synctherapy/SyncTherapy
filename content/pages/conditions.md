@@ -216,7 +216,7 @@ seoTitle: Conditions We Treat | Sync Massage Therapy
                                 </div>
                             </div>
 
-                            <a href="/conditions/back-pain-victoria/" 
+                            <a href="/conditions/back-pain/" 
                                class="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded transition-all duration-300 inline-flex items-center justify-center">
                                 Learn More
                                 <i class="fas fa-arrow-right ml-2"></i>
@@ -260,7 +260,7 @@ seoTitle: Conditions We Treat | Sync Massage Therapy
                                 </div>
                             </div>
 
-                            <a href="/conditions/headaches-and-neck-pain/" class="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded transition-all duration-300 inline-flex items-center justify-center">
+                            <a href="/conditions/headaches-migraines/" class="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded transition-all duration-300 inline-flex items-center justify-center">
                                 Learn More
                                 <i class="fas fa-arrow-right ml-2"></i>
                             </a>
@@ -390,7 +390,7 @@ seoTitle: Conditions We Treat | Sync Massage Therapy
                                 </div>
                             </div>
 
-                            <a href="/conditions/shoulder-pain-victoria-bc/" class="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded transition-all duration-300 inline-flex items-center justify-center">
+                            <a href="/conditions/shoulder-pain/" class="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded transition-all duration-300 inline-flex items-center justify-center">
                                 Learn More
                                 <i class="fas fa-arrow-right ml-2"></i>
                             </a>
@@ -724,7 +724,7 @@ seoTitle: Conditions We Treat | Sync Massage Therapy
                 commonality: "Very Common",
                 treatmentTime: "4-8 sessions",
                 symptoms: ["Lower back ache", "Upper back tension", "Muscle spasms", "Stiffness", "Radiating pain"],
-                url: "/conditions/back-pain-victoria/",
+                url: "/conditions/back-pain/",
                 icon: "🔥"
             },
             {
@@ -772,7 +772,7 @@ seoTitle: Conditions We Treat | Sync Massage Therapy
                 commonality: "Common",
                 treatmentTime: "6-10 sessions",
                 symptoms: ["Leg pain", "Numbness", "Tingling", "Weakness", "Burning sensation"],
-                url: "/conditions/sciatica-treatment-victoria/",
+                url: "/conditions/sciatica-treatment/",
                 icon: "⚡"
             },
             {
@@ -880,7 +880,7 @@ seoTitle: Conditions We Treat | Sync Massage Therapy
                 commonality: "Common",
                 treatmentTime: "6-12 sessions",
                 symptoms: ["Heel pain", "Morning stiffness", "Arch pain", "Difficulty walking", "Sharp pain"],
-                url: "/conditions/plantar-fasciitis-treatment-victoria/",
+                url: "/conditions/plantar-fasciitis/",
                 icon: "🦶"
             },
             {

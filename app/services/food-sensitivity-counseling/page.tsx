@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     title: 'Food Sensitivity Counseling | Colwood Clinic',
     description: 'Food sensitivity counseling in Colwood. Identify hidden triggers behind bloating, skin issues, and fatigue with guidance from a Holistic Nutritionist.',
     alternates: {
-        canonical: 'https://synctherapy.ca/services/food-sensitivity-counseling/',
+        canonical: 'https://www.synctherapy.ca/services/food-sensitivity-counseling/',
     },
 };
 

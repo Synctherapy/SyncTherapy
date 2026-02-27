@@ -982,7 +982,7 @@ seoTitle: Our Team | Sync Massage Therapy Colwood
                     <p class="service-description">Intensive muscle therapy</p>
                 </a>
                 
-                <a href="/conditions/headaches-and-neck-pain/" class="service-card">
+                <a href="/conditions/headaches-migraines/" class="service-card">
                     <div class="service-icon">🧠</div>
                     <h3 class="service-title">Headaches & Neck Pain</h3>
                     <p class="service-description">Specialized headache and neck pain relief</p>
@@ -1043,7 +1043,7 @@ seoTitle: Our Team | Sync Massage Therapy Colwood
                 </div>
                 <div class="footer-column">
                     <h3>Conditions We Treat</h3>
-                    <a data-wpil="url" href="/conditions/back-pain-victoria/">Back Pain</a>
+                    <a data-wpil="url" href="/conditions/back-pain/">Back Pain</a>
                     <a href="/conditions/sports-injuries-and-prevention/">Sports Injuries</a>
                 </div>
                 <div class="footer-column">

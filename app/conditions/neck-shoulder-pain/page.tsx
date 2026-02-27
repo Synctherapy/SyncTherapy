@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: 'Neck & Shoulder Pain Treatment | Colwood RMT',
     description: 'Neck and shoulder pain treatment in Colwood. We address cervical dysfunction, upper trap tension, and thoracic restrictions causing your discomfort.',
     alternates: {
-        canonical: 'https://synctherapy.ca/conditions/neck-shoulder-pain/',
+        canonical: 'https://www.synctherapy.ca/conditions/neck-shoulder-pain/',
     },
 };
 

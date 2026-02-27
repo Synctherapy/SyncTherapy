@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: 'Our Services | Sync Massage Therapy Colwood',
     description: 'RMT, athletic therapy, and holistic nutrition in Colwood & Langford. View all 30+ services and book your next appointment online today.',
     alternates: {
-        canonical: 'https://synctherapy.ca/services/',
+        canonical: 'https://www.synctherapy.ca/services/',
     },
     openGraph: {
         title: 'Our Services | Sync Massage Therapy Colwood',

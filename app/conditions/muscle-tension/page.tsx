@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: 'Muscle Tension Treatment Colwood | Sync Massage',
     description: 'Chronic muscle tension treatment in Colwood. We release myofascial restrictions and address the postural habits keeping your muscles locked up.',
     alternates: {
-        canonical: 'https://synctherapy.ca/conditions/muscle-tension/',
+        canonical: 'https://www.synctherapy.ca/conditions/muscle-tension/',
     },
 };
 

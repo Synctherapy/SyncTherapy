@@ -1300,7 +1300,7 @@ seoTitle: Massage Therapy Victoria - Voted Best RMT in Victoria 2025
 
                             <li>
 
-                                <a data-wpil="url" href="/nutrition-consulting/" class="text-primary hover:underline">Holistic Nutrition</a>
+                                <a data-wpil="url" href="/services/nutrition-consulting/" class="text-primary hover:underline">Holistic Nutrition</a>
 
                             </li>
 

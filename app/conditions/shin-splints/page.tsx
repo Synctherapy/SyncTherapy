@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: 'Shin Splints Treatment Colwood | Sync Massage',
     description: 'Shin splints treatment in Colwood & Langford. Biomechanical correction, load management, and targeted rehab to get you running pain-free again.',
     alternates: {
-        canonical: 'https://synctherapy.ca/conditions/shin-splints/',
+        canonical: 'https://www.synctherapy.ca/conditions/shin-splints/',
     },
 };
 

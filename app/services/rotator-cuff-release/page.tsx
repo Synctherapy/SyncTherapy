@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     title: 'Rotator Cuff Treatment Colwood | Sync Massage',
     description: 'Rotator cuff release and shoulder rehab in Colwood. Our Athletic Therapist targets impingement, tears, and frozen shoulder. Direct billing available.',
     alternates: {
-        canonical: 'https://synctherapy.ca/services/rotator-cuff-release/',
+        canonical: 'https://www.synctherapy.ca/services/rotator-cuff-release/',
     },
 };
 

@@ -48,17 +48,7 @@ type Props = {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
     const resolvedParams = await params;
-    const item = await getContentBySlug(resolvedParams.slug);
-
-    if (!item) {
-        return {
-            title: 'Page Not Found',
-        };
-    }
-
-    const title = item.frontmatter.seoTitle || item.frontmatter.title;
-    const description = item.frontmatter.description || '';
-    const url = `https://www.synctherapy.ca/${resolvedParams.slug.join('/')}`;
+    // Early checks for hardcoded special pages where CMS content doesn't exist
 
     // Custom Metadata for /contact
     if (resolvedParams.slug.length === 1 && resolvedParams.slug[0] === 'contact') {
@@ -82,7 +72,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     // Custom Metadata for /direct-billing
     if (resolvedParams.slug.length === 1 && resolvedParams.slug[0] === 'direct-billing') {
         return {
-            title: 'Direct Billing RMT & Athletic Therapy | Victoria & Colwood | Sync Therapy',
+            title: 'Direct Billing RMT & Athletic Therapy | Victoria & Colwood',
             description: 'Direct billing RMT in Colwood. We bill Pacific Blue Cross, Canada Life & Sun Life. Accepting insurance for Visceral Manipulation & Athletic Therapy.',
             openGraph: {
                 title: 'Direct Billing Massage & Athletic Therapy | Sync Therapy',
@@ -103,7 +93,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         resolvedParams.slug[0] === 'services' &&
         resolvedParams.slug[1] === 'deep-tissue-massage') {
         return {
-            title: 'Deep Tissue Massage Colwood, Langford & Victoria | Sync Therapy',
+            title: 'Deep Tissue Massage Colwood, Langford & Victoria',
             description: 'Clinical deep tissue massage on Wale Rd, Colwood. Treating back pain, neck tension & sports injuries. Direct Billing for West Shore & Victoria residents.',
             openGraph: {
                 title: 'Deep Tissue Massage Colwood, Langford & Victoria | Sync Therapy',
@@ -124,7 +114,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         resolvedParams.slug[0] === 'services' &&
         resolvedParams.slug[1] === 'sports-massage') {
         return {
-            title: 'Sports Massage Colwood & Langford | Recovery RMT | Sync Therapy',
+            title: 'Sports Massage Colwood & Langford | Recovery RMT',
             description: 'Sports massage for runners, lifters & athletes in Colwood. Improve recovery & range of motion. Located near Juan de Fuca Rec. Direct Billing available.',
             openGraph: {
                 title: 'Sports Massage Colwood & Langford | Recovery RMT | Sync Therapy',
@@ -139,6 +129,20 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
             },
         };
     }
+
+    const item = await getContentBySlug(resolvedParams.slug);
+
+    if (!item) {
+        return {
+            title: 'Page Not Found',
+        };
+    }
+
+    const title = item.frontmatter.seoTitle || item.frontmatter.title;
+    const description = item.frontmatter.description || '';
+    const url = `https://www.synctherapy.ca/${resolvedParams.slug.join('/')}/`;
+
+
 
 
 

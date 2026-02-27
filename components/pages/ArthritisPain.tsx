@@ -159,7 +159,7 @@ export function ArthritisPain() {
                             <h3 className="font-bold text-xl mb-2 text-blue-900">Pain Management</h3>
                             <p className="text-sm text-slate-600">Gentle nervous system down-regulation to lower your pain threshold.</p>
                         </Link>
-                        <Link href="/services/nutrition-consulting/" className="block p-8 bg-white border border-gray-200 rounded-xl hover:border-blue-600 hover:shadow-xl transition-all group">
+                        <Link href="/services/services/nutrition-consulting/" className="block p-8 bg-white border border-gray-200 rounded-xl hover:border-blue-600 hover:shadow-xl transition-all group">
                             <div className="w-12 h-12 bg-blue-100 text-blue-600 rounded-lg flex items-center justify-center text-2xl mb-4 group-hover:bg-blue-600 group-hover:text-white transition-colors">🥗</div>
                             <h3 className="font-bold text-xl mb-2 text-blue-900">Anti-Inflammatory</h3>
                             <p className="text-sm text-slate-600">Nutritional protocols to reduce systemic inflammation that aggravates joints.</p>

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     title: 'Home Exercise Plans Colwood | Sync Massage Therapy',
     description: 'Custom home exercise programs designed by a Certified Athletic Therapist in Colwood. Structured rehab and strengthening plans you can do at home.',
     alternates: {
-        canonical: 'https://synctherapy.ca/services/home-exercise-plans/',
+        canonical: 'https://www.synctherapy.ca/services/home-exercise-plans/',
     },
 };
 

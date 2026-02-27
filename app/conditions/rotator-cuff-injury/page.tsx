@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     title: 'Rotator Cuff Injury Rehab | Colwood RMT Clinic',
     description: 'Rotator cuff injury treatment in Colwood. Assessment, manual therapy, and sport-specific rehab by a Certified Athletic Therapist. Book online now.',
     alternates: {
-        canonical: 'https://synctherapy.ca/conditions/rotator-cuff-injury/',
+        canonical: 'https://www.synctherapy.ca/conditions/rotator-cuff-injury/',
     },
 };
 

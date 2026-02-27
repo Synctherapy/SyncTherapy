@@ -4,6 +4,9 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
+    alternates: {
+        canonical: 'https://www.synctherapy.ca/html-sitemap/',
+    },
     title: 'HTML Sitemap | Sync Massage Therapy',
     description: 'Browse all pages, services, and conditions on the Sync Massage Therapy website. Navigate our complete content directory.',
 };

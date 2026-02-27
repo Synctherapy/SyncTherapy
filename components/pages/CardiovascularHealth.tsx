@@ -174,7 +174,7 @@ export function CardiovascularHealth() {
                             <h2 className="text-3xl font-bold text-foreground tracking-tight">Supportive Care Services</h2>
                         </div>
                         <div className="grid md:grid-cols-3 gap-6 max-w-5xl mx-auto">
-                            <Link href="/conditions/cholesterol-management/" className="group">
+                            <Link href="/services/cholesterol-diet/" className="group">
                                 <GlassCard className="p-8 rounded-3xl h-full hover:border-rose-200 transition-all hover:-translate-y-1">
                                     <h3 className="text-xl font-bold text-rose-900 mb-3 group-hover:text-rose-700">
                                         Cholesterol Management →

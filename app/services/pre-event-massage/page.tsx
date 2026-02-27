@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     title: 'Pre-Event Sports Massage Colwood | Sync Massage',
     description: 'Pre-event sports massage in Colwood to prime your muscles for competition. Increase circulation, reduce injury risk, and perform at your best.',
     alternates: {
-        canonical: 'https://synctherapy.ca/services/pre-event-massage/',
+        canonical: 'https://www.synctherapy.ca/services/pre-event-massage/',
     },
 };
 

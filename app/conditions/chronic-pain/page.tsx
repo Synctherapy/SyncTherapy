@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: 'Chronic Pain Treatment Colwood | West Shore RMT',
     description: 'Chronic pain treatment in Colwood & Langford. Our triple-certified therapist combines manual therapy, visceral work, and nutrition to manage pain.',
     alternates: {
-        canonical: 'https://synctherapy.ca/conditions/chronic-pain/',
+        canonical: 'https://www.synctherapy.ca/conditions/chronic-pain/',
     },
 };
 

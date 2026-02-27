@@ -63,7 +63,7 @@ seoTitle: 'Posture Correction Victoria, BC | Sync Massage'
         <main>
             <p class="mb-8 text-base sm:text-lg leading-relaxed">
                 We're working hard to bring you detailed information on the conditions we treat. While this specific page is being perfected, we invite you to explore other areas of our site or book a consultation with our expert team.
-             In the meantime, if you're experiencing issues such as back pain, we offer specialized services that include <a href="/conditions/back-pain-victoria/">back pain treatment in Victoria</a>. Our dedicated professionals are here to guide you through personalized approaches tailored to your needs. Don’t hesitate to reach out for further assistance or to learn more about how we can help you achieve relief and improved mobility.</p>
+             In the meantime, if you're experiencing issues such as back pain, we offer specialized services that include <a href="/conditions/back-pain/">back pain treatment in Victoria</a>. Our dedicated professionals are here to guide you through personalized approaches tailored to your needs. Don’t hesitate to reach out for further assistance or to learn more about how we can help you achieve relief and improved mobility.</p>
 
             <!-- Main Call-to-Action Button -->
             <div class="mb-8">
