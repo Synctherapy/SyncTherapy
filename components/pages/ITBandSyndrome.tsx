@@ -226,7 +226,7 @@ export function ITBandSyndrome() {
                             <h3 className="font-bold text-xl mb-2 text-blue-900">Fascial Decompression</h3>
                             <p className="text-sm text-slate-600">Hands-on work to unstick the TFL and Glute muscles from the IT band, restoring proper slide and glide.</p>
                         </Link>
-                        <Link href="/services/sports-injury-rehab/" className="block p-8 bg-white border border-gray-200 rounded-xl hover:border-blue-600 hover:shadow-xl transition-all group">
+                        <Link href="/conditions/sports-injuries-and-prevention/" className="block p-8 bg-white border border-gray-200 rounded-xl hover:border-blue-600 hover:shadow-xl transition-all group">
                             <div className="w-12 h-12 bg-blue-100 text-blue-600 rounded-lg flex items-center justify-center text-2xl mb-4 group-hover:bg-blue-600 group-hover:text-white transition-colors">🏋️</div>
                             <h3 className="font-bold text-xl mb-2 text-blue-900">Glute Strengthening</h3>
                             <p className="text-sm text-slate-600">The "King" of runner's exercises. We build your lateral hip strength so your IT band doesn't have to do all the work.</p>

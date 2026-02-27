@@ -181,7 +181,7 @@ export default function HomeExercisePlansPage() {
                             <Link href="/services/athletic-therapy/" className="block p-8 bg-white border border-gray-200 rounded-xl hover:border-blue-600 hover:shadow-xl transition-all duration-300 cursor-pointer focus:outline-none focus:ring-4 focus:ring-blue-500 focus:ring-offset-2">
                                 <h3 className="font-bold text-xl mb-2 text-blue-900">Athletic Therapy</h3>
                             </Link>
-                            <Link href="/services/sports-injury-treatment/" className="block p-8 bg-white border border-gray-200 rounded-xl hover:border-blue-600 hover:shadow-xl transition-all duration-300 cursor-pointer focus:outline-none focus:ring-4 focus:ring-blue-500 focus:ring-offset-2">
+                            <Link href="/conditions/sports-injuries-and-prevention/" className="block p-8 bg-white border border-gray-200 rounded-xl hover:border-blue-600 hover:shadow-xl transition-all duration-300 cursor-pointer focus:outline-none focus:ring-4 focus:ring-blue-500 focus:ring-offset-2">
                                 <h3 className="font-bold text-xl mb-2 text-blue-900">Sports Injury Treatment</h3>
                             </Link>
                             <Link href="/conditions/chronic-pain/" className="block p-8 bg-white border border-gray-200 rounded-xl hover:border-blue-600 hover:shadow-xl transition-all duration-300 cursor-pointer focus:outline-none focus:ring-4 focus:ring-blue-500 focus:ring-offset-2">

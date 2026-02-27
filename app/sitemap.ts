@@ -1,6 +1,7 @@
 import { MetadataRoute } from 'next';
 import fs from 'fs';
 import path from 'path';
+import matter from 'gray-matter';
 
 // Load redirects to ensure we don't put 301 URLs into the sitemap
 import redirectsCache from '../redirects.json';
@@ -58,7 +59,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
         for (const entry of entries) {
             // Ignore Next.js dynamic route folder brackets, we handle static specific ones
-            if (entry.isDirectory() && !entry.name.startsWith('[') && !entry.name.startsWith('(')) {
+            if (entry.isDirectory() && !entry.name.startsWith('[') && !entry.name.startsWith('(') && !entry.name.startsWith('_')) {
                 findPages(path.join(dir, entry.name), `${basePath}/${entry.name}`);
             } else if (entry.isFile() && entry.name === 'page.tsx') {
                 const stats = fs.statSync(path.join(dir, entry.name));
@@ -67,13 +68,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
         }
     };
 
-    // Scan known root categories in the app dir
-    ['conditions', 'services', 'our-team'].forEach(folder => {
-        const folderPath = path.join(appDir, folder);
-        if (fs.existsSync(folderPath)) {
-            findPages(folderPath, `/${folder}`);
+    // Scan all root categories in the app dir, excluding known non-page folders
+    const rootEntries = fs.readdirSync(appDir, { withFileTypes: true });
+    for (const entry of rootEntries) {
+        if (entry.isDirectory() && !entry.name.startsWith('[') && !entry.name.startsWith('(') && !entry.name.startsWith('_') && entry.name !== 'api') {
+            findPages(path.join(appDir, entry.name), `/${entry.name}`);
         }
-    });
+    }
 
     // 3. Discover Markdown Content Routes
     const contentDirectory = path.join(process.cwd(), 'content');
@@ -89,11 +90,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
     getFiles(pagesDir).forEach((file) => {
         const slug = file.replace(/\.mdx?$/, '');
         const filePath = path.join(pagesDir, file);
-        const stats = fs.statSync(filePath);
+        const fileContent = fs.readFileSync(filePath, 'utf8');
+        const { data } = matter(fileContent);
 
         // Skip pages that are mapped as root or statically known
-        if (slug === 'home' || slug === 'index' || slug === 'about' || slug === 'blog') return;
+        if (slug === 'home' || slug === 'index' || slug === 'about' || slug === 'blog' || slug === '404') return;
 
+        // Skip explicitly marked noindex or drafts
+        if (data.noindex || data.draft) return;
+
+        const stats = fs.statSync(filePath);
         addUrl(`/${slug}`, 0.8, 'weekly', stats.mtime);
     });
 
@@ -101,6 +107,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     getFiles(postsDir).forEach((file) => {
         const slug = file.replace(/\.mdx?$/, '');
         const filePath = path.join(postsDir, file);
+        const fileContent = fs.readFileSync(filePath, 'utf8');
+        const { data } = matter(fileContent);
+
+        // Skip if explictly noindex or draft
+        if (data.noindex || data.draft) return;
+
         const stats = fs.statSync(filePath);
 
         // Blog posts map to root in [...slug] dynamically 

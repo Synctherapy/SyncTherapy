@@ -159,7 +159,7 @@ export function MuscleTension() {
                             <h3 className="font-bold text-xl mb-2 text-blue-900">Deep Tissue</h3>
                             <p className="text-sm text-slate-600">Targeted, firm pressure to release adhered muscle fibers and knots.</p>
                         </Link>
-                        <Link href="/services/sports-injury-rehab/" className="block p-8 bg-white border border-gray-200 rounded-xl hover:border-blue-600 hover:shadow-xl transition-all group">
+                        <Link href="/conditions/sports-injuries-and-prevention/" className="block p-8 bg-white border border-gray-200 rounded-xl hover:border-blue-600 hover:shadow-xl transition-all group">
                             <div className="w-12 h-12 bg-blue-100 text-blue-600 rounded-lg flex items-center justify-center text-2xl mb-4 group-hover:bg-blue-600 group-hover:text-white transition-colors">🔎</div>
                             <h3 className="font-bold text-xl mb-2 text-blue-900">Root Cause Analysis</h3>
                             <p className="text-sm text-slate-600">Identifying WHY the muscle is tense (e.g., weak stabilizers) so it doesn't just come back.</p>

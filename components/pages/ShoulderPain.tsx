@@ -202,7 +202,7 @@ export function ShoulderPain() {
                                 </GlassCard>
                             </Link>
 
-                            <Link href="/services/sports-injury-rehab/" className="group">
+                            <Link href="/conditions/sports-injuries-and-prevention/" className="group">
                                 <GlassCard className="p-8 rounded-3xl h-full hover:border-blue-200 transition-all hover:-translate-y-1">
                                     <h3 className="text-xl font-bold text-blue-900 mb-3 group-hover:text-blue-700 transition-colors">
                                         Scapular Stability →

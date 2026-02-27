@@ -226,7 +226,7 @@ export function BackPain() {
                             <h3 className="font-bold text-xl mb-2 text-blue-900">Visceral Mobilization</h3>
                             <p className="text-sm text-slate-600">Best for "Mystery Pain." We release tension in the abdomen (from the front) that pulls on the spine.</p>
                         </Link>
-                        <Link href="/services/pain-management/" className="block p-8 bg-white border border-gray-200 rounded-xl hover:border-blue-600 hover:shadow-xl transition-all group">
+                        <Link href="/conditions/chronic-pain-victoria/" className="block p-8 bg-white border border-gray-200 rounded-xl hover:border-blue-600 hover:shadow-xl transition-all group">
                             <div className="w-12 h-12 bg-blue-100 text-blue-600 rounded-lg flex items-center justify-center text-2xl mb-4 group-hover:bg-blue-600 group-hover:text-white transition-colors">🧠</div>
                             <h3 className="font-bold text-xl mb-2 text-blue-900">Chronic Pain Program</h3>
                             <p className="text-sm text-slate-600">Best for pain lasting 3+ months. A gentle, neurological approach to calm a sensitized system.</p>
