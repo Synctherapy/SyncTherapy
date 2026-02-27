@@ -50,7 +50,7 @@ export default function Header() {
                     {/* Desktop Menu - Aligned Top/Center */}
                     <div className="hidden lg:block absolute left-1/2 top-4 transform -translate-x-1/2 z-50">
                         <Menu setActive={setActive}>
-                            <MenuItem setActive={setActive} active={active} item="Services">
+                            <MenuItem setActive={setActive} active={active} item="Services" href="/services/">
                                 <div className="text-sm grid grid-cols-2 gap-10 p-4 min-w-[500px]">
                                     <ProductItem
                                         title="Massage Therapy"
@@ -80,7 +80,7 @@ export default function Header() {
                                 </div>
                             </MenuItem>
 
-                            <MenuItem setActive={setActive} active={active} item="Conditions">
+                            <MenuItem setActive={setActive} active={active} item="Conditions" href="/conditions/">
                                 <div className="flex flex-col space-y-4 text-sm min-w-[200px] p-4">
                                     <h4 className="font-bold text-foreground mb-2">We Treat</h4>
                                     <HoveredLink href="/conditions/back-pain/">Back Pain</HoveredLink>
@@ -91,7 +91,7 @@ export default function Header() {
                                 </div>
                             </MenuItem>
 
-                            <MenuItem setActive={setActive} active={active} item="About">
+                            <MenuItem setActive={setActive} active={active} item="About" href="/about/">
                                 <div className="flex flex-col space-y-4 text-sm min-w-[200px] p-4">
                                     <HoveredLink href="/about/">About</HoveredLink>
                                     <HoveredLink href="/our-team/daryl-stubbs/">Our Team</HoveredLink>
@@ -187,7 +187,7 @@ export default function Header() {
                             </Link>
 
                             <div className="py-2">
-                                <span className="text-base font-bold text-foreground block mb-2">Services</span>
+                                <Link href="/services/" onClick={() => setIsMobileMenuOpen(false)} className="text-base font-bold text-foreground block mb-2 hover:text-primary transition-colors">Services</Link>
                                 <div className="pl-4 flex flex-col space-y-2.5 text-muted-foreground text-sm font-medium border-l-2 border-border/50 ml-1">
                                     <Link href="/services/massage-therapy/" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors block pl-3">
                                         Massage Therapy
@@ -214,7 +214,7 @@ export default function Header() {
                             </div>
 
                             <div className="py-2">
-                                <span className="text-base font-bold text-foreground block mb-2">Conditions</span>
+                                <Link href="/conditions/" onClick={() => setIsMobileMenuOpen(false)} className="text-base font-bold text-foreground block mb-2 hover:text-primary transition-colors">Conditions</Link>
                                 <div className="pl-4 flex flex-col space-y-2.5 text-muted-foreground text-sm font-medium border-l-2 border-border/50 ml-1">
                                     <Link href="/conditions/back-pain/" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors block pl-3">Back Pain</Link>
                                     <Link href="/conditions/neck-shoulder-pain/" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-primary transition-colors block pl-3">Headaches & Neck Pain</Link>

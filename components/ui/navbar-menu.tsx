@@ -7,14 +7,18 @@ export const MenuItem = ({
     setActive,
     active,
     item,
+    href,
     children,
 }: {
     setActive: (item: string | null) => void;
     active: string | null;
     item: string;
+    href?: string;
     children?: React.ReactNode;
 }) => {
     const isOpen = active === item;
+
+    const Element = href ? Link : "button";
 
     return (
         <div
@@ -26,15 +30,16 @@ export const MenuItem = ({
             }}
             className="relative"
         >
-            <button
+            <Element
+                {...(href ? { href } : {})}
                 onClick={() => setActive(isOpen ? null : item)}
                 onFocus={() => setActive(item)}
                 aria-expanded={isOpen}
                 aria-haspopup="true"
-                className="cursor-pointer text-black hover:opacity-[0.9] dark:text-white transition-opacity duration-300 bg-transparent border-none p-0 font-inherit text-inherit focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 rounded-sm"
+                className="cursor-pointer text-black hover:opacity-[0.9] dark:text-white transition-opacity duration-300 bg-transparent border-none p-0 font-inherit text-inherit focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 rounded-sm block"
             >
                 {item}
-            </button>
+            </Element>
             {active !== null && (
                 <div
                     className={`transition-all duration-300 ${isOpen ? "opacity-100 scale-100 translate-y-0" : "opacity-0 scale-95 translate-y-2 pointer-events-none"
