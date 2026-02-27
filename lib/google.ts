@@ -32,6 +32,6 @@ export const getGoogleReviews = unstable_cache(
             return [];
         }
     },
-    ["google-reviews-v4"], // Cache key forced update
+    ["google-reviews-v5"], // Cache key forced update
     { revalidate: 1209600, tags: ["reviews"] } // 14 Days (60 * 60 * 24 * 14)
 );
