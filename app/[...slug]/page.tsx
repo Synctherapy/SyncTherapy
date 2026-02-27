@@ -60,6 +60,25 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     const description = item.frontmatter.description || '';
     const url = `https://www.synctherapy.ca/${resolvedParams.slug.join('/')}`;
 
+    // Custom Metadata for /contact
+    if (resolvedParams.slug.length === 1 && resolvedParams.slug[0] === 'contact') {
+        return {
+            title: 'Contact Sync Massage Therapy | Colwood, BC',
+            description: 'Book an appointment or get in touch with Sync Massage Therapy at 132-328 Wale Rd, Colwood, BC. Call (250) 812-8698 or book online 24/7.',
+            openGraph: {
+                title: 'Contact Sync Massage Therapy | Colwood, BC',
+                description: 'Award-winning RMT clinic in Colwood. Book online, call, or visit us at 132-328 Wale Rd. Direct billing available.',
+                url: 'https://www.synctherapy.ca/contact/',
+                siteName: 'Sync Massage Therapy',
+                locale: 'en_CA',
+                type: 'website',
+            },
+            alternates: {
+                canonical: 'https://www.synctherapy.ca/contact/',
+            },
+        };
+    }
+
     // Custom Metadata for /direct-billing
     if (resolvedParams.slug.length === 1 && resolvedParams.slug[0] === 'direct-billing') {
         return {
@@ -143,13 +162,25 @@ import { MassageTherapyColwood } from '@/components/pages/MassageTherapyColwood'
 import { DirectBillingMassage } from '@/components/pages/DirectBillingMassage';
 import { DeepTissueMassage } from '@/components/pages/DeepTissueMassage';
 import { SportsMassage } from '@/components/pages/SportsMassage';
+import { ContactPage } from '@/components/pages/ContactPage';
 
 export default async function Page({ params }: Props) {
     const resolvedParams = await params;
     const item = await getContentBySlug(resolvedParams.slug);
 
-    if (!item && resolvedParams.slug[0] !== 'direct-billing' && !(resolvedParams.slug[0] === 'services' && (resolvedParams.slug[1] === 'deep-tissue-massage' || resolvedParams.slug[1] === 'sports-massage'))) {
+    if (!item && resolvedParams.slug[0] !== 'direct-billing' && resolvedParams.slug[0] !== 'contact' && !(resolvedParams.slug[0] === 'services' && (resolvedParams.slug[1] === 'deep-tissue-massage' || resolvedParams.slug[1] === 'sports-massage'))) {
         notFound();
+    }
+
+    // SPECIAL PAGE: Contact
+    if (resolvedParams.slug.length === 1 && resolvedParams.slug[0] === 'contact') {
+        return (
+            <>
+                <Header />
+                <ContactPage />
+                <Footer />
+            </>
+        );
     }
 
     // SPECIAL PAGE: Massage Therapy (Consolidated)

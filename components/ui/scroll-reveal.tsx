@@ -21,6 +21,13 @@ export function ScrollReveal({
     const [isVisible, setIsVisible] = useState(true); // Default to true to prevent SEO/hydration issues
 
     useEffect(() => {
+        // Respect prefers-reduced-motion: skip animation entirely
+        const motionQuery = window.matchMedia("(prefers-reduced-motion: reduce)");
+        if (motionQuery.matches) {
+            setIsVisible(true);
+            return;
+        }
+
         // Run once on mount to handle initial state, then use observer
         setIsVisible(false);
         const observer = new IntersectionObserver(
