@@ -7,7 +7,7 @@ import ShineBorder from "@/components/ui/shine-border";
 
 export function AboutOneClinic() {
     return (
-        <section className="py-24 bg-white dark:bg-background relative overflow-hidden">
+        <section id="complete-care" className="py-24 bg-white dark:bg-background relative overflow-hidden">
             <div className="container mx-auto px-4">
                 <div className="flex flex-col lg:flex-row items-center gap-16">
 

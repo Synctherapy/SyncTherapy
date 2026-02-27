@@ -26,7 +26,7 @@ export function HomeLayout({ reviewsComponent }: HomeLayoutProps) {
             <Header />
 
             <main className="relative">
-                <HeroSection />
+                <HeroSection secondaryCtaLink="#complete-care" />
 
                 <ScrollAnimation>
                     {reviewsComponent}
