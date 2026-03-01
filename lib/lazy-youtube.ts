@@ -32,7 +32,7 @@ export function extractYouTubeId(url: string): string | null {
  */
 export function transformYouTubeEmbeds(html: string): string {
   // Match YouTube iframes
-  const iframePattern = /<iframe[^>]*src=["']([^"']*(?:youtube\.com|youtube-nocookie\.com)\/embed\/[^"']*)["'][^>]*>.*?<\/iframe>/gi;
+  const iframePattern = /<iframe[^>]*src=["']([^"']*(?:youtube\.com|youtube-nocookie\.com)\/embed\/[^"']*)["'][^>]*>[\s\S]*?<\/iframe>/gi;
 
   return html.replace(iframePattern, (match, src) => {
     const videoId = extractYouTubeId(src);
@@ -51,7 +51,10 @@ export function transformYouTubeEmbeds(html: string): string {
  * Generate HTML for lazy-loading YouTube embed
  */
 function generateLazyYouTubeHTML(videoId: string, title: string): string {
-  const thumbnailUrl = `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`;
+  // Use hqdefault instead of maxresdefault to ensure it exists for all videos
+  // Fallback chaining is handled in the onerror handler
+  const thumbnailUrl = `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`;
+  const fallbackUrl = `https://img.youtube.com/vi/${videoId}/mqdefault.jpg`;
 
   return `
     <div class="lazy-youtube-container" data-video-id="${videoId}" data-title="${title}">
@@ -62,7 +65,7 @@ function generateLazyYouTubeHTML(videoId: string, title: string): string {
           class="lazy-youtube-thumbnail"
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;"
           loading="lazy"
-          onerror="this.src='https://placehold.co/1280x720/000000/FFFFFF?text=Video+Unavailable'"
+          onerror="if(this.src!=='${fallbackUrl}'){this.src='${fallbackUrl}';}else{this.src='https://placehold.co/1280x720/000000/FFFFFF?text=Video+Thumbnail+Unavailable';}"
         />
         <div class="lazy-youtube-overlay" style="position: absolute; inset: 0; background-color: rgba(0, 0, 0, 0.3); transition: background-color 0.3s;" onmouseover="this.style.backgroundColor='rgba(0, 0, 0, 0.5)'" onmouseout="this.style.backgroundColor='rgba(0, 0, 0, 0.3)'"></div>
         <div class="lazy-youtube-play-button" style="position: absolute; inset: 0; display: flex; align-items: center; justify-content: center;">
