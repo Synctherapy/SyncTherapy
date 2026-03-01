@@ -9,61 +9,7 @@ seoTitle: Best Tankless Reverse Osmosis Systems (2026)
 ---
 
 <!-- wp:html -->
-    <style>
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #F4F7F5;
-            color: #333333;
-        }
-        html { scroll-behavior: smooth; }
-        
-        .bg-primary { background-color: #2E5A88; }
-        .text-primary { color: #2E5A88; }
-        .border-primary { border-color: #2E5A88; }
-        .bg-accent { background-color: #F5B82E; }
-        .text-accent { color: #F5B82E; }
-        
-        h2 {
-            border-left: 4px solid #F5B82E;
-            padding-left: 1rem;
-            margin-bottom: 1.5rem;
-            margin-top: 2.5rem;
-            font-size: 1.875rem;
-            font-weight: 700;
-            color: #2E5A88;
-        }
-        h3 {
-            margin-bottom: 0.75rem;
-            font-size: 1.5rem;
-            font-weight: 700;
-            color: #2E5A88;
-        }
 
-        .affiliate-button {
-            background-color: #F5B82E !important;
-            color: #333333 !important;
-            font-weight: 700 !important;
-            padding: 0.875rem 1.75rem !important;
-            border-radius: 0.5rem !important;
-            text-decoration: none !important;
-            display: inline-block;
-            transition: all 0.3s ease;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-        }
-        .affiliate-button:hover {
-            background-color: #d9a229 !important;
-            transform: translateY(-2px);
-            box-shadow: 0 6px 8px rgba(0,0,0,0.15);
-        }
-
-        .product-card {
-            background: white;
-            border-radius: 0.75rem;
-            padding: 2rem;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-            margin-bottom: 2rem;
-        }
-    </style>
     
     <!-- Schema Markup -->
     <script type="application/ld+json">

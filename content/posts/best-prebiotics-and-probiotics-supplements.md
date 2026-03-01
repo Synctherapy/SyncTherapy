@@ -9,51 +9,7 @@ seoTitle: 'Best Synbiotics 2026: Top Pre & Probiotic Combos'
 ---
 
 <!-- wp:html -->
-                <style>
-        :root {
-            --primary: #2E5A88; /* Deep serene blue */
-            --accent: #F5B82E; /* Warm gold */
-            --neutral-light: #F4F7F5; /* Off-white */
-            --neutral-dark: #333333; /* Body text */
-        }
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: var(--neutral-light);
-            color: var(--neutral-dark);
-        }
-        h1, h2, h3, h4, h5, h6 {
-            font-weight: 700;
-            color: var(--primary);
-        }
-        .btn-accent {
-            background-color: var(--accent);
-            color: var(--neutral-dark);
-            transition: background-color 0.3s ease, transform 0.2s ease;
-        }
-        .btn-accent:hover {
-            background-color: #e6a921;
-            transform: translateY(-2px);
-        }
-        .link-primary {
-            color: var(--primary);
-            font-weight: 600;
-            text-decoration: none;
-        }
-        .link-primary:hover {
-            text-decoration: underline;
-        }
-        .pro-con-list li::before {
-            content: '✓';
-            color: #22c55e; /* green-500 */
-            font-weight: bold;
-            display: inline-block;
-            width: 1em;
-            margin-left: -1em;
-        }
-        th {
-            background-color: #f0f4f8;
-        }
-    </style>
+
     <!-- SEO: FAQPage Schema Markup -->
     <script type="application/ld+json">
     {

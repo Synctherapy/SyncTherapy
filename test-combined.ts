@@ -1,5 +1,5 @@
-import { transformLazyImages } from './lib/lazy-images.ts';
-import { transformYouTubeEmbeds } from './lib/lazy-youtube.ts';
+import { transformLazyImages } from './lib/lazy-images';
+import { transformYouTubeEmbeds } from './lib/lazy-youtube';
 
 const html = `
 <div class="bg-white p-4 rounded-lg shadow-md mb-6">

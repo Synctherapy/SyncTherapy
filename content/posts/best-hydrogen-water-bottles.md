@@ -9,67 +9,7 @@ seoTitle: Best Hydrogen Water Bottles Canada (2026) — Tested
 ---
 
 <!-- wp:html -->
-<style>
-    body {
-        font-family: 'Inter', sans-serif;
-        background-color: #F4F7F5;
-        color: #333333;
-    }
-    html {
-        scroll-behavior: smooth;
-    }
-    .bg-primary { background-color: #2E5A88; }
-    .text-primary { color: #2E5A88; }
-    .border-primary { border-color: #2E5A88; }
-    .bg-accent { background-color: #F5B82E; }
-    .text-accent { color: #F5B82E; }
-    .border-accent { border-color: #F5B82E; }
-    
-    h2 {
-        border-left: 4px solid #F5B82E;
-        padding-left: 1rem;
-        margin-bottom: 1.5rem;
-        margin-top: 2rem;
-        font-size: 1.875rem;
-        font-weight: 700;
-        color: #2E5A88;
-    }
-    h3 {
-        margin-bottom: 0.5rem;
-        font-size: 1.5rem;
-        font-weight: 700;
-        color: #2E5A88;
-    }
 
-    body .affiliate-button {
-        background-color: #F5B82E !important;
-        color: #333333 !important;
-        font-weight: 600 !important;
-        transition: background-color 0.3s ease, transform 0.2s ease;
-        display: inline-block !important;
-        text-align: center !important;
-        padding: 0.75rem 1.5rem !important;
-        border-radius: 0.5rem !important;
-        border: none !important;
-        text-decoration: none !important;
-    }
-    body .affiliate-button:hover {
-        background-color: #d9a229 !important;
-        transform: translateY(-2px);
-    }
-    
-    .comparison-table th, .comparison-table td {
-        padding: 0.75rem 1rem;
-        text-align: left;
-        border-bottom: 1px solid #e5e7eb;
-    }
-    .comparison-table th {
-        background-color: #f9fafb;
-        font-weight: 600;
-    }
-    .comparison-table .fa-check-circle { color: #16a34a; }
-    .comparison-table .fa-times-circle { color: #dc2626; }
-</style>
 
 <!-- Schema Markup - Article -->
 <script type="application/ld+json">
