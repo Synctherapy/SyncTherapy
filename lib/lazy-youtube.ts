@@ -32,7 +32,7 @@ export function extractYouTubeId(url: string): string | null {
  */
 export function transformYouTubeEmbeds(html: string): string {
   // Match YouTube iframes
-  const iframePattern = /<iframe[^>]*src=["']([^"']*(?:youtube\.com|youtube-nocookie\.com)\/embed\/[^"']*)["'][^>]*>.*?<\/iframe>/gi;
+  const iframePattern = /<iframe[^>]*src=["']([^"']*(?:youtube\.com|youtube-nocookie\.com)\/embed\/[^"']*)["'][^>]*>[\s\S]*?<\/iframe>/gi;
 
   return html.replace(iframePattern, (match, src) => {
     const videoId = extractYouTubeId(src);
