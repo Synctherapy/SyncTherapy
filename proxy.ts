@@ -13,7 +13,7 @@ export function proxy(request: NextRequest) {
     base-uri 'self';
     form-action 'self';
     frame-ancestors 'none';
-    frame-src 'self' https://www.google.com;
+    frame-src 'self' https://www.google.com https://www.youtube.com https://www.youtube-nocookie.com;
     block-all-mixed-content;
     upgrade-insecure-requests;
 `;
