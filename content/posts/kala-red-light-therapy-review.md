@@ -144,7 +144,7 @@ seoTitle: 'Kala Red Light Review 2026: Real Results After 6 Months'
           "name": "Can I use red light therapy every day?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, daily use is safe and recommended. Optimal protocols include 10-15 minutes per day, 5-7 days per week for skin anti-aging; 15-20 minutes daily for pain relief until resolved, then 3-5x/week for maintenance; and 10 minutes every morning for mood and energy benefits. The sweet spot is 10-20 minutes per day."
+            "text": "Yes, daily use is safe and recommended. Based on 2 years of personal use, consistency beats duration - 10 minutes daily is better than 30 minutes once a week. Timing matters for energy (morning sessions help with energy, evening can be relaxing). For pain relief, daily use is recommended until resolved, then maintenance. The devices have built-in timers for 10-20 minute sessions which seem to be the sweet spot."
           }
         }
       ]
@@ -157,13 +157,13 @@ seoTitle: 'Kala Red Light Review 2026: Real Results After 6 Months'
             <div class="bg-gradient-to-r from-blue-50 to-white p-8 rounded-lg shadow-sm border-l-4 border-primary mb-8">
                 <div class="flex items-start gap-4 mb-4">
                     <div class="bg-primary text-white px-4 py-2 rounded-full text-sm font-semibold">Clinic Owner & Athletic Therapist</div>
-                    <div class="bg-green-100 text-green-800 px-4 py-2 rounded-full text-sm font-semibold">2 Years Daily Use</div>
+                    <div class="bg-green-100 text-green-800 px-4 py-2 rounded-full text-sm font-semibold">2 Years Regular Use</div>
                 </div>
                 <p class="text-xl text-gray-800 leading-relaxed mb-4 font-medium">
                     I've been using <strong>Kala devices for 2 years</strong>—the Pro Panel since 2024, and the Face Mask and PEMF Mat for over a year. As an award-winning clinic owner and certified athletic therapist in Canada, I'll share my honest experience with what actually works and what you need to know before buying.
                 </p>
                 <p class="text-lg text-gray-700 leading-relaxed">
-                    <strong>Quick Answer:</strong> These devices work, but they're not magic. The PEMF Mat helped me recover from a serious car accident, the Mask cleared a client's severe eczema in 2 weeks, and the Pro Panel is my daily driver for recovery. If you're willing to use them consistently, they're worth the investment.
+                    <strong>Quick Answer:</strong> These devices work, but they're not magic. The PEMF Mat helped me recover from a serious car accident, the Mask cleared a client's severe eczema in 2 weeks, and the Pro Panel is my weekly go-to for recovery. If you're willing to use them consistently, they're worth the investment.
                 </p>
             </div>
         </header>
@@ -176,7 +176,7 @@ seoTitle: 'Kala Red Light Review 2026: Real Results After 6 Months'
                     <i class="fas fa-play-circle text-accent text-3xl"></i>
                     <h2 class="text-3xl font-bold !mt-0">Watch: My Hands-On Kala Pro Panel Review</h2>
                 </div>
-                <p class="text-gray-600 mb-4">See the Kala Pro Panel in action, measured power output, and real results from 6 months of daily use:</p>
+                <p class="text-gray-600 mb-4">See the Kala Pro Panel in action and real results from 2 years of use:</p>
                 <div class="video-container">
                     <iframe src="https://www.youtube-nocookie.com/embed/wDrjkIpBCIo" title="Kala Pro Panel Review - Tested by RMT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
@@ -191,7 +191,7 @@ seoTitle: 'Kala Red Light Review 2026: Real Results After 6 Months'
                             <i class="fas fa-trophy text-yellow-500 text-xl mt-1"></i>
                             <div>
                                 <h4 class="font-bold text-primary mb-1">Best Overall: Kala Pro Panel</h4>
-                                <p class="text-sm text-gray-700">My daily go-to for 2 years. I use it most mornings for recovery and general wellness. Solid build quality, easy to use, and the dual wavelengths (660nm + 850nm) cover most needs.</p>
+                                <p class="text-sm text-gray-700">My weekly go-to for 2 years. I use it regularly for recovery and general wellness. Solid build quality, easy to use, and the dual wavelengths (660nm + 850nm) cover most needs.</p>
                                 <a href="#product-pro" class="text-primary text-sm font-semibold hover:underline">Read my full review →</a>
                             </div>
                         </div>
@@ -262,7 +262,7 @@ seoTitle: 'Kala Red Light Review 2026: Real Results After 6 Months'
             <!-- Why You Can Trust Us -->
             <section id="why-trust-us" class="bg-gradient-to-br from-blue-50 to-white p-8 rounded-lg shadow-md border border-blue-100">
                 <h2 class="text-3xl font-bold mb-2"><i class="fas fa-user-shield text-accent mr-2"></i>Why You Can Trust This Review</h2>
-                <p class="text-lg text-gray-700 mb-6">I'm Daryl Stubbs, an award-winning clinic owner and Certified Athletic Therapist (CAT(C) #2-4534) who's been treating patients in Victoria, BC since 2015. Here's my experience with Kala devices:</p>
+                <p class="text-lg text-gray-700 mb-6">I'm Daryl Stubbs, an award-winning clinic owner and Certified Athletic Therapist who's been treating patients in Victoria, BC since 2015. Here's my experience with Kala devices:</p>
 
                 <div class="bg-white p-6 rounded-lg border-l-4 border-primary mb-6">
                     <h3 class="text-xl font-bold mb-3 flex items-center gap-2">
@@ -271,16 +271,16 @@ seoTitle: 'Kala Red Light Review 2026: Real Results After 6 Months'
                     </h3>
                     <div class="grid md:grid-cols-2 gap-4 text-sm">
                         <div class="space-y-2">
-                            <p><strong class="text-primary">✓ Daily Personal Use:</strong> Pro Panel for 2 years, Mask & PEMF Mat for 1+ year</p>
+                            <p><strong class="text-primary">✓ Regular Personal Use:</strong> Pro Panel weekly for 2 years, Mask & PEMF Mat for 1+ year</p>
                             <p><strong class="text-primary">✓ Client Feedback:</strong> Clients ask about and use these devices regularly</p>
                             <p><strong class="text-primary">✓ Real Recovery:</strong> PEMF Mat helped me after totalling my truck in accident</p>
                             <p><strong class="text-primary">✓ Client Success:</strong> Mask cleared severe eczema in 2 weeks for one client</p>
                         </div>
                         <div class="space-y-2">
                             <p><strong class="text-primary">✓ Honest Opinion:</strong> I wish instructions were better, but results are solid</p>
-                            <p><strong class="text-primary">✓ Self-Purchased:</strong> I bought all devices myself (not sponsored or free)</p>
+                            <p><strong class="text-primary">✓ Transparent Review:</strong> Kala provided devices but didn't pay for this review</p>
                             <p><strong class="text-primary">✓ Multiple Uses:</strong> Acne control, TMJ pain relief, post-workout recovery</p>
-                            <p><strong class="text-primary">✓ Long-Term View:</strong> After 2 years, I still use them daily</p>
+                            <p><strong class="text-primary">✓ Long-Term View:</strong> After 2 years, I still use them weekly (Pro Panel)</p>
                         </div>
                     </div>
                 </div>
@@ -292,7 +292,7 @@ seoTitle: 'Kala Red Light Review 2026: Real Results After 6 Months'
                             <h4 class="font-bold">Professional Background</h4>
                         </div>
                         <ul class="text-sm text-gray-700 space-y-1">
-                            <li>• CAT(C): CATA #2-4534</li>
+                            <li>• Certified Athletic Therapist (CAT)</li>
                             <li>• Award-Winning Clinic Owner</li>
                             <li>• Visceral Manipulation: VM-1</li>
                             <li>• 11 years clinical practice</li>
@@ -313,7 +313,7 @@ seoTitle: 'Kala Red Light Review 2026: Real Results After 6 Months'
                 </div>
 
                 <div class="mt-6 p-4 bg-yellow-50 border border-yellow-200 rounded-lg">
-                    <p class="text-sm text-gray-800"><strong>⚠️ Full Transparency:</strong> This review contains affiliate links. If you purchase through my code (DARYL95230), I earn a small commission at no cost to you. I purchased all three devices myself and use them daily. Kala did not sponsor this review, provide free products, or pay me for this content. These are my honest opinions after 2 years of real-world use.</p>
+                    <p class="text-sm text-gray-800"><strong>⚠️ Full Transparency:</strong> This review contains affiliate links. If you purchase by clicking through my affiliate link, I earn a small commission at no cost to you (the code DARYL95230 only works when you click the link, not by typing it manually). Kala provided the devices for free, but did not pay me for this review or control the content. These are my honest opinions after 2 years of real-world use.</p>
                 </div>
             </section>
 
@@ -464,11 +464,11 @@ seoTitle: 'Kala Red Light Review 2026: Real Results After 6 Months'
                             <div class="bg-blue-50 p-4 rounded-lg mb-4">
                                 <h4 class="font-bold mb-2 text-lg">My 2-Year Experience</h4>
                                 <div class="space-y-3 text-sm">
-                                    <p class="text-gray-700"><strong class="text-primary">Daily Use:</strong> I've used the Pro Panel nearly every morning for 2 years. It's become part of my recovery routine alongside stretching and mobility work.</p>
+                                    <p class="text-gray-700"><strong class="text-primary">Weekly Use:</strong> I've used the Pro Panel weekly for 2 years. It's become part of my recovery routine alongside stretching and mobility work.</p>
 
                                     <p class="text-gray-700"><strong class="text-primary">What I Use It For:</strong> Post-workout recovery, general wellness, and maintaining energy levels. The dual wavelengths (660nm for surface, 850nm for deep tissue) make it versatile.</p>
 
-                                    <p class="text-gray-700"><strong class="text-primary">Build Quality:</strong> After 2 years of daily use, it's still working perfectly. The LEDs are bright, the fan runs quietly, and the build feels solid.</p>
+                                    <p class="text-gray-700"><strong class="text-primary">Build Quality:</strong> After 2 years of regular use, it's still working perfectly. The LEDs are bright, the fan runs quietly, and the build feels solid.</p>
 
                                     <p class="text-gray-700"><strong class="text-primary">Results:</strong> I notice better recovery when I use it consistently. Clients who've tried it report similar experiences with pain relief and energy.</p>
                                 </div>
@@ -506,7 +506,7 @@ seoTitle: 'Kala Red Light Review 2026: Real Results After 6 Months'
                     </div>
 
                     <div class="mt-6 p-4 bg-white rounded-lg border-l-4 border-primary">
-                        <p class="text-sm text-gray-800"><strong>💡 My Verdict:</strong> After 2 years of daily use, this is still my go-to device. If you can only get one red light panel, make it the Pro. It's large enough for full-body coverage, powerful enough for therapeutic use, and versatile enough for multiple applications. Yes, it's an investment, but mine has paid for itself in saved clinic visits and consistent recovery benefits.</p>
+                        <p class="text-sm text-gray-800"><strong>💡 My Verdict:</strong> After 2 years of weekly use, this is still my go-to device. If you can only get one red light panel, make it the Pro. It's large enough for full-body coverage, powerful enough for therapeutic use, and versatile enough for multiple applications. Yes, it's an investment, but mine has paid for itself in saved clinic visits and consistent recovery benefits.</p>
                     </div>
                 </div>
 
@@ -820,7 +820,7 @@ seoTitle: 'Kala Red Light Review 2026: Real Results After 6 Months'
                             <ul class="list-disc list-inside space-y-1 ml-4">
                                 <li><strong>Pain relief (PEMF Mat):</strong> I felt shoulder pain reduction within the first week after my car accident. For general aches, usually within a few days of consistent use.</li>
                                 <li><strong>Skin improvements (Mask):</strong> My client's eczema cleared in 2 weeks with daily use. For acne, I typically see results within a week or two.</li>
-                                <li><strong>General recovery (Pro Panel):</strong> Energy and recovery improvements are subtle but noticeable within the first few weeks of daily use.</li>
+                                <li><strong>General recovery (Pro Panel):</strong> Energy and recovery improvements are subtle but noticeable within the first few weeks of regular use.</li>
                             </ul>
                             <p class="text-sm"><strong>Key factor:</strong> Consistency matters. Daily or near-daily use (10-15 minutes) gets results faster than occasional use. See <a href="/red-light-therapy-before-and-after/" class="text-primary hover:underline font-semibold">before/after examples</a> for visual proof.</p>
                         </div>
@@ -832,7 +832,7 @@ seoTitle: 'Kala Red Light Review 2026: Real Results After 6 Months'
                             <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
                         </summary>
                         <div class="mt-4 text-gray-700 space-y-3">
-                            <p><strong>In my experience:</strong> Red light therapy is very safe. I haven't experienced any side effects in 2 years of daily use, and clients haven't reported issues either.</p>
+                            <p><strong>In my experience:</strong> Red light therapy is very safe. I haven't experienced any side effects in 2 years of regular use, and clients haven't reported issues either.</p>
                             <p><strong>Important warnings:</strong></p>
                             <ul class="list-disc list-inside space-y-1 ml-4">
                                 <li><strong>PEMF Mat + Pacemakers:</strong> Do NOT use the PEMF Mat if you have a pacemaker. The electromagnetic fields can interfere with the device.</li>
@@ -851,7 +851,7 @@ seoTitle: 'Kala Red Light Review 2026: Real Results After 6 Months'
                         <div class="mt-4 text-gray-700 space-y-3">
                             <p><strong>Based on my actual experience with the devices I own:</strong></p>
                             <div class="bg-white p-4 rounded-lg border border-gray-200 space-y-2">
-                                <p>• <strong>For versatility & full-body use:</strong> Get the <a href="#product-pro" class="text-primary hover:underline font-semibold">Kala Pro Panel</a> — This is my daily driver for 2 years. Great for general recovery, wellness, and body coverage.</p>
+                                <p>• <strong>For versatility & full-body use:</strong> Get the <a href="#product-pro" class="text-primary hover:underline font-semibold">Kala Pro Panel</a> — I've used this weekly for 2 years. Great for general recovery, wellness, and body coverage.</p>
                                 <p>• <strong>For facial skin issues:</strong> Get the <a href="#product-mask" class="text-primary hover:underline font-semibold">Kala Mask</a> — Cleared my client's severe eczema in 2 weeks. Great for acne and TMJ pain too.</p>
                                 <p>• <strong>For chronic pain relief:</strong> Get the <a href="#product-pemf" class="text-primary hover:underline font-semibold">PEMF Mat</a> — Helped me recover from my car accident. Best for shoulder/back pain and relaxation.</p>
                             </div>
@@ -867,7 +867,7 @@ seoTitle: 'Kala Red Light Review 2026: Real Results After 6 Months'
                         <div class="mt-4 text-gray-700 space-y-3">
                             <p><strong>Return Policy:</strong> Kala offers a 30-day money-back guarantee on their devices. If you're not happy, you can return it for a refund (minus shipping costs).</p>
                             <p><strong>Warranty:</strong> 3-year warranty on all devices, which is better than most competitors who only offer 1 year.</p>
-                            <p class="text-sm"><strong>My experience:</strong> After 2 years of daily use on the Pro Panel and 1+ year on the Mask and PEMF Mat, I haven't had a single device failure. The build quality is solid. The 3-year warranty gives you peace of mind for what is a significant investment.</p>
+                            <p class="text-sm"><strong>My experience:</strong> After 2 years of weekly use on the Pro Panel and 1+ year on the Mask and PEMF Mat, I haven't had a single device failure. The build quality is solid. The 3-year warranty gives you peace of mind for what is a significant investment.</p>
                         </div>
                     </details>
 
@@ -895,7 +895,7 @@ seoTitle: 'Kala Red Light Review 2026: Real Results After 6 Months'
                                             <td class="p-2 border">120 mW/cm²</td>
                                             <td class="p-2 border">~$1,500</td>
                                             <td class="p-2 border">🇨🇦 Canada</td>
-                                            <td class="p-2 border">Best value, my daily driver</td>
+                                            <td class="p-2 border">Best value, use weekly</td>
                                         </tr>
                                         <tr>
                                             <td class="p-2 border">Mito Red</td>
@@ -931,7 +931,7 @@ seoTitle: 'Kala Red Light Review 2026: Real Results After 6 Months'
                             <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
                         </summary>
                         <div class="mt-4 text-gray-700 space-y-3">
-                            <p><strong>Yes, daily use is safe and recommended.</strong> I personally use the Pro Panel nearly every morning (10 minutes) and the Mask several times per week (10-15 minutes).</p>
+                            <p><strong>Yes, daily use is safe and recommended.</strong> I personally use the Pro Panel weekly (10-15 minutes) and the Mask several times per week (10-15 minutes).</p>
                             <p><strong>What I've learned from 2 years of personal use:</strong></p>
                             <ul class="list-disc list-inside space-y-1 ml-4">
                                 <li><strong>Consistency beats duration:</strong> 10 minutes daily is better than 30 minutes once a week.</li>
@@ -939,7 +939,7 @@ seoTitle: 'Kala Red Light Review 2026: Real Results After 6 Months'
                                 <li><strong>Pain relief needs daily use:</strong> When I had shoulder pain after my accident, I used the PEMF Mat daily until it resolved, then backed off to maintenance.</li>
                                 <li><strong>Skin results need regular use:</strong> My client's eczema cleared with daily mask use for 2 weeks.</li>
                             </ul>
-                            <p class="text-sm"><strong>Can you overdo it?</strong> In my experience, no. I've used these devices daily for years without any negative effects. The devices have built-in timers (10-20 min sessions) which seem to be the sweet spot.</p>
+                            <p class="text-sm"><strong>Can you overdo it?</strong> In my experience, no. I've used these devices regularly for years without any negative effects. The devices have built-in timers (10-20 min sessions) which seem to be the sweet spot.</p>
                         </div>
                     </details>
                 </div>
@@ -954,14 +954,14 @@ seoTitle: 'Kala Red Light Review 2026: Real Results After 6 Months'
                         ✅ <strong>Yes, Kala is worth it</strong>—if you want professional-grade results and are willing to invest in quality over cheap imports.
                     </p>
                     <p class="text-lg leading-relaxed opacity-90">
-                        After 2 years of real-world use with the Pro Panel and over a year with the Mask and PEMF Mat, these devices deliver on their promises. The PEMF Mat helped me recover from a serious car accident, the Mask cleared my client's severe eczema in 2 weeks, and the Pro Panel has been a reliable daily driver for recovery and wellness. They work—if you use them consistently.
+                        After 2 years of real-world use with the Pro Panel and over a year with the Mask and PEMF Mat, these devices deliver on their promises. The PEMF Mat helped me recover from a serious car accident, the Mask cleared my client's severe eczema in 2 weeks, and the Pro Panel has been my reliable weekly go-to for recovery and wellness. They work—if you use them consistently.
                     </p>
                 </div>
 
                 <div class="grid md:grid-cols-3 gap-4 mb-6">
                     <div class="bg-white/10 backdrop-blur-sm p-4 rounded-lg">
                         <h4 class="font-bold text-lg mb-2">🏆 My #1 Pick</h4>
-                        <p class="text-sm opacity-90"><strong>Kala Pro Panel</strong> – Most versatile. Works for skin, pain, mood, and recovery. Daily driver for my household.</p>
+                        <p class="text-sm opacity-90"><strong>Kala Pro Panel</strong> – Most versatile. Works for skin, pain, mood, and recovery. Weekly go-to for my household.</p>
                     </div>
                     <div class="bg-white/10 backdrop-blur-sm p-4 rounded-lg">
                         <h4 class="font-bold text-lg mb-2">👑 Best ROI</h4>
@@ -999,7 +999,7 @@ seoTitle: 'Kala Red Light Review 2026: Real Results After 6 Months'
                 </div>
 
                 <div class="mt-6 p-4 bg-white/10 backdrop-blur-sm rounded-lg text-sm">
-                    <p class="opacity-90"><strong>📝 Full Disclosure:</strong> I'm Daryl Stubbs, Award-Winning Clinic Owner & Certified Athletic Therapist (CAT(C) #2-4534). I purchased all Kala devices myself (not sponsored). This review contains affiliate links—if you buy through my code (DARYL95230), I earn a small commission at no cost to you. I only recommend products I personally use for 1-2+ years. For comparison, see my <a href="/infraredi-vs-kala/" class="underline hover:text-yellow-300">Infraredi vs Kala analysis</a>.</p>
+                    <p class="opacity-90"><strong>📝 Full Disclosure:</strong> I'm Daryl Stubbs, Award-Winning Clinic Owner & Certified Athletic Therapist. Kala provided the devices for free, but did not pay me for this review or control the content. This review contains affiliate links—if you click through my link, I earn a small commission at no cost to you (code DARYL95230 only works via link click, not manual entry). I only recommend products I personally use for 1-2+ years. For comparison, see my <a href="/infraredi-vs-kala/" class="underline hover:text-yellow-300">Infraredi vs Kala analysis</a>.</p>
                 </div>
             </section>
 
