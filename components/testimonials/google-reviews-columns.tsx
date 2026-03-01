@@ -1,10 +1,10 @@
-"use client";
-import { useState, useEffect } from "react";
 import { Star } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { fetchGoogleReviewsAction } from "@/lib/actions/google-reviews";
+import { Suspense } from "react";
+import { ReviewsLoadingSkeleton } from "./reviews-loading-skeleton";
 
 const PLACE_ID = "ChIJh0e3HIV0j1QRtWxeiAnwzeo"; // Sync Therapy Colwood (Correct ID)
 
@@ -25,6 +25,8 @@ const GoogleIcon = () => (
     </svg>
 )
 
+const STARS = [0, 1, 2, 3, 4];
+
 const ReviewCard = ({ img, name, username, body, rating }: ReviewProps) => {
     return (
         <figure className="relative w-full cursor-pointer overflow-hidden rounded-xl border p-4 border-gray-950/[.1] bg-gray-950/[.01] hover:bg-gray-950/[.05] dark:border-gray-50/[.1] dark:bg-gray-50/[.10] dark:hover:bg-gray-50/[.15] transition-all duration-300">
@@ -44,7 +46,7 @@ const ReviewCard = ({ img, name, username, body, rating }: ReviewProps) => {
                     </figcaption>
                     <div className="flex items-center gap-1">
                         <div className="flex">
-                            {[...Array(rating || 5)].map((_, i) => (
+                            {STARS.slice(0, rating || 5).map((i) => (
                                 <Star key={i} className="w-3 h-3 fill-yellow-400 text-yellow-400" />
                             ))}
                         </div>
@@ -57,7 +59,6 @@ const ReviewCard = ({ img, name, username, body, rating }: ReviewProps) => {
     );
 };
 
-// Client Component for Marquee
 function ReviewsMarquee({ reviews }: { reviews: any[] }) {
     if (!reviews || reviews.length === 0) return null;
 
@@ -93,21 +94,13 @@ function ReviewsMarquee({ reviews }: { reviews: any[] }) {
     )
 }
 
-export function GoogleReviewsColumns() {
-    const [formattedReviews, setFormattedReviews] = useState<any[]>([]);
-    const [isLoading, setIsLoading] = useState<boolean>(true);
-
-    useEffect(() => {
-        fetchGoogleReviewsAction()
-            .then((data) => {
-                setFormattedReviews(data);
-                setIsLoading(false);
-            })
-            .catch((err) => {
-                console.error("Failed to load reviews:", err);
-                setIsLoading(false);
-            });
-    }, []);
+async function GoogleReviewsColumnsContent() {
+    let formattedReviews: any[] = [];
+    try {
+        formattedReviews = await fetchGoogleReviewsAction();
+    } catch (err) {
+        console.error("Failed to load reviews:", err);
+    }
 
     return (
         <section className="relative py-20 bg-slate-50 dark:bg-black/20 overflow-hidden">
@@ -129,11 +122,7 @@ export function GoogleReviewsColumns() {
                 <p className="text-muted-foreground">Recent 5-Star Reviews from your neighbors in Colwood & Langford.</p>
             </div>
 
-            {isLoading ? (
-                <div className="flex justify-center h-[200px] items-center">
-                    <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-blue-600"></div>
-                </div>
-            ) : formattedReviews.length > 0 ? (
+            {formattedReviews.length > 0 ? (
                 <ReviewsMarquee reviews={formattedReviews} />
             ) : (
                 <p className="text-center text-muted-foreground italic">Temporarily unavailable. Please check our Google Business Profile.</p>
@@ -148,5 +137,13 @@ export function GoogleReviewsColumns() {
                 </Button>
             </div>
         </section>
+    );
+}
+
+export function GoogleReviewsColumns() {
+    return (
+        <Suspense fallback={<ReviewsLoadingSkeleton />}>
+            <GoogleReviewsColumnsContent />
+        </Suspense>
     );
 }
