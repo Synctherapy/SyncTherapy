@@ -414,7 +414,7 @@ seoTitle: 'Red Light Therapy for Fibromyalgia (2026): The Correct Protocol'
             <div class="grid md:grid-cols-2 gap-8 items-center">
                 <div class="video-container">
                     <iframe 
-                        src="https://www.youtube.com/embed/PgpK0u13X0Y" 
+                        src="https://www.youtube-nocookie.com/embed/PgpK0u13X0Y" 
                         title="Red Light Therapy for Fibromyalgia"
                         frameborder="0" 
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -595,7 +595,7 @@ seoTitle: 'Red Light Therapy for Fibromyalgia (2026): The Correct Protocol'
                     <div class="grid md:grid-cols-2 gap-8 items-center">
                         <div class="shorts-container">
                             <iframe 
-                                src="https://www.youtube.com/embed/OKsEji4H3o4" 
+                                src="https://www.youtube-nocookie.com/embed/OKsEji4H3o4" 
                                 title="Gary Brecka Red Light Therapy"
                                 frameborder="0" 
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 

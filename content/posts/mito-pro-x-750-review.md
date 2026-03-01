@@ -100,7 +100,7 @@ seoTitle: Mito Pro X 750 Review | Award-Winning RMT Tested
             <section id="video-review">
                 <h2 class="text-3xl font-bold">Watch My MitoPRO X 750 Video Review</h2>
                 <div class="video-container">
-                    <iframe loading="lazy" width="956" height="538" src="https://www.youtube.com/embed/ZdzSLgebYC4" title="Discover the Secrets of the Mito Pro X 750 – A Game Changer in Red Light Therapy!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <iframe loading="lazy" width="956" height="538" src="https://www.youtube-nocookie.com/embed/ZdzSLgebYC4" title="Discover the Secrets of the Mito Pro X 750 – A Game Changer in Red Light Therapy!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 </div>
             </section>
 

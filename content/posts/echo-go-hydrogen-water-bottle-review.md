@@ -327,7 +327,7 @@ seoTitle: 'Echo Go Plus Review 2026: Best Hydrogen Bottle?'
                 <div class="bg-white p-4 rounded-lg shadow-md">
                     <h4 class="font-bold text-primary mb-3"><i class="fas fa-play-circle mr-2"></i>My Echo Go Plus Review</h4>
                     <div class="aspect-video">
-                        <iframe class="w-full h-full rounded-lg" src="https://www.youtube.com/embed/Luwg9w5mjgM" title="Echo Go Plus Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe class="w-full h-full rounded-lg" src="https://www.youtube-nocookie.com/embed/Luwg9w5mjgM" title="Echo Go Plus Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
             </div>

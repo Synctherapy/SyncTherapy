@@ -286,7 +286,7 @@ seoTitle: Best FDA-Cleared Red Light Devices for Pain (2026)
                                 </div>
                                 <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9sZGR5Lm5vLzFseWR1" href="https://www.mitoredlight.com/DARYL87554" target="_blank" class="affiliate-button w-full">Get Best Deal <i class="fas fa-arrow-right ml-2"></i></a>
                                 <div class="video-container">
-                                    <iframe loading="lazy" width="832" height="468" src="https://www.youtube.com/embed/ZdzSLgebYC4" title="Discover the Secrets of the Mito Pro X 750 – A Game Changer in Red Light Therapy!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                                    <iframe loading="lazy" width="832" height="468" src="https://www.youtube-nocookie.com/embed/ZdzSLgebYC4" title="Discover the Secrets of the Mito Pro X 750 – A Game Changer in Red Light Therapy!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                                 </div>
                             </div>
                         </div>

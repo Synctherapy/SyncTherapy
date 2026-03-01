@@ -298,7 +298,7 @@ seoTitle: Red Light Therapy for Testosterone (2026 Guide)
             <h2 class="!mt-0"><i class="fas fa-play-circle text-accent mr-2"></i>Watch: Red Light Therapy for Testosterone Explained</h2>
             <p class="mb-4">Before diving into the research, watch this comprehensive overview of how <strong>red light therapy testosterone</strong> protocols work and why men are using this approach:</p>
             <div class="video-container shadow-lg">
-                <iframe src="https://www.youtube.com/embed/I7TGOF1NTc4" title="Red Light Therapy for Testosterone and Fat Loss" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe src="https://www.youtube-nocookie.com/embed/I7TGOF1NTc4" title="Red Light Therapy for Testosterone and Fat Loss" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             <p class="text-sm text-gray-600 mt-3">This video covers <strong>red light therapy for testosterone</strong> benefits, fat loss connections, and practical application tips.</p>
         </section>
@@ -592,7 +592,7 @@ seoTitle: Red Light Therapy for Testosterone (2026 Guide)
             <h3 class="text-xl font-bold mb-3"><i class="fas fa-user-md text-accent mr-2"></i>Andrew Huberman on Red Light & Hormonal Health</h3>
             <p class="mb-4">Stanford neuroscientist Dr. Andrew Huberman discusses the relationship between light exposure and <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdGhlLXJvbGUtb2YtcmVkLWxpZ2h0LXRoZXJhcHktaW4taG9ybW9uZS1yZWd1bGF0aW9uLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdGhlLXJvbGUtb2YtcmVkLWxpZ2h0LXRoZXJhcHktaW4taG9ybW9uZS1yZWd1bGF0aW9uLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdGhlLXJvbGUtb2YtcmVkLWxpZ2h0LXRoZXJhcHktaW4taG9ybW9uZS1yZWd1bGF0aW9uLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvdGhlLXJvbGUtb2YtcmVkLWxpZ2h0LXRoZXJhcHktaW4taG9ybW9uZS1yZWd1bGF0aW9uLw==" href="/red-light-therapy-for-testosterone/" class="text-primary hover:underline">hormonal health</a>:</p>
             <div class="video-container shadow-lg max-w-md mx-auto">
-                <iframe src="https://www.youtube.com/embed/goCbY3zIZKo" title="Andrew Huberman on Red Light Therapy and Hormones" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe src="https://www.youtube-nocookie.com/embed/goCbY3zIZKo" title="Andrew Huberman on Red Light Therapy and Hormones" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </section>
 

@@ -33,7 +33,7 @@ seoTitle: 'PEMF Therapy for Fibromyalgia Relief: Exploring Alternative Pain Mana
 </div>
 <h2 class="no--margin-vertical margin-top_none bggle_title bggle--block " section-id="1724456598530">Understanding PEMF Therapy</h2>
 <div class="bggle--block bggle_text margin_vertical--small margin-top_none" section-id="1724456598531"><br></div>
-<div class="bggle_video bggle--block text__center margin_vertical--small margin-top_none " section-id="1724456598532"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/d5wEYoWZzt8" style="aspect-ratio: 16 / 9; width: 100%" title="d5wEYoWZzt8"></iframe></div>
+<div class="bggle_video bggle--block text__center margin_vertical--small margin-top_none " section-id="1724456598532"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" src="https://www.youtube-nocookie.com/embed/d5wEYoWZzt8" style="aspect-ratio: 16 / 9; width: 100%" title="d5wEYoWZzt8"></iframe></div>
 <div class="bggle--block bggle_text margin_vertical--small margin-top_none" section-id="1724456598533">
 <br><p>PEMF therapy, or Pulsed Electromagnetic Field therapy, harnesses electromagnetic fields to purportedly provide therapeutic benefits for various conditions, including <a href="/red-light-therapy-for-arthritis/">fibromyalgia</a>.</p>
 <br>
@@ -69,7 +69,7 @@ seoTitle: 'PEMF Therapy for Fibromyalgia Relief: Exploring Alternative Pain Mana
 </div>
 <h2 class="no--margin-vertical margin-top_none bggle_title bggle--block " section-id="1724456598556">Fibromyalgia Overview</h2>
 <div class="bggle--block bggle_text margin_vertical--small margin-top_none" section-id="1724456598557"><br></div>
-<div class="bggle_video bggle--block text__center margin_vertical--small margin-top_none " section-id="1724456598558"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/v9FsxdSuZ4Q" style="aspect-ratio: 16 / 9; width: 100%" title="v9FsxdSuZ4Q"></iframe></div>
+<div class="bggle_video bggle--block text__center margin_vertical--small margin-top_none " section-id="1724456598558"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" src="https://www.youtube-nocookie.com/embed/v9FsxdSuZ4Q" style="aspect-ratio: 16 / 9; width: 100%" title="v9FsxdSuZ4Q"></iframe></div>
 <div class="bggle--block bggle_text margin_vertical--small margin-top_none" section-id="1724456598559">
 <br><p>Fibromyalgia is a chronic condition marked by widespread pain, fatigue, and cognitive difficulties. It affects an estimated 2-4% of the population, with a higher prevalence among women.</p>
 <br>
@@ -104,7 +104,7 @@ seoTitle: 'PEMF Therapy for Fibromyalgia Relief: Exploring Alternative Pain Mana
 </div>
 <h2 class="no--margin-vertical margin-top_none bggle_title bggle--block " section-id="1724456598574">PEMF Therapy for Fibromyalgia</h2>
 <div class="bggle--block bggle_text margin_vertical--small margin-top_none" section-id="1724456598575"><br></div>
-<div class="bggle_video bggle--block text__center margin_vertical--small margin-top_none " section-id="1724456598576"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/ylHj5Ti75IA" style="aspect-ratio: 16 / 9; width: 100%" title="ylHj5Ti75IA"></iframe></div>
+<div class="bggle_video bggle--block text__center margin_vertical--small margin-top_none " section-id="1724456598576"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" src="https://www.youtube-nocookie.com/embed/ylHj5Ti75IA" style="aspect-ratio: 16 / 9; width: 100%" title="ylHj5Ti75IA"></iframe></div>
 <div class="bggle--block bggle_text margin_vertical--small margin-top_none" section-id="1724456598577">
 <br><p>PEMF therapy, which stands for Pulsed Electromagnetic Field Therapy, provides a non-invasive treatment option for individuals suffering from Fibromyalgia, aiming to alleviate pain and improve quality of life.</p>
 <br>

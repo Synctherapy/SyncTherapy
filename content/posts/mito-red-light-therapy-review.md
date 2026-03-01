@@ -489,7 +489,7 @@ seoTitle: 'Mito Red Light Review 2026: MitoPRO X & Adapt'
             if (videoFacade) {
                 videoFacade.addEventListener('click', function() {
                     const iframe = document.createElement('iframe');
-                    iframe.setAttribute('src', 'https://www.youtube.com/embed/p8yLv59gt9Q?autoplay=1');
+                    iframe.setAttribute('src', 'https://www.youtube-nocookie.com/embed/p8yLv59gt9Q?autoplay=1');
                     iframe.setAttribute('title', 'Mito Red Light Therapy Review: Worth It?');
                     iframe.setAttribute('frameborder', '0');
                     iframe.setAttribute('allow', 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture');

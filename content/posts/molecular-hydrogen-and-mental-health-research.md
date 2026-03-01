@@ -24,7 +24,7 @@ seoTitle: >-
 <p><a href="https://www.sciencedirect.com/science/article/pii/S036192302200332X">Studies have reported</a> improvements in parameters associated with mental health following hydrogen-rich interventions.</p>
 <p>These findings support the hypothesis that molecular hydrogen might affect mental and physical functions synergistically, although more comprehensive clinical trials are necessary to determine its efficacy and safety in a clinical setting.</p>
 <h2>Fundamentals of Molecular Hydrogen</h2>
-<iframe src="https://www.youtube.com/embed/w2xFShPsFck" style="aspect-ratio: 16 / 9; width: 100%;" title="w2xFShPsFck" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/w2xFShPsFck" style="aspect-ratio: 16 / 9; width: 100%;" title="w2xFShPsFck" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0"></iframe>
 <p>Molecular hydrogen (H2) is gaining attention for its potential therapeutic effects. Research suggests it could be a novel antioxidant with a role in various health applications.</p>
 <h3>Chemical Properties</h3>
 <p>Molecular hydrogen is the simplest and lightest molecule, consisting of two hydrogen atoms bound together.</p>
@@ -48,7 +48,7 @@ seoTitle: >-
 <p>However, with time, the scope of research broadened to include mental health applications, as researchers observed hydrogen's potential benefits for neurological health.</p>
 <p>Initial <strong>clinical trials</strong> and <strong>animal models</strong> started to demonstrate that hydrogen could have a positive impact on depressive symptoms and other mental disorders.</p>
 <h2>Molecular Hydrogen and the Brain</h2>
-<iframe src="https://www.youtube.com/embed/JgXSPyWV7N4" style="aspect-ratio: 16 / 9; width: 100%;" title="JgXSPyWV7N4" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/JgXSPyWV7N4" style="aspect-ratio: 16 / 9; width: 100%;" title="JgXSPyWV7N4" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0"></iframe>
 <p>Molecular hydrogen has gained attention for its potential impacts on brain health, specifically through its neuroprotective properties and ability to influence cognitive function.</p>
 <h3>Neuroprotective Effects</h3>
 <p>Molecular hydrogen has been researched for its potent <strong>antioxidant</strong> capabilities.</p>
@@ -97,7 +97,7 @@ seoTitle: >-
 <p>Larger and <strong>more diverse clinical trials</strong> are necessary to validate the early promise shown in the psychiatric application of hydrogen therapy.</p>
 <p>Researchers are advocating for expansive studies that can provide more comprehensive data regarding the optimal dosage and administration frequency of hydrogen for different mental health conditions.</p>
 <h2>Discussion and Analysis</h2>
-<iframe src="https://www.youtube.com/embed/nfEiaG98_lA" style="aspect-ratio: 16 / 9; width: 100%;" title="nfEiaG98_lA" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/nfEiaG98_lA" style="aspect-ratio: 16 / 9; width: 100%;" title="nfEiaG98_lA" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0"></iframe>
 <p>Recent studies have sparked a growing interest in the role of molecular hydrogen in the treatment of mental disorders.</p>
 <p>They suggest that hydrogen gas could have therapeutic benefits, particularly as an antioxidant.</p>
 <h3>Review of Evidence</h3>

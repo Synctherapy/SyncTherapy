@@ -43,7 +43,7 @@ seoTitle: Can GERD Cause Pain Between Shoulder Blades?
         "description": "A video explaining the connection between GERD and referred back pain.",
         "thumbnailUrl": "https://i.ytimg.com/vi/NX0YkXzplAk/maxresdefault.jpg",
         "uploadDate": "2023-01-01T08:00:00+00:00",
-        "embedUrl": "https://www.youtube.com/embed/NX0YkXzplAk"
+        "embedUrl": "https://www.youtube-nocookie.com/embed/NX0YkXzplAk"
       },
       "description": "Experiencing heartburn with back pain between the shoulder blades? Learn why GERD & acid reflux cause upper back and shoulder pain, and find expert-approved relief.",
       "mainEntityOfPage": {
@@ -97,7 +97,7 @@ seoTitle: Can GERD Cause Pain Between Shoulder Blades?
             <!-- Video Section -->
             <section id="video-section">
                 <div class="video-container">
-                    <iframe src="https://www.youtube.com/embed/NX0YkXzplAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    <iframe src="https://www.youtube-nocookie.com/embed/NX0YkXzplAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div>
             </section>
 

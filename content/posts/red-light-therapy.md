@@ -390,7 +390,7 @@ seoTitle: 'Red Light Therapy: Complete Guide to Benefits (2026)'
             <div class="grid md:grid-cols-2 gap-8 items-center">
                 <div class="video-container">
                     <iframe 
-                        src="https://www.youtube.com/embed/exrLFJk96ws" 
+                        src="https://www.youtube-nocookie.com/embed/exrLFJk96ws" 
                         title="Red Light Therapy Benefits Explained"
                         frameborder="0" 
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -914,7 +914,7 @@ seoTitle: 'Red Light Therapy: Complete Guide to Benefits (2026)'
                     <div class="grid md:grid-cols-2 gap-8 items-center">
                         <div class="shorts-container">
                             <iframe 
-                                src="https://www.youtube.com/embed/xQbcODIlXpw" 
+                                src="https://www.youtube-nocookie.com/embed/xQbcODIlXpw" 
                                 title="Gary Brecka Red Light Therapy"
                                 frameborder="0" 
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -1021,7 +1021,7 @@ seoTitle: 'Red Light Therapy: Complete Guide to Benefits (2026)'
                     <div class="grid md:grid-cols-2 gap-8 items-center">
                         <div class="shorts-container">
                             <iframe 
-                                src="https://www.youtube.com/embed/wsy5Qyn1Ci4" 
+                                src="https://www.youtube-nocookie.com/embed/wsy5Qyn1Ci4" 
                                 title="Andrew Huberman Red Light Therapy"
                                 frameborder="0" 
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 

@@ -103,7 +103,7 @@ seoTitle: 'Infraredi vs Kala (2026): Best Red Light in Canada?'
                 <div class="relative w-full" style="padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 0.5rem;">
                     <iframe 
                         style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 0.5rem;" 
-                        src="https://www.youtube.com/embed/7xkxCo1PvaE" 
+                        src="https://www.youtube-nocookie.com/embed/7xkxCo1PvaE" 
                         title="Infraredi vs Kala Red Light Therapy Comparison" 
                         frameborder="0" 
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 

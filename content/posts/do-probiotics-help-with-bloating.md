@@ -229,7 +229,7 @@ seoTitle: Do Probiotics Help With Bloating? Finally No More Bloating Or Gas In 2
                 <p class="mb-4">If you're wondering "<strong>will probiotics help with bloating?</strong>", the answer lies in how they re-engineer your gut's microbial community. According to a consensus statement in the <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5900870/" target="_blank" class="text-primary hover:underline">Alimentary Pharmacology & Therapeutics</a> journal, they don't just add good bacteria; they trigger a cascade of benefits that directly counter the causes of bloating and gas:</p>
                 
                 <div class="video-container my-8">
-                    <iframe src="https://www.youtube.com/embed/mZL3fWbkg8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe src="https://www.youtube-nocookie.com/embed/mZL3fWbkg8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
 
                 <div class="grid md:grid-cols-2 gap-6">

@@ -513,13 +513,13 @@ seoTitle: Gary Brecka Hydrogen Water Bottle Picks (2026)
                 <div class="bg-white p-4 rounded-lg shadow-md">
                     <h4 class="font-bold text-primary mb-3">Gary Brecka on Hydrogen Water Benefits</h4>
                     <div class="video-container">
-                        <iframe src="https://www.youtube.com/embed/Luwg9w5mjgM" title="Gary Brecka Hydrogen Water" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe src="https://www.youtube-nocookie.com/embed/Luwg9w5mjgM" title="Gary Brecka Hydrogen Water" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
                 <div class="bg-white p-4 rounded-lg shadow-md">
                     <h4 class="font-bold text-primary mb-3">What Makes Hydrogen Water Special?</h4>
                     <div class="video-container">
-                        <iframe src="https://www.youtube.com/embed/mimGdwc-w0g" title="Gary Brecka Hydrogen Water Special" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe src="https://www.youtube-nocookie.com/embed/mimGdwc-w0g" title="Gary Brecka Hydrogen Water Special" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
             </div>

@@ -179,7 +179,7 @@ seoTitle: Best Hydrogen Tablets Canada (2026) — 7 Reviewed
             <!-- YouTube Video Embed -->
             <section id="video-review" class="my-12">
                  <div class="video-container">
-                     <iframe width="951" height="535" src="https://www.youtube.com/embed/88uAoteDn3E" title="Which Should You Try First?: Hydrogen Tablets or Hydrogen Water Bottles?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                     <iframe width="951" height="535" src="https://www.youtube-nocookie.com/embed/88uAoteDn3E" title="Which Should You Try First?: Hydrogen Tablets or Hydrogen Water Bottles?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                  </div>
             </section>
 

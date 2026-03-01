@@ -122,7 +122,7 @@ seoTitle: 'Seed vs Pendulum (2026): Which Probiotic Wins?'
             <section id="video-section" class="bg-white p-6 rounded-lg shadow-md">
                 <h2 class="text-2xl font-bold mb-4"><i class="fas fa-video text-accent mr-2"></i>Watch: Seed vs. Pendulum Explained</h2>
                 <div class="video-container">
-                    <iframe src="https://www.youtube.com/embed/_NdlDhWVn2o" title="Seed vs Pendulum Probiotic Comparison" allowfullscreen="" loading="lazy"></iframe>
+                    <iframe src="https://www.youtube-nocookie.com/embed/_NdlDhWVn2o" title="Seed vs Pendulum Probiotic Comparison" allowfullscreen="" loading="lazy"></iframe>
                 </div>
                 <p class="text-gray-600 text-sm mt-4">Watch this comprehensive video to see a detailed comparison of Seed and Pendulum probiotics and their effectiveness. In addition to the visual comparisons, the video also dives into user testimonials and scientific studies to evaluate the benefits of each product. For those interested in a more up-to-date analysis, the <a href="/seed-vs-ritual-probiotics/">seed probiotics review 2025</a> will provide insights into any recent innovations or changes in formulation. This information can help consumers make informed decisions based on the latest research and customer experiences.</p>
             </section>

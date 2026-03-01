@@ -144,7 +144,7 @@ seoTitle: 'Kala Red Light Review 2026: Best Canadian Panel?'
             <section id="video-review">
                 <h2 class="text-3xl font-bold">My Hands-On Kala Pro Panel Review</h2>
                 <div class="video-container">
-                    <iframe src="https://www.youtube.com/embed/wDrjkIpBCIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe src="https://www.youtube-nocookie.com/embed/wDrjkIpBCIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             </section>
 
@@ -152,7 +152,7 @@ seoTitle: 'Kala Red Light Review 2026: Best Canadian Panel?'
             <section id="dragons-den-video">
                 <h2 class="text-3xl font-bold">As Seen On: Kala's Dragons' Den Pitch</h2>
                 <div class="video-container">
-                    <iframe src="https://www.youtube.com/embed/iQh6PXXryqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe src="https://www.youtube-nocookie.com/embed/iQh6PXXryqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             </section>
             

@@ -154,7 +154,7 @@ seoTitle: 'Seed DS-01 Review 2026: Worth the Hype in Canada?'
                  <h2 class="text-3xl font-bold"><i class="fab fa-youtube text-accent mr-2"></i>Watch Our Seed Synbiotic Review Video</h2>
                  <div class="video-container">
                     <iframe 
-                        src="https://www.youtube.com/embed/HW2XZ1iG9OE" 
+                        src="https://www.youtube-nocookie.com/embed/HW2XZ1iG9OE" 
                         title="YouTube video player" 
                         frameborder="0" 
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
