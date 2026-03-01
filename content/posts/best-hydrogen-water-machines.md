@@ -1175,7 +1175,7 @@ seoTitle: Best Hydrogen Water Machines (2026) — 6 Tested
 
                 <div class="mt-6 bg-gray-100 p-4 rounded-lg">
                     <p class="font-semibold text-primary"><i class="fas fa-lightbulb mr-2"></i>My Take</p>
-                    <p class="text-gray-700">If your goal is <strong>molecular hydrogen</strong>—where the research actually supports benefits—Echo products are purpose-built for that. Kangen machines are primarily alkaline ionizers where hydrogen is a byproduct. The MLM distribution model also adds significant cost. For more: <a href="/alkaline-water-vs-hydrogen-water/" class="text-primary hover:underline font-semibold">Kangen vs. Hydrogen Water</a> | <a href="/alkaline-water-vs-hydrogen-water/" class="text-primary hover:underline font-semibold">Alkaline vs. Hydrogen Water</a></p>
+                    <p class="text-gray-700">If your goal is <strong>molecular hydrogen</strong>—where the research actually supports benefits—Echo products are purpose-built for that. Kangen machines are primarily alkaline ionizers where hydrogen is a byproduct. The MLM distribution model also adds significant cost. For more: Kangen vs. Hydrogen Water | Alkaline vs. Hydrogen Water</p>
                 </div>
             </div>
         </section>
@@ -1216,12 +1216,12 @@ seoTitle: Best Hydrogen Water Machines (2026) — 6 Tested
                 
                 <details class="bg-white p-6 rounded-lg shadow-sm group">
                     <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">What's the difference between hydrogen water and alkaline water?<i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i></summary>
-                    <p class="mt-4 text-gray-700">Hydrogen water contains dissolved molecular hydrogen gas (H₂); alkaline water has an elevated pH. Different technologies, different purposes. Some machines produce both, but the research-backed benefits come from the hydrogen, not the pH change. See <a href="/alkaline-water-vs-hydrogen-water/" class="text-primary hover:underline font-semibold">alkaline vs. hydrogen water</a>.</p>
+                    <p class="mt-4 text-gray-700">Hydrogen water contains dissolved molecular hydrogen gas (H₂); alkaline water has an elevated pH. Different technologies, different purposes. Some machines produce both, but the research-backed benefits come from the hydrogen, not the pH change. See alkaline vs. hydrogen water.</p>
                 </details>
                 
                 <details class="bg-white p-6 rounded-lg shadow-sm group">
                     <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">Is hydrogen water better than Kangen water?<i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i></summary>
-                    <p class="mt-4 text-gray-700">If your goal is molecular hydrogen, dedicated hydrogen machines (like Echo) typically outperform Kangen machines, which focus on pH adjustment. Kangen produces some hydrogen as a byproduct, but at lower concentrations. See <a href="/alkaline-water-vs-hydrogen-water/" class="text-primary hover:underline font-semibold">Kangen vs. hydrogen water</a>.</p>
+                    <p class="mt-4 text-gray-700">If your goal is molecular hydrogen, dedicated hydrogen machines (like Echo) typically outperform Kangen machines, which focus on pH adjustment. Kangen produces some hydrogen as a byproduct, but at lower concentrations. See Kangen vs. hydrogen water.</p>
                 </details>
             </div>
         </section>

@@ -284,7 +284,7 @@ seoTitle: Red Light Therapy for Back Pain (2026 Guide)
             <section id="who-is-it-for">
                 <h2>Who is Red Light Therapy for Back Pain Best For?</h2>
                 <div class="space-y-6 bg-white p-8 rounded-lg shadow-md">
-                   <p>Red light therapy is a versatile treatment that can help various people suffering from back discomfort. Here’s who can benefit most: Individuals with chronic pain conditions, such as fibromyalgia or arthritis, may find significant relief through this innovative therapy. Additionally, those experiencing nerve-related issues, including diabetic patients, can utilize <a href="/neuropathy-red-light-therapy/">red light therapy for neuropathy</a> to help alleviate symptoms and enhance overall well-being. Athletes recovering from injuries can also benefit by promoting faster healing and reducing inflammation in affected areas.</p>
+                   <p>Red light therapy is a versatile treatment that can help various people suffering from back discomfort. Here’s who can benefit most: Individuals with chronic pain conditions, such as fibromyalgia or arthritis, may find significant relief through this innovative therapy. Additionally, those experiencing nerve-related issues, including diabetic patients, can utilize red light therapy for neuropathy to help alleviate symptoms and enhance overall well-being. Athletes recovering from injuries can also benefit by promoting faster healing and reducing inflammation in affected areas.</p>
                     <ul class="space-y-4">
                         <li class="flex items-start">
                             <i class="fa fa-user-tie text-primary text-2xl mr-4 mt-1"></i>

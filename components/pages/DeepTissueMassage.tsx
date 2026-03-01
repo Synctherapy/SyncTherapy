@@ -245,7 +245,7 @@ export function DeepTissueMassage() {
                                         </div>
                                         <div>
                                             <h4 className="font-bold text-blue-900 text-lg">
-                                                <Link href="/our-team/rmt-daryl-stubbs/" className="hover:underline hover:text-blue-700 transition-colors">
+                                                <Link href="/our-team/daryl-stubbs/" className="hover:underline hover:text-blue-700 transition-colors">
                                                     Meet the Expert: Daryl Stubbs, RMT
                                                 </Link>
                                             </h4>

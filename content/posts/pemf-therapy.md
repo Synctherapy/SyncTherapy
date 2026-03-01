@@ -62,7 +62,7 @@ seoTitle: >-
 <h3>The Role of Electromagnetism in Biological Processes</h3>
 <p>Electromagnetic fields play a key role in many bodily functions. Cells use electrical signals to communicate and regulate activities. PEMF therapy works by applying external fields that interact with these natural processes.</p>
 <p>The <a href="https://academic.oup.com/asj/article-abstract/29/2/135/270272">piezoelectric effect</a> is important in how PEMF affects tissues. This effect occurs when mechanical stress produces electrical charges in certain materials, including bone.</p>
-<p>PEMF can <a wpil="url" old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmxvZ3MvcGVtZi10aGVyYXB5L3BlbWYtZm9yLWRvZ3M=" href="/pemf-for-dogs/">stimulate mesenchymal stem cells</a>. These cells can turn into different types of tissues like bone, cartilage, and muscle. The therapy may help direct their development.</p>
+<p>PEMF can stimulate mesenchymal stem cells. These cells can turn into different types of tissues like bone, cartilage, and muscle. The therapy may help direct their development.</p>
 <h3>Cellular Mechanisms Influenced by PEMF</h3>
 <p>PEMF therapy affects several cellular processes. It can change how cells absorb calcium, which is crucial for many functions. The therapy also influences the production of growth factors.</p>
 <p><a data-wpil="url" data-wpil-url-old="aHR0cDovL3BlbWYuc2cvd3AtY29udGVudC91cGxvYWRzLzIwMTgvMDcvU2NpZW5jZS1vZi1QRU1GLURyLi1HYXJyeS1GLi1Hb3Jkb24tR1JJLTIwMTIucGRm" href="https://pemf.sg/wp-content/uploads/2018/07/Science-of-PEMF-Dr.-Garry-F.-Gordon-GRI-2012.pdf">Signal transduction pathways</a> are affected by PEMF. These pathways help cells respond to their environment. PEMF can trigger or modify these signals.</p>
@@ -229,7 +229,7 @@ seoTitle: >-
 <h3>The Role of Electromagnetism in Biological Processes</h3>
 <p>Electromagnetic fields play a key role in many bodily functions. Cells use electrical signals to communicate and regulate activities. PEMF therapy works by applying external fields that interact with these natural processes.</p>
 <p>The <a href="https://academic.oup.com/asj/article-abstract/29/2/135/270272">piezoelectric effect</a> is important in how PEMF affects tissues. This effect occurs when mechanical stress produces electrical charges in certain materials, including bone.</p>
-<p>PEMF can <a wpil="url" old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmxvZ3MvcGVtZi10aGVyYXB5L3BlbWYtZm9yLWRvZ3M=" href="/pemf-for-dogs/">stimulate mesenchymal stem cells</a>. These cells can turn into different types of tissues like bone, cartilage, and muscle. The therapy may help direct their development.</p>
+<p>PEMF can stimulate mesenchymal stem cells. These cells can turn into different types of tissues like bone, cartilage, and muscle. The therapy may help direct their development.</p>
 <h3>Cellular Mechanisms Influenced by PEMF</h3>
 <p>PEMF therapy affects several cellular processes. It can change how cells absorb calcium, which is crucial for many functions. The therapy also influences the production of growth factors.</p>
 <p><a data-wpil="url" data-wpil-url-old="aHR0cDovL3BlbWYuc2cvd3AtY29udGVudC91cGxvYWRzLzIwMTgvMDcvU2NpZW5jZS1vZi1QRU1GLURyLi1HYXJyeS1GLi1Hb3Jkb24tR1JJLTIwMTIucGRm" href="https://pemf.sg/wp-content/uploads/2018/07/Science-of-PEMF-Dr.-Garry-F.-Gordon-GRI-2012.pdf">Signal transduction pathways</a> are affected by PEMF. These pathways help cells respond to their environment. PEMF can trigger or modify these signals.</p>

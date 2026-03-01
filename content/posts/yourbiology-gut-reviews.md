@@ -94,7 +94,7 @@ seoTitle: 'YourBiology Gut+ Review: Best Women''s Probiotic?'
             <section id="product-summary">
                  <div class="bg-white p-6 rounded-lg shadow-md border-t-4 border-accent">
                     <h2 class="text-3xl font-bold !border-none !pl-0 !mt-0 text-center">Introducing YourBiology Gut+</h2>
-                    <p class="text-accent font-semibold mb-4 text-center">The All-In-One <a href="/probiotics-for-women/"  data-wpil-monitor-id="7">Probiotic Solution For Women</a></p>
+                    <p class="text-accent font-semibold mb-4 text-center">The All-In-One Probiotic Solution For Women</p>
                     <div class="grid md:grid-cols-2 gap-6 items-center">
                         <img src="/uploads/content/yourbiology-gut-review.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x400/CCCCCC/333333?text=YourBiology+Gut+';" alt="The YourBiology Gut+ probiotic supplement bottle and packaging, a top choice for women's gut health." class="rounded-lg shadow-sm w-full">
                         <div>

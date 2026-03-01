@@ -929,11 +929,11 @@ seoTitle: Best Hydrogen Water Bottles Canada (2026) — Tested
                     <li><a href="/hydrogen-water/" class="text-primary hover:underline font-semibold">→ Complete Guide to Hydrogen Water</a></li>
                     <li><a href="/best-hydrogen-water-machines/" class="text-primary hover:underline font-semibold">→ Best Hydrogen Water Machines (Countertop)</a></li>
                     <li><a href="/best-hydrogen-water-bottles/" class="text-primary hover:underline font-semibold">→ Where Can You Buy Hydrogen Water?</a></li>
-                    <li><a href="/alkaline-water-vs-hydrogen-water/" class="text-primary hover:underline font-semibold">→ Alkaline Water vs Hydrogen Water</a></li>
+                    <li>→ Alkaline Water vs Hydrogen Water</li>
                 </ul>
                 <ul class="space-y-2">
-                    <li><a href="/alkaline-water-vs-hydrogen-water/" class="text-primary hover:underline font-semibold">→ Kangen Water vs Hydrogen Water</a></li>
-                    <li><a href="/alkaline-water-vs-hydrogen-water/" class="text-primary hover:underline font-semibold">→ Hydrogen Water vs Ionized Water</a></li>
+                    <li>→ Kangen Water vs Hydrogen Water</li>
+                    <li>→ Hydrogen Water vs Ionized Water</li>
                     <li><a href="/benefits-of-hydrogen-water/" class="text-primary hover:underline font-semibold">→ Hydrogen Water and Cancer Research</a></li>
                     <li><a href="/ion-bottles-review/" class="text-primary hover:underline font-semibold">→ IonBottles Review</a></li>
                 </ul>

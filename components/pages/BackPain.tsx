@@ -10,26 +10,26 @@ export function BackPain() {
     return (
         <div className="bg-white text-gray-900 font-sans">
             <ServiceSchema
-                    type="condition"
-                    name="Back Pain"
-                    description=""
-                    slug="back-pain"
-                    breadcrumbLabel="Back Pain"
-                    faqItems={[
-                              {
-                                        "question": "Is massage safe if my back is in spasm?",
-                                        "answer": "Yes, but we treat it differently. We don't force deep pressure into a spasm (that makes it worse). We use gentle release techniques on surrounding muscles to convince the nervous system to let go."
-                              },
-                              {
-                                        "question": "What's the difference between you and a Chiropractor?",
-                                        "answer": "Chiropractors focus on skeletal alignment and joint manipulation. We focus on the soft tissue (muscles, fascia, tendons) that pulls those joints out of place. Often, the best results come from combining both!"
-                              },
-                              {
-                                        "question": "How many sessions will I need?",
-                                        "answer": "Most acute back pain sees significant relief in 3-5 sessions. Chronic issues (lasting months/years) may require a longer maintenance plan combined with strengthening exercises."
-                              }
-                    ]}
-                />
+                type="condition"
+                name="Back Pain"
+                description=""
+                slug="back-pain"
+                breadcrumbLabel="Back Pain"
+                faqItems={[
+                    {
+                        "question": "Is massage safe if my back is in spasm?",
+                        "answer": "Yes, but we treat it differently. We don't force deep pressure into a spasm (that makes it worse). We use gentle release techniques on surrounding muscles to convince the nervous system to let go."
+                    },
+                    {
+                        "question": "What's the difference between you and a Chiropractor?",
+                        "answer": "Chiropractors focus on skeletal alignment and joint manipulation. We focus on the soft tissue (muscles, fascia, tendons) that pulls those joints out of place. Often, the best results come from combining both!"
+                    },
+                    {
+                        "question": "How many sessions will I need?",
+                        "answer": "Most acute back pain sees significant relief in 3-5 sessions. Chronic issues (lasting months/years) may require a longer maintenance plan combined with strengthening exercises."
+                    }
+                ]}
+            />
 
             {/* 0. BREADCRUMBS */}
             <div className="bg-blue-950 pt-4 px-4">
@@ -226,7 +226,7 @@ export function BackPain() {
                             <h3 className="font-bold text-xl mb-2 text-blue-900">Visceral Mobilization</h3>
                             <p className="text-sm text-slate-600">Best for "Mystery Pain." We release tension in the abdomen (from the front) that pulls on the spine.</p>
                         </Link>
-                        <Link href="/conditions/chronic-pain-victoria/" className="block p-8 bg-white border border-gray-200 rounded-xl hover:border-blue-600 hover:shadow-xl transition-all group">
+                        <Link href="/conditions/chronic-pain/" className="block p-8 bg-white border border-gray-200 rounded-xl hover:border-blue-600 hover:shadow-xl transition-all group">
                             <div className="w-12 h-12 bg-blue-100 text-blue-600 rounded-lg flex items-center justify-center text-2xl mb-4 group-hover:bg-blue-600 group-hover:text-white transition-colors">🧠</div>
                             <h3 className="font-bold text-xl mb-2 text-blue-900">Chronic Pain Program</h3>
                             <p className="text-sm text-slate-600">Best for pain lasting 3+ months. A gentle, neurological approach to calm a sensitized system.</p>

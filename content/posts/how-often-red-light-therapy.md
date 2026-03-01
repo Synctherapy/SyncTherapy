@@ -122,5 +122,5 @@ seoTitle: How Often Red Light Therapy is Recommended for Optimal Results
 <h3 style="--fontsize: 32; line-height: 1.26;" data-lineheight="40.32px" data-fontsize="32" class="fusion-responsive-typography-calculated" data-mce-style="--fontsize: 32; line-height: 1.26;">Is it possible to use red light therapy multiple times a day without adverse effects?</h3>
 <p>Using red light therapy multiple times a day is generally not recommended, as it can lead to diminishing returns or skin irritation. It's advisable to maintain a moderate treatment schedule.</p>
 <h3 style="--fontsize: 32; line-height: 1.26;" data-lineheight="40.32px" data-fontsize="32" class="fusion-responsive-typography-calculated" data-mce-style="--fontsize: 32; line-height: 1.26;">Have any studies confirmed the efficacy of red light therapy in skin treatment?</h3>
-<p>Yes, studies have shown that <a href="/red-light-therapy-psoriasis/">red light therapy can be effective in treating various skin conditions</a>, promoting healing, and improving skin appearance.</p>
+<p>Yes, studies have shown that red light therapy can be effective in treating various skin conditions, promoting healing, and improving skin appearance.</p>
 <p>It is a widely accepted <a href="https://my.clevelandclinic.org/health/articles/22114-red-light-therapy">treatment in skin therapy</a>.</p>

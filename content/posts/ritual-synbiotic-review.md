@@ -197,7 +197,7 @@ seoTitle: 'Ritual Synbiotic+ Review 2026: Worth the Price?'
                      <div>
                         <p class="mb-4">Ritual Synbiotic+ is an excellent choice for adults looking for a high-quality, science-backed supplement. It's particularly well-suited for:</p>
                         <ul class="list-disc list-inside space-y-2">
-                            <li>Individuals experiencing occasional digestive complaints and looking for a probiotic for <a href="/best-probiotic-supplements-for-ibs/" class="text-primary hover:underline font-semibold">IBS-related symptoms</a> like bloating.</li>
+                            <li>Individuals experiencing occasional digestive complaints and looking for a probiotic for IBS-related symptoms like bloating.</li>
                             <li>People who want to support their immune system and overall wellness.</li>
                             <li>Those seeking a convenient, all-in-one formula without having to buy separate supplements.</li>
                             <li>Health-conscious consumers who value clean, traceable, and vegan ingredients.</li>

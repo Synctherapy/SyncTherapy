@@ -434,7 +434,7 @@ seoTitle: 'Best Probiotics for Men (2026): Gut & Testosterone'
                         <i class="fas fa-leaf text-primary text-2xl mr-4 mt-1"></i>
                         <div>
                             <h4 class="text-xl font-semibold text-primary">Digestive & Gut Health</h4>
-                            <p>The primary benefit of probiotics for men is supporting digestive health. They help maintain a healthy balance of gut bacteria, which can alleviate common issues like bloating, gas, and constipation, especially for those with <a href="/best-probiotic-supplements-for-ibs/" class="text-primary hover:underline font-semibold">IBS</a>. A meta-analysis of 42 trials found that co-administering probiotics cut the risk of antibiotic-associated diarrhea by 37% in adults (<a href="https://pubmed.ncbi.nlm.nih.gov/34385227/" target="_blank" class="text-primary hover:underline">Study</a>).</p>
+                            <p>The primary benefit of probiotics for men is supporting digestive health. They help maintain a healthy balance of gut bacteria, which can alleviate common issues like bloating, gas, and constipation, especially for those with IBS. A meta-analysis of 42 trials found that co-administering probiotics cut the risk of antibiotic-associated diarrhea by 37% in adults (<a href="https://pubmed.ncbi.nlm.nih.gov/34385227/" target="_blank" class="text-primary hover:underline">Study</a>).</p>
                         </div>
                     </div>
                      <div class="flex items-start">

@@ -28,7 +28,7 @@ seoTitle: >-
 <p>Molecular hydrogen (H2) is gaining attention for its potential therapeutic effects. Research suggests it could be a novel antioxidant with a role in various health applications.</p>
 <h3>Chemical Properties</h3>
 <p>Molecular hydrogen is the simplest and lightest molecule, consisting of two hydrogen atoms bound together.</p>
-<p>It is colorless, odorless, non-metallic, and tasteless. Under standard conditions, it is a <a href="/alkaline-water-vs-hydrogen-water/">diatomic gas</a>.</p>
+<p>It is colorless, odorless, non-metallic, and tasteless. Under standard conditions, it is a diatomic gas.</p>
 <p>H2 is highly diffusive, enabling rapid distribution throughout the body when administered.</p>
 <h3>Biological Interactions</h3>
 <p>In biological systems, molecular hydrogen exhibits an affinity for reacting with strong oxidants, such as hydroxyl radicals and peroxynitrite, while being benign to other cellular components.</p>

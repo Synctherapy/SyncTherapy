@@ -69,26 +69,26 @@ export function SportsMassage() {
     return (
         <div className="bg-background min-h-screen relative selection:bg-blue-100 selection:text-blue-900 overflow-hidden">
             <ServiceSchema
-                    type="service"
-                    name="Sports Massage & Athletic Recovery in Colwood"
-                    description="Ideal for addressing multiple areas or complex conditions."
-                    slug="sports-massage"
-                    breadcrumbLabel="Sports Massage & Athletic Recovery in Colwood"
-                    faqItems={[
-                              {
-                                        "question": "When should I get a massage: Before or After an event?",
-                                        "answer": "Pre-Event: 2-3 days before to prime muscles (not too deep). Post-Event: 24-48 hours after to flush waste and reduce soreness. Immediately after can sometimes be too intense."
-                              },
-                              {
-                                        "question": "Is this different from Athletic Therapy?",
-                                        "answer": "Yes. Sports Massage focuses on tissue health, recovery, and maintenance. Athletic Therapy is a distinct profession focused on acute injury assessment, field care, and rehabilitation."
-                              },
-                              {
-                                        "question": "Do you treat non-athletes?",
-                                        "answer": "Absolutely. If you have an active job or lifestyle, 'Sports Massage' is simply a focused, results-driven treatment style."
-                              }
-                    ]}
-                />
+                type="service"
+                name="Sports Massage & Athletic Recovery in Colwood"
+                description="Ideal for addressing multiple areas or complex conditions."
+                slug="sports-massage"
+                breadcrumbLabel="Sports Massage & Athletic Recovery in Colwood"
+                faqItems={[
+                    {
+                        "question": "When should I get a massage: Before or After an event?",
+                        "answer": "Pre-Event: 2-3 days before to prime muscles (not too deep). Post-Event: 24-48 hours after to flush waste and reduce soreness. Immediately after can sometimes be too intense."
+                    },
+                    {
+                        "question": "Is this different from Athletic Therapy?",
+                        "answer": "Yes. Sports Massage focuses on tissue health, recovery, and maintenance. Athletic Therapy is a distinct profession focused on acute injury assessment, field care, and rehabilitation."
+                    },
+                    {
+                        "question": "Do you treat non-athletes?",
+                        "answer": "Absolutely. If you have an active job or lifestyle, 'Sports Massage' is simply a focused, results-driven treatment style."
+                    }
+                ]}
+            />
 
             {/* Global Fluid Background */}
             <div className="fixed inset-0 z-0 pointer-events-none overflow-hidden">
@@ -221,7 +221,7 @@ export function SportsMassage() {
                                         </div>
                                         <div>
                                             <h4 className="font-bold text-blue-900 text-lg">
-                                                <Link href="/our-team/rmt-daryl-stubbs/" className="hover:underline hover:text-blue-700 transition-colors">
+                                                <Link href="/our-team/daryl-stubbs/" className="hover:underline hover:text-blue-700 transition-colors">
                                                     Meet the Expert: Daryl Stubbs, RMT & Clinic Owner
                                                 </Link>
                                             </h4>

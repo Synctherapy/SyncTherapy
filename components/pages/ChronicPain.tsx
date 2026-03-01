@@ -10,26 +10,26 @@ export function ChronicPain() {
     return (
         <div className="bg-white text-gray-900 font-sans">
             <ServiceSchema
-                    type="condition"
-                    name="in Colwood & Langford"
-                    description=""
-                    slug="chronic-pain"
-                    breadcrumbLabel="in Colwood & Langford"
-                    faqItems={[
-                              {
-                                        "question": "Why hasn't other therapy worked for my chronic pain?",
-                                        "answer": "Many therapies only address the muscle (the hardware). Chronic pain often requires treating the nervous system (the software) to turn down the volume of the pain signals."
-                              },
-                              {
-                                        "question": "Is my pain all in my head?",
-                                        "answer": "The pain is 100% real. However, it is processed by the brain. In chronic pain, the brain becomes overprotective and amplifies signals. We treat this hypersensitivity."
-                              },
-                              {
-                                        "question": "Do I need to manage stress?",
-                                        "answer": "Yes. Stress hormones (cortisol) increase inflammation and pain sensitivity. Our health consulting approach helps you manage sleep and stress to aid recovery."
-                              }
-                    ]}
-                />
+                type="condition"
+                name="in Colwood & Langford"
+                description=""
+                slug="chronic-pain"
+                breadcrumbLabel="in Colwood & Langford"
+                faqItems={[
+                    {
+                        "question": "Why hasn't other therapy worked for my chronic pain?",
+                        "answer": "Many therapies only address the muscle (the hardware). Chronic pain often requires treating the nervous system (the software) to turn down the volume of the pain signals."
+                    },
+                    {
+                        "question": "Is my pain all in my head?",
+                        "answer": "The pain is 100% real. However, it is processed by the brain. In chronic pain, the brain becomes overprotective and amplifies signals. We treat this hypersensitivity."
+                    },
+                    {
+                        "question": "Do I need to manage stress?",
+                        "answer": "Yes. Stress hormones (cortisol) increase inflammation and pain sensitivity. Our health consulting approach helps you manage sleep and stress to aid recovery."
+                    }
+                ]}
+            />
 
             {/* 0. BREADCRUMBS */}
             <div className="bg-blue-950 pt-4 px-4">
@@ -154,7 +154,7 @@ export function ChronicPain() {
                     <p className="text-center text-slate-600 mb-12 max-w-2xl mx-auto">A multi-faceted approach to calm the system.</p>
 
                     <div className="grid md:grid-cols-3 gap-6">
-                        <Link href="/conditions/chronic-pain-victoria/" className="block p-8 bg-white border border-gray-200 rounded-xl hover:border-blue-600 hover:shadow-xl transition-all group">
+                        <Link href="/conditions/chronic-pain/" className="block p-8 bg-white border border-gray-200 rounded-xl hover:border-blue-600 hover:shadow-xl transition-all group">
                             <div className="w-12 h-12 bg-blue-100 text-blue-600 rounded-lg flex items-center justify-center text-2xl mb-4 group-hover:bg-blue-600 group-hover:text-white transition-colors">🧠</div>
                             <h3 className="font-bold text-xl mb-2 text-blue-900">Neurological Dampening</h3>
                             <p className="text-sm text-slate-600">Specific manual techniques that signal safety to the brain, reducing the amplification of pain.</p>

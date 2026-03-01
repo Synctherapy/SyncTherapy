@@ -332,7 +332,7 @@ seoTitle: 'Best SIBO Supplements 2026: Methane & Hydrogen'
                     <div class="grid md:grid-cols-2 gap-6">
                         <img src="/uploads/content/sibo-treatment-antibiotics-What-herb-kills-SIBO.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Intolerase';" alt="The Intolerase supplement bottle, a carbohydrase formula for SIBO." class="rounded-lg shadow-sm w-full">
                         <div>
-                            <p class="mb-4">Intolerase is an ultra-potent enzyme formula that goes beyond FODMATE. It's designed to break down a wide range of fermentable carbohydrates, making it a powerful tool for those on a restrictive diet like low-FODMAP or a specific carbohydrate diet. By improving carbohydrate digestion with <a href="/probiotics-vs-digestive-enzymes/" class="text-primary hover:underline font-semibold">digestive enzymes</a>, it reduces the fuel available for bacterial overgrowth.</p>
+                            <p class="mb-4">Intolerase is an ultra-potent enzyme formula that goes beyond FODMATE. It's designed to break down a wide range of fermentable carbohydrates, making it a powerful tool for those on a restrictive diet like low-FODMAP or a specific carbohydrate diet. By improving carbohydrate digestion with digestive enzymes, it reduces the fuel available for bacterial overgrowth.</p>
                             <ul class="space-y-2 mb-4">
                                 <li><i class="fas fa-bread-slice text-primary mr-2"></i><strong>Potent Enzyme Blend:</strong> Includes alpha-galactosidase, lactase, amylase, and more.</li>
                                 <li><i class="fas fa-carrot text-primary mr-2"></i><strong>Supports Restrictive Diets:</strong> Helps improve compliance and reduce symptoms on low-carb diets.</li>
@@ -396,7 +396,7 @@ seoTitle: 'Best SIBO Supplements 2026: Methane & Hydrogen'
                             <li>Abdominal pain or cramping</li>
                             <li>Diarrhea, constipation, or both</li>
                             <li>An uncomfortable feeling of fullness</li>
-                            <li><a href="/best-probiotic-for-acid-reflux/" class="text-primary hover:underline font-semibold">Acid reflux</a> or heartburn</li>
+                            <li>Acid reflux or heartburn</li>
                             <li>Nausea</li>
                             <li>Fatigue and brain fog<sup><a href="https://www.ncbi.nlm.nih.gov/pubmed/29915215" target="_blank" rel="noopener noreferrer" class="text-primary">[3]</a></sup></li>
                         </ul>

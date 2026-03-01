@@ -76,14 +76,14 @@ const services: ServiceItem[] = [
         title: "Chronic Pain Conditions",
         description: "Management strategies for fibromyalgia, arthritis, and persistent pain. Gentle, consistent treatment to improve quality of life and reduce daily discomfort.",
         image: "/images/generated/massage-chronic-pain-unique.png",
-        href: "/conditions/chronic-pain-victoria",
+        href: "/conditions/chronic-pain",
         cta: "Manage Chronic Pain"
     },
     {
         title: "Posture Correction",
         description: "Modern life is hard on posture. We work on tight muscles pulling you out of alignment and help lengthen stuck areas. Combined with awareness, it makes a real difference.",
         image: "/images/generated/massage-posture-correction-unique.png",
-        href: "/conditions/postural-imbalance-victoria",
+        href: "/conditions/postural-imbalance",
         cta: "Improve Posture"
     },
     {

@@ -146,6 +146,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 
 
+    const noIndexPages = ['privacy-policy', 'terms-of-service', 'affiliate-disclosure', 'testimonials-disclosure', 'cookies-policy'];
+    const shouldNoIndex = resolvedParams.slug.length === 1 && noIndexPages.includes(resolvedParams.slug[0]);
 
     return {
         title,
@@ -159,6 +161,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         alternates: {
             canonical: url,
         },
+        ...(shouldNoIndex && { robots: { index: false, follow: true } }),
     };
 }
 

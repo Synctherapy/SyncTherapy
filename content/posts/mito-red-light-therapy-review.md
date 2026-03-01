@@ -227,7 +227,7 @@ seoTitle: 'Mito Red Light Review 2026: MitoPRO X & Adapt'
                     <div class="bg-white p-6 rounded-lg shadow-md text-center">
                         <i class="fas fa-spa text-primary text-4xl mb-4"></i>
                         <h4 class="!mt-0">Skin Rejuvenation</h4>
-                        <p class="text-gray-600 text-sm">Boosts collagen, reduces wrinkles, and improves conditions like <a href="/red-light-therapy-for-eczema/" class="text-primary hover:underline">eczema</a> and <a href="/red-light-therapy-psoriasis/" class="text-primary hover:underline">psoriasis</a>.</p>
+                        <p class="text-gray-600 text-sm">Boosts collagen, reduces wrinkles, and improves conditions like eczema and psoriasis.</p>
                     </div>
                     <div class="bg-white p-6 rounded-lg shadow-md text-center">
                         <i class="fas fa-dumbbell text-primary text-4xl mb-4"></i>

@@ -235,11 +235,6 @@
     "permanent": true
   },
   {
-    "source": "/blogs/health/best-probiotic-supplements-for-ibs",
-    "destination": "/best-probiotic-supplements-for-ibs/",
-    "permanent": true
-  },
-  {
     "source": "/blogs/health/perfect-aminos-reviews",
     "destination": "/perfect-aminos-reviews/",
     "permanent": true
@@ -272,11 +267,6 @@
   {
     "source": "/blogs/health/mito-red-light-therapy-review",
     "destination": "/mito-red-light-therapy-review/",
-    "permanent": true
-  },
-  {
-    "source": "/blogs/blog/best-supplements-for-anxiety",
-    "destination": "/best-supplements-for-anxiety/",
     "permanent": true
   },
   {
@@ -385,11 +375,6 @@
     "permanent": true
   },
   {
-    "source": "/2019/01/09/vitamins-and-minerals-for-anxiety",
-    "destination": "/best-supplements-for-anxiety/",
-    "permanent": true
-  },
-  {
     "source": "/cymbiotika-golden-mind",
     "destination": "/seed-vs-pendulum/",
     "permanent": true
@@ -420,11 +405,6 @@
     "permanent": true
   },
   {
-    "source": "/best-probiotics-for-ibs",
-    "destination": "/best-probiotic-supplements-for-ibs/",
-    "permanent": true
-  },
-  {
     "source": "/best-probiotics-for-candida",
     "destination": "/best-probiotic-supplements-for-candida/",
     "permanent": true
@@ -432,11 +412,6 @@
   {
     "source": "/best-probiotics-for-acne",
     "destination": "/best-probiotic-for-acne/",
-    "permanent": true
-  },
-  {
-    "source": "/probiotics-for-ibs-and-anxiety",
-    "destination": "/best-probiotic-supplements-for-ibs/",
     "permanent": true
   },
   {
@@ -482,11 +457,6 @@
   {
     "source": "/can-gerd-cause-back-pain-between-shoulder-blades-2",
     "destination": "/can-gerd-cause-back-pain-between-shoulder-blades/",
-    "permanent": true
-  },
-  {
-    "source": "/infrared-red-sauna-benefits",
-    "destination": "/bon-charge-sauna-blanket-review/",
     "permanent": true
   },
   {
@@ -661,7 +631,7 @@
   },
   {
     "source": "/conditions/joint-stiffness-langford",
-    "destination": "/conditions/joint-stiffness-victoria/",
+    "destination": "/conditions/joint-stiffness/",
     "permanent": true
   },
   {
@@ -686,12 +656,12 @@
   },
   {
     "source": "/conditions/postural-imbalance-colwood",
-    "destination": "/conditions/postural-imbalance-victoria/",
+    "destination": "/conditions/postural-imbalance/",
     "permanent": true
   },
   {
     "source": "/conditions/postural-imbalance-langford",
-    "destination": "/conditions/postural-imbalance-victoria/",
+    "destination": "/conditions/postural-imbalance/",
     "permanent": true
   },
   {
@@ -830,7 +800,7 @@
     "permanent": true
   },
   {
-    "source": "/seed-probiotics-reviews/\u2060",
+    "source": "/seed-probiotics-reviews/⁠",
     "destination": "/seed-probiotics-reviews/",
     "permanent": true
   },
@@ -972,11 +942,6 @@
   {
     "source": "/best-probiotic-supplements-for-men/",
     "destination": "/best-prebiotics-and-probiotics-supplements/",
-    "permanent": true
-  },
-  {
-    "source": "/do-probiotics-help-ibs/",
-    "destination": "/best-probiotic-supplements-for-ibs/",
     "permanent": true
   },
   {
@@ -1160,11 +1125,6 @@
     "permanent": true
   },
   {
-    "source": "/does-pemf-cause-cancer-examining-the-scientific-evidence/",
-    "destination": "/pemf-therapy-side-effects/",
-    "permanent": true
-  },
-  {
     "source": "/healthyline-mat-reviews/",
     "destination": "/best-pemf-mats/",
     "permanent": true
@@ -1227,26 +1187,6 @@
   {
     "source": "/wavelength-for-red-light/",
     "destination": "/red-light-therapy/",
-    "permanent": true
-  },
-  {
-    "source": "/sauna-blanket-benefits/",
-    "destination": "/bon-charge-sauna-blanket-review/",
-    "permanent": true
-  },
-  {
-    "source": "/heat-healer-sauna-blanket-reviews/",
-    "destination": "/bon-charge-sauna-blanket-review/",
-    "permanent": true
-  },
-  {
-    "source": "/best-sauna-blanket/",
-    "destination": "/bon-charge-sauna-blanket-review/",
-    "permanent": true
-  },
-  {
-    "source": "/higherdose-sauna-blanket/",
-    "destination": "/bon-charge-sauna-blanket-review/",
     "permanent": true
   },
   {
@@ -1777,6 +1717,161 @@
   {
     "source": "/services/chronic-pain-victoria",
     "destination": "/conditions/chronic-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/athletic-therapist-daryl-stubbs",
+    "destination": "/our-team/daryl-stubbs/",
+    "permanent": true
+  },
+  {
+    "source": "/our-team",
+    "destination": "/our-team/daryl-stubbs/",
+    "permanent": true
+  },
+  {
+    "source": "/our-team/rmt-daryl-stubbs",
+    "destination": "/our-team/daryl-stubbs/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/postural-imbalance-victoria",
+    "destination": "/conditions/postural-imbalance/",
+    "permanent": true
+  },
+  {
+    "source": "/shin-splints-treatment-victoria",
+    "destination": "/conditions/shin-splints/",
+    "permanent": true
+  },
+  {
+    "source": "/sports-injury-prevention-victoria",
+    "destination": "/conditions/sports-injuries-and-prevention/",
+    "permanent": true
+  },
+  {
+    "source": "/sprains-strains-colwood",
+    "destination": "/conditions/sprains-and-strains/",
+    "permanent": true
+  },
+  {
+    "source": "/sprains-strains-victoria",
+    "destination": "/conditions/sprains-and-strains/",
+    "permanent": true
+  },
+  {
+    "source": "/why-us",
+    "destination": "/about/",
+    "permanent": true
+  },
+  {
+    "source": "/overuse-injuries-victoria",
+    "destination": "/conditions/sports-injuries-and-prevention/",
+    "permanent": true
+  },
+  {
+    "source": "/tendonitis-treatment-victoria",
+    "destination": "/conditions/tendonitis-treatment/",
+    "permanent": true
+  },
+  {
+    "source": "/arthritis-pain-victoria",
+    "destination": "/conditions/arthritis-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/chronic-pain-victoria",
+    "destination": "/conditions/chronic-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/joint-stiffness-victoria",
+    "destination": "/conditions/joint-stiffness/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/muscle-tension-relief-victoria",
+    "destination": "/conditions/muscle-tension/",
+    "permanent": true
+  },
+  {
+    "source": "/muscle-tension-relief-victoria",
+    "destination": "/conditions/muscle-tension/",
+    "permanent": true
+  },
+  {
+    "source": "/joint-stiffness-victoria",
+    "destination": "/conditions/joint-stiffness/",
+    "permanent": true
+  },
+  {
+    "source": "/massage-therapy",
+    "destination": "/services/massage-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/do-probiotics-make-you-poop",
+    "destination": "/best-prebiotics-and-probiotics-supplements/",
+    "permanent": true
+  },
+  {
+    "source": "/gdpr-cookie-policy",
+    "destination": "/cookies-policy/",
+    "permanent": true
+  },
+  {
+    "source": "/general-disclaimer",
+    "destination": "/medical-disclaimer/",
+    "permanent": true
+  },
+  {
+    "source": "/newsletter-subscription-disclaimer",
+    "destination": "/privacy-policy/",
+    "permanent": true
+  },
+  {
+    "source": "/best-whole-house-water-filter/",
+    "destination": "/best-reverse-osmosis-ro-water-filter/",
+    "permanent": true
+  },
+  {
+    "source": "/best-probiotics-for-seniors/",
+    "destination": "/best-prebiotics-and-probiotics-supplements/",
+    "permanent": true
+  },
+  {
+    "source": "/red-light-therapy-for-eczema/",
+    "destination": "/red-light-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/align-probiotic-supplement-review/",
+    "destination": "/culturelle-vs-align-probiotics/",
+    "permanent": true
+  },
+  {
+    "source": "/red-light-therapy-for-cold-sore/",
+    "destination": "/red-light-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/best-probiotic-for-acid-reflux/",
+    "destination": "/best-prebiotics-and-probiotics-supplements/",
+    "permanent": true
+  },
+  {
+    "source": "/alkaline-water-vs-hydrogen-water/",
+    "destination": "/benefits-of-hydrogen-water/",
+    "permanent": true
+  },
+  {
+    "source": "/neuropathy-red-light-therapy/",
+    "destination": "/red-light-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/ibs-quiz/",
+    "destination": "/gut-health-test/",
     "permanent": true
   }
 ]

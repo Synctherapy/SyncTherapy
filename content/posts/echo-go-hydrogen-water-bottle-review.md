@@ -380,7 +380,7 @@ seoTitle: 'Echo Go Plus Review 2026: Best Hydrogen Bottle?'
                 <p class="text-sm text-gray-700">When clients ask me about hydrogen water, I always recommend Echo. The combination of third-party testing, therapeutic hydrogen levels, and the 5-year warranty gives me confidence that I'm recommending a quality product. You don't offer a 5-year warranty if you're not confident in your manufacturing.</p>
             </div>
 
-            <p class="text-sm text-gray-600">For more about the company, read my full <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZWNoby13YXRlci12cy1rYW5nZW4v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZWNoby13YXRlci12cy1rYW5nZW4v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZWNoby13YXRlci12cy1rYW5nZW4v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZWNoby13YXRlci12cy1rYW5nZW4v" href="/alkaline-water-vs-hydrogen-water/" class="text-primary hover:underline font-semibold">Echo Water comparison guide</a>.</p>
+            <p class="text-sm text-gray-600">For more about the company, read my full Echo Water comparison guide.</p>
         </section>
 
         <!-- Echo Go Plus Review -->
@@ -690,7 +690,7 @@ seoTitle: 'Echo Go Plus Review 2026: Best Hydrogen Bottle?'
                 </ul>
                 <ul class="space-y-2 text-sm">
                     <li><a href="/echo-ultimate-review/" class="text-primary hover:underline font-semibold">→ Echo Ultimate Machine Review</a></li>
-                    <li><a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZWNoby13YXRlci12cy1rYW5nZW4v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZWNoby13YXRlci12cy1rYW5nZW4v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZWNoby13YXRlci12cy1rYW5nZW4v" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZWNoby13YXRlci12cy1rYW5nZW4v" href="/alkaline-water-vs-hydrogen-water/" class="text-primary hover:underline font-semibold">→ Echo Water vs Kangen</a></li>
+                    <li>→ Echo Water vs Kangen</li>
                     <li><a href="/gary-brecka-hydrogen-water-bottle/" class="text-primary hover:underline font-semibold">→ Dana White's Hydrogen Water</a></li>
                     <li><a href="/echo-ultimate-review/" class="text-primary hover:underline font-semibold">→ Echo H2 Machine Reviews</a></li>
                 </ul>

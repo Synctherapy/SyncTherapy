@@ -10,26 +10,26 @@ export function BursitisTreatment() {
     return (
         <div className="bg-white text-gray-900 font-sans">
             <ServiceSchema
-                    type="condition"
-                    name="Joint Relief"
-                    description=""
-                    slug="bursitis-treatment"
-                    breadcrumbLabel="Joint Relief"
-                    faqItems={[
-                              {
-                                        "question": "Do I need a cortisone shot for bursitis?",
-                                        "answer": "While injections reduce acute swelling, if you don't use Manual Therapy to fix the tight muscles causing the friction, the bursitis often returns. We treat the compression causing the inflammation."
-                              },
-                              {
-                                        "question": "Why does my bursitis keep coming back?",
-                                        "answer": "Bursitis recurs because the mechanical pressure (tight muscle or poor joint tracking) hasn't been resolved. Treating the inflammation without treating the cause is a temporary fix."
-                              },
-                              {
-                                        "question": "Can massage help bursitis?",
-                                        "answer": "Yes, but we don't massage the inflamed bursa directly. We release the tight muscles squeezing the bursa to allow it to drain and heal naturally."
-                              }
-                    ]}
-                />
+                type="condition"
+                name="Joint Relief"
+                description=""
+                slug="bursitis-treatment"
+                breadcrumbLabel="Joint Relief"
+                faqItems={[
+                    {
+                        "question": "Do I need a cortisone shot for bursitis?",
+                        "answer": "While injections reduce acute swelling, if you don't use Manual Therapy to fix the tight muscles causing the friction, the bursitis often returns. We treat the compression causing the inflammation."
+                    },
+                    {
+                        "question": "Why does my bursitis keep coming back?",
+                        "answer": "Bursitis recurs because the mechanical pressure (tight muscle or poor joint tracking) hasn't been resolved. Treating the inflammation without treating the cause is a temporary fix."
+                    },
+                    {
+                        "question": "Can massage help bursitis?",
+                        "answer": "Yes, but we don't massage the inflamed bursa directly. We release the tight muscles squeezing the bursa to allow it to drain and heal naturally."
+                    }
+                ]}
+            />
 
             {/* 0. BREADCRUMBS */}
             <div className="bg-blue-950 pt-4 px-4">
@@ -216,7 +216,7 @@ export function BursitisTreatment() {
                     <p className="text-center text-slate-600 mb-12 max-w-2xl mx-auto">We stop the squeeze to stop the swelling.</p>
 
                     <div className="grid md:grid-cols-3 gap-6">
-                        <Link href="/conditions/chronic-pain-victoria/" className="block p-8 bg-white border border-gray-200 rounded-xl hover:border-blue-600 hover:shadow-xl transition-all group">
+                        <Link href="/conditions/chronic-pain/" className="block p-8 bg-white border border-gray-200 rounded-xl hover:border-blue-600 hover:shadow-xl transition-all group">
                             <div className="w-12 h-12 bg-blue-100 text-blue-600 rounded-lg flex items-center justify-center text-2xl mb-4 group-hover:bg-blue-600 group-hover:text-white transition-colors">🧊</div>
                             <h3 className="font-bold text-xl mb-2 text-blue-900">Inflammation Control</h3>
                             <p className="text-sm text-slate-600">Strategies to flush out excess fluid and reduce the acute heat in the joint immediately.</p>

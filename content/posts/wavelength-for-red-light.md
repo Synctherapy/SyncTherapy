@@ -43,7 +43,7 @@ seoTitle: 'Optimal Red Light Wavelengths: Color & Science Explained'
 <p>These wavelengths are absorbed by the skin and penetrate deep into the body's tissues and cells, where they trigger a series of biological responses that promote healing and rejuvenation.</p>
 <h3>Red Light in the Visible Spectrum</h3>
 <p>Red light is part of the visible light spectrum and has a longer wavelength than blue or green light. It is the least energetic and has the lowest frequency among all visible light colors. This makes it ideal for therapeutic purposes, as it is less likely to cause damage to the skin or eyes.</p>
-<p>The red light wavelength has been shown to have a variety of health benefits, including reducing inflammation, improving circulation, and promoting collagen production. It has also been used to treat skin conditions such as acne, psoriasis, and <a href="/red-light-therapy-for-eczema/">eczema</a>.</p>
+<p>The red light wavelength has been shown to have a variety of health benefits, including reducing inflammation, improving circulation, and promoting collagen production. It has also been used to treat skin conditions such as acne, psoriasis, and eczema.</p>
 <h2>The Best Red Light Wavelengths In NM</h2>
 <p><img src="/uploads/content/v2-6xxay-c7wg8.jpg" alt="A glowing red light illuminates the New Mexico desert, casting a warm and vibrant hue across the landscape"></p>
 <p>Red light therapy uses specific wavelengths of light to provide various health benefits to the body. The most effective wavelengths for red light therapy are between 620-750 nanometers (nm).</p>
@@ -111,7 +111,7 @@ seoTitle: 'Optimal Red Light Wavelengths: Color & Science Explained'
 <p>Red wavelengths have been shown to improve bone healing.</p>
 <p>Red light therapy has been shown to increase bone density and promote the healing of fractures, making it an effective treatment for those with bone injuries.</p>
 <h3>Reduced Neuropathic Pain</h3>
-<p><a href="/neuropathy-red-light-therapy/">Red wavelengths have been shown to reduce neuropathic pain.</a></p>
+<p>Red wavelengths have been shown to reduce neuropathic pain.</p>
 <p><a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" href="/red-light-therapy-back-pain/">Red light therapy has been shown to reduce back pain</a> and inflammation associated with neuropathy, making it an effective treatment for those with nerve pain.</p>
 <h3>Accelerated Wound Healing</h3>
 <p>Red wavelengths have been shown to accelerate wound healing.</p>

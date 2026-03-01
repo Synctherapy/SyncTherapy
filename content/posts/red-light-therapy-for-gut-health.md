@@ -216,7 +216,7 @@ seoTitle: Red Light Therapy for Gut Health & Stomach Use
                         <li><strong>Inflammation:</strong> Even "non-inflammatory" IBS involves elevated cytokines. Red light reduces these markers.</li>
                         <li><strong>Visceral sensitivity:</strong> PBM's effects on nerve signaling may reduce the heightened pain response common in IBS.</li>
                     </ul>
-                    <p class="text-gray-700">If you're dealing with IBS, you might also benefit from <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1wcm9iaW90aWMtc3VwcGxlbWVudHMtZm9yLWlicy8=" href="/best-probiotic-supplements-for-ibs/" class="text-primary hover:underline font-semibold">targeted probiotics</a>. Take our <a href="/ibs-quiz/" class="text-primary hover:underline font-semibold">IBS quiz</a> to learn more about your specific type.</p>
+                    <p class="text-gray-700">If you're dealing with IBS, you might also benefit from targeted probiotics. Take our IBS quiz to learn more about your specific type.</p>
                 </div>
 
                 <div class="bg-white p-6 rounded-lg shadow-sm">
@@ -239,7 +239,7 @@ seoTitle: Red Light Therapy for Gut Health & Stomach Use
                         <li>Supporting tissue repair in damaged areas</li>
                         <li>Improving vagal tone, which regulates stomach acid production</li>
                     </ul>
-                    <p class="text-gray-700">If you struggle with acid reflux, also consider <a href="/best-probiotic-for-acid-reflux/" class="text-primary hover:underline font-semibold">probiotics formulated for reflux</a>.</p>
+                    <p class="text-gray-700">If you struggle with acid reflux, also consider probiotics formulated for reflux.</p>
                 </div>
 
                 <div class="bg-white p-6 rounded-lg shadow-sm">
@@ -557,7 +557,7 @@ seoTitle: Red Light Therapy for Gut Health & Stomach Use
                         Can red light therapy help with IBS?
                         <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
                     </summary>
-                    <p class="mt-4 text-gray-700">Early evidence is promising. Red light therapy addresses several IBS drivers: gut dysbiosis, inflammation, and visceral hypersensitivity. While large clinical trials are still needed, the mechanistic evidence and patient reports suggest it can be a helpful addition to an IBS management plan. See also: <a href="/best-probiotic-supplements-for-ibs/" class="text-primary hover:underline font-semibold">Do Probiotics Help IBS?</a></p>
+                    <p class="mt-4 text-gray-700">Early evidence is promising. Red light therapy addresses several IBS drivers: gut dysbiosis, inflammation, and visceral hypersensitivity. While large clinical trials are still needed, the mechanistic evidence and patient reports suggest it can be a helpful addition to an IBS management plan. See also: Do Probiotics Help IBS?</p>
                 </details>
 
                 <details class="bg-white p-6 rounded-lg shadow-sm group">

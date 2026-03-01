@@ -122,7 +122,7 @@ seoTitle: 'Prunes vs Dates for Constipation: Which Works?'
                     <li><strong>Lack of Physical Activity:</strong> A sedentary lifestyle can slow down the digestive system.</li>
                     <li><strong>Stress:</strong> Psychological stress can directly impact digestive function.</li>
                     <li><strong>Medications:</strong> Certain painkillers and antidepressants can cause constipation as a side effect.</li>
-                    <li><strong>Underlying Conditions:</strong> Issues like <a href="/best-probiotic-supplements-for-ibs/" class="text-primary hover:underline font-semibold">Irritable Bowel Syndrome (IBS)</a> or hypothyroidism can contribute.</li>
+                    <li><strong>Underlying Conditions:</strong> Issues like Irritable Bowel Syndrome (IBS) or hypothyroidism can contribute.</li>
                 </ul>
             </section>
 

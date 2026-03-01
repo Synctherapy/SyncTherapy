@@ -120,7 +120,7 @@ seoTitle: Can GERD Cause Pain Between Shoulder Blades?
             
             <section id="understanding-gerd">
                 <h2 class="text-3xl font-bold">What is GERD &amp; Acid Reflux?</h2>
-                <p class="mb-4">Gastroesophageal reflux disease (GERD) is the chronic, more severe form of <a href="/best-probiotic-for-acid-reflux/" class="text-primary hover:underline font-semibold">acid reflux</a>. It occurs when stomach acid frequently flows back into the tube connecting your mouth and stomach (esophagus). This backwash irritates the lining of your esophagus, causing the familiar burning sensation of heartburn.</p>
+                <p class="mb-4">Gastroesophageal reflux disease (GERD) is the chronic, more severe form of acid reflux. It occurs when stomach acid frequently flows back into the tube connecting your mouth and stomach (esophagus). This backwash irritates the lining of your esophagus, causing the familiar burning sensation of heartburn.</p>
                 <p class="mb-4">This happens when the lower esophageal sphincter (LES), a muscular valve at the bottom of the esophagus, weakens or relaxes when it shouldn't, allowing stomach contents to escape upwards.</p>
                 <h3 class="text-xl font-semibold mt-6 mb-3">Common Symptoms of GERD</h3>
                 <ul class="list-disc list-inside space-y-2">
@@ -202,7 +202,7 @@ seoTitle: Can GERD Cause Pain Between Shoulder Blades?
                         <h3 class="font-semibold text-lg mb-2"><i class="fas fa-seedling text-primary mr-2"></i>Lifestyle Tips</h3>
                         <ul class="list-disc list-inside space-y-2">
                             <li><strong>Stay Hydrated:</strong> Drink plenty of water between meals, not during, to avoid diluting stomach acid.</li>
-                            <li><strong>Manage Stress:</strong> Chronic stress can impair digestion. Practice meditation, deep breathing, or consider <a href="/best-supplements-for-anxiety/" class="text-primary hover:underline font-semibold">supplements for anxiety</a>.</li>
+                            <li><strong>Manage Stress:</strong> Chronic stress can impair digestion. Practice meditation, deep breathing, or consider supplements for anxiety.</li>
                             <li><strong>Get Enough Zinc:</strong> This mineral is crucial for producing stomach acid. Find it in pumpkin seeds, beef, and lentils.</li>
                         </ul>
                     </div>
