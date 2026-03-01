@@ -8,6 +8,7 @@ import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
 import { transformYouTubeEmbeds } from '@/lib/lazy-youtube';
 import { transformLazyImages } from '@/lib/lazy-images';
+import { transformFontAwesome } from '@/lib/transform-fontawesome';
 
 // ─── Category Detection ────────────────────────────────────────
 const RED_LIGHT_KEYWORDS = ['red-light', 'pemf', 'sauna', 'infrared', 'recovery-modali', 'cryo', 'photobiomodulation'];
@@ -248,8 +249,8 @@ export default async function Page({ params }: Props) {
     if (item && item.type === 'post') {
         // Transform YouTube iframes to lazy-loading versions for better performance
         // Also transform markdown images to add lazy-loading/fetchPriority
-        const transformedContent = transformLazyImages(transformYouTubeEmbeds(item.content));
-        const content = <div dangerouslySetInnerHTML={{ __html: transformedContent }} />;
+        const transformedContent = transformLazyImages(transformYouTubeEmbeds(transformFontAwesome(item.content)));
+        const content = <div className="blog-post-content" dangerouslySetInnerHTML={{ __html: transformedContent }} />;
         const detectedCategory = getCategoryFromSlug(resolvedParams.slug.join('/'), item.frontmatter.category);
         const currentSlug = resolvedParams.slug.join('/');
 
