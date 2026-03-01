@@ -6,6 +6,7 @@ import { ServiceLayout } from '@/components/layouts/ServiceLayout';
 import { ServicesIndexLayout } from '@/components/layouts/ServicesIndexLayout';
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
+import { transformYouTubeEmbeds } from '@/lib/lazy-youtube';
 
 // ─── Category Detection ────────────────────────────────────────
 const RED_LIGHT_KEYWORDS = ['red-light', 'pemf', 'sauna', 'infrared', 'recovery-modali', 'cryo', 'photobiomodulation'];
@@ -244,7 +245,9 @@ export default async function Page({ params }: Props) {
 
     // 1. Blog Post Layout
     if (item && item.type === 'post') {
-        const content = <div dangerouslySetInnerHTML={{ __html: item.content }} />;
+        // Transform YouTube iframes to lazy-loading versions for better performance
+        const transformedContent = transformYouTubeEmbeds(item.content);
+        const content = <div dangerouslySetInnerHTML={{ __html: transformedContent }} />;
         const detectedCategory = getCategoryFromSlug(resolvedParams.slug.join('/'), item.frontmatter.category);
         const currentSlug = resolvedParams.slug.join('/');
 

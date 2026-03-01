@@ -314,4 +314,25 @@ body {
   .toc a {
     @apply text-[#2563EB] hover:underline transition-colors;
   }
+
+  /* Lazy YouTube embed styles */
+  .lazy-youtube-container {
+    @apply mb-6;
+  }
+
+  .lazy-youtube-wrapper {
+    @apply shadow-md transition-shadow duration-300;
+  }
+
+  .lazy-youtube-wrapper:hover {
+    @apply shadow-lg;
+  }
+
+  .lazy-youtube-thumbnail {
+    @apply transition-opacity duration-300;
+  }
+
+  .lazy-youtube-container:hover .lazy-youtube-thumbnail {
+    opacity: 0.9;
+  }
 }
