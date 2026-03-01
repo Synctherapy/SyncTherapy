@@ -10,9 +10,7 @@ seoTitle: Visceral Manipulation Massage Victoria BC | Expert Visceral Massage Ne
 ---
 
 <!-- wp:html -->
-<!-- Google Fonts -->
-        
-    <style>
+<style>
         * {
             margin: 0;
             padding: 0;

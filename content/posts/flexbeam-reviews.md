@@ -9,12 +9,6 @@ seoTitle: 'FlexBeam Review 2026: Portable Red Light Device'
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-
-<!-- Google Fonts: Inter -->
-
-<!-- Font Awesome for Icons -->
-
 <style>
     body {
         font-family: 'Inter', sans-serif;

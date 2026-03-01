@@ -9,14 +9,7 @@ seoTitle: 'Echo Ultimate Review 2026: 4-in-1 Water Machine'
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-        
-    <!-- Google Fonts: Inter -->
-                
-    <!-- Font Awesome for Icons -->
-    
-        
-    <!-- Schema Markup -->
+<!-- Schema Markup -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",

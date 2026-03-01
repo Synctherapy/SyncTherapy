@@ -10,14 +10,7 @@ seoTitle: The Best Probiotic Strains for Your Health Goals (2026 Guide)
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-        
-    <!-- Google Fonts: Inter -->
-                
-    <!-- Font Awesome for Icons -->
-    
-        
-    <!-- Enhanced Schema -->
+<!-- Enhanced Schema -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",

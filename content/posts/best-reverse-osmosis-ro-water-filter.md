@@ -9,14 +9,7 @@ seoTitle: Best Reverse Osmosis Water Filters (2026 Reviews)
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-        
-    <!-- Google Fonts: Inter -->
-                
-    <!-- Font Awesome for Icons -->
-    
-        
-    <!-- Schema Markup -->
+<!-- Schema Markup -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",

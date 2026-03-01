@@ -9,13 +9,7 @@ seoTitle: 'Seed DS-01 Review 2026: Worth the Hype in Canada?'
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-        
-    <!-- Google Fonts: Inter -->
-                
-    <!-- Font Awesome for Icons -->
-    
-    <script>
+<script>
         // Configuration for Tailwind CSS
         tailwind.config = {
             theme: {

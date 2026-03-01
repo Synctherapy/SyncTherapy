@@ -9,14 +9,7 @@ seoTitle: Best Red Light Therapy Masks Canada (2026)
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-        
-    <!-- Google Fonts: Inter -->
-                
-    <!-- Font Awesome for Icons -->
-    
-        
-    <!-- Schema Markup - CORRECTED -->
+<!-- Schema Markup - CORRECTED -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",

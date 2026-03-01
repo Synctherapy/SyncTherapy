@@ -10,12 +10,6 @@ seoTitle: 'Red Light Therapy Bed Cost: 2026 Pricing Guide'
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-
-<!-- Google Fonts: Inter -->
-
-<!-- Font Awesome for Icons -->
-
 <style>
     body {
         font-family: 'Inter', sans-serif;

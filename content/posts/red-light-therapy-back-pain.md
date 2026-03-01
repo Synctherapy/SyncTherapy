@@ -9,14 +9,7 @@ seoTitle: Red Light Therapy for Back Pain (2026 Guide)
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-        
-    <!-- Google Fonts: Inter -->
-                
-    <!-- Font Awesome for Icons -->
-    
-        
-    <!-- Schema Markup -->
+<!-- Schema Markup -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",

@@ -9,14 +9,7 @@ seoTitle: Best Probiotics for Acne (2026) — My Top 6 Picks
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-        
-    <!-- Google Fonts: Inter -->
-                
-    <!-- Font Awesome for Icons -->
-    
-        
-    <!-- Schema Markup - FIXED -->
+<!-- Schema Markup - FIXED -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",

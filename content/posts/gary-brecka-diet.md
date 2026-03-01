@@ -9,14 +9,7 @@ seoTitle: 'Gary Brecka Diet Explained: Full Food List (2026)'
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-    
-    <!-- Google Fonts: Inter -->
-            
-    <!-- Font Awesome for Icons -->
-    
-    
-    <!-- Schema Markup for BlogPosting -->
+<!-- Schema Markup for BlogPosting -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",

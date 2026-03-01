@@ -9,14 +9,7 @@ seoTitle: 'Mito Red Light Review 2026: MitoPRO X & Adapt'
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-        
-    <!-- Google Fonts: Inter -->
-                
-    <!-- Font Awesome for Icons -->
-    
-        
-    <!-- Schema Markup -->
+<!-- Schema Markup -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",

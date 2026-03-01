@@ -9,14 +9,7 @@ seoTitle: Best FDA-Cleared Red Light Devices for Pain (2026)
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-        
-    <!-- Google Fonts: Inter -->
-                
-    <!-- Font Awesome for Icons -->
-    
-        
-    <!-- Schema Markup - FIXED -->
+<!-- Schema Markup - FIXED -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",

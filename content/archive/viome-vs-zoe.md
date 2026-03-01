@@ -13,13 +13,7 @@ seoTitle: >-
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-        
-    <!-- Google Fonts: Inter -->
-                
-    <!-- Font Awesome for Icons -->
-        
-    <style>
+<style>
         /* WordPress-compatible styles with improved alignment */
         .viome-zoe-article {
             font-family: 'Inter', sans-serif !important;

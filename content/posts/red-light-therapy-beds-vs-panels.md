@@ -9,12 +9,6 @@ seoTitle: 'Red Light Beds vs Panels: Which Is Better? (2026)'
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-
-<!-- Google Fonts: Inter -->
-
-<!-- Font Awesome for Icons -->
-
 <style>
     .rlt-comparison-article {
         font-family: 'Inter', sans-serif;

@@ -9,14 +9,7 @@ seoTitle: 9 Hydrogen Water Benefits Backed by Science (2026)
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-        
-    <!-- Google Fonts: Inter -->
-                
-    <!-- Font Awesome for Icons -->
-    
-        
-    <!-- Schema Markup -->
+<!-- Schema Markup -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",

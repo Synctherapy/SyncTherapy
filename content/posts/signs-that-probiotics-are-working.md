@@ -10,14 +10,7 @@ seoTitle: 'How to Know If Probiotics Are Working: 11 Clear Signs in 2026'
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-        
-    <!-- Google Fonts: Inter -->
-                
-    <!-- Font Awesome for Icons -->
-    
-        
-    <!-- FAQ Schema -->
+<!-- FAQ Schema -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",

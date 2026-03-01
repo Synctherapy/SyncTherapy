@@ -10,14 +10,7 @@ seoTitle: 'Viome vs Seed (2025): Viome Alternatives'
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-        
-    <!-- Google Fonts: Inter -->
-                
-    <!-- Font Awesome for Icons -->
-    
-        
-    <!-- Schema Markup -->
+<!-- Schema Markup -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -331,7 +324,7 @@ seoTitle: 'Viome vs Seed (2025): Viome Alternatives'
     </div>
 
     <!-- Performance Optimization: Async load non-critical JS -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/js/all.min.js" async defer></script>
+    
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->

@@ -9,13 +9,7 @@ seoTitle: 'Hooga Red Light Review: HG200, HG300 & HG1500'
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-        
-    <!-- Google Fonts: Inter -->
-                
-    <!-- Font Awesome for Icons -->
-    
-    <style>
+<style>
         /* Custom styles based on the design template */
         body {
             font-family: 'Inter', sans-serif;

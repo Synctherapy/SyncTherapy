@@ -10,12 +10,6 @@ seoTitle: Red Light Therapy for Migraines & Headaches
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-
-<!-- Google Fonts: Inter -->
-
-<!-- Font Awesome for Icons -->
-
 <style>
     body {
         font-family: 'Inter', sans-serif;

@@ -9,12 +9,6 @@ seoTitle: Gary Brecka Hydrogen Water Bottle Picks (2026)
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-
-<!-- Google Fonts: Inter -->
-
-<!-- Font Awesome for Icons -->
-
 <style>
     body {
         font-family: 'Inter', sans-serif;

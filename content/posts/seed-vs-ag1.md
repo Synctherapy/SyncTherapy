@@ -9,14 +9,7 @@ seoTitle: 'Seed vs AG1 (2026): Which Supplement Is Better?'
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-        
-    <!-- Google Fonts: Inter -->
-                
-    <!-- Font Awesome for Icons -->
-    
-        
-    <!-- Schema Markup -->
+<!-- Schema Markup -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -378,5 +371,5 @@ seoTitle: 'Seed vs AG1 (2026): Which Supplement Is Better?'
         </main>
     </div>
     <!-- Performance Optimization: Async load non-critical JS -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/js/all.min.js" async defer></script>
+    
 <!-- /wp:html -->

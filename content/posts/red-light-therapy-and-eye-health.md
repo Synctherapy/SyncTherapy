@@ -9,13 +9,6 @@ seoTitle: Red Light Therapy for Eyes & AMD (2026 Safety)
 ---
 
 <!-- wp:html -->
-    <!-- Tailwind CSS -->
-        
-    <!-- Google Fonts: Inter -->
-                
-    <!-- Font Awesome for Icons -->
-    
-        
     <!-- Schema Markup -->
     <script type="application/ld+json">
     {

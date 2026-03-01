@@ -9,14 +9,7 @@ seoTitle: 'Best PEMF Mats 2026: 10 Reviewed & Compared'
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-        
-    <!-- Google Fonts: Inter -->
-                
-    <!-- Font Awesome for Icons -->
-    
-    
-    <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
+<div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
         
         <header class="text-center mb-10">
             <p class="text-lg text-gray-600">Your Ultimate Guide to Pain Relief, Recovery, and Better Sleep</p>

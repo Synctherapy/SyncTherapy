@@ -10,14 +10,7 @@ seoTitle: 'Do Probiotics Help IBS – Can These Help IBS-C, IBS-D, and Mixed?'
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-        
-    <!-- Google Fonts: Inter -->
-                
-    <!-- Font Awesome for Icons -->
-    
-        
-    <!-- Enhanced Schema Markup -->
+<!-- Enhanced Schema Markup -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",

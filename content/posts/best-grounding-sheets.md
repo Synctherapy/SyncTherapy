@@ -12,7 +12,6 @@ seoTitle: Best Grounding Sheets Canada (2026) — 5 Tested
 <!-- Performance: Preconnect to required origins -->
             <link rel="preconnect" href="https://cdnjs.cloudflare.com">
 
-    <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com" defer></script>
     
     <!-- Performance: Asynchronously load Google Fonts to prevent render-blocking -->

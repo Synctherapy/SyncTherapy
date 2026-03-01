@@ -9,12 +9,6 @@ seoTitle: Best Red Light Therapy Beds (2026 Reviews)
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-
-<!-- Google Fonts: Inter -->
-
-<!-- Font Awesome for Icons -->
-
 <style>
     .rlt-beds-article {
         font-family: 'Inter', sans-serif;

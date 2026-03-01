@@ -9,13 +9,7 @@ seoTitle: Best Red Light Therapy Panels (2026 Guide)
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-        
-    <!-- Google Fonts: Inter -->
-                
-    <!-- Font Awesome for Icons -->
-    
-    <style>
+<style>
         /* Custom styles based on the provided color palette */
         body {
             font-family: 'Inter', sans-serif;

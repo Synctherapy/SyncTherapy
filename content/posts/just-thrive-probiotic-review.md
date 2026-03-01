@@ -9,14 +9,7 @@ seoTitle: 'Just Thrive Probiotic Review 2026: Why I Love It'
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-        
-    <!-- Google Fonts: Inter -->
-                
-    <!-- Font Awesome for Icons -->
-    
-        
-    <!-- Schema Markup for Product Review -->
+<!-- Schema Markup for Product Review -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",

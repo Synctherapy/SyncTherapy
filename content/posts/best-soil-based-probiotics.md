@@ -10,14 +10,7 @@ seoTitle: Best Soil Based Probiotics for Humans & Dogs
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-        
-    <!-- Google Fonts: Inter -->
-                
-    <!-- Font Awesome for Icons -->
-    
-        
-    <!-- Schema Markup - CORRECTED -->
+<!-- Schema Markup - CORRECTED -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",

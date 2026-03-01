@@ -17,13 +17,10 @@ seoTitle: Swedish Relaxation Massage Victoria
     <meta property="og:description" content="Relax with our award-winning Registered Massage Therapy clinic. Evidence-based RMT services for relaxation and  muscle pain relief. Direct billing | 4.9★ rating.">
     <meta property="og:type" content="website">
     
-    <!-- Google Fonts -->
-        
     <!-- Lucide Icons -->
     <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js"></script>
     
-    <!-- Tailwind CSS -->
-        <script>
+    <script>
         tailwind.config = {
             theme: {
                 extend: {

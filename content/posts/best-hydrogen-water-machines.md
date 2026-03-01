@@ -9,12 +9,6 @@ seoTitle: Best Hydrogen Water Machines (2026) — 6 Tested
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-
-<!-- Google Fonts: Inter -->
-
-<!-- Font Awesome for Icons -->
-
 <style>
     body {
         font-family: 'Inter', sans-serif;

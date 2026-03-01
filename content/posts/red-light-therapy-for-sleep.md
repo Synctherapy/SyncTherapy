@@ -9,12 +9,6 @@ seoTitle: Red Light Therapy for Sleep (2026 Science Guide)
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-
-<!-- Google Fonts: Inter -->
-
-<!-- Font Awesome for Icons -->
-
 <style>
     body {
         font-family: 'Inter', sans-serif;

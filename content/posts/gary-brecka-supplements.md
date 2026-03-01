@@ -15,9 +15,7 @@ seoTitle: 'Gary Brecka Supplements: His Full 2026 Protocol'
     <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"></noscript>
     <!-- Tailwind CSS CDN -->
-        <!-- Font Awesome for Icons -->
-    
-    <script>
+        <script>
         tailwind.config = {
             theme: {
                 extend: {

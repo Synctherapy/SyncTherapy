@@ -9,12 +9,6 @@ seoTitle: 'Echo Flask Review 2026: Hydrogen Water Bottle'
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-
-<!-- Google Fonts: Inter -->
-
-<!-- Font Awesome for Icons -->
-
 <style>
     body {
         font-family: 'Inter', sans-serif;

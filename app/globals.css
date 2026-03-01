@@ -268,4 +268,50 @@ body {
     height: 100%;
     border: 0;
   }
+
+  /* Blog Post Content Styles */
+  /* These styles are applied to markdown content rendered via dangerouslySetInnerHTML */
+
+  /* Affiliate/CTA Buttons */
+  .affiliate-button {
+    @apply bg-[#F5B82E] text-[#333333] font-semibold;
+    @apply inline-block text-center;
+    @apply px-6 py-3 rounded-lg;
+    @apply border-0 no-underline;
+    @apply transition-all duration-300 ease-in-out;
+    @apply shadow-md hover:shadow-lg;
+  }
+
+  .affiliate-button:hover {
+    @apply bg-[#d9a229];
+    transform: translateY(-2px);
+  }
+
+  /* Content link styling for blog posts */
+  .text-content-link {
+    @apply text-[#2563EB] font-semibold no-underline hover:underline;
+  }
+
+  /* Comparison tables in blog posts */
+  .comparison-table th,
+  .comparison-table td {
+    @apply px-4 py-3 text-left border-b border-gray-200;
+  }
+
+  .comparison-table th {
+    @apply bg-gray-50 font-semibold;
+  }
+
+  .comparison-table .fa-check-circle {
+    @apply text-green-600;
+  }
+
+  .comparison-table .fa-times-circle {
+    @apply text-red-600;
+  }
+
+  /* Table of contents in blog posts */
+  .toc a {
+    @apply text-[#2563EB] hover:underline transition-colors;
+  }
 }

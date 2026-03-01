@@ -9,12 +9,6 @@ seoTitle: Red Light Therapy for Gut Health & Stomach Use
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-
-<!-- Google Fonts: Inter -->
-
-<!-- Font Awesome for Icons -->
-
 <div class="container mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
     
     <header class="text-center mb-10">

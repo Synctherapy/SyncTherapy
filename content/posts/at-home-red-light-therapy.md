@@ -9,14 +9,7 @@ seoTitle: Best At-Home Red Light Devices Canada (2026)
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-        
-    <!-- Google Fonts: Inter -->
-                
-    <!-- Font Awesome for Icons -->
-    
-        
-    <!-- Advanced Schema Markup -->
+<!-- Advanced Schema Markup -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",

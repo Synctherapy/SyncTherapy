@@ -10,12 +10,6 @@ seoTitle: 'Red Light Therapy for Fibromyalgia (2026): The Correct Protocol'
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-
-<!-- Google Fonts: Inter -->
-
-<!-- Font Awesome for Icons -->
-
 <style>
     body {
         font-family: 'Inter', sans-serif;

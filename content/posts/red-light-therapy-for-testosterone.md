@@ -9,12 +9,6 @@ seoTitle: Red Light Therapy for Testosterone (2026 Guide)
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-
-<!-- Google Fonts: Inter -->
-
-<!-- Font Awesome for Icons -->
-
 <style>
     body {
         font-family: 'Inter', sans-serif;

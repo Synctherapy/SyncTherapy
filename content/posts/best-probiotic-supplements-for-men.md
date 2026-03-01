@@ -10,14 +10,7 @@ seoTitle: 'Best Probiotics for Men (2026): Gut & Testosterone'
 ---
 
 <!-- wp:html -->
-<!-- Tailwind CSS -->
-        
-    <!-- Google Fonts: Inter -->
-                
-    <!-- Font Awesome for Icons -->
-    
-        
-    <!-- SEO: Schema Markup -->
+<!-- SEO: Schema Markup -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",

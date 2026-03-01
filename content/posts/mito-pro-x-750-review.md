@@ -12,12 +12,7 @@ seoTitle: Mito Pro X 750 Review | Award-Winning RMT Tested
 <!-- Preload critical resources for faster rendering -->
     <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
     
-    <!-- Tailwind CSS -->
-        
-    <!-- Google Fonts: Inter (loaded asynchronously) -->
     <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"></noscript>
-    
-    <!-- Font Awesome for Icons -->
     
     <!-- SEO: Review Schema Markup -->
     <script type="application/ld+json">
