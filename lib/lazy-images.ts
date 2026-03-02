@@ -1,55 +1,33 @@
 /**
  * Utilities for optimizing images in Markdown content
- * Applies fetchPriority="high" and eager loading to first 3 images
- * Applies loading="lazy" to subsequent images
- * Adds decoding="async" for better performance
+ *
+ * All blog content images are below the fold (hero section fills the mobile
+ * viewport), so every content image should be lazy-loaded. Eager-loading
+ * them steals bandwidth from render-blocking CSS and fonts on slow connections,
+ * inflating LCP. The only above-the-fold image (author avatar) is handled
+ * separately by Next.js <Image priority>.
  */
 
 export function transformLazyImages(html: string): string {
-  let imageCount = 0;
-
-  // Match standard HTML <img ...> tags
   return html.replace(/<img\s+([^>]+)>/gi, (match, attributes) => {
-    imageCount++;
     let newAttributes = attributes;
 
-    // First 3 images: optimize for LCP and above-the-fold content
-    if (imageCount <= 3) {
-      // Remove loading="lazy" from first 3 images
-      if (/loading=["']lazy["']/i.test(newAttributes)) {
-        newAttributes = newAttributes.replace(/\s*loading=["']lazy["']/i, '');
-      }
-
-      // Add loading="eager" to ensure immediate loading
-      if (!/loading=/i.test(newAttributes)) {
-        newAttributes = `loading="eager" ${newAttributes}`;
-      }
-
-      // First image gets fetchPriority="high" for LCP optimization
-      if (imageCount === 1 && !/fetchpriority=/i.test(newAttributes)) {
-        newAttributes = `fetchPriority="high" ${newAttributes}`;
-      }
-
-      // Add decoding="async" for better performance
-      if (!/decoding=/i.test(newAttributes)) {
-        newAttributes = `decoding="async" ${newAttributes}`;
-      }
-
-      return `<img ${newAttributes.trim()}>`;
+    // Ensure all content images are lazy-loaded
+    if (/loading=["']eager["']/i.test(newAttributes)) {
+      newAttributes = newAttributes.replace(/loading=["']eager["']/i, 'loading="lazy"');
+    } else if (!/loading=/i.test(newAttributes)) {
+      newAttributes = `loading="lazy" ${newAttributes}`;
     }
-    // All subsequent images: lazy load
-    else {
-      // Add loading="lazy" if not present
-      if (!/loading=/i.test(newAttributes)) {
-        newAttributes = `loading="lazy" ${newAttributes}`;
-      }
 
-      // Add decoding="async"
-      if (!/decoding=/i.test(newAttributes)) {
-        newAttributes = `decoding="async" ${newAttributes}`;
-      }
+    // Remove any fetchPriority="high" — content images are below the fold
+    newAttributes = newAttributes.replace(/\s*fetchPriority=["'][^"']*["']/i, '');
+    newAttributes = newAttributes.replace(/\s*fetchpriority=["'][^"']*["']/i, '');
 
-      return `<img ${newAttributes.trim()}>`;
+    // Add decoding="async" for better performance
+    if (!/decoding=/i.test(newAttributes)) {
+      newAttributes = `decoding="async" ${newAttributes}`;
     }
+
+    return `<img ${newAttributes.trim()}>`;
   });
 }
