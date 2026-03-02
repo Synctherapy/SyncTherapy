@@ -1,42 +1,71 @@
-"use client";
-
-import React, { useState, useEffect, useRef } from "react";
+import React from "react";
 import Link from "next/link";
 import Image from "next/image";
-import { format } from "date-fns";
-import { Verified, ShieldCheck, Zap, Leaf, ChevronRight, ChevronDown, Share2, Facebook, Linkedin, ArrowUp, Calendar, Clock, User } from "lucide-react";
+import { ReadingProgressBar } from "@/components/blog/ReadingProgressBar";
+import { TableOfContents } from "@/components/blog/TableOfContents";
+import { ShareButtons } from "@/components/blog/ShareButtons";
+
+// ─── Inline SVG Icons (avoid lucide-react bundle in server component) ──
+const ChevronRightIcon = () => (
+    <svg className="w-3 h-3" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="m9 18 6-6-6-6"/></svg>
+);
+const ClockIcon = () => (
+    <svg className="w-3 h-3" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+);
+const CalendarIcon = () => (
+    <svg className="w-3 h-3" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M8 2v4"/><path d="M16 2v4"/><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/></svg>
+);
+const VerifiedIcon = () => (
+    <svg className="text-[#2563EB] w-4 h-4 fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/></svg>
+);
+const ZapIcon = () => (
+    <svg className="w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z"/></svg>
+);
+const LeafIcon = () => (
+    <svg className="w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M11 20A7 7 0 0 1 9.8 6.9C15.5 4.9 17 3.5 19 2c1 2 2 4.5 2 8 0 5.5-4.78 10-10 10Z"/><path d="M2 21c0-3 1.85-5.36 5.08-6C9.5 14.52 12 13 13 12"/></svg>
+);
+const ShieldCheckIcon = () => (
+    <svg className="w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/><path d="m9 12 2 2 4-4"/></svg>
+);
 
 // ─── Category Types ────────────────────────────────────────────
 export type BlogCategory = "red-light-recovery" | "gut-health-nutrition" | "manual-therapy";
 
 // ─── E-E-A-T Config Per Category ───────────────────────────────
 const EEAT_CONFIG: Record<BlogCategory, {
-    icon: React.ElementType;
+    iconKey: "zap" | "leaf" | "shield";
     header: string;
     body: string;
 }> = {
     "red-light-recovery": {
-        icon: Zap,
+        iconKey: "zap",
         header: "Clinical Perspective: Recovery Modalities",
         body: "As a Certified Athletic Therapist and RMT, I evaluate recovery tech based on its ability to accelerate tissue healing and reduce musculoskeletal inflammation. The insights in this article reflect my 12+ years of clinical practice integrating advanced modalities like photobiomodulation with hands-on manual therapy.",
     },
     "gut-health-nutrition": {
-        icon: Leaf,
+        iconKey: "leaf",
         header: "Clinical Standard: Holistic Nutrition",
         body: "As a Holistic Nutritionist and Athletic Therapist, I approach gut health as the foundation of systemic recovery. The supplements, probiotics, and hydration protocols discussed here are evaluated for their clinical efficacy in reducing systemic inflammation, based on practical experience optimizing client health.",
     },
     "manual-therapy": {
-        icon: ShieldCheck,
+        iconKey: "shield",
         header: "Clinical Standard: Manual Therapy",
         body: "The protocols and assessments discussed in this article are based on evidence-based athletic therapy and registered massage therapy standards. This information reflects over a decade of hands-on clinical experience treating chronic pain and sports injuries at Sync Massage Therapy.",
     },
 };
+
+function EeatIcon({ iconKey }: { iconKey: "zap" | "leaf" | "shield" }) {
+    if (iconKey === "zap") return <ZapIcon />;
+    if (iconKey === "leaf") return <LeafIcon />;
+    return <ShieldCheckIcon />;
+}
 
 // ─── Props ─────────────────────────────────────────────────────
 interface BlogOneLayoutProps {
     frontmatter: {
         title: string;
         date?: string;
+        formattedDate?: string;
         author?: string;
         description?: string;
         readTime?: string;
@@ -45,7 +74,7 @@ interface BlogOneLayoutProps {
     content: React.ReactNode;
     category?: BlogCategory;
     toc?: { id: string; text: string }[];
-    relatedPosts?: { slug: string; title: string; description?: string; date?: string }[];
+    relatedPosts?: { slug: string; title: string; description?: string; formattedDate?: string }[];
     slug?: string;
 }
 
@@ -55,75 +84,16 @@ export function BlogOneLayout({ frontmatter, content, category = "manual-therapy
     const authorRole = "RMT, CAT(C), B.A.E.T., Holistic Nutritionist";
     const authorImage = "/images/daryl-stubbs-author.jpg";
 
-    const formattedDate = frontmatter.date ? format(new Date(frontmatter.date), "MMM d, yyyy") : "";
+    const formattedDate = frontmatter.formattedDate || "";
 
     // ─── E-E-A-T config for current category ───────────────────
     const eeat = EEAT_CONFIG[category] || EEAT_CONFIG["manual-therapy"];
-    const EeatIcon = eeat.icon;
-
-    // ─── Reading Progress Bar ──────────────────────────────────
-    const [scrollProgress, setScrollProgress] = useState(0);
-    const articleRef = useRef<HTMLElement>(null);
-
-    useEffect(() => {
-        const handleScroll = () => {
-            const totalHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-            const progress = totalHeight > 0 ? (window.scrollY / totalHeight) * 100 : 0;
-            setScrollProgress(Math.min(progress, 100));
-        };
-        window.addEventListener("scroll", handleScroll, { passive: true });
-        return () => window.removeEventListener("scroll", handleScroll);
-    }, []);
-
-    // ─── Auto-generate TOC from content ─────────────────────────
-    const [headings, setHeadings] = useState<{ id: string; text: string; level: number }[]>([]);
-    const [showToc, setShowToc] = useState(false);
-    const [tocOpen, setTocOpen] = useState(false);
-
-    useEffect(() => {
-        if (articleRef.current) {
-            const h2Elements = articleRef.current.querySelectorAll("h2, h3");
-            const items = Array.from(h2Elements).map((el, i) => {
-                if (!el.id) el.id = `heading-${i}`;
-                return {
-                    id: el.id,
-                    text: el.textContent || "",
-                    level: el.tagName === "H2" ? 2 : 3,
-                };
-            });
-            if (items.length > 2) {
-                setHeadings(items);
-                setShowToc(true);
-            }
-        }
-    }, []);
-
-    // ─── Share URL (set after mount to avoid hydration mismatch) ──
-    const [shareUrl, setShareUrl] = useState("");
-    useEffect(() => {
-        setShareUrl(window.location.href);
-    }, []);
-    const shareTitle = frontmatter.title;
-
-    const handleCopyLink = async () => {
-        try {
-            await navigator.clipboard.writeText(shareUrl);
-        } catch { /* fallback: do nothing */ }
-    };
 
     return (
         <div className="font-sans antialiased bg-[#F0F5FF] min-h-screen text-[#1A2B3C]">
 
-            {/* ─── Reading Progress Bar ────────────────────────────── */}
-            <div
-                className="fixed top-0 left-0 h-[3px] bg-[#2563EB] z-[60] transition-all duration-150 ease-out"
-                style={{ width: `${scrollProgress}%` }}
-                role="progressbar"
-                aria-valuenow={Math.round(scrollProgress)}
-                aria-valuemin={0}
-                aria-valuemax={100}
-                aria-label="Reading progress"
-            />
+            {/* ─── Reading Progress Bar (client) ─────────────────── */}
+            <ReadingProgressBar />
 
             {/* ─── Breadcrumb ──────────────────────────────────────── */}
             <nav aria-label="Breadcrumb" className="max-w-3xl mx-auto px-5 pt-4 pb-2">
@@ -131,11 +101,11 @@ export function BlogOneLayout({ frontmatter, content, category = "manual-therapy
                     <li>
                         <Link href="/" className="hover:text-[#2563EB] transition-colors cursor-pointer">Home</Link>
                     </li>
-                    <li><ChevronRight className="w-3 h-3" /></li>
+                    <li><ChevronRightIcon /></li>
                     <li>
                         <Link href="/blog/" className="hover:text-[#2563EB] transition-colors cursor-pointer">Blog</Link>
                     </li>
-                    <li><ChevronRight className="w-3 h-3" /></li>
+                    <li><ChevronRightIcon /></li>
                     <li className="text-[#1A2B3C]/80 font-medium truncate max-w-[200px]" aria-current="page">
                         {frontmatter.title}
                     </li>
@@ -150,11 +120,11 @@ export function BlogOneLayout({ frontmatter, content, category = "manual-therapy
                     <div className="flex items-center gap-3 mb-5 flex-wrap">
                         <span className="bg-[#2563EB] text-white px-2.5 py-1 rounded-sm text-[10px] font-bold uppercase tracking-widest">Medical Review</span>
                         <span className="text-white/70 text-[11px] font-medium uppercase tracking-widest flex items-center gap-1">
-                            <Clock className="w-3 h-3" /> {frontmatter.readTime || "5 min read"}
+                            <ClockIcon /> {frontmatter.readTime || "5 min read"}
                         </span>
                         {formattedDate && (
                             <span className="text-white/70 text-[11px] font-medium uppercase tracking-widest flex items-center gap-1">
-                                <Calendar className="w-3 h-3" /> {formattedDate}
+                                <CalendarIcon /> {formattedDate}
                             </span>
                         )}
                     </div>
@@ -183,7 +153,7 @@ export function BlogOneLayout({ frontmatter, content, category = "manual-therapy
                         <div className="flex-1">
                             <div className="flex items-center gap-1.5">
                                 <p className="text-sm font-bold text-white font-sans">{authorName}</p>
-                                <Verified className="text-[#2563EB] w-4 h-4 fill-current" />
+                                <VerifiedIcon />
                             </div>
                             <p className="text-[11px] text-white/75 leading-snug mb-1">{authorRole}</p>
                             {formattedDate && (
@@ -193,45 +163,15 @@ export function BlogOneLayout({ frontmatter, content, category = "manual-therapy
                     </div>
                 </section>
 
-                {/* ─── Table of Contents (collapsible, closed by default) ── */}
-                {showToc && headings.length > 0 && (
-                    <nav aria-label="Table of contents" className="mx-4 mb-8 bg-white rounded-2xl border border-[#2563EB]/15 overflow-hidden shadow-sm">
-                        <button
-                            onClick={() => setTocOpen(!tocOpen)}
-                            className="w-full flex items-center justify-between px-6 py-5 cursor-pointer hover:bg-[#F0F5FF]/70 transition-colors min-h-[48px] border-l-4 border-l-[#2563EB]"
-                            aria-expanded={tocOpen}
-                            aria-controls="toc-list"
-                        >
-                            <div className="flex items-center gap-3">
-                                <h2 className="text-sm font-bold text-[#1A2B3C] m-0 font-sans">In This Article</h2>
-                                <span className="text-xs font-medium text-[#2563EB] bg-[#2563EB]/10 px-2 py-0.5 rounded-full">{headings.length} sections</span>
-                            </div>
-                            <ChevronDown className={`w-5 h-5 text-[#2563EB] transition-transform duration-200 ${tocOpen ? "rotate-180" : ""}`} />
-                        </button>
-                        {tocOpen && (
-                            <ol id="toc-list" className="space-y-2 px-6 pb-6">
-                                {headings.map((h, i) => (
-                                    <li key={h.id}>
-                                        <a
-                                            href={`#${h.id}`}
-                                            className={`text-sm text-[#1A2B3C]/70 hover:text-[#2563EB] transition-colors cursor-pointer block py-1 ${h.level === 3 ? "pl-4" : ""}`}
-                                        >
-                                            {h.level === 2 && <span className="text-[#2563EB]/50 font-mono text-xs mr-2">{String(i + 1).padStart(2, "0")}</span>}
-                                            {h.text}
-                                        </a>
-                                    </li>
-                                ))}
-                            </ol>
-                        )}
-                    </nav>
-                )}
+                {/* ─── Table of Contents (client component) ────────── */}
+                <TableOfContents articleId="content" />
 
                 {/* ─── Article Content ────────────────────────────────── */}
-                <article className="px-6 py-8" id="content" ref={articleRef}>
+                <article className="px-6 py-8" id="content">
                     {/* Dynamic E-E-A-T Box */}
                     <div className="bg-white border-l-4 border-[#2563EB] p-6 mb-12 shadow-[0_4px_20px_-4px_rgba(37,99,235,0.1)] rounded-r-xl">
                         <div className="flex items-center gap-2 text-[#2563EB] mb-3">
-                            <EeatIcon className="w-5 h-5" aria-hidden="true" />
+                            <EeatIcon iconKey={eeat.iconKey} />
                             <p className="text-[10px] font-bold uppercase tracking-widest">{eeat.header}</p>
                         </div>
                         <p className="text-sm text-[#1A2B3C]/80 leading-relaxed">
@@ -292,37 +232,8 @@ export function BlogOneLayout({ frontmatter, content, category = "manual-therapy
                     )}
                 </article>
 
-                {/* ─── Social Share ───────────────────────────────────── */}
-                <div className="mx-6 mb-8 flex items-center justify-between border-y border-[#1A2B3C]/5 py-4">
-                    <p className="text-[11px] font-bold uppercase tracking-widest text-[#1A2B3C]/40">Share this article</p>
-                    <div className="flex items-center gap-3">
-                        <a
-                            href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(shareUrl)}`}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            aria-label="Share on Facebook"
-                            className="w-10 h-10 rounded-full bg-[#1A2B3C]/5 hover:bg-[#2563EB]/10 flex items-center justify-center transition-colors cursor-pointer"
-                        >
-                            <Facebook className="w-4 h-4 text-[#1A2B3C]/60" />
-                        </a>
-                        <a
-                            href={`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(shareUrl)}`}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            aria-label="Share on LinkedIn"
-                            className="w-10 h-10 rounded-full bg-[#1A2B3C]/5 hover:bg-[#2563EB]/10 flex items-center justify-center transition-colors cursor-pointer"
-                        >
-                            <Linkedin className="w-4 h-4 text-[#1A2B3C]/60" />
-                        </a>
-                        <button
-                            onClick={handleCopyLink}
-                            aria-label="Copy article link"
-                            className="w-10 h-10 rounded-full bg-[#1A2B3C]/5 hover:bg-[#2563EB]/10 flex items-center justify-center transition-colors cursor-pointer"
-                        >
-                            <Share2 className="w-4 h-4 text-[#1A2B3C]/60" />
-                        </button>
-                    </div>
-                </div>
+                {/* ─── Social Share (client) ────────────────────────── */}
+                <ShareButtons />
 
                 {/* ─── Clinical Lead Profile ─────────────────────────── */}
                 <section className="mx-4 mb-12 p-8 bg-white rounded-3xl border border-[#1A2B3C]/5 shadow-2xl shadow-[#1A2B3C]/5" id="resources">
@@ -373,9 +284,9 @@ export function BlogOneLayout({ frontmatter, content, category = "manual-therapy
                             {relatedPosts.slice(0, 4).map((post) => (
                                 <Link key={post.slug} href={`/${post.slug}`} className="block group cursor-pointer">
                                     <div className="bg-white rounded-2xl p-5 border border-[#1A2B3C]/5 hover:shadow-lg hover:border-[#2563EB]/20 transition-all h-full">
-                                        {post.date && (
+                                        {post.formattedDate && (
                                             <span className="text-[10px] text-[#2563EB] font-bold uppercase tracking-widest">
-                                                {format(new Date(post.date), "MMM d, yyyy")}
+                                                {post.formattedDate}
                                             </span>
                                         )}
                                         <h3 className="text-sm font-bold text-[#1A2B3C] mt-1.5 mb-2 group-hover:text-[#2563EB] transition-colors line-clamp-2 font-sans">

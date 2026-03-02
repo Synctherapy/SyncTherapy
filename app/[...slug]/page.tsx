@@ -10,6 +10,15 @@ import { transformYouTubeEmbeds } from '@/lib/lazy-youtube';
 import { transformLazyImages } from '@/lib/lazy-images';
 import { transformFontAwesome } from '@/lib/transform-fontawesome';
 
+// Server-side date formatting (replaces date-fns in client bundle)
+const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+function formatDate(dateStr: string | undefined): string {
+    if (!dateStr) return '';
+    const d = new Date(dateStr);
+    if (isNaN(d.getTime())) return '';
+    return `${MONTHS[d.getMonth()]} ${d.getDate()}, ${d.getFullYear()}`;
+}
+
 // ─── Category Detection ────────────────────────────────────────
 const RED_LIGHT_KEYWORDS = ['red-light', 'pemf', 'sauna', 'infrared', 'recovery-modali', 'cryo', 'photobiomodulation'];
 const GUT_HEALTH_KEYWORDS = ['gut', 'probiotic', 'prebiotic', 'hydrogen', 'alkaline', 'nutrient', 'supplement', 'leaky-gut', 'candida', 'ibs', 'acid-reflux', 'collagen', 'digestive', 'nutrition'];
@@ -269,14 +278,14 @@ export default async function Page({ params }: Props) {
                                 slug: p.slug[0],
                                 title: post.frontmatter.title,
                                 description: post.frontmatter.description,
-                                date: post.frontmatter.date,
+                                formattedDate: formatDate(post.frontmatter.date),
                             };
                         }
                     }
                     return null;
                 })
         );
-        const relatedPosts = related.filter(Boolean).slice(0, 4) as { slug: string; title: string; description?: string; date?: string }[];
+        const relatedPosts = related.filter(Boolean).slice(0, 4) as { slug: string; title: string; description?: string; formattedDate?: string }[];
 
         const canonicalUrl = `https://www.synctherapy.ca/${currentSlug}/`;
 
@@ -398,6 +407,7 @@ export default async function Page({ params }: Props) {
                     frontmatter={{
                         title: item.frontmatter.title || '',
                         date: item.frontmatter.date || '',
+                        formattedDate: formatDate(item.frontmatter.date),
                         author: item.frontmatter.author || '',
                         description: item.frontmatter.description || '',
                     }}
