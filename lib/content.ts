@@ -49,12 +49,18 @@ export async function getContentBySlug(slug: string[]) {
         .replace(/https?:\/\/synctherapylocal\.local/g, '')
         // 2. Remove WordPress specific fusion classes
         .replace(/class="[^"]*fusion-[^"]*"/g, '')
-        // 3. Strip <script> tags and their content — the Tailwind CDN
-        //    was loading a second instance and overriding component styles
-        .replace(/<script[\s\S]*?<\/script>/gi, '')
+        // 3. Strip <script> tags EXCEPT JSON-LD schemas (which are needed for SEO)
+        .replace(/<script(?![^>]*type=["']application\/ld\+json["'])[\s\S]*?<\/script>/gi, '')
         // 4. Strip WordPress block comments (but keep regular HTML comments
         //    to avoid breaking blog post designs)
-        .replace(/<!--\s*\/?wp:[^>]*-->/g, '');
+        .replace(/<!--\s*\/?wp:[^>]*-->/g, '')
+        // 5. Strip duplicate data-wpil attributes from Link Whisper
+        //    (these can repeat 30+ times per link, massively bloating HTML)
+        .replace(/(\s*data-wpil(?:-[a-z-]+)?=["'][^"']*["'])\1+/gi, '$1')
+        // 6. Remove redundant data-wpil-url-old attributes entirely (base64 noise)
+        .replace(/\s*data-wpil-url-old=["'][^"']*["']/gi, '')
+        // 7. Remove duplicate data-wpil="url" attributes on the same tag
+        .replace(/(<[^>]*?data-wpil=["'][^"']*["'])(\s+data-wpil=["'][^"']*["'])*/gi, '$1');
 
     // Sanitize frontmatter description — some WP exports store CSS/HTML as description
     let description = data.description || '';

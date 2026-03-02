@@ -28,6 +28,15 @@ export function transformLazyImages(html: string): string {
       newAttributes = `decoding="async" ${newAttributes}`;
     }
 
+    // Add width/height if missing — prevents CLS by reserving space
+    // Default to 400x400 for product images (most content images are square-ish)
+    if (!/\bwidth=/i.test(newAttributes)) {
+      newAttributes += ' width="400"';
+    }
+    if (!/\bheight=/i.test(newAttributes)) {
+      newAttributes += ' height="400"';
+    }
+
     return `<img ${newAttributes.trim()}>`;
   });
 }

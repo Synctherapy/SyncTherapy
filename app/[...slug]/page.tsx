@@ -9,6 +9,7 @@ import { Metadata } from 'next';
 import { transformYouTubeEmbeds } from '@/lib/lazy-youtube';
 import { transformLazyImages } from '@/lib/lazy-images';
 import { transformFontAwesome } from '@/lib/transform-fontawesome';
+import { LazyYouTubeActivator } from '@/components/blog/LazyYouTubeActivator';
 
 // Server-side date formatting (replaces date-fns in client bundle)
 const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
@@ -256,10 +257,14 @@ export default async function Page({ params }: Props) {
 
     // 1. Blog Post Layout
     if (item && item.type === 'post') {
-        // Transform markdown images and font awesome icons
-        // NOTE: YouTube transformation temporarily disabled due to hydration issues with inline scripts
-        const transformedContent = transformLazyImages(transformFontAwesome(item.content));
-        const content = <div className="blog-post-content" dangerouslySetInnerHTML={{ __html: transformedContent }} suppressHydrationWarning />;
+        // Transform content: lazy YouTube embeds, lazy images, and strip FA link tags
+        const transformedContent = transformLazyImages(transformFontAwesome(transformYouTubeEmbeds(item.content)));
+        const content = (
+            <>
+                <div className="blog-post-content" dangerouslySetInnerHTML={{ __html: transformedContent }} suppressHydrationWarning />
+                <LazyYouTubeActivator />
+            </>
+        );
         const detectedCategory = getCategoryFromSlug(resolvedParams.slug.join('/'), item.frontmatter.category);
         const currentSlug = resolvedParams.slug.join('/');
 
