@@ -190,7 +190,7 @@ seoTitle: 'Prunes vs Dates for Constipation: Which Works?'
                 </div>
                 <div class="mt-6 bg-white p-6 rounded-lg shadow-md">
                     <h4 class="text-xl font-semibold text-primary">The Verdict: Are Dates or Prunes Better for Constipation?</h4>
-                    <p class="mt-2 text-gray-700"><strong>For direct and effective constipation relief, prunes are the superior choice.</strong> Their high sorbitol content provides a natural laxative effect that dates cannot match. So, while dates help constipation with their fiber, prunes are a more potent natural laxative. Find out more about how certain foods <a href="/do-probiotics-make-you-poop/" class="text-primary hover:underline font-semibold">make you poop</a>.</p>
+                    <p class="mt-2 text-gray-700"><strong>For direct and effective constipation relief, prunes are the superior choice.</strong> Their high sorbitol content provides a natural laxative effect that dates cannot match. So, while dates help constipation with their fiber, prunes are a more potent natural laxative. Find out more about how certain foods <a href="/prunes-vs-dates-for-constipation-relief/" class="text-primary hover:underline font-semibold">make you poop</a>.</p>
                 </div>
                  <img src="/uploads/2025/07/are-dates-good-for-constipation-1.jpeg" onerror="this.onerror=null;this.src='https://placehold.co/800x400/CCCCCC/333333?text=Dates+for+constipation';" alt="A person holding a handful of dates, questioning if dates are good for constipation." class="rounded-lg shadow-lg my-8 w-full">
             </section>

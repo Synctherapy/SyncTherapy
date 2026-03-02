@@ -128,7 +128,7 @@ seoTitle: 'How to Know If Probiotics Are Working: 11 Clear Signs in 2026'
                 <ol class="custom-list space-y-4">
                     <li id="sign-1" class="bg-white p-6 rounded-lg shadow-sm">
                         <h4 class="font-bold mb-2">Better, More Frequent Bowel Movements</h4>
-                        <p>One of the clearest signs is improved regularity. Probiotics help your body process food and eliminate waste more efficiently, leading to more consistent and well-formed stools. This can often be one of the first answers to the question <a href="/do-probiotics-make-you-poop/">do probiotics make you poop</a>?</p>
+                        <p>One of the clearest signs is improved regularity. Probiotics help your body process food and eliminate waste more efficiently, leading to more consistent and well-formed stools. This can often be one of the first answers to the question <a href="/prunes-vs-dates-for-constipation-relief/">do probiotics make you poop</a>?</p>
                     </li>
                     <li id="sign-2" class="bg-white p-6 rounded-lg shadow-sm">
                         <h4 class="font-bold mb-2">Less Gas and Bloating</h4>
@@ -235,7 +235,7 @@ seoTitle: 'How to Know If Probiotics Are Working: 11 Clear Signs in 2026'
                             <img src="/uploads/2025/07/align-probiotics-for-ibs-symptoms-gut-health.jpg" onerror="this.onerror=null;this.src='https://placehold.co/300x300/CCCCCC/333333?text=Align';" alt="Align Probiotics for IBS symptoms and gut health" class="rounded-lg shadow-sm w-full md:col-span-1">
                             <div class="md:col-span-2">
                                 <p class="mb-4">Align is the #1 recommended probiotic brand by gastroenterologists for a reason. It contains the unique, patented strain <em>Bifidobacterium 35624™</em>, which has been clinically shown to help fortify your gut against occasional digestive upsets. It's a simple, once-a-day capsule designed for consistent, long-term gut health support.</p>
-                                <a href="/align-probiotic-supplement-review/" target="_blank" class="affiliate-button">Read Our Full Review <i class="fas fa-arrow-right ml-2"></i></a>
+                                <a href="/culturelle-vs-align-probiotics/" target="_blank" class="affiliate-button">Read Our Full Review <i class="fas fa-arrow-right ml-2"></i></a>
                             </div>
                         </div>
                     </div>

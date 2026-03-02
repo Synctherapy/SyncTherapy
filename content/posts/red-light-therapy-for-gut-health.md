@@ -215,7 +215,7 @@ seoTitle: Red Light Therapy for Gut Health & Stomach Use
 
                 <div class="bg-white p-6 rounded-lg shadow-sm">
                     <h3 id="constipation">Red Light Therapy for Constipation</h3>
-                    <p class="mb-3 text-gray-700"><a href="/do-probiotics-make-you-poop/" class="text-primary hover:underline font-semibold">Does red light therapy make you poop?</a> Some users report improved regularity. Here's why it might help:</p>
+                    <p class="mb-3 text-gray-700"><a href="/prunes-vs-dates-for-constipation-relief/" class="text-primary hover:underline font-semibold">Does red light therapy make you poop?</a> Some users report improved regularity. Here's why it might help:</p>
                     <ul class="list-disc list-inside space-y-2 text-gray-700 mb-4">
                         <li>Increases energy production in intestinal smooth muscle cells</li>
                         <li>Improves gut motility through neuronal stimulation</li>

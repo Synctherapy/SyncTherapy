@@ -1830,21 +1830,6 @@
     "permanent": true
   },
   {
-    "source": "/best-red-light-therapy-panels/",
-    "destination": "/at-home-red-light-therapy/",
-    "permanent": true
-  },
-  {
-    "source": "/red-light-therapy-beds/",
-    "destination": "/red-light-therapy-bed-cost/",
-    "permanent": true
-  },
-  {
-    "source": "/red-light-therapy/",
-    "destination": "/at-home-red-light-therapy/",
-    "permanent": true
-  },
-  {
     "source": "/echo-go-hydrogen-water-bottle-review/",
     "destination": "/best-hydrogen-water-bottles/",
     "permanent": true
@@ -1857,11 +1842,6 @@
   {
     "source": "/best-probiotic-supplements-for-ibs/",
     "destination": "/do-probiotics-help-ibs/",
-    "permanent": true
-  },
-  {
-    "source": "/services/deep-tissue-massage/",
-    "destination": "/services/muscle-tension-relief/",
     "permanent": true
   },
   {

@@ -195,7 +195,7 @@ seoTitle: 'Align vs Culturelle: Which Probiotic Is Better?'
                             <img src="/uploads/2025/07/align-probiotics-for-ibs-symptoms-gut-health.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Align+Probiotic';" alt="Align Probiotic box and capsules." class="rounded-lg shadow-sm w-full">
                         </div>
                         <div class="md:col-span-8">
-                            <p class="mb-4">Align's strength lies in its well-documented, broad-spectrum effectiveness. The pivotal Whorwell et al. (2006) study found that the B. longum 35624 strain provided statistically significant improvements in abdominal pain, bloating, and overall bowel dysfunction across a mixed IBS population. For a complete breakdown, see our full <a href='/align-probiotic-supplement-review/' class="text-primary hover:underline font-semibold">Align Probiotic review</a>.</p>
+                            <p class="mb-4">Align's strength lies in its well-documented, broad-spectrum effectiveness. The pivotal Whorwell et al. (2006) study found that the B. longum 35624 strain provided statistically significant improvements in abdominal pain, bloating, and overall bowel dysfunction across a mixed IBS population. For a complete breakdown, see our full <a href='/culturelle-vs-align-probiotics/' class="text-primary hover:underline font-semibold">Align Probiotic review</a>.</p>
                             <!-- Pros and Cons -->
                             <div class="grid grid-cols-2 gap-4 my-4">
                                 <div>

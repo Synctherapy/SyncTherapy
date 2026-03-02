@@ -24,7 +24,7 @@ seoTitle: Do Probiotics Make You Poop? (Explained Simply)
       "dateModified": "2025-01-01",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://synctherapylocal.local/do-probiotics-make-you-poop/"
+        "@id": "https://synctherapylocal.local/prunes-vs-dates-for-constipation-relief/"
       }
     }
     </script>

@@ -288,7 +288,7 @@ seoTitle: 'Seed DS-01 Review 2026: Worth the Hype in Canada?'
                 <ul class="list-disc list-inside space-y-2 mb-4">
                     <li>Mild stomach pain or cramping</li>
                     <li>Increased gas or bloating</li>
-                    <li>Changes in bowel movements, such as <a href="/do-probiotics-make-you-poop/" class="text-primary hover:underline">diarrhea or constipation</a></li>
+                    <li>Changes in bowel movements, such as <a href="/prunes-vs-dates-for-constipation-relief/" class="text-primary hover:underline">diarrhea or constipation</a></li>
                     <li>While rare, some users report temporary nausea or headaches</li>
                 </ul>
                 <p class="mb-4">These symptoms are often part of the "adjustment period" as your gut microbiome adapts to the new influx of beneficial bacteria. This transient phase, often lasting a few days to two weeks, is a sign that the live probiotics are active and beginning to create a healthier balance. For most people, these side effects are mild and resolve on their own. However, if you experience persistent or severe discomfort, it's always best to stop taking the product and consult with a healthcare professional.</p>

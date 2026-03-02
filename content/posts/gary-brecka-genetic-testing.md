@@ -194,7 +194,7 @@ seoTitle: 'Gary Brecka Genetic Testing: How to Do It in Canada'
 <p>Genetic testing raises important privacy and ethical issues. People need to understand how their genetic data is handled and used. Companies must use this sensitive information responsibly.</p>
 <h3>Understanding Genetic Testing Privacy Policies</h3>
 <div style="text-align: left;"><img style="float: none;" alt="10x health gene test reviews" src="/uploads/content/gary_brecka_testing_ryan_pineda_s_genes_with_his_10x_health_system_test.jpg"></div>
-<p><a href="https://appliededucationfoundation.org/images/essays/Assessment Testing - Not a Measure of Intelligence, But Certainly the Means to Marginalize Political Participation and Economic Opportunity.pdf/">Genetic testing companies</a> have <a href="/gdpr-cookie-policy/">privacy policies</a> that explain how they collect, use, and protect genetic data. These policies cover:</p>
+<p><a href="https://appliededucationfoundation.org/images/essays/Assessment Testing - Not a Measure of Intelligence, But Certainly the Means to Marginalize Political Participation and Economic Opportunity.pdf/">Genetic testing companies</a> have <a href="/cookies-policy/">privacy policies</a> that explain how they collect, use, and protect genetic data. These policies cover:</p>
 <ul>
 <li>Who can access the genetic information</li>
 <li>How long data is stored</li>

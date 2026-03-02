@@ -429,7 +429,7 @@ seoTitle: 'Echo Go Plus Review 2026: Best Hydrogen Bottle?'
                 </div>
             </div>
 
-            <p class="text-sm text-gray-600">For a deeper dive, read my article on <a href="/hydrogen-water/" class="text-primary hover:underline font-semibold">hydrogen water benefits and risks</a>.</p>
+            <p class="text-sm text-gray-600">For a deeper dive, read my article on <a href="/benefits-of-hydrogen-water/" class="text-primary hover:underline font-semibold">hydrogen water benefits and risks</a>.</p>
         </section>
 
         <!-- The Science Section -->
@@ -609,7 +609,7 @@ seoTitle: 'Echo Go Plus Review 2026: Best Hydrogen Bottle?'
             <h2 class="!mt-0"><i class="fas fa-link text-accent mr-2"></i>Related Hydrogen Water Guides</h2>
             <div class="grid md:grid-cols-2 gap-4 mt-4">
                 <ul class="space-y-2 text-sm">
-                    <li><a href="/hydrogen-water/" class="text-primary hover:underline font-semibold">→ Hydrogen Water Benefits and Risks</a></li>
+                    <li><a href="/benefits-of-hydrogen-water/" class="text-primary hover:underline font-semibold">→ Hydrogen Water Benefits and Risks</a></li>
                     <li><a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ2FyeS1icmVja2EtaHlkcm9nZW4td2F0ZXItYm90dGxlLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ2FyeS1icmVja2EtaHlkcm9nZW4td2F0ZXItYm90dGxlLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ2FyeS1icmVja2EtaHlkcm9nZW4td2F0ZXItYm90dGxlLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ2FyeS1icmVja2EtaHlkcm9nZW4td2F0ZXItYm90dGxlLw==" href="/gary-brecka-hydrogen-water-bottle/" class="text-primary hover:underline font-semibold">→ Gary Brecka Hydrogen Water Bottle</a></li>
                     <li><a href="/echo-flask-review/" class="text-primary hover:underline font-semibold">→ Echo Flask Review</a></li>
                     <li><a href="/echo-hydrogen-pitcher-review/" class="text-primary hover:underline font-semibold">→ Echo Hydrogen Pitcher Review</a></li>

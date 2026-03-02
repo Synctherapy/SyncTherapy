@@ -23,7 +23,7 @@ seoTitle: 'Gut Health Diet: Simple Steps for a Happier Tummy'
 <p>A healthy gut has a diverse mix of microbes. This diversity helps our bodies work better. Diet, stress, and medicines can change our gut microbiome.</p>
 <p>Eating a variety of foods, especially fruits and vegetables, can boost gut health. Fermented foods like yogurt and kimchi also feed good bacteria.</p>
 <h3>Importance of Probiotics and Prebiotics</h3>
-<p>Probiotics are live "good" bacteria that can help our gut. They're found in some foods and supplements. <a wpil="url" href="/do-probiotics-make-you-poop/">Probiotics may improve digestion</a> and boost immunity.</p>
+<p>Probiotics are live "good" bacteria that can help our gut. They're found in some foods and supplements. <a wpil="url" href="/prunes-vs-dates-for-constipation-relief/">Probiotics may improve digestion</a> and boost immunity.</p>
 <p>Popular probiotic foods include:</p>
 <ul>
 <li>Yogurt</li>

@@ -391,7 +391,7 @@ seoTitle: 'Do Probiotics Help IBS – Can These Help IBS-C, IBS-D, and Mixed?'
                             Do probiotics make you poop?
                             <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
                         </summary>
-                        <p class="mt-4 text-gray-700">Yes, they can. For people with constipation, probiotics can help regulate bowel movements and make them more frequent. We cover this in detail in our article exploring if <a href="/do-probiotics-make-you-poop/" class="text-primary hover:underline">probiotics make you poop</a>. For those with diarrhea, they can help firm up stool, leading to more normalized bowel habits.</p>
+                        <p class="mt-4 text-gray-700">Yes, they can. For people with constipation, probiotics can help regulate bowel movements and make them more frequent. We cover this in detail in our article exploring if <a href="/prunes-vs-dates-for-constipation-relief/" class="text-primary hover:underline">probiotics make you poop</a>. For those with diarrhea, they can help firm up stool, leading to more normalized bowel habits.</p>
                     </details>
                 </div>
             </section>

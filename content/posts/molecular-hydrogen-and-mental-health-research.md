@@ -67,7 +67,7 @@ seoTitle: >-
 <p>For instance, a <strong>randomized clinical study</strong> addressed mild cognitive impairment, an issue often associated with anxiety disorders, by analyzing the effects of molecular hydrogen with the trial aiming to recruit 120 patients to achieve substantial statistical power ( <a href="https://www.ingentaconnect.com/content/ben/car/2018/00000015/00000005/art00010">read all</a>).</p>
 <h3>Depression</h3>
 <p>Evidence from clinical research indicates that molecular hydrogen may have properties that could improve mood disorders such as depression.</p>
-<p>One promising direction is the exploration of <a href="/hydrogen-water/">hydrogen-enriched water</a>'s applicability to alleviate symptoms of depression, which was recognized based on outcomes from clinical studies as having potential therapeutic benefits ( <a href="https://www.sciencedirect.com/science/article/pii/S0163725814000941">explore the study</a>).</p>
+<p>One promising direction is the exploration of <a href="/benefits-of-hydrogen-water/">hydrogen-enriched water</a>'s applicability to alleviate symptoms of depression, which was recognized based on outcomes from clinical studies as having potential therapeutic benefits ( <a href="https://www.sciencedirect.com/science/article/pii/S0163725814000941">explore the study</a>).</p>
 <h3>Neurodegenerative Diseases</h3>
 <p>Clinical trials also consider the effect of molecular hydrogen on neurodegenerative diseases.</p>
 <p>Although preliminary, these studies suggest that hydrogen therapy could contribute to the management and prevention of these conditions.</p>
