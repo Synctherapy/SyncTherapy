@@ -2,24 +2,41 @@
 
 import { Button } from "@/components/ui/button";
 import { useEffect, useState } from "react";
-import { useWindowScroll } from "react-use";
 
 export function StickyMobileCTA() {
-    const { y } = useWindowScroll();
     const [isVisible, setIsVisible] = useState(false);
     const [isFooterVisible, setIsFooterVisible] = useState(false);
 
     useEffect(() => {
-        // Show button after scrolling past hero (approx 500px)
-        setIsVisible(y > 500);
+        // Optimize: Only trigger re-renders when crossing the 500px threshold,
+        // rather than on every single pixel of scroll.
+        const handleScroll = () => {
+            const shouldBeVisible = window.scrollY > 500;
+            setIsVisible((prev) => (prev !== shouldBeVisible ? shouldBeVisible : prev));
+        };
 
-        // Hide if footer is visible to prevent overlap
+        handleScroll(); // Initial check
+
+        window.addEventListener("scroll", handleScroll, { passive: true });
+        return () => window.removeEventListener("scroll", handleScroll);
+    }, []);
+
+    useEffect(() => {
+        // Optimize: Use IntersectionObserver instead of getBoundingClientRect() on scroll
+        // to prevent synchronous layout thrashing (reflow) on the main thread.
         const footer = document.querySelector("footer");
-        if (footer) {
-            const rect = footer.getBoundingClientRect();
-            setIsFooterVisible(rect.top < window.innerHeight);
-        }
-    }, [y]);
+        if (!footer) return;
+
+        const observer = new IntersectionObserver(
+            ([entry]) => {
+                setIsFooterVisible(entry.isIntersecting);
+            },
+            { rootMargin: "0px", threshold: 0 }
+        );
+
+        observer.observe(footer);
+        return () => observer.disconnect();
+    }, []);
 
     if (!isVisible || isFooterVisible) return null;
 
