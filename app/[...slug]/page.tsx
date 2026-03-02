@@ -247,10 +247,10 @@ export default async function Page({ params }: Props) {
 
     // 1. Blog Post Layout
     if (item && item.type === 'post') {
-        // Transform YouTube iframes to lazy-loading versions for better performance
-        // Also transform markdown images to add lazy-loading/fetchPriority
-        const transformedContent = transformLazyImages(transformYouTubeEmbeds(transformFontAwesome(item.content)));
-        const content = <div className="blog-post-content" dangerouslySetInnerHTML={{ __html: transformedContent }} />;
+        // Transform markdown images and font awesome icons
+        // NOTE: YouTube transformation temporarily disabled due to hydration issues with inline scripts
+        const transformedContent = transformLazyImages(transformFontAwesome(item.content));
+        const content = <div className="blog-post-content" dangerouslySetInnerHTML={{ __html: transformedContent }} suppressHydrationWarning />;
         const detectedCategory = getCategoryFromSlug(resolvedParams.slug.join('/'), item.frontmatter.category);
         const currentSlug = resolvedParams.slug.join('/');
 
