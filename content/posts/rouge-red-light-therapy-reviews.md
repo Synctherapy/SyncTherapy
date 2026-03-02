@@ -3,8 +3,8 @@ title: 'Rouge Red Light Review 2026: G4 Pro & Max Tested'
 date: '2026-02-28'
 slug: rouge-red-light-therapy-reviews
 description: >-
-  Professional analysis of Rouge G4 red light therapy panels. Comprehensive spec review by an award-winning Athletic Therapist. Canadian pricing, clinical insights, and honest verdict.
-seoTitle: Rouge Red Light G4 Review (2026) — Clinical Analysis by CAT(C)
+  Hands-on Rouge G4 red light therapy review. Pro, Max, Tabletop, and Ultimate models tested by an RMT. Canadian pricing, specs, and honest verdict.
+seoTitle: Rouge Red Light G4 Review (2026) — Pro & Max Tested
 category: red-light-recovery
 ---
 
