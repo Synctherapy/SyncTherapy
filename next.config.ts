@@ -2,7 +2,7 @@ import type { NextConfig } from "next";
 import redirects from './redirects.json';
 
 const nextConfig: NextConfig = {
-  // Force restart 2026-02-12
+  // Force restart 2026-02-28
   trailingSlash: true,
   images: {
     remotePatterns: [
