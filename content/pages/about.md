@@ -1112,7 +1112,7 @@ seoTitle: About
                         </div>
                         <div class="pt-4" style="border-top: 1px solid #e5e7eb;">
                             <p class="text-sm text-primary mb-2">
-                                <a href="/our-team/rmt-daryl-stubbs/" class="link-primary">
+                                <a href="/our-team/daryl-stubbs/" class="link-primary">
                                     Learn more about Daryl's RMT expertise →
                                 </a>
                             </p>

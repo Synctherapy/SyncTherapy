@@ -303,7 +303,7 @@ seoTitle: Conditions We Treat | Sync Massage Therapy
                                 </div>
                             </div>
 
-                            <a href="/conditions/chronic-pain-victoria/" 
+                            <a href="/conditions/chronic-pain/" 
                                class="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded transition-all duration-300 inline-flex items-center justify-center">
                                 Learn More
                                 <i class="fas fa-arrow-right ml-2"></i>
@@ -748,7 +748,7 @@ seoTitle: Conditions We Treat | Sync Massage Therapy
                 commonality: "Common",
                 treatmentTime: "Ongoing",
                 symptoms: ["Persistent pain", "Fatigue", "Sleep disturbance", "Mood changes", "Reduced mobility"],
-                url: "/conditions/chronic-pain-victoria/",
+                url: "/conditions/chronic-pain/",
                 icon: "⚡"
             },
             {
@@ -760,7 +760,7 @@ seoTitle: Conditions We Treat | Sync Massage Therapy
                 commonality: "Very Common",
                 treatmentTime: "2-4 sessions",
                 symptoms: ["Muscle knots", "Trigger points", "Stiffness", "Reduced flexibility", "Aching muscles"],
-                url: "/conditions/muscle-tension-relief-victoria/",
+                url: "/conditions/muscle-tension/",
                 icon: "💪"
             },
             {
@@ -784,7 +784,7 @@ seoTitle: Conditions We Treat | Sync Massage Therapy
                 commonality: "Common",
                 treatmentTime: "Ongoing",
                 symptoms: ["Joint pain", "Stiffness", "Swelling", "Reduced range of motion", "Morning stiffness"],
-                url: "/conditions/arthritis-pain-victoria/",
+                url: "/conditions/arthritis-pain/",
                 icon: "🦴"
             },
             {
@@ -820,7 +820,7 @@ seoTitle: Conditions We Treat | Sync Massage Therapy
                 commonality: "Very Common",
                 treatmentTime: "8-12 sessions",
                 symptoms: ["Forward head posture", "Rounded shoulders", "Uneven hips", "Muscle imbalances", "Fatigue"],
-                url: "/conditions/postural-imbalance-victoria/",
+                url: "/conditions/postural-imbalance/",
                 icon: "🏃"
             },
             {
@@ -832,7 +832,7 @@ seoTitle: Conditions We Treat | Sync Massage Therapy
                 commonality: "Common",
                 treatmentTime: "4-8 sessions",
                 symptoms: ["Stiff joints", "Reduced flexibility", "Morning stiffness", "Difficulty moving", "Aching"],
-                url: "/conditions/joint-stiffness-victoria/",
+                url: "/conditions/joint-stiffness/",
                 icon: "🔧"
             },
             {
@@ -892,7 +892,7 @@ seoTitle: Conditions We Treat | Sync Massage Therapy
                 commonality: "Common",
                 treatmentTime: "4-8 sessions",
                 symptoms: ["Shin pain", "Tenderness", "Swelling", "Pain during activity", "Aching"],
-                url: "/conditions/shin-splints-treatment-victoria/",
+                url: "/conditions/shin-splints/",
                 icon: "🏃"
             },
             {

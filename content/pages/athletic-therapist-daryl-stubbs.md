@@ -564,7 +564,7 @@ seoTitle: Daryl Stubbs — RMT & Athletic Therapist Colwood
                                     <ul class="list-none">
                                         <li class="list-item">
                                             <div class="list-dot dot-secondary"></div>
-                                            <a data-wpil="url" href="/conditions/chronic-pain-victoria/">Chronic Pain Management</a>
+                                            <a data-wpil="url" href="/conditions/chronic-pain/">Chronic Pain Management</a>
                                         </li>
                                         <li class="list-item">
                                             <div class="list-dot dot-secondary"></div>
@@ -588,15 +588,15 @@ seoTitle: Daryl Stubbs — RMT & Athletic Therapist Colwood
                                     <ul class="list-none">
                                         <li class="list-item">
                                             <div class="list-dot dot-secondary"></div>
-                                            <a href="/conditions/muscle-tension-relief-victoria/">Muscle Tension Relief</a>
+                                            <a href="/conditions/muscle-tension/">Muscle Tension Relief</a>
                                         </li>
                                         <li class="list-item">
                                             <div class="list-dot dot-secondary"></div>
-                                            <a href="/conditions/arthritis-pain-victoria/">Arthritis Pain Management</a>
+                                            <a href="/conditions/arthritis-pain/">Arthritis Pain Management</a>
                                         </li>
                                         <li class="list-item">
                                             <div class="list-dot dot-secondary"></div>
-                                            <a href="/conditions/postural-imbalance-victoria/">Postural Imbalance</a>
+                                            <a href="/conditions/postural-imbalance/">Postural Imbalance</a>
                                         </li>
                                         <li class="list-item">
                                             <div class="list-dot dot-secondary"></div>
@@ -604,7 +604,7 @@ seoTitle: Daryl Stubbs — RMT & Athletic Therapist Colwood
                                         </li>
                                         <li class="list-item">
                                             <div class="list-dot dot-secondary"></div>
-                                            <a href="/conditions/joint-stiffness-victoria/">Joint Stiffness</a>
+                                            <a href="/conditions/joint-stiffness/">Joint Stiffness</a>
                                         </li>
                                     </ul>
                                 </div>

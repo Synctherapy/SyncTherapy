@@ -73,7 +73,7 @@ const items = [
     emotional: "Bend over pain-free to pick up your grandkids.",
     details: "Sciatica, herniated discs, lower back strain, and posture correction.",
     Icon: Activity,
-    href: "/conditions/back-pain-relief-victoria",
+    href: "/conditions/back-pain/",
     cta: "Relief Starts Here",
   },
   {
@@ -81,7 +81,7 @@ const items = [
     emotional: "Check your blind spot without turning your whole body.",
     details: "Whiplash, stiff neck, tech-neck, and tension headaches.",
     Icon: Brain,
-    href: "/conditions/neck-pain-relief-victoria",
+    href: "/conditions/neck-shoulder-pain/",
     cta: "Move Freely",
   },
   {
@@ -89,7 +89,7 @@ const items = [
     emotional: "Reach for the top shelf with confidence.",
     details: "Rotator cuff injuries, frozen shoulder, and impingement.",
     Icon: User,
-    href: "/conditions/shoulder-pain-relief-victoria",
+    href: "/conditions/shoulder-pain/",
     cta: "Restore Range",
   },
   {
@@ -97,7 +97,7 @@ const items = [
     emotional: "Squat down to garden or sit on the floor comfortably.",
     details: "Runner’s knee, IT band syndrome, arthritis, and hip flexor strain.",
     Icon: PersonStanding,
-    href: "/conditions/sciatica-relief-victoria",
+    href: "/conditions/sciatica-treatment/",
     cta: "Strengthen Now",
   },
   {
@@ -105,7 +105,7 @@ const items = [
     emotional: "Focus on your work without the constant distraction.",
     details: "Fibromyalgia, arthritis management, and long-standing injury patterns.",
     Icon: Waves,
-    href: "/conditions/chronic-pain-relief-victoria",
+    href: "/conditions/chronic-pain/",
     cta: "Clear The Fog",
   },
   {
@@ -113,7 +113,7 @@ const items = [
     emotional: "Get back to the starting line feeling stronger.",
     details: "Sprains, strains, tendonitis, and post-surgical rehab.",
     Icon: Trophy,
-    href: "/conditions/conditions-sports-injuries",
+    href: "/conditions/sports-injuries-and-prevention/",
     cta: "Return to Sport",
   },
 ];

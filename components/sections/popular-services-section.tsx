@@ -7,7 +7,7 @@ const featuredServices = [
     title: "Massage Therapy",
     tag: "RMT",
     description: "Registered Massage Therapy for pain relief, stress reduction, and rehabilitation.",
-    href: "/services/massage-therapy-victoria",
+    href: "/services/",
   },
   {
     icon: Activity,
@@ -21,7 +21,7 @@ const featuredServices = [
     title: "Sports Massage",
     tag: "RMT",
     description: "Performance-focused treatment to prevent injury and enhance recovery.",
-    href: "/services/sports-massage-victoria",
+    href: "/services/sports-injury-treatment/",
   },
   {
     icon: HeartPulse,

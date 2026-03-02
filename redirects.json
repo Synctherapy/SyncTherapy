@@ -66,16 +66,11 @@
   },
   {
     "source": "/services/massage-therapy-colwood",
-    "destination": "/services/massage-therapy/",
+    "destination": "/services/",
     "permanent": true
   },
   {
     "source": "/massage-therapy-colwood",
-    "destination": "/services/massage-therapy/",
-    "permanent": true
-  },
-  {
-    "source": "/services/massage-therapy-victoria",
     "destination": "/services/massage-therapy/",
     "permanent": true
   },
@@ -111,7 +106,7 @@
   },
   {
     "source": "/services/massage-therapy-langford",
-    "destination": "/services/massage-therapy/",
+    "destination": "/services/",
     "permanent": true
   },
   {
@@ -171,17 +166,17 @@
   },
   {
     "source": "/blogs/red-light-therapy/role-of-red-light-therapy-in-anti-aging-studies-and-findings",
-    "destination": "/red-light-therapy/",
+    "destination": "/at-home-red-light-therapy/",
     "permanent": true
   },
   {
     "source": "/blogs/red-light-therapy/photobiomodulation-explained",
-    "destination": "/red-light-therapy/",
+    "destination": "/at-home-red-light-therapy/",
     "permanent": true
   },
   {
     "source": "/blogs/red-light-therapy/red-light-therapy-beds-2",
-    "destination": "/red-light-therapy-beds/",
+    "destination": "/red-light-therapy-bed-cost/",
     "permanent": true
   },
   {
@@ -221,7 +216,7 @@
   },
   {
     "source": "/blogs/hydrogen-water/echo-go-hydrogen-water-bottle-review",
-    "destination": "/echo-go-hydrogen-water-bottle-review/",
+    "destination": "/best-hydrogen-water-bottles/",
     "permanent": true
   },
   {
@@ -231,7 +226,7 @@
   },
   {
     "source": "/blogs/hydrogen-water",
-    "destination": "/hydrogen-water/",
+    "destination": "/benefits-of-hydrogen-water/",
     "permanent": true
   },
   {
@@ -421,7 +416,7 @@
   },
   {
     "source": "/best-red-light-therapy-beds",
-    "destination": "/red-light-therapy-beds/",
+    "destination": "/red-light-therapy-bed-cost/",
     "permanent": true
   },
   {
@@ -446,7 +441,7 @@
   },
   {
     "source": "/gary-brecka-pemf-mat",
-    "destination": "/best-pemf-mats/",
+    "destination": "/gary-brecka-supplements/",
     "permanent": true
   },
   {
@@ -485,11 +480,6 @@
     "permanent": true
   },
   {
-    "source": "/services/sports-massage-victoria",
-    "destination": "/services/sports-massage/",
-    "permanent": true
-  },
-  {
     "source": "/services/myofascial-release-victoria",
     "destination": "/services/myofascial-release/",
     "permanent": true
@@ -510,13 +500,8 @@
     "permanent": true
   },
   {
-    "source": "/services/deep-tissue-massage-victoria",
-    "destination": "/services/deep-tissue-massage/",
-    "permanent": true
-  },
-  {
     "source": "/services/massage-therapy/deep-tissue-massage",
-    "destination": "/services/deep-tissue-massage/",
+    "destination": "/services/muscle-tension-relief/",
     "permanent": true
   },
   {
@@ -536,22 +521,17 @@
   },
   {
     "source": "/conditions/chronic-pain-colwood",
-    "destination": "/conditions/chronic-pain-victoria/",
+    "destination": "/conditions/chronic-pain/",
     "permanent": true
   },
   {
     "source": "/conditions/chronic-pain-langford",
-    "destination": "/conditions/chronic-pain-victoria/",
+    "destination": "/conditions/chronic-pain/",
     "permanent": true
   },
   {
     "source": "/conditions/chronic-pain-massage-victoria",
-    "destination": "/conditions/chronic-pain-victoria/",
-    "permanent": true
-  },
-  {
-    "source": "/conditions/back-pain-relief-victoria",
-    "destination": "/conditions/back-pain/",
+    "destination": "/conditions/chronic-pain/",
     "permanent": true
   },
   {
@@ -611,7 +591,7 @@
   },
   {
     "source": "/conditions/arthritis-pain-langford",
-    "destination": "/conditions/arthritis-pain-victoria/",
+    "destination": "/conditions/arthritis-pain/",
     "permanent": true
   },
   {
@@ -651,7 +631,7 @@
   },
   {
     "source": "/conditions/plantar-fasciitis-treatment-langford",
-    "destination": "/conditions/plantar-fasciitis-treatment-victoria/",
+    "destination": "/conditions/plantar-fasciitis/",
     "permanent": true
   },
   {
@@ -800,7 +780,7 @@
     "permanent": true
   },
   {
-    "source": "/seed-probiotics-reviews/⁠",
+    "source": "/seed-probiotics-reviews/\u2060",
     "destination": "/seed-probiotics-reviews/",
     "permanent": true
   },
@@ -926,7 +906,7 @@
   },
   {
     "source": "/do-probiotics-help-with-bloating/",
-    "destination": "/best-prebiotics-and-probiotics-supplements/",
+    "destination": "/best-supplements-for-sibo/",
     "permanent": true
   },
   {
@@ -1001,7 +981,7 @@
   },
   {
     "source": "/dana-white-hydrogen-water/",
-    "destination": "/gary-brecka-hydrogen-water-bottle/",
+    "destination": "/benefits-of-hydrogen-water/",
     "permanent": true
   },
   {
@@ -1011,7 +991,7 @@
   },
   {
     "source": "/hydrogen-water-vs-ionized-water/",
-    "destination": "/alkaline-water-vs-hydrogen-water/",
+    "destination": "/benefits-of-hydrogen-water/",
     "permanent": true
   },
   {
@@ -1031,7 +1011,7 @@
   },
   {
     "source": "/hydrogen-water-and-diabetes/",
-    "destination": "/is-hydrogen-water-good-for-kidneys/",
+    "destination": "/benefits-of-hydrogen-water/",
     "permanent": true
   },
   {
@@ -1041,27 +1021,27 @@
   },
   {
     "source": "/echo-hydrogen-water-reviews/",
-    "destination": "/echo-ultimate-review/",
+    "destination": "/best-hydrogen-water-machines/",
     "permanent": true
   },
   {
     "source": "/echo-h2-machine-reviews/",
-    "destination": "/echo-ultimate-review/",
+    "destination": "/best-hydrogen-water-machines/",
     "permanent": true
   },
   {
     "source": "/echo-water-vs-kangen/",
-    "destination": "/alkaline-water-vs-hydrogen-water/",
+    "destination": "/best-hydrogen-water-machines/",
     "permanent": true
   },
   {
     "source": "/kangen-water-vs-hydrogen-water/",
-    "destination": "/alkaline-water-vs-hydrogen-water/",
+    "destination": "/benefits-of-hydrogen-water/",
     "permanent": true
   },
   {
     "source": "/echo-clean-review/",
-    "destination": "/echo-ultimate-review/",
+    "destination": "/best-hydrogen-water-machines/",
     "permanent": true
   },
   {
@@ -1071,22 +1051,22 @@
   },
   {
     "source": "/meth-the-alternative-to-the-rice-method/",
-    "destination": "/can-gerd-cause-back-pain-between-shoulder-blades/",
+    "destination": "/services/sports-injury-treatment/",
     "permanent": true
   },
   {
     "source": "/conquering-hip-pain-a-fibromyalgia-warriors-guide/",
-    "destination": "/red-light-therapy-for-arthritis/",
+    "destination": "/conditions/fibromyalgia/",
     "permanent": true
   },
   {
     "source": "/hip-pain-with-fibromyalgia/",
-    "destination": "/red-light-therapy-for-arthritis/",
+    "destination": "/conditions/fibromyalgia/",
     "permanent": true
   },
   {
     "source": "/deep-tissue-vs-trigger-point-therapy/",
-    "destination": "/difference-between-massage-therapist-and-masseuse/",
+    "destination": "/services/trigger-point-therapy/",
     "permanent": true
   },
   {
@@ -1096,7 +1076,7 @@
   },
   {
     "source": "/pemf-therapy/",
-    "destination": "/best-pemf-mats/",
+    "destination": "/pemf-therapy-for-neuropathy/",
     "permanent": true
   },
   {
@@ -1121,7 +1101,7 @@
   },
   {
     "source": "/pemf-vs-tens/",
-    "destination": "/best-pemf-mats/",
+    "destination": "/pemf-therapy-for-neuropathy/",
     "permanent": true
   },
   {
@@ -1131,22 +1111,22 @@
   },
   {
     "source": "/red-light-therapy-for-inflammation/",
-    "destination": "/red-light-therapy/",
+    "destination": "/fda-approved-red-light-therapy-devices-for-pain/",
     "permanent": true
   },
   {
     "source": "/red-light-therapy-for-depression/",
-    "destination": "/red-light-therapy/",
+    "destination": "/at-home-red-light-therapy/",
     "permanent": true
   },
   {
     "source": "/red-light-therapy-for-chronic-fatigue/",
-    "destination": "/red-light-therapy/",
+    "destination": "/at-home-red-light-therapy/",
     "permanent": true
   },
   {
     "source": "/red-light-therapy-for-fibromyalgia/",
-    "destination": "/red-light-therapy-for-arthritis/",
+    "destination": "/conditions/fibromyalgia/",
     "permanent": true
   },
   {
@@ -1156,7 +1136,7 @@
   },
   {
     "source": "/red-light-therapy-and-wound-healing-clinical-evidence/",
-    "destination": "/red-light-therapy/",
+    "destination": "/at-home-red-light-therapy/",
     "permanent": true
   },
   {
@@ -1176,17 +1156,17 @@
   },
   {
     "source": "/role-of-red-light-therapy-in-anti-aging-studies-and-findings/",
-    "destination": "/red-light-therapy/",
+    "destination": "/at-home-red-light-therapy/",
     "permanent": true
   },
   {
     "source": "/photobiomodulation-explained/",
-    "destination": "/red-light-therapy/",
+    "destination": "/at-home-red-light-therapy/",
     "permanent": true
   },
   {
     "source": "/wavelength-for-red-light/",
-    "destination": "/red-light-therapy/",
+    "destination": "/at-home-red-light-therapy/",
     "permanent": true
   },
   {
@@ -1296,12 +1276,12 @@
   },
   {
     "source": "/preparing-first-massage-session-langford/",
-    "destination": "/services/massage-therapy/",
+    "destination": "/services/relaxation-massage/",
     "permanent": true
   },
   {
     "source": "/deep-tissue-massage/",
-    "destination": "/services/deep-tissue-massage/",
+    "destination": "/services/muscle-tension-relief/",
     "permanent": true
   },
   {
@@ -1351,7 +1331,7 @@
   },
   {
     "source": "/services/sports-massage-therapy/",
-    "destination": "/services/sports-massage/",
+    "destination": "/services/sports-injury-treatment/",
     "permanent": true
   },
   {
@@ -1391,7 +1371,7 @@
   },
   {
     "source": "/red-light-therapy-and-mitochondria/",
-    "destination": "/red-light-therapy/",
+    "destination": "/at-home-red-light-therapy/",
     "permanent": true
   },
   {
@@ -1421,22 +1401,17 @@
   },
   {
     "source": "/services/massage-therapy-victoria/",
-    "destination": "/services/massage-therapy/",
+    "destination": "/services/",
     "permanent": true
   },
   {
     "source": "/services/sports-massage-victoria/",
-    "destination": "/services/sports-massage/",
+    "destination": "/services/sports-injury-treatment/",
     "permanent": true
   },
   {
     "source": "/services/deep-tissue-massage-victoria/",
-    "destination": "/services/deep-tissue-massage/",
-    "permanent": true
-  },
-  {
-    "source": "/services/neck-pain-relief",
-    "destination": "/conditions/neck-shoulder-pain/",
+    "destination": "/services/muscle-tension-relief/",
     "permanent": true
   },
   {
@@ -1445,18 +1420,8 @@
     "permanent": true
   },
   {
-    "source": "/services/migraine-headache-management",
-    "destination": "/conditions/headaches-migraines/",
-    "permanent": true
-  },
-  {
     "source": "/services/migraine-headache-management/",
     "destination": "/conditions/headaches-migraines/",
-    "permanent": true
-  },
-  {
-    "source": "/services/chronic-pain-management",
-    "destination": "/conditions/chronic-pain/",
     "permanent": true
   },
   {
@@ -1465,18 +1430,8 @@
     "permanent": true
   },
   {
-    "source": "/services/arthritis-pain-management",
-    "destination": "/conditions/arthritis-pain/",
-    "permanent": true
-  },
-  {
     "source": "/services/arthritis-pain-management/",
     "destination": "/conditions/arthritis-pain/",
-    "permanent": true
-  },
-  {
-    "source": "/services/shoulder-impingement",
-    "destination": "/conditions/shoulder-impingement/",
     "permanent": true
   },
   {
@@ -1485,18 +1440,8 @@
     "permanent": true
   },
   {
-    "source": "/services/sprain-strain-treatment",
-    "destination": "/conditions/sprains-and-strains/",
-    "permanent": true
-  },
-  {
     "source": "/services/sprain-strain-treatment/",
     "destination": "/conditions/sprains-and-strains/",
-    "permanent": true
-  },
-  {
-    "source": "/services/anterior-knee-pain",
-    "destination": "/conditions/anterior-knee-pain/",
     "permanent": true
   },
   {
@@ -1505,18 +1450,8 @@
     "permanent": true
   },
   {
-    "source": "/services/tendonitis-treatment",
-    "destination": "/conditions/tendonitis-treatment/",
-    "permanent": true
-  },
-  {
     "source": "/services/tendonitis-treatment/",
     "destination": "/conditions/tendonitis-treatment/",
-    "permanent": true
-  },
-  {
-    "source": "/services/knee-pain-treatment",
-    "destination": "/conditions/hip-and-knee-pain/",
     "permanent": true
   },
   {
@@ -1525,18 +1460,8 @@
     "permanent": true
   },
   {
-    "source": "/services/athletic-training",
-    "destination": "/services/athletic-therapy/",
-    "permanent": true
-  },
-  {
     "source": "/services/athletic-training/",
     "destination": "/services/athletic-therapy/",
-    "permanent": true
-  },
-  {
-    "source": "/services/rotator-cuff-rehab",
-    "destination": "/conditions/rotator-cuff-injury/",
     "permanent": true
   },
   {
@@ -1545,18 +1470,8 @@
     "permanent": true
   },
   {
-    "source": "/services/health-assessment",
-    "destination": "/services/wellness-consultation/",
-    "permanent": true
-  },
-  {
     "source": "/services/health-assessment/",
     "destination": "/services/wellness-consultation/",
-    "permanent": true
-  },
-  {
-    "source": "/conditions/irritable-bowel-syndrome",
-    "destination": "/services/ibs-diet-counseling/",
     "permanent": true
   },
   {
@@ -1571,12 +1486,12 @@
   },
   {
     "source": "/seed-pediatric-probiotic-reviews",
-    "destination": "/seed-probiotics-reviews/",
+    "destination": "/probiotics-for-teenagers/",
     "permanent": true
   },
   {
     "source": "/red-light-therapy-infographic",
-    "destination": "/red-light-therapy/",
+    "destination": "/at-home-red-light-therapy/",
     "permanent": true
   },
   {
@@ -1586,7 +1501,7 @@
   },
   {
     "source": "/best-massage-langford-clinics",
-    "destination": "/services/massage-therapy/",
+    "destination": "/",
     "permanent": true
   },
   {
@@ -1631,7 +1546,7 @@
   },
   {
     "source": "/red-light-therapy-boosts-mitochondrial-function",
-    "destination": "/red-light-therapy/",
+    "destination": "/at-home-red-light-therapy/",
     "permanent": true
   },
   {
@@ -1650,18 +1565,8 @@
     "permanent": true
   },
   {
-    "source": "/conditions/shoulder-pain-victoria-bc/",
-    "destination": "/conditions/shoulder-pain/",
-    "permanent": true
-  },
-  {
     "source": "/conditions/shoulder-pain-victoria-bc",
     "destination": "/conditions/shoulder-pain/",
-    "permanent": true
-  },
-  {
-    "source": "/conditions/sciatica-treatment-victoria/",
-    "destination": "/conditions/sciatica-treatment/",
     "permanent": true
   },
   {
@@ -1670,18 +1575,8 @@
     "permanent": true
   },
   {
-    "source": "/conditions/plantar-fasciitis-treatment-victoria/",
-    "destination": "/conditions/plantar-fasciitis/",
-    "permanent": true
-  },
-  {
     "source": "/conditions/plantar-fasciitis-treatment-victoria",
     "destination": "/conditions/plantar-fasciitis/",
-    "permanent": true
-  },
-  {
-    "source": "/conditions/headaches-and-neck-pain/",
-    "destination": "/conditions/headaches-migraines/",
     "permanent": true
   },
   {
@@ -1690,28 +1585,13 @@
     "permanent": true
   },
   {
-    "source": "/conditions/back-pain-victoria/",
-    "destination": "/conditions/back-pain/",
-    "permanent": true
-  },
-  {
     "source": "/conditions/back-pain-victoria",
     "destination": "/conditions/back-pain/",
     "permanent": true
   },
   {
-    "source": "/conditions/cholesterol-management/",
-    "destination": "/services/cholesterol-diet/",
-    "permanent": true
-  },
-  {
     "source": "/conditions/cholesterol-management",
     "destination": "/services/cholesterol-diet/",
-    "permanent": true
-  },
-  {
-    "source": "/services/chronic-pain-victoria/",
-    "destination": "/conditions/chronic-pain/",
     "permanent": true
   },
   {
@@ -1811,7 +1691,7 @@
   },
   {
     "source": "/do-probiotics-make-you-poop",
-    "destination": "/best-prebiotics-and-probiotics-supplements/",
+    "destination": "/prunes-vs-dates-for-constipation-relief/",
     "permanent": true
   },
   {
@@ -1841,7 +1721,7 @@
   },
   {
     "source": "/red-light-therapy-for-eczema/",
-    "destination": "/red-light-therapy/",
+    "destination": "/at-home-red-light-therapy/",
     "permanent": true
   },
   {
@@ -1851,7 +1731,7 @@
   },
   {
     "source": "/red-light-therapy-for-cold-sore/",
-    "destination": "/red-light-therapy/",
+    "destination": "/at-home-red-light-therapy/",
     "permanent": true
   },
   {
@@ -1866,12 +1746,127 @@
   },
   {
     "source": "/neuropathy-red-light-therapy/",
-    "destination": "/red-light-therapy/",
+    "destination": "/red-light-therapy-knee-pain/",
     "permanent": true
   },
   {
     "source": "/ibs-quiz/",
     "destination": "/gut-health-test/",
+    "permanent": true
+  },
+  {
+    "source": "/bursitis-treatment-victoria/",
+    "destination": "/conditions/bursitis-treatment/",
+    "permanent": true
+  },
+  {
+    "source": "/it-band-syndrome-victoria/",
+    "destination": "/conditions/it-band-syndrome/",
+    "permanent": true
+  },
+  {
+    "source": "/postural-imbalance-victoria/",
+    "destination": "/conditions/postural-imbalance/",
+    "permanent": true
+  },
+  {
+    "source": "/hip-and-knee-pain/",
+    "destination": "/conditions/hip-and-knee-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions-sports-injuries/",
+    "destination": "/conditions/sports-injuries-and-prevention/",
+    "permanent": true
+  },
+  {
+    "source": "/deep-tissue-massage-victoria/",
+    "destination": "/services/muscle-tension-relief/",
+    "permanent": true
+  },
+  {
+    "source": "/sports-massage-therapy/",
+    "destination": "/services/sports-injury-treatment/",
+    "permanent": true
+  },
+  {
+    "source": "/blogs/health/pemf-therapy/",
+    "destination": "/pemf-therapy-for-neuropathy/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/arthritis-pain-victoria/",
+    "destination": "/conditions/arthritis-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/conditions/chronic-pain-victoria/",
+    "destination": "/conditions/chronic-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/probiotics-for-women/",
+    "destination": "/best-prebiotics-and-probiotics-supplements/",
+    "permanent": true
+  },
+  {
+    "source": "/best-probiotics-for-children/",
+    "destination": "/probiotics-for-teenagers/",
+    "permanent": true
+  },
+  {
+    "source": "/pemf-therapy-side-effects/",
+    "destination": "/pemf-therapy-for-neuropathy/",
+    "permanent": true
+  },
+  {
+    "source": "/red-light-therapy-beds-2/",
+    "destination": "/red-light-therapy-bed-cost/",
+    "permanent": true
+  },
+  {
+    "source": "/red-light-therapy-costs/",
+    "destination": "/red-light-therapy-bed-cost/",
+    "permanent": true
+  },
+  {
+    "source": "/best-red-light-therapy-panels/",
+    "destination": "/at-home-red-light-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/red-light-therapy-beds/",
+    "destination": "/red-light-therapy-bed-cost/",
+    "permanent": true
+  },
+  {
+    "source": "/red-light-therapy/",
+    "destination": "/at-home-red-light-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/echo-go-hydrogen-water-bottle-review/",
+    "destination": "/best-hydrogen-water-bottles/",
+    "permanent": true
+  },
+  {
+    "source": "/hydrogen-water/",
+    "destination": "/benefits-of-hydrogen-water/",
+    "permanent": true
+  },
+  {
+    "source": "/best-probiotic-supplements-for-ibs/",
+    "destination": "/do-probiotics-help-ibs/",
+    "permanent": true
+  },
+  {
+    "source": "/services/deep-tissue-massage/",
+    "destination": "/services/muscle-tension-relief/",
+    "permanent": true
+  },
+  {
+    "source": "/services/direct-billing-massage-victoria/",
+    "destination": "/direct-billing/",
     "permanent": true
   }
 ]

@@ -514,7 +514,7 @@ seoTitle: Our RMT
                                     </li>
                                     <li class="list-item">
                                         <div class="list-dot dot-secondary"></div>
-                                        <a href="/conditions/chronic-pain-victoria/">Chronic Pain Management</a>
+                                        <a href="/conditions/chronic-pain/">Chronic Pain Management</a>
                                     </li>
                                     <li class="list-item">
                                         <div class="list-dot dot-secondary"></div>
@@ -522,7 +522,7 @@ seoTitle: Our RMT
                                     </li>
                                     <li class="list-item">
                                         <div class="list-dot dot-secondary"></div>
-                                        <a href="/conditions/postural-imbalance-victoria/">Postural Dysfunction</a>
+                                        <a href="/conditions/postural-imbalance/">Postural Dysfunction</a>
                                     </li>
                                 </ul>
                             </div>

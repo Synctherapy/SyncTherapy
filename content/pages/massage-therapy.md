@@ -427,9 +427,9 @@ seoTitle: Massage Therapy Colwood & Langford | Sync Massage
                     <h3 style="color: var(--primary); margin-bottom: 16px;">Professional Wellness</h3>
                     <ul style="list-style: none; padding: 0; line-height: 2;">
                         <li><a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9oZWFkYWNoZXMtYW5kLW5lY2stcGFpbi8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9oZWFkYWNoZXMtYW5kLW5lY2stcGFpbi8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9oZWFkYWNoZXMtYW5kLW5lY2stcGFpbi8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9oZWFkYWNoZXMtYW5kLW5lY2stcGFpbi8=" href="/conditions/headaches-migraines/" style="color: var(--text); text-decoration: none;">• Tension headaches</a></li>
-                        <li><a href="/conditions/postural-imbalance-victoria/" style="color: var(--text); text-decoration: none;">• Desk posture syndrome</a></li>
-                        <li><a href="/conditions/muscle-tension-relief-victoria/" style="color: var(--text); text-decoration: none;">• Stress-related tension</a></li>
-                        <li><a data-wpil="url" href="/conditions/chronic-pain-victoria/" style="color: var(--text); text-decoration: none;">• Chronic fatigue</a></li>
+                        <li><a href="/conditions/postural-imbalance/" style="color: var(--text); text-decoration: none;">• Desk posture syndrome</a></li>
+                        <li><a href="/conditions/muscle-tension/" style="color: var(--text); text-decoration: none;">• Stress-related tension</a></li>
+                        <li><a data-wpil="url" href="/conditions/chronic-pain/" style="color: var(--text); text-decoration: none;">• Chronic fatigue</a></li>
                         <li><a href="/conditions/sciatica-treatment/" style="color: var(--text); text-decoration: none;">• Sciatica</a></li>
                     </ul>
                 </div>
@@ -440,8 +440,8 @@ seoTitle: Massage Therapy Colwood & Langford | Sync Massage
                         <li><a href="/conditions/overuse-injuries-victoria/" style="color: var(--text); text-decoration: none;">• Running injuries</a></li>
                         <li><a href="/conditions/plantar-fasciitis/" style="color: var(--text); text-decoration: none;">• Plantar fasciitis</a></li>
                         <li><a href="/conditions/it-band-syndrome/" style="color: var(--text); text-decoration: none;">• IT band syndrome</a></li>
-                        <li><a href="/conditions/arthritis-pain-victoria/" style="color: var(--text); text-decoration: none;">• Arthritis management</a></li>
-                        <li><a href="/conditions/joint-stiffness-victoria/" style="color: var(--text); text-decoration: none;">• Joint mobility</a></li>
+                        <li><a href="/conditions/arthritis-pain/" style="color: var(--text); text-decoration: none;">• Arthritis management</a></li>
+                        <li><a href="/conditions/joint-stiffness/" style="color: var(--text); text-decoration: none;">• Joint mobility</a></li>
                     </ul>
                 </div>
             </div>
@@ -501,7 +501,7 @@ seoTitle: Massage Therapy Colwood & Langford | Sync Massage
                             </div>
                         </div>
                         
-                        <a href="/our-team/rmt-daryl-stubbs/" style="color: var(--primary); text-decoration: none; font-weight: 500;">
+                        <a href="/our-team/daryl-stubbs/" style="color: var(--primary); text-decoration: none; font-weight: 500;">
                             Read Full Bio →
                         </a>
                     </div>

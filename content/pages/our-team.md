@@ -868,7 +868,7 @@ seoTitle: Our Team | Sync Massage Therapy Colwood
                             </div>
 
                             <div class="team-cta">
-                                <a href="/our-team/rmt-daryl-stubbs/" class="btn btn-primary">
+                                <a href="/our-team/daryl-stubbs/" class="btn btn-primary">
                                     View Full Profile
                                     <i class="fas fa-arrow-right btn-icon"></i>
                                 </a>

@@ -719,7 +719,7 @@ seoTitle: Shoulder Pain
                         <a href="https://synctherapy.janeapp.com/" target="_blank" class="btn btn-accent">
                             📅 Book with Daryl
                         </a>
-                        <a href="/our-team/rmt-daryl-stubbs/" class="btn" style="border: 2px solid var(--primary-color); color: var(--primary-color);">
+                        <a href="/our-team/daryl-stubbs/" class="btn" style="border: 2px solid var(--primary-color); color: var(--primary-color);">
                             👥 Learn About Our Langford Massage Therapist
                         </a>
                     </div>

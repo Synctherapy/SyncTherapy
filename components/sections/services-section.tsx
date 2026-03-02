@@ -7,21 +7,21 @@ const featuredItems = [
     title: "Deep Tissue Massage",
     description: "Targeted release for chronic tension and muscle pain. Effective for postural issues and long-standing discomfort.",
     image: "/images/service-massage.jpg",
-    href: "/services/deep-tissue-massage",
+    href: "/services/muscle-tension-relief/",
     cta: "Book Deep Tissue"
   },
   {
     title: "Direct Billing Massage",
     description: "We handle the paperwork for you. Direct billing available for most major insurance providers including Pacific Blue Cross, Canada Life, and more.",
     image: "/images/service-athletic.jpg", // Using existing image for now
-    href: "/services/direct-billing-massage-victoria",
+    href: "/direct-billing/",
     cta: "Learn More"
   },
   {
     title: "Sports Injury Treatment",
     description: "Specialized assessment and treatment for sports-related injuries. Get back to your activity safely and stronger than before.",
     image: "/images/service-nutrition.jpg", // Using existing image for now
-    href: "/services/sports-massage-victoria",
+    href: "/services/sports-injury-treatment/",
     cta: "Book Sports Rehab"
   },
 ];

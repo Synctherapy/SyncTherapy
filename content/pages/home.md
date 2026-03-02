@@ -560,7 +560,7 @@ seoTitle: Home
                         <p class="text-sm text-text/70 mb-3">
                             Long-term pain management and relief strategies for persistent conditions with evidence-based therapeutic approaches
                         </p>
-                        <a href="/conditions/chronic-pain-victoria/" class="text-primary hover:text-accent text-sm font-medium">
+                        <a href="/conditions/chronic-pain/" class="text-primary hover:text-accent text-sm font-medium">
                             Learn More About Chronic Pain Management →
                         </a>
                     </div>
@@ -729,7 +729,7 @@ seoTitle: Home
                 <p class="text-text/70 mb-6 leading-relaxed">
                     Award-winning registered massage therapist with over 10 years of experience in therapeutic massage, pain management, and wellness care.
                 </p>
-                <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9vdXItdGVhbS9ybXQtZGFyeWwtc3R1YmJz" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9vdXItdGVhbS9ybXQtZGFyeWwtc3R1YmJzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9vdXItdGVhbS9ybXQtZGFyeWwtc3R1YmJzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" href="/our-team/rmt-daryl-stubbs/" class="btn-accent px-6 py-2 mb-2 w-full text-center">View RMT Langford Profile</a>
+                <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9vdXItdGVhbS9ybXQtZGFyeWwtc3R1YmJz" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9vdXItdGVhbS9ybXQtZGFyeWwtc3R1YmJzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9vdXItdGVhbS9ybXQtZGFyeWwtc3R1YmJzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" href="/our-team/daryl-stubbs/" class="btn-accent px-6 py-2 mb-2 w-full text-center">View RMT Langford Profile</a>
             </div>
             <div class="card p-8 text-center bg-white hover:shadow-xl transition-all duration-300">
                 <div class="w-24 h-24 rounded-full overflow-hidden mx-auto mb-6">
@@ -806,7 +806,7 @@ seoTitle: Home
                     <strong>Daryl Stubbs, RMT</strong> is the award-winning founder of Sync Therapy with over 10 years of experience in massage therapy, athletic therapy, and nutrition. Recognized as Victoria's Best Massage Therapy Clinic 2022-2024, Daryl combines advanced techniques with personalized care to help clients achieve optimal wellness and performance.
                 </p>
                 <div class="mt-6">
-                    <a href="/our-team/rmt-daryl-stubbs/" class="text-primary hover:underline font-medium">
+                    <a href="/our-team/daryl-stubbs/" class="text-primary hover:underline font-medium">
                         Read Daryl's full bio and Langford RMT credentials →
                     </a>
                 </div>

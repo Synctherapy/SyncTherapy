@@ -514,7 +514,7 @@ seoTitle: 'Hip and Knee Pain: Causes & Treatment Options'
             <div class="text-center" style="margin-top: 50px;">
                 <div style="background: rgba(46, 90, 136, 0.05); border: 1px solid rgba(46, 90, 136, 0.1); border-radius: 12px; padding: 30px; max-width: 600px; margin: 0 auto;">
                     <h3 style="font-weight: bold; margin-bottom: 15px; color: var(--primary-color);">Don't See Your Condition Listed?</h3>
-                    <p style="margin-bottom: 20px; color: var(--text-color);">Our Victoria hip and knee pain specialists treat many other conditions not listed here. Contact us for a free consultation to discuss how we can help with your specific condition. Our dedicated team is committed to providing personalized care tailored to your needs. We also offer a range of <a href="/conditions/arthritis-pain-victoria/">arthritis pain relief options in Victoria</a>, ensuring that you have access to the latest treatments and therapies available. Let us partner with you on your journey to recovery and improved mobility.</p>
+                    <p style="margin-bottom: 20px; color: var(--text-color);">Our Victoria hip and knee pain specialists treat many other conditions not listed here. Contact us for a free consultation to discuss how we can help with your specific condition. Our dedicated team is committed to providing personalized care tailored to your needs. We also offer a range of <a href="/conditions/arthritis-pain/">arthritis pain relief options in Victoria</a>, ensuring that you have access to the latest treatments and therapies available. Let us partner with you on your journey to recovery and improved mobility.</p>
                     <a href="tel:+12508128698" class="btn btn-primary" style="margin-right: 15px;">📞 Call for Free Consultation</a>
                     <a href="https://synctherapy.janeapp.com/" target="_blank" class="btn btn-accent">📅 Book Assessment</a>
                 </div>
@@ -736,7 +736,7 @@ seoTitle: 'Hip and Knee Pain: Causes & Treatment Options'
                         <a href="https://synctherapy.janeapp.com/" target="_blank" class="btn btn-accent">
                             📅 Book with Daryl
                         </a>
-                        <a href="/our-team/rmt-daryl-stubbs/" class="btn" style="border: 2px solid var(--primary-color); color: var(--primary-color);">
+                        <a href="/our-team/daryl-stubbs/" class="btn" style="border: 2px solid var(--primary-color); color: var(--primary-color);">
                             👥 Learn About Langford RMT Daryl
                         </a>
                     </div>

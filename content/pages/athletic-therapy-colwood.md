@@ -438,7 +438,7 @@ seoTitle: Athletic Therapy Colwood
 
                     <ul style="text-align: left; font-size: 0.9rem; line-height: 1.6;">
 
-                        <li><a data-wpil="url" href="/conditions/chronic-pain-victoria/" style="color: var(--primary-color);">Chronic Pain</a></li>
+                        <li><a data-wpil="url" href="/conditions/chronic-pain/" style="color: var(--primary-color);">Chronic Pain</a></li>
 
                         <li><a href="/conditions/back-pain/" style="color: var(--primary-color);">Back Pain</a></li>
 
@@ -468,7 +468,7 @@ seoTitle: Athletic Therapy Colwood
 
                         <li>Joint Stiffness</li>
 
-                        <li><a href="/conditions/postural-imbalance-victoria/" style="color: var(--primary-color);">Postural Imbalances</a></li>
+                        <li><a href="/conditions/postural-imbalance/" style="color: var(--primary-color);">Postural Imbalances</a></li>
 
                         <li>Range of Motion Issues</li>
 
@@ -1490,7 +1490,7 @@ seoTitle: Athletic Therapy Colwood
 
                         <li style="margin-bottom: 10px;">
 
-                            <a data-wpil="url" href="/conditions/chronic-pain-victoria/" style="color: var(--primary-color); text-decoration: none;">Chronic Pain Management</a>
+                            <a data-wpil="url" href="/conditions/chronic-pain/" style="color: var(--primary-color); text-decoration: none;">Chronic Pain Management</a>
 
                         </li>
 
