@@ -1,6 +1,6 @@
 ---
 title: 'Echo Flask Review 2026: Best Hydrogen Water Bottle? (I Tested It)'
-date: '2025-01-14 21:23:37'
+date: '2026-01-14 21:23:37'
 slug: echo-flask-review
 description: >-
   Echo Flask hydrogen water bottle review for 2026. Tested by a Holistic
@@ -22,8 +22,8 @@ seoTitle: 'Echo Flask Review 2026: Hydrogen Water Bottle'
   },
   "headline": "Echo Flask Review 2026: The Best Hydrogen Water Bottle? (I Tested It)",
   "description": "Comprehensive Echo Flask hydrogen water bottle review for 2026. Covers specs, how to clean, Echo Flask vs Echo Go, discount code, and whether it's worth the price.",
-  "datePublished": "2024-06-15T08:00:00-05:00",
-  "dateModified": "2025-12-27T09:00:00-08:00",
+  "datePublished": "2026-06-15T08:00:00-05:00",
+  "dateModified": "2026-12-27T09:00:00-08:00",
   "author": {
     "@type": "Person",
     "name": "Bruce Chicken",
@@ -225,14 +225,14 @@ seoTitle: 'Echo Flask Review 2026: Hydrogen Water Bottle'
                 <div class="bg-white p-4 rounded-lg shadow-md">
                     <h4 class="font-bold text-primary mb-3"><i class="fas fa-play-circle mr-2"></i>Echo Flask Unboxing</h4>
                     <video controls class="w-full rounded-lg" preload="metadata">
-                        <source src="/uploads/2025/12/Unboxing-the-brand-new-Echo-Flask-smart-hydrogen-water-bottle.mp4" type="video/mp4">
+                        <source src="/uploads/2026/12/Unboxing-the-brand-new-Echo-Flask-smart-hydrogen-water-bottle.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
                 </div>
                 <div class="bg-white p-4 rounded-lg shadow-md">
                     <h4 class="font-bold text-primary mb-3"><i class="fas fa-play-circle mr-2"></i>Echo Flask Full Review</h4>
                     <video controls class="w-full rounded-lg" preload="metadata">
-                        <source src="/uploads/2025/12/echo-flask-review.mp4" type="video/mp4">
+                        <source src="/uploads/2026/12/echo-flask-review.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
                 </div>
@@ -240,7 +240,7 @@ seoTitle: 'Echo Flask Review 2026: Hydrogen Water Bottle'
             <div class="bg-white p-4 rounded-lg shadow-md max-w-xl mx-auto">
                 <h4 class="font-bold text-primary mb-3"><i class="fas fa-play-circle mr-2"></i>Echo Flask Hydrogen Water Bottle Review</h4>
                 <video controls class="w-full rounded-lg" preload="metadata">
-                    <source src="/uploads/2025/12/echo-flask-hydrogen-water-bottle-review-.mp4" type="video/mp4">
+                    <source src="/uploads/2026/12/echo-flask-hydrogen-water-bottle-review-.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
             </div>

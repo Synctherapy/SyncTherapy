@@ -1,6 +1,6 @@
 ---
 title: 7 Best Under Sink Reverse Osmosis System For Your Home in 2026
-date: '2024-03-21 07:00:00'
+date: '2026-03-21 07:00:00'
 slug: best-undersink-reverse-osmosis-system
 description: >-
   Seven best under-sink reverse osmosis systems for 2026. Filtration stages,
@@ -201,7 +201,7 @@ seoTitle: Best Under Sink Reverse Osmosis Systems (2026)
                     <h3>4. Nu Aqua Platinum Series 7-Stage RO System</h3>
                     <p class="text-accent font-semibold mb-4">Best RO System on a Budget</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="/uploads/2025/06/NUAquaPlatinumSeries7StageAlkalineandUVUltraviolet100GPDROSystem.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Nu+Aqua+Platinum';" alt="The Nu Aqua Platinum Series 7-stage reverse osmosis system with UV light filter." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/2026/06/NUAquaPlatinumSeries7StageAlkalineandUVUltraviolet100GPDROSystem.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Nu+Aqua+Platinum';" alt="The Nu Aqua Platinum Series 7-stage reverse osmosis system with UV light filter." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">The NU Aqua 7 Stage RO System sets the standard for affordable yet comprehensive filtration. It incorporates premium features like UV sterilization and remineralization, making it arguably the best system you can get for your money.</p>
                             <ul class="list-disc list-inside space-y-2 mb-4">

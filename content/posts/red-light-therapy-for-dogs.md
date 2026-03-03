@@ -1,6 +1,6 @@
 ---
 title: 'Red Light Therapy for Dogs: Arthritis & Hips (2026)'
-date: '2024-06-28 15:35:17'
+date: '2026-06-28 15:35:17'
 slug: red-light-therapy-for-dogs
 description: >-
   Red light therapy for dogs with arthritis, hip dysplasia, and injuries. An RMT

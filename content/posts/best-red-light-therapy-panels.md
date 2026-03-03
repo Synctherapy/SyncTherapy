@@ -120,14 +120,14 @@ category: red-light-recovery
 <section id="top-picks">
 <h2 class="text-3xl font-bold mb-6">The Best Red Light Therapy Panels of 2026</h2>
 
-<img src="/uploads/2025/06/a_small_red_light_therapy_panel_review.jpg" alt="Person using one of the best red light therapy panels for full body treatment at home" class="rounded-lg shadow-sm mb-8 w-full" loading="lazy">
+<img src="/uploads/2026/06/a_small_red_light_therapy_panel_review.jpg" alt="Person using one of the best red light therapy panels for full body treatment at home" class="rounded-lg shadow-sm mb-8 w-full" loading="lazy">
 
 <!-- Product Card: Rouge Tabletop G4 -->
 <div id="rouge-g4" class="bg-white p-6 rounded-lg shadow-md mb-8 border-t-4 border-accent">
 <h3 class="text-2xl font-bold mb-2">1. Rouge Tabletop G4</h3>
 <p class="text-accent font-semibold mb-4">Top of the Line Features & Customization</p>
 <div class="grid md:grid-cols-2 gap-6">
-    <img src="/uploads/2025/06/rouge-tabletop-g4-678166.webp" alt="Rouge Tabletop G4 red light therapy panel" class="rounded-lg shadow-sm w-full" loading="lazy">
+    <img src="/uploads/2026/06/rouge-tabletop-g4-678166.webp" alt="Rouge Tabletop G4 red light therapy panel" class="rounded-lg shadow-sm w-full" loading="lazy">
     <div>
         <p class="mb-4">The <a href="/rouge-red-light-therapy-reviews/" class="text-content-link">Rouge Tabletop G4 is a truly top-of-the-line red light therapy panel</a>, packed with advanced features for the user who wants ultimate control. With an incredible 8 wavelengths and app integration, it offers unparalleled customization.</p>
         <ul class="list-disc list-inside space-y-2 mb-4">
@@ -150,7 +150,7 @@ category: red-light-recovery
 <h3 class="text-2xl font-bold mb-2">2. Mito Pro X 750</h3>
 <p class="text-accent font-semibold mb-4">Best Value & Power (for US customers)</p>
 <div class="grid md:grid-cols-2 gap-6">
-    <img src="/uploads/2025/06/mitopro750xisthestrongestredlighttherapypanelathome.webp" alt="Mito Pro X 750 red light therapy panel" class="rounded-lg shadow-sm w-full" loading="lazy">
+    <img src="/uploads/2026/06/mitopro750xisthestrongestredlighttherapypanelathome.webp" alt="Mito Pro X 750 red light therapy panel" class="rounded-lg shadow-sm w-full" loading="lazy">
     <div>
         <p class="mb-4">The Mito Pro X 750 is my personal choice and a powerhouse for at-home use. It offers five targeted wavelengths for comprehensive results. For a deeper dive, check out our full <a href="/mito-pro-x-750-review/" class="text-content-link">Mito Pro X 750 review</a>.</p>
         <ul class="list-disc list-inside space-y-2 mb-4">
@@ -172,7 +172,7 @@ category: red-light-recovery
 <h3 class="text-2xl font-bold mb-2">3. Infraredi Flex Max</h3>
 <p class="text-accent font-semibold mb-4">Best Red Light Therapy Canada & Medical-Grade Quality</p>
 <div class="grid md:grid-cols-2 gap-6">
-    <img src="/uploads/2025/06/4_d8347f021d124b2787e51d5271648313.png" alt="Infraredi Flex Max, the best red light therapy panel in Canada" class="rounded-lg shadow-sm w-full" loading="lazy">
+    <img src="/uploads/2026/06/4_d8347f021d124b2787e51d5271648313.png" alt="Infraredi Flex Max, the best red light therapy panel in Canada" class="rounded-lg shadow-sm w-full" loading="lazy">
     <div>
         <p class="mb-4">The Infraredi Flex Max is a top-tier, medical-grade device approved by Health Canada, making it our top pick for the best red light therapy in Canada. See more in our <a href="/infraredi-reviews/" class="text-content-link">Infraredi reviews</a>.</p>
         <ul class="list-disc list-inside space-y-2 mb-4">
@@ -194,7 +194,7 @@ category: red-light-recovery
 <h3 class="text-2xl font-bold mb-2">4. Kala Pro</h3>
 <p class="text-accent font-semibold mb-4">Best for Skin Health, Pain & Inflammation</p>
 <div class="grid md:grid-cols-2 gap-6">
-    <img src="/uploads/2025/06/kalaproisoneofthebestredlightpanelsincanada_43aefaecac814b4ca9c5dac17e65579b.webp" alt="Kala Pro red light panel" class="rounded-lg shadow-sm w-full" loading="lazy">
+    <img src="/uploads/2026/06/kalaproisoneofthebestredlightpanelsincanada_43aefaecac814b4ca9c5dac17e65579b.webp" alt="Kala Pro red light panel" class="rounded-lg shadow-sm w-full" loading="lazy">
     <div>
         <p class="mb-4">First seen on Dragon's Den, the Kala Pro delivers fantastic results for skin, joint pain, and sleep quality. Read our complete <a href="/kala-red-light-therapy-review/" class="text-content-link">Kala Red Light Therapy review</a> or see how it stacks up in our <a href="/infraredi-vs-kala/" class="text-content-link">Infraredi vs Kala comparison</a>.</p>
         <ul class="list-disc list-inside space-y-2 mb-4">
@@ -216,7 +216,7 @@ category: red-light-recovery
 <h3 class="text-2xl font-bold mb-2">5. Platinum BioMax 900</h3>
 <p class="text-accent font-semibold mb-4">Strongest & Most Advanced At-Home Panel</p>
 <div class="grid md:grid-cols-2 gap-6">
-    <img src="/uploads/2025/06/PlatinumLEDTherapyLightsBIOMAX900.webp" alt="Platinum BioMax 900, one of the best red light therapy panels 2026" class="rounded-lg shadow-sm w-full" loading="lazy">
+    <img src="/uploads/2026/06/PlatinumLEDTherapyLightsBIOMAX900.webp" alt="Platinum BioMax 900, one of the best red light therapy panels 2026" class="rounded-lg shadow-sm w-full" loading="lazy">
     <div>
         <p class="mb-4">For those seeking the absolute strongest, clinical-grade therapy at home, the BioMax series is unmatched. It features an impressive seven wavelengths for superior, comprehensive results. Get all the details in our <a href="/platinum-led-therapy-lights-review/" class="text-content-link">Platinum LED Therapy Lights review</a>.</p>
         <ul class="list-disc list-inside space-y-2 mb-4">

@@ -153,7 +153,7 @@ seoTitle: 'Kala Red Light Review 2026: Real Results After 6 Months'
                     <div class="bg-green-100 text-green-800 px-4 py-2 rounded-full text-sm font-semibold">2 Years Regular Use</div>
                 </div>
                 <p class="text-xl text-gray-800 leading-relaxed mb-4 font-medium">
-                    I've been using <strong>Kala devices for 2 years</strong>—the Pro Panel since 2024, and the Face Mask and PEMF Mat for over a year. As an award-winning clinic owner and certified athletic therapist in Canada, I'll share my honest experience with what actually works and what you need to know before buying.
+                    I've been using <strong>Kala devices for 2 years</strong>—the Pro Panel since 2026, and the Face Mask and PEMF Mat for over a year. As an award-winning clinic owner and certified athletic therapist in Canada, I'll share my honest experience with what actually works and what you need to know before buying.
                 </p>
                 <p class="text-lg text-gray-700 leading-relaxed">
                     <strong>Quick Answer:</strong> These devices work, but they're not magic. The PEMF Mat helped me recover from a serious car accident, the Mask cleared a client's severe eczema in 2 weeks, and the Pro Panel is my weekly go-to for recovery. If you're willing to use them consistently, they're worth the investment.
@@ -297,8 +297,8 @@ seoTitle: 'Kala Red Light Review 2026: Real Results After 6 Months'
                             <h4 class="font-bold">Clinic Recognition</h4>
                         </div>
                         <ul class="text-sm text-gray-700 space-y-1">
-                            <li>• 2022-2025: Best Massage Clinic (Platinum)</li>
-                            <li>• 2022-2025: Best Physio/Rehab (Platinum)</li>
+                            <li>• 2022-2026: Best Massage Clinic (Platinum)</li>
+                            <li>• 2022-2026: Best Physio/Rehab (Platinum)</li>
                             <li>• Community Votes Victoria Winner</li>
                             <li>• Thousands of patients treated since 2015</li>
                         </ul>

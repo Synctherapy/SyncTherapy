@@ -1,6 +1,6 @@
 ---
 title: Best Red Light Therapy Masks in Canada (2026 Review)
-date: '2024-03-11 07:00:00'
+date: '2026-03-11 07:00:00'
 slug: best-red-light-therapy-mask
 description: >-
   Comparing the best red light therapy masks available in Canada for 2026. LED
@@ -237,7 +237,7 @@ seoTitle: Best Red Light Therapy Masks Canada (2026)
                     <h3 class="text-2xl font-bold">2. Omnilux Contour FACE</h3>
                     <p class="text-accent font-semibold mb-4">Best for Anti-Aging & Younger Looking Skin</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="/uploads/content/the-omnilux-contour-face-mask-is-a-top-rated-best-red-light-therapy-face-mask-to-help-with-aging_71d55d7a-eda3-44bb-ac46-f828263b1a50.webp" onerror="this.onerror=null;this.src="/uploads/2025/11/Contour_Face_Cover_Image.jpg";" alt="The Omnilux Contour led light therapy mask, a popular choice in Canada for anti-aging." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/the-omnilux-contour-face-mask-is-a-top-rated-best-red-light-therapy-face-mask-to-help-with-aging_71d55d7a-eda3-44bb-ac46-f828263b1a50.webp" onerror="this.onerror=null;this.src="/uploads/2026/11/Contour_Face_Cover_Image.jpg";" alt="The Omnilux Contour led light therapy mask, a popular choice in Canada for anti-aging." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">A dermatologist-recommended, FDA-cleared mask celebrated for its anti-aging results. It's clinically proven to reduce fine lines, pigmentation, and redness for a plumper, brighter complexion. The mask utilizes advanced red light therapy technology, which is not only effective for skin rejuvenation but also ranks among the <a href="/fda-approved-red-light-therapy-devices-for-pain/">best red light devices for pain</a> relief. Users have reported significant improvements in their skin texture and overall appearance after just a few weeks of consistent use. Incorporating this innovative mask into your skincare routine can lead to long-lasting, youthful results.</p>
                              <ul class="list-disc list-inside space-y-2 mb-4">
@@ -313,7 +313,7 @@ seoTitle: Best Red Light Therapy Masks Canada (2026)
                     <h3 class="text-2xl font-bold">6. Infraredi LED Light Therapy Mask</h3>
                     <p class="text-accent font-semibold mb-4">Best Medical-Grade for Wrinkles & Acne</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="/uploads/content/Infraredi-LED-Light-Therapy-Mask-using-red-light-to-improve-wrinkles-and-skin-health_224f2455-418c-43f5-9d7d-2e91414bbbec.webp" onerror="this.onerror=null;this.src="/uploads/2025/11/infraredi-red-light-therapy-mask-at-home.webp";" alt="The Infraredi LED Light Therapy Mask, a medical-grade option available in Canada." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/Infraredi-LED-Light-Therapy-Mask-using-red-light-to-improve-wrinkles-and-skin-health_224f2455-418c-43f5-9d7d-2e91414bbbec.webp" onerror="this.onerror=null;this.src="/uploads/2026/11/infraredi-red-light-therapy-mask-at-home.webp";" alt="The Infraredi LED Light Therapy Mask, a medical-grade option available in Canada." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">This medical-grade option utilizes both red (630nm) and near-infrared (850nm) light for a powerful, dual-action approach to treating both wrinkles and acne with clinical precision. For more, read our <a data-wpil="url" href="/infraredi-reviews/" class="text-primary hover:underline font-semibold">Infraredi reviews</a>. This innovative treatment harnesses the power of light to penetrate deep into the skin, promoting collagen production and accelerating healing. Many users have reported visible improvements in skin texture and tone, highlighting the impressive <a href="/red-light-therapy-and-stretch-marks/">red light therapy benefits for skin</a>. Incorporating this advanced technology into your skincare routine can result in a more youthful and radiant complexion.</p>
                              <ul class="list-disc list-inside space-y-2 mb-4">

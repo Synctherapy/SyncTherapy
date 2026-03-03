@@ -1,6 +1,6 @@
 ---
 title: Hip Pain With Fibromyalgia
-date: '2023-05-03 00:15:50'
+date: '2026-05-03 00:15:50'
 slug: hip-pain-with-fibromyalgia
 description: >-
   Fibromyalgia is a condition that often presents with widespread

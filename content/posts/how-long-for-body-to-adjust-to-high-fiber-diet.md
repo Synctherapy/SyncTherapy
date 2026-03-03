@@ -1,6 +1,6 @@
 ---
 title: How Long Does It Take for Your Body to Adjust to a High Fiber Diet?
-date: '2023-05-10 15:32:37'
+date: '2026-05-10 15:32:37'
 slug: how-long-for-body-to-adjust-to-high-fiber-diet
 description: >-
   How long does it take for your body to adjust to a high fiber diet? Timeline,

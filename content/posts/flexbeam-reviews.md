@@ -1,6 +1,6 @@
 ---
 title: 'FlexBeam Review 2026: Recharge Health Red Light Therapy Device'
-date: '2024-04-11 17:49:13'
+date: '2026-04-11 17:49:13'
 slug: flexbeam-reviews
 description: >-
   FlexBeam red light therapy review for 2026. Portable targeted device tested by
@@ -22,8 +22,8 @@ seoTitle: 'FlexBeam Review 2026: Portable Red Light Device'
   },
   "headline": "FlexBeam Review 2026: Recharge Health Red Light Therapy Device",
   "description": "I give my flexbeam review on whether it is worth it and why i suggest it as an award winning therapist. Learn about my flexbeam red light therapy reviews",
-  "datePublished": "2024-03-15T08:00:00-05:00",
-  "dateModified": "2025-12-27T09:00:00-08:00",
+  "datePublished": "2026-03-15T08:00:00-05:00",
+  "dateModified": "2026-12-27T09:00:00-08:00",
   "author": {
     "@type": "Person",
     "name": "Daryl Stubbs",
@@ -273,7 +273,7 @@ seoTitle: 'FlexBeam Review 2026: Portable Red Light Device'
                 <div>
                     <div class="video-container">
                         <video controls preload="metadata">
-                            <source src="/uploads/2025/12/recharge-health-flexbeam-reviews.mp4" type="video/mp4">
+                            <source src="/uploads/2026/12/recharge-health-flexbeam-reviews.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
                     </div>
@@ -295,7 +295,7 @@ seoTitle: 'FlexBeam Review 2026: Portable Red Light Device'
                     <div>
                         <h4 class="font-semibold text-primary mb-2">What the Research Shows:</h4>
                         <ul class="text-sm text-gray-700 space-y-2">
-                            <li><i class="fas fa-check text-green-500 mr-2"></i>A 2023 review in the <em>European Journal of Physical and Rehabilitation Medicine</em> found PBM effective for musculoskeletal pain control (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9980499/" target="_blank" rel="nofollow" class="study-link">PMC9980499</a>)</li>
+                            <li><i class="fas fa-check text-green-500 mr-2"></i>A 2026 review in the <em>European Journal of Physical and Rehabilitation Medicine</em> found PBM effective for musculoskeletal pain control (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9980499/" target="_blank" rel="nofollow" class="study-link">PMC9980499</a>)</li>
                             <li><i class="fas fa-check text-green-500 mr-2"></i>Meta-analysis showed PBM can reduce pain intensity in knee osteoarthritis patients (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10531845/" target="_blank" rel="nofollow" class="study-link">PMC10531845</a>)</li>
                             <li><i class="fas fa-check text-green-500 mr-2"></i>Clinical trials demonstrate significant improvements in fibromyalgia pain severity (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12326686/" target="_blank" rel="nofollow" class="study-link">PMC12326686</a>)</li>
                         </ul>
@@ -318,7 +318,7 @@ seoTitle: 'FlexBeam Review 2026: Portable Red Light Device'
             <div class="bg-yellow-50 p-4 rounded-lg border-l-4 border-accent mb-4">
                 <p class="font-semibold text-primary"><i class="fas fa-quote-left mr-2"></i>From the Research:</p>
                 <p class="text-sm text-gray-700 italic">"Photobiomodulation therapy applied in the form of low-intensity LASER and LED has been shown to reduce inflammation and swelling, promote healing, and reduce pain for an array of musculoskeletal conditions."</p>
-                <p class="text-xs text-gray-500 mt-1">— European Journal of Physical and Rehabilitation Medicine, 2023</p>
+                <p class="text-xs text-gray-500 mt-1">— European Journal of Physical and Rehabilitation Medicine, 2026</p>
             </div>
 
             <p class="text-sm text-gray-600">For more on the science, see my guide on <a href="/red-light-therapy/" class="text-primary hover:underline font-semibold">photobiomodulation explained</a>.</p>
@@ -404,7 +404,7 @@ seoTitle: 'FlexBeam Review 2026: Portable Red Light Device'
                 <div>
                     <div class="video-container mb-4">
                         <video controls preload="metadata">
-                            <source src="/uploads/2025/12/recharge-flexbeam-review.mp4" type="video/mp4">
+                            <source src="/uploads/2026/12/recharge-flexbeam-review.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
                     </div>
@@ -464,7 +464,7 @@ seoTitle: 'FlexBeam Review 2026: Portable Red Light Device'
                 <div>
                     <div class="video-container mb-4">
                         <video controls preload="metadata">
-                            <source src="/uploads/2025/12/my-flexbeam-review-for-knee-pain.mp4" type="video/mp4">
+                            <source src="/uploads/2026/12/my-flexbeam-review-for-knee-pain.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
                     </div>
@@ -490,7 +490,7 @@ seoTitle: 'FlexBeam Review 2026: Portable Red Light Device'
                 <div>
                     <div class="video-container mb-4">
                         <video controls preload="metadata">
-                            <source src="/uploads/2025/12/recharge-flex-beam-review-for-neck-pain.mp4" type="video/mp4">
+                            <source src="/uploads/2026/12/recharge-flex-beam-review-for-neck-pain.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
                     </div>
@@ -689,7 +689,7 @@ seoTitle: 'FlexBeam Review 2026: Portable Red Light Device'
                 <div>
                     <div class="video-container">
                         <video controls preload="metadata">
-                            <source src="/uploads/2025/12/recharge-flexbeam-reviews-.mp4" type="video/mp4">
+                            <source src="/uploads/2026/12/recharge-flexbeam-reviews-.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
                     </div>
@@ -771,8 +771,8 @@ seoTitle: 'FlexBeam Review 2026: Portable Red Light Device'
             <h2 class="!mt-0"><i class="fas fa-book-open text-accent mr-2"></i>Scientific References</h2>
             <ol class="text-sm text-gray-700 space-y-2 list-decimal list-inside">
                 <li>Hamblin MR. "Mechanisms and applications of the anti-inflammatory effects of photobiomodulation." <em>AIMS Biophys.</em> 2017. <a href="https://pubmed.ncbi.nlm.nih.gov/28748217/" target="_blank" rel="nofollow" class="study-link">PubMed</a></li>
-                <li>Stausholm MB, et al. "Low-intensity LASER and LED for pain control of musculoskeletal conditions." <em>Eur J Phys Rehabil Med.</em> 2023. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9980499/" target="_blank" rel="nofollow" class="study-link">PMC</a></li>
-                <li>Yeh SW, et al. "Photobiomodulation Therapy for Arthritis." <em>Int J Mol Sci.</em> 2023. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10531845/" target="_blank" rel="nofollow" class="study-link">PMC</a></li>
+                <li>Stausholm MB, et al. "Low-intensity LASER and LED for pain control of musculoskeletal conditions." <em>Eur J Phys Rehabil Med.</em> 2026. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9980499/" target="_blank" rel="nofollow" class="study-link">PMC</a></li>
+                <li>Yeh SW, et al. "Photobiomodulation Therapy for Arthritis." <em>Int J Mol Sci.</em> 2026. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10531845/" target="_blank" rel="nofollow" class="study-link">PMC</a></li>
                 <li>Brosseau L, et al. "Low level laser therapy for osteoarthritis and rheumatoid arthritis." <em>J Rheumatol.</em> 2000. <a href="https://pubmed.ncbi.nlm.nih.gov/10955339/" target="_blank" rel="nofollow" class="study-link">PubMed</a></li>
                 <li>Alayat MS, et al. "Laser photobiomodulation vs ultrasound for chronic low back pain." <em>Lasers Med Sci.</em> 2019. <a href="https://pubmed.ncbi.nlm.nih.gov/30334124/" target="_blank" rel="nofollow" class="study-link">PubMed</a></li>
                 <li>Ozdemir F, et al. "Low-power laser therapy for cervical osteoarthritis." <em>Clin Rheumatol.</em> 2001. <a href="https://pubmed.ncbi.nlm.nih.gov/11434469/" target="_blank" rel="nofollow" class="study-link">PubMed</a></li>

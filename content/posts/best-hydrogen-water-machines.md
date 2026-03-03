@@ -227,7 +227,7 @@ category: gut-health-nutrition
 <p class="text-accent font-semibold mb-4">Best Portable Hydrogen Water Bottle</p>
 
 <div class="grid md:grid-cols-2 gap-6">
-    <img src="/uploads/2025/07/echo-flask-is-gary-breckas-hydrogen-water-bottle-recommendation.jpg" alt="Echo Flask hydrogen water bottle - best portable hydrogen water machine with 8 PPM output" class="rounded-lg shadow-sm w-full" loading="lazy">
+    <img src="/uploads/2026/07/echo-flask-is-gary-breckas-hydrogen-water-bottle-recommendation.jpg" alt="Echo Flask hydrogen water bottle - best portable hydrogen water machine with 8 PPM output" class="rounded-lg shadow-sm w-full" loading="lazy">
     <div>
         <p class="mb-4">The Echo Flask delivers what no other portable hydrogen water bottle can match: <strong>lab-verified 8 PPM hydrogen concentration</strong>—4-5x higher than most competitors. After using Echo bottles daily for over a year, including both the older Echo Go Plus models and the newer Flask, the difference in build quality and performance is clear.</p>
 
@@ -269,7 +269,7 @@ category: gut-health-nutrition
 <p class="text-accent font-semibold mb-4">Best Overall Machine for Purity & Versatility</p>
 
 <div class="grid md:grid-cols-2 gap-6">
-    <img src="/uploads/2025/07/lourdes-hydrofix-hydrogen-water-machine.webp" alt="Lourdes Hydrofix Premium Edition hydrogen water machine" class="rounded-lg shadow-sm w-full" loading="lazy">
+    <img src="/uploads/2026/07/lourdes-hydrofix-hydrogen-water-machine.webp" alt="Lourdes Hydrofix Premium Edition hydrogen water machine" class="rounded-lg shadow-sm w-full" loading="lazy">
     <div>
         <p class="mb-4">If you want the absolute best hydrogen water machine regardless of price, the Lourdes Hydrofix Premium Edition is it. This Japanese-engineered machine uses <strong>separate chamber electrolysis</strong>—the key technology that sets it apart from everything else.</p>
 
@@ -353,7 +353,7 @@ category: gut-health-nutrition
 <p class="text-accent font-semibold mb-4">Best Budget Option</p>
 
 <div class="grid md:grid-cols-2 gap-6">
-    <img src="/uploads/2025/07/echo-hydrogen-pitcher.webp" alt="Echo Hydrogen Pitcher - best budget hydrogen water machine" class="rounded-lg shadow-sm w-full" loading="lazy">
+    <img src="/uploads/2026/07/echo-hydrogen-pitcher.webp" alt="Echo Hydrogen Pitcher - best budget hydrogen water machine" class="rounded-lg shadow-sm w-full" loading="lazy">
     <div>
         <p class="mb-4">Not everyone needs—or can afford—a $2,000+ countertop machine. The Echo Hydrogen Pitcher offers an accessible entry point at just $499, with legitimate PPM levels and the same 5-year warranty as more expensive Echo products.</p>
 
@@ -381,7 +381,7 @@ category: gut-health-nutrition
 
 <div class="bg-blue-50 border-l-4 border-primary p-4 rounded-lg">
     <p class="font-semibold text-primary text-lg">"The greatest biohack on Earth"</p>
-    <p class="text-gray-600 text-sm">— Gary Brecka on hydrogen water, Joe Rogan Experience (November 9, 2023)</p>
+    <p class="text-gray-600 text-sm">— Gary Brecka on hydrogen water, Joe Rogan Experience (November 9, 2026)</p>
 </div>
 
 <p><strong>Short answer:</strong> Gary Brecka recommends and uses <strong>Echo hydrogen water products</strong>, specifically the Echo Flask for portable use. He previously promoted the Echo Go+, which has since been discontinued and replaced by the Flask.</p>

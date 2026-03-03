@@ -1,6 +1,6 @@
 ---
 title: 'Gut Health Diet: Simple Steps for a Happier Tummy'
-date: '2024-11-28 19:31:24'
+date: '2026-11-28 19:31:24'
 slug: gut-health-diet-simple-steps-for-a-happier-tummy
 description: >-
   Eating the right foods can make a big difference for your gut health. The gut

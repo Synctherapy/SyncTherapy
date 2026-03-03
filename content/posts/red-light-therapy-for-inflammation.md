@@ -1,6 +1,6 @@
 ---
 title: Effective Red Light Therapy for Inflammation Relief | Does It Work
-date: '2024-02-15 19:27:28'
+date: '2026-02-15 19:27:28'
 slug: red-light-therapy-for-inflammation
 description: >-
   Dive into the healing powers of Red Light Therapy for inflammation, a

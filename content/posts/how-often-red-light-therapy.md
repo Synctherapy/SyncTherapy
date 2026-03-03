@@ -1,6 +1,6 @@
 ---
 title: How Often Red Light Therapy is Recommended for Optimal Results
-date: '2024-02-16 06:31:22'
+date: '2026-02-16 06:31:22'
 slug: how-often-red-light-therapy
 description: >-
   Embarking on a journey with Red Light Therapy (RLT) opens up a world of

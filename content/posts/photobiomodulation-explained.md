@@ -1,6 +1,6 @@
 ---
 title: 'Photobiomodulation Explained: Unveiling the Healing Power of Light Therapy'
-date: '2025-06-19 10:08:57'
+date: '2026-06-19 10:08:57'
 slug: photobiomodulation-explained
 description: >-
   Photobiomodulation (PBM) is a form of light therapy that utilizes non-ionizing

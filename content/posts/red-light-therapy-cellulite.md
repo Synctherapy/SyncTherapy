@@ -1,6 +1,6 @@
 ---
 title: 'Red Light Therapy Cellulite:Does It Actually Work?'
-date: '2024-02-15 17:18:15'
+date: '2026-02-15 17:18:15'
 slug: red-light-therapy-cellulite
 description: >-
   Can red light therapy reduce cellulite? An honest look at the research,

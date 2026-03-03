@@ -2,7 +2,7 @@
 title: >-
   Gary Brecka Supplements: List, Recommendations for MTHFR, Anxiety, Sleep &amp;
   More
-date: '2024-01-10 08:00:00'
+date: '2026-01-10 08:00:00'
 slug: gary-brecka-supplements
 description: >-
   Gary Brecka supplement recommendations for 2026. His exact products, dosages,
@@ -182,7 +182,7 @@ seoTitle: 'Gary Brecka Supplements: His Full 2026 Protocol'
 
                     <!-- Product Card: Hydrogen Water -->
                     <div id="hydrogen-water" class="product-card grid grid-cols-1 md:grid-cols-2 gap-6">
-                        <img src="/uploads/2025/06/echolisting_Annaedit10_1.jpg" alt="Echo Go Plus hydrogen water bottle, a top Gary Brecka health supplement" loading="lazy">
+                        <img src="/uploads/2026/06/echolisting_Annaedit10_1.jpg" alt="Echo Go Plus hydrogen water bottle, a top Gary Brecka health supplement" loading="lazy">
                         <div>
                             <h3 class="h3-custom font-extrabold mb-3">Hydrogen Water Supplement: Reduce Inflammation with Echo Go Plus</h3>
                             <p class="voted-best-for">Voted Best For: <span class="text-primary-blue">Anti-oxidants and Reducing Inflammation</span></p>
@@ -199,7 +199,7 @@ seoTitle: 'Gary Brecka Supplements: His Full 2026 Protocol'
 
                     <!-- Product Card: Perfect Aminos -->
                     <div id="perfect-aminos" class="product-card grid grid-cols-1 md:grid-cols-2 gap-6">
-                        <img src="/uploads/2025/07/perfect-amino-reviews-is-the-amino-acid-supplement-gary-brecka-recommends-.webp" alt="Perfect Aminos, a top Gary Brecka supplement for muscle preservation" loading="lazy">
+                        <img src="/uploads/2026/07/perfect-amino-reviews-is-the-amino-acid-supplement-gary-brecka-recommends-.webp" alt="Perfect Aminos, a top Gary Brecka supplement for muscle preservation" loading="lazy">
                         <div>
                             <h3 class="h3-custom font-extrabold mb-3">Perfect Aminos: Gary Brecka's Favorite Amino Acid Supplement</h3>
                             <p class="voted-best-for">Voted Best For: <span class="text-primary-blue">Best amino acid for preserving muscle</span></p>
@@ -214,7 +214,7 @@ seoTitle: 'Gary Brecka Supplements: His Full 2026 Protocol'
 
                     <!-- Product Card: Gut Restore -->
                     <div id="gut-restore" class="product-card grid grid-cols-1 md:grid-cols-2 gap-6">
-                        <img src="/uploads/2025/12/BodyHealth-Gut-Restore-a-Gary-Brecka-recommended-supplement-for-gut-health.webp" alt="BodyHealth Gut Restore, a Gary Brecka recommended supplement for gut health" loading="lazy">
+                        <img src="/uploads/2026/12/BodyHealth-Gut-Restore-a-Gary-Brecka-recommended-supplement-for-gut-health.webp" alt="BodyHealth Gut Restore, a Gary Brecka recommended supplement for gut health" loading="lazy">
                         <div>
                             <h3 class="h3-custom font-extrabold mb-3">Gut Restore by BodyHealth: Improve Gut Health with Gary Brecka's Recommendation</h3>
                             <p class="voted-best-for">Voted Best For: <span class="text-primary-blue">Improving Gut Health</span></p>
@@ -227,7 +227,7 @@ seoTitle: 'Gary Brecka Supplements: His Full 2026 Protocol'
 
                     <!-- Product Card: L-Methylfolate -->
                     <div id="l-methylfolate" class="product-card grid grid-cols-1 md:grid-cols-2 gap-6">
-                        <img src="/uploads/2025/12/thorne-L-Methylfolate-a-key-Gary-Brecka-supplement-for-MTHFR-and-anxiety.jpg" alt="L-Methylfolate, a key Gary Brecka supplement for MTHFR and anxiety" loading="lazy">
+                        <img src="/uploads/2026/12/thorne-L-Methylfolate-a-key-Gary-Brecka-supplement-for-MTHFR-and-anxiety.jpg" alt="L-Methylfolate, a key Gary Brecka supplement for MTHFR and anxiety" loading="lazy">
                         <div>
                             <h3 class="h3-custom font-extrabold mb-3">L-Methylfolate: Essential for MTHFR & Anxiety Support</h3>
                             <p class="voted-best-for">Voted Best For: <span class="text-primary-blue">Use this if you have an MTHFR mutation</span></p>
@@ -242,7 +242,7 @@ seoTitle: 'Gary Brecka Supplements: His Full 2026 Protocol'
 
                     <!-- Product Card: Methylated Multivitamin -->
                     <div id="methylated-multivitamin" class="product-card grid grid-cols-1 md:grid-cols-2 gap-6">
-                        <img src="/uploads/2025/12/Pure-Encapsulations-Methylated-Multivitamin-a-top-Gary-Brecka-supplement.jpg" alt="Pure Encapsulations Methylated Multivitamin, a top Gary Brecka supplement" loading="lazy">
+                        <img src="/uploads/2026/12/Pure-Encapsulations-Methylated-Multivitamin-a-top-Gary-Brecka-supplement.jpg" alt="Pure Encapsulations Methylated Multivitamin, a top Gary Brecka supplement" loading="lazy">
                         <div>
                             <h3 class="h3-custom font-extrabold mb-3">Methylated Multivitamin: Best for Methylation Support</h3>
                             <p class="voted-best-for">Voted Best For: <span class="text-primary-blue">Best Methylated Multivitamin</span></p>
@@ -256,7 +256,7 @@ seoTitle: 'Gary Brecka Supplements: His Full 2026 Protocol'
 
                     <!-- Product Card: Electrolytes -->
                     <div id="electrolytes" class="product-card grid grid-cols-1 md:grid-cols-2 gap-6">
-                        <img src="/uploads/2025/12/LMNT-Electrolytes-a-Gary-Brecka-recommended-supplement-for-hydration.jpg" alt="LMNT Electrolytes, a Gary Brecka recommended supplement for hydration" loading="lazy">
+                        <img src="/uploads/2026/12/LMNT-Electrolytes-a-Gary-Brecka-recommended-supplement-for-hydration.jpg" alt="LMNT Electrolytes, a Gary Brecka recommended supplement for hydration" loading="lazy">
                         <div>
                             <h3 class="h3-custom font-extrabold mb-3">Electrolytes: Top Picks for Hydration & Energy</h3>
                             <p class="voted-best-for">Voted Best For: <span class="text-primary-blue">Best Electrolytes that taste quite good</span></p>
@@ -271,7 +271,7 @@ seoTitle: 'Gary Brecka Supplements: His Full 2026 Protocol'
 
                     <!-- Product Card: Essential Amino Acids -->
                     <div id="essential-amino-acids" class="product-card grid grid-cols-1 md:grid-cols-2 gap-6">
-                        <img src="/uploads/2025/07/perfect-amino-reviews-is-the-amino-acid-supplement-gary-brecka-recommends-.webp" alt="BodyHealth Perfect Amino + Electrolytes, a top Gary Brecka supplement combo" loading="lazy">
+                        <img src="/uploads/2026/07/perfect-amino-reviews-is-the-amino-acid-supplement-gary-brecka-recommends-.webp" alt="BodyHealth Perfect Amino + Electrolytes, a top Gary Brecka supplement combo" loading="lazy">
                         <div>
                             <h3 class="h3-custom font-extrabold mb-3">Essential Amino Acids: The Ultimate Recovery Combo</h3>
                             <p class="voted-best-for">Voted Best For: <span class="text-primary-blue">Best Amino Acids plus electrolytes combo</span></p>
@@ -296,7 +296,7 @@ seoTitle: 'Gary Brecka Supplements: His Full 2026 Protocol'
 
                     <!-- Product Card: Vitamin D by Thorne -->
                     <div id="vitamin-d-thorne" class="product-card grid grid-cols-1 md:grid-cols-2 gap-6">
-                        <img src="/uploads/2025/12/Thorne-Vitamin-D-supplement-recommended-by-Gary-Brecka-for-bone-health.jpg" alt="Thorne Vitamin D supplement, recommended by Gary Brecka for bone health" loading="lazy">
+                        <img src="/uploads/2026/12/Thorne-Vitamin-D-supplement-recommended-by-Gary-Brecka-for-bone-health.jpg" alt="Thorne Vitamin D supplement, recommended by Gary Brecka for bone health" loading="lazy">
                         <div>
                             <h3 class="h3-custom font-extrabold mb-3">Vitamin D by Thorne: A Key Gary Brecka Supplement for Overall Health</h3>
                             <p class="voted-best-for">Voted Best For: <span class="text-primary-blue">Best quality Vitamin D</span></p>
@@ -308,7 +308,7 @@ seoTitle: 'Gary Brecka Supplements: His Full 2026 Protocol'
 
                     <!-- Product Card: Magnesium by Pure Encapsulations -->
                     <div id="magnesium-pure-encapsulations" class="product-card grid grid-cols-1 md:grid-cols-2 gap-6">
-                        <img src="/uploads/2025/12/Pure-Encapsulations-Magnesium-Biglycinate-a-top-Gary-Brecka-supplement-for-relaxationPure-Encapsulations-Magnesium-Biglycinate-a-top-Gary-Brecka-supplement-for-relaxation.jpg" alt="Pure Encapsulations Magnesium Biglycinate, a top Gary Brecka supplement for relaxation" loading="lazy">
+                        <img src="/uploads/2026/12/Pure-Encapsulations-Magnesium-Biglycinate-a-top-Gary-Brecka-supplement-for-relaxationPure-Encapsulations-Magnesium-Biglycinate-a-top-Gary-Brecka-supplement-for-relaxation.jpg" alt="Pure Encapsulations Magnesium Biglycinate, a top Gary Brecka supplement for relaxation" loading="lazy">
                         <div>
                             <h3 class="h3-custom font-extrabold mb-3">Magnesium By Pure Encapsulations: Gary Brecka's Top Pick for Relaxation</h3>
                             <p class="voted-best-for">Voted Best For: <span class="text-primary-blue">Best Relaxation</span></p>
@@ -320,7 +320,7 @@ seoTitle: 'Gary Brecka Supplements: His Full 2026 Protocol'
 
                     <!-- Product Card: Theanine by Pure Encapsulations -->
                     <div id="theanine-pure-encapsulations" class="product-card grid grid-cols-1 md:grid-cols-2 gap-6">
-                        <img src="/uploads/2025/12/Pure-Encapsulations-L-Theanine-a-Gary-Brecka-supplement-for-sleep-and-anxiety.jpg" alt="Pure Encapsulations L-Theanine, a Gary Brecka supplement for sleep and anxiety" loading="lazy">
+                        <img src="/uploads/2026/12/Pure-Encapsulations-L-Theanine-a-Gary-Brecka-supplement-for-sleep-and-anxiety.jpg" alt="Pure Encapsulations L-Theanine, a Gary Brecka supplement for sleep and anxiety" loading="lazy">
                         <div>
                             <h3 class="h3-custom font-extrabold mb-3">Theanine By Pure Encapsulations: Relaxation for Sleep & Focus</h3>
                             <p class="voted-best-for">Voted Best For: <span class="text-primary-blue">Best Relaxation if you are ADHD</span></p>
@@ -332,7 +332,7 @@ seoTitle: 'Gary Brecka Supplements: His Full 2026 Protocol'
 
                     <!-- Product Card: Melatonin by Pure Encapsulations -->
                     <div id="melatonin-pure-encapsulations" class="product-card grid grid-cols-1 md:grid-cols-2 gap-6">
-                        <img src="/uploads/2025/12/Pure-Encapsulations-Melatonin-a-Gary-Brecka-supplement-to-help-fall-asleep.jpg" alt="Pure Encapsulations Melatonin, a Gary Brecka supplement to help fall asleep" loading="lazy">
+                        <img src="/uploads/2026/12/Pure-Encapsulations-Melatonin-a-Gary-Brecka-supplement-to-help-fall-asleep.jpg" alt="Pure Encapsulations Melatonin, a Gary Brecka supplement to help fall asleep" loading="lazy">
                         <div>
                             <h3 class="h3-custom font-extrabold mb-3">Melatonin By Pure Encapsulations: Gary Brecka's Choice for Falling Asleep</h3>
                             <p class="voted-best-for">Voted Best For: <span class="text-primary-blue">Best For Trouble Falling Asleep</span></p>

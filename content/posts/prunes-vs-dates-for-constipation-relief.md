@@ -1,6 +1,6 @@
 ---
 title: Prunes vs Dates for Constipation Relief
-date: '2023-05-06 20:49:40'
+date: '2026-05-06 20:49:40'
 slug: prunes-vs-dates-for-constipation-relief
 description: >-
   Prunes vs dates for constipation relief compared. Which fruit works better,
@@ -19,8 +19,8 @@ seoTitle: 'Prunes vs Dates for Constipation: Which Works?'
         "@type": "Organization",
         "name": "Sync Therapy"
       },
-      "datePublished": "2025-07-07",
-      "image": "/uploads/2025/07/Prunes-vs-Dates-for-Constipation-Relief-1.webp",
+      "datePublished": "2026-07-07",
+      "image": "/uploads/2026/07/Prunes-vs-Dates-for-Constipation-Relief-1.webp",
       "articleSection": "Health & Wellness",
       "abstract": "Are dates good for constipation? Yes. This article explores how dates help with constipation due to their high fiber content and compares them to prunes, which contain sorbitol, a powerful natural laxative. We cover the key differences and which is better for reliable relief.",
       "publisher": {
@@ -106,7 +106,7 @@ seoTitle: 'Prunes vs Dates for Constipation: Which Works?'
             <!-- Understanding Constipation -->
             <section id="understanding-constipation">
                 <h2 class="text-3xl font-bold">1. Understanding Constipation</h2>
-                 <img src="/uploads/2025/07/Prunes-vs-Dates-for-Constipation-Relief-1.webp" onerror="this.onerror=null;this.src='https://placehold.co/800x300/CCCCCC/333333?text=Digestive+Health';" alt="A split image showing a bowl of prunes on one side and a bowl of dates on the other, comparing them for constipation relief." class="rounded-lg shadow-lg mb-8 w-full">
+                 <img src="/uploads/2026/07/Prunes-vs-Dates-for-Constipation-Relief-1.webp" onerror="this.onerror=null;this.src='https://placehold.co/800x300/CCCCCC/333333?text=Digestive+Health';" alt="A split image showing a bowl of prunes on one side and a bowl of dates on the other, comparing them for constipation relief." class="rounded-lg shadow-lg mb-8 w-full">
                 <p class="mb-4">Constipation is a common <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ3V0LWhlYWx0aC1kaWV0LXNpbXBsZS1zdGVwcy1mb3ItYS1oYXBwaWVyLXR1bW15Lw==" href="/best-supplements-for-sibo/" class="text-primary hover:underline font-semibold">digestive problem</a> that occurs when stool moves too slowly through the colon. The longer it stays, the more water is absorbed, making it hard, dry, and difficult to pass. This can lead to discomfort, <a href="/best-prebiotics-and-probiotics-supplements/" class="text-primary hover:underline font-semibold">bloating</a>, and pain.</p>
                 <h3 class="text-xl font-semibold">Common Causes of Constipation</h3>
                 <ul class="list-disc list-inside space-y-2 mb-4 bg-white p-6 rounded-lg shadow-sm">
@@ -127,7 +127,7 @@ seoTitle: 'Prunes vs Dates for Constipation: Which Works?'
                     <!-- Prunes Card -->
                     <div class="bg-white p-6 rounded-lg shadow-md">
                         <h3 class="text-2xl font-bold mb-2">Prunes (4-5 fruits)</h3>
-                        <img src="/uploads/2025/07/prunes-vs-dates-1.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x250/CCCCCC/333333?text=Prunes';" alt="A close-up shot of dried prunes in a bowl, highlighting their texture." class="rounded-lg shadow-sm w-full mb-4">
+                        <img src="/uploads/2026/07/prunes-vs-dates-1.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x250/CCCCCC/333333?text=Prunes';" alt="A close-up shot of dried prunes in a bowl, highlighting their texture." class="rounded-lg shadow-sm w-full mb-4">
                         <ul class="list-disc list-inside space-y-1">
                             <li>~100 calories</li>
                             <li>~2 grams of fiber</li>
@@ -139,7 +139,7 @@ seoTitle: 'Prunes vs Dates for Constipation: Which Works?'
                     <!-- Dates Card -->
                     <div class="bg-white p-6 rounded-lg shadow-md">
                         <h3 class="text-2xl font-bold mb-2">Dates (3-4 fruits)</h3>
-                        <img src="/uploads/2025/07/do-dates-make-you-poop-1.jpeg" onerror="this.onerror=null;this.src='https://placehold.co/400x250/CCCCCC/333333?text=Dates';" alt="A bowl of medjool dates, illustrating the answer to the question do dates make you poop." class="rounded-lg shadow-sm w-full mb-4">
+                        <img src="/uploads/2026/07/do-dates-make-you-poop-1.jpeg" onerror="this.onerror=null;this.src='https://placehold.co/400x250/CCCCCC/333333?text=Dates';" alt="A bowl of medjool dates, illustrating the answer to the question do dates make you poop." class="rounded-lg shadow-sm w-full mb-4">
                         <ul class="list-disc list-inside space-y-1">
                             <li>~120 calories</li>
                             <li>~3 grams of fiber</li>
@@ -192,7 +192,7 @@ seoTitle: 'Prunes vs Dates for Constipation: Which Works?'
                     <h4 class="text-xl font-semibold text-primary">The Verdict: Are Dates or Prunes Better for Constipation?</h4>
                     <p class="mt-2 text-gray-700"><strong>For direct and effective constipation relief, prunes are the superior choice.</strong> Their high sorbitol content provides a natural laxative effect that dates cannot match. So, while dates help constipation with their fiber, prunes are a more potent natural laxative. Find out more about how certain foods <a href="/prunes-vs-dates-for-constipation-relief/" class="text-primary hover:underline font-semibold">make you poop</a>.</p>
                 </div>
-                 <img src="/uploads/2025/07/are-dates-good-for-constipation-1.jpeg" onerror="this.onerror=null;this.src='https://placehold.co/800x400/CCCCCC/333333?text=Dates+for+constipation';" alt="A person holding a handful of dates, questioning if dates are good for constipation." class="rounded-lg shadow-lg my-8 w-full">
+                 <img src="/uploads/2026/07/are-dates-good-for-constipation-1.jpeg" onerror="this.onerror=null;this.src='https://placehold.co/800x400/CCCCCC/333333?text=Dates+for+constipation';" alt="A person holding a handful of dates, questioning if dates are good for constipation." class="rounded-lg shadow-lg my-8 w-full">
             </section>
             
             <!-- How many to eat -->

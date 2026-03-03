@@ -92,7 +92,7 @@ category: red-light-recovery
 <h3 class="text-2xl font-bold mb-2">1. Terra Grounding Bed Sheet</h3>
 <p class="text-accent font-semibold mb-4">Best Overall for Comfort & Effectiveness</p>
 <div class="grid md:grid-cols-2 gap-6">
-    <img src="/uploads/2025/07/terra-therapy-grounding-sheet-for-inflammation.jpg" alt="Terra Grounding Bed Sheet for inflammation" class="rounded-lg shadow-sm w-full" loading="lazy">
+    <img src="/uploads/2026/07/terra-therapy-grounding-sheet-for-inflammation.jpg" alt="Terra Grounding Bed Sheet for inflammation" class="rounded-lg shadow-sm w-full" loading="lazy">
     <div>
         <p class="mb-4">The Terra Grounding Bed Sheet is an innovative bedding solution designed to enhance your life by connecting you to the earth's natural energy. Crafted from high-quality materials, it offers a seamless blend of comfort and functionality.</p>
         <ul class="list-disc list-inside space-y-2 mb-4">
@@ -111,7 +111,7 @@ category: red-light-recovery
 <h3 class="text-2xl font-bold mb-2">2. Grooni Earthing Grounding Mat</h3>
 <p class="text-accent font-semibold mb-4">Premium Wellness Sleep Mat</p>
 <div class="grid md:grid-cols-2 gap-6">
-    <img src="/uploads/2025/07/grooni-review-Grounding-Mat-for-Bed.webp" alt="Grooni Earthing Grounding Mat for bed" class="rounded-lg shadow-sm w-full" loading="lazy">
+    <img src="/uploads/2026/07/grooni-review-Grounding-Mat-for-Bed.webp" alt="Grooni Earthing Grounding Mat for bed" class="rounded-lg shadow-sm w-full" loading="lazy">
     <div>
         <p class="mb-4">Can't sleep well? Unlock the power of true rest—discover what this grounding pad can do for your sleep. This mat is designed to help you reconnect with the Earth while you sleep.</p>
         <ul class="list-disc list-inside space-y-2 mb-4">
@@ -130,7 +130,7 @@ category: red-light-recovery
 <h3 class="text-2xl font-bold mb-2">3. Earthing Elite Sleep Mat Kit</h3>
 <p class="text-accent font-semibold mb-4">Best Kit for a Complete Grounding System</p>
 <div class="grid md:grid-cols-2 gap-6">
-    <img src="/uploads/2025/07/2.-Earthing-Elite-Sleep-Mat-Kit-by-clint-ober.png" alt="Earthing Elite Sleep Mat Kit components by Clint Ober" class="rounded-lg shadow-sm w-full" loading="lazy">
+    <img src="/uploads/2026/07/2.-Earthing-Elite-Sleep-Mat-Kit-by-clint-ober.png" alt="Earthing Elite Sleep Mat Kit components by Clint Ober" class="rounded-lg shadow-sm w-full" loading="lazy">
     <div>
         <p class="mb-4">The Earthing Elite Sleep Mat Kit is designed to enhance your sleep by utilizing the benefits of an earthing sheet. This kit includes high-quality materials that mimic the conductive properties of earth for an effortless setup.</p>
         <ul class="list-disc list-inside space-y-2 mb-4">
@@ -149,7 +149,7 @@ category: red-light-recovery
 <h3 class="text-2xl font-bold mb-2">4. PANBMAO Grounding Fitted Sheet</h3>
 <p class="text-accent font-semibold mb-4">Best from Amazon</p>
 <div class="grid md:grid-cols-2 gap-6">
-    <img src="/uploads/2025/07/amazon-grounding-sheets-.jpg" alt="PANBMAO Grounding Fitted Sheet from Amazon" class="rounded-lg shadow-sm w-full" loading="lazy">
+    <img src="/uploads/2026/07/amazon-grounding-sheets-.jpg" alt="PANBMAO Grounding Fitted Sheet from Amazon" class="rounded-lg shadow-sm w-full" loading="lazy">
     <div>
         <p class="mb-4">The PANBMAO Grounding Fitted Sheet is a top choice for those seeking improved sleep and reduced pain. Crafted from fine thread, its intelligent design fits snugly on your bed, ensuring direct contact all night.</p>
         <ul class="list-disc list-inside space-y-2 mb-4">
@@ -168,7 +168,7 @@ category: red-light-recovery
 <h3 class="text-2xl font-bold mb-2">5. Earthing Harmony Grounding Sheets</h3>
 <p class="text-accent font-semibold mb-4">Best for Harmonious Sleep</p>
 <div class="grid md:grid-cols-2 gap-6">
-    <img src="/uploads/2025/07/Earthing-Grounding-Sheets-for-pain.webp" alt="Earthing Harmony Grounding Sheets for pain relief" class="rounded-lg shadow-sm w-full" loading="lazy">
+    <img src="/uploads/2026/07/Earthing-Grounding-Sheets-for-pain.webp" alt="Earthing Harmony Grounding Sheets for pain relief" class="rounded-lg shadow-sm w-full" loading="lazy">
     <div>
         <div class="flex items-center mb-2">
             <span class="text-accent font-bold text-lg mr-2">4.7/5</span>

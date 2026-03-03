@@ -2,7 +2,7 @@
 title: >-
   Viome Gut Intelligence Test Review: In-Depth Viome Reviews & Personal
   Experience
-date: '2023-06-27 03:44:03'
+date: '2026-06-27 03:44:03'
 slug: viome-review
 description: >-
   Viome gut intelligence test reviewed for 2026. Is this at-home microbiome test
@@ -250,8 +250,8 @@ seoTitle: 'Viome Gut Health Test Review 2026: Is It Worth It?'
                     <p>Overall, satisfied users report tangible health improvements (e.g., reduced IBS symptoms, weight loss, better sleep), while detractors highlight cost (test ~$279; retest ~$200), subscription-driven supplement sales, and support delays.</p>
                 </div>
                 <div class="grid md:grid-cols-2 gap-6 mt-6">
-                    <img src="/uploads/content/Screenshot_20230116-131819-461x1024.png" onerror="this.onerror=null;this.src='https://placehold.co/400x600/CCCCCC/333333?text=Viome+Results+1';" alt="Screenshot of Viome test results showing recommended foods." class="rounded-lg shadow-sm w-full">
-                    <img src="/uploads/content/Screenshot_20230116-131832-461x1024.png" onerror="this.onerror=null;this.src='https://placehold.co/400x600/CCCCCC/333333?text=Viome+Results+2';" alt="Screenshot of Viome gut microbiome test results analysis." class="rounded-lg shadow-sm w-full">
+                    <img src="/uploads/content/Screenshot_20260116-131819-461x1024.png" onerror="this.onerror=null;this.src='https://placehold.co/400x600/CCCCCC/333333?text=Viome+Results+1';" alt="Screenshot of Viome test results showing recommended foods." class="rounded-lg shadow-sm w-full">
+                    <img src="/uploads/content/Screenshot_20260116-131832-461x1024.png" onerror="this.onerror=null;this.src='https://placehold.co/400x600/CCCCCC/333333?text=Viome+Results+2';" alt="Screenshot of Viome gut microbiome test results analysis." class="rounded-lg shadow-sm w-full">
                 </div>
             </section>
 

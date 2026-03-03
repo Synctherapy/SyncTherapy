@@ -1,6 +1,6 @@
 ---
 title: 'Hydrogen Water vs Ionized Water: Unveiling the Health Benefits and Facts'
-date: '2024-03-23 17:58:14'
+date: '2026-03-23 17:58:14'
 slug: hydrogen-water-vs-ionized-water
 description: >-
   In the realm of health and wellness, there has been a recent surge of interest

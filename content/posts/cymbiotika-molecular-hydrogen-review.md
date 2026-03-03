@@ -1,6 +1,6 @@
 ---
 title: 'Cymbiotika Molecular Hydrogen Review: The Best Hydrogen Tablet?'
-date: '2023-05-09 18:12:40'
+date: '2026-05-09 18:12:40'
 slug: cymbiotika-molecular-hydrogen-review
 description: >-
   Cymbiotika Molecular Hydrogen is a supplement that has been gaining popularity

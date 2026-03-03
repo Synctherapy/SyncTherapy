@@ -1,6 +1,6 @@
 ---
 title: 'Gary Brecka Genetic Testing: Is It Worth It and How To Do It In Canada'
-date: '2025-02-03 03:28:53'
+date: '2026-02-03 03:28:53'
 slug: gary-brecka-genetic-testing
 description: >-
   Gary Brecka genetic testing explained. Is it worth it and how do Canadians

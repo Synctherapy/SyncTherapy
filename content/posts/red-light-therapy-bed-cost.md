@@ -1,6 +1,6 @@
 ---
 title: 'Red Light Therapy Bed Cost: Complete Pricing Guide [2026]'
-date: '2025-12-24 19:50:57'
+date: '2026-12-24 19:50:57'
 slug: red-light-therapy-bed-cost
 description: >-
   How much does a red light therapy bed cost in 2026? Full pricing guide
@@ -151,7 +151,7 @@ seoTitle: 'Red Light Therapy Bed Cost: 2026 Pricing Guide'
 
         <!-- Featured Image -->
         <section class="my-8">
-            <img src="/uploads/2025/12/red-light-therapy-bed-price.jpg" alt="Red light therapy bed cost comparison showing commercial and home use options" class="rounded-lg shadow-md w-full h-auto" onerror="this.onerror=null;this.src='https://placehold.co/800x400/2E5A88/FFFFFF?text=Red+Light+Therapy+Bed+Cost';">
+            <img src="/uploads/2026/12/red-light-therapy-bed-price.jpg" alt="Red light therapy bed cost comparison showing commercial and home use options" class="rounded-lg shadow-md w-full h-auto" onerror="this.onerror=null;this.src='https://placehold.co/800x400/2E5A88/FFFFFF?text=Red+Light+Therapy+Bed+Cost';">
         </section>
 
         <!-- Table of Contents -->
@@ -184,8 +184,8 @@ seoTitle: 'Red Light Therapy Bed Cost: 2026 Pricing Guide'
         <section class="bg-white p-6 rounded-lg shadow-md">
             <h3 class="text-xl font-bold mb-4"><i class="fas fa-video text-accent mr-2"></i>Red Light Therapy Bed Cost Breakdown</h3>
             <div class="video-container">
-                <video controls preload="metadata" poster="/uploads/2025/12/red-light-therapy-bed-price.jpg">
-                    <source src="/uploads/2025/12/red-light-therapy-bed-cost.mp4" type="video/mp4">
+                <video controls preload="metadata" poster="/uploads/2026/12/red-light-therapy-bed-price.jpg">
+                    <source src="/uploads/2026/12/red-light-therapy-bed-cost.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
             </div>
@@ -315,7 +315,7 @@ seoTitle: 'Red Light Therapy Bed Cost: 2026 Pricing Guide'
             <p class="mb-6 text-gray-700">Home red light therapy beds typically cost $3,000-$15,000. These are smaller, lower-powered units designed for personal use rather than commercial volume.</p>
 
             <!-- Image -->
-            <img src="/uploads/2025/12/cost-of-red-light-therapy-bed.webp" alt="Cost of red light therapy bed for home use" class="rounded-lg shadow-md w-full h-auto mb-6" onerror="this.onerror=null;this.src='https://placehold.co/800x400/2E5A88/FFFFFF?text=Home+Red+Light+Therapy+Bed';">
+            <img src="/uploads/2026/12/cost-of-red-light-therapy-bed.webp" alt="Cost of red light therapy bed for home use" class="rounded-lg shadow-md w-full h-auto mb-6" onerror="this.onerror=null;this.src='https://placehold.co/800x400/2E5A88/FFFFFF?text=Home+Red+Light+Therapy+Bed';">
 
             <div class="grid md:grid-cols-2 gap-6 mb-6">
                 <div class="price-card bg-white rounded-xl shadow-sm p-6 border-t-4 border-primary">
@@ -469,7 +469,7 @@ seoTitle: 'Red Light Therapy Bed Cost: 2026 Pricing Guide'
                 <h3 class="text-xl font-bold mb-4"><i class="fas fa-video text-accent mr-2"></i>Why Red Light Therapy Beds Are So Expensive</h3>
                 <div class="video-container">
                     <video controls preload="metadata">
-                        <source src="/uploads/2025/12/why-is-red-light-therapy-so-expensive.mp4" type="video/mp4">
+                        <source src="/uploads/2026/12/why-is-red-light-therapy-so-expensive.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
                 </div>

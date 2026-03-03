@@ -1,6 +1,6 @@
 ---
 title: 'Red Light Therapy on Stomach: Benefits &amp; How to Use'
-date: '2024-04-12 07:00:00'
+date: '2026-04-12 07:00:00'
 slug: red-light-therapy-for-gut-health
 description: >-
   Using red light therapy on your stomach for gut health. Research on IBS,
@@ -297,7 +297,7 @@ seoTitle: Red Light Therapy for Gut Health & Stomach Use
                         <p class="text-gray-700"><strong>Type 2 Diabetes Model (2022):</strong> Dual-wavelength (630nm + 850nm) PBM applied to the duodenum improved blood sugar and liver function while significantly altering gut microbiome composition—five bacterial genera showed beneficial changes. (<a href="https://doi.org/10.3390/cells11213490" target="_blank" rel="noopener" class="text-primary hover:underline font-semibold">DOI: 10.3390/cells11213490</a>)</p>
                     </div>
                     <div>
-                        <p class="text-gray-700"><strong>Intestinal Inflammation Study (2025):</strong> Comparing four wavelengths, researchers found 635nm most effective at reducing inflammatory markers (TNF-α, IL-6, IL-1β) in gut cells through the MAPK/NF-κB pathway. (<a href="https://doi.org/10.1016/j.jphotobiol.2025.113201" target="_blank" rel="noopener" class="text-primary hover:underline font-semibold">DOI: 10.1016/j.jphotobiol.2025.113201</a>)</p>
+                        <p class="text-gray-700"><strong>Intestinal Inflammation Study (2026):</strong> Comparing four wavelengths, researchers found 635nm most effective at reducing inflammatory markers (TNF-α, IL-6, IL-1β) in gut cells through the MAPK/NF-κB pathway. (<a href="https://doi.org/10.1016/j.jphotobiol.2026.113201" target="_blank" rel="noopener" class="text-primary hover:underline font-semibold">DOI: 10.1016/j.jphotobiol.2026.113201</a>)</p>
                     </div>
                 </div>
 
@@ -624,7 +624,7 @@ seoTitle: Red Light Therapy for Gut Health & Stomach Use
     "@type": "Organization",
     "name": "Sync Therapy"
   },
-  "dateModified": "2025-12-22",
+  "dateModified": "2026-12-22",
   "mainEntityOfPage": "https://synctherapylocal.local/red-light-therapy-for-gut-health/"
 }
 </script>

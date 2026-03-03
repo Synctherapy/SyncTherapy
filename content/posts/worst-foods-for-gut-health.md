@@ -1,6 +1,6 @@
 ---
 title: The Worst Foods To Eat For Your Gut Health In 2026
-date: '2025-06-19 10:09:16'
+date: '2026-06-19 10:09:16'
 slug: worst-foods-for-gut-health
 description: >-
   /* Custom styles based on the new design template */ body { font-family:
@@ -21,8 +21,8 @@ seoTitle: The Worst Foods To Eat For Your Gut Health In 2026
         "@type": "Organization",
         "name": "Sync Therapy"
       },
-      "datePublished": "2025-01-01",
-      "dateModified": "2025-01-01",
+      "datePublished": "2026-01-01",
+      "dateModified": "2026-01-01",
       "mainEntityOfPage": {
         "@type": "WebPage",
         "@id": "https://synctherapylocal.local/blogs/gut-health/foods-that-harm-gut-health"

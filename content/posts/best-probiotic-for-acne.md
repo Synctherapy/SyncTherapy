@@ -1,6 +1,6 @@
 ---
 title: The 6 Best Probiotics for Acne (2026) - What I'd Choose
-date: '2023-07-24 17:31:21'
+date: '2026-07-24 17:31:21'
 slug: best-probiotic-for-acne
 description: >-
   Six best probiotics for acne in 2026. Gut-skin axis strains selected by a
@@ -31,11 +31,11 @@ seoTitle: Best Probiotics for Acne (2026) — My Top 6 Picks
             "name": "Sync Therapy",
             "logo": {
               "@type": "ImageObject",
-              "url": "https://synctherapylocal.local/wp-content/uploads/2023/11/sync-therapy-logo.svg"
+              "url": "https://synctherapylocal.local/wp-content/uploads/2026/11/sync-therapy-logo.svg"
             }
           },
-          "datePublished": "2024-07-22",
-          "dateModified": "2024-07-22"
+          "datePublished": "2026-07-22",
+          "dateModified": "2026-07-22"
         },
         {
           "@type": "Product",

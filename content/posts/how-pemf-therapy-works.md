@@ -1,6 +1,6 @@
 ---
 title: 'How PEMF Therapy Works: Unveiling the Science Behind Magnetic Healing'
-date: '2024-05-22 12:56:55'
+date: '2026-05-22 12:56:55'
 slug: how-pemf-therapy-works
 description: >-
   Pulsed Electromagnetic Field (PEMF) therapy is gaining traction as a

@@ -1,6 +1,6 @@
 ---
 title: Mito Pro X 750 Review | Why I Use It As An Award Winning Therapist
-date: '2024-06-15 07:00:00'
+date: '2026-06-15 07:00:00'
 slug: mito-pro-x-750-review
 description: >-
   Mito Pro X 750 red light therapy panel reviewed by an award-winning therapist.
@@ -44,7 +44,7 @@ seoTitle: Mito Pro X 750 Review | Award-Winning RMT Tested
         "@type": "Organization",
         "name": "Sync Therapy"
       },
-      "datePublished": "2025-07-01",
+      "datePublished": "2026-07-01",
       "reviewBody": "As a healthcare professional, I use the MitoPRO X 750 in my clinic and personally. It's a game-changer for muscle recovery, collagen production, and improving conditions like arthritis. In my professional opinion, the MitoPRO 750 offers the best balance of power, size, and price on the market."
     }
     </script>

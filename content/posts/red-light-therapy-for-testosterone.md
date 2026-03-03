@@ -1,6 +1,6 @@
 ---
 title: 'Red Light Therapy for Testosterone: Science-Backed Guide (2026)'
-date: '2024-02-29 08:00:00'
+date: '2026-02-29 08:00:00'
 slug: red-light-therapy-for-testosterone
 description: >-
   Does red light therapy boost testosterone? The science-backed guide for 2026
@@ -24,7 +24,7 @@ seoTitle: Red Light Therapy for Testosterone (2026 Guide)
     "jobTitle": "RMT, CAT(C), Holistic Nutritionist",
     "url": "https://synctherapylocal.local/about-daryl-stubbs/"
   },
-  "datePublished": "2024-09-20",
+  "datePublished": "2026-09-20",
   "dateModified": "2026-01-13",
   "publisher": {
     "@type": "Organization",
@@ -32,7 +32,7 @@ seoTitle: Red Light Therapy for Testosterone (2026 Guide)
     "url": "https://synctherapylocal.local/",
     "logo": {
       "@type": "ImageObject",
-      "url": "/uploads/2025/07/cropped-sync-therapy-favicon-192x192.png"
+      "url": "/uploads/2026/07/cropped-sync-therapy-favicon-192x192.png"
     }
   },
   "mainEntityOfPage": {
@@ -296,15 +296,15 @@ seoTitle: Red Light Therapy for Testosterone (2026 Guide)
                     </div>
 
                     <div class="border-l-4 border-green-500 bg-green-50 p-4 rounded-r-lg">
-                        <h4 class="font-bold text-primary mb-2">PBM Improves Histological Parameters (2024)</h4>
+                        <h4 class="font-bold text-primary mb-2">PBM Improves Histological Parameters (2026)</h4>
                         <p class="text-sm text-gray-700 mb-2">Research in the <em>Journal of Lasers in Medical Sciences</em> demonstrated that photobiomodulation at 890nm improved testicular histology, increased testosterone levels, and enhanced expression of mitotic genes while reducing ROS and apoptosis. This supports <strong>red light therapy for testicles</strong> benefits.</p>
-                        <a href="https://doi.org/10.34172/jlms.2024.49" target="_blank" rel="noopener" class="text-green-600 hover:underline text-sm"><i class="fas fa-external-link-alt mr-1"></i>DOI: 10.34172/jlms.2024.49</a>
+                        <a href="https://doi.org/10.34172/jlms.2026.49" target="_blank" rel="noopener" class="text-green-600 hover:underline text-sm"><i class="fas fa-external-link-alt mr-1"></i>DOI: 10.34172/jlms.2026.49</a>
                     </div>
 
                     <div class="border-l-4 border-purple-500 bg-purple-50 p-4 rounded-r-lg">
-                        <h4 class="font-bold text-primary mb-2">Exosome + PBMT for Spermatogenesis (2024)</h4>
+                        <h4 class="font-bold text-primary mb-2">Exosome + PBMT for Spermatogenesis (2026)</h4>
                         <p class="text-sm text-gray-700 mb-2">A comparative study found that photobiomodulation therapy significantly increased testosterone levels, improved sperm parameters, and enhanced Leydig and Sertoli cell counts. Both oxidative stress markers and ROS production decreased significantly with <strong>red light therapy on testicles</strong>.</p>
-                        <a href="https://doi.org/10.34172/jlms.2024.03" target="_blank" rel="noopener" class="text-purple-600 hover:underline text-sm"><i class="fas fa-external-link-alt mr-1"></i>DOI: 10.34172/jlms.2024.03</a>
+                        <a href="https://doi.org/10.34172/jlms.2026.03" target="_blank" rel="noopener" class="text-purple-600 hover:underline text-sm"><i class="fas fa-external-link-alt mr-1"></i>DOI: 10.34172/jlms.2026.03</a>
                     </div>
                 </div>
 

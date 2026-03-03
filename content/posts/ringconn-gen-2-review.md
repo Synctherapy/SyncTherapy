@@ -252,7 +252,7 @@ seoTitle: 'RingConn Gen 2 Review: No-Subscription Smart Ring'
         <section id="what-is">
             <h2><i class="fas fa-ring text-accent mr-2"></i>What Is the RingConn Gen 2 Smart Ring?</h2>
             <div class="bg-white p-6 rounded-lg shadow-md">
-                <p class="mb-6">The <strong>RingConn Gen 2</strong> is a titanium smart ring that tracks your health 24/7 without requiring a subscription. Launched in late 2024, it's positioned as the thinnest and lightest smart ring on the market—designed to feel like a regular piece of jewelry while providing comprehensive health monitoring including sleep apnea detection, heart rate variability, blood oxygen, and more.</p>
+                <p class="mb-6">The <strong>RingConn Gen 2</strong> is a titanium smart ring that tracks your health 24/7 without requiring a subscription. Launched in late 2026, it's positioned as the thinnest and lightest smart ring on the market—designed to feel like a regular piece of jewelry while providing comprehensive health monitoring including sleep apnea detection, heart rate variability, blood oxygen, and more.</p>
                 
                 <div class="overflow-x-auto mb-6">
                     <table class="w-full border-collapse bg-gray-50 rounded-lg overflow-hidden">
@@ -785,12 +785,12 @@ seoTitle: 'RingConn Gen 2 Review: No-Subscription Smart Ring'
         <section id="sources" class="bg-white p-6 rounded-lg shadow-md">
             <h2 class="!mt-0"><i class="fas fa-book text-accent mr-2"></i>Sources & References</h2>
             <ol class="list-decimal list-inside space-y-2 text-sm text-gray-700">
-                <li>RingConn. "RingConn Gen 2 Smart Ring Official Product Page." 2024. <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9yaW5nY29ubi5jb20vcHJvZHVjdHMvcmluZ2Nvbm4tZ2VuLTI=" href="https://ringconn.pxf.io/JKerYR" target="_blank" rel="noopener" class="text-primary hover:underline">RingConn.com</a></li>
-                <li>Tom's Guide. "RingConn Gen 2 hands-on: A subscription-free alternative to Oura Ring." January 2025. <a href="https://www.tomsguide.com" target="_blank" rel="noopener" class="text-primary hover:underline">Tom's Guide</a></li>
-                <li>Wareable. "Oura Ring 4 vs. RingConn Gen 2: Our recommendations after testing." November 2025. <a href="https://www.wareable.com" target="_blank" rel="noopener" class="text-primary hover:underline">Wareable</a></li>
-                <li>Digital Trends. "I wore two of 2024's best smart rings. This is the one you should buy." November 2024. <a href="https://www.digitaltrends.com" target="_blank" rel="noopener" class="text-primary hover:underline">Digital Trends</a></li>
-                <li>Android Central. "Oura Ring 4 vs. RingConn Gen 2 Smart Ring." October 2024. <a href="https://www.androidcentral.com" target="_blank" rel="noopener" class="text-primary hover:underline">Android Central</a></li>
-                <li>Geeky Gadgets. "Best Smart Ring in 2025: Oura vs Ringconn vs Ultrahuman." November 2025. <a href="https://www.geeky-gadgets.com" target="_blank" rel="noopener" class="text-primary hover:underline">Geeky Gadgets</a></li>
+                <li>RingConn. "RingConn Gen 2 Smart Ring Official Product Page." 2026. <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9yaW5nY29ubi5jb20vcHJvZHVjdHMvcmluZ2Nvbm4tZ2VuLTI=" href="https://ringconn.pxf.io/JKerYR" target="_blank" rel="noopener" class="text-primary hover:underline">RingConn.com</a></li>
+                <li>Tom's Guide. "RingConn Gen 2 hands-on: A subscription-free alternative to Oura Ring." January 2026. <a href="https://www.tomsguide.com" target="_blank" rel="noopener" class="text-primary hover:underline">Tom's Guide</a></li>
+                <li>Wareable. "Oura Ring 4 vs. RingConn Gen 2: Our recommendations after testing." November 2026. <a href="https://www.wareable.com" target="_blank" rel="noopener" class="text-primary hover:underline">Wareable</a></li>
+                <li>Digital Trends. "I wore two of 2026's best smart rings. This is the one you should buy." November 2026. <a href="https://www.digitaltrends.com" target="_blank" rel="noopener" class="text-primary hover:underline">Digital Trends</a></li>
+                <li>Android Central. "Oura Ring 4 vs. RingConn Gen 2 Smart Ring." October 2026. <a href="https://www.androidcentral.com" target="_blank" rel="noopener" class="text-primary hover:underline">Android Central</a></li>
+                <li>Geeky Gadgets. "Best Smart Ring in 2026: Oura vs Ringconn vs Ultrahuman." November 2026. <a href="https://www.geeky-gadgets.com" target="_blank" rel="noopener" class="text-primary hover:underline">Geeky Gadgets</a></li>
             </ol>
         </section>
 

@@ -1,6 +1,6 @@
 ---
 title: The Best Tea for Gut Health You Should Be Drinking In 2026
-date: '2024-07-09 17:29:38'
+date: '2026-07-09 17:29:38'
 slug: best-tea-for-gut-health
 description: >-
   Best Tea for Gut Health: Top Brews to Support Digestive Wellness Tea has long

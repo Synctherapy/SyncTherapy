@@ -1,6 +1,6 @@
 ---
 title: Discover the Best Places to Get Your Hands on Hydrogen Water
-date: '2024-09-27 07:00:00'
+date: '2026-09-27 07:00:00'
 slug: where-can-you-buy-hydrogen-water
 description: >-
   Hydrogen water has been gaining significant attention in the health and

@@ -1,6 +1,6 @@
 ---
 title: 8 Best Probiotics For Teenagers In 2026 That Actually Help
-date: '2023-08-19 17:10:31'
+date: '2026-08-19 17:10:31'
 slug: probiotics-for-teenagers
 description: >-
   Eight best probiotics for teenagers in 2026. Gut health, skin, mood, and

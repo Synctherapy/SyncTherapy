@@ -1,6 +1,6 @@
 ---
 title: 11 Best Probiotic Rich Foods to Boost Your Gut Health Naturally
-date: '2024-11-29 16:48:29'
+date: '2026-11-29 16:48:29'
 slug: best-probiotic-foods-for-gut-health-naturally
 description: >-
   Probiotic foods have gained a lot of attention in recent years. These foods
@@ -29,7 +29,7 @@ seoTitle: 11 Best Probiotic Rich Foods to Boost Your Gut Health Naturally
 <p>Sauerkraut isn't just about probiotics. It also has vitamins C and K. These vitamins help keep the body healthy in many ways.</p>
 <p>Making sauerkraut at home is simple. All you need is cabbage, salt, and time. The longer it sits, the more probiotics it will have.</p>
 <p>Store-bought sauerkraut can be good too. But some kinds might not have live probiotics. It's best to check the label to make sure.</p>
-<p>Eating sauerkraut often may <a href="https://scholar.sun.ac.za/bitstream/10019.1/127163/1/ngcamu_effects_2023.pdf">boost health</a>. It could help with digestion and might even make the immune system stronger.</p>
+<p>Eating sauerkraut often may <a href="https://scholar.sun.ac.za/bitstream/10019.1/127163/1/ngcamu_effects_2026.pdf">boost health</a>. It could help with digestion and might even make the immune system stronger.</p>
 <h2>3) Kimchi</h2>
 <p><img src="/uploads/content/v2-m562t-51hx4.jpg" alt="A colorful array of kimchi jars and assorted probiotic-rich foods arranged on a rustic wooden table"></p>
 <p>Kimchi is a famous Korean dish that's packed with probiotics. This spicy, fermented veggie mix is great for gut health. It's made from cabbage, radishes, and other veggies.</p>
@@ -72,7 +72,7 @@ seoTitle: 11 Best Probiotic Rich Foods to Boost Your Gut Health Naturally
 <p><img src="/uploads/content/v2-m5645-1zsys.jpg" alt="A bowl of natto surrounded by other probiotic-rich foods like yogurt, kimchi, and sauerkraut on a wooden table"></p>
 <p>Natto is a unique Japanese food made from fermented soybeans. It has a sticky texture and strong smell that some people love and others find challenging.</p>
 <p>Natto is packed with good bacteria that can help your gut. It's <a href="https://onlinelibrary.wiley.com/doi/abs/10.1155/2022/5863887">high in probiotics</a>, which are live microorganisms that can boost your health when you eat them.</p>
-<p>The main probiotic in natto is Bacillus subtilis. This bacteria helps make natto and gives it its special traits. Some studies show that <a href="https://www.frontiersin.org/articles/10.3389/fmicb.2023.1253480/full">B. subtilis may work as a probiotic</a> in the body.</p>
+<p>The main probiotic in natto is Bacillus subtilis. This bacteria helps make natto and gives it its special traits. Some studies show that <a href="https://www.frontiersin.org/articles/10.3389/fmicb.2026.1253480/full">B. subtilis may work as a probiotic</a> in the body.</p>
 <p>Natto is also full of protein and other good stuff. One serving has about <a href="https://onlinelibrary.wiley.com/doi/abs/10.1155/2022/5863887">19 grams of protein</a>. It's also rich in vitamin K2, which is good for your bones and heart.</p>
 <p>People often eat natto for breakfast in Japan. It's usually served over rice with some soy sauce and mustard. You can find it in Asian grocery stores or make it at home if you're feeling adventurous.</p>
 <h2>9) Kvass</h2>

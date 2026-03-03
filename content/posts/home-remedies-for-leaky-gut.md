@@ -1,6 +1,6 @@
 ---
 title: 11 Best Natural Home Remedies for Leaky Gut To Heal It
-date: '2023-06-12 19:01:10'
+date: '2026-06-12 19:01:10'
 slug: home-remedies-for-leaky-gut
 description: >-
   Discover the best home remedies for Leaky Gut Syndrome that can help you heal

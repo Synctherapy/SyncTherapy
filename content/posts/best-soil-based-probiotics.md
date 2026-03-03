@@ -1,6 +1,6 @@
 ---
 title: Best Soil Based Probiotics for Humans & Dogs (2026)
-date: '2023-05-03 00:17:53'
+date: '2026-05-03 00:17:53'
 slug: best-soil-based-probiotics
 description: >-
   Best soil-based probiotic supplements for humans and dogs in 2026.
@@ -15,9 +15,9 @@ seoTitle: Best Soil Based Probiotics for Humans & Dogs
     {
       "@context": "https://schema.org",
       "@type": "Review",
-      "name": "The 5 Best Soil-Based Probiotic Supplements of 2024",
+      "name": "The 5 Best Soil-Based Probiotic Supplements of 2026",
       "description": "An expert review of the top 5 soil-based and spore-forming probiotic supplements. We analyze JustThrive, MegaSporeBiotic, Terraflora, and more for gut health, SIBO, and immunity.",
-      "datePublished": "2024-07-15",
+      "datePublished": "2026-07-15",
       "author": {
         "@type": "Organization",
         "name": "Sync Therapy",
@@ -107,7 +107,7 @@ seoTitle: Best Soil Based Probiotics for Humans & Dogs
             "name": "MegaSporeBiotic",
             "sku": "MSB-PRO-01",
             "mpn": "MSB-PRO-01",
-            "image": "/uploads/content/megasporebiotic-is-the-best-soil-based-probiotic-supplement-in-canada-for-2023.jpg",
+            "image": "/uploads/content/megasporebiotic-is-the-best-soil-based-probiotic-supplement-in-canada-for-2026.jpg",
             "description": "MegaSporeBiotic is a premium, broad-spectrum, five-strain spore-forming probiotic designed to recondition the gut microbiome, making it a powerful choice for complex cases like SIBO.",
             "brand": {
               "@type": "Brand",
@@ -394,7 +394,7 @@ seoTitle: Best Soil Based Probiotics for Humans & Dogs
                     <h3 class="text-2xl font-bold">2. MegaSporeBiotic</h3>
                     <p class="text-accent font-semibold mb-4">Best Soil-Based Probiotic for SIBO</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="/uploads/content/megasporebiotic-is-the-best-soil-based-probiotic-supplement-in-canada-for-2023.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=MegaSporeBiotic';" alt="MegaSporeBiotic bottle, the best soil-based probiotic supplement for SIBO." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/megasporebiotic-is-the-best-soil-based-probiotic-supplement-in-canada-for-2026.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=MegaSporeBiotic';" alt="MegaSporeBiotic bottle, the best soil-based probiotic supplement for SIBO." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">MegaSporeBiotic is widely considered the gold standard in spore-based probiotics for practitioners. Its broad-spectrum, five-strain formula is designed to recondition the gut by promoting microbial diversity and maintaining a healthy gut barrier, making it a powerful choice for complex cases like SIBO.</p>
                             <ul class="list-disc list-inside space-y-2 mb-4">
@@ -476,7 +476,7 @@ seoTitle: Best Soil Based Probiotics for Humans & Dogs
                     <h3 class="text-2xl font-bold">Just Thrive Pets Probiotic</h3>
                     <p class="text-accent font-semibold mb-4">Best for Overall Pet Wellness & Palatability</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="/uploads/2025/06/just-pets-probiotic-is-a-soil-based-probiotic-for-dogs-by-just-thrive-.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/F5B82E/333333?text=Just+Thrive+Pets';" alt="Just Thrive Pets Soil-Based Probiotic for dogs." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/2026/06/just-pets-probiotic-is-a-soil-based-probiotic-for-dogs-by-just-thrive-.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/F5B82E/333333?text=Just+Thrive+Pets';" alt="Just Thrive Pets Soil-Based Probiotic for dogs." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">This vet-formulated probiotic contains robust strains like <em>Bacillus licheniformis</em> and is scientifically verified to survive the digestive tract, even during antibiotic use. It includes defatted grass-fed beef liver, making it highly palatable for picky eaters.</p>
                              <ul class="list-disc list-inside space-y-2 mb-4">
@@ -494,7 +494,7 @@ seoTitle: Best Soil Based Probiotics for Humans & Dogs
                     <h3 class="text-2xl font-bold">Four Leaf Rover - Protect</h3>
                     <p class="text-accent font-semibold mb-4">Best for Daily Gut Maintenance & Yeast Control</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="/uploads/2025/06/four-leaf-rover-protect-soil-based-probiotics-for-dogs-review.png" onerror="this.onerror=null;this.src='https://placehold.co/400x300/2E5A88/FFFFFF?text=Four+Leaf+Rover';" alt="Four Leaf Rover Protect Soil-Based Probiotic for dogs." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/2026/06/four-leaf-rover-protect-soil-based-probiotics-for-dogs-review.png" onerror="this.onerror=null;this.src='https://placehold.co/400x300/2E5A88/FFFFFF?text=Four+Leaf+Rover';" alt="Four Leaf Rover Protect Soil-Based Probiotic for dogs." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">Protect is a daily soil-based probiotic blend designed to maintain gut health. It combines <em>Bacillus subtilis</em> and <em>Bacillus coagulans</em> with <em>Saccharomyces boulardii</em>, a beneficial yeast that helps fight yeast overgrowth and supports the gut during antibiotic use.</p>
                              <ul class="list-disc list-inside space-y-2 mb-4">

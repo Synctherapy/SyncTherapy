@@ -1,6 +1,6 @@
 ---
 title: 2026 Red Light Therapy Cost Pricing Guide for Sessions &amp; Devices
-date: '2024-02-27 08:00:00'
+date: '2026-02-27 08:00:00'
 slug: red-light-therapy-costs
 description: >-
   What does red light therapy cost in 2026? Session prices, device pricing, and
@@ -24,7 +24,7 @@ seoTitle: Red Light Therapy Cost Guide (2026) — Sessions & Devices
     "jobTitle": "RMT, CAT(C), Holistic Nutritionist",
     "url": "https://synctherapylocal.local/about-daryl-stubbs/"
   },
-  "datePublished": "2024-09-20",
+  "datePublished": "2026-09-20",
   "dateModified": "2026-01-13",
   "publisher": {
     "@type": "Organization",
@@ -32,7 +32,7 @@ seoTitle: Red Light Therapy Cost Guide (2026) — Sessions & Devices
     "url": "https://synctherapylocal.local/",
     "logo": {
       "@type": "ImageObject",
-      "url": "/uploads/2025/07/cropped-sync-therapy-favicon-192x192.png"
+      "url": "/uploads/2026/07/cropped-sync-therapy-favicon-192x192.png"
     }
   },
   "mainEntityOfPage": {

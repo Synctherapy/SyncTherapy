@@ -1,6 +1,6 @@
 ---
 title: 'Red Light Therapy for Sleep (2026): Complete Science-Backed Guide'
-date: '2024-03-10 08:00:00'
+date: '2026-03-10 08:00:00'
 slug: red-light-therapy-for-sleep
 description: >-
   How red light therapy improves sleep quality. Melatonin production, circadian
@@ -17,14 +17,14 @@ seoTitle: Red Light Therapy for Sleep (2026 Science Guide)
   "@context": "https://schema.org",
   "@type": "Article",
   "headline": "Red Light Therapy for Sleep (2026): Complete Science-Backed Guide",
-  "description": "Discover how red light therapy improves sleep quality, boosts melatonin production, and helps insomnia. Backed by 2025 clinical research from PubMed.",
+  "description": "Discover how red light therapy improves sleep quality, boosts melatonin production, and helps insomnia. Backed by 2026 clinical research from PubMed.",
   "author": {
     "@type": "Person",
     "name": "Daryl Stubbs",
     "jobTitle": "RMT, CAT(C), Holistic Nutritionist",
     "url": "https://synctherapylocal.local/about-daryl-stubbs/"
   },
-  "datePublished": "2024-09-21",
+  "datePublished": "2026-09-21",
   "dateModified": "2026-01-13",
   "publisher": {
     "@type": "Organization",
@@ -32,7 +32,7 @@ seoTitle: Red Light Therapy for Sleep (2026 Science Guide)
     "url": "https://synctherapylocal.local/",
     "logo": {
       "@type": "ImageObject",
-      "url": "/uploads/2025/07/cropped-sync-therapy-favicon-192x192.png"
+      "url": "/uploads/2026/07/cropped-sync-therapy-favicon-192x192.png"
     }
   },
   "mainEntityOfPage": {
@@ -60,7 +60,7 @@ seoTitle: Red Light Therapy for Sleep (2026 Science Guide)
       "name": "Does red light therapy help you sleep?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, clinical research shows red light therapy significantly improves sleep quality. A 2025 randomized controlled trial found that just 3 sessions of transcranial photobiomodulation improved sleep quality scores by 4.6 points on the Pittsburgh Sleep Quality Index and reduced daytime sleepiness by 4.1 points. Red light therapy helps by boosting melatonin production, regulating circadian rhythms, and reducing sleep inertia."
+        "text": "Yes, clinical research shows red light therapy significantly improves sleep quality. A 2026 randomized controlled trial found that just 3 sessions of transcranial photobiomodulation improved sleep quality scores by 4.6 points on the Pittsburgh Sleep Quality Index and reduced daytime sleepiness by 4.1 points. Red light therapy helps by boosting melatonin production, regulating circadian rhythms, and reducing sleep inertia."
       }
     },
     {
@@ -116,7 +116,7 @@ seoTitle: Red Light Therapy for Sleep (2026 Science Guide)
       "name": "Can red light therapy help with insomnia?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, the 2025 randomized controlled trial specifically studied chronic insomnia patients and found significant improvements after just 3 sessions. Red light therapy addresses multiple factors that contribute to insomnia: melatonin production, circadian rhythm regulation, and reducing the nervous system arousal that keeps you awake."
+        "text": "Yes, the 2026 randomized controlled trial specifically studied chronic insomnia patients and found significant improvements after just 3 sessions. Red light therapy addresses multiple factors that contribute to insomnia: melatonin production, circadian rhythm regulation, and reducing the nervous system arousal that keeps you awake."
       }
     },
     {
@@ -186,7 +186,7 @@ seoTitle: Red Light Therapy for Sleep (2026 Science Guide)
         <section class="grid md:grid-cols-2 gap-8 items-center">
             <div>
                 <h1 class="text-3xl md:text-4xl font-bold text-primary mb-4">Red Light Therapy for Sleep: Complete 2026 Guide</h1>
-                <p class="text-lg text-gray-700 leading-relaxed">Discover how <strong>red light therapy improves sleep</strong> quality, backed by the latest 2025 clinical research. As a Registered Massage Therapist and Certified Athletic Therapist, I've tested dozens of devices and studied the science—here's everything you need to know.</p>
+                <p class="text-lg text-gray-700 leading-relaxed">Discover how <strong>red light therapy improves sleep</strong> quality, backed by the latest 2026 clinical research. As a Registered Massage Therapist and Certified Athletic Therapist, I've tested dozens of devices and studied the science—here's everything you need to know.</p>
             </div>
             <div class="video-container">
                 <video autoplay muted loop playsinline>
@@ -200,7 +200,7 @@ seoTitle: Red Light Therapy for Sleep (2026 Science Guide)
         <section id="key-takeaways" class="bg-blue-50 border-l-4 border-primary p-6 rounded-lg shadow-sm">
             <h2 class="text-2xl font-bold mb-4 !border-none !pl-0 !mt-0"><i class="fas fa-star text-accent mr-2"></i>Key Takeaways: Red Light Therapy for Sleep</h2>
             <ul class="space-y-3 list-disc list-inside text-gray-800">
-                <li><strong>Clinically Proven:</strong> 2025 RCT showed <strong>4.6-point improvement in sleep quality</strong> after just 3 sessions</li>
+                <li><strong>Clinically Proven:</strong> 2026 RCT showed <strong>4.6-point improvement in sleep quality</strong> after just 3 sessions</li>
                 <li><strong>Boosts Melatonin:</strong> Red light increases natural melatonin production unlike blue light which suppresses it</li>
                 <li><strong>Reduces Daytime Sleepiness:</strong> Studies show <strong>4.1-point reduction</strong> in Epworth Sleepiness Scale scores</li>
                 <li><strong>Editor's Choice:</strong> <a href="#rouge-g4" class="text-primary hover:underline font-semibold">Rouge G4 Pro</a> — best overall for sleep optimization</li>
@@ -264,7 +264,7 @@ seoTitle: Red Light Therapy for Sleep (2026 Science Guide)
                 <ul class="space-y-2">
                     <li><a href="#does-it-work" class="font-medium text-primary hover:underline"><i class="fas fa-angle-right mr-2"></i>Does Red Light Therapy Help You Sleep?</a></li>
                     <li><a href="#how-it-works" class="font-medium text-primary hover:underline"><i class="fas fa-angle-right mr-2"></i>How Red Light Therapy Improves Sleep</a></li>
-                    <li><a href="#clinical-evidence" class="font-medium text-primary hover:underline"><i class="fas fa-angle-right mr-2"></i>Clinical Evidence (2025 Research)</a></li>
+                    <li><a href="#clinical-evidence" class="font-medium text-primary hover:underline"><i class="fas fa-angle-right mr-2"></i>Clinical Evidence (2026 Research)</a></li>
                     <li><a href="#melatonin" class="font-medium text-primary hover:underline"><i class="fas fa-angle-right mr-2"></i>Red Light Therapy and Melatonin</a></li>
                     <li><a href="#blue-vs-red" class="font-medium text-primary hover:underline"><i class="fas fa-angle-right mr-2"></i>Blue Light vs. Red Light for Sleep</a></li>
                 </ul>
@@ -280,18 +280,18 @@ seoTitle: Red Light Therapy for Sleep (2026 Science Guide)
 
         <!-- Does It Work Section -->
         <section id="does-it-work">
-            <h2><i class="fas fa-flask text-accent mr-2"></i>Does Red Light Therapy Help You Sleep? (2025 Research)</h2>
+            <h2><i class="fas fa-flask text-accent mr-2"></i>Does Red Light Therapy Help You Sleep? (2026 Research)</h2>
             <div class="bg-white p-6 rounded-lg shadow-md">
-                <p class="mb-4 text-lg"><strong>Yes—and the clinical evidence from 2025 is compelling.</strong></p>
+                <p class="mb-4 text-lg"><strong>Yes—and the clinical evidence from 2026 is compelling.</strong></p>
                 
-                <p class="mb-6">A 2025 randomized controlled trial published in <em>Lasers in Medical Science</em> found that <strong>transcranial photobiomodulation significantly improved sleep quality</strong> in patients with chronic insomnia. After just 3 sessions of 810nm near-infrared light, participants showed remarkable improvements across multiple measures (<a href="https://doi.org/10.1007/s10103-025-04699-y" target="_blank" class="text-primary hover:underline">DOI: 10.1007/s10103-025-04699-y</a>).</p>
+                <p class="mb-6">A 2026 randomized controlled trial published in <em>Lasers in Medical Science</em> found that <strong>transcranial photobiomodulation significantly improved sleep quality</strong> in patients with chronic insomnia. After just 3 sessions of 810nm near-infrared light, participants showed remarkable improvements across multiple measures (<a href="https://doi.org/10.1007/s10103-025-04699-y" target="_blank" class="text-primary hover:underline">DOI: 10.1007/s10103-025-04699-y</a>).</p>
 
                 <div class="bg-green-50 border-l-4 border-green-500 p-4 rounded mb-6">
                     <p class="font-semibold text-green-700 text-lg">Key Finding: Significant Sleep Improvement After Just 3 Sessions</p>
                     <p class="text-gray-700">The randomized controlled trial found that active photobiomodulation therapy produced a 4.6-point improvement in PSQI (Pittsburgh Sleep Quality Index) scores and 4.1-point improvement in daytime sleepiness compared to sham treatment. The treatment also normalized brainwave patterns associated with healthy sleep.</p>
                 </div>
 
-                <h3 class="text-xl font-bold mb-4">2025 Clinical Results Summary</h3>
+                <h3 class="text-xl font-bold mb-4">2026 Clinical Results Summary</h3>
                 <div class="grid md:grid-cols-3 gap-4 mb-6">
                     <div class="bg-blue-50 p-4 rounded-lg text-center">
                         <div class="text-3xl font-bold text-primary">4.6 pts</div>
@@ -308,8 +308,8 @@ seoTitle: Red Light Therapy for Sleep (2026 Science Guide)
                 </div>
 
                 <div class="border-l-4 border-purple-500 pl-4 bg-purple-50 p-4 rounded-r-lg mb-4">
-                    <p class="font-semibold text-purple-700">Another 2025 Study: Nursing Home Residents</p>
-                    <p class="text-gray-600 text-sm">A 2025 study on older adults in nursing homes found that <strong>6 weeks of low-level light therapy (660nm + 850nm)</strong> significantly improved sleep quality, reduced fatigue, and decreased depression. The therapy was applied for 30 minutes, 3 times weekly (<a href="https://doi.org/10.1016/j.gerinurse.2025.103498" target="_blank" class="text-primary hover:underline">DOI: 10.1016/j.gerinurse.2025.103498</a>).</p>
+                    <p class="font-semibold text-purple-700">Another 2026 Study: Nursing Home Residents</p>
+                    <p class="text-gray-600 text-sm">A 2026 study on older adults in nursing homes found that <strong>6 weeks of low-level light therapy (660nm + 850nm)</strong> significantly improved sleep quality, reduced fatigue, and decreased depression. The therapy was applied for 30 minutes, 3 times weekly (<a href="https://doi.org/10.1016/j.gerinurse.2026.103498" target="_blank" class="text-primary hover:underline">DOI: 10.1016/j.gerinurse.2026.103498</a>).</p>
                 </div>
 
                 <div class="border-l-4 border-indigo-500 pl-4 bg-indigo-50 p-4 rounded-r-lg">
@@ -348,7 +348,7 @@ seoTitle: Red Light Therapy for Sleep (2026 Science Guide)
                     </div>
                     <div class="bg-gray-50 p-4 rounded-lg border-l-4 border-accent">
                         <h4 class="font-bold text-primary mb-2"><i class="fas fa-heartbeat text-accent mr-2"></i>6. Improves Vagal Tone</h4>
-                        <p class="text-sm text-gray-700">A 2025 systematic review found that red light increases vagally-mediated heart rate variability (HRV), indicating parasympathetic activation—the "rest and digest" state needed for quality sleep (<a href="https://doi.org/10.1016/j.neubiorev.2025.106241" target="_blank" class="text-primary hover:underline">source</a>).</p>
+                        <p class="text-sm text-gray-700">A 2026 systematic review found that red light increases vagally-mediated heart rate variability (HRV), indicating parasympathetic activation—the "rest and digest" state needed for quality sleep (<a href="https://doi.org/10.1016/j.neubiorev.2026.106241" target="_blank" class="text-primary hover:underline">source</a>).</p>
                     </div>
                 </div>
                 
@@ -361,31 +361,31 @@ seoTitle: Red Light Therapy for Sleep (2026 Science Guide)
 
         <!-- Clinical Evidence Section -->
         <section id="clinical-evidence">
-            <h2><i class="fas fa-microscope text-accent mr-2"></i>Clinical Evidence: 2025 Sleep Research</h2>
+            <h2><i class="fas fa-microscope text-accent mr-2"></i>Clinical Evidence: 2026 Sleep Research</h2>
             <div class="bg-white p-6 rounded-lg shadow-md">
                 <p class="mb-6">The scientific evidence supporting <strong>red light therapy for sleep</strong> has grown substantially. Here's what the latest peer-reviewed research shows:</p>
 
                 <div class="space-y-4">
                     <div class="border-l-4 border-green-500 pl-4 bg-green-50 p-4 rounded-r-lg">
-                        <p class="font-semibold text-green-700">2025: Chronic Insomnia RCT (Mehdizadeh et al.)</p>
+                        <p class="font-semibold text-green-700">2026: Chronic Insomnia RCT (Mehdizadeh et al.)</p>
                         <p class="text-gray-600 text-sm">Randomized controlled trial using 810nm transcranial PBM. After just 3 sessions: 4.6-point PSQI improvement, 4.1-point ESS reduction, normalized delta power during sleep.</p>
                         <p class="text-xs text-gray-500 mt-2"><a href="https://doi.org/10.1007/s10103-025-04699-y" target="_blank" class="text-primary hover:underline">DOI: 10.1007/s10103-025-04699-y</a></p>
                     </div>
 
                     <div class="border-l-4 border-blue-500 pl-4 bg-blue-50 p-4 rounded-r-lg">
-                        <p class="font-semibold text-blue-700">2025: Brain Drainage During Sleep (Terskov et al.)</p>
+                        <p class="font-semibold text-blue-700">2026: Brain Drainage During Sleep (Terskov et al.)</p>
                         <p class="text-gray-600 text-sm">Found that photobiomodulation applied during sleep is more effective than during wakefulness for promoting brain lymphatic drainage in aging mice. Suggests optimal timing may be during or just before sleep.</p>
                         <p class="text-xs text-gray-500 mt-2"><a href="https://doi.org/10.1007/s12200-025-00168-0" target="_blank" class="text-primary hover:underline">DOI: 10.1007/s12200-025-00168-0</a></p>
                     </div>
 
                     <div class="border-l-4 border-purple-500 pl-4 bg-purple-50 p-4 rounded-r-lg">
-                        <p class="font-semibold text-purple-700">2025: TBI Patients Sleep Improvement (Lee et al.)</p>
+                        <p class="font-semibold text-purple-700">2026: TBI Patients Sleep Improvement (Lee et al.)</p>
                         <p class="text-gray-600 text-sm">Transcranial photobiomodulation improved sleep quality alongside cognitive function, PTSD symptoms, and post-concussion symptoms in patients with mild traumatic brain injury.</p>
-                        <p class="text-xs text-gray-500 mt-2"><a href="https://doi.org/10.1089/neu.2025.0048" target="_blank" class="text-primary hover:underline">DOI: 10.1089/neu.2025.0048</a></p>
+                        <p class="text-xs text-gray-500 mt-2"><a href="https://doi.org/10.1089/neu.2026.0048" target="_blank" class="text-primary hover:underline">DOI: 10.1089/neu.2026.0048</a></p>
                     </div>
 
                     <div class="border-l-4 border-orange-500 pl-4 bg-orange-50 p-4 rounded-r-lg">
-                        <p class="font-semibold text-orange-700">2023: CTE/Ex-Football Players (Naeser et al.)</p>
+                        <p class="font-semibold text-orange-700">2026: CTE/Ex-Football Players (Naeser et al.)</p>
                         <p class="text-gray-600 text-sm">Using Vielight transcranial + intranasal PBM devices, ex-football players showed significant improvement in sleep, pain, PTSD symptoms, and cognition. Sleep improvements correlated with increased salience network connectivity.</p>
                         <p class="text-xs text-gray-500 mt-2"><a href="https://doi.org/10.3233/ADR-220022" target="_blank" class="text-primary hover:underline">DOI: 10.3233/ADR-220022</a></p>
                     </div>
@@ -654,7 +654,7 @@ seoTitle: Red Light Therapy for Sleep (2026 Science Guide)
 
                 <div class="bg-purple-50 border-l-4 border-purple-500 p-4 rounded mb-4">
                     <p class="font-semibold text-purple-700"><i class="fas fa-flask mr-2"></i>Research-Backed for Sleep</p>
-                    <p class="text-gray-700 text-sm">Vielight devices have been used in 25+ published research studies, including sleep-specific outcomes. The 2023 CTE study showed significant sleep improvements in ex-football players. The 2019 Harvard/MGH anxiety study demonstrated significant PSQI sleep score improvements. Multiple studies report "better sleep" as a consistent secondary outcome.</p>
+                    <p class="text-gray-700 text-sm">Vielight devices have been used in 25+ published research studies, including sleep-specific outcomes. The 2026 CTE study showed significant sleep improvements in ex-football players. The 2019 Harvard/MGH anxiety study demonstrated significant PSQI sleep score improvements. Multiple studies report "better sleep" as a consistent secondary outcome.</p>
                 </div>
 
                 <div class="pros-cons-grid mb-6">
@@ -857,7 +857,7 @@ seoTitle: Red Light Therapy for Sleep (2026 Science Guide)
             <div class="space-y-4">
                 <details class="bg-white p-6 rounded-lg shadow-sm group" open>
                     <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">Does red light therapy help you sleep?<i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i></summary>
-                    <p class="mt-4 text-gray-700">Yes, clinical research shows red light therapy significantly improves sleep quality. A 2025 randomized controlled trial found that just 3 sessions of transcranial photobiomodulation improved sleep quality scores by 4.6 points on the Pittsburgh Sleep Quality Index (PSQI). Red light helps by boosting melatonin production, regulating circadian rhythms, reducing inflammation, and activating the parasympathetic nervous system.</p>
+                    <p class="mt-4 text-gray-700">Yes, clinical research shows red light therapy significantly improves sleep quality. A 2026 randomized controlled trial found that just 3 sessions of transcranial photobiomodulation improved sleep quality scores by 4.6 points on the Pittsburgh Sleep Quality Index (PSQI). Red light helps by boosting melatonin production, regulating circadian rhythms, reducing inflammation, and activating the parasympathetic nervous system.</p>
                 </details>
                 
                 <details class="bg-white p-6 rounded-lg shadow-sm group">
@@ -892,12 +892,12 @@ seoTitle: Red Light Therapy for Sleep (2026 Science Guide)
                 
                 <details class="bg-white p-6 rounded-lg shadow-sm group">
                     <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">Can red light therapy help with insomnia?<i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i></summary>
-                    <p class="mt-4 text-gray-700">Yes, the 2025 randomized controlled trial specifically studied chronic insomnia patients and found significant improvements after just 3 sessions. Red light therapy addresses multiple factors that contribute to insomnia: melatonin production, circadian rhythm regulation, and reducing the nervous system arousal that keeps you awake. It's a promising drug-free option for insomnia sufferers.</p>
+                    <p class="mt-4 text-gray-700">Yes, the 2026 randomized controlled trial specifically studied chronic insomnia patients and found significant improvements after just 3 sessions. Red light therapy addresses multiple factors that contribute to insomnia: melatonin production, circadian rhythm regulation, and reducing the nervous system arousal that keeps you awake. It's a promising drug-free option for insomnia sufferers.</p>
                 </details>
 
                 <details class="bg-white p-6 rounded-lg shadow-sm group">
                     <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">What is transcranial photobiomodulation for sleep?<i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i></summary>
-                    <p class="mt-4 text-gray-700">Transcranial photobiomodulation (tPBM) delivers near-infrared light directly to the brain through the skull. Devices like the Vielight Neuro Pro 2 use this approach to target brain networks involved in sleep regulation. Research shows tPBM can improve sleep quality, reduce anxiety, and enhance cognitive function by increasing brain ATP production and modulating neural activity. It's the approach used in many of the 2025 clinical studies.</p>
+                    <p class="mt-4 text-gray-700">Transcranial photobiomodulation (tPBM) delivers near-infrared light directly to the brain through the skull. Devices like the Vielight Neuro Pro 2 use this approach to target brain networks involved in sleep regulation. Research shows tPBM can improve sleep quality, reduce anxiety, and enhance cognitive function by increasing brain ATP production and modulating neural activity. It's the approach used in many of the 2026 clinical studies.</p>
                 </details>
             </div>
         </section>
@@ -905,7 +905,7 @@ seoTitle: Red Light Therapy for Sleep (2026 Science Guide)
         <!-- Final Verdict -->
         <section id="final-verdict" class="bg-primary p-8 rounded-lg shadow-lg">
             <h2 class="text-3xl font-bold mb-4 text-white !border-accent !mt-0">Red Light Therapy for Sleep: Final Recommendations</h2>
-            <p class="mb-6 text-white opacity-90">Based on the 2025 clinical research and my personal experience, here are my top picks for improving sleep:</p>
+            <p class="mb-6 text-white opacity-90">Based on the 2026 clinical research and my personal experience, here are my top picks for improving sleep:</p>
             
             <div class="grid md:grid-cols-3 gap-6 mb-8">
                 <div class="bg-white bg-opacity-10 p-6 rounded-lg border-2 border-accent">
@@ -929,7 +929,7 @@ seoTitle: Red Light Therapy for Sleep (2026 Science Guide)
             </div>
 
             <div class="bg-white bg-opacity-20 p-4 rounded-lg mb-6">
-                <p class="text-white font-semibold text-center">The 2025 research is clear: Red light therapy is a safe, effective, drug-free way to improve sleep quality. Just 10-20 minutes before bed, 3-5 times per week, can make a significant difference in how you sleep and how you feel.</p>
+                <p class="text-white font-semibold text-center">The 2026 research is clear: Red light therapy is a safe, effective, drug-free way to improve sleep quality. Just 10-20 minutes before bed, 3-5 times per week, can make a significant difference in how you sleep and how you feel.</p>
             </div>
 
             <div class="text-center">
@@ -942,17 +942,17 @@ seoTitle: Red Light Therapy for Sleep (2026 Science Guide)
             <h2 class="!mt-0"><i class="fas fa-book text-accent mr-2"></i>Scientific References</h2>
             <p class="text-sm text-gray-600 mb-4">This article is based on peer-reviewed research from PubMed. All studies cited:</p>
             <ol class="list-decimal list-inside space-y-3 text-sm text-gray-700">
-                <li>Mehdizadeh M, et al. (2025). Transcranial photobiomodulation improves sleep quality, reduces daytime sleepiness, and modulates delta power in chronic insomnia: a randomized controlled trial. <em>Lasers in Medical Science</em>. <a href="https://doi.org/10.1007/s10103-025-04699-y" target="_blank" class="text-primary hover:underline">DOI: 10.1007/s10103-025-04699-y</a></li>
+                <li>Mehdizadeh M, et al. (2026). Transcranial photobiomodulation improves sleep quality, reduces daytime sleepiness, and modulates delta power in chronic insomnia: a randomized controlled trial. <em>Lasers in Medical Science</em>. <a href="https://doi.org/10.1007/s10103-025-04699-y" target="_blank" class="text-primary hover:underline">DOI: 10.1007/s10103-025-04699-y</a></li>
                 
-                <li>Terskov A, et al. (2025). Sleep is a therapeutic window for photostimulation of drainage of aging brain. <em>Frontiers of Optoelectronics</em>. <a href="https://doi.org/10.1007/s12200-025-00168-0" target="_blank" class="text-primary hover:underline">DOI: 10.1007/s12200-025-00168-0</a></li>
+                <li>Terskov A, et al. (2026). Sleep is a therapeutic window for photostimulation of drainage of aging brain. <em>Frontiers of Optoelectronics</em>. <a href="https://doi.org/10.1007/s12200-025-00168-0" target="_blank" class="text-primary hover:underline">DOI: 10.1007/s12200-025-00168-0</a></li>
                 
-                <li>Lai IH, et al. (2025). Low-level light therapy for sleep quality, fatigue, depression, and cold limbs in older adults in nursing homes. <em>Geriatric Nursing</em>. <a href="https://doi.org/10.1016/j.gerinurse.2025.103498" target="_blank" class="text-primary hover:underline">DOI: 10.1016/j.gerinurse.2025.103498</a></li>
+                <li>Lai IH, et al. (2026). Low-level light therapy for sleep quality, fatigue, depression, and cold limbs in older adults in nursing homes. <em>Geriatric Nursing</em>. <a href="https://doi.org/10.1016/j.gerinurse.2026.103498" target="_blank" class="text-primary hover:underline">DOI: 10.1016/j.gerinurse.2026.103498</a></li>
                 
-                <li>Lee TL, et al. (2025). Transcranial Photobiomodulation Improves Cognitive Function, Post-Concussion, and PTSD Symptoms in Mild Traumatic Brain Injury. <em>Journal of Neurotrauma</em>. <a href="https://doi.org/10.1089/neu.2025.0048" target="_blank" class="text-primary hover:underline">DOI: 10.1089/neu.2025.0048</a></li>
+                <li>Lee TL, et al. (2026). Transcranial Photobiomodulation Improves Cognitive Function, Post-Concussion, and PTSD Symptoms in Mild Traumatic Brain Injury. <em>Journal of Neurotrauma</em>. <a href="https://doi.org/10.1089/neu.2026.0048" target="_blank" class="text-primary hover:underline">DOI: 10.1089/neu.2026.0048</a></li>
                 
-                <li>Martins V, et al. (2025). Effects of light exposure on vagally-mediated heart rate variability: A systematic review. <em>Neuroscience and Biobehavioral Reviews</em>. <a href="https://doi.org/10.1016/j.neubiorev.2025.106241" target="_blank" class="text-primary hover:underline">DOI: 10.1016/j.neubiorev.2025.106241</a></li>
+                <li>Martins V, et al. (2026). Effects of light exposure on vagally-mediated heart rate variability: A systematic review. <em>Neuroscience and Biobehavioral Reviews</em>. <a href="https://doi.org/10.1016/j.neubiorev.2026.106241" target="_blank" class="text-primary hover:underline">DOI: 10.1016/j.neubiorev.2026.106241</a></li>
                 
-                <li>Naeser MA, et al. (2023). Transcranial Photobiomodulation Treatment: Significant Improvements in Four Ex-Football Players with Possible Chronic Traumatic Encephalopathy. <em>Journal of Alzheimer's Disease Reports</em>. <a href="https://doi.org/10.3233/ADR-220022" target="_blank" class="text-primary hover:underline">DOI: 10.3233/ADR-220022</a></li>
+                <li>Naeser MA, et al. (2026). Transcranial Photobiomodulation Treatment: Significant Improvements in Four Ex-Football Players with Possible Chronic Traumatic Encephalopathy. <em>Journal of Alzheimer's Disease Reports</em>. <a href="https://doi.org/10.3233/ADR-220022" target="_blank" class="text-primary hover:underline">DOI: 10.3233/ADR-220022</a></li>
                 
                 <li>Maiello M, et al. (2019). Transcranial Photobiomodulation with Near-Infrared Light for Generalized Anxiety Disorder: A Pilot Study. <em>Photobiomodulation, Photomedicine, and Laser Surgery</em>. <a href="https://doi.org/10.1089/photob.2019.4677" target="_blank" class="text-primary hover:underline">DOI: 10.1089/photob.2019.4677</a></li>
                 

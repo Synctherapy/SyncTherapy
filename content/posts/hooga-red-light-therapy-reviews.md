@@ -1,6 +1,6 @@
 ---
 title: 'Hooga Red Light Therapy Reviews: hg200, hg300 & hg1500'
-date: '2024-02-15 08:00:00'
+date: '2026-02-15 08:00:00'
 slug: hooga-red-light-therapy-reviews
 description: >-
   Hooga red light therapy review covering the HG200, HG300, and HG1500 models.
@@ -39,7 +39,7 @@ seoTitle: 'Hooga Red Light Review: HG200, HG300 & HG1500'
         "@type": "Organization",
         "name": "Sync Therapy"
       },
-      "datePublished": "2025-07-17",
+      "datePublished": "2026-07-17",
       "description": "Our in-depth 2026 Hooga Red Light Therapy review. We analyze the HG, Pro, and Ultra series, compare Hooga vs. Mito, and determine if Hooga is a good, legit brand for at-home red light therapy in Canada and beyond."
     }
     </script>

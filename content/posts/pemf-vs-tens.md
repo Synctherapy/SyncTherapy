@@ -1,6 +1,6 @@
 ---
 title: 'PEMF vs TENS: Which One is Right for You?'
-date: '2024-08-23 07:00:00'
+date: '2026-08-23 07:00:00'
 slug: pemf-vs-tens
 description: >-
   When it comes to pain relief and therapeutic treatments, there are a variety

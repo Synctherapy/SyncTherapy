@@ -1,6 +1,6 @@
 ---
 title: 'HigherDOSE Red Light Face Mask Review: Is It Worth The Price?'
-date: '2024-07-23 07:00:00'
+date: '2026-07-23 07:00:00'
 slug: higherdose-face-mask-review
 description: >-
   HigherDOSE red light face mask review. Is this premium LED mask worth the
@@ -24,8 +24,8 @@ seoTitle: HigherDOSE Red Light Face Mask Review (2026)
     "url": "https://synctherapylocal.local/about-daryl-stubbs/",
     "jobTitle": "RMT, CAT(C), Holistic Nutritionist"
   },
-  "datePublished": "2025-07-23",
-  "dateModified": "2025-12-27",
+  "datePublished": "2026-07-23",
+  "dateModified": "2026-12-27",
   "reviewRating": {
     "@type": "Rating",
     "ratingValue": "4.5",
@@ -56,7 +56,7 @@ seoTitle: HigherDOSE Red Light Face Mask Review (2026)
       "url": "https://tidd.ly/44HoZ2u",
       "priceCurrency": "USD",
       "price": "349.00",
-      "priceValidUntil": "2025-12-31",
+      "priceValidUntil": "2026-12-31",
       "availability": "https://schema.org/InStock"
     }
   }
@@ -162,7 +162,7 @@ seoTitle: HigherDOSE Red Light Face Mask Review (2026)
             <p class="text-accent font-semibold mb-4">Editor's Choice for Anti-Aging & Skin Rejuvenation</p>
             <div class="grid md:grid-cols-2 gap-8">
                 <div>
-                    <img src="/uploads/2025/12/higherdose-red-light-therapy-mask.webp" onerror="/uploads/2025/12/higherdose-red-light-therapy-mask.webp" alt="HigherDOSE Red Light Face Mask review - best LED mask for anti-aging" class="rounded-lg shadow-sm w-full h-auto object-cover">
+                    <img src="/uploads/2026/12/higherdose-red-light-therapy-mask.webp" onerror="/uploads/2026/12/higherdose-red-light-therapy-mask.webp" alt="HigherDOSE Red Light Face Mask review - best LED mask for anti-aging" class="rounded-lg shadow-sm w-full h-auto object-cover">
                     <div class="mt-4 text-center">
                         <div class="text-4xl font-bold text-primary">4.5<span class="text-2xl text-gray-400">/5</span></div>
                         <div class="rating-stars text-xl">
@@ -604,7 +604,7 @@ seoTitle: HigherDOSE Red Light Face Mask Review (2026)
                 <li>Barolet D, et al. "Regulation of Skin Collagen Metabolism In Vitro Using a Pulsed 660 nm LED Light Source." <em>J Invest Dermatol.</em> 2009;129(12):2751-9. <a href="https://pubmed.ncbi.nlm.nih.gov/19052558/" target="_blank" rel="noopener" class="text-primary hover:underline">PubMed</a></li>
                 <li>Tian YS, et al. "Antiphotoaging Effects of Light-Emitting Diode Irradiation..." <em>Dermatol Surg.</em> 2012;38(10):1695-703. <a href="https://pubmed.ncbi.nlm.nih.gov/22804869/" target="_blank" rel="noopener" class="text-primary hover:underline">PubMed</a></li>
                 <li>Avci P, et al. "Low-level laser (light) therapy (LLLT) in skin: stimulating, healing, restoring." <em>Semin Cutan Med Surg.</em> 2013;32(1):41-52. <a href="https://pubmed.ncbi.nlm.nih.gov/24049929/" target="_blank" rel="noopener" class="text-primary hover:underline">PubMed</a></li>
-                <li>HigherDOSE. "Red Light Face Mask Clinical Trial Results." 2024. <a href="https://higherdose.com/products/higherdose-red-light-face-mask" target="_blank" rel="noopener" class="text-primary hover:underline">Product Page</a></li>
+                <li>HigherDOSE. "Red Light Face Mask Clinical Trial Results." 2026. <a href="https://higherdose.com/products/higherdose-red-light-face-mask" target="_blank" rel="noopener" class="text-primary hover:underline">Product Page</a></li>
             </ol>
         </section>
 
