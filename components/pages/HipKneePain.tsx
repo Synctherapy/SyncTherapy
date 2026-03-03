@@ -10,26 +10,26 @@ export function HipKneePain() {
     return (
         <div className="bg-white text-gray-900 font-sans">
             <ServiceSchema
-                    type="condition"
-                    name="Treatment in Colwood"
-                    description=""
-                    slug="hip-knee-pain"
-                    breadcrumbLabel="Treatment in Colwood"
-                    faqItems={[
-                              {
-                                        "question": "Why does my knee hurt if the problem is my hip?",
-                                        "answer": "The knee is a 'dumb joint'—it only does what the hip and ankle tell it to do. If your hip rotators are tight or your glutes are weak, your knee takes all the rotational stress."
-                              },
-                              {
-                                        "question": "Do I need a referral for hip or knee treatment?",
-                                        "answer": "No, you do not need a referral to see our Athletic Therapists or Registered Massage Therapists for hip and knee pain assessment and treatment."
-                              },
-                              {
-                                        "question": "Can you treat 'bone-on-bone' knee pain?",
-                                        "answer": "While we cannot regrow cartilage, we can significantly reduce pain by releasing the tight muscles compressing the joint and improving the mechanics of how you move."
-                              }
-                    ]}
-                />
+                type="condition"
+                name="Treatment in Colwood"
+                description=""
+                slug="hip-and-knee-pain"
+                breadcrumbLabel="Treatment in Colwood"
+                faqItems={[
+                    {
+                        "question": "Why does my knee hurt if the problem is my hip?",
+                        "answer": "The knee is a 'dumb joint'—it only does what the hip and ankle tell it to do. If your hip rotators are tight or your glutes are weak, your knee takes all the rotational stress."
+                    },
+                    {
+                        "question": "Do I need a referral for hip or knee treatment?",
+                        "answer": "No, you do not need a referral to see our Athletic Therapists or Registered Massage Therapists for hip and knee pain assessment and treatment."
+                    },
+                    {
+                        "question": "Can you treat 'bone-on-bone' knee pain?",
+                        "answer": "While we cannot regrow cartilage, we can significantly reduce pain by releasing the tight muscles compressing the joint and improving the mechanics of how you move."
+                    }
+                ]}
+            />
 
             {/* 0. BREADCRUMBS */}
             <div className="bg-blue-950 pt-4 px-4">

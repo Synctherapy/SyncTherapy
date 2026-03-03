@@ -1,5 +1,3 @@
-"use client";
-
 /**
  * ServiceSchema — Reusable JSON-LD structured data for all service & condition pages.
  *
@@ -10,8 +8,6 @@
  *   • speakable (CSS selectors for voice / LLM answers)
  *   • FAQPage (if faqItems provided)
  */
-
-import { usePathname } from 'next/navigation';
 
 interface FaqItem {
     question: string;
@@ -54,11 +50,10 @@ export function ServiceSchema({
     speakableCssSelectors = ['h1'],
     imageUrl,
 }: ServiceSchemaProps) {
-    const pathname = usePathname();
     const pathPrefix = type === 'service' ? 'services' : 'conditions';
 
-    // Use dynamic pathname if available, otherwise fallback to slug
-    const cleanPath = pathname ? (pathname.endsWith('/') ? pathname : `${pathname}/`) : `/${pathPrefix}/${slug}/`;
+    // Strictly generate the URL from the canonical slug passed down to guarantee Static HTML generation
+    const cleanPath = `/${pathPrefix}/${slug}/`;
     const canonicalUrl = `${BASE_URL}${cleanPath}`;
 
     const parentLabel = type === 'service' ? 'Services' : 'Conditions';

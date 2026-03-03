@@ -10,26 +10,26 @@ export function ITBandSyndrome() {
     return (
         <div className="bg-white text-gray-900 font-sans">
             <ServiceSchema
-                    type="condition"
-                    name="Runner's Knee Rehab"
-                    description=""
-                    slug="i-t-band-syndrome"
-                    breadcrumbLabel="Runner's Knee Rehab"
-                    faqItems={[
-                              {
-                                        "question": "Should I foam roll my IT band?",
-                                        "answer": "No, rolling the IT band directly often crushes the tissue and causes more inflammation. We work on the muscles attached to it (TFL and Glutes) instead."
-                              },
-                              {
-                                        "question": "Can I keep running with IT Band Syndrome?",
-                                        "answer": "It depends on the severity. In acute stages, rest is often required. We perform a gait analysis to see if your running form is contributing to the friction."
-                              },
-                              {
-                                        "question": "How long does IT Band Syndrome take to heal?",
-                                        "answer": "With proper treatment (releasing the TFL and strengthening the glutes), most runners see significant relief in 4-6 weeks."
-                              }
-                    ]}
-                />
+                type="condition"
+                name="Runner's Knee Rehab"
+                description=""
+                slug="it-band-syndrome"
+                breadcrumbLabel="Runner's Knee Rehab"
+                faqItems={[
+                    {
+                        "question": "Should I foam roll my IT band?",
+                        "answer": "No, rolling the IT band directly often crushes the tissue and causes more inflammation. We work on the muscles attached to it (TFL and Glutes) instead."
+                    },
+                    {
+                        "question": "Can I keep running with IT Band Syndrome?",
+                        "answer": "It depends on the severity. In acute stages, rest is often required. We perform a gait analysis to see if your running form is contributing to the friction."
+                    },
+                    {
+                        "question": "How long does IT Band Syndrome take to heal?",
+                        "answer": "With proper treatment (releasing the TFL and strengthening the glutes), most runners see significant relief in 4-6 weeks."
+                    }
+                ]}
+            />
 
             {/* 0. BREADCRUMBS */}
             <div className="bg-blue-950 pt-4 px-4">

@@ -24,7 +24,7 @@ export function MassageTherapyColwood() {
                 type="service"
                 name="Massage Therapy Colwood"
                 description=""
-                slug="massage-therapy-colwood"
+                slug="massage-therapy"
                 breadcrumbLabel="Massage Therapy Colwood"
             />
 

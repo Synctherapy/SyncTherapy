@@ -10,26 +10,26 @@ export function SportsInjuriesPrevention() {
     return (
         <div className="bg-white text-gray-900 font-sans">
             <ServiceSchema
-                    type="condition"
-                    name="Prevention"
-                    description=""
-                    slug="sports-injuries-prevention"
-                    breadcrumbLabel="Prevention"
-                    faqItems={[
-                              {
-                                        "question": "Do you only treat professional athletes?",
-                                        "answer": "No! We treat anyone with an active goal, from weekend hikers to competitive triathletes. You get the same clinical standard of care regardless of your level."
-                              },
-                              {
-                                        "question": "Why do I keep getting injured?",
-                                        "answer": "Recurring injuries usually mean the root cause wasn't fixed. You likely have a biomechanical compensation or a training load error that keeps overloading the same tissue."
-                              },
-                              {
-                                        "question": "How can I prevent injuries?",
-                                        "answer": "Prevention isn't just luck. It's about adequate strength, proper mobility, and smart load management. We audit your movement to find the weak link before it breaks."
-                              }
-                    ]}
-                />
+                type="condition"
+                name="Sports Injury Prevention & Rehab"
+                description="Comprehensive care for athletic injuries."
+                slug="sports-injuries-and-prevention"
+                breadcrumbLabel="Sports Injuries & Prevention"
+                faqItems={[
+                    {
+                        "question": "Do you only treat professional athletes?",
+                        "answer": "No! We treat anyone with an active goal, from weekend hikers to competitive triathletes. You get the same clinical standard of care regardless of your level."
+                    },
+                    {
+                        "question": "Why do I keep getting injured?",
+                        "answer": "Recurring injuries usually mean the root cause wasn't fixed. You likely have a biomechanical compensation or a training load error that keeps overloading the same tissue."
+                    },
+                    {
+                        "question": "How can I prevent injuries?",
+                        "answer": "Prevention isn't just luck. It's about adequate strength, proper mobility, and smart load management. We audit your movement to find the weak link before it breaks."
+                    }
+                ]}
+            />
 
             {/* 0. BREADCRUMBS */}
             <div className="bg-blue-950 pt-4 px-4">
