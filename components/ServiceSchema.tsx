@@ -177,15 +177,20 @@ export function ServiceSchema({
         });
     }
 
-    const jsonLd = {
-        '@context': 'https://schema.org',
-        '@graph': graph,
-    };
-
     return (
-        <script
-            type="application/ld+json"
-            dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-        />
+        <>
+            {graph.map((item, index) => (
+                <script
+                    key={index}
+                    type="application/ld+json"
+                    dangerouslySetInnerHTML={{
+                        __html: JSON.stringify({
+                            '@context': 'https://schema.org',
+                            ...(item as object),
+                        }),
+                    }}
+                />
+            ))}
+        </>
     );
 }
