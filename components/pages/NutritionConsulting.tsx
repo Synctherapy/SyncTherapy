@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import Image from "next/image";
+import { ServiceSchema } from '@/components/ServiceSchema';
 
 export function NutritionConsulting() {
     const treatments = [
@@ -18,6 +19,13 @@ export function NutritionConsulting() {
 
     return (
         <div className="bg-white text-gray-900 font-sans">
+            <ServiceSchema
+                type="service"
+                name="Holistic Nutrition Consulting"
+                description="Holistic nutrition consulting in Colwood by a Certified Nutritionist."
+                slug="nutrition-consulting"
+                breadcrumbLabel="Nutrition Consulting"
+            />
             {/* 1. HERO SECTION: High Impact Hook */}
             <section className="bg-slate-900 text-white py-20 px-4 relative overflow-hidden">
                 <div className="max-w-7xl mx-auto text-center relative z-10">
