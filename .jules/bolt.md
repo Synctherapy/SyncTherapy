@@ -1,0 +1,4 @@
+
+## 2025-03-03 - [Optimize StickyMobileCTA to avoid layout reads and continuous scroll ticks]
+**Learning:** Found a component (`StickyMobileCTA`) that was using `useWindowScroll` which triggers re-renders on every scroll tick. More importantly, it was using `getBoundingClientRect()` inside the scroll effect to detect if the footer was visible. This is a double hit: continuous re-renders from the scroll subscription, and synchronous layout thrashing from the layout read on every scroll.
+**Action:** Replaced `useWindowScroll` with a custom scroll listener that only updates state when a threshold is crossed. Replaced `getBoundingClientRect()` with an `IntersectionObserver` to asynchronously detect the footer. Avoid reading layouts (like `getBoundingClientRect()`) in `useEffect` or render when dependent on frequent events like scrolling.
