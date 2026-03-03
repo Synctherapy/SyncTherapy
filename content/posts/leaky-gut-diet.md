@@ -1,12 +1,12 @@
 ---
-title: 'Leaky Gut Diet: Simple Steps to Heal Your Digestive System'
-date: '2026-11-29 20:32:56'
+title: "Leaky Gut Diet: Simple Steps to Heal Your Digestive System"
+date: "2026-11-29 20:32:56"
 slug: leaky-gut-diet
 description: >-
   Leaky gut is a hot topic in health circles. It happens when the lining of the
   gut becomes more porous than it should be. This can let harmful substances
   into...
-seoTitle: 'Leaky Gut Diet: Simple Steps to Heal Your Digestive System'
+seoTitle: "Leaky Gut Diet: Simple Steps to Heal Your Digestive System"
 ---
 
 <p>Leaky gut is a hot topic in health circles. It happens when the lining of the gut becomes more porous than it should be. This can let harmful substances into the bloodstream. Many people think certain foods play a role in this problem.</p>

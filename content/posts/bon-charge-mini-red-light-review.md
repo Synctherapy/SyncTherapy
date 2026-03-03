@@ -1,6 +1,6 @@
 ---
-title: 'Bon Charge Mini Red Light Review: A Fantastic Portable Red Light Device'
-date: '2026-05-24 19:53:18'
+title: "Bon Charge Mini Red Light Review: A Fantastic Portable Red Light Device"
+date: "2026-05-24 19:53:18"
 slug: bon-charge-mini-red-light-review
 description: >-
   Bon Charge Mini red light therapy device reviewed by an RMT. Portable,

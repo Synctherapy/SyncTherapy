@@ -1,6 +1,6 @@
 ---
 title: 11 Best Probiotic Rich Foods to Boost Your Gut Health Naturally
-date: '2026-11-29 16:48:29'
+date: "2026-11-29 16:48:29"
 slug: best-probiotic-foods-for-gut-health-naturally
 description: >-
   Probiotic foods have gained a lot of attention in recent years. These foods

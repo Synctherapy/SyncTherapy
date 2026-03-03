@@ -1,6 +1,6 @@
 ---
 title: Red Light Therapy for Chronic Fatigue & CFS (2026)
-date: '2026-05-22 12:47:18'
+date: "2026-05-22 12:47:18"
 slug: red-light-therapy-for-chronic-fatigue
 description: >-
   Chronic fatigue is a debilitating condition impacting millions worldwide,

@@ -1,6 +1,6 @@
 ---
 title: 5 Best Natural Face Moisturizer For Acne Prone Skin In 2026
-date: '2026-06-27 17:13:21'
+date: "2026-06-27 17:13:21"
 slug: best-natural-face-moisturizer-for-acne-prone-skin
 description: >-
   Finding the right skincare product for acne-prone skin can be a bit like

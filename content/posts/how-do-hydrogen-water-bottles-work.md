@@ -1,6 +1,6 @@
 ---
 title: How Do Hydrogen Water Bottles Work
-date: '2026-06-19 10:09:27'
+date: "2026-06-19 10:09:27"
 slug: how-do-hydrogen-water-bottles-work
 description: >-
   How Do Hydrogen Water Bottles Work: Exploring Hydrogen Water and How Bottles

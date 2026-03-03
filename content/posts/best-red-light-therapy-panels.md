@@ -1,6 +1,6 @@
 ---
 title: Best Red Light Therapy Panels (2026 Buyer's Guide)
-date: '2026-02-28'
+date: "2026-02-28"
 slug: best-red-light-therapy-panels
 description: >-
   A clinical therapist compares the best red light therapy panels for 2026.

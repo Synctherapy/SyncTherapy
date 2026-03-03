@@ -2,7 +2,7 @@
 title: >-
   PEMF Therapy for Knee Pain & Arthritis Relief: Effective Pain Management
   Strategy
-date: '2026-05-22 12:55:59'
+date: "2026-05-22 12:55:59"
 slug: pemf-therapy-for-arthritis-relief
 description: >-
   Osteoarthritis and rheumatoid arthritis are common ailments that affect

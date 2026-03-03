@@ -1,12 +1,12 @@
 ---
-title: '9 Nutrients Needed for Gut Health: Boost Your Digestive Wellness Today'
-date: '2026-06-19 10:09:38'
+title: "9 Nutrients Needed for Gut Health: Boost Your Digestive Wellness Today"
+date: "2026-06-19 10:09:38"
 slug: 9-nutrients-needed-for-gut-health-boost-your-digestive-wellness-today
 description: >-
   Maintaining a healthy gut is crucial for overall well-being. The digestive
   system plays a vital role in nutrient absorption, immune function, and even
   mental...
-seoTitle: '9 Nutrients Needed for Gut Health: Boost Your Digestive Wellness Today'
+seoTitle: "9 Nutrients Needed for Gut Health: Boost Your Digestive Wellness Today"
 ---
 
 <p>Maintaining a healthy gut is crucial for overall well-being. The digestive system plays a vital role in nutrient absorption, immune function, and even mental health. To support optimal gut health, it's essential to consume a variety of nutrients that promote beneficial bacteria growth and maintain the integrity of the intestinal lining.</p>

@@ -1,87 +1,19 @@
 ---
-title: 'Infraredi vs. Kala (2026): Best Red Light Panel in Canada?'
-date: '2026-05-20 07:00:00'
+title: "Infraredi vs. Kala (2026): Best Red Light Panel in Canada?"
+date: "2026-05-20 07:00:00"
 slug: infraredi-vs-kala
 description: >-
   Infraredi vs Kala red light therapy comparison for 2026. An RMT compares
   power, build quality, and value to find the best Canadian panel option.
-seoTitle: 'Infraredi vs Kala (2026): Best Red Light in Canada?'
+seoTitle: "Infraredi vs Kala (2026): Best Red Light in Canada?"
+rating: 4.9
+productName: Red Light Therapy Panels (Canada)
 ---
 
 <!-- wp:html -->
-<!-- Schema Markup -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "Infraredi vs Kala:  Best Canadian Red Light Therapy Panel?",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.9",
-        "bestRating": "5"
-      },
-      "itemReviewed": {
-        "@type": "ProductGroup",
-        "name": "Red Light Therapy Panels (Canada)",
-        "description": "Comparison of the best red light therapy panels available in Canada",
-        "hasVariant": [
-          {
-            "@type": "Product",
-            "name": "Infraredi Red Light Therapy Panels",
-            "description": "Medical-grade red light therapy devices known for high power, multiple wavelengths, and Health Canada approval.",
-            "brand": {
-              "@type": "Brand",
-              "name": "Infraredi"
-            },
-            "offers": {
-              "@type": "AggregateOffer",
-              "priceCurrency": "CAD",
-              "lowPrice": "599",
-              "highPrice": "1899",
-              "offerCount": "6",
-              "availability": "https://schema.org/InStock",
-              "url": "https://infraredi.ca?sca_ref=6462529.RGz70cjqsGIv"
-            },
-            "aggregateRating": {
-              "@type": "AggregateRating",
-              "ratingValue": "4.9",
-              "reviewCount": "150"
-            }
-          },
-          {
-            "@type": "Product",
-            "name": "Kala Red Light Therapy Panels",
-            "description": "Affordable, high-quality red light therapy devices with FDA certification, known for great value and accessibility.",
-            "brand": {
-              "@type": "Brand",
-              "name": "Kala"
-            },
-            "offers": {
-              "@type": "AggregateOffer",
-              "priceCurrency": "CAD",
-              "lowPrice": "449",
-              "highPrice": "1599",
-              "offerCount": "5",
-              "availability": "https://schema.org/InStock",
-              "url": "https://snwbl.io/kalatherapy/DARYL95230"
-            },
-            "aggregateRating": {
-              "@type": "AggregateRating",
-              "ratingValue": "4.9",
-              "reviewCount": "140"
-            }
-          }
-        ]
-      }
-    }
-    </script>
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
-        
+
         <header class="text-center mb-10">
             <p class="text-lg text-gray-600">Updated: December 20, 2026</p>
             <p class="mt-4 text-base text-gray-500">Deciding on the best red light therapy in Canada? This <strong>Infraredi vs Kala</strong> guide simplifies your choice by comparing these two leading brands, highlighting their strengths, product offerings, and what sets them apart in the 2026 market.</p>
@@ -94,12 +26,12 @@ seoTitle: 'Infraredi vs Kala (2026): Best Red Light in Canada?'
                     <i class="fas fa-play-circle text-accent mr-2"></i>Watch Our Complete Infraredi vs Kala Comparison
                 </h2>
                 <div class="relative w-full" style="padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 0.5rem;">
-                    <iframe 
-                        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 0.5rem;" 
-                        src="https://www.youtube-nocookie.com/embed/7xkxCo1PvaE" 
-                        title="Infraredi vs Kala Red Light Therapy Comparison" 
-                        frameborder="0" 
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                    <iframe
+                        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 0.5rem;"
+                        src="https://www.youtube-nocookie.com/embed/7xkxCo1PvaE"
+                        title="Infraredi vs Kala Red Light Therapy Comparison"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                         allowfullscreen>
                     </iframe>
                 </div>
@@ -119,7 +51,7 @@ seoTitle: 'Infraredi vs Kala (2026): Best Red Light in Canada?'
         </section>
 
         <main class="space-y-12">
-            
+
             <!-- Key Takeaways -->
             <section id="key-takeaways" class="bg-blue-50 border-l-4 border-primary p-6 rounded-lg shadow-sm">
                 <h2 class="text-2xl font-bold mb-4 !border-none !pl-0"><i class="fas fa-star text-accent mr-2"></i>Key Takeaways: Infraredi vs. Kala</h2>
@@ -284,7 +216,7 @@ seoTitle: 'Infraredi vs Kala (2026): Best Red Light in Canada?'
                     </blockquote>
                 </div>
             </section>
-            
+
             <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                 <img src="/uploads/2026/07/the-infraredi-pro-reviews-vs-other-canadian-red-light-therapy-alternatives.webp" alt="The Infraredi Pro red light therapy panel in a home setting." class="rounded-lg shadow-md w-full h-full object-cover">
                 <img src="/uploads/2026/07/showing-the-kala-pro-red-light-therapy-panel-vs-the-infraredi-.webp" alt="The Kala Pro red light therapy panel being used for treatment." class="rounded-lg shadow-md w-full h-full object-cover">
@@ -359,7 +291,7 @@ seoTitle: 'Infraredi vs Kala (2026): Best Red Light in Canada?'
                     </div>
                 </div>
             </section>
-            
+
             <!-- Best For Scenarios -->
             <section id="best-for-scenarios">
                 <h2 class="text-3xl font-bold">Best For Scenarios: Which Brand Wins for Your Needs?</h2>
@@ -401,14 +333,14 @@ seoTitle: 'Infraredi vs Kala (2026): Best Red Light in Canada?'
                     </div>
                 </div>
             </section>
-            
+
             <!-- FAQ Section -->
             <section id="faq">
                 <h2 class="text-3xl font-bold">Frequently Asked Questions</h2>
                 <div itemscope itemtype="https://schema.org/FAQPage" class="space-y-4">
-                    
+
                     <h3 class="text-xl font-bold text-primary pt-4">Brand Comparison Questions</h3>
-                    
+
                     <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" class="bg-white p-6 rounded-lg shadow-sm group">
                         <details>
                             <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">
@@ -444,7 +376,7 @@ seoTitle: 'Infraredi vs Kala (2026): Best Red Light in Canada?'
                             </div>
                         </details>
                     </div>
-                    
+
                     <h3 class="text-xl font-bold text-primary pt-4">General Red Light Therapy Questions</h3>
 
                     <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" class="bg-white p-6 rounded-lg shadow-sm group">
@@ -485,4 +417,5 @@ seoTitle: 'Infraredi vs Kala (2026): Best Red Light in Canada?'
 
         </main>
     </div>
+
 <!-- /wp:html -->

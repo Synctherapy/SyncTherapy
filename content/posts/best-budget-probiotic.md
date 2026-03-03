@@ -1,6 +1,6 @@
 ---
 title: 10 Best Budget Probiotic Supplements for Gut Health in 2026 That Actually Work
-date: '2026-06-06 01:22:19'
+date: "2026-06-06 01:22:19"
 slug: best-budget-probiotic
 description: >-
   Ten best budget probiotic supplements for gut health in 2026. Affordable picks

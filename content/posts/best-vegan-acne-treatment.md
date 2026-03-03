@@ -1,6 +1,6 @@
 ---
 title: Best Vegan Acne Treatment For Acne-Prone Skin in 2026
-date: '2026-06-19 16:37:19'
+date: "2026-06-19 16:37:19"
 slug: best-vegan-acne-treatment
 description: >-
   Are you seeking a pathway to clear, radiant skin that aligns with your vegan

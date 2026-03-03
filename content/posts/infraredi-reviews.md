@@ -1,53 +1,24 @@
 ---
-title: 'Infraredi Reviews, Pro Max, Flex Max, 15% Off'
-date: '2026-02-12 08:00:00'
+title: "Infraredi Reviews, Pro Max, Flex Max, 15% Off"
+date: "2026-02-12 08:00:00"
 slug: infraredi-reviews
 description: >-
   Detailed Infraredi red light therapy review for 2026. Pro Max and Flex Max
   panels tested by an RMT. Canadian shipping, specs, and 15% discount code.
-seoTitle: 'Infraredi Review 2026: Pro Max & Flex Max Tested'
+seoTitle: "Infraredi Review 2026: Pro Max & Flex Max Tested"
+productName: Infraredi Pro Series
 ---
 
 <!-- wp:html -->
-<!-- Schema Markup -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "Infraredi Reviews: Pro Series",
-      "headline": "Infraredi Canada Reviews (2026): Is The Pro Max Worth It?",
-      "author": {
-        "@type": "Person",
-        "name": "Daryl C",
-        "url": "https://synctherapylocal.local/author/daryl-c/",
-         "affiliation": {
-            "@type": "Organization",
-            "name": "Sync Therapy"
-        }
-      },
-      "datePublished": "2026-07-02",
-      "itemReviewed": {
-        "@type": "Product",
-        "name": "Infraredi Pro Series",
-        "brand": { "@type": "Brand", "name": "Infraredi" },
-        "description": "A line of medical-grade red light therapy devices designed for muscle recovery, pain relief, and skin health, featuring multiple wavelengths and premium construction.",
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "reviewCount": "289"
-        }
-      }
-    }
-    </script>
 
     <div class="container mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
-        
+
         <header class="text-center mb-10">
             <p class="text-lg text-gray-600 max-w-3xl mx-auto">Discover the transformative power of light therapy with our comprehensive Infraredi review, focusing on the cutting-edge Pro Series. This article delves into the device's advanced technology, portability, and the myriad of health benefits it offers for muscle recovery, pain relief, and overall wellness.</p>
         </header>
 
         <main class="space-y-16">
-            
+
             <!-- Key Takeaways -->
             <section id="key-takeaways" class="bg-blue-50 border-l-4 border-primary p-6 rounded-lg shadow-sm">
                 <h2 class="text-2xl font-bold mb-4 !border-none !pl-0"><i class="fas fa-star text-accent mr-2"></i>Key Takeaways From Our Infraredi Review</h2>
@@ -252,7 +223,7 @@ seoTitle: 'Infraredi Review 2026: Pro Max & Flex Max Tested'
                     </div>
                 </div>
             </section>
-            
+
             <!-- Common Alternatives Section -->
             <section id="alternatives">
                 <h2>Considering Other Options?</h2>
@@ -308,6 +279,7 @@ seoTitle: 'Infraredi Review 2026: Pro Max & Flex Max Tested'
 
         </main>
     </div>
+
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->

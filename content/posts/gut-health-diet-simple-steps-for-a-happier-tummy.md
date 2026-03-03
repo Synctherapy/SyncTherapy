@@ -1,12 +1,12 @@
 ---
-title: 'Gut Health Diet: Simple Steps for a Happier Tummy'
-date: '2026-11-28 19:31:24'
+title: "Gut Health Diet: Simple Steps for a Happier Tummy"
+date: "2026-11-28 19:31:24"
 slug: gut-health-diet-simple-steps-for-a-happier-tummy
 description: >-
   Eating the right foods can make a big difference for your gut health. The gut
   is home to trillions of tiny organisms that play a key role in digestion
   and...
-seoTitle: 'Gut Health Diet: Simple Steps for a Happier Tummy'
+seoTitle: "Gut Health Diet: Simple Steps for a Happier Tummy"
 ---
 
 <p>Eating the right foods can make a big difference for your gut health. The gut is home to trillions of tiny organisms that play a key role in digestion and overall wellness. <strong>A diet rich in fiber, fermented foods, and plant-based options helps <a href="https://www.nature.com/articles/s41575-018-0061-2">support a healthy gut microbiome</a>.</strong></p>

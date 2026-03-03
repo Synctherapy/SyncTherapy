@@ -2,7 +2,7 @@
 title: >-
   Molecular Hydrogen and Mental Health Research: Exploring the Promising
   Connection
-date: '2026-05-22 14:56:27'
+date: "2026-05-22 14:56:27"
 slug: molecular-hydrogen-and-mental-health-research
 description: >-
   Molecular hydrogen, a small and simple molecule, may be the key to novel

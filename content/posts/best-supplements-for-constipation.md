@@ -1,6 +1,6 @@
 ---
 title: 12 best supplements for constipation in 2026 Vitamins Supplements
-date: '2026-08-17 19:57:40'
+date: "2026-08-17 19:57:40"
 slug: best-supplements-for-constipation
 description: >-
   Twelve best supplements and vitamins for constipation relief in 2026.

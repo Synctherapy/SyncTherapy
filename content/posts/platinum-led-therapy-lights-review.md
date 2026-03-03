@@ -1,6 +1,6 @@
 ---
-title: 'Platinum LED BioMax 900 Review: Your Best Choice'
-date: '2026-02-28'
+title: "Platinum LED BioMax 900 Review: Your Best Choice"
+date: "2026-02-28"
 slug: platinum-led-therapy-lights-review
 description: >-
   Platinum LED BioMax 900 review by an RMT. Power density, build quality, and

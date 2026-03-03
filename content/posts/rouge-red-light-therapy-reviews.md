@@ -1,6 +1,6 @@
 ---
-title: 'Rouge Red Light Review 2026: G4 Pro & Max Tested'
-date: '2026-02-28'
+title: "Rouge Red Light Review 2026: G4 Pro & Max Tested"
+date: "2026-02-28"
 slug: rouge-red-light-therapy-reviews
 description: >-
   Hands-on Rouge G4 red light therapy review. Pro, Max, Tabletop, and Ultimate models tested by an RMT. Canadian pricing, specs, and honest verdict.

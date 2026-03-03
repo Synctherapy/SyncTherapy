@@ -1,15 +1,14 @@
 ---
-title: 'HigherDOSE Sauna Blanket Review 2026: 5-Year Test'
-date: '2026-05-27 07:00:00'
+title: "HigherDOSE Sauna Blanket Review 2026: 5-Year Test"
+date: "2026-05-27 07:00:00"
 slug: higherdose-sauna-blanket
 description: >-
   The higherdose sauna blanket review has gained widespread attention for
   evaluating one of the most innovative at-home wellness products on the market.
   This...
-seoTitle: 'HigherDOSE Sauna Blanket Review 2026: 5-Year Test'
+seoTitle: "HigherDOSE Sauna Blanket Review 2026: 5-Year Test"
 ---
 
-   
 <div id="bloggy--article">
 
 <div class="bggle--block bggle_text margin_vertical--small     margin-top_none" id="1723907056382" section-id="1723907056382">

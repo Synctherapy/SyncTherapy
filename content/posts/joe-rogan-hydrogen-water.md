@@ -1,12 +1,12 @@
 ---
-title: 'Joe Rogan Hydrogen Water: Podcaster Explores Potential Health Benefits'
-date: '2026-02-03 05:18:52'
+title: "Joe Rogan Hydrogen Water: Podcaster Explores Potential Health Benefits"
+date: "2026-02-03 05:18:52"
 slug: joe-rogan-hydrogen-water
 description: >-
   Joe Rogan has sparked significant interest in hydrogen water through his
   podcast, highlighting its potential health benefits. Hydrogen water, which is
   water...
-seoTitle: 'Joe Rogan Hydrogen Water: Podcaster Explores Potential Health Benefits'
+seoTitle: "Joe Rogan Hydrogen Water: Podcaster Explores Potential Health Benefits"
 ---
 
 <p>Joe Rogan has sparked significant interest in hydrogen water through his podcast, highlighting its potential health benefits.</p>

@@ -2,7 +2,7 @@
 title: >-
   Can a Probiotic Help You Lose Weight? Probiotics Can Help with Weight Loss and
   Belly Fat
-date: '2026-07-01 01:09:00'
+date: "2026-07-01 01:09:00"
 slug: can-a-probiotic-help-you-lose-weight
 description: >-
   Discover the power of probiotics in your weight loss journey! Recent studies

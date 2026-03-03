@@ -1,6 +1,6 @@
 ---
 title: How to Use Red Light Therapy at Home (2026 Protocol)
-date: '2026-04-06 15:29:04'
+date: "2026-04-06 15:29:04"
 slug: how-to-use-red-light-therapy-at-home
 description: >-
   Learning how to use red light therapy at home can transform your approach to

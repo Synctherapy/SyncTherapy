@@ -1,11 +1,11 @@
 ---
 title: Purity Coffee Reviews – Best Organic Coffee Beans + Discount
-date: '2026-06-29 18:20:42'
+date: "2026-06-29 18:20:42"
 slug: purity-coffee-reviews
 description: >-
   Purity Coffee review with a discount code. Mold-free, organic coffee beans
   tested for taste and health benefits. Is the premium price justified?
-seoTitle: 'Purity Coffee Review: Best Organic Coffee Beans'
+seoTitle: "Purity Coffee Review: Best Organic Coffee Beans"
 ---
 
 <p> </p>

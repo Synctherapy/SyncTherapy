@@ -1,50 +1,19 @@
 ---
-title: 'YourBiology Gut+ Reviews: Is It A Good Womens Probiotic in 2026?'
-date: '2026-09-07 17:58:23'
+title: "YourBiology Gut+ Reviews: Is It A Good Womens Probiotic in 2026?"
+date: "2026-09-07 17:58:23"
 slug: yourbiology-gut-reviews
 description: >-
   YourBiology Gut+ review for 2026. Is this a good women's probiotic? Strains,
   benefits, and value assessed by a certified Holistic Nutritionist.
-seoTitle: 'YourBiology Gut+ Review: Best Women''s Probiotic?'
+seoTitle: "YourBiology Gut+ Review: Best Women's Probiotic?"
+rating: 4.7
+productName: YourBiology Gut+
 ---
 
 <!-- wp:html -->
-<!-- Schema Markup -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "YourBiology Gut+ Reviews: Is It A Good Womens Probiotic in 2026?",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.7",
-        "bestRating": "5"
-      },
-      "itemReviewed": {
-        "@type": "Product",
-        "name": "YourBiology Gut+",
-        "description": "A high-quality probiotic and prebiotic supplement with 20 billion CFUs and 10 live strains, designed to improve digestion, balance gut flora, and enhance overall wellness, particularly for women.",
-        "brand": {
-          "@type": "Brand",
-          "name": "YourBiology"
-        },
-        "image": "/uploads/content/yourbiology-gut-review.jpg",
-        "offers": {
-          "@type": "Offer",
-          "url": "https://www.wb22trk.com/KHZKTN3/41NTW2/?uid=2190",
-          "priceCurrency": "USD",
-          "price": "79.99"
-        }
-      }
-    }
-    </script>
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
-        
+
         <main class="space-y-12">
 
             <!-- Quick Verdict / Editor's Choice -->
@@ -103,7 +72,7 @@ seoTitle: 'YourBiology Gut+ Review: Best Women''s Probiotic?'
                     </div>
                 </div>
             </section>
-            
+
             <!-- Testimonials -->
             <section id="testimonials">
                 <h2 class="text-3xl font-bold">Real Women, Real Results</h2>
@@ -124,7 +93,7 @@ seoTitle: 'YourBiology Gut+ Review: Best Women''s Probiotic?'
                     </div>
                 </div>
             </section>
-            
+
             <!-- Us vs Them Comparison -->
             <section id="comparison">
                 <h2 class="text-3xl font-bold">How Gut+ Stacks Up Against The Competition</h2>
@@ -254,7 +223,7 @@ seoTitle: 'YourBiology Gut+ Review: Best Women''s Probiotic?'
                     </details>
                 </div>
             </section>
-            
+
             <!-- Scientific Sources -->
             <section id="sources">
                 <h2 class="text-2xl font-bold">Trusted Scientific Sources</h2>
@@ -269,4 +238,5 @@ seoTitle: 'YourBiology Gut+ Review: Best Women''s Probiotic?'
 
         </main>
     </div>
+
 <!-- /wp:html -->

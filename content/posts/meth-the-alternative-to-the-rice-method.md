@@ -1,6 +1,6 @@
 ---
 title: METH; The Alternative To The RICE Method
-date: '2026-06-19 10:07:25'
+date: "2026-06-19 10:07:25"
 slug: meth-the-alternative-to-the-rice-method
 description: >-
   Meth Vs RiceIs RICE the best way to improve an injury?The meth method for

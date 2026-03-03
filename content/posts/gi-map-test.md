@@ -1,43 +1,24 @@
 ---
-title: 'GI-MAP Stool Test Canada: 2026 Cost & Review'
-date: '2026-06-19 10:09:14'
+title: "GI-MAP Stool Test Canada: 2026 Cost & Review"
+date: "2026-06-19 10:09:14"
 slug: gi-map-test
 description: >-
   /* Custom styles based on the new design template */ body { font-family:
   'Inter', sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color:
   #333333; /*...
-seoTitle: 'GI-MAP Stool Test Canada: 2026 Cost & Review'
+seoTitle: "GI-MAP Stool Test Canada: 2026 Cost & Review"
 ---
 
 <!-- wp:html -->
-<!-- Schema Markup -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "headline": "GI-MAP Test Guide 2026: Complete Gut Health Analysis",
-      "description": "Comprehensive guide to the GI-MAP test for gut health analysis, including gut dysbiosis, leaky gut, and digestive health assessment.",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "datePublished": "2026-01-01",
-      "dateModified": "2026-01-01",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://synctherapylocal.local/blogs/gut-health/gi-map-test-guide"
-      }
-    }
-    </script>
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
-        
+
         <header class="text-center mb-10">
             <p class="text-lg text-gray-600">Discover how the revolutionary GI-MAP test can unlock the secrets of your gut health and transform your overall wellness in 2026.</p>
         </header>
 
         <main class="space-y-12">
-            
+
             <!-- Key Takeaways -->
             <section id="key-takeaways" class="bg-blue-50 border-l-4 border-primary p-6 rounded-lg shadow-sm">
                 <h2 class="text-2xl font-bold mb-4 !border-none !pl-0"><i class="fas fa-star text-accent mr-2"></i>Key Takeaways: GI-MAP Testing for Optimal Gut Health</h2>
@@ -149,7 +130,7 @@ seoTitle: 'GI-MAP Stool Test Canada: 2026 Cost & Review'
             <!-- Gut Health Significance -->
             <section id="gut-health-significance">
                 <h2 class="text-3xl font-bold">The Critical Role of Gut Health in Overall Wellness</h2>
-                
+
                 <p class="text-lg leading-relaxed mb-6">Gut health emerges as a central pillar in the quest for overall well-being, influencing a spectrum of physiological and psychological aspects beyond the digestive tract. The intricate balance of the gut microbiota plays a critical role in:</p>
 
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
@@ -204,14 +185,14 @@ seoTitle: 'GI-MAP Stool Test Canada: 2026 Cost & Review'
             <!-- How GI-MAP Works -->
             <section id="how-gi-map-works">
                 <h2 class="text-3xl font-bold">How GI-MAP Stands Out: Advanced Microbial Analysis Technology</h2>
-                
+
                 <p class="text-lg leading-relaxed mb-6">The GI-MAP test distinguishes itself through its advanced <strong>GI Microbial Assay Plus</strong> technology, utilizing gastrointestinal microbiota DNA from a single stool sample to offer unparalleled insight into the gut's microbial landscape.</p>
 
                 <h3 class="text-2xl font-bold mb-4">The Power of qPCR Technology</h3>
-                
+
                 <div class="bg-white p-8 rounded-lg shadow-md mb-6">
                     <p class="mb-6">At the heart of the GI-MAP test lies the innovative use of <strong>qPCR (quantitative Polymerase Chain Reaction)</strong> technology, a method that revolutionizes the quantification of gastrointestinal pathogens. This advanced technique allows for:</p>
-                    
+
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                         <div>
                             <h4 class="font-semibold text-lg mb-3 text-primary">Precise Detection</h4>
@@ -262,7 +243,7 @@ seoTitle: 'GI-MAP Stool Test Canada: 2026 Cost & Review'
             <!-- Gut Permeability Section -->
             <section id="gut-permeability">
                 <h2 class="text-3xl font-bold">Understanding Gut Permeability and Its Impact on Chronic Health</h2>
-                
+
                 <p class="mb-6">Recent studies have established a compelling link between increased gut permeability — often referred to as <strong>"leaky gut"</strong> — and a multitude of chronic health issues. Research published in <a href="https://www.frontiersin.org/articles/10.3389/fimmu.2019.02325/full" target="_blank" rel="noopener" class="text-primary hover:underline">Frontiers in Immunology</a> demonstrates how this condition occurs when the intestinal barrier becomes compromised, allowing toxins and pathogens to translocate into the bloodstream.</p>
 
                 <p class="mb-6">Understanding the role of gut permeability in chronic health conditions is pivotal. Our comprehensive guide on <a href="/best-leaky-gut-supplements/" class="text-primary hover:underline">warning signs of leaky gut</a> provides detailed information on recognizing these symptoms early.</p>
@@ -307,7 +288,7 @@ seoTitle: 'GI-MAP Stool Test Canada: 2026 Cost & Review'
             <!-- Who Benefits Section -->
             <section id="who-benefits">
                 <h2 class="text-3xl font-bold">Who Should Consider GI-MAP Comprehensive Stool Analysis?</h2>
-                
+
                 <p class="text-lg leading-relaxed mb-6">The GI-MAP comprehensive stool analysis offers invaluable insights into the complex ecosystem of the gut microbiota, making it an essential tool for a broad spectrum of individuals seeking to optimize their health.</p>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-8">
@@ -336,7 +317,7 @@ seoTitle: 'GI-MAP Stool Test Canada: 2026 Cost & Review'
                             </li>
                         </ul>
                     </div>
-                    
+
                     <div class="bg-white p-6 rounded-lg shadow-md">
                         <h3 class="text-xl font-bold mb-4 text-primary">Additional Candidates</h3>
                         <ul class="space-y-3">
@@ -368,7 +349,7 @@ seoTitle: 'GI-MAP Stool Test Canada: 2026 Cost & Review'
                     <h4 class="font-semibold text-lg mb-3 text-yellow-800">Ideal Testing Scenarios</h4>
                     <p class="text-yellow-700 mb-3">The GI-MAP test is particularly valuable for individuals whose symptoms have not improved despite standard treatments, suggesting an underlying imbalance in gut microbiota that needs to be addressed.</p>
                     <p class="text-yellow-700 mb-4">By pinpointing specific imbalances within the gut microbiota, the test offers a foundation for targeted therapeutic interventions, aiming to restore gut health and improve overall wellness. For specific digestive concerns, explore our guides on probiotics for acid reflux and <a href="/best-supplements-for-sibo/" class="text-primary hover:underline">SIBO supplements</a>.</p>
-                    
+
                     <div class="text-center">
                         <a href="https://truehealthlabs.com/labshop/daryl-stubbs/" target="_blank" class="bg-accent text-gray-900 font-bold py-3 px-6 rounded-lg hover:bg-yellow-400 transition-colors inline-block">
                             Check Current GI-MAP Pricing <i class="fas fa-tag ml-2"></i>
@@ -380,11 +361,11 @@ seoTitle: 'GI-MAP Stool Test Canada: 2026 Cost & Review'
             <!-- Test Process Section -->
             <section id="test-process">
                 <h2 class="text-3xl font-bold">The GI-MAP Test Process: From Collection to Results</h2>
-                
+
                 <p class="text-lg leading-relaxed mb-6">The GI-MAP stool analysis is designed with patient convenience and precision in mind, employing quantitative PCR technology to accurately assess gut microbiota composition, immune function, and critical markers like fecal occult blood and pancreatic function.</p>
 
                 <h3 class="text-2xl font-bold mb-4">Test Preparation Guidelines</h3>
-                
+
                 <div class="bg-white p-8 rounded-lg shadow-md mb-6">
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                         <div>
@@ -409,7 +390,7 @@ seoTitle: 'GI-MAP Stool Test Canada: 2026 Cost & Review'
                 </div>
 
                 <h3 class="text-2xl font-bold mb-4">Step-by-Step Collection Process</h3>
-                
+
                 <div class="space-y-6 mb-8">
                     <div class="bg-blue-50 p-6 rounded-lg border-l-4 border-primary">
                         <h4 class="font-semibold text-lg mb-3">Collection Kit Contents</h4>
@@ -459,10 +440,10 @@ seoTitle: 'GI-MAP Stool Test Canada: 2026 Cost & Review'
                 </div>
 
                 <h3 class="text-2xl font-bold mb-4">Shipping and Timeline</h3>
-                
+
                 <div class="bg-white p-6 rounded-lg shadow-md mb-6">
                     <p class="mb-4">Once the specimen has been collected, ensuring safe and timely delivery to the laboratory is critical for maintaining sample integrity and accurate results.</p>
-                    
+
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                         <div>
                             <h4 class="font-semibold text-lg mb-3 text-primary">Shipping Requirements</h4>
@@ -489,7 +470,7 @@ seoTitle: 'GI-MAP Stool Test Canada: 2026 Cost & Review'
             <!-- Understanding Results Section -->
             <section id="understanding-results">
                 <h2 class="text-3xl font-bold">Understanding Your GI-MAP Results for Informed Health Decisions</h2>
-                
+
                 <p class="text-lg leading-relaxed mb-6">The GI-MAP test report provides a comprehensive document with detailed breakdown of findings, including the presence of opportunistic pathogens, balance of gut flora, and indicators of immune function and gut health.</p>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-8">
@@ -526,7 +507,7 @@ seoTitle: 'GI-MAP Stool Test Canada: 2026 Cost & Review'
                             </li>
                         </ul>
                     </div>
-                    
+
                     <div class="bg-white p-6 rounded-lg shadow-md">
                         <h3 class="text-xl font-bold mb-4 text-primary">Functional Markers</h3>
                         <ul class="space-y-3">
@@ -591,12 +572,12 @@ seoTitle: 'GI-MAP Stool Test Canada: 2026 Cost & Review'
             <!-- Treatment Plans Section -->
             <section id="treatment-plans">
                 <h2 class="text-3xl font-bold">From Symptoms to Solutions: Tailored Treatment Approaches</h2>
-                
+
                 <p class="text-lg leading-relaxed mb-6">Treatment plans based on GI-MAP results are meticulously tailored, taking into account which infections are urgent and how gut dysfunction impacts the individual. This approach prioritizes areas of the gut that are already compromised while planning future interventions.</p>
 
                 <div class="bg-white p-8 rounded-lg shadow-md mb-8">
                     <h3 class="text-xl font-bold mb-6 text-primary">Treatment Prioritization Strategy</h3>
-                    
+
                     <div class="space-y-6">
                         <div class="border-l-4 border-red-400 pl-6">
                             <h4 class="font-semibold text-lg text-red-600 mb-2">Phase 1: Address Urgent Infections</h4>
@@ -634,10 +615,10 @@ seoTitle: 'GI-MAP Stool Test Canada: 2026 Cost & Review'
                 </div>
 
                 <h3 class="text-2xl font-bold mb-4">Monitoring Progress and Retesting</h3>
-                
+
                 <div class="bg-blue-50 p-6 rounded-lg border-l-4 border-primary mb-6">
                     <p class="mb-4">Following the initial treatment phase, a retest is often recommended to ensure infections have resolved and dysbiosis has improved. This step is crucial for assessing treatment effectiveness and determining if further interventions are necessary.</p>
-                    
+
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                         <div>
                             <h4 class="font-semibold mb-2">Typical Retest Timeline:</h4>
@@ -675,7 +656,7 @@ seoTitle: 'GI-MAP Stool Test Canada: 2026 Cost & Review'
             <!-- Next Steps Section -->
             <section id="next-steps">
                 <h2 class="text-3xl font-bold">Your Pathway to Personalized Gut Health Begins with GI-MAP</h2>
-                
+
                 <p class="text-lg leading-relaxed mb-6">The journey towards optimal health is deeply intertwined with the state of our gut bacteria, and the GI-MAP test offers a doorway to understanding and improving this crucial aspect of wellness.</p>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-8">
@@ -700,7 +681,7 @@ seoTitle: 'GI-MAP Stool Test Canada: 2026 Cost & Review'
                             </li>
                         </ul>
                     </div>
-                    
+
                     <div class="bg-white p-6 rounded-lg shadow-md">
                         <h3 class="text-xl font-bold mb-4 text-primary">Expected Benefits</h3>
                         <ul class="space-y-3">
@@ -733,14 +714,14 @@ seoTitle: 'GI-MAP Stool Test Canada: 2026 Cost & Review'
                 <div class="bg-white p-8 rounded-lg shadow-md mt-8">
                     <h3 class="text-xl font-bold mb-4 text-center text-primary">Ready to Transform Your Gut Health?</h3>
                     <p class="text-center mb-6 text-gray-600">The GI-MAP test provides the roadmap to optimal digestive wellness. Based on findings from leading research institutions like <a href="https://www.cell.com/cell/fulltext/S0092-8674(16)31590-3" target="_blank" rel="noopener" class="text-primary hover:underline">Harvard Medical School</a> and <a href="https://www.mayo.edu/research/labs/microbiome-program" target="_blank" rel="noopener" class="text-primary hover:underline">Mayo Clinic</a>, comprehensive microbiome testing is essential for personalized health optimization.</p>
-                    
+
                     <div class="text-center">
                         <a href="https://truehealthlabs.com/labshop/daryl-stubbs/" target="_blank" class="affiliate-button text-lg px-8 py-4 rounded-lg">
                             Order GI-MAP Test Now <i class="fas fa-arrow-right ml-2"></i>
                         </a>
                         <p class="text-sm text-gray-500 mt-3">Trusted by healthcare professionals • Evidence-based results</p>
                     </div>
-                    
+
                     <div class="mt-6 pt-6 border-t border-gray-200">
                         <h4 class="font-semibold mb-3 text-center">Additional Resources for Gut Health</h4>
                         <div class="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm">
@@ -769,7 +750,7 @@ seoTitle: 'GI-MAP Stool Test Canada: 2026 Cost & Review'
                         </summary>
                         <p class="mt-4 text-gray-700">The GI-MAP uses advanced qPCR technology, which is significantly more accurate than traditional culture-based methods. According to <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5831232/" target="_blank" rel="noopener" class="text-primary hover:underline">clinical studies</a>, it can detect organisms that don't grow well in culture and provides quantitative results that show the actual levels of microorganisms present, not just their presence or absence.</p>
                     </details>
-                    
+
                     <details class="bg-white p-6 rounded-lg shadow-sm group">
                         <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">
                             What should I expect to pay for a GI-MAP test?
@@ -784,7 +765,7 @@ seoTitle: 'GI-MAP Stool Test Canada: 2026 Cost & Review'
                             </div>
                         </div>
                     </details>
-                    
+
                     <details class="bg-white p-6 rounded-lg shadow-sm group">
                         <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">
                             How long does it take to see improvements after following GI-MAP recommendations?
@@ -792,7 +773,7 @@ seoTitle: 'GI-MAP Stool Test Canada: 2026 Cost & Review'
                         </summary>
                         <p class="mt-4 text-gray-700">Timeline varies depending on individual conditions and compliance with recommendations. Many patients notice initial improvements in symptoms within 2-4 weeks, with more significant changes occurring over 3-6 months. Complete gut microbiome rebalancing may take 6-12 months of consistent protocol adherence. Learn more about <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2lnbnMtdGhhdC1wcm9iaW90aWNzLWFyZS13b3JraW5nLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2lnbnMtdGhhdC1wcm9iaW90aWNzLWFyZS13b3JraW5nLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2lnbnMtdGhhdC1wcm9iaW90aWNzLWFyZS13b3JraW5nLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2lnbnMtdGhhdC1wcm9iaW90aWNzLWFyZS13b3JraW5nLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2lnbnMtdGhhdC1wcm9iaW90aWNzLWFyZS13b3JraW5nLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2lnbnMtdGhhdC1wcm9iaW90aWNzLWFyZS13b3JraW5nLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2lnbnMtdGhhdC1wcm9iaW90aWNzLWFyZS13b3JraW5nLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2lnbnMtdGhhdC1wcm9iaW90aWNzLWFyZS13b3JraW5nLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2lnbnMtdGhhdC1wcm9iaW90aWNzLWFyZS13b3JraW5nLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2lnbnMtdGhhdC1wcm9iaW90aWNzLWFyZS13b3JraW5nLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2lnbnMtdGhhdC1wcm9iaW90aWNzLWFyZS13b3JraW5nLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2lnbnMtdGhhdC1wcm9iaW90aWNzLWFyZS13b3JraW5nLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2lnbnMtdGhhdC1wcm9iaW90aWNzLWFyZS13b3JraW5nLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2lnbnMtdGhhdC1wcm9iaW90aWNzLWFyZS13b3JraW5nLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2lnbnMtdGhhdC1wcm9iaW90aWNzLWFyZS13b3JraW5nLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2lnbnMtdGhhdC1wcm9iaW90aWNzLWFyZS13b3JraW5nLw==" href="/best-prebiotics-and-probiotics-supplements/" class="text-primary hover:underline">signs that probiotics are working</a>.</p>
                     </details>
-                    
+
                     <details class="bg-white p-6 rounded-lg shadow-sm group">
                         <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">
                             Can I do the GI-MAP test if I'm taking probiotics or medications?
@@ -800,7 +781,7 @@ seoTitle: 'GI-MAP Stool Test Canada: 2026 Cost & Review'
                         </summary>
                         <p class="mt-4 text-gray-700">It's recommended to discontinue <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1zb2lsLWJhc2VkLXByb2Jpb3RpY3Mv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1zb2lsLWJhc2VkLXByb2Jpb3RpY3Mv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1zb2lsLWJhc2VkLXByb2Jpb3RpY3Mv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1zb2lsLWJhc2VkLXByb2Jpb3RpY3Mv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1zb2lsLWJhc2VkLXByb2Jpb3RpY3Mv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1zb2lsLWJhc2VkLXByb2Jpb3RpY3Mv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1zb2lsLWJhc2VkLXByb2Jpb3RpY3Mv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1zb2lsLWJhc2VkLXByb2Jpb3RpY3Mv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1zb2lsLWJhc2VkLXByb2Jpb3RpY3Mv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1zb2lsLWJhc2VkLXByb2Jpb3RpY3Mv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1zb2lsLWJhc2VkLXByb2Jpb3RpY3Mv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVzdC1zb2lsLWJhc2VkLXByb2Jpb3RpY3Mv" href="/best-soil-based-probiotics/" class="text-primary hover:underline">probiotics</a> for 2 weeks and avoid antibiotics for 4 weeks before testing when possible. However, if you're on essential medications, consult with your healthcare provider about the best approach. Some medications may affect results, but stopping them isn't always advisable.</p>
                     </details>
-                    
+
                     <details class="bg-white p-6 rounded-lg shadow-sm group">
                         <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">
                             Is the GI-MAP test suitable for children?
@@ -819,7 +800,7 @@ seoTitle: 'GI-MAP Stool Test Canada: 2026 Cost & Review'
                         </summary>
                         <p class="mt-4 text-gray-700">The GI-MAP uses advanced qPCR technology, which is significantly more accurate than traditional culture-based methods. It can detect organisms that don't grow well in culture and provides quantitative results that show the actual levels of microorganisms present, not just their presence or absence.</p>
                     </details>
-                    
+
                     <details class="bg-white p-6 rounded-lg shadow-sm group">
                         <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">
                             What should I expect to pay for a GI-MAP test?
@@ -827,7 +808,7 @@ seoTitle: 'GI-MAP Stool Test Canada: 2026 Cost & Review'
                         </summary>
                         <p class="mt-4 text-gray-700">GI-MAP test costs typically range from $300-500 USD, depending on your healthcare provider and location. While not usually covered by insurance, many practitioners offer payment plans. The comprehensive nature of the test often provides better value than multiple individual tests.</p>
                     </details>
-                    
+
                     <details class="bg-white p-6 rounded-lg shadow-sm group">
                         <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">
                             How long does it take to see improvements after following GI-MAP recommendations?
@@ -835,7 +816,7 @@ seoTitle: 'GI-MAP Stool Test Canada: 2026 Cost & Review'
                         </summary>
                         <p class="mt-4 text-gray-700">Timeline varies depending on individual conditions and compliance with recommendations. Many patients notice initial improvements in symptoms within 2-4 weeks, with more significant changes occurring over 3-6 months. Complete gut microbiome rebalancing may take 6-12 months of consistent protocol adherence.</p>
                     </details>
-                    
+
                     <details class="bg-white p-6 rounded-lg shadow-sm group">
                         <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">
                             Can I do the GI-MAP test if I'm taking probiotics or medications?
@@ -843,7 +824,7 @@ seoTitle: 'GI-MAP Stool Test Canada: 2026 Cost & Review'
                         </summary>
                         <p class="mt-4 text-gray-700">It's recommended to discontinue probiotics for 2 weeks and avoid antibiotics for 4 weeks before testing when possible. However, if you're on essential medications, consult with your healthcare provider about the best approach. Some medications may affect results, but stopping them isn't always advisable.</p>
                     </details>
-                    
+
                     <details class="bg-white p-6 rounded-lg shadow-sm group">
                         <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">
                             Is the GI-MAP test suitable for children?
@@ -869,7 +850,7 @@ seoTitle: 'GI-MAP Stool Test Canada: 2026 Cost & Review'
                     </a>
                     <p class="text-sm opacity-90 mt-3">Join thousands who've transformed their health • Professional support included</p>
                 </div>
-                
+
                 <div class="mt-8 pt-6 border-t border-blue-400 border-opacity-30">
                     <h3 class="text-xl font-bold mb-4 text-center">Continue Your Gut Health Education</h3>
                     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 text-sm">
@@ -912,7 +893,7 @@ seoTitle: 'GI-MAP Stool Test Canada: 2026 Cost & Review'
             const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
             const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
             const scrolled = (winScroll / height) * 100;
-            
+
             // Update any progress indicators
             document.querySelectorAll('.progress-indicator').forEach(indicator => {
                 indicator.style.setProperty('--progress', scrolled + '%');
@@ -942,4 +923,5 @@ seoTitle: 'GI-MAP Stool Test Canada: 2026 Cost & Review'
             observer.observe(section);
         });
     </script>
+
 <!-- /wp:html -->

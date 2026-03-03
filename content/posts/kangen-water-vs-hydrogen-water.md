@@ -1,12 +1,12 @@
 ---
-title: 'Kangen vs. Hydrogen Water (2026): Don''t Overpay'
-date: '2026-02-04 22:07:03'
+title: "Kangen vs. Hydrogen Water (2026): Don't Overpay"
+date: "2026-02-04 22:07:03"
 slug: kangen-water-vs-hydrogen-water
 description: >-
   Introduction The rise of alkaline water &amp; hydrogen water has fueled
   debates about which is truly beneficial for health. Among the most popular
   brands,...
-seoTitle: 'Kangen vs. Hydrogen Water (2026): Don''t Overpay'
+seoTitle: "Kangen vs. Hydrogen Water (2026): Don't Overpay"
 ---
 
 <h2><strong>Introduction</strong></h2>

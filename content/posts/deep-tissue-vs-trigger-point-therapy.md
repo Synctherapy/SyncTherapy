@@ -2,7 +2,7 @@
 title: >-
   Deep Tissue vs Trigger Point Therapy: What's Best for Victoria Athletes?
   Comparing Effective Recovery Methods for Peak Performance
-date: '2026-04-01 16:28:23'
+date: "2026-04-01 16:28:23"
 slug: deep-tissue-vs-trigger-point-therapy
 description: >-
   Many athletes in Victoria face muscle pain and tension from intense training.

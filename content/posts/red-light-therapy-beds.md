@@ -6,276 +6,28 @@ description: >-
   Commercial red light therapy bed reviews for 2026. Full-body LED beds compared
   for clinics and home use. Coverage, power, pricing, and recommendations.
 seoTitle: Best Red Light Therapy Beds (2026 Reviews)
+faqs:
+  - question: How much do commercial red light therapy beds cost?
+    answer: Commercial beds range from $21,000 (Rouge Horizon G4) to title: Best Commercial Red Light Therapy Beds (2026 Reviews)
+date: '2026-02-27 18:20:38'
+slug: red-light-therapy-beds
+description: >-
+  Commercial red light therapy bed reviews for 2026. Full-body LED beds compared
+  for clinics and home use. Coverage, power, pricing, and recommendations.
+seoTitle: Best Red Light Therapy Beds (2026 Reviews)20,000+ (NovoTHOR). Mid-range options like MitoRECHARGE ($28k) and TheraLight 360 ($60-80k) offer different trade-offs between features and budget. DIY panel setups can achieve similar results for $3,000-5,000.
+  - question: Are red light therapy beds better than panels?
+    answer: Beds provide simultaneous full-body coverage (front and back), reducing session time from 20-40 minutes with panels to 10-15 minutes. This is critical for commercial operations where throughput matters. For home use, panels are more cost-effective.
+  - question: What electrical requirements do commercial red light beds need?
+    answer: It varies by model. MitoRECHARGE and Prism Light Pod run on standard 110V outlets. TheraLight 360 and NovoTHOR require dedicated 220V/30A circuits (electrician install). Rouge Horizon G4 is universal voltage (100-240V). Budget $500-2,000 for electrical upgrades if needed.
+  - question: "What's the ROI for adding a red light bed to my clinic?"
+    answer: "At $60/session with 6 sessions/day, 5 days/week, you'd generate ~$78,000/year. A Rouge Horizon G4 ($21k) pays back in 3-4 months. Premium beds like TheraLight ($70k) take 10-12 months. Most clinics also report increased patient retention and referrals."
+  - question: Are red light therapy beds safe?
+    answer: "Yes, when used as directed. Unlike UV tanning beds, red/NIR light doesn't cause DNA damage or increase skin cancer risk. All beds listed are FDA-registered or cleared. Contraindications include photosensitivity disorders, hyperthyroidism, pregnancy (caution), and active cancer."
 ---
 
 <!-- wp:html -->
 
-
 <!-- Optimized Schema Markup -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://synctherapylocal.local/best-red-light-therapy-beds/"
-  },
-  "headline": "Best Commercial Red Light Therapy Beds (2026 Reviews)",
-  "description": "Upgrading your clinic or gym? We compare the top professional photobiomodulation pods for ROI, durability, and power. See the best medical-grade beds for 2026.",
-  "image": [
-    "/uploads/2026/12/rouge-horizon-g4-red-light-therapy-bed-full-body-for-a-medical-clinic.mp4",
-    "/uploads/2026/12/Theralight360LightBed_1220x_crop_center.webp",
-    "/uploads/2026/12/prism-light-pod-red-light-therapy-bed-enclosed.webp"
-  ],
-  "author": {
-    "@type": "Person",
-    "name": "Daryl Stubbs",
-    "url": "https://synctherapylocal.local/author/daryl-c/",
-    "jobTitle": ["Registered Massage Therapist", "Certified Athletic Therapist", "Holistic Nutritionist"]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Sync Therapy",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://synctherapylocal.local/wp-content/uploads/sync-therapy-logo.png"
-    }
-  },
-  "datePublished": "2026-12-21",
-  "dateModified": "2026-12-21"
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "ItemList",
-  "name": "Best Commercial Red Light Therapy Beds 2026",
-  "description": "Expert-reviewed comparison of the top professional photobiomodulation beds for clinics, med spas, and gyms.",
-  "numberOfItems": 5,
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "item": {
-        "@type": "Product",
-        "name": "Rouge Horizon G4 Bed + Ultimate Panel",
-        "image": "/uploads/2026/12/rouge-horizon-g4-red-light-therapy-bed-full-body-for-a-medical-clinic.mp4",
-        "description": "Open-air 360° design with 8 wavelengths (630-1060nm), 1,152 dual-chip LEDs, and up to 200 mW/cm² irradiance. Best value for commercial clinics.",
-        "brand": {"@type": "Brand", "name": "Rouge Care"},
-        "sku": "ROUGE-HORIZON-G4-ULTIMATE",
-        "offers": {
-          "@type": "Offer",
-          "url": "https://rougecare.ca/?ref=hphwim9l",
-          "priceCurrency": "USD",
-          "price": "21192",
-          "priceValidUntil": "2026-12-31",
-          "availability": "https://schema.org/InStock"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.9",
-          "bestRating": "5",
-          "worstRating": "1",
-          "ratingCount": "47"
-        },
-        "review": {
-          "@type": "Review",
-          "author": {"@type": "Person", "name": "Daryl Stubbs"},
-          "datePublished": "2026-12-21",
-          "reviewBody": "Best value commercial bed with the widest 8-wavelength spectrum. Open-air design speeds patient turnover and reduces claustrophobia concerns.",
-          "reviewRating": {"@type": "Rating", "ratingValue": "4.9", "bestRating": "5"}
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "item": {
-        "@type": "Product",
-        "name": "Mito Red Light MitoRECHARGE Bed",
-        "image": "/uploads/2026/12/mito-red-light-mitorecharge-bed-full-body-therapy.webp",
-        "description": "Dual-unit modular system with 4,200 LEDs, quad-wavelength technology, and standard 110V operation. No electrician needed.",
-        "brand": {"@type": "Brand", "name": "Mito Red Light"},
-        "sku": "MITO-RECHARGE-COMPLETE",
-        "offers": {
-          "@type": "Offer",
-          "url": "http://mitoredforbusiness.com/?afmc=1h&utm_campaign=1h&utm_source=leaddyno&utm_medium=affiliate&utm_content=1h",
-          "priceCurrency": "USD",
-          "price": "27995",
-          "priceValidUntil": "2026-12-31",
-          "availability": "https://schema.org/InStock"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "bestRating": "5",
-          "worstRating": "1",
-          "ratingCount": "38"
-        },
-        "review": {
-          "@type": "Review",
-          "author": {"@type": "Person", "name": "Daryl Stubbs"},
-          "datePublished": "2026-12-21",
-          "reviewBody": "Best choice for clinics wanting standard 110V operation. Modular design allows purchasing halves separately. ISO 13485 certified.",
-          "reviewRating": {"@type": "Rating", "ratingValue": "4.8", "bestRating": "5"}
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "item": {
-        "@type": "Product",
-        "name": "TheraLight 360 HD",
-        "image": "/uploads/2026/12/Theralight360LightBed_1220x_crop_center.webp",
-        "description": "Premium commercial bed with 48,000 LEDs, 4 wavelengths including 940nm, and up to 165 mW/cm² adjustable irradiance with lifetime LED warranty.",
-        "brand": {"@type": "Brand", "name": "DaVinci Medical"},
-        "sku": "THERALIGHT-360-HD",
-        "offers": {
-          "@type": "Offer",
-          "url": "https://davincimedicalusa.com/products/theralight-360-full-body-red-light-therapy-bed",
-          "priceCurrency": "USD",
-          "price": "70000",
-          "priceValidUntil": "2026-12-31",
-          "availability": "https://schema.org/InStock"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.9",
-          "bestRating": "5",
-          "worstRating": "1",
-          "ratingCount": "29"
-        },
-        "review": {
-          "@type": "Review",
-          "author": {"@type": "Person", "name": "Daryl Stubbs"},
-          "datePublished": "2026-12-21",
-          "reviewBody": "Highest irradiance available at 165 mW/cm². Lifetime LED warranty eliminates long-term replacement costs. Space Foundation Certified.",
-          "reviewRating": {"@type": "Rating", "ratingValue": "4.9", "bestRating": "5"}
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "item": {
-        "@type": "Product",
-        "name": "Prism Light Pod",
-        "image": "/uploads/2026/12/prism-light-pod-red-light-therapy-bed-enclosed.webp",
-        "description": "Enclosed pod design with 17,000 LEDs, 6 automated programs for unattended operation, and 15-year commercial lifespan.",
-        "brand": {"@type": "Brand", "name": "Prism Light Pod"},
-        "sku": "PRISM-LIGHT-POD",
-        "offers": {
-          "@type": "Offer",
-          "url": "https://prismlightpod.com/",
-          "priceCurrency": "USD",
-          "price": "90000",
-          "priceValidUntil": "2026-12-31",
-          "availability": "https://schema.org/InStock"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.7",
-          "bestRating": "5",
-          "worstRating": "1",
-          "ratingCount": "22"
-        },
-        "review": {
-          "@type": "Review",
-          "author": {"@type": "Person", "name": "Daryl Stubbs"},
-          "datePublished": "2026-12-21",
-          "reviewBody": "Best for unattended operation with 6 pre-programmed sessions. 15-year commercial lifespan and 5-year bumper-to-bumper warranty.",
-          "reviewRating": {"@type": "Rating", "ratingValue": "4.7", "bestRating": "5"}
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 5,
-      "item": {
-        "@type": "Product",
-        "name": "NovoTHOR",
-        "image": "/uploads/2026/12/health-novothor-white.jpg",
-        "description": "The only full-body bed backed by multiple independent clinical studies. Made in USA with IEC 60601 medical-device compliance.",
-        "brand": {"@type": "Brand", "name": "THOR Photomedicine"},
-        "sku": "NOVOTHOR-STANDARD",
-        "offers": {
-          "@type": "Offer",
-          "url": "https://www.novothor.com/",
-          "priceCurrency": "USD",
-          "price": "120000",
-          "priceValidUntil": "2026-12-31",
-          "availability": "https://schema.org/InStock"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "bestRating": "5",
-          "worstRating": "1",
-          "ratingCount": "18"
-        },
-        "review": {
-          "@type": "Review",
-          "author": {"@type": "Person", "name": "Daryl Stubbs"},
-          "datePublished": "2026-12-21",
-          "reviewBody": "Most clinical evidence of any bed. Full IEC 60601 medical compliance for insurance reimbursement and research applications.",
-          "reviewRating": {"@type": "Rating", "ratingValue": "4.8", "bestRating": "5"}
-        }
-      }
-    }
-  ]
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much do commercial red light therapy beds cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Commercial beds range from $21,000 (Rouge Horizon G4) to $120,000+ (NovoTHOR). Mid-range options like MitoRECHARGE ($28k) and TheraLight 360 ($60-80k) offer different trade-offs between features and budget. DIY panel setups can achieve similar results for $3,000-5,000."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Are red light therapy beds better than panels?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Beds provide simultaneous full-body coverage (front and back), reducing session time from 20-40 minutes with panels to 10-15 minutes. This is critical for commercial operations where throughput matters. For home use, panels are more cost-effective."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What electrical requirements do commercial red light beds need?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It varies by model. MitoRECHARGE and Prism Light Pod run on standard 110V outlets. TheraLight 360 and NovoTHOR require dedicated 220V/30A circuits (electrician install). Rouge Horizon G4 is universal voltage (100-240V). Budget $500-2,000 for electrical upgrades if needed."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What's the ROI for adding a red light bed to my clinic?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "At $60/session with 6 sessions/day, 5 days/week, you'd generate ~$78,000/year. A Rouge Horizon G4 ($21k) pays back in 3-4 months. Premium beds like TheraLight ($70k) take 10-12 months. Most clinics also report increased patient retention and referrals."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Are red light therapy beds safe?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, when used as directed. Unlike UV tanning beds, red/NIR light doesn't cause DNA damage or increase skin cancer risk. All beds listed are FDA-registered or cleared. Contraindications include photosensitivity disorders, hyperthyroidism, pregnancy (caution), and active cancer."
-      }
-    }
-  ]
-}
-</script>
 
 <div class="rlt-beds-article container mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
     
@@ -284,7 +36,7 @@ seoTitle: Best Red Light Therapy Beds (2026 Reviews)
     </header>
 
     <main class="space-y-16">
-        
+
         <!-- Key Takeaways -->
         <section id="key-takeaways" class="bg-blue-50 border-l-4 border-primary p-6 rounded-lg shadow-sm">
             <h2 class="text-2xl font-bold mb-4 !border-none !pl-0 !mt-0"><i class="fas fa-star text-accent mr-2"></i>Key Takeaways: Top Picks at a Glance</h2>
@@ -363,9 +115,9 @@ seoTitle: Best Red Light Therapy Beds (2026 Reviews)
         <section id="top-picks">
             <h2>The 5 Best Red Light Therapy Beds (2026)</h2>
             <p class="mb-8 text-gray-700">These commercial-grade beds deliver full-body photobiomodulation at power levels that consumer panels can't match. Each has been evaluated for LED count, irradiance, wavelength spectrum, electrical requirements, and total cost of ownership.</p>
-            
+
             <div class="space-y-12">
-                
+
                 <!-- Product 1: Rouge Horizon G4 with VIDEO -->
                 <div id="product-1" class="bg-white p-6 rounded-lg shadow-md border-t-4 border-accent">
                     <h3 class="text-2xl font-bold">1. Rouge Horizon G4 Bed + Ultimate Panel</h3>
@@ -382,7 +134,7 @@ seoTitle: Best Red Light Therapy Beds (2026 Reviews)
                         </div>
                         <div>
                             <p class="mb-4">The Rouge Horizon G4 pairs a base bed unit with the Ultimate overhead panel on a motorized stand, delivering true 360° coverage without the claustrophobic feel of enclosed pods. With eight discrete wavelengths spanning 630–1060nm, it offers the widest therapeutic spectrum on the market—including 1060nm mid-infrared specifically researched for adipose tissue.</p>
-                            
+
                             <div class="spec-grid">
                                 <div class="spec-item">
                                     <span class="spec-label">LED Count</span>
@@ -428,12 +180,12 @@ seoTitle: Best Red Light Therapy Beds (2026 Reviews)
                                     </ul>
                                 </div>
                             </div>
-                            
+
                             <p class="text-2xl font-bold text-gray-800 mb-2">$21,192 <span class="text-lg line-through text-gray-400">$26,490</span></p>
                             <a href="https://rougecare.ca/?ref=hphwim9l" target="_blank" rel="nofollow" class="affiliate-button w-full">Get The Best Price <i class="fas fa-arrow-right ml-2"></i></a>
                         </div>
                     </div>
-                    
+
                     <div class="pro-tip">
                         <h4><i class="fas fa-lightbulb mr-2"></i>Pro Tip: ROI Calculation</h4>
                         <p>At $50/session and 6 sessions/day, you'd generate $78,000/year in revenue. Payback period: ~3.3 months. The open-air design also means faster patient turnover since there's no enclosed pod to clean between sessions.</p>
@@ -459,7 +211,7 @@ seoTitle: Best Red Light Therapy Beds (2026 Reviews)
                         </div>
                         <div>
                             <p class="mb-4">The MitoRECHARGE is a dual-unit system: a lower bed with 3,200 LEDs and an upper canopy with 1,000 LEDs. The modular design means you can purchase halves separately or together. Critically, it runs on standard 110/120V outlets—no electrician needed for most installations.</p>
-                            
+
                             <div class="spec-grid">
                                 <div class="spec-item">
                                     <span class="spec-label">LED Count</span>
@@ -505,12 +257,12 @@ seoTitle: Best Red Light Therapy Beds (2026 Reviews)
                                     </ul>
                                 </div>
                             </div>
-                            
+
                             <p class="text-2xl font-bold text-gray-800 mb-2">$27,995 <span class="text-base text-gray-500">(or $14,995/half)</span></p>
                             <a href="http://mitoredforbusiness.com/?afmc=1h&utm_campaign=1h&utm_source=leaddyno&utm_medium=affiliate&utm_content=1h" target="_blank" rel="nofollow" class="affiliate-button w-full">Get The Best Deal <i class="fas fa-arrow-right ml-2"></i></a>
                         </div>
                     </div>
-                    
+
                     <div class="pro-tip">
                         <h4><i class="fas fa-lightbulb mr-2"></i>Pro Tip: Electrical Savings</h4>
                         <p>The 110V operation can save $2,000-5,000 in electrical upgrades vs. beds requiring 220V/30A dedicated circuits. Factor this into your total cost of ownership calculation.</p>
@@ -527,7 +279,7 @@ seoTitle: Best Red Light Therapy Beds (2026 Reviews)
                         </div>
                         <div>
                             <p class="mb-4">The TheraLight 360 represents the pinnacle of commercial photobiomodulation. With 48,000 professional-grade LEDs and adjustable irradiance up to 165 mW/cm², it delivers a calculated dose of 99 J/cm² in just 10 minutes. The inclusion of 940nm NIR (often overlooked) targets the deepest tissue penetration.</p>
-                            
+
                             <div class="spec-grid">
                                 <div class="spec-item">
                                     <span class="spec-label">LED Count</span>
@@ -573,12 +325,12 @@ seoTitle: Best Red Light Therapy Beds (2026 Reviews)
                                     </ul>
                                 </div>
                             </div>
-                            
+
                             <p class="text-2xl font-bold text-gray-800 mb-2">$60,000–$80,000 <span class="text-base text-gray-500">(quote-based)</span></p>
                             <a href="https://davincimedicalusa.com/products/theralight-360-full-body-red-light-therapy-bed" target="_blank" rel="nofollow" class="affiliate-button w-full">Request Quote <i class="fas fa-arrow-right ml-2"></i></a>
                         </div>
                     </div>
-                    
+
                     <div class="pro-tip">
                         <h4><i class="fas fa-lightbulb mr-2"></i>Pro Tip: Premium Positioning</h4>
                         <p>Clinics charging $75-100/session for TheraLight treatments report faster patient acquisition due to the "Space Foundation Certified" marketing angle. The lifetime LED warranty also eliminates a major long-term expense.</p>
@@ -595,7 +347,7 @@ seoTitle: Best Red Light Therapy Beds (2026 Reviews)
                         </div>
                         <div>
                             <p class="mb-4">The Prism Light Pod is designed for hands-off operation. Six pre-programmed 15-minute sessions (performance recovery, chronic pain, injury healing, arthritis, anti-aging, weight loss) let patients self-administer while staff handles other tasks. The enclosed pod design also provides a premium "spa" experience.</p>
-                            
+
                             <div class="spec-grid">
                                 <div class="spec-item">
                                     <span class="spec-label">LED Count</span>
@@ -641,12 +393,12 @@ seoTitle: Best Red Light Therapy Beds (2026 Reviews)
                                     </ul>
                                 </div>
                             </div>
-                            
+
                             <p class="text-2xl font-bold text-gray-800 mb-2">$80,000–$100,000 <span class="text-base text-gray-500">(quote-based)</span></p>
                             <a href="https://prismlightpod.com/" target="_blank" rel="nofollow" class="affiliate-button w-full">Request Quote <i class="fas fa-arrow-right ml-2"></i></a>
                         </div>
                     </div>
-                    
+
                     <div class="pro-tip">
                         <h4><i class="fas fa-lightbulb mr-2"></i>Pro Tip: Staffing Efficiency</h4>
                         <p>The automated programs mean one staff member can manage 3-4 pods simultaneously. At $60/session × 4 pods × 4 sessions/hour × 8 hours = $7,680/day potential revenue with minimal labor overhead.</p>
@@ -663,7 +415,7 @@ seoTitle: Best Red Light Therapy Beds (2026 Reviews)
                         </div>
                         <div>
                             <p class="mb-4">The NovoTHOR is the only full-body bed backed by multiple independent clinical studies. THOR Photomedicine has decades of laser therapy expertise, and it shows in the medical-device engineering. The switchable red-only (660nm) or mixed red+NIR (850nm) modes allow protocol customization.</p>
-                            
+
                             <div class="spec-grid">
                                 <div class="spec-item">
                                     <span class="spec-label">Wavelengths</span>
@@ -710,12 +462,12 @@ seoTitle: Best Red Light Therapy Beds (2026 Reviews)
                                     </ul>
                                 </div>
                             </div>
-                            
+
                             <p class="text-2xl font-bold text-gray-800 mb-2">~$120,000 <span class="text-base text-gray-500">(quote-based)</span></p>
                             <a href="https://www.novothor.com/" target="_blank" rel="nofollow" class="affiliate-button w-full">Request Quote <i class="fas fa-arrow-right ml-2"></i></a>
                         </div>
                     </div>
-                    
+
                     <div class="pro-tip">
                         <h4><i class="fas fa-lightbulb mr-2"></i>Pro Tip: Insurance & Research Clinics</h4>
                         <p>If you're seeking insurance reimbursement or conducting clinical research, the NovoTHOR's published studies and full medical-device compliance (IEC 60601) provide the documentation trail other beds lack.</p>
@@ -728,7 +480,7 @@ seoTitle: Best Red Light Therapy Beds (2026 Reviews)
         <section id="roi-calculator">
             <h2><i class="fas fa-calculator text-accent mr-2"></i>Red Light Therapy Bed ROI Calculator</h2>
             <p class="mb-6 text-gray-700">Use this interactive tool to estimate your return on investment. Select a bed, enter your expected session pricing and volume, and see your payback timeline instantly.</p>
-            
+
             <div class="roi-calculator">
                 <div class="grid md:grid-cols-2 gap-8">
                     <!-- Input Side -->
@@ -743,27 +495,27 @@ seoTitle: Best Red Light Therapy Beds (2026 Reviews)
                                 <option value="novothor" data-price="120000" data-name="NovoTHOR" data-link="https://www.novothor.com/">NovoTHOR ($120,000)</option>
                             </select>
                         </div>
-                        
+
                         <div>
                             <label for="session-price"><i class="fas fa-dollar-sign mr-2"></i>Price Per Session ($)</label>
                             <input type="number" id="session-price" value="60" min="1" onchange="calculateROI()">
                         </div>
-                        
+
                         <div>
                             <label for="sessions-day"><i class="fas fa-calendar-day mr-2"></i>Sessions Per Day</label>
                             <input type="number" id="sessions-day" value="6" min="1" max="20" onchange="calculateROI()">
                         </div>
-                        
+
                         <div>
                             <label for="days-week"><i class="fas fa-calendar-week mr-2"></i>Operating Days Per Week</label>
                             <input type="number" id="days-week" value="5" min="1" max="7" onchange="calculateROI()">
                         </div>
                     </div>
-                    
+
                     <!-- Results Side -->
                     <div class="space-y-4">
                         <h4 class="text-xl font-bold text-accent mb-4"><i class="fas fa-chart-line mr-2"></i>Your Projected ROI</h4>
-                        
+
                         <div class="grid grid-cols-2 gap-4">
                             <div class="roi-result">
                                 <div class="text-sm opacity-80">Weekly Revenue</div>
@@ -782,12 +534,12 @@ seoTitle: Best Red Light Therapy Beds (2026 Reviews)
                                 <div class="number" id="payback-period">2.7 mo</div>
                             </div>
                         </div>
-                        
+
                         <div class="roi-result mt-4">
                             <div class="text-sm opacity-80 mb-2">First Year Profit (After Payback)</div>
                             <div class="number text-3xl" id="first-year-profit">$72,408</div>
                         </div>
-                        
+
                         <div id="affiliate-link-container" class="mt-6">
                             <a id="roi-affiliate-link" href="https://rougecare.ca/?ref=hphwim9l" target="_blank" rel="nofollow" class="affiliate-button w-full block text-center">
                                 Get Rouge Horizon G4 <i class="fas fa-arrow-right ml-2"></i>
@@ -805,28 +557,28 @@ seoTitle: Best Red Light Therapy Beds (2026 Reviews)
             const bedPrice = parseFloat(selectedOption.dataset.price);
             const bedName = selectedOption.dataset.name;
             const bedLink = selectedOption.dataset.link;
-            
+
             const sessionPrice = parseFloat(document.getElementById('session-price').value) || 60;
             const sessionsDay = parseFloat(document.getElementById('sessions-day').value) || 6;
             const daysWeek = parseFloat(document.getElementById('days-week').value) || 5;
-            
+
             const weeklyRevenue = sessionPrice * sessionsDay * daysWeek;
             const monthlyRevenue = weeklyRevenue * 4.33;
             const annualRevenue = weeklyRevenue * 52;
             const paybackMonths = bedPrice / monthlyRevenue;
             const firstYearProfit = annualRevenue - bedPrice;
-            
+
             document.getElementById('weekly-revenue').textContent = '$' + weeklyRevenue.toLocaleString();
             document.getElementById('monthly-revenue').textContent = '$' + Math.round(monthlyRevenue).toLocaleString();
             document.getElementById('annual-revenue').textContent = '$' + Math.round(annualRevenue).toLocaleString();
             document.getElementById('payback-period').textContent = paybackMonths.toFixed(1) + ' mo';
             document.getElementById('first-year-profit').textContent = '$' + Math.round(firstYearProfit).toLocaleString();
-            
+
             const affiliateLink = document.getElementById('roi-affiliate-link');
             affiliateLink.href = bedLink;
             affiliateLink.innerHTML = 'Get ' + bedName + ' <i class="fas fa-arrow-right ml-2"></i>';
         }
-        
+
         // Initialize on page load
         document.addEventListener('DOMContentLoaded', calculateROI);
         </script>
@@ -902,12 +654,12 @@ seoTitle: Best Red Light Therapy Beds (2026 Reviews)
         <section id="budget-alternative" class="bg-white p-8 rounded-lg shadow-md">
             <h2 class="!mt-0">Budget Alternative: DIY Panel Bed Setup</h2>
             <p class="mb-6 text-gray-700">Can't justify $20k+? Build a functional "bed" with panels for $3,000-5,000:</p>
-            
+
             <div class="grid md:grid-cols-2 gap-8">
                 <div>
                     <h3 class="text-xl font-bold mb-4">Kala Elite Duo Setup</h3>
                     <p class="mb-4">Two Kala Elite Duo panels ($2,499 total) mounted horizontally above a massage table delivers 161 mW/cm² at 6"—competitive with commercial beds at 1/10th the price.</p>
-                    
+
                     <ul class="list-disc list-inside space-y-2 mb-4">
                         <li>462 LEDs per panel (924 total)</li>
                         <li>660nm + 850nm wavelengths</li>
@@ -915,7 +667,7 @@ seoTitle: Best Red Light Therapy Beds (2026 Reviews)
                         <li>Canadian company (no US duties)</li>
                         <li>3-year warranty</li>
                     </ul>
-                    
+
                     <p class="text-xl font-bold text-gray-800 mb-4">~$3,000-5,000 total setup</p>
                     <a href="https://snwbl.io/kalatherapy/DARYL95230" target="_blank" rel="nofollow" class="affiliate-button">Get 15% Off Kala <i class="fas fa-arrow-right ml-2"></i></a>
                 </div>
@@ -969,7 +721,7 @@ seoTitle: Best Red Light Therapy Beds (2026 Reviews)
                     </summary>
                     <p class="mt-4 text-gray-700">Commercial beds range from $21,000 (Rouge Horizon G4) to $120,000+ (NovoTHOR). Mid-range options like MitoRECHARGE ($28k) and TheraLight 360 ($60-80k) offer different trade-offs between features and budget. DIY panel setups can achieve similar results for $3,000-5,000.</p>
                 </details>
-                
+
                 <details id="faq-beds-vs-panels" class="bg-white p-6 rounded-lg shadow-sm group">
                     <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">
                         Are red light therapy beds better than panels?
@@ -977,7 +729,7 @@ seoTitle: Best Red Light Therapy Beds (2026 Reviews)
                     </summary>
                     <p class="mt-4 text-gray-700">Beds provide simultaneous full-body coverage (front and back), reducing session time from 20-40 minutes with panels to 10-15 minutes. This is critical for commercial operations where throughput matters. For home use, panels are more cost-effective and can achieve similar results with longer or multiple sessions.</p>
                 </details>
-                
+
                 <details id="faq-electrical" class="bg-white p-6 rounded-lg shadow-sm group">
                     <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">
                         What electrical requirements do I need?
@@ -985,7 +737,7 @@ seoTitle: Best Red Light Therapy Beds (2026 Reviews)
                     </summary>
                     <p class="mt-4 text-gray-700">It varies by model. MitoRECHARGE and Prism Light Pod run on standard 110V outlets. TheraLight 360 and NovoTHOR require dedicated 220V/30A circuits (electrician install). Rouge Horizon G4 is universal voltage (100-240V). Budget $500-2,000 for electrical upgrades if needed.</p>
                 </details>
-                
+
                 <details id="faq-roi" class="bg-white p-6 rounded-lg shadow-sm group">
                     <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">
                         What's the ROI for adding a bed to my clinic?
@@ -993,7 +745,7 @@ seoTitle: Best Red Light Therapy Beds (2026 Reviews)
                     </summary>
                     <p class="mt-4 text-gray-700">At $60/session with 6 sessions/day, 5 days/week, you'd generate ~$78,000/year. A Rouge Horizon G4 ($21k) pays back in 3-4 months. Premium beds like TheraLight ($70k) take 10-12 months. Most clinics also report increased patient retention and referrals from the "wow factor." Use our <a href="#roi-calculator" class="text-primary font-semibold hover:underline">ROI Calculator</a> above to run your own numbers.</p>
                 </details>
-                
+
                 <details id="faq-safety" class="bg-white p-6 rounded-lg shadow-sm group">
                     <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">
                         Are red light therapy beds safe?
@@ -1044,5 +796,6 @@ seoTitle: Best Red Light Therapy Beds (2026 Reviews)
         </section>
 
     </main>
+
 </div>
 <!-- /wp:html -->

@@ -1,46 +1,14 @@
 ---
-title: 'Gary Brecka Diet Explained: What Does He Suggest To Eat In 2026'
-date: '2026-02-05 08:38:40'
+title: "Gary Brecka Diet Explained: What Does He Suggest To Eat In 2026"
+date: "2026-02-05 08:38:40"
 slug: gary-brecka-diet
 description: >-
   Gary Brecka's diet explained for 2026. Complete food list, meal timing, and
   the science behind his nutritional recommendations. Easy-to-follow guide.
-seoTitle: 'Gary Brecka Diet Explained: Full Food List (2026)'
+seoTitle: "Gary Brecka Diet Explained: Full Food List (2026)"
 ---
 
 <!-- wp:html -->
-<!-- Schema Markup for BlogPosting -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "BlogPosting",
-      "headline": "Gary Brecka Diet Explained: What Does He Suggest To Eat In 2026",
-      "image": [
-        "/uploads/content/gary-brecka-diet.webp",
-        "/uploads/content/gary-brecka-weight-loss.jpg",
-        "/uploads/content/gary-brecka-food-list.jpg"
-      ],
-      "datePublished": "2026-07-02T18:25:00-07:00",
-      "dateModified": "2026-07-02T18:25:00-07:00",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Sync Therapy",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://placehold.co/100x50/2E5A88/F4F7F5?text=Sync+Therapy+Logo"
-        }
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://synctherapylocal.local/gary-brecka-diet/"
-      },
-      "description": "Explore the Gary Brecka Diet, its benefits, drawbacks, and the essential food list. Understand Gary Brecka's 30-30-30 method and how it impacts health and weight loss."
-    }
-    </script>
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 
@@ -387,4 +355,5 @@ seoTitle: 'Gary Brecka Diet Explained: Full Food List (2026)'
 
         </main>
     </div>
+
 <!-- /wp:html -->

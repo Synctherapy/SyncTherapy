@@ -1,6 +1,6 @@
 ---
 title: What Is the pH of Reverse Osmosis Water? Unveiling the Science
-date: '2026-06-29 16:51:49'
+date: "2026-06-29 16:51:49"
 slug: what-is-the-ph-of-reverse-osmosis-water
 description: >-
   Reverse osmosis water is a popular choice for those seeking clean and pure

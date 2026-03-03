@@ -1,6 +1,6 @@
 ---
 title: Red Light Therapy for Tendinitis & Sports Injuries (2026)
-date: '2026-05-22 12:42:31'
+date: "2026-05-22 12:42:31"
 slug: red-light-therapy-for-tendinitis
 description: >-
   Red light therapy for tendinitis and sports injuries in 2026. Clinical

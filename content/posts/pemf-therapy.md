@@ -2,7 +2,7 @@
 title: >-
   Pemf Therapy - A Complete Guide For Everything You Need To Know About Pulsed
   Electromagnetic Therapy
-date: '2026-12-23 13:30:20'
+date: "2026-12-23 13:30:20"
 slug: pemf-therapy
 description: >-
   PEMF therapy is a medical treatment that uses pulsed electromagnetic fields to
