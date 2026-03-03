@@ -1,6 +1,6 @@
 ---
 title: "Red Light Therapy for Hormones (2026): Thyroid & Testo"
-date: "2026-05-22 14:59:50"
+date: "2024-05-22 14:59:50"
 slug: the-role-of-red-light-therapy-in-hormone-regulation
 description: >-
   Red light therapy, also known as photobiomodulation, has emerged as a

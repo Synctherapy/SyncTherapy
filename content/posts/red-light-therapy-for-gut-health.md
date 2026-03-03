@@ -1,20 +1,11 @@
 ---
 title: "Red Light Therapy on Stomach: Benefits &amp; How to Use"
-date: "2026-04-12 07:00:00"
+date: "2024-04-12 07:00:00"
 slug: red-light-therapy-for-gut-health
 description: >-
   Using red light therapy on your stomach for gut health. Research on IBS,
   inflammation, and microbiome benefits reviewed by a Holistic Nutritionist.
 seoTitle: Red Light Therapy for Gut Health & Stomach Use
-faqs:
-  - question: What are the benefits of red light therapy on stomach?
-    answer: The main benefits include reduced gut inflammation, improved gut barrier function, microbiome support (increasing beneficial bacteria), better digestion, reduced bloating, and potential relief from conditions like IBS.
-  - question: Does red light therapy make you poop?
-    answer: Some users report more regular bowel movements after starting red light therapy. This likely results from improved gut motility, enhanced blood flow to digestive organs, and microbiome shifts.
-  - question: How long until I see results for gut health?
-    answer: Most people notice improvements in bloating and digestive comfort within 4-6 weeks of consistent use. Microbiome changes and more significant benefits may take 8-12 weeks.
-  - question: Can red light therapy help with IBS?
-    answer: "Early evidence is promising. Red light therapy addresses several IBS drivers: gut dysbiosis, inflammation, and visceral hypersensitivity. While large clinical trials are still needed, the mechanistic evidence and patient reports suggest it can be helpful."
 ---
 
 <!-- wp:html -->
@@ -306,7 +297,7 @@ faqs:
                         <p class="text-gray-700"><strong>Type 2 Diabetes Model (2022):</strong> Dual-wavelength (630nm + 850nm) PBM applied to the duodenum improved blood sugar and liver function while significantly altering gut microbiome composition—five bacterial genera showed beneficial changes. (<a href="https://doi.org/10.3390/cells11213490" target="_blank" rel="noopener" class="text-primary hover:underline font-semibold">DOI: 10.3390/cells11213490</a>)</p>
                     </div>
                     <div>
-                        <p class="text-gray-700"><strong>Intestinal Inflammation Study (2026):</strong> Comparing four wavelengths, researchers found 635nm most effective at reducing inflammatory markers (TNF-α, IL-6, IL-1β) in gut cells through the MAPK/NF-κB pathway. (<a href="https://doi.org/10.1016/j.jphotobiol.2026.113201" target="_blank" rel="noopener" class="text-primary hover:underline font-semibold">DOI: 10.1016/j.jphotobiol.2026.113201</a>)</p>
+                        <p class="text-gray-700"><strong>Intestinal Inflammation Study (2025):</strong> Comparing four wavelengths, researchers found 635nm most effective at reducing inflammatory markers (TNF-α, IL-6, IL-1β) in gut cells through the MAPK/NF-κB pathway. (<a href="https://doi.org/10.1016/j.jphotobiol.2025.113201" target="_blank" rel="noopener" class="text-primary hover:underline font-semibold">DOI: 10.1016/j.jphotobiol.2025.113201</a>)</p>
                     </div>
                 </div>
 
@@ -618,6 +609,67 @@ faqs:
 
 </div>
 
+<!-- Schema Markup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Red Light Therapy on Stomach & Gut: Benefits & How to Use",
+  "description": "Discover red light therapy stomach benefits for gut, IBS, bloating & digestion. Research-backed protocols + device reviews. See results in 4-6 weeks.",
+  "author": {
+    "@type": "Person",
+    "name": "Daryl Stubbs",
+    "jobTitle": "RMT, CAT(C), Holistic Nutritionist"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Sync Therapy"
+  },
+  "dateModified": "2025-12-22",
+  "mainEntityOfPage": "https://synctherapylocal.local/red-light-therapy-for-gut-health/"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of red light therapy on stomach?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main benefits include reduced gut inflammation, improved gut barrier function, microbiome support (increasing beneficial bacteria), better digestion, reduced bloating, and potential relief from conditions like IBS."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does red light therapy make you poop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Some users report more regular bowel movements after starting red light therapy. This likely results from improved gut motility, enhanced blood flow to digestive organs, and microbiome shifts."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long until I see results for gut health?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most people notice improvements in bloating and digestive comfort within 4-6 weeks of consistent use. Microbiome changes and more significant benefits may take 8-12 weeks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can red light therapy help with IBS?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Early evidence is promising. Red light therapy addresses several IBS drivers: gut dysbiosis, inflammation, and visceral hypersensitivity. While large clinical trials are still needed, the mechanistic evidence and patient reports suggest it can be helpful."
+      }
+    }
+  ]
+}
+</script>
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->

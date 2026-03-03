@@ -1,6 +1,6 @@
 ---
 title: "Naked Creatine Review: Unveiling the Power of Pure Creatine Monohydrate"
-date: "2026-10-18 15:24:16"
+date: "2024-10-18 15:24:16"
 slug: naked-creatine-review
 description: >-
   Naked Nutrition has made a significant impact in the fitness industry by

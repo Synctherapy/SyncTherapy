@@ -2,17 +2,81 @@
 title: >-
   Viome Gut Intelligence Test Review: In-Depth Viome Reviews & Personal
   Experience
-date: "2026-06-27 03:44:03"
+date: "2023-06-27 03:44:03"
 slug: viome-review
 description: >-
   Viome gut intelligence test reviewed for 2026. Is this at-home microbiome test
   accurate and actionable? A Holistic Nutritionist gives an honest verdict.
 seoTitle: "Viome Gut Health Test Review 2026: Is It Worth It?"
-rating: 4.7
-productName: Viome Gut Intelligence Test
 ---
 
 <!-- wp:html -->
+<!-- Schema Markup -->
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "name": "Viome Gut Intelligence Test Review",
+      "author": {
+        "@type": "Organization",
+        "name": "Sync Therapy"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4.7",
+        "bestRating": "5"
+      },
+      "itemReviewed": {
+        "@type": "Product",
+        "name": "Viome Gut Intelligence Test",
+        "image": "/uploads/content/A-close-up-of-the-Viome-gut-test-kit-contents-laid-out-on-a-kitchen-table-including-instructions-sample-collection-tubes-and-a-return-envelope_161f19b0-c66b-4126-9ba0-f6352a40060e.webp",
+        "description": "An at-home gut microbiome test that provides personalized diet and supplement recommendations based on advanced RNA sequencing.",
+        "brand": {
+          "@type": "Brand",
+          "name": "Viome"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "reviewCount": "135"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://viomehq.sjv.io/DVAGWq",
+          "priceCurrency": "USD",
+          "price": "149.00",
+          "availability": "https://schema.org/InStock",
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "value": "0",
+              "currency": "USD"
+            },
+            "shippingDestination": [
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              {
+                "@type": "DefinedRegion",
+                "addressCountry": "CA"
+              }
+            ]
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "applicableCountry": "US",
+            "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 30,
+            "returnMethod": "https://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/FreeReturn"
+          }
+        }
+      }
+    }
+    </script>
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 
@@ -187,8 +251,8 @@ productName: Viome Gut Intelligence Test
                     <p>Overall, satisfied users report tangible health improvements (e.g., reduced IBS symptoms, weight loss, better sleep), while detractors highlight cost (test ~$279; retest ~$200), subscription-driven supplement sales, and support delays.</p>
                 </div>
                 <div class="grid md:grid-cols-2 gap-6 mt-6">
-                    <img src="/uploads/content/Screenshot_20260116-131819-461x1024.png" onerror="this.onerror=null;this.src='https://placehold.co/400x600/CCCCCC/333333?text=Viome+Results+1';" alt="Screenshot of Viome test results showing recommended foods." class="rounded-lg shadow-sm w-full">
-                    <img src="/uploads/content/Screenshot_20260116-131832-461x1024.png" onerror="this.onerror=null;this.src='https://placehold.co/400x600/CCCCCC/333333?text=Viome+Results+2';" alt="Screenshot of Viome gut microbiome test results analysis." class="rounded-lg shadow-sm w-full">
+                    <img src="/uploads/content/Screenshot_20230116-131819-461x1024.png" onerror="this.onerror=null;this.src='https://placehold.co/400x600/CCCCCC/333333?text=Viome+Results+1';" alt="Screenshot of Viome test results showing recommended foods." class="rounded-lg shadow-sm w-full">
+                    <img src="/uploads/content/Screenshot_20230116-131832-461x1024.png" onerror="this.onerror=null;this.src='https://placehold.co/400x600/CCCCCC/333333?text=Viome+Results+2';" alt="Screenshot of Viome gut microbiome test results analysis." class="rounded-lg shadow-sm w-full">
                 </div>
             </section>
 

@@ -109,7 +109,7 @@ category: red-light-recovery
 <h3 class="text-2xl font-bold mb-2">1. Rouge Tabletop G4</h3>
 <p class="text-accent font-semibold mb-4">Best for Targeted Treatments (Face, Joints, Specific Areas)</p>
 <div class="grid md:grid-cols-2 gap-6">
-    <img src="/uploads/2026/07/rouge-g4-reviews-.webp" alt="The compact Rouge Tabletop G4 panel" class="rounded-lg shadow-sm w-full" loading="lazy">
+    <img src="/uploads/2025/07/rouge-g4-reviews-.webp" alt="The compact Rouge Tabletop G4 panel" class="rounded-lg shadow-sm w-full" loading="lazy">
     <div>
         <p class="mb-4">The Tabletop G4 packs all the advanced technology of the larger models into a compact, versatile unit. From a clinical standpoint, this is the perfect choice for patients focusing on skin rejuvenation, <a href="/red-light-therapy-and-scars/" class="text-content-link">hair health</a>, or treating specific areas like a sore shoulder or knee without compromising on features.</p>
         <ul class="list-disc list-inside space-y-2 mb-4">
@@ -128,7 +128,7 @@ category: red-light-recovery
 <h3 class="text-2xl font-bold mb-2">2. Rouge Pro G4</h3>
 <p class="text-accent font-semibold mb-4">Best All-Rounder for Biohackers & Athletes</p>
 <div class="grid md:grid-cols-2 gap-6">
-    <img src="/uploads/2026/07/rouge-pro-g4-red-light-therapy-reviews.webp" alt="The Rouge Pro G4 panel" class="rounded-lg shadow-sm w-full" loading="lazy">
+    <img src="/uploads/2025/07/rouge-pro-g4-red-light-therapy-reviews.webp" alt="The Rouge Pro G4 panel" class="rounded-lg shadow-sm w-full" loading="lazy">
     <div>
         <p class="mb-4">The Pro G4 is the workhorse of the series, offering enough coverage for effective half-body treatments. From my professional experience, this is the ideal choice for serious athletes who want to optimize muscle recovery, reduce <a href="/red-light-therapy/" class="text-content-link">inflammation</a>, and experiment with the full range of pulsing and wavelength controls.</p>
         <ul class="list-disc list-inside space-y-2 mb-4">
@@ -147,7 +147,7 @@ category: red-light-recovery
 <h3 class="text-2xl font-bold mb-2">3. Rouge Max G4</h3>
 <p class="text-accent font-semibold mb-4">Best for Convenient Full-Body Coverage</p>
 <div class="grid md:grid-cols-2 gap-6">
-    <img src="/uploads/2026/07/Rouge-Max-G4-review-in-canada.webp" alt="The large Rouge Max G4 panel" class="rounded-lg shadow-sm w-full" loading="lazy">
+    <img src="/uploads/2025/07/Rouge-Max-G4-review-in-canada.webp" alt="The large Rouge Max G4 panel" class="rounded-lg shadow-sm w-full" loading="lazy">
     <div>
         <p class="mb-4">For those seeking the simplicity of a single-unit, full-body setup, the Max G4 delivers. It provides head-to-toe coverage (lengthwise) with all the advanced features of the G4 series, making daily full-body sessions convenient and effective.</p>
         <ul class="list-disc list-inside space-y-2 mb-4">

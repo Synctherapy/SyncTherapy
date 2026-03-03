@@ -2,7 +2,7 @@
 title: >-
   Heat Healer Sauna Blanket Reviews 2026: The Ultimate Guide to Portable Sauna
   Blankets
-date: "2026-03-26 07:00:00"
+date: "2024-03-26 07:00:00"
 slug: heat-healer-sauna-blanket-reviews
 description: >-
   In the world of home wellness, the Heat Healer sauna blanket has emerged as a

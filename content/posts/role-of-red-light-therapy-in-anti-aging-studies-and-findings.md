@@ -1,6 +1,6 @@
 ---
 title: "The Role of Red Light Therapy in Anti-Aging: Unveiling Scientific Insights"
-date: "2026-06-19 10:09:04"
+date: "2025-06-19 10:09:04"
 slug: role-of-red-light-therapy-in-anti-aging-studies-and-findings
 description: >-
   Red light therapy, also known as photobiomodulation, has been gaining

@@ -1,6 +1,6 @@
 ---
 title: "Red Light Therapy for Depression, Anxiety & SAD (2026 Guide)"
-date: "2026-05-22 07:00:00"
+date: "2024-05-22 07:00:00"
 slug: red-light-therapy-for-depression
 description: >-
   Discover the transformative benefits of Red Light Therapy for Depression!

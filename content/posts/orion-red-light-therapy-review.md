@@ -1,6 +1,6 @@
 ---
 title: "Orion Red Light Therapy Review 2026: Best in Canada?"
-date: "2026-04-11 15:22:06"
+date: "2024-04-11 15:22:06"
 slug: orion-red-light-therapy-review
 description: >-
   Orion red light therapy review for 2026. Panel specs, wavelengths, and value

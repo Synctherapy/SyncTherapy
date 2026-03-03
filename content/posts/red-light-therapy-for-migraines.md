@@ -1,45 +1,192 @@
 ---
 title: Red Light Therapy for Migraines &amp; Headaches (2026) Complete Guide
-date: "2026-04-04 07:00:00"
+date: "2024-04-04 07:00:00"
 slug: red-light-therapy-for-migraines
 description: >-
   Can red light therapy help migraines and headaches? Complete 2026 guide
   covering the science, best devices, and treatment protocols. Research
   reviewed.
 seoTitle: Red Light Therapy for Migraines & Headaches
-faqs:
-  - question: Does red light therapy help migraines?
-    answer: Yes, clinical research shows red light therapy helps migraines. A 2018 study found LLLT was as effective as Botox for reducing headache days, pain intensity, and medication use in chronic migraine patients. Symptoms improved by 39% after 2 weeks and 46% after 4 weeks, with effects lasting an average of 5 months.
-  - question: How do you use red light therapy for headaches?
-    answer: Position your red light therapy device 6-12 inches from your face, forehead, temples, and neck. Use for 10-30 minutes per session, 3-5 times per week for prevention, or at the onset of symptoms for acute relief. Use protective eyewear and ensure the device emits both red (660nm) and near-infrared (850nm) wavelengths.
-  - question: Can red light therapy cause headaches?
-    answer: Red light therapy rarely causes headaches when used properly. Some users report mild initial headaches from eye strain or starting with sessions that are too long. Start with shorter 5-10 minute sessions, always use protective eyewear, and gradually increase duration. Most people experience headache relief, not headaches from treatment.
-  - question: Is red light therapy good for tension headaches?
-    answer: Yes, red light therapy is effective for tension headaches. A 2026 randomized clinical trial found vascular photobiomodulation significantly reduced pain and improved daily functioning in patients with tension-type headaches. The therapy reduces muscle tension in the neck and shoulders, a common trigger for tension headaches.
-  - question: What is the best red light therapy device for migraines?
-    answer: For Canadians, the Rouge G4 Pro or Kala Pro offer excellent value with therapeutic wavelengths. For Americans, PlatinumLED Biomax or Mito Red Light Pro X provide premium quality. Red light therapy masks are convenient for targeted head treatment but panels offer more versatility for treating the neck and face simultaneously.
-  - question: Does red light therapy help with cluster headaches?
-    answer: While research specifically on cluster headaches is limited, the mechanisms of red light therapy—reducing inflammation, improving blood flow, and modulating pain pathways—may provide relief. Some cluster headache sufferers report benefit from applying near-infrared light to the affected side of the head during episodes.
-  - question: How many red light therapy sessions for migraines?
-    answer: Clinical studies show significant improvement after 10-12 sessions. For prevention, use 3-5 sessions per week for 4-8 weeks initially. A 2013 study found symptoms improved 39% after 2 weeks (6-10 sessions) and 46% after 4 weeks. Continue with maintenance sessions 2-3 times weekly after achieving relief.
-  - question: Does green light therapy work for migraines?
-    answer: Yes, green light therapy (525nm wavelength) shows promising results for migraines. A 2026 randomized controlled trial found green light therapy reduced pain intensity and improved quality of life in migraine patients. Green light appears to work differently than red light, potentially through the visual system and endogenous opioid release.
-  - question: Can I use red light therapy for migraines at home?
-    answer: Yes, home red light therapy is effective for migraines. The convenience of home treatment allows for more consistent use, which is key for prevention. Invest in a quality device with both 660nm and 850nm wavelengths, follow proper protocols, and always use eye protection.
 ---
 
 <!-- wp:html -->
 
+<!-- Schema Markup - Article -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Red Light Therapy for Migraines & Headaches (2026) Complete Guide",
+  "description": "An Easy but scientific guide to using red light therapy for migraines, tension headaches, and cluster headaches. Backed by 2025 clinical research",
+  "author": {
+    "@type": "Person",
+    "name": "Daryl Stubbs",
+    "jobTitle": "RMT, CAT(C), Holistic Nutritionist",
+    "url": "https://synctherapylocal.local/about-daryl-stubbs/"
+  },
+  "datePublished": "2024-09-21",
+  "dateModified": "2026-01-11",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Sync Therapy",
+    "url": "https://synctherapylocal.local/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/uploads/2025/07/cropped-sync-therapy-favicon-192x192.png"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://synctherapylocal.local/red-light-therapy-for-migraines/"
+  },
+  "image": "/uploads/2026/01/red-light-therapy-headaches.webp"
+}
+</script>
+
+<!-- FAQ Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does red light therapy help migraines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, clinical research shows red light therapy helps migraines. A 2018 study found LLLT was as effective as Botox for reducing headache days, pain intensity, and medication use in chronic migraine patients. Symptoms improved by 39% after 2 weeks and 46% after 4 weeks, with effects lasting an average of 5 months."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you use red light therapy for headaches?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Position your red light therapy device 6-12 inches from your face, forehead, temples, and neck. Use for 10-30 minutes per session, 3-5 times per week for prevention, or at the onset of symptoms for acute relief. Use protective eyewear and ensure the device emits both red (660nm) and near-infrared (850nm) wavelengths."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can red light therapy cause headaches?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Red light therapy rarely causes headaches when used properly. Some users report mild initial headaches from eye strain or starting with sessions that are too long. Start with shorter 5-10 minute sessions, always use protective eyewear, and gradually increase duration. Most people experience headache relief, not headaches from treatment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is red light therapy good for tension headaches?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, red light therapy is effective for tension headaches. A 2024 randomized clinical trial found vascular photobiomodulation significantly reduced pain and improved daily functioning in patients with tension-type headaches. The therapy reduces muscle tension in the neck and shoulders, a common trigger for tension headaches."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best red light therapy device for migraines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For Canadians, the Rouge G4 Pro or Kala Pro offer excellent value with therapeutic wavelengths. For Americans, PlatinumLED Biomax or Mito Red Light Pro X provide premium quality. Red light therapy masks are convenient for targeted head treatment but panels offer more versatility for treating the neck and face simultaneously."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does red light therapy help with cluster headaches?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While research specifically on cluster headaches is limited, the mechanisms of red light therapy—reducing inflammation, improving blood flow, and modulating pain pathways—may provide relief. Some cluster headache sufferers report benefit from applying near-infrared light to the affected side of the head during episodes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many red light therapy sessions for migraines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Clinical studies show significant improvement after 10-12 sessions. For prevention, use 3-5 sessions per week for 4-8 weeks initially. A 2013 study found symptoms improved 39% after 2 weeks (6-10 sessions) and 46% after 4 weeks. Continue with maintenance sessions 2-3 times weekly after achieving relief."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does green light therapy work for migraines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, green light therapy (525nm wavelength) shows promising results for migraines. A 2025 randomized controlled trial found green light therapy reduced pain intensity and improved quality of life in migraine patients. Green light appears to work differently than red light, potentially through the visual system and endogenous opioid release."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use red light therapy for migraines at home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, home red light therapy is effective for migraines. The convenience of home treatment allows for more consistent use, which is key for prevention. Invest in a quality device with both 660nm and 850nm wavelengths, follow proper protocols, and always use eye protection."
+      }
+    }
+  ]
+}
+</script>
+
 <!-- ItemList Schema for Product Roundup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Best Red Light Therapy Devices for Migraines 2026",
+  "description": "Expert-reviewed list of the top red light therapy devices for migraine and headache relief",
+  "numberOfItems": 5,
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Rouge G4 Pro (Canada)",
+      "url": "https://synctherapylocal.local/red-light-therapy-for-migraines/#rouge-g4"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "PlatinumLED Biomax (USA)",
+      "url": "https://synctherapylocal.local/red-light-therapy-for-migraines/#platinumled"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Mito Red Light Pro X (USA)",
+      "url": "https://synctherapylocal.local/red-light-therapy-for-migraines/#mito-red"
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "name": "Kala Pro (Canada)",
+      "url": "https://synctherapylocal.local/red-light-therapy-for-migraines/#kala"
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "name": "Red Light Therapy Masks",
+      "url": "https://synctherapylocal.local/red-light-therapy-for-migraines/#masks"
+    }
+  ]
+}
+</script>
 
 <!-- Video Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "Red Light Therapy for Headaches",
+  "description": "Learn how red light therapy can help relieve headaches and migraines naturally",
+  "thumbnailUrl": "/uploads/2026/01/red-light-therapy-headaches.webp",
+  "contentUrl": "/uploads/2026/01/red-light-therapy-for-headaches.mp4",
+  "uploadDate": "2026-01-11"
+}
+</script>
 
 <div class="container mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 py-8">
     
     <main class="space-y-12">
         
         <!-- Intro paragraph - keyword optimized -->
-        <p class="text-lg text-gray-700 leading-relaxed">Looking for <strong>red light therapy for migraines</strong> that actually works? As a Registered Massage Therapist and Certified Athletic Therapist who has treated headache patients since 2013, I've seen how debilitating chronic migraines can be. The good news? Clinical research now shows that <strong>red light therapy for headaches</strong> can be as effective as Botox—without the needles or side effects. In this complete guide, I'll share the latest 2026 research, explain exactly <strong>how to use red light therapy for headaches</strong>, and recommend the best devices based on real-world testing.</p>
+        <p class="text-lg text-gray-700 leading-relaxed">Looking for <strong>red light therapy for migraines</strong> that actually works? As a Registered Massage Therapist and Certified Athletic Therapist who has treated headache patients since 2013, I've seen how debilitating chronic migraines can be. The good news? Clinical research now shows that <strong>red light therapy for headaches</strong> can be as effective as Botox—without the needles or side effects. In this complete guide, I'll share the latest 2025 research, explain exactly <strong>how to use red light therapy for headaches</strong>, and recommend the best devices based on real-world testing.</p>
 
         <!-- Key Takeaways -->
         <section id="key-takeaways" class="bg-blue-50 border-l-4 border-primary p-6 rounded-lg shadow-sm">
@@ -112,7 +259,7 @@ faqs:
                 <ul class="space-y-2">
                     <li><a href="#does-it-work" class="font-medium text-primary hover:underline"><i class="fas fa-angle-right mr-2"></i>Does Red Light Therapy Help Migraines?</a></li>
                     <li><a href="#how-it-works" class="font-medium text-primary hover:underline"><i class="fas fa-angle-right mr-2"></i>How Red Light Therapy Works for Headaches</a></li>
-                    <li><a href="#clinical-evidence" class="font-medium text-primary hover:underline"><i class="fas fa-angle-right mr-2"></i>Clinical Evidence (2026 Research)</a></li>
+                    <li><a href="#clinical-evidence" class="font-medium text-primary hover:underline"><i class="fas fa-angle-right mr-2"></i>Clinical Evidence (2025 Research)</a></li>
                     <li><a href="#headache-types" class="font-medium text-primary hover:underline"><i class="fas fa-angle-right mr-2"></i>RLT for Different Headache Types</a></li>
                     <li><a href="#how-to-use" class="font-medium text-primary hover:underline"><i class="fas fa-angle-right mr-2"></i>How to Use Red Light Therapy for Headaches</a></li>
                 </ul>
@@ -128,7 +275,7 @@ faqs:
 
         <!-- Does It Work Section -->
         <section id="does-it-work">
-            <h2><i class="fas fa-flask text-accent mr-2"></i>Does Red Light Therapy Help Migraines? (2026 Research)</h2>
+            <h2><i class="fas fa-flask text-accent mr-2"></i>Does Red Light Therapy Help Migraines? (2025 Research)</h2>
             <div class="bg-white p-6 rounded-lg shadow-md">
                 <p class="mb-4 text-lg"><strong>Yes—and the clinical evidence is remarkably strong.</strong></p>
 
@@ -157,7 +304,7 @@ faqs:
 
                 <div class="border-l-4 border-purple-500 pl-4 bg-purple-50 p-4 rounded-r-lg mb-4">
                     <p class="font-semibold text-purple-700">Another Study: 64% Pain Reduction</p>
-                    <p class="text-gray-600 text-sm">A 2016 study on women with chronic headaches associated with temporomandibular disorders found a <strong>64% reduction in pain</strong>, significant decrease in blood flow velocity, and increased serotonin levels after just 3 days of treatment (<a href="https://pubmed.ncbi.nlm.nih.gov/26202674/" target="_blank" class="text-primary hover:underline">PMID: 26202674</a>).</p>
+                    <p class="text-gray-600 text-sm">A 2016 study on women with chronic headaches associated with temporomandibular disorders found a <strong>64% reduction in pain</strong>, significant decrease in blood flow velocity, and increased serotonin levels after just 3 days of treatment (<a href="https://pubmed.ncbi.nlm.nih.gov/26202374/" target="_blank" class="text-primary hover:underline">PMID: 26202374</a>).</p>
                 </div>
             </div>
         </section>
@@ -215,39 +362,39 @@ faqs:
 
         <!-- Clinical Evidence Section -->
         <section id="clinical-evidence">
-            <h2><i class="fas fa-book-medical text-accent mr-2"></i>Clinical Evidence: What the Research Shows (2026)</h2>
+            <h2><i class="fas fa-book-medical text-accent mr-2"></i>Clinical Evidence: What the Research Shows (2025)</h2>
             <div class="bg-white p-6 rounded-lg shadow-md">
                 <p class="mb-6">Here's what peer-reviewed research from PubMed shows about <strong>red light therapy for migraines and headaches</strong>:</p>
 
                 <div class="space-y-4 mb-6">
                     <div class="border-l-4 border-green-500 pl-4 bg-green-50 p-4 rounded-r-lg">
-                        <p class="font-semibold text-green-700">2026 Review: Light Therapy Recognized as Promising Migraine Treatment</p>
+                        <p class="font-semibold text-green-700">2024 Review: Light Therapy Recognized as Promising Migraine Treatment</p>
                         <p class="text-gray-600 text-sm">A comprehensive review in <em>Current Pain and Headache Reports</em> found that light therapies, especially green light and LLLT, are <strong>"promising, safe, and non-pharmacological interventions for treating chronic migraine."</strong> They've been shown to decrease headache frequency and enhance quality of life.</p>
-                        <p class="text-xs text-gray-500 mt-2"><a href="https://doi.org/10.1007/s11916-024-01258-y" target="_blank" class="text-primary hover:underline">Source: Current Pain and Headache Reports, 2026</a></p>
+                        <p class="text-xs text-gray-500 mt-2"><a href="https://doi.org/10.1007/s11916-024-01258-y" target="_blank" class="text-primary hover:underline">Source: Current Pain and Headache Reports, 2024</a></p>
                     </div>
 
                     <div class="border-l-4 border-green-500 pl-4 bg-green-50 p-4 rounded-r-lg">
-                        <p class="font-semibold text-green-700">2026 RCT: Photobiomodulation Reduces Tension-Type Headaches</p>
+                        <p class="font-semibold text-green-700">2024 RCT: Photobiomodulation Reduces Tension-Type Headaches</p>
                         <p class="text-gray-600 text-sm">A randomized clinical trial found vascular photobiomodulation <strong>significantly reduced pain levels and improved daily functioning</strong> in patients with tension-type headaches. Significant improvements were seen in pain interference with walking, work, sleep, and enjoyment of life.</p>
-                        <p class="text-xs text-gray-500 mt-2"><a href="https://doi.org/10.1038/s41598-024-82412-9" target="_blank" class="text-primary hover:underline">Source: Scientific Reports, 2026</a></p>
+                        <p class="text-xs text-gray-500 mt-2"><a href="https://doi.org/10.1038/s41598-024-82412-9" target="_blank" class="text-primary hover:underline">Source: Scientific Reports, 2024</a></p>
                     </div>
 
                     <div class="border-l-4 border-green-500 pl-4 bg-green-50 p-4 rounded-r-lg">
-                        <p class="font-semibold text-green-700">2026 RCT: Green Light + tDCS Effective for Migraine</p>
+                        <p class="font-semibold text-green-700">2025 RCT: Green Light + tDCS Effective for Migraine</p>
                         <p class="text-gray-600 text-sm">A randomized controlled trial found both transcranial direct current stimulation and green light therapy were effective for <strong>reducing pain intensity, frequency, and improving quality of life</strong> in migraine patients. Both reduced medication dependency over 4 weeks.</p>
-                        <p class="text-xs text-gray-500 mt-2"><a href="https://doi.org/10.3390/brainsci15111209" target="_blank" class="text-primary hover:underline">Source: Brain Sciences, 2026</a></p>
+                        <p class="text-xs text-gray-500 mt-2"><a href="https://doi.org/10.3390/brainsci15111209" target="_blank" class="text-primary hover:underline">Source: Brain Sciences, 2025</a></p>
                     </div>
 
                     <div class="border-l-4 border-green-500 pl-4 bg-green-50 p-4 rounded-r-lg">
-                        <p class="font-semibold text-green-700">2026: Intravascular Laser Therapy Increases Cerebral Blood Flow</p>
+                        <p class="font-semibold text-green-700">2023: Intravascular Laser Therapy Increases Cerebral Blood Flow</p>
                         <p class="text-gray-600 text-sm">An observational study found intravascular laser irradiation of blood (ILIB) <strong>increased regional cerebral blood flow by 1.27-fold</strong> and significantly improved pain scores, cognitive function, and sleep quality in migraine patients.</p>
-                        <p class="text-xs text-gray-500 mt-2"><a href="https://doi.org/10.1186/s40001-023-01438-3" target="_blank" class="text-primary hover:underline">Source: European Journal of Medical Research, 2026</a></p>
+                        <p class="text-xs text-gray-500 mt-2"><a href="https://doi.org/10.1186/s40001-023-01438-3" target="_blank" class="text-primary hover:underline">Source: European Journal of Medical Research, 2023</a></p>
                     </div>
 
                     <div class="border-l-4 border-blue-500 pl-4 bg-blue-50 p-4 rounded-r-lg">
-                        <p class="font-semibold text-blue-700">2026: PBM Reduces TMD Pain and Headaches</p>
-                        <p class="text-gray-600 text-sm">Multiple 2026 studies show photobiomodulation <strong>significantly reduces pain in temporomandibular disorders (TMD)</strong>—a common cause of facial pain and headaches. PBM shifts immune response from pro-inflammatory to anti-inflammatory, reducing both local and referred head pain.</p>
-                        <p class="text-xs text-gray-500 mt-2"><a href="https://doi.org/10.22514/jofph.2026.082" target="_blank" class="text-primary hover:underline">Source: Journal of Oral & Facial Pain and Headache, 2026</a></p>
+                        <p class="font-semibold text-blue-700">2025: PBM Reduces TMD Pain and Headaches</p>
+                        <p class="text-gray-600 text-sm">Multiple 2025 studies show photobiomodulation <strong>significantly reduces pain in temporomandibular disorders (TMD)</strong>—a common cause of facial pain and headaches. PBM shifts immune response from pro-inflammatory to anti-inflammatory, reducing both local and referred head pain.</p>
+                        <p class="text-xs text-gray-500 mt-2"><a href="https://doi.org/10.22514/jofph.2025.082" target="_blank" class="text-primary hover:underline">Source: Journal of Oral & Facial Pain and Headache, 2025</a></p>
                     </div>
                 </div>
 
@@ -300,7 +447,7 @@ faqs:
                     </div>
                     <p class="text-gray-700 mb-3">Red light therapy works particularly well for tension headaches:</p>
                     <ul class="list-disc list-inside text-gray-700 text-sm space-y-1">
-                        <li>2026 RCT showed significant pain reduction and improved daily function</li>
+                        <li>2024 RCT showed significant pain reduction and improved daily function</li>
                         <li>Relaxes tense muscles in neck and shoulders—common triggers</li>
                         <li>Reduces inflammation in cervical spine area</li>
                         <li>Best used with treatment to face, neck, and upper back</li>
@@ -315,7 +462,7 @@ faqs:
                     </div>
                     <p class="text-gray-700 mb-3">Temporomandibular disorder often causes facial pain and headaches:</p>
                     <ul class="list-disc list-inside text-gray-700 text-sm space-y-1">
-                        <li>2026 studies show 70% of patients had reduced masticatory muscle pain</li>
+                        <li>2025 studies show 70% of patients had reduced masticatory muscle pain</li>
                         <li>64% pain reduction in women with TMD-related headaches</li>
                         <li>Significant reduction in joint noise and jaw dysfunction</li>
                         <li>Apply directly to jaw joints and masseter muscles</li>
@@ -347,7 +494,7 @@ faqs:
                     <ul class="list-disc list-inside text-gray-700 text-sm space-y-1">
                         <li>Limited specific research on vestibular migraines</li>
                         <li>General migraine mechanisms may still apply</li>
-                        <li>2026 study showed transcranial PBM improved cognitive function and balance in TBI patients</li>
+                        <li>2025 study showed transcranial PBM improved cognitive function and balance in TBI patients</li>
                         <li>Worth trying given the safety profile and general migraine benefits</li>
                     </ul>
                 </div>
@@ -708,9 +855,9 @@ faqs:
                 <p class="mb-4">While this article focuses on red light therapy, I should mention that <strong>green light therapy</strong> (around 525nm wavelength) is showing promising results specifically for migraines.</p>
 
                 <div class="border-l-4 border-green-500 pl-4 bg-green-50 p-4 rounded-r-lg mb-6">
-                    <p class="font-semibold text-green-700">2026 Research on Green Light for Migraines</p>
-                    <p class="text-gray-600 text-sm">A 2026 randomized controlled trial found green light therapy reduced pain intensity and improved quality of life in migraine patients, with some showing advantages over other treatments. Green light appears to work through different mechanisms—potentially through the visual system and endogenous opioid release.</p>
-                    <p class="text-xs text-gray-500 mt-2"><a href="https://doi.org/10.3390/brainsci15111209" target="_blank" class="text-primary hover:underline">Source: Brain Sciences, 2026</a></p>
+                    <p class="font-semibold text-green-700">2025 Research on Green Light for Migraines</p>
+                    <p class="text-gray-600 text-sm">A 2025 randomized controlled trial found green light therapy reduced pain intensity and improved quality of life in migraine patients, with some showing advantages over other treatments. Green light appears to work through different mechanisms—potentially through the visual system and endogenous opioid release.</p>
+                    <p class="text-xs text-gray-500 mt-2"><a href="https://doi.org/10.3390/brainsci15111209" target="_blank" class="text-primary hover:underline">Source: Brain Sciences, 2025</a></p>
                 </div>
 
                 <h3 class="text-xl font-bold mb-4">How Green Light Works Differently</h3>
@@ -750,7 +897,7 @@ faqs:
 
                 <details class="bg-white p-6 rounded-lg shadow-sm group">
                     <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">Is red light therapy good for tension headaches?<i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i></summary>
-                    <p class="mt-4 text-gray-700">Yes, red light therapy is effective for tension headaches. A 2026 randomized clinical trial found vascular photobiomodulation significantly reduced pain and improved daily functioning in patients with tension-type headaches. The therapy reduces muscle tension in the neck and shoulders—a common trigger for tension headaches.</p>
+                    <p class="mt-4 text-gray-700">Yes, red light therapy is effective for tension headaches. A 2024 randomized clinical trial found vascular photobiomodulation significantly reduced pain and improved daily functioning in patients with tension-type headaches. The therapy reduces muscle tension in the neck and shoulders—a common trigger for tension headaches.</p>
                 </details>
 
                 <details class="bg-white p-6 rounded-lg shadow-sm group">
@@ -770,7 +917,7 @@ faqs:
 
                 <details class="bg-white p-6 rounded-lg shadow-sm group">
                     <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">Does green light therapy work for migraines?<i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i></summary>
-                    <p class="mt-4 text-gray-700">Yes, green light therapy (525nm wavelength) shows promising results for migraines. A 2026 randomized controlled trial found green light therapy reduced pain intensity and improved quality of life in migraine patients. Green light appears to work differently than red light, potentially through the visual system and endogenous opioid release.</p>
+                    <p class="mt-4 text-gray-700">Yes, green light therapy (525nm wavelength) shows promising results for migraines. A 2025 randomized controlled trial found green light therapy reduced pain intensity and improved quality of life in migraine patients. Green light appears to work differently than red light, potentially through the visual system and endogenous opioid release.</p>
                 </details>
 
                 <details class="bg-white p-6 rounded-lg shadow-sm group">
@@ -822,17 +969,17 @@ faqs:
             <ol class="list-decimal list-inside space-y-3 text-sm text-gray-700">
                 <li>Loeb LM, et al. (2018). Botulinum toxin A (BT-A) versus low-level laser therapy (LLLT) in chronic migraine treatment: a comparison. <em>Arquivos de Neuro-Psiquiatria</em>. <a href="https://doi.org/10.1590/0004-282X20180109" target="_blank" class="text-primary hover:underline">DOI: 10.1590/0004-282X20180109</a></li>
 
-                <li>Hou TW, et al. (2026). Light Therapy in Chronic Migraine. <em>Current Pain and Headache Reports</em>. <a href="https://doi.org/10.1007/s11916-024-01258-y" target="_blank" class="text-primary hover:underline">DOI: 10.1007/s11916-024-01258-y</a></li>
+                <li>Hou TW, et al. (2024). Light Therapy in Chronic Migraine. <em>Current Pain and Headache Reports</em>. <a href="https://doi.org/10.1007/s11916-024-01258-y" target="_blank" class="text-primary hover:underline">DOI: 10.1007/s11916-024-01258-y</a></li>
 
-                <li>Campos MCV, et al. (2026). Evaluation of vascular photobiomodulation for orofacial pain and tension type headache following COVID 19. <em>Scientific Reports</em>. <a href="https://doi.org/10.1038/s41598-024-82412-9" target="_blank" class="text-primary hover:underline">DOI: 10.1038/s41598-024-82412-9</a></li>
+                <li>Campos MCV, et al. (2024). Evaluation of vascular photobiomodulation for orofacial pain and tension type headache following COVID 19. <em>Scientific Reports</em>. <a href="https://doi.org/10.1038/s41598-024-82412-9" target="_blank" class="text-primary hover:underline">DOI: 10.1038/s41598-024-82412-9</a></li>
 
-                <li>Mahmood A, et al. (2026). Green Light and Transcranial Direct Current Stimulation in Migraine Patients. <em>Brain Sciences</em>. <a href="https://doi.org/10.3390/brainsci15111209" target="_blank" class="text-primary hover:underline">DOI: 10.3390/brainsci15111209</a></li>
+                <li>Mahmood A, et al. (2025). Green Light and Transcranial Direct Current Stimulation in Migraine Patients. <em>Brain Sciences</em>. <a href="https://doi.org/10.3390/brainsci15111209" target="_blank" class="text-primary hover:underline">DOI: 10.3390/brainsci15111209</a></li>
 
-                <li>Chen HH, et al. (2026). Intravascular laser irradiation of blood as novel migraine treatment. <em>European Journal of Medical Research</em>. <a href="https://doi.org/10.1186/s40001-023-01438-3" target="_blank" class="text-primary hover:underline">DOI: 10.1186/s40001-023-01438-3</a></li>
+                <li>Chen HH, et al. (2023). Intravascular laser irradiation of blood as novel migraine treatment. <em>European Journal of Medical Research</em>. <a href="https://doi.org/10.1186/s40001-023-01438-3" target="_blank" class="text-primary hover:underline">DOI: 10.1186/s40001-023-01438-3</a></li>
 
-                <li>Rodriguez MG, et al. (2026). Effects of dual wavelength photobiomodulation on monocytic response in painful temporomandibular disorder. <em>Journal of Oral & Facial Pain and Headache</em>. <a href="https://doi.org/10.22514/jofph.2026.082" target="_blank" class="text-primary hover:underline">DOI: 10.22514/jofph.2026.082</a></li>
+                <li>Rodriguez MG, et al. (2025). Effects of dual wavelength photobiomodulation on monocytic response in painful temporomandibular disorder. <em>Journal of Oral & Facial Pain and Headache</em>. <a href="https://doi.org/10.22514/jofph.2025.082" target="_blank" class="text-primary hover:underline">DOI: 10.22514/jofph.2025.082</a></li>
 
-                <li>Lee TL, et al. (2026). Transcranial Photobiomodulation Improves Cognitive Function, Post-Concussion, and PTSD Symptoms in Mild Traumatic Brain Injury. <em>Journal of Neurotrauma</em>. <a href="https://doi.org/10.1089/neu.2026.0048" target="_blank" class="text-primary hover:underline">DOI: 10.1089/neu.2026.0048</a></li>
+                <li>Lee TL, et al. (2025). Transcranial Photobiomodulation Improves Cognitive Function, Post-Concussion, and PTSD Symptoms in Mild Traumatic Brain Injury. <em>Journal of Neurotrauma</em>. <a href="https://doi.org/10.1089/neu.2025.0048" target="_blank" class="text-primary hover:underline">DOI: 10.1089/neu.2025.0048</a></li>
 
                 <li>Cheng K, et al. (2021). Mechanisms and Pathways of Pain Photobiomodulation: A Narrative Review. <em>The Journal of Pain</em>. <a href="https://doi.org/10.1016/j.jpain.2021.02.005" target="_blank" class="text-primary hover:underline">DOI: 10.1016/j.jpain.2021.02.005</a></li>
             </ol>

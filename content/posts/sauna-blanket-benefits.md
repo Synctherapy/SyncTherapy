@@ -1,6 +1,6 @@
 ---
 title: The Transformative Benefits of Infrared Sauna Blankets
-date: "2026-10-09 07:00:00"
+date: "2024-10-09 07:00:00"
 slug: sauna-blanket-benefits
 description: >-
   In the ever-evolving world of wellness and self-care, one innovative tool has
@@ -238,7 +238,7 @@ seoTitle: The Transformative Benefits of Infrared Sauna Blankets
 <br>
 <p>These portable devices use infrared technology to warm the body, mimicking the effects of traditional saunas. </p>
 <br>
-<p><strong>Regular use of sauna blankets may provide <a href="https://www.tandfonline.com/doi/abs/10.1080/23328940.2026.2300623">health benefits similar to dry sauna bathing</a> , including improved cardiovascular health and reduced risk of certain diseases.</strong></p>
+<p><strong>Regular use of sauna blankets may provide <a href="https://www.tandfonline.com/doi/abs/10.1080/23328940.2023.2300623">health benefits similar to dry sauna bathing</a> , including improved cardiovascular health and reduced risk of certain diseases.</strong></p>
 <br>
 <p><img src="/uploads/content/blog-image-1735162707702_jpg.png" alt="A person lying comfortably in a sauna blanket, surrounded by steam and warmth, with a relaxed expression on their face" class="fr-fil fr-dib"></p>
 <br>
@@ -263,7 +263,7 @@ seoTitle: The Transformative Benefits of Infrared Sauna Blankets
 <br>
 <p>They typically consist of a heat-resistant outer layer and an inner layer that emits infrared rays.</p>
 <br>
-<p>Users lie inside the blanket, which heats up to induce sweating and provide <a href="https://www.tandfonline.com/doi/abs/10.1080/23328940.2026.2300623">potential health benefits</a> . The temperature inside a sauna blanket usually ranges from 80°F to 160°F (27°C to 71°C).</p>
+<p>Users lie inside the blanket, which heats up to induce sweating and provide <a href="https://www.tandfonline.com/doi/abs/10.1080/23328940.2023.2300623">potential health benefits</a> . The temperature inside a sauna blanket usually ranges from 80°F to 160°F (27°C to 71°C).</p>
 <br>
 <p>Sauna blankets are designed for individual use and can be easily stored when not in use. They often come with adjustable temperature settings and timers for customized sessions.</p>
 <br>
@@ -311,7 +311,7 @@ seoTitle: The Transformative Benefits of Infrared Sauna Blankets
 <p>These portable heat therapy devices provide many of the same benefits as traditional saunas in a more convenient format.</p>
 <br>
 <h3>Detoxification and Sweat</h3>
-<p>Sauna blankets promote profuse sweating, which aids in <a href="https://www.tandfonline.com/doi/abs/10.1080/23328940.2026.2300623">detoxification</a> . The increased body temperature causes blood vessels to dilate, improving circulation and helping to flush out toxins through sweat.</p>
+<p>Sauna blankets promote profuse sweating, which aids in <a href="https://www.tandfonline.com/doi/abs/10.1080/23328940.2023.2300623">detoxification</a> . The increased body temperature causes blood vessels to dilate, improving circulation and helping to flush out toxins through sweat.</p>
 <br>
 <p>This process can help cleanse the body of heavy metals, chemicals, and other impurities accumulated from the environment and diet. Regular use may support liver and kidney function by reducing their detoxification burden.</p>
 <br>
@@ -397,7 +397,7 @@ seoTitle: The Transformative Benefits of Infrared Sauna Blankets
 <h3>Design and Materials</h3>
 <p>Sauna blankets are crafted with user comfort in mind. They typically feature multiple layers of heat-resistant and waterproof materials to ensure safety and durability.</p>
 <br>
-<p>The interior often includes soft, <a href="https://www.tandfonline.com/doi/abs/10.1080/23328940.2026.2300623">heat-conductive fabrics</a> that distribute warmth evenly. This design promotes a comfortable and effective sauna experience.</p>
+<p>The interior often includes soft, <a href="https://www.tandfonline.com/doi/abs/10.1080/23328940.2023.2300623">heat-conductive fabrics</a> that distribute warmth evenly. This design promotes a comfortable and effective sauna experience.</p>
 <br>
 <p>Exterior layers are usually made of easy-to-clean, waterproof materials. These materials help contain perspiration and simplify post-use maintenance.</p>
 <br>
@@ -434,7 +434,7 @@ seoTitle: The Transformative Benefits of Infrared Sauna Blankets
 <br>
 <h3>Understanding Infrared Safety</h3>
 <br>
-<p>Infrared sauna blankets use electromagnetic radiation to generate heat. This technology is generally <a href="https://www.tandfonline.com/doi/abs/10.1080/23328940.2026.2300623">considered safe</a> when used correctly. The infrared waves penetrate the skin, raising body temperature without excessive external heat.</p>
+<p>Infrared sauna blankets use electromagnetic radiation to generate heat. This technology is generally <a href="https://www.tandfonline.com/doi/abs/10.1080/23328940.2023.2300623">considered safe</a> when used correctly. The infrared waves penetrate the skin, raising body temperature without excessive external heat.</p>
 <br>
 <p>To minimize any potential risks:</p>
 <ul>

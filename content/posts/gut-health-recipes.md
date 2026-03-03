@@ -1,6 +1,6 @@
 ---
 title: "25 Gut Health Recipes For Dessert, Dinner, and Snacks That Are Guilt Free"
-date: "2026-07-13 07:00:00"
+date: "2024-07-13 07:00:00"
 slug: gut-health-recipes
 description: >-
   Get ready to indulge in guilt-free gut health recipes that not only will you

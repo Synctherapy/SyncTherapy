@@ -1,6 +1,6 @@
 ---
 title: Best Vegan Acne Treatment For Acne-Prone Skin in 2026
-date: "2026-06-19 16:37:19"
+date: "2023-06-19 16:37:19"
 slug: best-vegan-acne-treatment
 description: >-
   Are you seeking a pathway to clear, radiant skin that aligns with your vegan
@@ -158,7 +158,7 @@ seoTitle: Best Vegan Acne Treatment For Acne-Prone Skin in 2026
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading {"level":3} --></p>
 <h3>Acne-Fighting Phage Vegan Serum</h3>
-<p><a data-wpil="url" href="https://phylabiotics.com/products/3-step-acne-fighting-phage-system?ref=synctherapy"><img alt="best vegan moisturizer in canada for 2026" class="aligncenter wp-image-9269 size-full" height="444" src="/uploads/content/best-vegan-moisturizer-in-canada-for-2026.png" width="924"></a></p>
+<p><a data-wpil="url" href="https://phylabiotics.com/products/3-step-acne-fighting-phage-system?ref=synctherapy"><img alt="best vegan moisturizer in canada for 2023" class="aligncenter wp-image-9269 size-full" height="444" src="/uploads/content/best-vegan-moisturizer-in-canada-for-2023.png" width="924"></a></p>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:image --></p>
 <p><!-- /wp:image --></p>

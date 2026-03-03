@@ -1,6 +1,6 @@
 ---
 title: "Optimal Red Light Wavelengths: Color & Science Explained"
-date: "2026-02-17 05:49:11"
+date: "2024-02-17 05:49:11"
 slug: wavelength-for-red-light
 description: >-
   Discovering the optimal wavelength for red light therapy is pivotal in

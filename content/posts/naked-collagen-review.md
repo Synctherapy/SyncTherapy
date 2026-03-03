@@ -1,6 +1,6 @@
 ---
 title: Unlock the Benefits of Naked Collagen for a Healthier You
-date: "2026-10-18 14:41:34"
+date: "2024-10-18 14:41:34"
 slug: naked-collagen-review
 description: >-
   Imagine a supplement that not only supports your joints but also enhances your

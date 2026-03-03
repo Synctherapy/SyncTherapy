@@ -1,6 +1,6 @@
 ---
 title: "Red Light Therapy for Rosacea (2026): Reduce Redness"
-date: "2026-06-09 04:26:24"
+date: "2024-06-09 04:26:24"
 slug: red-light-therapy-for-rosacea
 description: >-
   Red light therapy for rosacea treatment in 2026. Reduce redness and

@@ -1,6 +1,6 @@
 ---
-title: "Ion Bottles Review 2026: A Budget Hydrogen Water Bottle"
-date: "2026-03-18 14:55:05"
+title: "Ion Bottles Review 2024: A Budget Hydrogen Water Bottle"
+date: "2024-03-18 14:55:05"
 slug: ion-bottles-review
 description: >-
   Ion Bottles hydrogen water bottle review for 2026. A budget-friendly option

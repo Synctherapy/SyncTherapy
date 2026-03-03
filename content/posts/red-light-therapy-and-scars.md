@@ -1,6 +1,6 @@
 ---
 title: "Red Light Therapy for Scars: Before & After Photos (2026)"
-date: "2026-05-05 07:00:00"
+date: "2024-05-05 07:00:00"
 slug: red-light-therapy-and-scars
 description: >-
   Red light therapy for scar treatment with before and after photos. Surgical,

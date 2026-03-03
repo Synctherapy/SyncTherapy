@@ -1,6 +1,6 @@
 ---
 title: "Red Light Therapy & Mitochondria: Boosting ATP Energy (2026)"
-date: "2026-05-22 12:38:55"
+date: "2024-05-22 12:38:55"
 slug: red-light-therapy-boosts-mitochondrial-function
 description: >-
   Red light therapy, a therapeutic technique that uses low wavelength red light,

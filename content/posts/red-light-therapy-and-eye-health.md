@@ -1,27 +1,107 @@
 ---
 title: Red Light Therapy for Eyesight &amp; AMD (2026 Safety Guide)
-date: "2026-06-25 15:30:53"
+date: "2024-06-25 15:30:53"
 slug: red-light-therapy-and-eye-health
 description: >-
   Is red light therapy safe for your eyes? AMD research, eye safety protocols,
   and protective guidelines reviewed for 2026 by a certified therapist.
 seoTitle: Red Light Therapy for Eyes & AMD (2026 Safety)
-faqs:
-  - question: Is red light therapy safe for eyes and eye health?
-    answer: Red light therapy for eye health can be safe when used properly with appropriate wavelengths (660-670nm), correct dosing, and under professional guidance. However, recent 2026 research from JAMA Ophthalmology shows potential concerns including reduced cone density with prolonged use in children. For cosmetic use of red light therapy on eyes (skin benefits), always keep eyes closed and use protective eyewear. For therapeutic treatment of eye conditions, only proceed under ophthalmologist supervision with FDA-authorized devices.
-  - question: What wavelength of red light is best for eye health and eyesight?
-    answer: For red light therapy for eyesight and eye health, research indicates 660-670nm red light has the strongest evidence. This wavelength penetrates effectively to reach retinal mitochondria while minimizing potential damage. Specifically, 670nm has been extensively studied for AMD and age-related vision improvements.
-  - question: Can red light therapy improve vision and eyesight?
-    answer: "Yes, red light therapy for vision improvement has shown measurable results in specific conditions. For dry AMD, clinical trials show improvements of 2+ lines on eye charts. For age-related decline, studies demonstrate enhanced color contrast sensitivity in adults over 40. However, red light therapy for eyesight won't correct refractive errors or replace glasses. It works by improving the function of existing photoreceptor cells and supporting mitochondrial health in the retina."
-  - question: How do I use red light therapy for dry eyes at home?
-    answer: For red light therapy for dry eyes at home, use a mask or panel with 630-660nm wavelengths positioned 6-12 inches from closed eyes. Sessions should be 10-15 minutes, 3-5 times per week. Always keep eyes closed and use protective eyewear. The therapy helps by warming meibomian glands, reducing inflammation, and improving tear production. Benefits typically appear after 2-4 weeks of consistent use.
-  - question: Does red light therapy work for eye wrinkles and under-eye wrinkles?
-    answer: "Yes, red light therapy for eye wrinkles and red light therapy for under eye wrinkles is well-supported by research. The 630-660nm wavelengths stimulate collagen production, improve skin hydration, and reduce dark circles. With consistent use (3-5 sessions per week for 8-12 weeks), expect reduction in fine lines, crow's feet, improved skin texture, and decreased puffiness around the eyes."
-  - question: Should I use red light therapy on eyes with eyes open or closed?
-    answer: "For cosmetic/wellness use of red light therapy for your eyes (reducing wrinkles, dark circles, dry eye relief): Always keep eyes CLOSED and wear protective eyewear. For therapeutic treatment of eye conditions (AMD, myopia): This requires specialized FDA-authorized devices in a medical setting where eyes may be open under controlled conditions. Never look directly at consumer LED panels."
 ---
 
 <!-- wp:html -->
+
+    <!-- Schema Markup -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "Red Light Therapy for Eyes: Vision Improvement, Eye Health & Dry Eye Relief Guide",
+      "description": "Comprehensive guide to red light therapy for eye health, covering vision improvement, dry eyes at home, eye wrinkles, aging eyes, and eyesight support with evidence-based protocols and safety guidelines.",
+      "author": {
+        "@type": "Person",
+        "name": "Daryl Stubbs",
+        "url": "https://synctherapylocal.local/author/daryl-c/",
+        "jobTitle": "Registered Massage Therapist, Certified Athletic Therapist, Holistic Nutritionist",
+        "affiliation": {
+            "@type": "Organization",
+            "name": "Sync Therapy"
+        }
+      },
+      "datePublished": "2026-01-02",
+      "dateModified": "2026-01-02",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Sync Therapy",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://placehold.co/200x60/2E5A88/FFFFFF?text=Sync+Therapy"
+        }
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://synctherapylocal.local/red-light-therapy-for-eyes/"
+      },
+      "image": "https://placehold.co/1200x630/2E5A88/FFFFFF?text=Red+Light+Therapy+for+Eyes"
+    }
+    </script>
+
+    <!-- FAQ Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is red light therapy safe for eyes and eye health?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Red light therapy for eye health can be safe when used properly with appropriate wavelengths (660-670nm), correct dosing, and under professional guidance. However, recent 2025 research from JAMA Ophthalmology shows potential concerns including reduced cone density with prolonged use in children. For cosmetic use of red light therapy on eyes (skin benefits), always keep eyes closed and use protective eyewear. For therapeutic treatment of eye conditions, only proceed under ophthalmologist supervision with FDA-authorized devices."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What wavelength of red light is best for eye health and eyesight?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For red light therapy for eyesight and eye health, research indicates 660-670nm red light has the strongest evidence. This wavelength penetrates effectively to reach retinal mitochondria while minimizing potential damage. Specifically, 670nm has been extensively studied for AMD and age-related vision improvements."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can red light therapy improve vision and eyesight?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, red light therapy for vision improvement has shown measurable results in specific conditions. For dry AMD, clinical trials show improvements of 2+ lines on eye charts. For age-related decline, studies demonstrate enhanced color contrast sensitivity in adults over 40. However, red light therapy for eyesight won't correct refractive errors or replace glasses. It works by improving the function of existing photoreceptor cells and supporting mitochondrial health in the retina."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I use red light therapy for dry eyes at home?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For red light therapy for dry eyes at home, use a mask or panel with 630-660nm wavelengths positioned 6-12 inches from closed eyes. Sessions should be 10-15 minutes, 3-5 times per week. Always keep eyes closed and use protective eyewear. The therapy helps by warming meibomian glands, reducing inflammation, and improving tear production. Benefits typically appear after 2-4 weeks of consistent use."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does red light therapy work for eye wrinkles and under-eye wrinkles?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, red light therapy for eye wrinkles and red light therapy for under eye wrinkles is well-supported by research. The 630-660nm wavelengths stimulate collagen production, improve skin hydration, and reduce dark circles. With consistent use (3-5 sessions per week for 8-12 weeks), expect reduction in fine lines, crow's feet, improved skin texture, and decreased puffiness around the eyes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Should I use red light therapy on eyes with eyes open or closed?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For cosmetic/wellness use of red light therapy for your eyes (reducing wrinkles, dark circles, dry eye relief): Always keep eyes CLOSED and wear protective eyewear. For therapeutic treatment of eye conditions (AMD, myopia): This requires specialized FDA-authorized devices in a medical setting where eyes may be open under controlled conditions. Never look directly at consumer LED panels."
+          }
+        }
+      ]
+    }
+    </script>
 
 </head>
 <body>
@@ -43,7 +123,7 @@ faqs:
                     <li><strong>Dry Eyes at Home:</strong> <strong>Red light therapy for dry eyes at home</strong> provides relief from meibomian gland dysfunction with emerging clinical evidence supporting its effectiveness.</li>
                     <li><strong>Aging Eyes Support:</strong> <strong>Red light therapy for aging eyes</strong> may enhance color contrast sensitivity and support mitochondrial function in people over 40.</li>
                     <li><strong>Optimal Wavelength:</strong> 660-670nm <a href="/red-light-therapy/" class="text-primary hover:underline font-semibold">red light wavelengths</a> show the strongest evidence for eye health benefits and eyesight improvement.</li>
-                    <li><strong>Safety First:</strong> Recent 2026 studies reveal potential risks with prolonged exposure—professional guidance is essential for therapeutic use of <strong>red light therapy on eyes</strong>.</li>
+                    <li><strong>Safety First:</strong> Recent 2025 studies reveal potential risks with prolonged exposure—professional guidance is essential for therapeutic use of <strong>red light therapy on eyes</strong>.</li>
                 </ul>
             </section>
 
@@ -79,7 +159,7 @@ faqs:
                 <h2>What Is Red Light Therapy for Eyes and Eye Health?</h2>
                 <p class="mb-4 text-gray-700"><strong>Red light therapy for eyes</strong>, also known as photobiomodulation (PBM), is an emerging therapeutic approach that uses specific wavelengths of red and near-infrared light to support <strong>eye health</strong> and treat various ocular conditions. Unlike the bright, potentially harmful light from lasers or screens, therapeutic <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" href="/red-light-therapy/" class="text-primary hover:underline font-semibold">red light therapy</a> uses low-intensity light at wavelengths that penetrate tissue without causing thermal damage.</p>
 
-                <p class="mb-4 text-gray-700">When considering <strong>red light therapy for eye health</strong>, it's important to understand that this represents a growing field with applications ranging from clinical treatment of serious eye diseases to at-home wellness protocols. According to a comprehensive 2026 review published in the <em>International Journal of Ophthalmology</em>, photobiomodulation in ocular therapy represents "significant potential in medicine especially in ocular diseases characterized by progress in research, technology, and clinical trials" <a href="https://doi.org/10.18240/ijo.2026.02.20" target="_blank" rel="noopener" class="text-primary hover:underline font-semibold">[DOI]</a>. Incorporating devices like Mitopro X can further enhance the benefits associated with red light therapy. The <a href="/mito-red-light-therapy-review/">Mitopro X features and benefits</a> include targeted light delivery, which can enhance cellular energy production and support overall eye health. Users report improvements in visual clarity and comfort, making it a valuable option for those seeking to optimize their ocular wellness.</p>
+                <p class="mb-4 text-gray-700">When considering <strong>red light therapy for eye health</strong>, it's important to understand that this represents a growing field with applications ranging from clinical treatment of serious eye diseases to at-home wellness protocols. According to a comprehensive 2025 review published in the <em>International Journal of Ophthalmology</em>, photobiomodulation in ocular therapy represents "significant potential in medicine especially in ocular diseases characterized by progress in research, technology, and clinical trials" <a href="https://doi.org/10.18240/ijo.2025.02.20" target="_blank" rel="noopener" class="text-primary hover:underline font-semibold">[DOI]</a>. Incorporating devices like Mitopro X can further enhance the benefits associated with red light therapy. The <a href="/mito-red-light-therapy-review/">Mitopro X features and benefits</a> include targeted light delivery, which can enhance cellular energy production and support overall eye health. Users report improvements in visual clarity and comfort, making it a valuable option for those seeking to optimize their ocular wellness.</p>
 
                 <div class="bg-white p-6 rounded-lg shadow-sm mt-6">
                     <h3 class="text-xl font-semibold mb-4"><i class="fas fa-microscope text-primary mr-2"></i>Two Distinct Applications</h3>
@@ -124,7 +204,7 @@ faqs:
                     </div>
                 </div>
 
-                <p class="text-gray-700">A 2026 review in <em>Ophthalmic & Physiological Optics</em> emphasizes that the therapeutic effects depend critically on proper dosing. The researchers note that "the 'low-level' moniker is inappropriate for a device that either exceeds or is just below the ANSI threshold for potential retinal hazard" <a href="https://doi.org/10.1111/opo.70009" target="_blank" rel="noopener" class="text-primary hover:underline font-semibold">[DOI]</a>—highlighting that intensity matters significantly.</p>
+                <p class="text-gray-700">A 2025 review in <em>Ophthalmic & Physiological Optics</em> emphasizes that the therapeutic effects depend critically on proper dosing. The researchers note that "the 'low-level' moniker is inappropriate for a device that either exceeds or is just below the ANSI threshold for potential retinal hazard" <a href="https://doi.org/10.1111/opo.70009" target="_blank" rel="noopener" class="text-primary hover:underline font-semibold">[DOI]</a>—highlighting that intensity matters significantly.</p>
             </section>
 
             <!-- Can Red Light Therapy Improve Vision -->
@@ -285,7 +365,7 @@ faqs:
                         </ul>
                     </div>
 
-                    <p class="text-gray-700">A 2026 case report in <em>Case Reports in Ophthalmology</em> documented dramatic improvement in a 73-year-old patient who used daily home photobiomodulation for 8 months. The patient's visual acuity improved from 20/30 to 20/20, with "robust reduction in the total number and volume of drusen" <a href="https://doi.org/10.1159/000543971" target="_blank" rel="noopener" class="text-primary hover:underline font-semibold">[DOI]</a>. This represents compelling evidence that <strong>red light therapy for aging eyes</strong> can provide real therapeutic benefits.</p>
+                    <p class="text-gray-700">A 2025 case report in <em>Case Reports in Ophthalmology</em> documented dramatic improvement in a 73-year-old patient who used daily home photobiomodulation for 8 months. The patient's visual acuity improved from 20/30 to 20/20, with "robust reduction in the total number and volume of drusen" <a href="https://doi.org/10.1159/000543971" target="_blank" rel="noopener" class="text-primary hover:underline font-semibold">[DOI]</a>. This represents compelling evidence that <strong>red light therapy for aging eyes</strong> can provide real therapeutic benefits.</p>
 
                     <p class="mt-4 text-gray-700"><strong>Important Note:</strong> This treatment is only for <em>dry</em> AMD. Wet AMD requires different interventions like anti-VEGF injections.</p>
                 </div>
@@ -307,11 +387,11 @@ faqs:
                         </ul>
                     </div>
 
-                    <p class="text-gray-700 mb-4">A 2026 multicenter trial published in <em>Ophthalmology</em> found that RLRL "is a promising alternative treatment for myopia control in children with good user acceptability" <a href="https://doi.org/10.1016/j.ophtha.2026.06.001" target="_blank" rel="noopener" class="text-primary hover:underline font-semibold">[DOI]</a>. The study highlights the potential of RLRL in slowing myopia progression, making it a viable option for pediatric patients. Furthermore, additional research, including an upcoming <a href="/orion-red-light-therapy-review/">orion red light therapy review</a>, is anticipated to provide further insights into the effectiveness and long-term benefits of this treatment modality. Parents and healthcare providers may find this information valuable when considering treatment plans for children with myopia.</p>
+                    <p class="text-gray-700 mb-4">A 2024 multicenter trial published in <em>Ophthalmology</em> found that RLRL "is a promising alternative treatment for myopia control in children with good user acceptability" <a href="https://doi.org/10.1016/j.ophtha.2024.06.001" target="_blank" rel="noopener" class="text-primary hover:underline font-semibold">[DOI]</a>. The study highlights the potential of RLRL in slowing myopia progression, making it a viable option for pediatric patients. Furthermore, additional research, including an upcoming <a href="/orion-red-light-therapy-review/">orion red light therapy review</a>, is anticipated to provide further insights into the effectiveness and long-term benefits of this treatment modality. Parents and healthcare providers may find this information valuable when considering treatment plans for children with myopia.</p>
 
                     <div class="safety-warning">
                         <p class="font-semibold text-amber-900 mb-2"><i class="fas fa-exclamation-triangle mr-2"></i>Critical Safety Concern</p>
-                        <p class="text-gray-800 mb-2">However, a 2026 <em>JAMA Ophthalmology</em> study revealed concerning findings: children who used RLRL therapy for at least one year showed "reduced cone density in the paracentral fovea and other subtle retinal abnormalities" <a href="https://doi.org/10.1001/jamaophthalmol.2026.0835" target="_blank" rel="noopener" class="text-primary hover:underline font-semibold">[DOI]</a>.</p>
+                        <p class="text-gray-800 mb-2">However, a 2025 <em>JAMA Ophthalmology</em> study revealed concerning findings: children who used RLRL therapy for at least one year showed "reduced cone density in the paracentral fovea and other subtle retinal abnormalities" <a href="https://doi.org/10.1001/jamaophthalmol.2025.0835" target="_blank" rel="noopener" class="text-primary hover:underline font-semibold">[DOI]</a>.</p>
                         <p class="text-gray-800">The American Academy of Ophthalmology currently advises caution, stating "there simply is not enough information to assess the safety of red light therapy, and the devices available in the US are not regulated and could damage your child's retina."</p>
                     </div>
                 </div>
@@ -339,7 +419,7 @@ faqs:
 
             <!-- Safety Concerns -->
             <section id="safety-concerns">
-                <h2>Critical Safety Concerns: What the 2026 Research Reveals</h2>
+                <h2>Critical Safety Concerns: What the 2025 Research Reveals</h2>
                 <p class="mb-6 text-gray-700">While red light therapy shows therapeutic promise, recent research has identified important safety considerations that anyone considering this treatment must understand.</p>
 
                 <div class="safety-warning mb-6">
@@ -347,18 +427,18 @@ faqs:
                     <p class="text-gray-800">Red light therapy operates in a narrow therapeutic window. Too little provides no benefit, while too much can cause harm. The challenge is that this window varies by individual, and we don't yet have enough long-term data to establish definitive safe limits.</p>
                 </div>
 
-                <h3 class="text-xl font-semibold mt-8 mb-4">Key Safety Findings from 2026 Research</h3>
+                <h3 class="text-xl font-semibold mt-8 mb-4">Key Safety Findings from 2025 Research</h3>
 
                 <div class="space-y-6">
                     <div class="bg-white p-6 rounded-lg shadow-sm border-l-4 border-red-500">
                         <h4 class="font-semibold text-lg mb-2">1. Cone Density Reduction in Children</h4>
-                        <p class="text-gray-700 mb-2">The 2026 JAMA study on myopia treatment found decreased cone photoreceptor density, particularly within 0.5mm of the foveal center in children who used RLRL therapy for over a year <a href="https://doi.org/10.1001/jamaophthalmol.2026.0835" target="_blank" rel="noopener" class="text-primary hover:underline font-semibold">[DOI]</a>.</p>
+                        <p class="text-gray-700 mb-2">The 2025 JAMA study on myopia treatment found decreased cone photoreceptor density, particularly within 0.5mm of the foveal center in children who used RLRL therapy for over a year <a href="https://doi.org/10.1001/jamaophthalmol.2025.0835" target="_blank" rel="noopener" class="text-primary hover:underline font-semibold">[DOI]</a>.</p>
                         <p class="text-sm text-gray-600"><strong>Clinical Significance:</strong> Loss of cone density could potentially affect sharp central vision over time, though long-term impacts remain unknown.</p>
                     </div>
 
                     <div class="bg-white p-6 rounded-lg shadow-sm border-l-4 border-orange-500">
                         <h4 class="font-semibold text-lg mb-2">2. Device Safety Standards Exceeded</h4>
-                        <p class="text-gray-700 mb-2">A radiometric assessment published in 2026 found that some consumer myopia control devices exceed American National Standards Institute (ANSI) safety limits for retinal exposure, particularly with larger pupil sizes <a href="https://doi.org/10.1111/opo.70009" target="_blank" rel="noopener" class="text-primary hover:underline font-semibold">[DOI]</a>. Furthermore, the study raised concerns about the long-term implications of prolonged exposure to these devices, urging manufacturers to reconsider their designs to enhance safety. In light of these findings, a comprehensive <a href="/infraredi-vs-kala/">infraredi red light panel review</a> highlighted the necessity for stricter regulatory oversight on consumer products aimed at myopia management. Ongoing research is essential to ensure that such devices not only meet safety standards but also effectively address the rising prevalence of myopia in younger populations.</p>
+                        <p class="text-gray-700 mb-2">A radiometric assessment published in 2025 found that some consumer myopia control devices exceed American National Standards Institute (ANSI) safety limits for retinal exposure, particularly with larger pupil sizes <a href="https://doi.org/10.1111/opo.70009" target="_blank" rel="noopener" class="text-primary hover:underline font-semibold">[DOI]</a>. Furthermore, the study raised concerns about the long-term implications of prolonged exposure to these devices, urging manufacturers to reconsider their designs to enhance safety. In light of these findings, a comprehensive <a href="/infraredi-vs-kala/">infraredi red light panel review</a> highlighted the necessity for stricter regulatory oversight on consumer products aimed at myopia management. Ongoing research is essential to ensure that such devices not only meet safety standards but also effectively address the rising prevalence of myopia in younger populations.</p>
                         <p class="text-sm text-gray-600"><strong>Clinical Significance:</strong> Unregulated consumer devices may deliver unsafe doses without proper monitoring.</p>
                     </div>
 
@@ -512,12 +592,12 @@ faqs:
                     <!-- Rouge G4 -->
                     <div class="product-column best-value">
                         <h3>Rouge G4 Tabletop</h3>
-                        <img src="/uploads/2026/06/rouge-tabletop-g4-678166.webp" alt="Rouge G4 red light therapy panel for eyes" class="rounded-lg shadow-sm w-full mb-4">
+                        <img src="/uploads/2025/06/rouge-tabletop-g4-678166.webp" alt="Rouge G4 red light therapy panel for eyes" class="rounded-lg shadow-sm w-full mb-4">
 
                         <!-- Rouge Video -->
                         <div class="mb-4" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 0.5rem;">
                             <video controls style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-                                <source src="/uploads/2026/12/red-light-therapy-for-dry-eyes.mp4" type="video/mp4">
+                                <source src="/uploads/2025/12/red-light-therapy-for-dry-eyes.mp4" type="video/mp4">
                                 Your browser does not support the video tag.
                             </video>
                         </div>
@@ -537,7 +617,7 @@ faqs:
                     <!-- HigherDose Face Mask -->
                     <div class="product-column">
                         <h3>HigherDOSE Red Light Face Mask</h3>
-                        <img src="/uploads/2026/12/04_05f4cb2d-cf24-4bc2-8698-3ef59f55f75c.webp" alt="HigherDOSE red light therapy face mask for eye wrinkles" class="rounded-lg shadow-sm w-full mb-4">
+                        <img src="/uploads/2025/12/04_05f4cb2d-cf24-4bc2-8698-3ef59f55f75c.webp" alt="HigherDOSE red light therapy face mask for eye wrinkles" class="rounded-lg shadow-sm w-full mb-4">
                         <ul>
                             <li><i class="fas fa-star"></i><strong>Best For:</strong> Eye Wrinkles & Hands-Free Use</li>
                             <li><i class="fas fa-check-circle"></i>Wearable LED mask design</li>
@@ -559,7 +639,7 @@ faqs:
                         <!-- Kala Video -->
                         <div class="mb-4" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 0.5rem;">
                             <video controls style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-                                <source src="/uploads/2026/12/red-light-therapy-for-eyes-at-home.mp4" type="video/mp4">
+                                <source src="/uploads/2025/12/red-light-therapy-for-eyes-at-home.mp4" type="video/mp4">
                                 Your browser does not support the video tag.
                             </video>
                         </div>
@@ -601,7 +681,7 @@ faqs:
                             Is red light therapy safe for eyes and eye health?
                             <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
                         </summary>
-                        <p class="mt-4 text-gray-700"><strong>Red light therapy for eye health</strong> can be safe when used properly with appropriate wavelengths (660-670nm), correct dosing, and under professional guidance. However, recent 2026 research from <em>JAMA Ophthalmology</em> shows potential concerns including reduced cone density with prolonged use in children. For cosmetic use of <strong>red light therapy on eyes</strong> (skin benefits), always keep eyes closed and use protective eyewear. For therapeutic treatment of eye conditions, only proceed under ophthalmologist supervision with FDA-authorized devices.</p>
+                        <p class="mt-4 text-gray-700"><strong>Red light therapy for eye health</strong> can be safe when used properly with appropriate wavelengths (660-670nm), correct dosing, and under professional guidance. However, recent 2025 research from <em>JAMA Ophthalmology</em> shows potential concerns including reduced cone density with prolonged use in children. For cosmetic use of <strong>red light therapy on eyes</strong> (skin benefits), always keep eyes closed and use protective eyewear. For therapeutic treatment of eye conditions, only proceed under ophthalmologist supervision with FDA-authorized devices.</p>
                     </details>
 
                     <details class="bg-white p-6 rounded-lg shadow-sm group">

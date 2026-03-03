@@ -2,7 +2,7 @@
 title: >-
   Warning Signs You Have LEAKY GUT & How To Fix It To PREVENT Disease |A Doctor
   Explains
-date: "2026-11-28 20:08:35"
+date: "2024-11-28 20:08:35"
 slug: warning-signs-you-have-leaky-gut
 description: >-
   Gut health plays a crucial role in overall well-being, affecting everything

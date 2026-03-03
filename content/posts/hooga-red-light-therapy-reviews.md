@@ -1,15 +1,47 @@
 ---
 title: "Hooga Red Light Therapy Reviews: hg200, hg300 & hg1500"
-date: "2026-02-15 08:00:00"
+date: "2024-02-15 08:00:00"
 slug: hooga-red-light-therapy-reviews
 description: >-
   Hooga red light therapy review covering the HG200, HG300, and HG1500 models.
   Budget-friendly panels tested by an RMT. Specs, power, and verdict.
 seoTitle: "Hooga Red Light Review: HG200, HG300 & HG1500"
-rating: 4.6
 ---
 
 <!-- wp:html -->
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "name": "Hooga Red Light Therapy Reviews: hg200, hg300 & hg1500",
+      "author": {
+        "@type": "Organization",
+        "name": "Sync Therapy"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4.6",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "itemReviewed": {
+        "@type": "ProductGroup",
+        "name": "Hooga Red Light Therapy Devices",
+        "brand": {
+          "@type": "Brand",
+          "name": "Hooga Health"
+        },
+        "description": "A comprehensive line of at-home red light therapy panels, masks, and mats designed for skin health, pain relief, and muscle recovery. Includes the HG, Pro, and Ultra series."
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Sync Therapy"
+      },
+      "datePublished": "2025-07-17",
+      "description": "Our in-depth 2026 Hooga Red Light Therapy review. We analyze the HG, Pro, and Ultra series, compare Hooga vs. Mito, and determine if Hooga is a good, legit brand for at-home red light therapy in Canada and beyond."
+    }
+    </script>
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 

@@ -1,6 +1,6 @@
 ---
 title: "PEMF vs Grounding: Understanding Their Benefits and Differences"
-date: "2026-06-19 10:09:43"
+date: "2025-06-19 10:09:43"
 slug: pemf-vs-grounding-understanding-their-benefits-and-differences
 description: >-
   When it comes to alternative wellness practices, both PEMF therapy and

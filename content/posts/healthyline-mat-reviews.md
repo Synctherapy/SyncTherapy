@@ -1,6 +1,6 @@
 ---
 title: "Healthyline Mat Reviews: Unveiling the Best Mats for Your Wellness Journey"
-date: "2026-07-17 17:41:10"
+date: "2024-07-17 17:41:10"
 slug: healthyline-mat-reviews
 description: >-
   Embarking on a wellness journey often involves exploring various tools and

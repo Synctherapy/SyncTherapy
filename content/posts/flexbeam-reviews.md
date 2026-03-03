@@ -1,37 +1,156 @@
 ---
-title: 'FlexBeam Review 2026: Recharge Health Red Light Therapy Device'
-date: '2026-04-11 17:49:13'
+title: "FlexBeam Review 2026: Recharge Health Red Light Therapy Device"
+date: "2024-04-11 17:49:13"
 slug: flexbeam-reviews
 description: >-
   FlexBeam red light therapy review for 2026. Portable targeted device tested by
   an RMT for pain, recovery, and joint health. Honest pros and cons.
-seoTitle: 'FlexBeam Review 2026: Portable Red Light Device'
-faqs:
-  - question: Is FlexBeam worth it?
-    answer: Yes, FlexBeam is worth it for individuals seeking targeted red light therapy for pain relief, muscle recovery, and inflammation reduction. With 10x more power than typical consumer devices, a 5-year warranty, and 60-day money-back guarantee, it offers strong value. However, it requires consistent use (daily 10-minute sessions) to see optimal results.
-  - question: What is the FlexBeam price?
-    answer: The FlexBeam price is $549 USD at full retail. However, Recharge Health frequently offers discounts of $60-title: 'FlexBeam Review 2026: Recharge Health Red Light Therapy Device'
-date: '2026-04-11 17:49:13'
-slug: flexbeam-reviews
-description: >-
-  FlexBeam red light therapy review for 2026. Portable targeted device tested by
-  an RMT for pain, recovery, and joint health. Honest pros and cons.
-seoTitle: 'FlexBeam Review 2026: Portable Red Light Device'60 off during sales. The device includes a hardshell travel case, velcro straps, power supply, and comprehensive guidebook.
-  - question: Does FlexBeam work for back pain?
-    answer: "Yes, FlexBeam can be effective for back pain based on clinical research supporting photobiomodulation therapy. The device's near-infrared light (800-850nm) penetrates up to 10cm deep, reaching muscles, joints, and tissues in the back."
-  - question: Is FlexBeam good for knee pain?
-    answer: FlexBeam is excellent for knee pain due to its wrap-around design that conforms to the knee joint. Clinical studies on photobiomodulation show it can reduce inflammation and promote cellular repair in knee osteoarthritis patients.
-  - question: "FlexBeam vs Kineon: Which is better?"
-    answer: FlexBeam and Kineon Move+ Pro serve different purposes. FlexBeam is better for general wellness, larger treatment areas, and versatility. Kineon Move+ Pro is better for specific joint pain due to its laser + LED combination. FlexBeam has 16x more total power output and covers more area.
-  - question: What wavelengths does FlexBeam use?
-    answer: "FlexBeam uses two therapeutic wavelengths: red light at 610-650nm (peaking at 622nm) and near-infrared light at 800-850nm (peaking at 814nm). The red light penetrates up to 2.5cm, while the near-infrared penetrates up to 10cm for deep tissue treatment."
-  - question: Is FlexBeam FDA approved?
-    answer: FlexBeam is not FDA approved as a medical device. However, it is compliant with international safety standards including IEC 60601-1 and ISO 10993. The device is designed following general wellness guidelines and is HSA/FSA eligible.
-  - question: "What is FlexBeam's return policy?"
-    answer: "FlexBeam offers a 60-day money-back guarantee. If you're not satisfied with the device, you can return it within 60 days of purchase for a full refund. The product also comes with a 5-year warranty."
+seoTitle: "FlexBeam Review 2026: Portable Red Light Device"
 ---
 
 <!-- wp:html -->
+
+<!-- Schema Markup - Article -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://synctherapylocal.local/flexbeam-reviews/"
+  },
+  "headline": "FlexBeam Review 2026: Recharge Health Red Light Therapy Device",
+  "description": "I give my flexbeam review on whether it is worth it and why i suggest it as an award winning therapist. Learn about my flexbeam red light therapy reviews",
+  "datePublished": "2024-03-15T08:00:00-05:00",
+  "dateModified": "2025-12-27T09:00:00-08:00",
+  "author": {
+    "@type": "Person",
+    "name": "Daryl Stubbs",
+    "url": "https://synctherapylocal.local/",
+    "jobTitle": "RMT, CAT(C), Holistic Nutritionist"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Sync Therapy",
+    "url": "https://synctherapylocal.local/"
+  }
+}
+</script>
+
+<!-- Schema Markup - Product Review -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Recharge Health FlexBeam Red Light Therapy Device",
+  "image": "/uploads/content/flexbeam-red-light-therapy-reviews-in-Canada-from-an-expert-on-red-light-therapy-wearable-devices-300x169_7266d807-956c-4840-8d78-3521a5763256.webp",
+  "description": "FlexBeam is a wearable, portable red light therapy device that uses red and near-infrared wavelengths for pain relief, muscle recovery, and inflammation reduction.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Recharge Health"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://recharge.health/product/flexbeam/",
+    "priceCurrency": "USD",
+    "price": "549",
+    "availability": "https://schema.org/InStock"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "458",
+    "bestRating": "5"
+  },
+  "review": {
+    "@type": "Review",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "4.5",
+      "bestRating": "5"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "Bruce Chicken"
+    },
+    "reviewBody": "As a Registered Massage Therapist and Certified Athletic Therapist, I recommend the FlexBeam for clients seeking targeted red light therapy for back pain, knee pain, and neck pain relief based on its clinical-grade specifications and the scientific evidence supporting photobiomodulation."
+  }
+}
+</script>
+
+<!-- Schema Markup - FAQ -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is FlexBeam worth it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, FlexBeam is worth it for individuals seeking targeted red light therapy for pain relief, muscle recovery, and inflammation reduction. With 10x more power than typical consumer devices, a 5-year warranty, and 60-day money-back guarantee, it offers strong value. However, it requires consistent use (daily 10-minute sessions) to see optimal results."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the FlexBeam price?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The FlexBeam price is $549 USD at full retail. However, Recharge Health frequently offers discounts of $60-$160 off during sales. The device includes a hardshell travel case, velcro straps, power supply, and comprehensive guidebook."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does FlexBeam work for back pain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, FlexBeam can be effective for back pain based on clinical research supporting photobiomodulation therapy. The device's near-infrared light (800-850nm) penetrates up to 10cm deep, reaching muscles, joints, and tissues in the back."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is FlexBeam good for knee pain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "FlexBeam is excellent for knee pain due to its wrap-around design that conforms to the knee joint. Clinical studies on photobiomodulation show it can reduce inflammation and promote cellular repair in knee osteoarthritis patients."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "FlexBeam vs Kineon: Which is better?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "FlexBeam and Kineon Move+ Pro serve different purposes. FlexBeam is better for general wellness, larger treatment areas, and versatility. Kineon Move+ Pro is better for specific joint pain due to its laser + LED combination. FlexBeam has 16x more total power output and covers more area."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What wavelengths does FlexBeam use?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "FlexBeam uses two therapeutic wavelengths: red light at 610-650nm (peaking at 622nm) and near-infrared light at 800-850nm (peaking at 814nm). The red light penetrates up to 2.5cm, while the near-infrared penetrates up to 10cm for deep tissue treatment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is FlexBeam FDA approved?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "FlexBeam is not FDA approved as a medical device. However, it is compliant with international safety standards including IEC 60601-1 and ISO 10993. The device is designed following general wellness guidelines and is HSA/FSA eligible."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is FlexBeam's return policy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "FlexBeam offers a 60-day money-back guarantee. If you're not satisfied with the device, you can return it within 60 days of purchase for a full refund. The product also comes with a 5-year warranty."
+      }
+    }
+  ]
+}
+</script>
 
 <div class="max-w-4xl mx-auto p-4 sm:p-6 lg:p-8">
     <main>
@@ -153,7 +272,7 @@ seoTitle: 'FlexBeam Review 2026: Portable Red Light Device'60 off during sales. 
                 <div>
                     <div class="video-container">
                         <video controls preload="metadata">
-                            <source src="/uploads/2026/12/recharge-health-flexbeam-reviews.mp4" type="video/mp4">
+                            <source src="/uploads/2025/12/recharge-health-flexbeam-reviews.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
                     </div>
@@ -175,7 +294,7 @@ seoTitle: 'FlexBeam Review 2026: Portable Red Light Device'60 off during sales. 
                     <div>
                         <h4 class="font-semibold text-primary mb-2">What the Research Shows:</h4>
                         <ul class="text-sm text-gray-700 space-y-2">
-                            <li><i class="fas fa-check text-green-500 mr-2"></i>A 2026 review in the <em>European Journal of Physical and Rehabilitation Medicine</em> found PBM effective for musculoskeletal pain control (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9980499/" target="_blank" rel="nofollow" class="study-link">PMC9980499</a>)</li>
+                            <li><i class="fas fa-check text-green-500 mr-2"></i>A 2023 review in the <em>European Journal of Physical and Rehabilitation Medicine</em> found PBM effective for musculoskeletal pain control (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9980499/" target="_blank" rel="nofollow" class="study-link">PMC9980499</a>)</li>
                             <li><i class="fas fa-check text-green-500 mr-2"></i>Meta-analysis showed PBM can reduce pain intensity in knee osteoarthritis patients (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10531845/" target="_blank" rel="nofollow" class="study-link">PMC10531845</a>)</li>
                             <li><i class="fas fa-check text-green-500 mr-2"></i>Clinical trials demonstrate significant improvements in fibromyalgia pain severity (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12326686/" target="_blank" rel="nofollow" class="study-link">PMC12326686</a>)</li>
                         </ul>
@@ -198,7 +317,7 @@ seoTitle: 'FlexBeam Review 2026: Portable Red Light Device'60 off during sales. 
             <div class="bg-yellow-50 p-4 rounded-lg border-l-4 border-accent mb-4">
                 <p class="font-semibold text-primary"><i class="fas fa-quote-left mr-2"></i>From the Research:</p>
                 <p class="text-sm text-gray-700 italic">"Photobiomodulation therapy applied in the form of low-intensity LASER and LED has been shown to reduce inflammation and swelling, promote healing, and reduce pain for an array of musculoskeletal conditions."</p>
-                <p class="text-xs text-gray-500 mt-1">— European Journal of Physical and Rehabilitation Medicine, 2026</p>
+                <p class="text-xs text-gray-500 mt-1">— European Journal of Physical and Rehabilitation Medicine, 2023</p>
             </div>
 
             <p class="text-sm text-gray-600">For more on the science, see my guide on <a href="/red-light-therapy/" class="text-primary hover:underline font-semibold">photobiomodulation explained</a>.</p>
@@ -284,7 +403,7 @@ seoTitle: 'FlexBeam Review 2026: Portable Red Light Device'60 off during sales. 
                 <div>
                     <div class="video-container mb-4">
                         <video controls preload="metadata">
-                            <source src="/uploads/2026/12/recharge-flexbeam-review.mp4" type="video/mp4">
+                            <source src="/uploads/2025/12/recharge-flexbeam-review.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
                     </div>
@@ -344,7 +463,7 @@ seoTitle: 'FlexBeam Review 2026: Portable Red Light Device'60 off during sales. 
                 <div>
                     <div class="video-container mb-4">
                         <video controls preload="metadata">
-                            <source src="/uploads/2026/12/my-flexbeam-review-for-knee-pain.mp4" type="video/mp4">
+                            <source src="/uploads/2025/12/my-flexbeam-review-for-knee-pain.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
                     </div>
@@ -370,7 +489,7 @@ seoTitle: 'FlexBeam Review 2026: Portable Red Light Device'60 off during sales. 
                 <div>
                     <div class="video-container mb-4">
                         <video controls preload="metadata">
-                            <source src="/uploads/2026/12/recharge-flex-beam-review-for-neck-pain.mp4" type="video/mp4">
+                            <source src="/uploads/2025/12/recharge-flex-beam-review-for-neck-pain.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
                     </div>
@@ -569,7 +688,7 @@ seoTitle: 'FlexBeam Review 2026: Portable Red Light Device'60 off during sales. 
                 <div>
                     <div class="video-container">
                         <video controls preload="metadata">
-                            <source src="/uploads/2026/12/recharge-flexbeam-reviews-.mp4" type="video/mp4">
+                            <source src="/uploads/2025/12/recharge-flexbeam-reviews-.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
                     </div>
@@ -651,8 +770,8 @@ seoTitle: 'FlexBeam Review 2026: Portable Red Light Device'60 off during sales. 
             <h2 class="!mt-0"><i class="fas fa-book-open text-accent mr-2"></i>Scientific References</h2>
             <ol class="text-sm text-gray-700 space-y-2 list-decimal list-inside">
                 <li>Hamblin MR. "Mechanisms and applications of the anti-inflammatory effects of photobiomodulation." <em>AIMS Biophys.</em> 2017. <a href="https://pubmed.ncbi.nlm.nih.gov/28748217/" target="_blank" rel="nofollow" class="study-link">PubMed</a></li>
-                <li>Stausholm MB, et al. "Low-intensity LASER and LED for pain control of musculoskeletal conditions." <em>Eur J Phys Rehabil Med.</em> 2026. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9980499/" target="_blank" rel="nofollow" class="study-link">PMC</a></li>
-                <li>Yeh SW, et al. "Photobiomodulation Therapy for Arthritis." <em>Int J Mol Sci.</em> 2026. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10531845/" target="_blank" rel="nofollow" class="study-link">PMC</a></li>
+                <li>Stausholm MB, et al. "Low-intensity LASER and LED for pain control of musculoskeletal conditions." <em>Eur J Phys Rehabil Med.</em> 2023. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9980499/" target="_blank" rel="nofollow" class="study-link">PMC</a></li>
+                <li>Yeh SW, et al. "Photobiomodulation Therapy for Arthritis." <em>Int J Mol Sci.</em> 2023. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10531845/" target="_blank" rel="nofollow" class="study-link">PMC</a></li>
                 <li>Brosseau L, et al. "Low level laser therapy for osteoarthritis and rheumatoid arthritis." <em>J Rheumatol.</em> 2000. <a href="https://pubmed.ncbi.nlm.nih.gov/10955339/" target="_blank" rel="nofollow" class="study-link">PubMed</a></li>
                 <li>Alayat MS, et al. "Laser photobiomodulation vs ultrasound for chronic low back pain." <em>Lasers Med Sci.</em> 2019. <a href="https://pubmed.ncbi.nlm.nih.gov/30334124/" target="_blank" rel="nofollow" class="study-link">PubMed</a></li>
                 <li>Ozdemir F, et al. "Low-power laser therapy for cervical osteoarthritis." <em>Clin Rheumatol.</em> 2001. <a href="https://pubmed.ncbi.nlm.nih.gov/11434469/" target="_blank" rel="nofollow" class="study-link">PubMed</a></li>

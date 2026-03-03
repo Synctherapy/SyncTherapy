@@ -1,6 +1,6 @@
 ---
 title: "Red Light Therapy for Wound Healing (2026): Heal Faster"
-date: "2026-05-27 21:58:03"
+date: "2024-05-27 21:58:03"
 slug: red-light-therapy-and-wound-healing-clinical-evidence
 description: >-
   Revolutionizing Wound Healing with Red Light Therapy When it comes to

@@ -1,6 +1,6 @@
 ---
 title: "Higherdose PEMF Mat Reviews 2026: Is The Higher Dose Go Pemf Mat Worth It?"
-date: "2026-12-26 08:00:00"
+date: "2023-12-26 08:00:00"
 slug: higherdose-pemf-mat-reviews
 description: >-
   HigherDOSE PEMF mat review for 2026 including the Go mat. Is the Higher Dose

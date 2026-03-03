@@ -1,43 +1,158 @@
 ---
 title: 6 Best Hydrogen Water Bottles in Canada (2026) | I Have 4
-date: '2026-01-12 08:00:00'
+date: "2024-01-12 08:00:00"
 slug: best-hydrogen-water-bottles
 description: >-
   Six best hydrogen water bottles in Canada for 2026. I own four of them. PPM
   levels, build quality, and value compared by a Holistic Nutritionist.
 seoTitle: Best Hydrogen Water Bottles Canada (2026) — Tested
-faqs:
-  - question: What is the best hydrogen water bottle in 2026?
-    answer: Based on our testing and consumer reports-style analysis, the Echo Flask is the best hydrogen water bottle in 2026. It produces an industry-leading 8.0 PPM of molecular hydrogen, features smart app integration, and comes with a 5-year warranty. For the best value in Canada, the Ocemida Omni offers excellent performance at a lower price point.
-  - question: What hydrogen water bottle does Gary Brecka use?
-    answer: Gary Brecka recommends and uses Echo Water products, specifically the Echo Go+ and Echo Flask hydrogen water bottles. He frequently discusses the benefits of molecular hydrogen for reducing oxidative stress and improving cellular health on his podcasts and social media.
-  - question: How does a hydrogen water bottle work?
-    answer: A hydrogen water bottle uses electrolysis to split water molecules (H₂O) into hydrogen (H₂) and oxygen (O₂). Quality bottles use SPE/PEM technology (Solid Polymer Electrolysis with a Proton Exchange Membrane) to produce pure molecular hydrogen while venting waste gases like chlorine and ozone. The hydrogen gas dissolves into the water, creating hydrogen-rich water you can drink.
-  - question: Are hydrogen water bottles a scam?
-    answer: No, hydrogen water bottles are not a scam when you purchase quality devices with SPE/PEM technology. Over 1,000 peer-reviewed studies on PubMed support the therapeutic benefits of molecular hydrogen. However, cheap bottles without proper technology may not produce therapeutic hydrogen levels. Look for IHSA certification and third-party testing.
-  - question: What is a good PPM for hydrogen water?
-    answer: Therapeutic hydrogen water should contain at least 1.0 PPM (parts per million) of dissolved hydrogen. Higher concentrations like 3.0-8.0 PPM provide more benefits per serving. The Echo Flask produces up to 8.0 PPM, while most quality bottles produce 3.0-5.5 PPM.
-  - question: How do you clean a hydrogen water bottle?
-    answer: "Most quality hydrogen water bottles have a self-cleaning cycle. Run this cycle weekly with filtered water. For manual cleaning, use a mixture of white vinegar and water (1:3 ratio), let it sit for 15-30 minutes, then rinse thoroughly. Never use soap or harsh chemicals on the electrodes. Some bottles like the Echo Flask and Ocemida Omni feature automatic self-cleaning SPE/PEM technology."
-  - question: Is a hydrogen water bottle better than hydrogen tablets?
-    answer: Both have pros and cons. Hydrogen water bottles have higher upfront cost but produce hydrogen water on-demand with no ongoing costs. Hydrogen tablets are portable and affordable initially but cost $0.50-title: 6 Best Hydrogen Water Bottles in Canada (2026) | I Have 4
-date: '2026-01-12 08:00:00'
-slug: best-hydrogen-water-bottles
-description: >-
-  Six best hydrogen water bottles in Canada for 2026. I own four of them. PPM
-  levels, build quality, and value compared by a Holistic Nutritionist.
-seoTitle: Best Hydrogen Water Bottles Canada (2026) — Tested.50 per serving long-term. Bottles typically produce higher concentrations (3-8 PPM) vs tablets (1-3 PPM). For daily use, bottles are more economical over time.
-  - question: Why do hydrogen water bottles use plastic instead of glass?
-    answer: Hydrogen production creates significant pressure inside the bottle (e.g., the Echo Flask operates at 80 PSI). Glass can crack or shatter under this pressure, making it unsafe. Quality hydrogen water bottles use BPA-free, food-grade polycarbonate or Tritan plastic that safely handles the pressure while maintaining durability.
-  - question: What is the best hydrogen water bottle in Canada?
-    answer: The best hydrogen water bottles available in Canada are the Echo Flask ($299 USD), EVOLV Bottle ($249 USD), and Ocemida Omni ($239 CAD). The Ocemida Omni is particularly popular among Canadians for its competitive CAD pricing, IHSA certification, and 5-year warranty with local support.
-  - question: "EVOLV vs Echo Flask: Which hydrogen water bottle is better?"
-    answer: The Echo Flask is our top pick for best overall performance with 8.0 PPM concentration, smart app integration, and a 5-year warranty. The EVOLV bottle is excellent for those prioritizing independent IHSA certification and value (5.42 PPM at $249). Choose Echo Flask for features and warranty; choose EVOLV for certified concentration at a lower price.
 ---
 
 <!-- wp:html -->
 
+<!-- Schema Markup - Article -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://synctherapylocal.local/best-hydrogen-water-bottles/"
+  },
+  "headline": "7 Best Hydrogen Water Bottles in 2026 (I Own 4 of Them) | Expert Review",
+  "description": "Looking for the best hydrogen water bottle? Our 2026 consumer reports-style review compares Echo Flask, EVOLV, Ocemida & more. Includes Gary Brecka's recommendation.",
+  "datePublished": "2024-01-15T08:00:00-05:00",
+  "dateModified": "2025-12-27T09:00:00-08:00",
+  "author": {
+    "@type": "Person",
+    "name": "Bruce Chicken",
+    "url": "https://synctherapylocal.local/",
+    "jobTitle": "RMT, CAT(C), Holistic Nutritionist"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Sync Therapy",
+    "url": "https://synctherapylocal.local/"
+  }
+}
+</script>
+
 <!-- Product Schema for Echo Flask -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Echo Flask Hydrogen Water Bottle",
+  "description": "The Echo Flask hydrogen water bottle produces up to 8.0 PPM of molecular hydrogen with SPE/PEM technology, Bluetooth app integration, and a 5-year warranty.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Echo Water"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "847",
+    "bestRating": "5"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://echowater.com/",
+    "priceCurrency": "USD",
+    "price": "299.00",
+    "availability": "https://schema.org/InStock"
+  }
+}
+</script>
+
+<!-- FAQ Schema - Expanded -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the best hydrogen water bottle in 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Based on our testing and consumer reports-style analysis, the Echo Flask is the best hydrogen water bottle in 2026. It produces an industry-leading 8.0 PPM of molecular hydrogen, features smart app integration, and comes with a 5-year warranty. For the best value in Canada, the Ocemida Omni offers excellent performance at a lower price point."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What hydrogen water bottle does Gary Brecka use?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gary Brecka recommends and uses Echo Water products, specifically the Echo Go+ and Echo Flask hydrogen water bottles. He frequently discusses the benefits of molecular hydrogen for reducing oxidative stress and improving cellular health on his podcasts and social media."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does a hydrogen water bottle work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A hydrogen water bottle uses electrolysis to split water molecules (H₂O) into hydrogen (H₂) and oxygen (O₂). Quality bottles use SPE/PEM technology (Solid Polymer Electrolysis with a Proton Exchange Membrane) to produce pure molecular hydrogen while venting waste gases like chlorine and ozone. The hydrogen gas dissolves into the water, creating hydrogen-rich water you can drink."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are hydrogen water bottles a scam?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, hydrogen water bottles are not a scam when you purchase quality devices with SPE/PEM technology. Over 1,000 peer-reviewed studies on PubMed support the therapeutic benefits of molecular hydrogen. However, cheap bottles without proper technology may not produce therapeutic hydrogen levels. Look for IHSA certification and third-party testing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a good PPM for hydrogen water?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Therapeutic hydrogen water should contain at least 1.0 PPM (parts per million) of dissolved hydrogen. Higher concentrations like 3.0-8.0 PPM provide more benefits per serving. The Echo Flask produces up to 8.0 PPM, while most quality bottles produce 3.0-5.5 PPM."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you clean a hydrogen water bottle?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most quality hydrogen water bottles have a self-cleaning cycle. Run this cycle weekly with filtered water. For manual cleaning, use a mixture of white vinegar and water (1:3 ratio), let it sit for 15-30 minutes, then rinse thoroughly. Never use soap or harsh chemicals on the electrodes. Some bottles like the Echo Flask and Ocemida Omni feature automatic self-cleaning SPE/PEM technology."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is a hydrogen water bottle better than hydrogen tablets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Both have pros and cons. Hydrogen water bottles have higher upfront cost but produce hydrogen water on-demand with no ongoing costs. Hydrogen tablets are portable and affordable initially but cost $0.50-$1.50 per serving long-term. Bottles typically produce higher concentrations (3-8 PPM) vs tablets (1-3 PPM). For daily use, bottles are more economical over time."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why do hydrogen water bottles use plastic instead of glass?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hydrogen production creates significant pressure inside the bottle (e.g., the Echo Flask operates at 80 PSI). Glass can crack or shatter under this pressure, making it unsafe. Quality hydrogen water bottles use BPA-free, food-grade polycarbonate or Tritan plastic that safely handles the pressure while maintaining durability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best hydrogen water bottle in Canada?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best hydrogen water bottles available in Canada are the Echo Flask ($299 USD), EVOLV Bottle ($249 USD), and Ocemida Omni ($239 CAD). The Ocemida Omni is particularly popular among Canadians for its competitive CAD pricing, IHSA certification, and 5-year warranty with local support."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "EVOLV vs Echo Flask: Which hydrogen water bottle is better?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Echo Flask is our top pick for best overall performance with 8.0 PPM concentration, smart app integration, and a 5-year warranty. The EVOLV bottle is excellent for those prioritizing independent IHSA certification and value (5.42 PPM at $249). Choose Echo Flask for features and warranty; choose EVOLV for certified concentration at a lower price."
+      }
+    }
+  ]
+}
+</script>
 
 <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 py-8">
 
@@ -257,14 +372,14 @@ seoTitle: Best Hydrogen Water Bottles Canada (2026) — Tested.50 per serving lo
                 <div class="bg-white p-4 rounded-lg shadow-md">
                     <h4 class="font-bold text-primary mb-3"><i class="fas fa-play-circle mr-2"></i>Echo Hydrogen Water Bottle in Canada</h4>
                     <video controls class="w-full rounded-lg" preload="metadata">
-                        <source src="/uploads/2026/12/echo-hydrogen-water-bottle-in-canada.mp4" type="video/mp4">
+                        <source src="/uploads/2025/12/echo-hydrogen-water-bottle-in-canada.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
                 </div>
                 <div class="bg-white p-4 rounded-lg shadow-md">
                     <h4 class="font-bold text-primary mb-3"><i class="fas fa-play-circle mr-2"></i>EVOLV Hydrogen Water Bottle Generator</h4>
                     <video controls class="w-full rounded-lg" preload="metadata">
-                        <source src="/uploads/2026/12/evolve-hydrogen-water-bottle-generator-.mp4" type="video/mp4">
+                        <source src="/uploads/2025/12/evolve-hydrogen-water-bottle-generator-.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
                 </div>
@@ -278,7 +393,7 @@ seoTitle: Best Hydrogen Water Bottles Canada (2026) — Tested.50 per serving lo
                 </div>
                 <p class="text-accent font-semibold mb-4">Best Overall Hydrogen Water Bottle 2026 | Gary Brecka's Choice</p>
                 <div class="grid md:grid-cols-2 gap-6">
-                    <img src="/uploads/2026/07/echo-flask-is-gary-breckas-hydrogen-water-bottle-recommendation.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Echo+Flask';" alt="Echo Flask hydrogen water bottle review - the best hydrogen water bottle recommended by Gary Brecka" class="rounded-lg shadow-sm w-full">
+                    <img src="/uploads/2025/07/echo-flask-is-gary-breckas-hydrogen-water-bottle-recommendation.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Echo+Flask';" alt="Echo Flask hydrogen water bottle review - the best hydrogen water bottle recommended by Gary Brecka" class="rounded-lg shadow-sm w-full">
                     <div>
                         <p class="mb-4">The <strong>Echo Flask hydrogen water bottle</strong> sets the standard for 2026. It produces an industry-leading <strong>8.0 PPM</strong> of molecular hydrogen—the highest concentration we've tested. This is the bottle <strong><a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ2FyeS1icmVja2EtaHlkcm9nZW4td2F0ZXItYm90dGxlLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ2FyeS1icmVja2EtaHlkcm9nZW4td2F0ZXItYm90dGxlLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ2FyeS1icmVja2EtaHlkcm9nZW4td2F0ZXItYm90dGxlLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZ2FyeS1icmVja2EtaHlkcm9nZW4td2F0ZXItYm90dGxlLw==" href="/gary-brecka-hydrogen-water-bottle/" class="text-primary hover:underline">Gary Brecka recommends</a></strong> for its advanced technology and proven results. Read our full <a href="/echo-flask-review/" class="text-primary hover:underline font-semibold">Echo Flask review</a> for more details.</p>
                         <p class="mb-4"><strong>Who is this best for?</strong> Users who want the absolute best performance, smart features, and longest warranty. Ideal for biohackers, athletes, and anyone serious about <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVuZWZpdHMtb2YtaHlkcm9nZW4td2F0ZXIv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVuZWZpdHMtb2YtaHlkcm9nZW4td2F0ZXIv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVuZWZpdHMtb2YtaHlkcm9nZW4td2F0ZXIv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVuZWZpdHMtb2YtaHlkcm9nZW4td2F0ZXIv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVuZWZpdHMtb2YtaHlkcm9nZW4td2F0ZXIv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVuZWZpdHMtb2YtaHlkcm9nZW4td2F0ZXIv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVuZWZpdHMtb2YtaHlkcm9nZW4td2F0ZXIv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvYmVuZWZpdHMtb2YtaHlkcm9nZW4td2F0ZXIv" href="/benefits-of-hydrogen-water/" class="text-primary hover:underline font-semibold">hydrogen water benefits</a>.</p>
@@ -300,7 +415,7 @@ seoTitle: Best Hydrogen Water Bottles Canada (2026) — Tested.50 per serving lo
                 <h3 class="text-2xl font-bold">2. EVOLV Hydrogen Water Bottle</h3>
                 <p class="text-accent font-semibold mb-4">Highest Independently Certified H₂ Concentration</p>
                 <div class="grid md:grid-cols-2 gap-6">
-                    <img src="/uploads/2026/07/evolv-hydrogen-water-bottle.jpeg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=EVOLV+Bottle';" alt="EVOLV hydrogen water bottle review - highest certified PPM concentration" class="rounded-lg shadow-sm w-full">
+                    <img src="/uploads/2025/07/evolv-hydrogen-water-bottle.jpeg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=EVOLV+Bottle';" alt="EVOLV hydrogen water bottle review - highest certified PPM concentration" class="rounded-lg shadow-sm w-full">
                     <div>
                         <p class="mb-4">Our <strong>EVOLV hydrogen water bottle review</strong> finds it's a top contender for those who value independent certification. The EVOLV produces up to <strong>5.42 PPM</strong>—verified by third-party H2 Analytics testing to IHSA and US EPA standards.</p>
                         <p class="mb-4"><strong>Who is this best for?</strong> Users who prioritize independently verified hydrogen concentration and want a slightly lower price point than the Echo Flask.</p>
@@ -325,7 +440,7 @@ seoTitle: Best Hydrogen Water Bottles Canada (2026) — Tested.50 per serving lo
                 </div>
                 <p class="text-accent font-semibold mb-4">Best Hydrogen Water Bottle in Canada for Value</p>
                 <div class="grid md:grid-cols-2 gap-6">
-                    <img src="/uploads/2026/07/ocemida-hydrogen-water-bottle-.png" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Ocemida+Omni';" alt="Ocemida Omni hydrogen water bottle review - best value in Canada" class="rounded-lg shadow-sm w-full">
+                    <img src="/uploads/2025/07/ocemida-hydrogen-water-bottle-.png" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Ocemida+Omni';" alt="Ocemida Omni hydrogen water bottle review - best value in Canada" class="rounded-lg shadow-sm w-full">
                     <div>
                         <p class="mb-4">The <strong>Ocemida Omni</strong> is my top recommendation for Canadians looking for the <strong>best hydrogen water bottle in Canada</strong>. It offers IHSA certification, a 5-year warranty, and excellent performance at a competitive CAD price point.</p>
                         <p class="mb-4"><strong>Who is this best for?</strong> Budget-conscious Canadians who don't want to compromise on quality, safety, or warranty coverage.</p>
@@ -347,7 +462,7 @@ seoTitle: Best Hydrogen Water Bottles Canada (2026) — Tested.50 per serving lo
                 <h3 class="text-2xl font-bold">4. Echo Go+ Hydrogen Water Bottle</h3>
                 <p class="text-accent font-semibold mb-4">Best Portable Hydrogen Water Bottle</p>
                 <div class="grid md:grid-cols-2 gap-6">
-                    <img src="/uploads/2026/06/echolisting_Annaedit10_1.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Echo+Go+Plus';" alt="Echo Go Plus hydrogen water bottle review - best portable option" class="rounded-lg shadow-sm w-full">
+                    <img src="/uploads/2025/06/echolisting_Annaedit10_1.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Echo+Go+Plus';" alt="Echo Go Plus hydrogen water bottle review - best portable option" class="rounded-lg shadow-sm w-full">
                     <div>
                         <p class="mb-4">The <strong><a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZWNoby1nby1oeWRyb2dlbi13YXRlci1ib3R0bGUtcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZWNoby1nby1oeWRyb2dlbi13YXRlci1ib3R0bGUtcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZWNoby1nby1oeWRyb2dlbi13YXRlci1ib3R0bGUtcmV2aWV3Lw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZWNoby1nby1oeWRyb2dlbi13YXRlci1ib3R0bGUtcmV2aWV3Lw==" href="/best-hydrogen-water-bottles/" class="text-primary hover:underline">Echo Go+ hydrogen water bottle</a></strong> is Echo's most portable option, perfect for travel and daily use. It's lighter and more compact than the Flask while still delivering excellent hydrogen concentration. See our full <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZWNoby1oeWRyb2dlbi13YXRlci1yZXZpZXdzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZWNoby1oeWRyb2dlbi13YXRlci1yZXZpZXdzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZWNoby1oeWRyb2dlbi13YXRlci1yZXZpZXdzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvZWNoby1oeWRyb2dlbi13YXRlci1yZXZpZXdzLw==" href="/echo-ultimate-review/" class="text-primary hover:underline font-semibold">Echo hydrogen water reviews</a> for more details on the entire Echo lineup.</p>
                         <p class="mb-4"><strong>Who is this best for?</strong> On-the-go professionals, travelers, and anyone who wants Echo quality in a more portable package.</p>
@@ -390,7 +505,7 @@ seoTitle: Best Hydrogen Water Bottles Canada (2026) — Tested.50 per serving lo
                 <h3 class="text-2xl font-bold">6. LumiVitae CellPower Hydrogen Water Bottle</h3>
                 <p class="text-accent font-semibold mb-4">Best Premium Tech (Nuno Nina Design)</p>
                 <div class="grid md:grid-cols-2 gap-6">
-                    <img src="/uploads/2026/06/LumivitaeCellPowerHydrogenWaterBottle.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=LumiVitae+CellPower';" alt="LumiVitae CellPower hydrogen water bottle review - Nuno Nina design" class="rounded-lg shadow-sm w-full">
+                    <img src="/uploads/2025/06/LumivitaeCellPowerHydrogenWaterBottle.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=LumiVitae+CellPower';" alt="LumiVitae CellPower hydrogen water bottle review - Nuno Nina design" class="rounded-lg shadow-sm w-full">
                     <div>
                         <p class="mb-4">Our <strong>LumiVitae hydrogen water bottle review</strong> finds it's a unique, premium option designed by health pioneer Nuno Nina. It combines hydrogen infusion with magnetic field alignment and chromotherapy (light therapy) for a holistic approach.</p>
                         <p class="mb-4"><strong>Who is this best for?</strong> Wellness enthusiasts who want a luxury, multi-technology device and don't mind the premium price tag.</p>
@@ -411,7 +526,7 @@ seoTitle: Best Hydrogen Water Bottles Canada (2026) — Tested.50 per serving lo
                 <h3 class="text-2xl font-bold">7. Echo Hydrogen Water Pitcher</h3>
                 <p class="text-accent font-semibold mb-4">Best Hydrogen Water Pitcher for Families</p>
                 <div class="grid md:grid-cols-2 gap-6">
-                    <img src="/uploads/2026/06/hydrogenwaterpitcherechowater3.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Echo+Pitcher';" alt="Echo hydrogen water pitcher review - best for families" class="rounded-lg shadow-sm w-full">
+                    <img src="/uploads/2025/06/hydrogenwaterpitcherechowater3.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Echo+Pitcher';" alt="Echo hydrogen water pitcher review - best for families" class="rounded-lg shadow-sm w-full">
                     <div>
                         <p class="mb-4">For families or anyone wanting larger batches, the <a href="/echo-hydrogen-pitcher-review/" class="text-primary hover:underline font-semibold">Echo Hydrogen Water Pitcher</a> is the <strong>best hydrogen water pitcher</strong> on the market. It makes 1.7L at a time, enough for the whole family.</p>
                         <p class="mb-4"><strong>Who is this best for?</strong> Families, couples, or individuals who want to make larger quantities without using a portable bottle repeatedly.</p>

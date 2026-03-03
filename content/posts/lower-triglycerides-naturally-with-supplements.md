@@ -1,6 +1,6 @@
 ---
 title: How To Lower Triglycerides Naturally With Supplements | Proven Techniques
-date: "2026-06-19 10:08:03"
+date: "2025-06-19 10:08:03"
 slug: lower-triglycerides-naturally-with-supplements
 description: >-
   Discover how to lower triglycerides naturally with supplements in our

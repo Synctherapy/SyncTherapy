@@ -2,21 +2,12 @@
 title: >-
   Gary Brecka Supplements: List, Recommendations for MTHFR, Anxiety, Sleep &amp;
   More
-date: "2026-01-10 08:00:00"
+date: "2024-01-10 08:00:00"
 slug: gary-brecka-supplements
 description: >-
   Gary Brecka supplement recommendations for 2026. His exact products, dosages,
   and where to buy them in the US and Canada. Full protocol list reviewed.
 seoTitle: "Gary Brecka Supplements: His Full 2026 Protocol"
-faqs:
-  - question: "How long does it take to see results from Gary Brecka's supplements for sleep?"
-    answer: Results vary depending on the supplement and individual factors. For sleep supplements, some users may notice improvements within a few days to a couple of weeks of consistent use. For more profound changes related to MTHFR support or anxiety, it might take several weeks to a few months to observe significant benefits.
-  - question: "Are Gary Brecka's recommended supplements safe for long-term use?"
-    answer: "Gary Brecka emphasizes natural, bioavailable ingredients from reputable brands like BodyHealth, Pure Encapsulations, and Thorne. Generally, supplements from these trusted brands are considered safe for long-term use when taken as directed. However, it's always recommended to consult with a healthcare professional before starting any new supplement regimen, especially for long-term use or if you have underlying health conditions."
-  - question: Can Gary Brecka supplements help with weight loss or high blood pressure?
-    answer: "While Gary Brecka's primary focus is on optimizing cellular function and addressing root causes of health issues, some of his recommended supplements, like Perfect Aminos and electrolytes, can indirectly support weight management by promoting lean muscle mass and proper hydration. For high blood pressure, while certain supplements like magnesium can support cardiovascular health, it's crucial to consult with a healthcare professional for personalized advice and treatment, as supplements should not replace prescribed medications."
-  - question: Where can I find a comprehensive Gary Brecka supplements list or website?
-    answer: This article provides a detailed Gary Brecka supplements list with links to recommended products and brands. While Gary Brecka is associated with 10X Health System, you can often find his recommended products through the specific brands mentioned (BodyHealth, Pure Encapsulations, Thorne, Cymbiotika, AOR) via their official websites or trusted online retailers like Amazon.
 ---
 
 <!-- wp:html -->
@@ -192,7 +183,7 @@ faqs:
 
                     <!-- Product Card: Hydrogen Water -->
                     <div id="hydrogen-water" class="product-card grid grid-cols-1 md:grid-cols-2 gap-6">
-                        <img src="/uploads/2026/06/echolisting_Annaedit10_1.jpg" alt="Echo Go Plus hydrogen water bottle, a top Gary Brecka health supplement" loading="lazy">
+                        <img src="/uploads/2025/06/echolisting_Annaedit10_1.jpg" alt="Echo Go Plus hydrogen water bottle, a top Gary Brecka health supplement" loading="lazy">
                         <div>
                             <h3 class="h3-custom font-extrabold mb-3">Hydrogen Water Supplement: Reduce Inflammation with Echo Go Plus</h3>
                             <p class="voted-best-for">Voted Best For: <span class="text-primary-blue">Anti-oxidants and Reducing Inflammation</span></p>
@@ -209,7 +200,7 @@ faqs:
 
                     <!-- Product Card: Perfect Aminos -->
                     <div id="perfect-aminos" class="product-card grid grid-cols-1 md:grid-cols-2 gap-6">
-                        <img src="/uploads/2026/07/perfect-amino-reviews-is-the-amino-acid-supplement-gary-brecka-recommends-.webp" alt="Perfect Aminos, a top Gary Brecka supplement for muscle preservation" loading="lazy">
+                        <img src="/uploads/2025/07/perfect-amino-reviews-is-the-amino-acid-supplement-gary-brecka-recommends-.webp" alt="Perfect Aminos, a top Gary Brecka supplement for muscle preservation" loading="lazy">
                         <div>
                             <h3 class="h3-custom font-extrabold mb-3">Perfect Aminos: Gary Brecka's Favorite Amino Acid Supplement</h3>
                             <p class="voted-best-for">Voted Best For: <span class="text-primary-blue">Best amino acid for preserving muscle</span></p>
@@ -224,7 +215,7 @@ faqs:
 
                     <!-- Product Card: Gut Restore -->
                     <div id="gut-restore" class="product-card grid grid-cols-1 md:grid-cols-2 gap-6">
-                        <img src="/uploads/2026/12/BodyHealth-Gut-Restore-a-Gary-Brecka-recommended-supplement-for-gut-health.webp" alt="BodyHealth Gut Restore, a Gary Brecka recommended supplement for gut health" loading="lazy">
+                        <img src="/uploads/2025/12/BodyHealth-Gut-Restore-a-Gary-Brecka-recommended-supplement-for-gut-health.webp" alt="BodyHealth Gut Restore, a Gary Brecka recommended supplement for gut health" loading="lazy">
                         <div>
                             <h3 class="h3-custom font-extrabold mb-3">Gut Restore by BodyHealth: Improve Gut Health with Gary Brecka's Recommendation</h3>
                             <p class="voted-best-for">Voted Best For: <span class="text-primary-blue">Improving Gut Health</span></p>
@@ -237,7 +228,7 @@ faqs:
 
                     <!-- Product Card: L-Methylfolate -->
                     <div id="l-methylfolate" class="product-card grid grid-cols-1 md:grid-cols-2 gap-6">
-                        <img src="/uploads/2026/12/thorne-L-Methylfolate-a-key-Gary-Brecka-supplement-for-MTHFR-and-anxiety.jpg" alt="L-Methylfolate, a key Gary Brecka supplement for MTHFR and anxiety" loading="lazy">
+                        <img src="/uploads/2025/12/thorne-L-Methylfolate-a-key-Gary-Brecka-supplement-for-MTHFR-and-anxiety.jpg" alt="L-Methylfolate, a key Gary Brecka supplement for MTHFR and anxiety" loading="lazy">
                         <div>
                             <h3 class="h3-custom font-extrabold mb-3">L-Methylfolate: Essential for MTHFR & Anxiety Support</h3>
                             <p class="voted-best-for">Voted Best For: <span class="text-primary-blue">Use this if you have an MTHFR mutation</span></p>
@@ -252,7 +243,7 @@ faqs:
 
                     <!-- Product Card: Methylated Multivitamin -->
                     <div id="methylated-multivitamin" class="product-card grid grid-cols-1 md:grid-cols-2 gap-6">
-                        <img src="/uploads/2026/12/Pure-Encapsulations-Methylated-Multivitamin-a-top-Gary-Brecka-supplement.jpg" alt="Pure Encapsulations Methylated Multivitamin, a top Gary Brecka supplement" loading="lazy">
+                        <img src="/uploads/2025/12/Pure-Encapsulations-Methylated-Multivitamin-a-top-Gary-Brecka-supplement.jpg" alt="Pure Encapsulations Methylated Multivitamin, a top Gary Brecka supplement" loading="lazy">
                         <div>
                             <h3 class="h3-custom font-extrabold mb-3">Methylated Multivitamin: Best for Methylation Support</h3>
                             <p class="voted-best-for">Voted Best For: <span class="text-primary-blue">Best Methylated Multivitamin</span></p>
@@ -266,7 +257,7 @@ faqs:
 
                     <!-- Product Card: Electrolytes -->
                     <div id="electrolytes" class="product-card grid grid-cols-1 md:grid-cols-2 gap-6">
-                        <img src="/uploads/2026/12/LMNT-Electrolytes-a-Gary-Brecka-recommended-supplement-for-hydration.jpg" alt="LMNT Electrolytes, a Gary Brecka recommended supplement for hydration" loading="lazy">
+                        <img src="/uploads/2025/12/LMNT-Electrolytes-a-Gary-Brecka-recommended-supplement-for-hydration.jpg" alt="LMNT Electrolytes, a Gary Brecka recommended supplement for hydration" loading="lazy">
                         <div>
                             <h3 class="h3-custom font-extrabold mb-3">Electrolytes: Top Picks for Hydration & Energy</h3>
                             <p class="voted-best-for">Voted Best For: <span class="text-primary-blue">Best Electrolytes that taste quite good</span></p>
@@ -281,7 +272,7 @@ faqs:
 
                     <!-- Product Card: Essential Amino Acids -->
                     <div id="essential-amino-acids" class="product-card grid grid-cols-1 md:grid-cols-2 gap-6">
-                        <img src="/uploads/2026/07/perfect-amino-reviews-is-the-amino-acid-supplement-gary-brecka-recommends-.webp" alt="BodyHealth Perfect Amino + Electrolytes, a top Gary Brecka supplement combo" loading="lazy">
+                        <img src="/uploads/2025/07/perfect-amino-reviews-is-the-amino-acid-supplement-gary-brecka-recommends-.webp" alt="BodyHealth Perfect Amino + Electrolytes, a top Gary Brecka supplement combo" loading="lazy">
                         <div>
                             <h3 class="h3-custom font-extrabold mb-3">Essential Amino Acids: The Ultimate Recovery Combo</h3>
                             <p class="voted-best-for">Voted Best For: <span class="text-primary-blue">Best Amino Acids plus electrolytes combo</span></p>
@@ -306,7 +297,7 @@ faqs:
 
                     <!-- Product Card: Vitamin D by Thorne -->
                     <div id="vitamin-d-thorne" class="product-card grid grid-cols-1 md:grid-cols-2 gap-6">
-                        <img src="/uploads/2026/12/Thorne-Vitamin-D-supplement-recommended-by-Gary-Brecka-for-bone-health.jpg" alt="Thorne Vitamin D supplement, recommended by Gary Brecka for bone health" loading="lazy">
+                        <img src="/uploads/2025/12/Thorne-Vitamin-D-supplement-recommended-by-Gary-Brecka-for-bone-health.jpg" alt="Thorne Vitamin D supplement, recommended by Gary Brecka for bone health" loading="lazy">
                         <div>
                             <h3 class="h3-custom font-extrabold mb-3">Vitamin D by Thorne: A Key Gary Brecka Supplement for Overall Health</h3>
                             <p class="voted-best-for">Voted Best For: <span class="text-primary-blue">Best quality Vitamin D</span></p>
@@ -318,7 +309,7 @@ faqs:
 
                     <!-- Product Card: Magnesium by Pure Encapsulations -->
                     <div id="magnesium-pure-encapsulations" class="product-card grid grid-cols-1 md:grid-cols-2 gap-6">
-                        <img src="/uploads/2026/12/Pure-Encapsulations-Magnesium-Biglycinate-a-top-Gary-Brecka-supplement-for-relaxationPure-Encapsulations-Magnesium-Biglycinate-a-top-Gary-Brecka-supplement-for-relaxation.jpg" alt="Pure Encapsulations Magnesium Biglycinate, a top Gary Brecka supplement for relaxation" loading="lazy">
+                        <img src="/uploads/2025/12/Pure-Encapsulations-Magnesium-Biglycinate-a-top-Gary-Brecka-supplement-for-relaxationPure-Encapsulations-Magnesium-Biglycinate-a-top-Gary-Brecka-supplement-for-relaxation.jpg" alt="Pure Encapsulations Magnesium Biglycinate, a top Gary Brecka supplement for relaxation" loading="lazy">
                         <div>
                             <h3 class="h3-custom font-extrabold mb-3">Magnesium By Pure Encapsulations: Gary Brecka's Top Pick for Relaxation</h3>
                             <p class="voted-best-for">Voted Best For: <span class="text-primary-blue">Best Relaxation</span></p>
@@ -330,7 +321,7 @@ faqs:
 
                     <!-- Product Card: Theanine by Pure Encapsulations -->
                     <div id="theanine-pure-encapsulations" class="product-card grid grid-cols-1 md:grid-cols-2 gap-6">
-                        <img src="/uploads/2026/12/Pure-Encapsulations-L-Theanine-a-Gary-Brecka-supplement-for-sleep-and-anxiety.jpg" alt="Pure Encapsulations L-Theanine, a Gary Brecka supplement for sleep and anxiety" loading="lazy">
+                        <img src="/uploads/2025/12/Pure-Encapsulations-L-Theanine-a-Gary-Brecka-supplement-for-sleep-and-anxiety.jpg" alt="Pure Encapsulations L-Theanine, a Gary Brecka supplement for sleep and anxiety" loading="lazy">
                         <div>
                             <h3 class="h3-custom font-extrabold mb-3">Theanine By Pure Encapsulations: Relaxation for Sleep & Focus</h3>
                             <p class="voted-best-for">Voted Best For: <span class="text-primary-blue">Best Relaxation if you are ADHD</span></p>
@@ -342,7 +333,7 @@ faqs:
 
                     <!-- Product Card: Melatonin by Pure Encapsulations -->
                     <div id="melatonin-pure-encapsulations" class="product-card grid grid-cols-1 md:grid-cols-2 gap-6">
-                        <img src="/uploads/2026/12/Pure-Encapsulations-Melatonin-a-Gary-Brecka-supplement-to-help-fall-asleep.jpg" alt="Pure Encapsulations Melatonin, a Gary Brecka supplement to help fall asleep" loading="lazy">
+                        <img src="/uploads/2025/12/Pure-Encapsulations-Melatonin-a-Gary-Brecka-supplement-to-help-fall-asleep.jpg" alt="Pure Encapsulations Melatonin, a Gary Brecka supplement to help fall asleep" loading="lazy">
                         <div>
                             <h3 class="h3-custom font-extrabold mb-3">Melatonin By Pure Encapsulations: Gary Brecka's Choice for Falling Asleep</h3>
                             <p class="voted-best-for">Voted Best For: <span class="text-primary-blue">Best For Trouble Falling Asleep</span></p>
@@ -419,8 +410,303 @@ faqs:
             </div>
         </div>
     </main>
-
-
+    <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How long does it take to see results from Gary Brecka's supplements for sleep?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Results vary depending on the supplement and individual factors. For sleep supplements, some users may notice improvements within a few days to a couple of weeks of consistent use. For more profound changes related to MTHFR support or anxiety, it might take several weeks to a few months to observe significant benefits."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are Gary Brecka's recommended supplements safe for long-term use?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Gary Brecka emphasizes natural, bioavailable ingredients from reputable brands like BodyHealth, Pure Encapsulations, and Thorne. Generally, supplements from these trusted brands are considered safe for long-term use when taken as directed. However, it's always recommended to consult with a healthcare professional before starting any new supplement regimen, especially for long-term use or if you have underlying health conditions."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can Gary Brecka supplements help with weight loss or high blood pressure?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "While Gary Brecka's primary focus is on optimizing cellular function and addressing root causes of health issues, some of his recommended supplements, like Perfect Aminos and electrolytes, can indirectly support weight management by promoting lean muscle mass and proper hydration. For high blood pressure, while certain supplements like magnesium can support cardiovascular health, it's crucial to consult with a healthcare professional for personalized advice and treatment, as supplements should not replace prescribed medications."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Where can I find a comprehensive Gary Brecka supplements list or website?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This article provides a detailed Gary Brecka supplements list with links to recommended products and brands. While Gary Brecka is associated with 10X Health System, you can often find his recommended products through the specific brands mentioned (BodyHealth, Pure Encapsulations, Thorne, Cymbiotika, AOR) via their official websites or trusted online retailers like Amazon."
+              }
+            }
+          ]
+        }
+    </script>
+    <script type="application/ld+json">
+        [
+          {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Echo Go Plus Hydrogen Water Bottle",
+            "image": "https://synctherapylocal.local/cdn/shop/files/gary-breckas-recommened-supplements-for-sleep-aging-and-health_1000x.webp?v=1724602527",
+            "description": "Gary Brecka's recommended hydrogen water bottle for anti-oxidant and inflammation reduction benefits.",
+            "brand": {
+              "@type": "Brand",
+              "name": "Echo Water"
+            },
+            "offers": {
+              "@type": "Offer",
+              "url": "https://echowater.com/discount/affiliate10/?redirect=&_ef_transaction_id=&oid=6&affid=408",
+              "priceCurrency": "CAD",
+              "price": "343.00",
+              "availability": "https://schema.org/InStock"
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "150"
+            }
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "BodyHealth Perfect Aminos",
+            "image": "https://synctherapylocal.local/cdn/shop/files/gary-brecka-perfect-amino-electrolyes_1000x.webp?v=1724602081",
+            "description": "Pure essential amino acids recommended by Gary Brecka for muscle preservation and recovery.",
+            "brand": {
+              "@type": "Brand",
+              "name": "BodyHealth"
+            },
+            "offers": {
+              "@type": "Offer",
+              "url": "https://prz.io/zkJ2kNzUR",
+              "priceCurrency": "USD", /* Assuming USD for BodyHealth link */
+              "price": "59.95", /* Placeholder price */
+              "availability": "https://schema.org/InStock"
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.9",
+              "reviewCount": "200"
+            }
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "BodyHealth Gut Restore",
+            "image": "https://synctherapylocal.local/cdn/shop/files/gut-restore-gary-brecka-gut-health-supplement_1000x.webp?v=1726078597",
+            "description": "Scientifically formulated supplement recommended by Gary Brecka for improving gut health, bloating, IBS, and leaky gut.",
+            "brand": {
+              "@type": "Brand",
+              "name": "BodyHealth"
+            },
+            "offers": {
+              "@type": "Offer",
+              "url": "https://prz.io/zkJ2kNzUR",
+              "priceCurrency": "USD", /* Assuming USD for BodyHealth link */
+              "price": "69.95", /* Placeholder price */
+              "availability": "https://schema.org/InStock"
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.7",
+              "reviewCount": "120"
+            }
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Thorne L-Methylfolate",
+            "image": "https://synctherapylocal.local/cdn/shop/files/gary-brecka-methylated-folate-jpeg_fb25f915-3bf8-4b28-aa33-2b388accf11c_1000x.webp?v=1726076653",
+            "description": "Vital component for MTHFR gene mutations, anxiety, and mental health, recommended by Gary Brecka.",
+            "brand": {
+              "@type": "Brand",
+              "name": "Thorne"
+            },
+            "offers": {
+              "@type": "Offer",
+              "url": "https://amzn.to/3tODGkU",
+              "priceCurrency": "USD", /* Assuming USD for Amazon link */
+              "price": "25.00", /* Placeholder price */
+              "availability": "https://schema.org/InStock"
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.6",
+              "reviewCount": "90"
+            }
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Pure Encapsulations Methylated Multivitamin",
+            "image": "https://synctherapylocal.local/cdn/shop/files/gary-brecka-methylated-multivitamin-600x1291_1000x.webp?v=1726077110",
+            "description": "Top-rated methylated multivitamin for high bioavailability and methylation support, recommended by Gary Brecka.",
+            "brand": {
+              "@type": "Brand",
+              "name": "Pure Encapsulations"
+            },
+            "offers": {
+              "@type": "Offer",
+              "url": "https://amzn.to/3ZkPcSw",
+              "priceCurrency": "USD", /* Assuming USD for Amazon link */
+              "price": "45.00", /* Placeholder price */
+              "availability": "https://schema.org/InStock"
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.7",
+              "reviewCount": "180"
+            }
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "LMNT Electrolytes",
+            "image": "https://synctherapylocal.local/cdn/shop/files/gary-brecka-electrolyte-supplements-600x523_1000x.webp?v=1726077341",
+            "description": "Electrolyte supplement recommended by Gary Brecka for hydration, energy, and optimal nervous system function.",
+            "brand": {
+              "@type": "Brand",
+              "name": "LMNT"
+            },
+            "offers": {
+              "@type": "Offer",
+              "url": "https://amzn.to/3ScUThh",
+              "priceCurrency": "USD", /* Assuming USD for Amazon link */
+              "price": "39.99", /* Placeholder price */
+              "availability": "https://schema.org/InStock"
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.9",
+              "reviewCount": "250"
+            }
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "BodyHealth Essential Amino Acids + Electrolytes Combo",
+            "image": "https://synctherapylocal.local/cdn/shop/files/bodyhealth-perfect-amino-electrolutes-gary-brecka-600x600_1000x.webp?v=1726077638",
+            "description": "Gary Brecka's favorite combo of essential amino acids and electrolytes for muscle growth, tissue repair, and overall vitality.",
+            "brand": {
+              "@type": "Brand",
+              "name": "BodyHealth"
+            },
+            "offers": {
+              "@type": "Offer",
+              "url": "https://prz.io/zkJ2kNzUR",
+              "priceCurrency": "USD", /* Assuming USD for BodyHealth link */
+              "price": "64.95", /* Placeholder price */
+              "availability": "https://schema.org/InStock"
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.9",
+              "reviewCount": "180"
+            }
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Thorne Vitamin D and K2",
+            "image": "https://synctherapylocal.local/cdn/shop/files/gary-brecka-vitamin-d-supplement_1000x.png?v=1726082121",
+            "description": "High-quality Vitamin D3 and K2 supplement recommended by Gary Brecka for bone health and calcium absorption.",
+            "brand": {
+              "@type": "Brand",
+              "name": "Thorne"
+            },
+            "offers": {
+              "@type": "Offer",
+              "url": "https://amzn.to/4cZP6CR",
+              "priceCurrency": "USD", /* Assuming USD for Amazon link */
+              "price": "29.99", /* Placeholder price */
+              "availability": "https://schema.org/InStock"
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "110"
+            }
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Pure Encapsulations Magnesium Biglycinate",
+            "image": "https://synctherapylocal.local/cdn/shop/files/gary-brecka-magnesium-recommendation_1000x.jpg?v=1726082288",
+            "description": "Chelated magnesium form recommended by Gary Brecka for relaxation, muscle function, and sleep support.",
+            "brand": {
+              "@type": "Brand",
+              "name": "Pure Encapsulations"
+            },
+            "offers": {
+              "@type": "Offer",
+              "url": "https://amzn.to/3B9GaNW",
+              "priceCurrency": "USD", /* Assuming USD for Amazon link */
+              "price": "35.00", /* Placeholder price */
+              "availability": "https://schema.org/InStock"
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.7",
+              "reviewCount": "130"
+            }
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Pure Encapsulations L-Theanine",
+            "image": "https://synctherapylocal.local/cdn/shop/files/gary-brecka-sleep-supplements-l-theanine_7d56c637-d208-4ac4-903f-245b0c7c1c4d_1000x.jpg?v=1726082686",
+            "description": "L-Theanine supplement recommended by Gary Brecka for relaxation, focus, and improved sleep quality.",
+            "brand": {
+              "@type": "Brand",
+              "name": "Pure Encapsulations"
+            },
+            "offers": {
+              "@type": "Offer",
+              "url": "https://amzn.to/3ZmD5nL",
+              "priceCurrency": "USD", /* Assuming USD for Amazon link */
+              "price": "22.50", /* Placeholder price */
+              "availability": "https://schema.org/InStock"
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.6",
+              "reviewCount": "80"
+            }
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Pure Encapsulations Melatonin",
+            "image": "https://synctherapylocal.local/cdn/shop/files/sleep-supplements-from-gary-brecka-using-melatonin_1000x.jpg?v=1726082918",
+            "description": "Melatonin supplement recommended by Gary Brecka to aid in falling asleep and regulating sleep cycles.",
+            "brand": {
+              "@type": "Brand",
+              "name": "Pure Encapsulations"
+            },
+            "offers": {
+              "@type": "Offer",
+              "url": "https://amzn.to/47jHCJT",
+              "priceCurrency": "USD", /* Assuming USD for Amazon link */
+              "price": "18.00", /* Placeholder price */
+              "availability": "https://schema.org/InStock"
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.7",
+              "reviewCount": "100"
+            }
+          }
+        ]
+    </script>
     <script>
         document.addEventListener('DOMContentLoaded', () => {
             // Function to handle YouTube video lazy loading

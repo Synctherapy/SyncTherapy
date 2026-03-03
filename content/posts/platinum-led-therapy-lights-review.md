@@ -71,7 +71,7 @@ category: red-light-recovery
 <div class="bg-white p-8 rounded-lg shadow-md space-y-6">
 <p class="text-gray-700">PlatinumLED therapy lights are advanced photobiomodulation devices that use specific wavelengths of light—primarily red and near-infrared (NIR)—to stimulate healing at a cellular level. The core principle is that this light energy is absorbed by mitochondria, our cellular powerhouses, which <a href="/red-light-therapy/" class="text-content-link">boosts ATP (energy) production</a>, reduces inflammation, and increases circulation.</p>
 
-<img src="/uploads/2026/07/Platinum-LED-BIOMAX-900-Red-Light-review.jpg" alt="Platinum LED BIOMAX 900 Red Light panel in clinical setting" class="rounded-lg shadow-sm w-full" loading="lazy">
+<img src="/uploads/2025/07/Platinum-LED-BIOMAX-900-Red-Light-review.jpg" alt="Platinum LED BIOMAX 900 Red Light panel in clinical setting" class="rounded-lg shadow-sm w-full" loading="lazy">
 
 <div>
     <h4 class="text-xl font-semibold text-primary mb-2"><i class="fas fa-bolt text-accent mr-2"></i>Boosting Cellular Energy</h4>
@@ -91,7 +91,7 @@ category: red-light-recovery
 <div class="bg-white p-8 rounded-lg shadow-md space-y-6">
 <p class="mb-6 text-gray-700">The standout feature of the BIOMAX series is its 7-band R+|NIR+ Advanced Spectral Output. While most competitors offer 2 to 4 wavelengths, PlatinumLED provides seven, creating the most versatile and effective <a href="/red-light-therapy/" class="text-content-link">therapeutic spectrum</a> available.</p>
 
-<img src="/uploads/2026/07/biomax-red-light-reviews.jpg" alt="BioMax red light wavelength spectrum illustration" class="rounded-lg shadow-sm w-full mb-6" loading="lazy">
+<img src="/uploads/2025/07/biomax-red-light-reviews.jpg" alt="BioMax red light wavelength spectrum illustration" class="rounded-lg shadow-sm w-full mb-6" loading="lazy">
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
     <div>
@@ -146,7 +146,7 @@ category: red-light-recovery
 <div class="bg-white p-8 rounded-lg shadow-md">
 <p class="mb-6 text-gray-700">This BioMax 600 vs 900 comparison is crucial. While both panels share the same advanced technology, their key differences are size, power, and ideal use case.</p>
 
-<img src="/uploads/2026/07/BioMax-600-vs-900.jpg" alt="Side-by-side comparison of BioMax 600 and 900 panels" class="rounded-lg shadow-sm w-full mb-6" loading="lazy">
+<img src="/uploads/2025/07/BioMax-600-vs-900.jpg" alt="Side-by-side comparison of BioMax 600 and 900 panels" class="rounded-lg shadow-sm w-full mb-6" loading="lazy">
 
 <div class="overflow-x-auto">
     <table class="w-full text-sm md:text-base comparison-table">
@@ -211,7 +211,7 @@ category: red-light-recovery
         </ul>
     </div>
     <div>
-        <img src="/uploads/2026/07/platinumled-biomax-900.jpg" alt="Person using the PlatinumLED BioMax 900 panel for therapy session" class="rounded-lg shadow-sm w-full" loading="lazy">
+        <img src="/uploads/2025/07/platinumled-biomax-900.jpg" alt="Person using the PlatinumLED BioMax 900 panel for therapy session" class="rounded-lg shadow-sm w-full" loading="lazy">
     </div>
 </div>
 </div>
@@ -223,7 +223,7 @@ category: red-light-recovery
 <div class="bg-white p-8 rounded-lg shadow-md">
 <p class="mb-6 text-gray-700">No PlatinumLED review is complete without looking at competitors. Here's how the BioMax series stacks up against other popular brands.</p>
 
-<img src="/uploads/2026/07/platinum-therapy-lights-reviews.jpg" alt="Comparison of platinum therapy lights with competitor brands" class="rounded-lg shadow-sm w-full mb-6" loading="lazy">
+<img src="/uploads/2025/07/platinum-therapy-lights-reviews.jpg" alt="Comparison of platinum therapy lights with competitor brands" class="rounded-lg shadow-sm w-full mb-6" loading="lazy">
 
 <div class="overflow-x-auto">
     <table class="w-full text-sm md:text-base comparison-table">
@@ -315,7 +315,7 @@ category: red-light-recovery
 The PlatinumLED BioMax 900 is a professional-grade wellness tool for your home. Its combination of power, a comprehensive 7-wavelength spectrum, and trusted build quality makes it a leader in the red light therapy space.
 </p>
 
-<img src="/uploads/2026/07/biomax-900-review.jpg" alt="BioMax 900 panel in lifestyle setting" class="rounded-lg shadow-sm w-full max-w-md mx-auto mb-6" loading="lazy">
+<img src="/uploads/2025/07/biomax-900-review.jpg" alt="BioMax 900 panel in lifestyle setting" class="rounded-lg shadow-sm w-full max-w-md mx-auto mb-6" loading="lazy">
 
 <p class="text-lg leading-relaxed mb-4">
 From my perspective as a healthcare professional who regularly evaluates recovery technologies, this is an investment in versatile, evidence-based therapy that will serve you for years.

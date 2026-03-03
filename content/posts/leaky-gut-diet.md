@@ -1,6 +1,6 @@
 ---
 title: "Leaky Gut Diet: Simple Steps to Heal Your Digestive System"
-date: "2026-11-29 20:32:56"
+date: "2024-11-29 20:32:56"
 slug: leaky-gut-diet
 description: >-
   Leaky gut is a hot topic in health circles. It happens when the lining of the

@@ -1,33 +1,174 @@
 ---
 title: Red Light Therapy | Comprehensive Guide to Light Therapy & Red Light Uses
-date: "2026-12-27 20:35:27"
+date: "2023-12-27 20:35:27"
 slug: red-light-therapy
 description: >-
   A comprehensive red light therapy guide covering benefits, wavelengths,
   dosing, and device selection. Written by an RMT using red light since 2017.
 seoTitle: "Red Light Therapy: Complete Guide to Benefits (2026)"
-faqs:
-  - question: Does red light therapy actually work?
-    answer: Yes, for certain applications. Scientific evidence strongly supports its use for skin rejuvenation, wound healing, and hair growth. Evidence for pain relief is moderate but promising. Claims about weight loss, cellulite removal, and some other uses lack scientific support.
-  - question: How often should you do red light therapy?
-    answer: Most protocols recommend 3-5 sessions per week, 10-20 minutes per session. Consistency is more important than session length. Some people use it daily without adverse effects.
-  - question: How long does it take to see results from red light therapy?
-    answer: Skin improvements typically appear within 4-8 weeks. Hair growth may take 4-6 months of consistent use. Pain relief can sometimes occur faster, within 2-4 weeks.
-  - question: Can red light therapy cause cancer?
-    answer: "No. Red light therapy uses non-ionizing radiation that doesn't damage DNA. It's fundamentally different from UV light and has no association with cancer development."
-  - question: Is red light therapy safe for eyes?
-    answer: "Red light at therapeutic levels doesn't damage eyes like UV light can. However, looking directly into bright LEDs can cause discomfort. Use protective eyewear or keep eyes closed during treatment."
-  - question: "What's the difference between red light and near-infrared?"
-    answer: Red light (630-700nm) penetrates shallower into tissue and is better for skin-level concerns. Near-infrared (700-850nm) penetrates deeper and is better for muscles, joints, and deeper tissues. Many devices combine both wavelengths.
-  - question: Does red light therapy work through clothes?
-    answer: No. Fabric blocks red light. Treated areas should be exposed for optimal results.
-  - question: Will red light therapy help with wrinkles?
-    answer: Yes. Multiple controlled studies show red light therapy increases collagen production and reduces wrinkle depth when used consistently over several months.
 ---
 
 <!-- wp:html -->
 
+<!-- Schema Markup - Article -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Red Light Therapy: Complete Science-Backed Guide to Benefits 2026",
+  "description": "Discover the proven benefits of red light therapy backed by scientific studies. Learn how red light therapy works and what it actually does.",
+  "author": {
+    "@type": "Person",
+    "name": "Daryl Stubbs",
+    "jobTitle": "RMT, CAT(C), Holistic Nutritionist",
+    "url": "https://synctherapylocal.local/about-daryl-stubbs/"
+  },
+  "datePublished": "2024-01-15",
+  "dateModified": "2025-01-15",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Sync Therapy",
+    "url": "https://synctherapylocal.local/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/uploads/2025/07/cropped-sync-therapy-favicon-192x192.png"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://synctherapylocal.local/red-light-therapy/"
+  }
+}
+</script>
+
+<!-- FAQ Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does red light therapy actually work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, for certain applications. Scientific evidence strongly supports its use for skin rejuvenation, wound healing, and hair growth. Evidence for pain relief is moderate but promising. Claims about weight loss, cellulite removal, and some other uses lack scientific support."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should you do red light therapy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most protocols recommend 3-5 sessions per week, 10-20 minutes per session. Consistency is more important than session length. Some people use it daily without adverse effects."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from red light therapy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Skin improvements typically appear within 4-8 weeks. Hair growth may take 4-6 months of consistent use. Pain relief can sometimes occur faster, within 2-4 weeks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can red light therapy cause cancer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Red light therapy uses non-ionizing radiation that doesn't damage DNA. It's fundamentally different from UV light and has no association with cancer development."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is red light therapy safe for eyes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Red light at therapeutic levels doesn't damage eyes like UV light can. However, looking directly into bright LEDs can cause discomfort. Use protective eyewear or keep eyes closed during treatment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the difference between red light and near-infrared?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Red light (630-700nm) penetrates shallower into tissue and is better for skin-level concerns. Near-infrared (700-850nm) penetrates deeper and is better for muscles, joints, and deeper tissues. Many devices combine both wavelengths."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does red light therapy work through clothes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Fabric blocks red light. Treated areas should be exposed for optimal results."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Will red light therapy help with wrinkles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Multiple controlled studies show red light therapy increases collagen production and reduces wrinkle depth when used consistently over several months."
+      }
+    }
+  ]
+}
+</script>
+
 <!-- ItemList Schema for Product Roundup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Best Red Light Therapy Devices 2025",
+  "description": "Expert-reviewed list of the top red light therapy devices for home use",
+  "numberOfItems": 7,
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Kala Red Light",
+      "url": "https://synctherapylocal.local/kala-red-light-therapy-review/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Mito Red Light",
+      "url": "https://synctherapylocal.local/mito-red-light-therapy-review/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Platinum LED BioMax",
+      "url": "https://synctherapylocal.local/platinum-led-therapy-lights-review/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "name": "Rouge Red Light",
+      "url": "https://synctherapylocal.local/rouge-red-light-therapy-reviews/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "name": "Infraredi",
+      "url": "https://synctherapylocal.local/infraredi-reviews/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "name": "Hooga",
+      "url": "https://synctherapylocal.local/hooga-red-light-therapy-reviews/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "name": "FlexBeam",
+      "url": "https://synctherapylocal.local/flexbeam-reviews/"
+    }
+  ]
+}
+</script>
 
 <div class="container mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 py-8">
     
@@ -128,6 +269,7 @@ faqs:
                 <!-- Red Light Therapy Infographic -->
                 <div id="sync-infographic-wrapper">
                     <!-- INFOGRAPHIC STYLES -->
+
 
                     <!-- INFOGRAPHIC CONTENT -->
                     <div class="info-container">
@@ -239,7 +381,7 @@ faqs:
 
                         <div class="info-footer">
                             <div class="brand">SYNC<span>THERAPY</span></div>
-                            <p>© 2026 Sync Therapy. Designed for Educational Purposes.</p>
+                            <p>© 2025 Sync Therapy. Designed for Educational Purposes.</p>
                         </div>
                     </div>
 
@@ -334,7 +476,7 @@ faqs:
 
                         <div>
                             <h4 class="font-semibold text-green-700">Wound Healing</h4>
-                            <p class="text-gray-700 text-sm mb-2">A 2026 meta-analysis of 18 randomized controlled trials concluded that low-level laser/LED therapy significantly accelerates <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" href="/red-light-therapy/" class="text-primary hover:underline">skin wound healing</a>. Research on diabetic foot ulcers is particularly compelling.</p>
+                            <p class="text-gray-700 text-sm mb-2">A 2024 meta-analysis of 18 randomized controlled trials concluded that low-level laser/LED therapy significantly accelerates <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYW5kLXdvdW5kLWhlYWxpbmctY2xpbmljYWwtZXZpZGVuY2Uv" href="/red-light-therapy/" class="text-primary hover:underline">skin wound healing</a>. Research on diabetic foot ulcers is particularly compelling.</p>
                             <p class="text-xs text-gray-500">Source: <a href="https://doi.org/10.1007/s10103-025-04366-2" target="_blank" class="text-primary hover:underline">DOI: 10.1007/s10103-025-04366-2</a></p>
                         </div>
 
@@ -354,15 +496,15 @@ faqs:
                             <h4 class="font-semibold text-blue-700">Pain & Inflammation</h4>
                             <p class="text-gray-700 text-sm mb-2">Research on <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktYmFjay1wYWluLw==" href="/red-light-therapy-back-pain/" class="text-primary hover:underline">red light therapy for pain</a> shows promising but mixed results:</p>
                             <ul class="list-disc list-inside text-gray-700 text-sm space-y-1 ml-4">
-                                <li><a href="/red-light-therapy-knee-pain/" class="text-primary hover:underline">Knee Osteoarthritis</a>: 2026 review found significant pain reduction at rest</li>
+                                <li><a href="/red-light-therapy-knee-pain/" class="text-primary hover:underline">Knee Osteoarthritis</a>: 2024 review found significant pain reduction at rest</li>
                                 <li><a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXRlbmRpbml0aXMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXRlbmRpbml0aXMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXRlbmRpbml0aXMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXRlbmRpbml0aXMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXRlbmRpbml0aXMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXRlbmRpbml0aXMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXRlbmRpbml0aXMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXRlbmRpbml0aXMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXRlbmRpbml0aXMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXRlbmRpbml0aXMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXRlbmRpbml0aXMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXRlbmRpbml0aXMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXRlbmRpbml0aXMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXRlbmRpbml0aXMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXRlbmRpbml0aXMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXRlbmRpbml0aXMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXRlbmRpbml0aXMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXRlbmRpbml0aXMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXRlbmRpbml0aXMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXRlbmRpbml0aXMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXRlbmRpbml0aXMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXRlbmRpbml0aXMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXRlbmRpbml0aXMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXRlbmRpbml0aXMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXRlbmRpbml0aXMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLXRlbmRpbml0aXMv" href="/red-light-therapy-for-tendinitis/" class="text-primary hover:underline">Tendinopathy</a>: Low-to-moderate evidence for pain relief and improved function</li>
-                                <li><a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" href="/red-light-therapy-for-arthritis/" class="text-primary hover:underline">Rheumatoid Arthritis</a>: More mixed results; 2026 review found no significant differences vs. sham</li>
+                                <li><a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktZm9yLWFydGhyaXRpcy8=" href="/red-light-therapy-for-arthritis/" class="text-primary hover:underline">Rheumatoid Arthritis</a>: More mixed results; 2023 review found no significant differences vs. sham</li>
                             </ul>
                         </div>
 
                         <div>
                             <h4 class="font-semibold text-blue-700">Acne Treatment</h4>
-                            <p class="text-gray-700 text-sm">A 2026 systematic review in JAMA Dermatology found LED devices reduced acne by approximately 45% over 4-8 weeks. Red light alone is less effective than combination red/blue light therapy, since blue light directly kills acne-causing bacteria while red light primarily reduces inflammation.</p>
+                            <p class="text-gray-700 text-sm">A 2025 systematic review in JAMA Dermatology found LED devices reduced acne by approximately 45% over 4-8 weeks. Red light alone is less effective than combination red/blue light therapy, since blue light directly kills acne-causing bacteria while red light primarily reduces inflammation.</p>
                         </div>
                     </div>
                 </div>
@@ -393,7 +535,7 @@ faqs:
                     <div class="grid md:grid-cols-2 gap-4">
                         <div>
                             <h4 class="font-semibold text-yellow-700">Athletic Performance & Recovery</h4>
-                            <p class="text-gray-700 text-sm">Studies suggest it may reduce delayed onset muscle soreness (DOMS) and decrease recovery time. However, the 2026 Stanford review noted these applications "lack data" compared to skin and hair benefits.</p>
+                            <p class="text-gray-700 text-sm">Studies suggest it may reduce delayed onset muscle soreness (DOMS) and decrease recovery time. However, the 2025 Stanford review noted these applications "lack data" compared to skin and hair benefits.</p>
                         </div>
                         <div>
                             <h4 class="font-semibold text-yellow-700">Mental Health & Sleep</h4>
@@ -484,7 +626,7 @@ faqs:
 
                 <div class="bg-yellow-50 border-l-4 border-accent p-4 rounded">
                     <p class="font-semibold text-gray-800"><i class="fas fa-exclamation-triangle mr-2"></i>Important Note on Masks</p>
-                    <p class="text-gray-700 text-sm">A 2026 Korean study found that many LED masks lose up to 90% of their light to reflection because they don't sit flush against the skin—making device design as important as raw power specifications.</p>
+                    <p class="text-gray-700 text-sm">A 2024 Korean study found that many LED masks lose up to 90% of their light to reflection because they don't sit flush against the skin—making device design as important as raw power specifications.</p>
                 </div>
             </div>
         </section>
@@ -851,7 +993,7 @@ faqs:
         <section class="bg-gray-100 p-6 rounded-lg">
             <p class="text-sm text-gray-600"><strong>Medical Disclaimer:</strong> This article is for informational purposes only and does not constitute medical advice. Red light therapy should not replace professional medical treatment. Consult your healthcare provider before starting any new treatment, especially if you have underlying health conditions. Individual results may vary.</p>
             <p class="text-sm text-gray-600 mt-2"><strong>Affiliate Disclosure:</strong> This page contains affiliate links. If you make a purchase through these links, I may earn a commission at no additional cost to you. I only recommend products I personally use and believe in.</p>
-            <p class="text-sm text-gray-600 mt-2"><em>Last updated: January 2026</em></p>
+            <p class="text-sm text-gray-600 mt-2"><em>Last updated: January 2025</em></p>
         </section>
 
     </main>

@@ -1,6 +1,6 @@
 ---
 title: "Kangen vs. Hydrogen Water (2026): Don't Overpay"
-date: "2026-02-04 22:07:03"
+date: "2025-02-04 22:07:03"
 slug: kangen-water-vs-hydrogen-water
 description: >-
   Introduction The rise of alkaline water &amp; hydrogen water has fueled

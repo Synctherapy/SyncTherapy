@@ -2,7 +2,7 @@
 title: >-
   Amazing Red Light Therapy Before and After Photos: Wrinkles, Psoriasis, Acne,
   Eczema, and Face
-date: "2026-12-28 08:00:00"
+date: "2023-12-28 08:00:00"
 slug: red-light-therapy-before-and-after
 description: >-
   Real red light therapy before and after results for skin, scars, pain, and

@@ -1,6 +1,6 @@
 ---
 title: "Using Red Light Therapy for Weight Loss: This Is How To Do It In 2026"
-date: "2026-02-17 08:00:00"
+date: "2024-02-17 08:00:00"
 slug: red-light-treatment-for-weight-loss
 description: >-
   While it might sound like witch craft, using red light therapy for weight loss

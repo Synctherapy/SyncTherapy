@@ -1,15 +1,45 @@
 ---
 title: "Infraredi Reviews, Pro Max, Flex Max, 15% Off"
-date: "2026-02-12 08:00:00"
+date: "2024-02-12 08:00:00"
 slug: infraredi-reviews
 description: >-
   Detailed Infraredi red light therapy review for 2026. Pro Max and Flex Max
   panels tested by an RMT. Canadian shipping, specs, and 15% discount code.
 seoTitle: "Infraredi Review 2026: Pro Max & Flex Max Tested"
-productName: Infraredi Pro Series
 ---
 
 <!-- wp:html -->
+<!-- Schema Markup -->
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "name": "Infraredi Reviews: Pro Series",
+      "headline": "Infraredi Canada Reviews (2025): Is The Pro Max Worth It?",
+      "author": {
+        "@type": "Person",
+        "name": "Daryl C",
+        "url": "https://synctherapylocal.local/author/daryl-c/",
+         "affiliation": {
+            "@type": "Organization",
+            "name": "Sync Therapy"
+        }
+      },
+      "datePublished": "2025-07-02",
+      "itemReviewed": {
+        "@type": "Product",
+        "name": "Infraredi Pro Series",
+        "brand": { "@type": "Brand", "name": "Infraredi" },
+        "description": "A line of medical-grade red light therapy devices designed for muscle recovery, pain relief, and skin health, featuring multiple wavelengths and premium construction.",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "reviewCount": "289"
+        }
+      }
+    }
+    </script>
 
     <div class="container mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 
@@ -39,7 +69,7 @@ productName: Infraredi Pro Series
                             <p class="mb-4 text-gray-700">Established in 2019, Infraredi has rapidly become one of the most trusted and reliable red light therapy companies for health enthusiasts and professionals in Canada. With a mission to provide the highest quality devices at affordable prices, every order ships free from their Montreal warehouse. Their dedication to customer satisfaction and innovative technology has earned them recognition as a leader in the industry. Known for offering the <a href="/at-home-red-light-therapy/">best red light devices in Canada</a>, Infraredi continues to expand its product range, ensuring that users have access to the latest advancements in red light therapy. This commitment to excellence not only enhances the health and wellness community but also fosters a loyal base of returning customers.</p>
                             <p class="mb-4 text-gray-700">What truly sets Infraredi apart is their commitment to quality and safety. Their devices are the ONLY consumer devices in Canada to be **Approved by Health Canada**, a testament to their medical-grade quality. Furthermore, their Pro Series devices are listed on the Australian Register of Therapeutic Goods (ARTG) as a Medical Device Class IIa, complying with strict international safety standards.</p>
                         </div>
-                        <img src="/uploads/2026/07/infraredi-pro-reviews-.webp" alt="The Infraredi Pro Max red light therapy panel in a clean, modern setting." class="rounded-lg shadow-md w-full">
+                        <img src="/uploads/2025/07/infraredi-pro-reviews-.webp" alt="The Infraredi Pro Max red light therapy panel in a clean, modern setting." class="rounded-lg shadow-md w-full">
                     </div>
                     <div class="mt-8 grid grid-cols-2 md:grid-cols-4 gap-4 text-center">
                         <div class="bg-blue-50 p-4 rounded-lg">
@@ -138,7 +168,7 @@ productName: Infraredi Pro Series
 
                     <!-- LED Mask Card -->
                     <div class="bg-white p-6 rounded-lg shadow-md flex flex-col md:flex-row gap-8">
-                        <img src="/uploads/2026/07/Infraredi-LED-Light-Therapy-Mask-review.webp" alt="Infraredi LED Light Therapy Mask for face" class="rounded-lg w-full md:w-1/3 h-auto object-cover">
+                        <img src="/uploads/2025/07/Infraredi-LED-Light-Therapy-Mask-review.webp" alt="Infraredi LED Light Therapy Mask for face" class="rounded-lg w-full md:w-1/3 h-auto object-cover">
                         <div class="flex-1">
                             <h3 class="text-2xl font-bold">LED Light Therapy Mask</h3>
                             <p class="text-gray-600 mb-4">Your ultimate solution for achieving radiant, youthful skin from home, minimizing fine lines, wrinkles, pigmentation, and acne.</p>
@@ -154,7 +184,7 @@ productName: Infraredi Pro Series
 
                     <!-- Joint Wrap Card -->
                     <div class="bg-white p-6 rounded-lg shadow-md flex flex-col md:flex-row gap-8">
-                        <img src="/uploads/2026/07/infraredi-knee-joint-wrap-led-therapy-and-best-red-light-therapy-for-knee-pain.webp" alt="Infraredi Joint Wrap for knee pain" class="rounded-lg w-full md:w-1/3 h-auto object-cover">
+                        <img src="/uploads/2025/07/infraredi-knee-joint-wrap-led-therapy-and-best-red-light-therapy-for-knee-pain.webp" alt="Infraredi Joint Wrap for knee pain" class="rounded-lg w-full md:w-1/3 h-auto object-cover">
                         <div class="flex-1">
                             <h3 class="text-2xl font-bold">Joint Wrap</h3>
                             <p class="text-gray-600 mb-4">Your new everyday companion for managing joint pain and arthritis, designed to reach deep into joints for soothing relief.</p>
@@ -170,7 +200,7 @@ productName: Infraredi Pro Series
 
                     <!-- Body Wrap Card -->
                     <div class="bg-white p-6 rounded-lg shadow-md flex flex-col md:flex-row gap-8">
-                        <img src="/uploads/2026/07/infraredi-led-device-for-back-pain-and-best-red-light-therapy-for-back-pain.webp" alt="Infraredi Body Wrap for back pain" class="rounded-lg w-full md:w-1/3 h-auto object-cover">
+                        <img src="/uploads/2025/07/infraredi-led-device-for-back-pain-and-best-red-light-therapy-for-back-pain.webp" alt="Infraredi Body Wrap for back pain" class="rounded-lg w-full md:w-1/3 h-auto object-cover">
                         <div class="flex-1">
                             <h3 class="text-2xl font-bold">Body Wrap</h3>
                             <p class="text-gray-600 mb-4">The ultimate pain relief and recovery solution, designed to provide targeted relief to the areas of your body that need it most.</p>
@@ -244,7 +274,7 @@ productName: Infraredi Pro Series
                             How long does it take to see results with Infraredi?
                             <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
                         </summary>
-                        <p class="mt-4 text-gray-700">While some users report feeling relief from pain and soreness after just a few sessions, significant results like improved skin texture and lasting joint pain relief typically require consistent use. For more details, see our guide on <a href="/at-home-red-light-therapy/" class="text-primary hover:underline font-semibold">how often to use red light therapy</a>. The 60-day risk-free trial provides ample time to experience the benefits for yourself. As you explore this therapy, it's also important to stay informed about the latest developments in the field. Be sure to check out updated resources related to <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" href="/red-light-therapy-costs/">2026 red light therapy prices</a>, as these may affect your decision to invest in this treatment. Overall, the potential benefits make it worth considering for those seeking relief and rejuvenation.</p>
+                        <p class="mt-4 text-gray-700">While some users report feeling relief from pain and soreness after just a few sessions, significant results like improved skin texture and lasting joint pain relief typically require consistent use. For more details, see our guide on <a href="/at-home-red-light-therapy/" class="text-primary hover:underline font-semibold">how often to use red light therapy</a>. The 60-day risk-free trial provides ample time to experience the benefits for yourself. As you explore this therapy, it's also important to stay informed about the latest developments in the field. Be sure to check out updated resources related to <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHktY29zdHMv" href="/red-light-therapy-costs/">2024 red light therapy prices</a>, as these may affect your decision to invest in this treatment. Overall, the potential benefits make it worth considering for those seeking relief and rejuvenation.</p>
                     </details>
                     <details class="bg-white p-6 rounded-lg shadow-sm group">
                         <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">

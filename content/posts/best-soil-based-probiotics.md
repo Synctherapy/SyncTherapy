@@ -1,17 +1,288 @@
 ---
 title: Best Soil Based Probiotics for Humans & Dogs (2026)
-date: "2026-05-03 00:17:53"
+date: "2023-05-03 00:17:53"
 slug: best-soil-based-probiotics
 description: >-
   Best soil-based probiotic supplements for humans and dogs in 2026.
   Spore-forming strains reviewed by a Holistic Nutritionist for shelf-stable gut
   support.
 seoTitle: Best Soil Based Probiotics for Humans & Dogs
-rating: 4.9
-productName: Soil-Based Probiotics
 ---
 
 <!-- wp:html -->
+<!-- Schema Markup - CORRECTED -->
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "name": "The 5 Best Soil-Based Probiotic Supplements of 2024",
+      "description": "An expert review of the top 5 soil-based and spore-forming probiotic supplements. We analyze JustThrive, MegaSporeBiotic, Terraflora, and more for gut health, SIBO, and immunity.",
+      "datePublished": "2024-07-15",
+      "author": {
+        "@type": "Organization",
+        "name": "Sync Therapy",
+        "url": "https://synctherapylocal.local/"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4.9",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "itemReviewed": {
+        "@type": "ProductGroup",
+        "name": "Soil-Based Probiotics",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "reviewCount": "5",
+          "bestRating": "5"
+        },
+        "hasVariant": [
+          {
+            "@type": "Product",
+            "name": "JustThrive Probiotic",
+            "sku": "JT-PRO-01",
+            "mpn": "JT-PRO-01",
+            "image": "/uploads/content/best-spore-based-probiotics-is-just-thrive-probiotic-supplement.jpg",
+            "description": "JustThrive is our top-rated spore probiotic due to its unique formulation that guarantees 100% survivability and its powerful clinical backing. It's supported by a groundbreaking study showing it can address leaky gut in just 30 days.",
+            "brand": {
+              "@type": "Brand",
+              "name": "JustThrive"
+            },
+            "review": {
+              "@type": "Review",
+              "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5.0",
+                "bestRating": "5"
+              },
+              "author": {
+                "@type": "Organization",
+                "name": "Sync Therapy"
+              },
+              "positiveNotes": {
+                "@type": "ItemList",
+                "itemListElement": [
+                  {"@type": "ListItem", "position": 1, "name": "Clinically proven leaky gut solution"},
+                  {"@type": "ListItem", "position": 2, "name": "Effectively reduces bloat, gas, and discomfort"},
+                  {"@type": "ListItem", "position": 3, "name": "Promotes antioxidant production in the gut"}
+                ]
+              }
+            },
+            "offers": {
+              "@type": "Offer",
+              "url": "https://justthrivehealth.com/SYNCTHERAPY",
+              "priceCurrency": "CAD",
+              "price": "68.00",
+              "priceValidUntil": "2026-07-23",
+              "availability": "https://schema.org/InStock",
+              "shippingDetails": {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                  "@type": "MonetaryAmount",
+                  "value": "10",
+                  "currency": "CAD"
+                },
+                "shippingDestination": {
+                  "@type": "DefinedRegion",
+                  "addressCountry": "CA"
+                }
+              },
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "applicableCountry": "CA",
+                "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                "merchantReturnDays": 30,
+                "returnMethod": "https://schema.org/ReturnByMail"
+              },
+              "seller": {
+                "@type": "Organization",
+                "name": "JustThrive"
+              }
+            }
+          },
+          {
+            "@type": "Product",
+            "name": "MegaSporeBiotic",
+            "sku": "MSB-PRO-01",
+            "mpn": "MSB-PRO-01",
+            "image": "/uploads/content/megasporebiotic-is-the-best-soil-based-probiotic-supplement-in-canada-for-2023.jpg",
+            "description": "MegaSporeBiotic is a premium, broad-spectrum, five-strain spore-forming probiotic designed to recondition the gut microbiome, making it a powerful choice for complex cases like SIBO.",
+            "brand": {
+              "@type": "Brand",
+              "name": "Microbiome Labs"
+            },
+            "review": {
+              "@type": "Review",
+              "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "4.9",
+                "bestRating": "5"
+              },
+              "author": {
+                "@type": "Organization",
+                "name": "Sync Therapy"
+              },
+               "positiveNotes": {
+                "@type": "ItemList",
+                "itemListElement": [
+                  {"@type": "ListItem", "position": 1, "name": "Comprehensive 5-strain formula"},
+                  {"@type": "ListItem", "position": 2, "name": "Ideal for SIBO and microbiome reconditioning"},
+                  {"@type": "ListItem", "position": 3, "name": "Produces key nutrients like B-vitamins and K2"}
+                ]
+              }
+            },
+            "offers": {
+              "@type": "Offer",
+              "url": "https://dashboard.mailerlite.com/forms/313867/94957537980319682/share",
+              "priceCurrency": "CAD",
+              "price": "85.00",
+              "priceValidUntil": "2026-07-23",
+              "availability": "https://schema.org/InStock",
+              "seller": {
+                "@type": "Organization",
+                "name": "Microbiome Labs"
+              }
+            }
+          },
+          {
+            "@type": "Product",
+            "name": "Enviromedica Terraflora Deep Immune",
+            "sku": "EM-TDI-01",
+            "mpn": "EM-TDI-01",
+            "image": "/uploads/content/prebiotic-and-probiotic-for-immune-system.jpg",
+            "description": "A synbiotic formula combining soil-based organisms with immune-boosting LC-Plasma to activate key immune cells and provide comprehensive defense.",
+            "brand": {
+              "@type": "Brand",
+              "name": "Enviromedica"
+            },
+            "review": {
+              "@type": "Review",
+              "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "4.8",
+                "bestRating": "5"
+              },
+              "author": {
+                "@type": "Organization",
+                "name": "Sync Therapy"
+              },
+               "positiveNotes": {
+                "@type": "ItemList",
+                "itemListElement": [
+                  {"@type": "ListItem", "position": 1, "name": "Advanced immune support with LC-Plasma"},
+                  {"@type": "ListItem", "position": 2, "name": "Synbiotic formula with organic prebiotics"},
+                  {"@type": "ListItem", "position": 3, "name": "Award-winning product"}
+                ]
+              }
+            },
+            "offers": {
+              "@type": "Offer",
+              "url": "https://enviromedica.com/products/terraflora-deep-immune-60ct?rfsn=7667944.604099",
+              "priceCurrency": "CAD",
+              "price": "68.00",
+              "priceValidUntil": "2026-07-23",
+              "availability": "https://schema.org/InStock",
+              "seller": {
+                "@type": "Organization",
+                "name": "Enviromedica"
+              }
+            }
+          },
+          {
+            "@type": "Product",
+            "name": "Enviromedica Terraflora Advanced Care",
+            "sku": "EM-TAC-01",
+            "mpn": "EM-TAC-01",
+            "image": "/uploads/content/spore-forming-probiotics-for-leaky-gut.jpg",
+            "description": "A powerful gut reset formula that introduces bacteriophages to selectively target harmful bacteria, clearing the way for beneficial probiotics to thrive.",
+            "brand": {
+                "@type": "Brand",
+                "name": "Enviromedica"
+            },
+            "review": {
+                "@type": "Review",
+                "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": "4.7",
+                    "bestRating": "5"
+                },
+                "author": {
+                    "@type": "Organization",
+                    "name": "Sync Therapy"
+                },
+                "positiveNotes": {
+                    "@type": "ItemList",
+                    "itemListElement": [
+                        {"@type": "ListItem", "position": 1, "name": "Contains bacteriophages to remove harmful bacteria"},
+                        {"@type": "ListItem", "position": 2, "name": "Fast-acting for rapid gut support"},
+                        {"@type": "ListItem", "position": 3, "name": "Synergistic blend of phages, SBOs, and prebiotics"}
+                    ]
+                }
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://enviromedica.com/products/terraflora-advanced-care-60ct?rfsn=7667944.604099",
+                "priceCurrency": "CAD",
+                "price": "75.00",
+                "priceValidUntil": "2026-07-23",
+                "availability": "https://schema.org/InStock",
+                "seller": {
+                    "@type": "Organization",
+                    "name": "Enviromedica"
+                }
+            }
+          },
+          {
+            "@type": "Product",
+            "name": "Dr. Ruscio Soil-Based Probiotic",
+            "sku": "DR-SBP-01",
+            "mpn": "DR-SBP-01",
+            "image": "/uploads/content/dr-ruscio-soil-based-probiotic-review_49d468dd-51c0-4ab0-b457-7ebbb838d4bb.webp",
+            "description": "From leading gut health expert Dr. Michael Ruscio, this probiotic provides a solid foundation of well-researched Bacillus strains to support normal GI and immune function.",
+            "brand": {
+                "@type": "Brand",
+                "name": "Dr. Ruscio"
+            },
+            "review": {
+                "@type": "Review",
+                "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": "4.6",
+                    "bestRating": "5"
+                },
+                "author": {
+                    "@type": "Organization",
+                    "name": "Sync Therapy"
+                },
+                "positiveNotes": {
+                    "@type": "ItemList",
+                    "itemListElement": [
+                        {"@type": "ListItem", "position": 1, "name": "Formulated by a respected gut health expert"},
+                        {"@type": "ListItem", "position": 2, "name": "Supports normal GI function and stool consistency"},
+                        {"@type": "ListItem", "position": 3, "name": "Uses resilient, well-studied Bacillus species"}
+                    ]
+                }
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://store.drruscio.com/products/soil-based-probiotic?rfsn=7229726.e89724",
+                "priceCurrency": "CAD",
+                "price": "60.00",
+                "priceValidUntil": "2026-07-23",
+                "availability": "https://schema.org/InStock",
+                "seller": {
+                    "@type": "Organization",
+                    "name": "Dr. Ruscio"
+                }
+            }
+          }
+        ]
+      }
+    }
+    </script>
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 
@@ -124,7 +395,7 @@ productName: Soil-Based Probiotics
                     <h3 class="text-2xl font-bold">2. MegaSporeBiotic</h3>
                     <p class="text-accent font-semibold mb-4">Best Soil-Based Probiotic for SIBO</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="/uploads/content/megasporebiotic-is-the-best-soil-based-probiotic-supplement-in-canada-for-2026.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=MegaSporeBiotic';" alt="MegaSporeBiotic bottle, the best soil-based probiotic supplement for SIBO." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/content/megasporebiotic-is-the-best-soil-based-probiotic-supplement-in-canada-for-2023.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=MegaSporeBiotic';" alt="MegaSporeBiotic bottle, the best soil-based probiotic supplement for SIBO." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">MegaSporeBiotic is widely considered the gold standard in spore-based probiotics for practitioners. Its broad-spectrum, five-strain formula is designed to recondition the gut by promoting microbial diversity and maintaining a healthy gut barrier, making it a powerful choice for complex cases like SIBO.</p>
                             <ul class="list-disc list-inside space-y-2 mb-4">
@@ -206,7 +477,7 @@ productName: Soil-Based Probiotics
                     <h3 class="text-2xl font-bold">Just Thrive Pets Probiotic</h3>
                     <p class="text-accent font-semibold mb-4">Best for Overall Pet Wellness & Palatability</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="/uploads/2026/06/just-pets-probiotic-is-a-soil-based-probiotic-for-dogs-by-just-thrive-.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/F5B82E/333333?text=Just+Thrive+Pets';" alt="Just Thrive Pets Soil-Based Probiotic for dogs." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/2025/06/just-pets-probiotic-is-a-soil-based-probiotic-for-dogs-by-just-thrive-.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x300/F5B82E/333333?text=Just+Thrive+Pets';" alt="Just Thrive Pets Soil-Based Probiotic for dogs." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">This vet-formulated probiotic contains robust strains like <em>Bacillus licheniformis</em> and is scientifically verified to survive the digestive tract, even during antibiotic use. It includes defatted grass-fed beef liver, making it highly palatable for picky eaters.</p>
                              <ul class="list-disc list-inside space-y-2 mb-4">
@@ -224,7 +495,7 @@ productName: Soil-Based Probiotics
                     <h3 class="text-2xl font-bold">Four Leaf Rover - Protect</h3>
                     <p class="text-accent font-semibold mb-4">Best for Daily Gut Maintenance & Yeast Control</p>
                     <div class="grid md:grid-cols-2 gap-6">
-                        <img src="/uploads/2026/06/four-leaf-rover-protect-soil-based-probiotics-for-dogs-review.png" onerror="this.onerror=null;this.src='https://placehold.co/400x300/2E5A88/FFFFFF?text=Four+Leaf+Rover';" alt="Four Leaf Rover Protect Soil-Based Probiotic for dogs." class="rounded-lg shadow-sm w-full">
+                        <img src="/uploads/2025/06/four-leaf-rover-protect-soil-based-probiotics-for-dogs-review.png" onerror="this.onerror=null;this.src='https://placehold.co/400x300/2E5A88/FFFFFF?text=Four+Leaf+Rover';" alt="Four Leaf Rover Protect Soil-Based Probiotic for dogs." class="rounded-lg shadow-sm w-full">
                         <div>
                             <p class="mb-4">Protect is a daily soil-based probiotic blend designed to maintain gut health. It combines <em>Bacillus subtilis</em> and <em>Bacillus coagulans</em> with <em>Saccharomyces boulardii</em>, a beneficial yeast that helps fight yeast overgrowth and supports the gut during antibiotic use.</p>
                              <ul class="list-disc list-inside space-y-2 mb-4">
