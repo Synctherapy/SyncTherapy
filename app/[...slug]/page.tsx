@@ -339,7 +339,7 @@ export default async function Page({ params }: Props) {
                 'name': item.frontmatter.title || '',
                 'description': item.frontmatter.description || '',
                 'datePublished': item.frontmatter.date,
-                'dateModified': item.frontmatter.date,
+                'dateModified': item.frontmatter.dateModified || item.frontmatter.date,
                 'author': authorEntity,
                 'publisher': publisherEntity,
                 'itemReviewed': {
@@ -356,7 +356,7 @@ export default async function Page({ params }: Props) {
                 'headline': item.frontmatter.title || '',
                 'description': item.frontmatter.description || '',
                 'datePublished': item.frontmatter.date,
-                'dateModified': item.frontmatter.date,
+                'dateModified': item.frontmatter.dateModified || item.frontmatter.date,
                 'author': authorEntity,
                 'publisher': publisherEntity,
                 'mainEntityOfPage': { '@type': 'WebPage', '@id': canonicalUrl },
@@ -379,7 +379,7 @@ export default async function Page({ params }: Props) {
                 'headline': item.frontmatter.title || '',
                 'description': item.frontmatter.description || '',
                 'datePublished': item.frontmatter.date,
-                'dateModified': item.frontmatter.date,
+                'dateModified': item.frontmatter.dateModified || item.frontmatter.date,
                 'author': authorEntity,
                 'publisher': publisherEntity,
                 'mainEntityOfPage': { '@type': 'WebPage', '@id': canonicalUrl },
@@ -411,8 +411,8 @@ export default async function Page({ params }: Props) {
                 <BlogOneLayout
                     frontmatter={{
                         title: item.frontmatter.title || '',
-                        date: item.frontmatter.date || '',
-                        formattedDate: formatDate(item.frontmatter.date),
+                        date: item.frontmatter.dateModified || item.frontmatter.date || '',
+                        formattedDate: formatDate(item.frontmatter.dateModified || item.frontmatter.date),
                         author: item.frontmatter.author || '',
                         description: item.frontmatter.description || '',
                     }}

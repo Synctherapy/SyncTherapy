@@ -1,0 +1,90 @@
+Source URL,Type,Redirect Target,Priority,Notes
+VICTORIA GEO PAGES → CORE 30 STRUCTURE,,,,
+/bursitis-treatment-victoria/,301,/conditions/bursitis-treatment/,HIGH,Victoria geo → Core 30 canonical
+/it-band-syndrome-victoria/,301,/conditions/it-band-syndrome/,HIGH,Victoria geo → Core 30 canonical
+/postural-imbalance-victoria/,301,/conditions/postural-imbalance/,HIGH,Victoria geo → Core 30 canonical
+/hip-and-knee-pain/,301,/conditions/hip-and-knee-pain/,HIGH,Standalone → Core 30 canonical
+/conditions-sports-injuries/,301,/conditions/sports-injuries-and-prevention/,HIGH,Old page → Core 30
+/deep-tissue-massage-victoria/,301,/services/muscle-tension-relief/,HIGH,Geo → Core 30 service (or create dedicated service page)
+/sports-massage-therapy/,301,/services/sports-injury-treatment/,HIGH,Geo → Core 30 service
+OLD SHOPIFY / MIGRATION URLS,,,,
+/services/massage-therapy-victoria,301,/services/,HIGH,Old Shopify — still getting crawled
+/services/massage-therapy-langford,301,/services/,HIGH,Old Shopify
+/services/massage-therapy-colwood,301,/services/,HIGH,Old Shopify
+/services/athletic-therapy-victoria,301,/services/athletic-therapy/,HIGH,Old geo variant
+/services/athletic-therapy-langford,301,/services/athletic-therapy/,HIGH,Old geo variant
+/services/athletic-therapy-colwood,301,/services/athletic-therapy/,HIGH,Old geo variant
+/services/deep-tissue-massage-victoria,301,/services/muscle-tension-relief/,HIGH,Old nested URL
+/services/sports-massage-therapy,301,/services/sports-injury-treatment/,MEDIUM,Old nested URL
+/services/direct-billing-massage,301,/direct-billing/,MEDIUM,Old nested URL
+/services/myofascial-release-massage,301,/services/myofascial-release/,MEDIUM,Slug change
+/services/visceral-manipulation-victoria,301,/services/visceral-manipulation/,MEDIUM,Old geo variant
+/blogs/red-light-therapy/kala-red-light-therapy-review,301,/kala-red-light-therapy-review/,HIGH,Old Shopify blog path — 19 impressions
+/blogs/supplements/gary-brecka-supplements,301,/gary-brecka-supplements/,HIGH,Old Shopify blog path — 14 impressions
+/blogs/health/pemf-therapy,301,/pemf-therapy-for-neuropathy/,MEDIUM,Old Shopify blog path
+/blog-1,301,/blog/,MEDIUM,Old Shopify blog index
+/pages/services-1,301,/services/,MEDIUM,Old Shopify page
+/about/why-us,301,/about/,MEDIUM,Old sub-page
+/our-team,301,/our-team/daryl-stubbs/,MEDIUM,Index without content
+/our-team/athletic-therapist-daryl-stubbs,301,/our-team/daryl-stubbs/,HIGH,Old URL slug
+/our-team/rmt-daryl-stubbs,301,/our-team/daryl-stubbs/,HIGH,Old URL slug
+OLD CONDITION GEO URLS IN GSC,,,,
+/conditions/arthritis-pain-victoria,301,/conditions/arthritis-pain/,MEDIUM,Old geo → Core 30
+/conditions/back-pain-victoria,301,/conditions/back-pain/,MEDIUM,Old geo → Core 30
+/conditions/chronic-pain-victoria,301,/conditions/chronic-pain/,MEDIUM,Old geo → Core 30
+/conditions/headaches-and-neck-pain,301,/conditions/headaches-migraines/,MEDIUM,Old slug variant
+/conditions/postural-imbalance-victoria,301,/conditions/postural-imbalance/,MEDIUM,Wrong path → Core 30
+/conditions/shoulder-pain-victoria-bc,301,/conditions/shoulder-pain/,MEDIUM,Old geo variant
+/conditions/sports-injury-prevention-victoria,301,/conditions/sports-injuries-and-prevention/,MEDIUM,Old geo variant
+HIGH-IMPRESSION ORPHAN PAGES,,,,
+/best-probiotics-for-seniors,301,/best-prebiotics-and-probiotics-supplements/,CRITICAL,791 IMPRESSIONS! Biggest missed opportunity
+/probiotics-for-women,301,/best-prebiotics-and-probiotics-supplements/,HIGH,22 impressions — Seed cross-sell
+/best-probiotics-for-children,301,/probiotics-for-teenagers/,MEDIUM,10 impressions
+/conquering-hip-pain-a-fibromyalgia-warriors-guide,301,/conditions/fibromyalgia/,MEDIUM,19 impressions
+/hip-pain-with-fibromyalgia,301,/conditions/fibromyalgia/,LOW,2 impressions
+/kangen-water-vs-hydrogen-water,301,/benefits-of-hydrogen-water/,MEDIUM,13 impressions
+/pemf-therapy,301,/pemf-therapy-for-neuropathy/,LOW,5 impressions
+/pemf-therapy-side-effects,301,/pemf-therapy-for-neuropathy/,LOW,6 impressions
+/pemf-vs-tens,301,/pemf-therapy-for-neuropathy/,LOW,3 impressions
+/red-light-therapy-beds-2,301,/red-light-therapy-bed-cost/,MEDIUM,Duplicate page
+/neuropathy-red-light-therapy,301,/red-light-therapy-knee-pain/,LOW,RLT + pain
+/preparing-first-massage-session-langford,301,/services/relaxation-massage/,LOW,Local content → Core 30
+/best-massage-langford-clinics,301,/,LOW,Local → homepage
+/back-pain-treatment-victoria-options,301,/conditions/back-pain/,MEDIUM,Old geo → Core 30
+/holistic-nutrition,301,/services/nutrition-consulting/,MEDIUM,Old page → Core 30
+/deep-tissue-vs-trigger-point-therapy,301,/services/trigger-point-therapy/,LOW,Comparison → service
+AFFILIATE CONTENT MERGES,,,,
+/red-light-therapy-costs/,301,/red-light-therapy-bed-cost/,MEDIUM,Overlapping topic
+/best-red-light-therapy-panels/,301,/at-home-red-light-therapy/,MEDIUM,Into pillar
+/red-light-therapy-beds/,301,/red-light-therapy-bed-cost/,MEDIUM,Consolidate
+/red-light-therapy/,301,/at-home-red-light-therapy/,HIGH,Generic slug → pillar
+/echo-go-hydrogen-water-bottle-review/,301,/best-hydrogen-water-bottles/,LOW,Into roundup
+/hydrogen-water/,301,/benefits-of-hydrogen-water/,MEDIUM,Into pillar
+HYDROGEN WATER ORPHANS,,,,
+/dana-white-hydrogen-water,301,/benefits-of-hydrogen-water/,LOW,Celebrity angle
+/joe-rogan-hydrogen-water,301,/benefits-of-hydrogen-water/,LOW,Celebrity angle
+/kim-kardashian-hydrogen-water,301,/benefits-of-hydrogen-water/,LOW,2 impressions
+/hydrogen-water-cancer,301,/benefits-of-hydrogen-water/,LOW,3 impressions
+/hydrogen-water-and-diabetes,301,/benefits-of-hydrogen-water/,LOW,1 impression
+/how-do-hydrogen-water-bottles-work,301,/best-hydrogen-water-bottles/,LOW,Informational
+/alkaline-water-vs-hydrogen-water,301,/benefits-of-hydrogen-water/,LOW,Comparison
+/cymbiotika-molecular-hydrogen-review,301,/hydrogen-water-tablets/,LOW,Product review
+/echo-h2-machine-reviews,301,/best-hydrogen-water-machines/,LOW,Old review
+/echo-hydrogen-water-reviews,301,/best-hydrogen-water-machines/,LOW,Old review
+/echo-water-vs-kangen,301,/best-hydrogen-water-machines/,LOW,Old comparison
+/echo-clean-review,301,/best-hydrogen-water-machines/,LOW,Old review
+/molecular-hydrogen-and-mental-health-research,301,/benefits-of-hydrogen-water/,LOW,Research content
+PROBIOTIC ORPHANS,,,,
+/signs-that-probiotics-are-working,301,/best-prebiotics-and-probiotics-supplements/,MEDIUM,Informational → hub
+/do-probiotics-help-with-bloating,301,/best-supplements-for-sibo/,LOW,Gut health
+/do-probiotics-make-you-poop,301,/prunes-vs-dates-for-constipation-relief/,LOW,Digestive
+/best-probiotic-supplements-for-ibs,301,/do-probiotics-help-ibs/,MEDIUM,IBS content kept
+/home-remedies-for-leaky-gut,301,/best-leaky-gut-supplements/,LOW,Related
+RLT ORPHAN REDIRECTS,,,,
+/red-light-therapy-boosts-mitochondrial-function,301,/at-home-red-light-therapy/,LOW,Science → pillar
+/wavelength-for-red-light,301,/at-home-red-light-therapy/,LOW,Technical → pillar
+/red-light-therapy-for-inflammation,301,/fda-approved-red-light-therapy-devices-for-pain/,LOW,Pain/inflammation
+/red-light-therapy-for-fibromyalgia,301,/conditions/fibromyalgia/,LOW,Condition link
+/meth-the-alternative-to-the-rice-method/,301,/services/sports-injury-treatment/,LOW,Injury content → Core 30
+/gary-brecka-pemf-mat,301,/gary-brecka-supplements/,LOW,Gary Brecka cluster
+/seed-pediatric-probiotic-reviews,301,/probiotics-for-teenagers/,MEDIUM,4 impressions

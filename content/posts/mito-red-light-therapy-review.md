@@ -171,7 +171,7 @@ seoTitle: 'Mito Red Light Review 2026: MitoPRO X & Adapt'
             <section id="video-review">
                 <h2 class="text-3xl font-bold">Watch Our Video Review</h2>
                 <div id="video-facade" class="video-facade">
-                    <img src="https://img.youtube.com/vi/p8yLv59gt9Q/maxresdefault.jpg" alt="Mito Red Light Therapy Review Video Thumbnail" class="rounded-lg">
+                    <img src="https://img.youtube.com/vi/p8yLv59gt9Q/hqdefault.jpg" alt="Mito Red Light Therapy Review Video Thumbnail" class="rounded-lg">
                     <i class="fas fa-play-circle play-icon"></i>
                 </div>
             </section>

@@ -34,7 +34,19 @@ const nextConfig: NextConfig = {
     ];
   },
   async redirects() {
-    return redirects;
+    return [
+      ...redirects,
+      {
+        source: '/sitemap_index.xml',
+        destination: '/sitemap.xml',
+        permanent: true,
+      },
+      {
+        source: '/:path(.*)-sitemap(.*).xml',
+        destination: '/sitemap.xml',
+        permanent: true,
+      }
+    ];
   },
 };
 

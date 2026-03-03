@@ -86,7 +86,7 @@ seoTitle: 'Kala Red Light Review 2026: Real Results After 6 Months'
         "@type": "VideoObject",
         "name": "Hands-On Kala Pro Panel Review",
         "description": "Registered Massage Therapist tests the Kala Pro Panel red light therapy device",
-        "thumbnailUrl": "https://img.youtube.com/vi/wDrjkIpBCIo/maxresdefault.jpg",
+        "thumbnailUrl": "https://img.youtube.com/vi/wDrjkIpBCIo/hqdefault.jpg",
         "uploadDate": "2026-02-28",
         "contentUrl": "https://www.youtube-nocookie.com/embed/wDrjkIpBCIo",
         "embedUrl": "https://www.youtube-nocookie.com/embed/wDrjkIpBCIo"

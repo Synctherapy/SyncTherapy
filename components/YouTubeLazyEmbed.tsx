@@ -21,7 +21,7 @@ export function YouTubeLazyEmbed({
 }: YouTubeLazyEmbedProps) {
   const [isLoaded, setIsLoaded] = useState(false);
 
-  const thumbnailUrl = `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`;
+  const thumbnailUrl = `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`;
   const paddingBottom = aspectRatio === "16/9" ? "56.25%" : "75%";
 
   const handleClick = () => {
