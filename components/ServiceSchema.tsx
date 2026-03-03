@@ -138,7 +138,6 @@ export function ServiceSchema({
         'name': name,
         'description': description,
         'isPartOf': { '@id': `${BASE_URL}/#website` },
-        'about': { '@id': mainEntity['@id'] },
         'speakable': {
             '@type': 'SpeakableSpecification',
             'cssSelector': speakableCssSelectors,
@@ -148,11 +147,6 @@ export function ServiceSchema({
 
     // Attach @id to breadcrumb for cross-reference
     (breadcrumbList as Record<string, unknown>)['@id'] = `${canonicalUrl}#breadcrumb`;
-
-    // Add mainEntityOfPage back-link to the main entity
-    (mainEntity as Record<string, unknown>)['mainEntityOfPage'] = {
-        '@id': canonicalUrl,
-    };
 
     // ── @graph assembly ─────────────────────────────────────────
     const graph: Record<string, unknown>[] = [

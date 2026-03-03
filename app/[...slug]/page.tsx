@@ -500,11 +500,10 @@ export default async function Page({ params }: Props) {
     }
 
     // 3. Service Detail Layout 
-    // Applies to /services/*, /conditions/*, and other top-level pages
-    // Excluding special pages like About, Contact (unless we want to use it for them too for now)
+    // Applies strictly to /services/* and /conditions/*
     const isServiceOrCondition =
         (resolvedParams.slug[0] === 'services' && resolvedParams.slug.length > 1) ||
-        !['about', 'contact', 'home'].includes(resolvedParams.slug[0]);
+        (resolvedParams.slug[0] === 'conditions' && resolvedParams.slug.length > 1);
 
     if (isServiceOrCondition && item) {
         const content = <div dangerouslySetInnerHTML={{ __html: item.content }} />;
