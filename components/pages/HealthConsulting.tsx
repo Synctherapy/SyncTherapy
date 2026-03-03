@@ -10,6 +10,7 @@ import Image from "next/image";
 import { GlassCard } from "@/components/ui/glass-card";
 import { FirstVisitRoadmap } from "@/components/sections/first-visit-roadmap";
 import { Pricing } from "@/components/ui/pricing";
+import { ServiceSchema } from "@/components/ServiceSchema";
 
 export function HealthConsulting() {
     const pricingPlans = [
@@ -74,6 +75,13 @@ export function HealthConsulting() {
 
     return (
         <div className="bg-background min-h-screen relative selection:bg-blue-100 selection:text-blue-900 overflow-hidden">
+            <ServiceSchema
+                type="service"
+                name="Health Consulting & Wellness Strategy"
+                description="Health consulting and wellness strategy on the West Shore."
+                slug="health-consulting"
+                breadcrumbLabel="Health Consulting"
+            />
             {/* Global Fluid Background */}
             <div className="fixed inset-0 z-0 pointer-events-none overflow-hidden">
                 <div className="absolute top-[-10%] left-[-10%] w-[50vw] h-[50vw] bg-blue-100/30 rounded-full blur-[100px] animate-blob mix-blend-multiply filter will-change-transform" />

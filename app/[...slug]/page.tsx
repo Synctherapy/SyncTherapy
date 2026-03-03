@@ -183,6 +183,7 @@ import { DirectBillingMassage } from '@/components/pages/DirectBillingMassage';
 import { DeepTissueMassage } from '@/components/pages/DeepTissueMassage';
 import { SportsMassage } from '@/components/pages/SportsMassage';
 import { ContactPage } from '@/components/pages/ContactPage';
+import { ServiceSchema } from '@/components/ServiceSchema';
 
 export default async function Page({ params }: Props) {
     const resolvedParams = await params;
@@ -507,9 +508,18 @@ export default async function Page({ params }: Props) {
 
     if (isServiceOrCondition && item) {
         const content = <div dangerouslySetInnerHTML={{ __html: item.content }} />;
+        const schemaType = resolvedParams.slug[0] === 'conditions' ? 'condition' : 'service';
+
         return (
             <>
                 <Header />
+                <ServiceSchema
+                    type={schemaType}
+                    name={item.frontmatter.title || ''}
+                    description={item.frontmatter.description || ''}
+                    slug={resolvedParams.slug[resolvedParams.slug.length - 1]}
+                    breadcrumbLabel={item.frontmatter.title || ''}
+                />
                 <ServiceLayout
                     frontmatter={{
                         title: item.frontmatter.title || '',
