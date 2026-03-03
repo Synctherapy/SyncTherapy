@@ -86,7 +86,7 @@ export default function RootLayout({
           dangerouslySetInnerHTML={{
             __html: JSON.stringify({
               "@context": "https://schema.org",
-              "@type": ["MedicalBusiness", "HealthAndBeautyBusiness"],
+              "@type": "MedicalBusiness",
               "additionalType": [
                 "https://www.wikidata.org/wiki/Q1151069",
                 "https://www.wikidata.org/wiki/Q2138622"

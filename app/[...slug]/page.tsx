@@ -327,13 +327,13 @@ export default async function Page({ params }: Props) {
 
         if (schemaType === 'review') {
             // Review schema for product review posts
-            const productName = (item.frontmatter.title || '')
+            const productName = item.frontmatter.productName || (item.frontmatter.title || '')
                 .replace(/review.*$/i, '')
                 .replace(/\d{4}.*$/i, '')
                 .replace(/[-–—:]\s*should.*$/i, '')
                 .trim();
 
-            schemas.push({
+            const reviewSchema: any = {
                 '@context': 'https://schema.org',
                 '@type': 'Review',
                 'name': item.frontmatter.title || '',
@@ -345,9 +345,54 @@ export default async function Page({ params }: Props) {
                 'itemReviewed': {
                     '@type': 'Product',
                     'name': productName,
+                    'image': item.frontmatter.image || item.frontmatter.featuredImage || 'https://www.synctherapy.ca/icon.svg',
                 },
                 'mainEntityOfPage': { '@type': 'WebPage', '@id': canonicalUrl },
-            });
+            };
+
+            if (item.frontmatter.productPrice) {
+                reviewSchema.itemReviewed.offers = {
+                    '@type': 'Offer',
+                    'priceCurrency': 'CAD',
+                    'price': item.frontmatter.productPrice,
+                };
+            }
+
+            if (item.frontmatter.rating) {
+                reviewSchema.reviewRating = {
+                    '@type': 'Rating',
+                    'ratingValue': item.frontmatter.rating,
+                    'bestRating': '5',
+                };
+            }
+
+            if (item.frontmatter.pros) {
+                reviewSchema.positiveNotes = {
+                    '@type': 'ItemList',
+                    'itemListElement': Array.isArray(item.frontmatter.pros)
+                        ? item.frontmatter.pros.map((pro: string, idx: number) => ({
+                            '@type': 'ListItem',
+                            'position': idx + 1,
+                            'name': pro
+                        }))
+                        : [{ '@type': 'ListItem', 'position': 1, 'name': item.frontmatter.pros }]
+                };
+            }
+
+            if (item.frontmatter.cons) {
+                reviewSchema.negativeNotes = {
+                    '@type': 'ItemList',
+                    'itemListElement': Array.isArray(item.frontmatter.cons)
+                        ? item.frontmatter.cons.map((con: string, idx: number) => ({
+                            '@type': 'ListItem',
+                            'position': idx + 1,
+                            'name': con
+                        }))
+                        : [{ '@type': 'ListItem', 'position': 1, 'name': item.frontmatter.cons }]
+                };
+            }
+
+            schemas.push(reviewSchema);
         } else if (schemaType === 'listicle') {
             // Article + ItemList for best-of / top-N posts
             schemas.push({
@@ -383,6 +428,22 @@ export default async function Page({ params }: Props) {
                 'author': authorEntity,
                 'publisher': publisherEntity,
                 'mainEntityOfPage': { '@type': 'WebPage', '@id': canonicalUrl },
+            });
+        }
+
+        // FAQ schema
+        if (item.frontmatter.faqs && Array.isArray(item.frontmatter.faqs) && item.frontmatter.faqs.length > 0) {
+            schemas.push({
+                '@context': 'https://schema.org',
+                '@type': 'FAQPage',
+                'mainEntity': item.frontmatter.faqs.map((faq: any) => ({
+                    '@type': 'Question',
+                    'name': typeof faq === 'string' ? faq : (faq.question || faq.q),
+                    'acceptedAnswer': {
+                        '@type': 'Answer',
+                        'text': typeof faq === 'string' ? '' : (faq.answer || faq.a)
+                    }
+                }))
             });
         }
 

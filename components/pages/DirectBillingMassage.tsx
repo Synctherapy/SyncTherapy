@@ -19,13 +19,65 @@ import { FirstVisitRoadmap } from "@/components/sections/first-visit-roadmap";
 export function DirectBillingMassage() {
     return (
         <div className="bg-background min-h-screen relative selection:bg-blue-100 selection:text-blue-900 overflow-hidden">
-            <ServiceSchema
-                    type="service"
-                    name="Direct Billing Massage & Athletic Therapy in Victoria (Colwood)"
-                    description=""
-                    slug="direct-billing-massage"
-                    breadcrumbLabel="Direct Billing Massage & Athletic Therapy in Victoria (Colwood)"
-                />
+            <script
+                type="application/ld+json"
+                dangerouslySetInnerHTML={{
+                    __html: JSON.stringify({
+                        "@context": "https://schema.org",
+                        "@type": "FAQPage",
+                        "mainEntity": [
+                            {
+                                "@type": "Question",
+                                "name": "Do you bill for ICBC or WorkSafeBC?",
+                                "acceptedAnswer": {
+                                    "@type": "Answer",
+                                    "text": "No, at this time we do not direct bill for ICBC or WorkSafeBC claims. We provide a detailed receipt for you to submit manually."
+                                }
+                            },
+                            {
+                                "@type": "Question",
+                                "name": "How does it work?",
+                                "acceptedAnswer": {
+                                    "@type": "Answer",
+                                    "text": "Bring your card or upload it to our secure Jane App portal. We submit the claim for you, and you just pay the remaining percentage (if any)."
+                                }
+                            },
+                            {
+                                "@type": "Question",
+                                "name": "Do I need a doctor's referral for coverage?",
+                                "acceptedAnswer": {
+                                    "@type": "Answer",
+                                    "text": "Our clinic does not require a referral to book an appointment. However, your specific insurance plan *might* require a doctor's referral for reimbursement. We recommend checking your benefits booklet or online portal to confirm before your visit."
+                                }
+                            },
+                            {
+                                "@type": "Question",
+                                "name": "Can you check my coverage limit before my appointment?",
+                                "acceptedAnswer": {
+                                    "@type": "Answer",
+                                    "text": "Due to privacy laws, insurance companies will not disclose your remaining balance or coverage limits to us directly. We can only see if a claim is approved or denied at the time of submission. Please check your balance with your provider beforehand."
+                                }
+                            },
+                            {
+                                "@type": "Question",
+                                "name": "What if my claim is denied or requires manual submission?",
+                                "acceptedAnswer": {
+                                    "@type": "Answer",
+                                    "text": "In rare cases where the portal is down or a claim cannot be processed instantly (e.g., 'pending' status), you will be required to pay the full amount at the clinic. We will provide you with a detailed receipt that you can submit manually to your insurer for reimbursement."
+                                }
+                            },
+                            {
+                                "@type": "Question",
+                                "name": "Do you bill for secondary insurance (coordination of benefits)?",
+                                "acceptedAnswer": {
+                                    "@type": "Answer",
+                                    "text": "We can only direct bill your *primary* insurance plan. If you have secondary coverage (e.g., through a spouse), you will need to pay any remaining balance and submit the receipt to the secondary insurer yourself."
+                                }
+                            }
+                        ]
+                    })
+                }}
+            />
 
             {/* Global Fluid Background */}
             <div className="fixed inset-0 z-0 pointer-events-none overflow-hidden">
