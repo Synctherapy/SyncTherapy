@@ -472,7 +472,7 @@ seoTitle: Swedish Relaxation Massage Victoria
                         </div>
                         <p class="text-text/80">
                             Gentle, flowing Swedish massage techniques designed to melt away tension and transport you to a state of deep relaxation.
-                         As you prepare for your session, consider <a href="/what-to-wear-to-a-massage/">what to wear for a massage</a> to ensure maximum comfort and ease. Loose, breathable clothing is recommended, allowing your body to move freely while enhancing the overall experience. Additionally, arriving in comfortable attire helps you unwind even before the treatment begins.</p>
+                         As you prepare for your session, consider <a href="/services/massage-therapy/">what to wear for a massage</a> to ensure maximum comfort and ease. Loose, breathable clothing is recommended, allowing your body to move freely while enhancing the overall experience. Additionally, arriving in comfortable attire helps you unwind even before the treatment begins.</p>
                     </div>
 
                     <div class="bg-neutral-DEFAULT rounded-lg shadow-md p-6">

@@ -196,7 +196,7 @@
   },
   {
     "source": "/blogs/hydrogen-water/lumivitae-hydrogen-water-bottle-review",
-    "destination": "/lumivitae-hydrogen-water-bottle-review/",
+    "destination": "/best-hydrogen-water-bottles/",
     "permanent": true
   },
   {
@@ -211,7 +211,7 @@
   },
   {
     "source": "/blogs/hydrogen-water/is-hydrogen-water-good-for-kidneys",
-    "destination": "/is-hydrogen-water-good-for-kidneys/",
+    "destination": "/best-hydrogen-water-bottles/",
     "permanent": true
   },
   {
@@ -1076,7 +1076,7 @@
   },
   {
     "source": "/pemf-therapy/",
-    "destination": "/pemf-therapy-for-neuropathy/",
+    "destination": "/best-pemf-mats/",
     "permanent": true
   },
   {
@@ -1086,12 +1086,12 @@
   },
   {
     "source": "/pemf-therapy-for-arthritis-relief/",
-    "destination": "/pemf-therapy-for-neuropathy/",
+    "destination": "/best-pemf-mats/",
     "permanent": true
   },
   {
     "source": "/pemf-therapy-for-fibromyalgia-relief/",
-    "destination": "/pemf-therapy-for-neuropathy/",
+    "destination": "/best-pemf-mats/",
     "permanent": true
   },
   {
@@ -1101,7 +1101,7 @@
   },
   {
     "source": "/pemf-vs-tens/",
-    "destination": "/pemf-therapy-for-neuropathy/",
+    "destination": "/best-pemf-mats/",
     "permanent": true
   },
   {
@@ -1791,7 +1791,7 @@
   },
   {
     "source": "/blogs/health/pemf-therapy/",
-    "destination": "/pemf-therapy-for-neuropathy/",
+    "destination": "/best-pemf-mats/",
     "permanent": true
   },
   {
@@ -1816,7 +1816,7 @@
   },
   {
     "source": "/pemf-therapy-side-effects/",
-    "destination": "/pemf-therapy-for-neuropathy/",
+    "destination": "/best-pemf-mats/",
     "permanent": true
   },
   {
@@ -1847,6 +1847,46 @@
   {
     "source": "/services/direct-billing-massage-victoria/",
     "destination": "/direct-billing/",
+    "permanent": true
+  },
+  {
+    "source": "/does-pemf-cause-cancer-examining-the-scientific-evidence/",
+    "destination": "/best-pemf-mats/",
+    "permanent": true
+  },
+  {
+    "source": "/pemf-therapy-for-horses/",
+    "destination": "/best-pemf-mats/",
+    "permanent": true
+  },
+  {
+    "source": "/pemf-therapy-for-neuropathy/",
+    "destination": "/best-pemf-mats/",
+    "permanent": true
+  },
+  {
+    "source": "/sparkle-mats-review/",
+    "destination": "/best-pemf-mats/",
+    "permanent": true
+  },
+  {
+    "source": "/is-hydrogen-water-good-for-kidneys/",
+    "destination": "/best-hydrogen-water-bottles/",
+    "permanent": true
+  },
+  {
+    "source": "/lumivitae-hydrogen-water-bottle-review/",
+    "destination": "/best-hydrogen-water-bottles/",
+    "permanent": true
+  },
+  {
+    "source": "/difference-between-massage-therapist-and-masseuse/",
+    "destination": "/services/massage-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/what-to-wear-to-a-massage/",
+    "destination": "/services/massage-therapy/",
     "permanent": true
   }
 ]

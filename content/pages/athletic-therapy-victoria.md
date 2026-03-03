@@ -989,7 +989,7 @@ seoTitle: Athletic Therapy Victoria
         </h2>
         <p style="font-size: 1.2rem; margin-bottom: 40px;">
             Book your Victoria athletic therapy session today and take the first step toward peak performance and injury recovery.
-         Our experienced therapists will work with you to design a customized treatment plan to address your specific needs. Whether you're looking for relief from pain or seeking to enhance your athletic performance, understanding the differences between <a href="/difference-between-massage-therapist-and-masseuse/">deep tissue versus trigger point therapy</a> can help you make an informed choice for your recovery. Invest in your health and unlock your full potential with expert guidance and support.</p>
+         Our experienced therapists will work with you to design a customized treatment plan to address your specific needs. Whether you're looking for relief from pain or seeking to enhance your athletic performance, understanding the differences between <a href="/services/massage-therapy/">deep tissue versus trigger point therapy</a> can help you make an informed choice for your recovery. Invest in your health and unlock your full potential with expert guidance and support.</p>
 
         <div style="background: rgba(255,255,255,0.1); border-radius: 8px; padding: 20px; margin-bottom: 40px; max-width: 400px; margin-left: auto; margin-right: auto;">
             <div style="color: white;">

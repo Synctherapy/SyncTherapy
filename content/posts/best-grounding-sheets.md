@@ -250,7 +250,7 @@ category: red-light-recovery
 
 <div>
     <h4 class="text-xl font-semibold text-primary mb-2"><i class="fas fa-fire-flame-simple text-accent mr-2"></i>Reduces Pain & Inflammation</h4>
-    <p>One of the most reported benefits is the alleviation of pain and <a href="/pemf-therapy-for-neuropathy/" class="text-content-link">chronic inflammation</a>. By transferring the earth's electrons to the body, these sheets may help neutralize free radicals and reduce inflammation, a key source of chronic pain and joint stiffness.</p>
+    <p>One of the most reported benefits is the alleviation of pain and <a href="/best-pemf-mats/" class="text-content-link">chronic inflammation</a>. By transferring the earth's electrons to the body, these sheets may help neutralize free radicals and reduce inflammation, a key source of chronic pain and joint stiffness.</p>
 </div>
 
 <div>

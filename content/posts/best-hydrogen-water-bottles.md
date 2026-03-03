@@ -508,7 +508,7 @@ seoTitle: Best Hydrogen Water Bottles Canada (2026) — Tested
                 <div class="grid md:grid-cols-2 gap-6">
                     <img src="/uploads/2025/06/LumivitaeCellPowerHydrogenWaterBottle.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=LumiVitae+CellPower';" alt="LumiVitae CellPower hydrogen water bottle review - Nuno Nina design" class="rounded-lg shadow-sm w-full">
                     <div>
-                        <p class="mb-4">Our <strong><a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvbHVtaXZpdGFlLWh5ZHJvZ2VuLXdhdGVyLWJvdHRsZS1yZXZpZXcv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvbHVtaXZpdGFlLWh5ZHJvZ2VuLXdhdGVyLWJvdHRsZS1yZXZpZXcv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvbHVtaXZpdGFlLWh5ZHJvZ2VuLXdhdGVyLWJvdHRsZS1yZXZpZXcv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvbHVtaXZpdGFlLWh5ZHJvZ2VuLXdhdGVyLWJvdHRsZS1yZXZpZXcv" href="/lumivitae-hydrogen-water-bottle-review/" class="text-primary hover:underline">LumiVitae hydrogen water bottle review</a></strong> finds it's a unique, premium option designed by health pioneer Nuno Nina. It combines hydrogen infusion with magnetic field alignment and chromotherapy (light therapy) for a holistic approach.</p>
+                        <p class="mb-4">Our <strong>LumiVitae hydrogen water bottle review</strong> finds it's a unique, premium option designed by health pioneer Nuno Nina. It combines hydrogen infusion with magnetic field alignment and chromotherapy (light therapy) for a holistic approach.</p>
                         <p class="mb-4"><strong>Who is this best for?</strong> Wellness enthusiasts who want a luxury, multi-technology device and don't mind the premium price tag.</p>
                         <ul class="list-disc list-inside space-y-2 mb-4 text-sm">
                             <li><strong>Technology:</strong> Platinum-Titanium electrodes, Magnetic Field Alignment, Chromotherapy</li>
@@ -695,7 +695,7 @@ seoTitle: Best Hydrogen Water Bottles Canada (2026) — Tested
                     <i class="fas fa-kidneys text-primary text-2xl mt-1"></i>
                     <div>
                         <h4 class="text-xl font-semibold text-primary">Kidney & Metabolic Health</h4>
-                        <p class="text-gray-700">Studies have shown potential benefits for kidney function and metabolic health, including support for people with diabetes. Learn more about <a href="/is-hydrogen-water-good-for-kidneys/" class="text-primary hover:underline font-semibold">hydrogen water and kidney health</a> and <a href="/is-hydrogen-water-good-for-kidneys/" class="text-primary hover:underline font-semibold">hydrogen water and diabetes</a>.</p>
+                        <p class="text-gray-700">Studies have shown potential benefits for kidney function and metabolic health, including support for people with diabetes. Learn more about hydrogen water and kidney health and hydrogen water and diabetes.</p>
                     </div>
                 </div>
             </div>

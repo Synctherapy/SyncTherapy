@@ -158,7 +158,7 @@ seoTitle: 9 Hydrogen Water Benefits Backed by Science (2026)
                     </div>
                     <div class="benefit-card">
                         <h4 class="text-xl font-semibold text-primary mb-2"><i class="fas fa-heartbeat text-accent mr-2"></i>Enhances Metabolic Health</h4>
-                        <p>Hydrogen water shows significant promise for managing metabolic syndrome. <a href="https://www.dovepress.com/the-effects-of-24-week-high-concentration-hydrogen-rich-water-on-body--peer-reviewed-fulltext-article-DMSO" target="_blank" class="text-primary hover:underline font-semibold">Clinical studies</a> indicate it can help lower LDL ("bad") cholesterol, <a href="/is-hydrogen-water-good-for-kidneys/" class="text-primary hover:underline font-semibold">regulate blood glucose</a>, and reduce liver fat.</p>
+                        <p>Hydrogen water shows significant promise for managing metabolic syndrome. <a href="https://www.dovepress.com/the-effects-of-24-week-high-concentration-hydrogen-rich-water-on-body--peer-reviewed-fulltext-article-DMSO" target="_blank" class="text-primary hover:underline font-semibold">Clinical studies</a> indicate it can help lower LDL ("bad") cholesterol, regulate blood glucose, and reduce liver fat.</p>
                     </div>
                     <div class="benefit-card">
                         <h4 class="text-xl font-semibold text-primary mb-2"><i class="fas fa-leaf text-accent mr-2"></i>Promotes Skin Health & Anti-Aging</h4>
@@ -178,7 +178,7 @@ seoTitle: 9 Hydrogen Water Benefits Backed by Science (2026)
                     </div>
                     <div class="benefit-card">
                         <h4 class="text-xl font-semibold text-primary mb-2"><i class="fas fa-shield-alt text-accent mr-2"></i>Protects Liver & Kidneys</h4>
-                        <p>H2 water has demonstrated protective effects for vital organs. It has been shown to improve liver function in patients with chronic hepatitis B and reduce inflammation in dialysis patients, highlighting its potential to support <a href="/is-hydrogen-water-good-for-kidneys/" class="text-primary hover:underline font-semibold">renal</a> and hepatic health.</p>
+                        <p>H2 water has demonstrated protective effects for vital organs. It has been shown to improve liver function in patients with chronic hepatitis B and reduce inflammation in dialysis patients, highlighting its potential to support renal and hepatic health.</p>
                     </div>
                     <div class="benefit-card md:col-span-2">
                         <h4 class="text-xl font-semibold text-primary mb-2"><i class="fas fa-plus-circle text-accent mr-2"></i>Supports Cancer Patients</h4>

@@ -587,7 +587,7 @@ seoTitle: 'Deep Tissue Massage Victoria, BC | Colwood RMT'
                 <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
                     <div class="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow">
                         <h3 class="font-semibold text-text mb-2">Chronic Back Pain</h3>
-                        <p class="text-sm text-text/70 mb-3"><a href="/difference-between-massage-therapist-and-masseuse/"  data-wpil-monitor-id="51">Deep tissue techniques target muscle adhesions and trigger points causing persistent lower back</a> and upper back pain.</p>
+                        <p class="text-sm text-text/70 mb-3"><a href="/services/massage-therapy/"  data-wpil-monitor-id="51">Deep tissue techniques target muscle adhesions and trigger points causing persistent lower back</a> and upper back pain.</p>
                         <div class="flex items-center text-xs text-green-600 mb-2">
                             <i data-lucide="check-circle" class="w-3 h-3 mr-1"></i>
                             <span>Excellent insurance coverage</span>
