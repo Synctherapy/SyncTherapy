@@ -7,179 +7,32 @@ description: >-
   covering the science, best devices, and treatment protocols. Research
   reviewed.
 seoTitle: Red Light Therapy for Migraines & Headaches
+faqs:
+  - question: Does red light therapy help migraines?
+    answer: Yes, clinical research shows red light therapy helps migraines. A 2018 study found LLLT was as effective as Botox for reducing headache days, pain intensity, and medication use in chronic migraine patients. Symptoms improved by 39% after 2 weeks and 46% after 4 weeks, with effects lasting an average of 5 months.
+  - question: How do you use red light therapy for headaches?
+    answer: Position your red light therapy device 6-12 inches from your face, forehead, temples, and neck. Use for 10-30 minutes per session, 3-5 times per week for prevention, or at the onset of symptoms for acute relief. Use protective eyewear and ensure the device emits both red (660nm) and near-infrared (850nm) wavelengths.
+  - question: Can red light therapy cause headaches?
+    answer: Red light therapy rarely causes headaches when used properly. Some users report mild initial headaches from eye strain or starting with sessions that are too long. Start with shorter 5-10 minute sessions, always use protective eyewear, and gradually increase duration. Most people experience headache relief, not headaches from treatment.
+  - question: Is red light therapy good for tension headaches?
+    answer: Yes, red light therapy is effective for tension headaches. A 2024 randomized clinical trial found vascular photobiomodulation significantly reduced pain and improved daily functioning in patients with tension-type headaches. The therapy reduces muscle tension in the neck and shoulders, a common trigger for tension headaches.
+  - question: What is the best red light therapy device for migraines?
+    answer: For Canadians, the Rouge G4 Pro or Kala Pro offer excellent value with therapeutic wavelengths. For Americans, PlatinumLED Biomax or Mito Red Light Pro X provide premium quality. Red light therapy masks are convenient for targeted head treatment but panels offer more versatility for treating the neck and face simultaneously.
+  - question: Does red light therapy help with cluster headaches?
+    answer: While research specifically on cluster headaches is limited, the mechanisms of red light therapy—reducing inflammation, improving blood flow, and modulating pain pathways—may provide relief. Some cluster headache sufferers report benefit from applying near-infrared light to the affected side of the head during episodes.
+  - question: How many red light therapy sessions for migraines?
+    answer: Clinical studies show significant improvement after 10-12 sessions. For prevention, use 3-5 sessions per week for 4-8 weeks initially. A 2013 study found symptoms improved 39% after 2 weeks (6-10 sessions) and 46% after 4 weeks. Continue with maintenance sessions 2-3 times weekly after achieving relief.
+  - question: Does green light therapy work for migraines?
+    answer: Yes, green light therapy (525nm wavelength) shows promising results for migraines. A 2025 randomized controlled trial found green light therapy reduced pain intensity and improved quality of life in migraine patients. Green light appears to work differently than red light, potentially through the visual system and endogenous opioid release.
+  - question: Can I use red light therapy for migraines at home?
+    answer: Yes, home red light therapy is effective for migraines. The convenience of home treatment allows for more consistent use, which is key for prevention. Invest in a quality device with both 660nm and 850nm wavelengths, follow proper protocols, and always use eye protection.
 ---
 
 <!-- wp:html -->
 
-<!-- Schema Markup - Article -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Red Light Therapy for Migraines & Headaches (2026) Complete Guide",
-  "description": "An Easy but scientific guide to using red light therapy for migraines, tension headaches, and cluster headaches. Backed by 2025 clinical research",
-  "author": {
-    "@type": "Person",
-    "name": "Daryl Stubbs",
-    "jobTitle": "RMT, CAT(C), Holistic Nutritionist",
-    "url": "https://synctherapylocal.local/about-daryl-stubbs/"
-  },
-  "datePublished": "2024-09-21",
-  "dateModified": "2026-01-11",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Sync Therapy",
-    "url": "https://synctherapylocal.local/",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "/uploads/2025/07/cropped-sync-therapy-favicon-192x192.png"
-    }
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://synctherapylocal.local/red-light-therapy-for-migraines/"
-  },
-  "image": "/uploads/2026/01/red-light-therapy-headaches.webp"
-}
-</script>
-
-<!-- FAQ Schema -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does red light therapy help migraines?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, clinical research shows red light therapy helps migraines. A 2018 study found LLLT was as effective as Botox for reducing headache days, pain intensity, and medication use in chronic migraine patients. Symptoms improved by 39% after 2 weeks and 46% after 4 weeks, with effects lasting an average of 5 months."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do you use red light therapy for headaches?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Position your red light therapy device 6-12 inches from your face, forehead, temples, and neck. Use for 10-30 minutes per session, 3-5 times per week for prevention, or at the onset of symptoms for acute relief. Use protective eyewear and ensure the device emits both red (660nm) and near-infrared (850nm) wavelengths."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can red light therapy cause headaches?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Red light therapy rarely causes headaches when used properly. Some users report mild initial headaches from eye strain or starting with sessions that are too long. Start with shorter 5-10 minute sessions, always use protective eyewear, and gradually increase duration. Most people experience headache relief, not headaches from treatment."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is red light therapy good for tension headaches?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, red light therapy is effective for tension headaches. A 2024 randomized clinical trial found vascular photobiomodulation significantly reduced pain and improved daily functioning in patients with tension-type headaches. The therapy reduces muscle tension in the neck and shoulders, a common trigger for tension headaches."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the best red light therapy device for migraines?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For Canadians, the Rouge G4 Pro or Kala Pro offer excellent value with therapeutic wavelengths. For Americans, PlatinumLED Biomax or Mito Red Light Pro X provide premium quality. Red light therapy masks are convenient for targeted head treatment but panels offer more versatility for treating the neck and face simultaneously."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Does red light therapy help with cluster headaches?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While research specifically on cluster headaches is limited, the mechanisms of red light therapy—reducing inflammation, improving blood flow, and modulating pain pathways—may provide relief. Some cluster headache sufferers report benefit from applying near-infrared light to the affected side of the head during episodes."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How many red light therapy sessions for migraines?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Clinical studies show significant improvement after 10-12 sessions. For prevention, use 3-5 sessions per week for 4-8 weeks initially. A 2013 study found symptoms improved 39% after 2 weeks (6-10 sessions) and 46% after 4 weeks. Continue with maintenance sessions 2-3 times weekly after achieving relief."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Does green light therapy work for migraines?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, green light therapy (525nm wavelength) shows promising results for migraines. A 2025 randomized controlled trial found green light therapy reduced pain intensity and improved quality of life in migraine patients. Green light appears to work differently than red light, potentially through the visual system and endogenous opioid release."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I use red light therapy for migraines at home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, home red light therapy is effective for migraines. The convenience of home treatment allows for more consistent use, which is key for prevention. Invest in a quality device with both 660nm and 850nm wavelengths, follow proper protocols, and always use eye protection."
-      }
-    }
-  ]
-}
-</script>
-
 <!-- ItemList Schema for Product Roundup -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "ItemList",
-  "name": "Best Red Light Therapy Devices for Migraines 2026",
-  "description": "Expert-reviewed list of the top red light therapy devices for migraine and headache relief",
-  "numberOfItems": 5,
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Rouge G4 Pro (Canada)",
-      "url": "https://synctherapylocal.local/red-light-therapy-for-migraines/#rouge-g4"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "PlatinumLED Biomax (USA)",
-      "url": "https://synctherapylocal.local/red-light-therapy-for-migraines/#platinumled"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Mito Red Light Pro X (USA)",
-      "url": "https://synctherapylocal.local/red-light-therapy-for-migraines/#mito-red"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Kala Pro (Canada)",
-      "url": "https://synctherapylocal.local/red-light-therapy-for-migraines/#kala"
-    },
-    {
-      "@type": "ListItem",
-      "position": 5,
-      "name": "Red Light Therapy Masks",
-      "url": "https://synctherapylocal.local/red-light-therapy-for-migraines/#masks"
-    }
-  ]
-}
-</script>
 
 <!-- Video Schema -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "VideoObject",
-  "name": "Red Light Therapy for Headaches",
-  "description": "Learn how red light therapy can help relieve headaches and migraines naturally",
-  "thumbnailUrl": "/uploads/2026/01/red-light-therapy-headaches.webp",
-  "contentUrl": "/uploads/2026/01/red-light-therapy-for-headaches.mp4",
-  "uploadDate": "2026-01-11"
-}
-</script>
 
 <div class="container mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 py-8">
     

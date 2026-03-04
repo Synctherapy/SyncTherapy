@@ -6,39 +6,19 @@ description: >-
   Ten best synbiotic supplements for 2026. Pre and probiotic combos compared for
   the US and Canada by a Holistic Nutritionist. Gut health made simple.
 seoTitle: "Best Synbiotics 2026: Top Pre & Probiotic Combos"
+faqs:
+  - question: What are prebiotics and probiotics?
+    answer: Prebiotics are non-digestible fibers that act as food for beneficial gut bacteria. Probiotics are the live beneficial bacteria themselves. Together, they create a healthy gut environment.
+  - question: Why is it important to combine prebiotics and probiotics?
+    answer: "Combining them creates a 'synbiotic' effect. The prebiotics help the probiotics survive and thrive in your gut, making the supplement much more effective at improving digestion, immunity, and overall health. This is why the best pre and probiotic combination is so sought after."
+  - question: How long does it take to feel the benefits?
+    answer: While some people notice improvements in digestion within a few days, it can take 2-4 weeks of consistent use to experience the full range of benefits as your microbiome adjusts and rebalances. You can look for signs that probiotics are working to track your progress.
 ---
 
 <!-- wp:html -->
 
     <!-- SEO: FAQPage Schema Markup -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [{
-        "@type": "Question",
-        "name": "What are prebiotics and probiotics?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Prebiotics are non-digestible fibers that act as food for beneficial gut bacteria. Probiotics are the live beneficial bacteria themselves. Together, they create a healthy gut environment."
-        }
-      },{
-        "@type": "Question",
-        "name": "Why is it important to combine prebiotics and probiotics?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Combining them creates a 'synbiotic' effect. The prebiotics help the probiotics survive and thrive in your gut, making the supplement much more effective at improving digestion, immunity, and overall health. This is why the best pre and probiotic combination is so sought after."
-        }
-      },{
-        "@type": "Question",
-        "name": "How long does it take to feel the benefits?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "While some people notice improvements in digestion within a few days, it can take 2-4 weeks of consistent use to experience the full range of benefits as your microbiome adjusts and rebalances. You can look for signs that probiotics are working to track your progress."
-        }
-      }]
-    }
-    </script>
+
 
     <!-- Main Container -->
     <div class="container mx-auto max-w-4xl p-4 sm:p-6 md:p-8">

@@ -9,43 +9,6 @@ seoTitle: Can GERD Cause Pain Between Shoulder Blades?
 ---
 
 <!-- wp:html -->
-<!-- Schema Markup -->
-
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "headline": "Heartburn & Back Pain Between Shoulder Blades? Yes, It's GERD (2025 Guide)",
-      "datePublished": "2025-07-15",
-      "dateModified": "2025-07-15",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Sync Therapy",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://placehold.co/600x60/2E5A88/FFFFFF?text=Sync+Therapy"
-        }
-      },
-      "image": "/uploads/2025/07/Can-GERD-Cause-Back-Pain-Between-Shoulder-Blades.webp",
-      "video": {
-        "@type": "VideoObject",
-        "name": "Can GERD Cause Back Pain Between Shoulder Blades?",
-        "description": "A video explaining the connection between GERD and referred back pain.",
-        "thumbnailUrl": "https://i.ytimg.com/vi/NX0YkXzplAk/hqdefault.jpg",
-        "uploadDate": "2023-01-01T08:00:00+00:00",
-        "embedUrl": "https://www.youtube-nocookie.com/embed/NX0YkXzplAk"
-      },
-      "description": "Experiencing heartburn with back pain between the shoulder blades? Learn why GERD & acid reflux cause upper back and shoulder pain, and find expert-approved relief.",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://synctherapylocal.local/gerd-back-pain"
-      }
-    }
-    </script>
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 

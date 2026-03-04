@@ -9,31 +9,6 @@ seoTitle: "Prunes vs Dates for Constipation: Which Works?"
 ---
 
 <!-- wp:html -->
-<!-- Schema Markup -->
-
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "headline": "Prunes vs Dates for Constipation: Do Dates Help You Poop?",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "datePublished": "2025-07-07",
-      "image": "/uploads/2025/07/Prunes-vs-Dates-for-Constipation-Relief-1.webp",
-      "articleSection": "Health & Wellness",
-      "abstract": "Are dates good for constipation? Yes. This article explores how dates help with constipation due to their high fiber content and compares them to prunes, which contain sorbitol, a powerful natural laxative. We cover the key differences and which is better for reliable relief.",
-      "publisher": {
-        "@type": "Organization",
-        "name": "Sync Therapy",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://placehold.co/200x60/F4F7F5/2E5A88?text=Sync+Therapy+Logo"
-        }
-      }
-    }
-    </script>
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 

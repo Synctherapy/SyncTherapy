@@ -6,51 +6,11 @@ description: >-
   Seed vs Bioma probiotics compared for 2026. Strains, pricing, third-party
   testing, and which probiotic is better for your health goals. Full review.
 seoTitle: "Seed vs Bioma (2026): Probiotic Comparison"
+rating: 4.9
+productName: Probiotic Supplements
 ---
 
 <!-- wp:html -->
-<!-- Schema Markup -->
-
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "Seed vs Bioma (2026): Which Probiotic Is Better For You?",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.9",
-        "bestRating": "5"
-      },
-      "itemReviewed": {
-        "@type": "ProductGroup",
-        "name": "Probiotic Supplements",
-        "hasVariant": [
-          {
-            "@type": "Product",
-            "name": "Seed DS-01 Daily Synbiotic",
-            "description": "A synbiotic supplement with 24 probiotic strains and prebiotics designed to improve digestive health, backed by clinical research.",
-            "brand": {
-              "@type": "Brand",
-              "name": "Seed"
-            }
-          },
-          {
-            "@type": "Product",
-            "name": "Bioma Probiotic",
-            "description": "A 3-in-1 synbiotic supplement marketed for digestive health and weight management with an unverified formulation.",
-            "brand": {
-              "@type": "Brand",
-              "name": "Bioma"
-            }
-          }
-        ]
-      }
-    }
-    </script>
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 

@@ -6,31 +6,10 @@ description: >-
   Best reverse osmosis water filter systems for 2026. Under-sink, countertop,
   and whole-house RO systems compared for Canadian homes. Buyer's guide.
 seoTitle: Best Reverse Osmosis Water Filters (2026 Reviews)
+rating: 4.9
 ---
 
 <!-- wp:html -->
-<!-- Schema Markup -->
-
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "Best Reverse Osmosis (RO) Water Filter Systems Available in 2026",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.9",
-        "bestRating": "5"
-      },
-      "itemReviewed": {
-        "@type": "ProductGroup",
-        "name": "Reverse Osmosis Water Filter Systems"
-      }
-    }
-    </script>
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 

@@ -6,56 +6,11 @@ description: >-
   Seven best under-sink reverse osmosis systems for 2026. Filtration stages,
   flow rate, waste ratio, and long-term cost compared. Full buyer's guide.
 seoTitle: Best Under Sink Reverse Osmosis Systems (2026)
+rating: 4.7
+productName: Under-Sink Reverse Osmosis Systems
 ---
 
 <!-- wp:html -->
-
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "The 7 Best Under Sink Reverse Osmosis System For Your Home in 2026",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.7",
-        "bestRating": "5"
-      },
-      "itemReviewed": {
-        "@type": "ProductGroup",
-        "name": "Under-Sink Reverse Osmosis Systems",
-        "hasVariant": [
-          {
-            "@type": "Product",
-            "name": "iSpring RCC7AK",
-            "description": "A 6-stage reverse osmosis system with alkaline remineralization, known for its high number of positive reviews.",
-            "brand": "iSpring"
-          },
-          {
-            "@type": "Product",
-            "name": "Frizzlife Undersink RO System",
-            "description": "A feature-rich, tankless RO system that offers a great balance of performance and price.",
-            "brand": "Frizzlife"
-          },
-          {
-            "@type": "Product",
-            "name": "Waterdrop G2",
-            "description": "A popular tankless reverse osmosis system known for its space-saving design and 7-stage filtration.",
-            "brand": "Waterdrop"
-          },
-          {
-            "@type": "Product",
-            "name": "Nu Aqua Platinum Series",
-            "description": "A budget-friendly 7-stage RO filtration system that includes UV light sterilization.",
-            "brand": "Nu Aqua"
-          }
-        ]
-      }
-    }
-    </script>
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 

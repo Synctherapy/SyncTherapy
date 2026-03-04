@@ -6,169 +6,28 @@ description: >-
   A comprehensive red light therapy guide covering benefits, wavelengths,
   dosing, and device selection. Written by an RMT using red light since 2017.
 seoTitle: "Red Light Therapy: Complete Guide to Benefits (2026)"
+faqs:
+  - question: Does red light therapy actually work?
+    answer: Yes, for certain applications. Scientific evidence strongly supports its use for skin rejuvenation, wound healing, and hair growth. Evidence for pain relief is moderate but promising. Claims about weight loss, cellulite removal, and some other uses lack scientific support.
+  - question: How often should you do red light therapy?
+    answer: Most protocols recommend 3-5 sessions per week, 10-20 minutes per session. Consistency is more important than session length. Some people use it daily without adverse effects.
+  - question: How long does it take to see results from red light therapy?
+    answer: Skin improvements typically appear within 4-8 weeks. Hair growth may take 4-6 months of consistent use. Pain relief can sometimes occur faster, within 2-4 weeks.
+  - question: Can red light therapy cause cancer?
+    answer: "No. Red light therapy uses non-ionizing radiation that doesn't damage DNA. It's fundamentally different from UV light and has no association with cancer development."
+  - question: Is red light therapy safe for eyes?
+    answer: "Red light at therapeutic levels doesn't damage eyes like UV light can. However, looking directly into bright LEDs can cause discomfort. Use protective eyewear or keep eyes closed during treatment."
+  - question: "What's the difference between red light and near-infrared?"
+    answer: Red light (630-700nm) penetrates shallower into tissue and is better for skin-level concerns. Near-infrared (700-850nm) penetrates deeper and is better for muscles, joints, and deeper tissues. Many devices combine both wavelengths.
+  - question: Does red light therapy work through clothes?
+    answer: No. Fabric blocks red light. Treated areas should be exposed for optimal results.
+  - question: Will red light therapy help with wrinkles?
+    answer: Yes. Multiple controlled studies show red light therapy increases collagen production and reduces wrinkle depth when used consistently over several months.
 ---
 
 <!-- wp:html -->
 
-<!-- Schema Markup - Article -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Red Light Therapy: Complete Science-Backed Guide to Benefits 2026",
-  "description": "Discover the proven benefits of red light therapy backed by scientific studies. Learn how red light therapy works and what it actually does.",
-  "author": {
-    "@type": "Person",
-    "name": "Daryl Stubbs",
-    "jobTitle": "RMT, CAT(C), Holistic Nutritionist",
-    "url": "https://synctherapylocal.local/about-daryl-stubbs/"
-  },
-  "datePublished": "2024-01-15",
-  "dateModified": "2025-01-15",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Sync Therapy",
-    "url": "https://synctherapylocal.local/",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "/uploads/2025/07/cropped-sync-therapy-favicon-192x192.png"
-    }
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://synctherapylocal.local/red-light-therapy/"
-  }
-}
-</script>
-
-<!-- FAQ Schema -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does red light therapy actually work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, for certain applications. Scientific evidence strongly supports its use for skin rejuvenation, wound healing, and hair growth. Evidence for pain relief is moderate but promising. Claims about weight loss, cellulite removal, and some other uses lack scientific support."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How often should you do red light therapy?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most protocols recommend 3-5 sessions per week, 10-20 minutes per session. Consistency is more important than session length. Some people use it daily without adverse effects."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How long does it take to see results from red light therapy?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Skin improvements typically appear within 4-8 weeks. Hair growth may take 4-6 months of consistent use. Pain relief can sometimes occur faster, within 2-4 weeks."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can red light therapy cause cancer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. Red light therapy uses non-ionizing radiation that doesn't damage DNA. It's fundamentally different from UV light and has no association with cancer development."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is red light therapy safe for eyes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Red light at therapeutic levels doesn't damage eyes like UV light can. However, looking directly into bright LEDs can cause discomfort. Use protective eyewear or keep eyes closed during treatment."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What's the difference between red light and near-infrared?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Red light (630-700nm) penetrates shallower into tissue and is better for skin-level concerns. Near-infrared (700-850nm) penetrates deeper and is better for muscles, joints, and deeper tissues. Many devices combine both wavelengths."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Does red light therapy work through clothes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. Fabric blocks red light. Treated areas should be exposed for optimal results."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Will red light therapy help with wrinkles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Multiple controlled studies show red light therapy increases collagen production and reduces wrinkle depth when used consistently over several months."
-      }
-    }
-  ]
-}
-</script>
-
 <!-- ItemList Schema for Product Roundup -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "ItemList",
-  "name": "Best Red Light Therapy Devices 2025",
-  "description": "Expert-reviewed list of the top red light therapy devices for home use",
-  "numberOfItems": 7,
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Kala Red Light",
-      "url": "https://synctherapylocal.local/kala-red-light-therapy-review/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Mito Red Light",
-      "url": "https://synctherapylocal.local/mito-red-light-therapy-review/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Platinum LED BioMax",
-      "url": "https://synctherapylocal.local/platinum-led-therapy-lights-review/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "Rouge Red Light",
-      "url": "https://synctherapylocal.local/rouge-red-light-therapy-reviews/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 5,
-      "name": "Infraredi",
-      "url": "https://synctherapylocal.local/infraredi-reviews/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 6,
-      "name": "Hooga",
-      "url": "https://synctherapylocal.local/hooga-red-light-therapy-reviews/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 7,
-      "name": "FlexBeam",
-      "url": "https://synctherapylocal.local/flexbeam-reviews/"
-    }
-  ]
-}
-</script>
 
 <div class="container mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 py-8">
     
@@ -269,7 +128,6 @@ seoTitle: "Red Light Therapy: Complete Guide to Benefits (2026)"
                 <!-- Red Light Therapy Infographic -->
                 <div id="sync-infographic-wrapper">
                     <!-- INFOGRAPHIC STYLES -->
-
 
                     <!-- INFOGRAPHIC CONTENT -->
                     <div class="info-container">

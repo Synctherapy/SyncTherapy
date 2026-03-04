@@ -6,38 +6,11 @@ description: >-
   Ritual Synbiotic+ 3-in-1 probiotic review for 2026. Pre, pro, and postbiotics
   in one capsule. Is it worth the monthly subscription? Honest verdict.
 seoTitle: "Ritual Synbiotic+ Review 2026: Worth the Price?"
+rating: 4.9
+productName: Ritual Synbiotic+
 ---
 
 <!-- wp:html -->
-<!-- Schema Markup -->
-
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "Ritual Synbiotic+ Review: A Gut Health Game-Changer?",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.9",
-        "bestRating": "5",
-        "worstRating": "1"
-      },
-      "itemReviewed": {
-        "@type": "Product",
-        "name": "Ritual Synbiotic+",
-        "description": "A 3-in-1 supplement with prebiotics, probiotics, and a postbiotic designed to support gut health, digestive function, and immune health.",
-        "brand": {
-          "@type": "Brand",
-          "name": "Ritual"
-        },
-        "image": "/uploads/content/ritual-synbiotic-review.jpg"
-      }
-    }
-    </script>
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 

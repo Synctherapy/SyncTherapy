@@ -6,40 +6,10 @@ description: >-
   Detailed Infraredi red light therapy review for 2026. Pro Max and Flex Max
   panels tested by an RMT. Canadian shipping, specs, and 15% discount code.
 seoTitle: "Infraredi Review 2026: Pro Max & Flex Max Tested"
+productName: Infraredi Pro Series
 ---
 
 <!-- wp:html -->
-<!-- Schema Markup -->
-
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "Infraredi Reviews: Pro Series",
-      "headline": "Infraredi Canada Reviews (2025): Is The Pro Max Worth It?",
-      "author": {
-        "@type": "Person",
-        "name": "Daryl C",
-        "url": "https://synctherapylocal.local/author/daryl-c/",
-         "affiliation": {
-            "@type": "Organization",
-            "name": "Sync Therapy"
-        }
-      },
-      "datePublished": "2025-07-02",
-      "itemReviewed": {
-        "@type": "Product",
-        "name": "Infraredi Pro Series",
-        "brand": { "@type": "Brand", "name": "Infraredi" },
-        "description": "A line of medical-grade red light therapy devices designed for muscle recovery, pain relief, and skin health, featuring multiple wavelengths and premium construction.",
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "reviewCount": "289"
-        }
-      }
-    }
-    </script>
 
     <div class="container mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 

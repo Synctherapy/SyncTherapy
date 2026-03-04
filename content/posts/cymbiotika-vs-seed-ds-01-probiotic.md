@@ -7,105 +7,11 @@ description: >-
   sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color: #333333;
   /*...
 seoTitle: Cymbiotika vs. Seed DS-01 (2026 Review)
+rating: 4.9
+productName: Probiotic Supplements
 ---
 
 <!-- wp:html -->
-<!-- Schema Markup -->
-
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "Cymbiotika vs Seed DS 01 Probiotic: Which is the Better Choice?",
-      "datePublished": "2025-06-29",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.9",
-        "bestRating": "5",
-        "worstRating": "1",
-        "reviewAspect": "Overall Quality"
-      },
-      "itemReviewed": {
-        "@type": "ProductGroup",
-        "name": "Probiotic Supplements",
-        "hasVariant": [
-          {
-            "@type": "Product",
-            "name": "Seed DS-01 Daily Synbiotic",
-            "image": "/uploads/2025/06/seedvscymbiotikaprobiotic_ef7a89a36ebf4227b141e411be86ccbf.webp",
-            "brand": {
-              "@type": "Brand",
-              "name": "Seed"
-            },
-            "description": "A comprehensive synbiotic with 24 clinically-studied probiotic strains and a proprietary prebiotic blend, designed for systemic benefits.",
-            "offers": {
-              "@type": "Offer",
-              "url": "https://synctherapylocal.local/recommends/seed-probiotic",
-              "priceCurrency": "USD",
-              "price": "49.00",
-              "availability": "https://schema.org/InStock"
-            },
-            "aggregateRating": {
-              "@type": "AggregateRating",
-              "ratingValue": "4.9",
-              "reviewCount": "1521"
-            }
-          },
-          {
-            "@type": "Product",
-            "name": "Cymbiotika Probiotic",
-            "image": "/uploads/2025/06/cymbiotika-probiotic-review-vs-seed.webp",
-            "brand": {
-              "@type": "Brand",
-              "name": "Cymbiotika"
-            },
-            "description": "A premium probiotic supplement with 16 strains, plant-based prebiotics, and a unique blend of herbal alchemy and amino acids.",
-            "offers": {
-              "@type": "Offer",
-              "url": "https://synctherapylocal.local/seed-vs-pendulum/#cymbiotika",
-              "priceCurrency": "CAD",
-              "price": "116.00",
-              "availability": "https://schema.org/InStock"
-            },
-            "aggregateRating": {
-              "@type": "AggregateRating",
-              "ratingValue": "4.7",
-              "reviewCount": "876"
-            }
-          }
-        ]
-      },
-      "positiveNotes": {
-        "@type": "ItemList",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Seed DS-01 offers broader strain diversity (24 strains) and advanced delivery technology."
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "Cymbiotika provides a high-quality, premium formula with a focus on holistic gut health."
-          }
-        ]
-      },
-      "negativeNotes": {
-        "@type": "ItemList",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Cymbiotika is significantly more expensive than Seed DS-01."
-          }
-        ]
-      }
-    }
-    </script>
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 

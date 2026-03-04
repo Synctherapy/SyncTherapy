@@ -10,26 +10,6 @@ seoTitle: "GI-MAP Stool Test Canada: 2026 Cost & Review"
 ---
 
 <!-- wp:html -->
-<!-- Schema Markup -->
-
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "headline": "GI-MAP Test Guide 2025: Complete Gut Health Analysis",
-      "description": "Comprehensive guide to the GI-MAP test for gut health analysis, including gut dysbiosis, leaky gut, and digestive health assessment.",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "datePublished": "2025-01-01",
-      "dateModified": "2025-01-01",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://synctherapylocal.local/blogs/gut-health/gi-map-test-guide"
-      }
-    }
-    </script>
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 

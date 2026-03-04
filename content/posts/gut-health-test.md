@@ -9,51 +9,11 @@ description: >-
   compared for accuracy, actionable results, and value by a Holistic
   Nutritionist.
 seoTitle: Best Gut Health Test Kits (2026) — Home Testing
+rating: 4.9
+productName: At-Home Gut Health Tests
 ---
 
 <!-- wp:html -->
-<!-- Schema Markup -->
-
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "The Best Gut Health & Microbiome Tests of 2025 in Canada",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.9",
-        "bestRating": "5"
-      },
-      "itemReviewed": {
-        "@type": "ProductGroup",
-        "name": "At-Home Gut Health Tests",
-        "hasVariant": [
-          {
-            "@type": "Product",
-            "name": "GI-MAP Test",
-            "description": "A comprehensive, diagnostic stool test that identifies pathogens, bacteria, and viruses for clinical assessment in Canada.",
-            "brand": "Diagnostic Solutions Laboratory"
-          },
-          {
-            "@type": "Product",
-            "name": "Viome Gut Intelligence Test",
-            "description": "A user-friendly, at-home microbiome test that provides personalized food and supplement recommendations, available in Canada.",
-            "brand": "Viome"
-          },
-          {
-            "@type": "Product",
-            "name": "US BioTek GI Advanced Profile",
-            "description": "A practitioner-level stool test with over 200 markers, including functional markers and antimicrobial sensitivity screens.",
-            "brand": "US BioTek"
-          }
-        ]
-      }
-    }
-    </script>
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 
@@ -335,34 +295,7 @@ seoTitle: Best Gut Health Test Kits (2026) — Home Testing
                         <p class="mt-4 text-gray-700">Viome's technology can identify the genetic material of many organisms, including some parasites, but it is not a dedicated diagnostic test for parasitic infections. If you suspect a parasite, a clinical diagnostic test like the GI-MAP is a more appropriate choice.</p>
                     </details>
                 </div>
-                <script type="application/ld+json">
-                {
-                  "@context": "https://schema.org",
-                  "@type": "FAQPage",
-                  "mainEntity": [{
-                    "@type": "Question",
-                    "name": "Are gut health tests worth it?",
-                    "acceptedAnswer": {
-                      "@type": "Answer",
-                      "text": "For many, yes. A good gut health test can provide valuable, personalized data that takes the guesswork out of your diet and supplement routine. A diagnostic test like the GI-MAP can be invaluable for uncovering the root cause of chronic illness."
-                    }
-                  },{
-                    "@type": "Question",
-                    "name": "What is the best stool test for gut health?",
-                    "acceptedAnswer": {
-                      "@type": "Answer",
-                      "text": "The \\"best\\" depends on your needs. The GI-MAP is often considered the best comprehensive stool test for diagnostic purposes. For actionable wellness insights, Viome's stool test is a top contender."
-                    }
-                  },{
-                    "@type": "Question",
-                    "name": "Does Viome test for parasites?",
-                    "acceptedAnswer": {
-                      "@type": "Answer",
-                      "text": "Viome's technology can identify the genetic material of many organisms, including some parasites, but it is not a dedicated diagnostic test for parasitic infections. If you suspect a parasite, a clinical diagnostic test like the GI-MAP is a more appropriate choice."
-                    }
-                  }]
-                }
-                </script>
+
             </section>
 
             <!-- Final Thoughts -->

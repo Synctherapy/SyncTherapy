@@ -6,102 +6,22 @@ description: >-
   Is red light therapy safe for your eyes? AMD research, eye safety protocols,
   and protective guidelines reviewed for 2026 by a certified therapist.
 seoTitle: Red Light Therapy for Eyes & AMD (2026 Safety)
+faqs:
+  - question: Is red light therapy safe for eyes and eye health?
+    answer: Red light therapy for eye health can be safe when used properly with appropriate wavelengths (660-670nm), correct dosing, and under professional guidance. However, recent 2025 research from JAMA Ophthalmology shows potential concerns including reduced cone density with prolonged use in children. For cosmetic use of red light therapy on eyes (skin benefits), always keep eyes closed and use protective eyewear. For therapeutic treatment of eye conditions, only proceed under ophthalmologist supervision with FDA-authorized devices.
+  - question: What wavelength of red light is best for eye health and eyesight?
+    answer: For red light therapy for eyesight and eye health, research indicates 660-670nm red light has the strongest evidence. This wavelength penetrates effectively to reach retinal mitochondria while minimizing potential damage. Specifically, 670nm has been extensively studied for AMD and age-related vision improvements.
+  - question: Can red light therapy improve vision and eyesight?
+    answer: "Yes, red light therapy for vision improvement has shown measurable results in specific conditions. For dry AMD, clinical trials show improvements of 2+ lines on eye charts. For age-related decline, studies demonstrate enhanced color contrast sensitivity in adults over 40. However, red light therapy for eyesight won't correct refractive errors or replace glasses. It works by improving the function of existing photoreceptor cells and supporting mitochondrial health in the retina."
+  - question: How do I use red light therapy for dry eyes at home?
+    answer: For red light therapy for dry eyes at home, use a mask or panel with 630-660nm wavelengths positioned 6-12 inches from closed eyes. Sessions should be 10-15 minutes, 3-5 times per week. Always keep eyes closed and use protective eyewear. The therapy helps by warming meibomian glands, reducing inflammation, and improving tear production. Benefits typically appear after 2-4 weeks of consistent use.
+  - question: Does red light therapy work for eye wrinkles and under-eye wrinkles?
+    answer: "Yes, red light therapy for eye wrinkles and red light therapy for under eye wrinkles is well-supported by research. The 630-660nm wavelengths stimulate collagen production, improve skin hydration, and reduce dark circles. With consistent use (3-5 sessions per week for 8-12 weeks), expect reduction in fine lines, crow's feet, improved skin texture, and decreased puffiness around the eyes."
+  - question: Should I use red light therapy on eyes with eyes open or closed?
+    answer: "For cosmetic/wellness use of red light therapy for your eyes (reducing wrinkles, dark circles, dry eye relief): Always keep eyes CLOSED and wear protective eyewear. For therapeutic treatment of eye conditions (AMD, myopia): This requires specialized FDA-authorized devices in a medical setting where eyes may be open under controlled conditions. Never look directly at consumer LED panels."
 ---
 
 <!-- wp:html -->
-
-    <!-- Schema Markup -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "headline": "Red Light Therapy for Eyes: Vision Improvement, Eye Health & Dry Eye Relief Guide",
-      "description": "Comprehensive guide to red light therapy for eye health, covering vision improvement, dry eyes at home, eye wrinkles, aging eyes, and eyesight support with evidence-based protocols and safety guidelines.",
-      "author": {
-        "@type": "Person",
-        "name": "Daryl Stubbs",
-        "url": "https://synctherapylocal.local/author/daryl-c/",
-        "jobTitle": "Registered Massage Therapist, Certified Athletic Therapist, Holistic Nutritionist",
-        "affiliation": {
-            "@type": "Organization",
-            "name": "Sync Therapy"
-        }
-      },
-      "datePublished": "2026-01-02",
-      "dateModified": "2026-01-02",
-      "publisher": {
-        "@type": "Organization",
-        "name": "Sync Therapy",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://placehold.co/200x60/2E5A88/FFFFFF?text=Sync+Therapy"
-        }
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://synctherapylocal.local/red-light-therapy-for-eyes/"
-      },
-      "image": "https://placehold.co/1200x630/2E5A88/FFFFFF?text=Red+Light+Therapy+for+Eyes"
-    }
-    </script>
-
-    <!-- FAQ Schema -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Is red light therapy safe for eyes and eye health?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Red light therapy for eye health can be safe when used properly with appropriate wavelengths (660-670nm), correct dosing, and under professional guidance. However, recent 2025 research from JAMA Ophthalmology shows potential concerns including reduced cone density with prolonged use in children. For cosmetic use of red light therapy on eyes (skin benefits), always keep eyes closed and use protective eyewear. For therapeutic treatment of eye conditions, only proceed under ophthalmologist supervision with FDA-authorized devices."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What wavelength of red light is best for eye health and eyesight?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "For red light therapy for eyesight and eye health, research indicates 660-670nm red light has the strongest evidence. This wavelength penetrates effectively to reach retinal mitochondria while minimizing potential damage. Specifically, 670nm has been extensively studied for AMD and age-related vision improvements."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can red light therapy improve vision and eyesight?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, red light therapy for vision improvement has shown measurable results in specific conditions. For dry AMD, clinical trials show improvements of 2+ lines on eye charts. For age-related decline, studies demonstrate enhanced color contrast sensitivity in adults over 40. However, red light therapy for eyesight won't correct refractive errors or replace glasses. It works by improving the function of existing photoreceptor cells and supporting mitochondrial health in the retina."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do I use red light therapy for dry eyes at home?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "For red light therapy for dry eyes at home, use a mask or panel with 630-660nm wavelengths positioned 6-12 inches from closed eyes. Sessions should be 10-15 minutes, 3-5 times per week. Always keep eyes closed and use protective eyewear. The therapy helps by warming meibomian glands, reducing inflammation, and improving tear production. Benefits typically appear after 2-4 weeks of consistent use."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Does red light therapy work for eye wrinkles and under-eye wrinkles?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, red light therapy for eye wrinkles and red light therapy for under eye wrinkles is well-supported by research. The 630-660nm wavelengths stimulate collagen production, improve skin hydration, and reduce dark circles. With consistent use (3-5 sessions per week for 8-12 weeks), expect reduction in fine lines, crow's feet, improved skin texture, and decreased puffiness around the eyes."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Should I use red light therapy on eyes with eyes open or closed?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "For cosmetic/wellness use of red light therapy for your eyes (reducing wrinkles, dark circles, dry eye relief): Always keep eyes CLOSED and wear protective eyewear. For therapeutic treatment of eye conditions (AMD, myopia): This requires specialized FDA-authorized devices in a medical setting where eyes may be open under controlled conditions. Never look directly at consumer LED panels."
-          }
-        }
-      ]
-    }
-    </script>
 
 </head>
 <body>

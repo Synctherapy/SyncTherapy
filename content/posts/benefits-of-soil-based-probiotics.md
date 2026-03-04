@@ -10,31 +10,6 @@ seoTitle: Benefits Of Soil Based Probiotics in 2026 - Are They Effective?
 ---
 
 <!-- wp:html -->
-<!-- Schema Markup -->
-
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "headline": "Soil-Based Probiotics: 16 Benefits, Safety & Top Picks for 2026",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "datePublished": "2025-08-05",
-      "dateModified": "2025-08-05",
-      "description": "A comprehensive guide to the benefits of soil-based probiotics (SBOs), how they work, and the best options available for improving gut health, immunity, and overall wellness.",
-      "image": "/uploads/content/what-are-spore-based-probiotic-supplement.png",
-      "publisher": {
-        "@type": "Organization",
-        "name": "Sync Therapy",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://synctherapylocal.local/logo.png"
-        }
-      }
-    }
-    </script>
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 

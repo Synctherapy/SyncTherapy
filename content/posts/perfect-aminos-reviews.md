@@ -6,47 +6,11 @@ description: >-
   Perfect Amino protein supplement review for 2026. Gary Brecka's recommended
   amino acid formula assessed for absorption, value, and real results.
 seoTitle: "Perfect Amino Review 2026: Gary Brecka's Pick"
+rating: 4.8
+productName: PerfectAmino
 ---
 
 <!-- wp:html -->
-<!-- Schema Markup -->
-
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "Perfect Amino Review (2026): Gary Brecka Protein Supplement",
-      "datePublished": "2025-07-14",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.8",
-        "bestRating": "5",
-        "worstRating": "1"
-      },
-      "itemReviewed": {
-        "@type": "Product",
-        "name": "PerfectAmino",
-        "brand": {
-          "@type": "Brand",
-          "name": "BodyHealth"
-        },
-        "description": "PerfectAmino is the essential amino acid supplement recommended by Gary Brecka for its 99% utilization rate. Our review covers its benefits for fasting, muscle growth, potential side effects, and why it's a superior choice.",
-        "image": "/uploads/2025/07/gary-brecka-amino-acid-supplements.webp",
-        "sku": "PA-TABLETS-150",
-        "offers": {
-          "@type": "Offer",
-          "url": "https://prz.io/zkJ2kNzUR",
-          "priceCurrency": "USD",
-          "price": "39.95",
-          "availability": "https://schema.org/InStock"
-        }
-      }
-    }
-    </script>
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 

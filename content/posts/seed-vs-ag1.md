@@ -6,51 +6,11 @@ description: >-
   Seed DS-01 vs AG1 compared for 2026. Probiotics vs greens powder — which is
   worth your money? Ingredients and value reviewed by a Nutritionist.
 seoTitle: "Seed vs AG1 (2026): Which Supplement Is Better?"
+rating: 4.8
+productName: Synbiotic Supplements
 ---
 
 <!-- wp:html -->
-<!-- Schema Markup -->
-
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "Seed vs AG1: Which Synbiotic Supplement is Better?",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.8",
-        "bestRating": "5"
-      },
-      "itemReviewed": {
-        "@type": "ProductGroup",
-        "name": "Synbiotic Supplements",
-        "hasVariant": [
-          {
-            "@type": "Product",
-            "name": "Seed DS-01 Daily Synbiotic",
-            "description": "A synbiotic supplement with 24 probiotic strains and prebiotics designed to improve digestive health.",
-            "brand": {
-              "@type": "Brand",
-              "name": "Seed"
-            }
-          },
-          {
-            "@type": "Product",
-            "name": "AG1 (Athletic Greens)",
-            "description": "A comprehensive nutritional supplement with over 75 vitamins, minerals, probiotics, and whole-food sourced ingredients.",
-            "brand": {
-              "@type": "Brand",
-              "name": "Athletic Greens"
-            }
-          }
-        ]
-      }
-    }
-    </script>
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 

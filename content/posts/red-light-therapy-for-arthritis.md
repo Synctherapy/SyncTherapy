@@ -9,30 +9,6 @@ seoTitle: "Red Light Therapy for Arthritis: Science Guide"
 ---
 
 <!-- wp:html -->
-<!-- Schema Markup -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Red Light Therapy for Arthritis: What Science Really Says About Pain Relief",
-  "image": "/uploads/2025/11/arthritis-victoria.png",
-  "author": {
-    "@type": "Person",
-    "name": "Daryl Stubbs",
-    "jobTitle": "Award-Winning Massage & Athletic Therapist"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Sync Therapy",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://synctherapylocal.local/wp-content/uploads/sync-therapy-logo.png"
-    }
-  },
-  "datePublished": "2025-12-20",
-  "dateModified": "2025-12-20"
-}
-</script>
 
 <div class="arthritis-article">
     <div style="max-width: 1024px; margin: 0 auto; padding: 2rem 1rem;">

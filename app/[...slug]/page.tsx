@@ -398,7 +398,7 @@ export default async function Page({ params }: Props) {
             // Article + ItemList for best-of / top-N posts
             schemas.push({
                 '@context': 'https://schema.org',
-                '@type': 'Article',
+                '@type': 'BlogPosting',
                 'headline': item.frontmatter.title || '',
                 'description': item.frontmatter.description || '',
                 'datePublished': item.frontmatter.date,
@@ -421,7 +421,7 @@ export default async function Page({ params }: Props) {
             // Standard Article schema
             schemas.push({
                 '@context': 'https://schema.org',
-                '@type': 'Article',
+                '@type': 'BlogPosting',
                 'headline': item.frontmatter.title || '',
                 'description': item.frontmatter.description || '',
                 'datePublished': item.frontmatter.date,

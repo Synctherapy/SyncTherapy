@@ -6,38 +6,11 @@ description: >-
   Just Thrive probiotic review for 2026. A spore-based supplement that survives
   stomach acid. Why a Holistic Nutritionist recommends it for gut health.
 seoTitle: "Just Thrive Probiotic Review 2026: Why I Love It"
+rating: 4.9
+productName: Just Thrive Probiotic
 ---
 
 <!-- wp:html -->
-<!-- Schema Markup for Product Review -->
-
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "Just Thrive Probiotic Reviews in 2026 – Why I love it",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.9",
-        "bestRating": "5",
-        "worstRating": "1"
-      },
-      "itemReviewed": {
-        "@type": "Product",
-        "name": "Just Thrive Probiotic",
-        "description": "A spore-based probiotic supplement designed to survive stomach acid and support gut health, immunity, and overall wellness.",
-        "brand": {
-          "@type": "Brand",
-          "name": "Just Thrive"
-        },
-        "image": "/uploads/content/just-thrive-probiotic-review-looking-at-the-probiotic-bacteria.jpg"
-      }
-    }
-    </script>
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 

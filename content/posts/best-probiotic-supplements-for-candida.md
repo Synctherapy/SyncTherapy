@@ -7,61 +7,11 @@ description: >-
   Strain-specific picks reviewed by a Holistic Nutritionist for antifungal
   support.
 seoTitle: Best Probiotics for Candida & Yeast Infections
+rating: 4.8
+productName: Probiotics for Candida
 ---
 
 <!-- wp:html -->
-<!-- Schema Markup -->
-
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "5 Best Probiotic Supplements for Candida and Yeast Infections",
-      "headline": "5 Best Probiotic Supplements for Candida and Yeast Infections",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "datePublished": "2025-07-14",
-      "dateModified": "2025-07-14",
-      "description": "Tired of Candida symptoms? Our 2026 guide reviews the 5 best probiotics, including spore-based formulas and clinically-studied strains to restore gut balance and fight yeast overgrowth.",
-      "reviewBody": "Our 2026 guide reviews the 5 best probiotics, including spore-based formulas and clinically-studied strains to restore gut balance and fight yeast overgrowth.",
-      "publisher": {
-        "@type": "Organization",
-        "name": "Sync Therapy",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://synctherapylocal.local/your-logo.png"
-        }
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://synctherapylocal.local/best-probiotics-for-candida"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.8",
-        "bestRating": "5"
-      },
-      "itemReviewed": {
-        "@type": "ProductGroup",
-        "name": "Probiotics for Candida",
-        "image": "/uploads/content/candida-overgrowth-probiotics.jpg",
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "reviewCount": "5"
-        },
-        "hasVariant": [
-          { "@type": "Product", "name": "Microbiome Labs Candida Protocol" },
-          { "@type": "Product", "name": "Seed VS-01 Vaginal Synbiotic" },
-          { "@type": "Product", "name": "YourBiology Gut+" },
-          { "@type": "Product", "name": "Just Thrive Probiotic" },
-          { "@type": "Product", "name": "RestorFlora" }
-        ]
-      }
-    }
-    </script>
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 

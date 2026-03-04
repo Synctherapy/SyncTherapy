@@ -9,38 +9,6 @@ seoTitle: Red Light Therapy for Stretch Marks (2026 Guide)
 ---
 
 <!-- wp:html -->
-<!-- Schema Markup -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Red Light Therapy for Stretch Marks: Clinical Evidence & Best Devices 2025",
-  "description": "Discover how red light therapy reduces stretch marks by 60-80%. Clinical studies, before and after results, plus the best devices in Canada for 2025.",
-  "author": {
-    "@type": "Person",
-    "name": "Daryl Stubbs",
-    "url": "https://synctherapylocal.local/author/daryl-c/",
-    "jobTitle": "Registered Massage Therapist, Certified Athletic Therapist, Holistic Nutritionist",
-    "affiliation": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-    }
-  },
-  "datePublished": "2025-12-20",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Sync Therapy",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://synctherapylocal.local/wp-content/uploads/2023/12/cropped-Sync-Therapy-Logo-2.png"
-    }
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://synctherapylocal.local/red-light-therapy-stretch-marks/"
-  }
-}
-</script>
 
 <div class="container mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
     

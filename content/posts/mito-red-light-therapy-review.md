@@ -6,51 +6,11 @@ description: >-
   Mito Red Light therapy review for 2026. MitoPRO X, Adapt, and Mobile devices
   tested by an RMT. Specs, Canadian availability, and honest pros and cons.
 seoTitle: "Mito Red Light Review 2026: MitoPRO X & Adapt"
+rating: 4.9
+productName: Mito Red Light Therapy Panels
 ---
 
 <!-- wp:html -->
-<!-- Schema Markup -->
-
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "Mito Red Light Therapy Review 2024: MitoPRO & Adapt Reviews",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.9",
-        "bestRating": "5"
-      },
-      "itemReviewed": {
-        "@type": "ProductGroup",
-        "name": "Mito Red Light Therapy Panels",
-        "hasVariant": [
-          {
-            "@type": "Product",
-            "name": "MitoPRO 1500",
-            "description": "Our MitoPRO 1500 review found this to be a powerful, full-body red light therapy panel with low EMF emissions and high efficacy.",
-            "brand": "Mito Red Light"
-          },
-          {
-            "@type": "Product",
-            "name": "Mito Adapt 2.0 Series",
-            "description": "A versatile and efficient series of red light therapy devices with dual-chip technology, covered in our Mito Red Light reviews.",
-            "brand": "Mito Red Light"
-          },
-          {
-             "@type": "Product",
-            "name": "MitoPRO 750",
-            "description": "A mid-sized red light therapy panel balancing power and versatility for home use, a popular choice in many MitoPRO reviews.",
-            "brand": "Mito Red Light"
-          }
-        ]
-      }
-    }
-    </script>
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 

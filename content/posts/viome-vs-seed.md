@@ -7,51 +7,11 @@ description: >-
   sans-serif; background-color: #F4F7F5; /* Neutral-Light */ color: #333333;
   /*...
 seoTitle: "Viome vs Seed (2025): Viome Alternatives"
+rating: 4.8
+productName: Gut Health Supplements
 ---
 
 <!-- wp:html -->
-<!-- Schema Markup -->
-
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "Viome vs. Seed: Which Gut Health Approach is Better?",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.8",
-        "bestRating": "5"
-      },
-      "itemReviewed": {
-        "@type": "ProductGroup",
-        "name": "Gut Health Supplements",
-        "hasVariant": [
-          {
-            "@type": "Product",
-            "name": "Seed DS-01 Daily Synbiotic",
-            "description": "A broad-spectrum synbiotic with 24 probiotic strains and a prebiotic, designed for systemic, whole-body health and validated by clinical trials.",
-            "brand": {
-              "@type": "Brand",
-              "name": "Seed"
-            }
-          },
-          {
-            "@type": "Product",
-            "name": "Viome Personalized Nutrition Program",
-            "description": "A service providing at-home metatranscriptomic (RNA) testing and an AI-driven analysis to create personalized food recommendations and custom-formulated supplements and probiotics.",
-            "brand": {
-              "@type": "Brand",
-              "name": "Viome"
-            }
-          }
-        ]
-      }
-    }
-    </script>
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 

@@ -6,69 +6,11 @@ description: >-
   Seed vs Pendulum probiotics compared for 2026. Strains, pricing, research, and
   who each one is best for. Reviewed by a certified Holistic Nutritionist.
 seoTitle: "Seed vs Pendulum (2026): Which Probiotic Wins?"
+rating: 4.9
+productName: Probiotic Supplements
 ---
 
 <!-- wp:html -->
-<!-- Schema Markup -->
-
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "Seed vs. Pendulum: Which Probiotic Supplement is Better?",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.9",
-        "bestRating": "5"
-      },
-      "itemReviewed": {
-        "@type": "ProductGroup",
-        "name": "Probiotic Supplements",
-        "hasVariant": [
-          {
-            "@type": "Product",
-            "name": "Seed DS-01 Daily Synbiotic",
-            "description": "A broad-spectrum synbiotic with 24 probiotic strains designed for systemic, whole-body health and general wellness.",
-            "brand": {
-              "@type": "Brand",
-              "name": "Seed"
-            }
-          },
-          {
-            "@type": "Product",
-            "name": "Pendulum Glucose Control",
-            "description": "A targeted medical probiotic with novel anaerobic strains, including Akkermansia muciniphila, clinically shown to help manage Type 2 Diabetes.",
-            "brand": {
-              "@type": "Brand",
-              "name": "Pendulum"
-            }
-          },
-          {
-            "@type": "Product",
-            "name": "Pendulum Metabolic Daily",
-            "description": "A targeted probiotic with Akkermansia and butyrate-producers for general metabolic support.",
-            "brand": {
-              "@type": "Brand",
-              "name": "Pendulum"
-            }
-          },
-          {
-            "@type": "Product",
-            "name": "Pendulum Akkermansia",
-            "description": "A single-strain probiotic featuring the novel anaerobic strain Akkermansia muciniphila for gut barrier support.",
-            "brand": {
-              "@type": "Brand",
-              "name": "Pendulum"
-            }
-          }
-        ]
-      }
-    }
-    </script>
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 

@@ -6,36 +6,10 @@ description: >-
   Amen supplements review for 2026. Are these brain and gut supplements worth
   trying? Ingredients, dosages, and value reviewed by a Nutritionist.
 seoTitle: "Amen Supplements Review 2026: Are They Good?"
+rating: 4.5
 ---
 
 <!-- wp:html -->
-<!-- Schema Markup -->
-
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "Amen Supplements Review: Are They Good In 2026 and Should You Try",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.5",
-        "bestRating": "5"
-      },
-      "itemReviewed": {
-        "@type": "ProductGroup",
-        "name": "Amen Supplements",
-        "brand": {
-            "@type": "Brand",
-            "name": "BrainMD"
-        },
-        "description": "A line of dietary supplements by Dr. Daniel Amen designed to support brain health, mood, digestion, and overall wellness."
-      }
-    }
-    </script>
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 

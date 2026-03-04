@@ -6,80 +6,11 @@ description: >-
   Infraredi vs Kala red light therapy comparison for 2026. An RMT compares
   power, build quality, and value to find the best Canadian panel option.
 seoTitle: "Infraredi vs Kala (2026): Best Red Light in Canada?"
+rating: 4.9
+productName: Red Light Therapy Panels (Canada)
 ---
 
 <!-- wp:html -->
-<!-- Schema Markup -->
-
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Review",
-      "name": "Infraredi vs Kala:  Best Canadian Red Light Therapy Panel?",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "4.9",
-        "bestRating": "5"
-      },
-      "itemReviewed": {
-        "@type": "ProductGroup",
-        "name": "Red Light Therapy Panels (Canada)",
-        "description": "Comparison of the best red light therapy panels available in Canada",
-        "hasVariant": [
-          {
-            "@type": "Product",
-            "name": "Infraredi Red Light Therapy Panels",
-            "description": "Medical-grade red light therapy devices known for high power, multiple wavelengths, and Health Canada approval.",
-            "brand": {
-              "@type": "Brand",
-              "name": "Infraredi"
-            },
-            "offers": {
-              "@type": "AggregateOffer",
-              "priceCurrency": "CAD",
-              "lowPrice": "599",
-              "highPrice": "1899",
-              "offerCount": "6",
-              "availability": "https://schema.org/InStock",
-              "url": "https://infraredi.ca?sca_ref=6462529.RGz70cjqsGIv"
-            },
-            "aggregateRating": {
-              "@type": "AggregateRating",
-              "ratingValue": "4.9",
-              "reviewCount": "150"
-            }
-          },
-          {
-            "@type": "Product",
-            "name": "Kala Red Light Therapy Panels",
-            "description": "Affordable, high-quality red light therapy devices with FDA certification, known for great value and accessibility.",
-            "brand": {
-              "@type": "Brand",
-              "name": "Kala"
-            },
-            "offers": {
-              "@type": "AggregateOffer",
-              "priceCurrency": "CAD",
-              "lowPrice": "449",
-              "highPrice": "1599",
-              "offerCount": "5",
-              "availability": "https://schema.org/InStock",
-              "url": "https://snwbl.io/kalatherapy/DARYL95230"
-            },
-            "aggregateRating": {
-              "@type": "AggregateRating",
-              "ratingValue": "4.9",
-              "reviewCount": "140"
-            }
-          }
-        ]
-      }
-    }
-    </script>
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 

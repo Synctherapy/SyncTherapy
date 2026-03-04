@@ -9,34 +9,6 @@ seoTitle: Best Sauerkraut for Probiotics (2026 Guide)
 ---
 
 <!-- wp:html -->
-<!-- Schema Markup -->
-
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "headline": "The Ultimate Guide to Finding the Best Sauerkraut for Probiotics in 2025",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "datePublished": "2025-07-20",
-      "dateModified": "2025-07-20",
-      "description": "Our 2025 expert guide reveals how to choose the best sauerkraut for probiotics. We review top raw, unpasteurized brands in Canada and the US to help you boost your gut health.",
-      "publisher": {
-        "@type": "Organization",
-        "name": "Sync Therapy",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://synctherapylocal.local/wp-content/uploads/2023/11/sync-therapy-logo.svg"
-        }
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://synctherapylocal.local/best-sauerkraut-for-probiotics/"
-      }
-    }
-    </script>
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 

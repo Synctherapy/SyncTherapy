@@ -9,52 +9,6 @@ seoTitle: "Align vs Culturelle: Which Probiotic Is Better?"
 ---
 
 <!-- wp:html -->
-<!-- Schema Markup -->
-
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "headline": "Culturelle vs. Align for IBS (2026) | A Science-Backed Review",
-        "publisher": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "datePublished": "2025-07-12",
-      "dateModified": "2025-07-12",
-      "description": "An in-depth, science-backed comparison of Culturelle (Lactobacillus rhamnosus GG) and Align (Bifidobacterium longum 35624) for the management of Irritable Bowel Syndrome (IBS) based on the latest clinical evidence.",
-      "itemReviewed": {
-        "@type": "ProductGroup",
-        "name": "Probiotics for IBS",
-        "hasVariant": [
-          {
-            "@type": "Product",
-            "name": "Align Probiotic (Bifidobacterium longum 35624)",
-            "description": "A probiotic clinically studied for broad-spectrum relief of IBS symptoms, including abdominal pain, bloating, and bowel dysfunction.",
-            "brand": "Align"
-          },
-          {
-            "@type": "Product",
-            "name": "Culturelle (Lactobacillus rhamnosus GG)",
-            "description": "A probiotic clinically studied for its effectiveness in specific IBS subtypes, particularly diarrhea-predominant IBS (IBS-D), and for acute digestive issues.",
-            "brand": "Culturelle"
-          }
-        ]
-      },
-      "review": {
-        "@type": "Review",
-        "reviewRating": {
-          "@type": "Rating",
-          "ratingValue": "4.7",
-          "bestRating": "5"
-        },
-        "author": {
-          "@type": "Organization",
-          "name": "Sync Therapy"
-        }
-      }
-    }
-    </script>
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 

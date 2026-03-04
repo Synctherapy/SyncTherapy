@@ -6,153 +6,30 @@ description: >-
   Gary Brecka's exact hydrogen water bottle recommendations for 2026. Which
   devices he endorses, why, and where to buy them in the US and Canada.
 seoTitle: Gary Brecka Hydrogen Water Bottle Picks (2026)
+faqs:
+  - question: What hydrogen water bottle does Gary Brecka use?
+    answer: Gary Brecka uses and recommends the Echo Flask hydrogen water bottle. Previously he recommended the Echo Go+, but the Echo Flask is his current recommendation for 2025-2026 due to its higher hydrogen concentration (up to 8 PPM) and smart technology features.
+  - question: What hydrogen water bottle does Gary Brecka recommend?
+    answer: Gary Brecka recommends the Echo Flask as his primary hydrogen water bottle. For convenience and travel, he also recommends H2Tab hydrogen tablets, which are co-founded by his son Cole Brecka and are the official hydrogen tablets of The Ultimate Human platform.
+  - question: "What are Gary Brecka's hydrogen water recommendations?"
+    answer: Gary Brecka recommends drinking hydrogen water daily using the Echo Flask bottle, taking H2Tab hydrogen tablets (especially for travel), and using hydrogen bath tablets for recovery. He suggests consuming 1-3 bottles of hydrogen water per day, ideally first thing in the morning.
+  - question: What hydrogen tablets does Gary Brecka use?
+    answer: "Gary Brecka uses H2Tab hydrogen tablets, a company he co-founded with his son Cole Brecka. Each tablet produces 8-12 PPM of molecular hydrogen and costs about $1 per day. H2Tab is the official hydrogen tablet of The Ultimate Human platform."
+  - question: What are the benefits of hydrogen water according to Gary Brecka?
+    answer: "According to Gary Brecka, hydrogen water benefits include: reducing inflammation, improving circulation, enhancing mental clarity, boosting energy without caffeine, supporting cellular health, reducing oxidative stress, improving athletic recovery, and supporting gut health. He calls hydrogen gas his 'favorite biohack.'"
+  - question: "What is Gary Brecka's hydrogen water bottle brand?"
+    answer: "Gary Brecka's hydrogen water bottle brand is Echo Water. Specifically, he recommends the Echo Flask, which is the newest model that produces up to 8 PPM of molecular hydrogen using SPE/PEM technology with platinum-coated titanium electrodes."
+  - question: Does Gary Brecka recommend hydrogen baths?
+    answer: "Yes, Gary Brecka strongly recommends hydrogen baths for recovery and reducing inflammation. He uses H2Tab Hydrogen Bath Tablets that dissolve in bathwater to release molecular hydrogen, which is absorbed through the skin. He has mentioned that people 'crippled with arthritis will skip out of my unit like they won the lottery' after hydrogen baths."
+  - question: How much hydrogen water does Gary Brecka recommend per day?
+    answer: Gary Brecka recommends drinking 2-3 bottles (about 1-1.5 liters) of hydrogen water per day for optimal benefits. He typically takes one H2Tab tablet first thing in the morning dissolved in 10-12 ounces of water before other supplements or meals.
+  - question: Is there a Gary Brecka hydrogen water bottle discount code?
+    answer: "Yes, you can get 10% off the Echo Flask hydrogen water bottle using the discount code 'synctherapy' at checkout on the official Echo Water website. This brings the price from $299.99 to approximately $270."
+  - question: Did Gary Brecka discuss hydrogen water on Joe Rogan?
+    answer: "Yes, Gary Brecka discussed hydrogen water extensively on The Joe Rogan Experience podcast, appearing in episodes #2060 (November 2023) and #2304 (April 2025). He called hydrogen gas his 'favorite biohack' and explained how it reduces inflammation, improves circulation, and enhances cognitive function."
 ---
 
 <!-- wp:html -->
-
-<!-- Schema Markup - Article -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://synctherapylocal.local/gary-brecka-hydrogen-water-bottle/"
-  },
-  "headline": "Gary Brecka Hydrogen Water Bottle: His Exact Recommendations for 2026",
-  "description": "Discover exactly what hydrogen water bottle Gary Brecka recommends, including the Echo Flask and H2Tab hydrogen tablets. Complete guide with discount codes.",
-  "datePublished": "2024-01-15T08:00:00-05:00",
-  "dateModified": "2025-12-27T09:00:00-08:00",
-  "author": {
-    "@type": "Person",
-    "name": "Bruce Chicken",
-    "url": "https://synctherapylocal.local/",
-    "jobTitle": "RMT, CAT(C), Holistic Nutritionist"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Sync Therapy",
-    "url": "https://synctherapylocal.local/"
-  }
-}
-</script>
-
-<!-- Schema Markup - Product -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Product",
-  "name": "Echo Flask - Gary Brecka Hydrogen Water Bottle",
-  "image": "/uploads/2025/07/echo-flask-is-gary-breckas-hydrogen-water-bottle-recommendation.jpg",
-  "description": "The Echo Flask is the hydrogen water bottle brand Gary Brecka recommends. Produces up to 8 PPM molecular hydrogen with SPE/PEM technology.",
-  "brand": {
-    "@type": "Brand",
-    "name": "Echo Water"
-  },
-  "offers": {
-    "@type": "Offer",
-    "url": "https://echowater.com/products/echo-flask",
-    "priceCurrency": "USD",
-    "price": "299.99",
-    "availability": "https://schema.org/InStock"
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.8",
-    "reviewCount": "156"
-  }
-}
-</script>
-
-<!-- Schema Markup - FAQ -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What hydrogen water bottle does Gary Brecka use?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Gary Brecka uses and recommends the Echo Flask hydrogen water bottle. Previously he recommended the Echo Go+, but the Echo Flask is his current recommendation for 2025-2026 due to its higher hydrogen concentration (up to 8 PPM) and smart technology features."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What hydrogen water bottle does Gary Brecka recommend?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Gary Brecka recommends the Echo Flask as his primary hydrogen water bottle. For convenience and travel, he also recommends H2Tab hydrogen tablets, which are co-founded by his son Cole Brecka and are the official hydrogen tablets of The Ultimate Human platform."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What are Gary Brecka's hydrogen water recommendations?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Gary Brecka recommends drinking hydrogen water daily using the Echo Flask bottle, taking H2Tab hydrogen tablets (especially for travel), and using hydrogen bath tablets for recovery. He suggests consuming 1-3 bottles of hydrogen water per day, ideally first thing in the morning."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What hydrogen tablets does Gary Brecka use?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Gary Brecka uses H2Tab hydrogen tablets, a company he co-founded with his son Cole Brecka. Each tablet produces 8-12 PPM of molecular hydrogen and costs about $1 per day. H2Tab is the official hydrogen tablet of The Ultimate Human platform."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What are the benefits of hydrogen water according to Gary Brecka?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "According to Gary Brecka, hydrogen water benefits include: reducing inflammation, improving circulation, enhancing mental clarity, boosting energy without caffeine, supporting cellular health, reducing oxidative stress, improving athletic recovery, and supporting gut health. He calls hydrogen gas his 'favorite biohack.'"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is Gary Brecka's hydrogen water bottle brand?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Gary Brecka's hydrogen water bottle brand is Echo Water. Specifically, he recommends the Echo Flask, which is the newest model that produces up to 8 PPM of molecular hydrogen using SPE/PEM technology with platinum-coated titanium electrodes."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Does Gary Brecka recommend hydrogen baths?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, Gary Brecka strongly recommends hydrogen baths for recovery and reducing inflammation. He uses H2Tab Hydrogen Bath Tablets that dissolve in bathwater to release molecular hydrogen, which is absorbed through the skin. He has mentioned that people 'crippled with arthritis will skip out of my unit like they won the lottery' after hydrogen baths."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How much hydrogen water does Gary Brecka recommend per day?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Gary Brecka recommends drinking 2-3 bottles (about 1-1.5 liters) of hydrogen water per day for optimal benefits. He typically takes one H2Tab tablet first thing in the morning dissolved in 10-12 ounces of water before other supplements or meals."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is there a Gary Brecka hydrogen water bottle discount code?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, you can get 10% off the Echo Flask hydrogen water bottle using the discount code 'synctherapy' at checkout on the official Echo Water website. This brings the price from $299.99 to approximately $270."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Did Gary Brecka discuss hydrogen water on Joe Rogan?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, Gary Brecka discussed hydrogen water extensively on The Joe Rogan Experience podcast, appearing in episodes #2060 (November 2023) and #2304 (April 2025). He called hydrogen gas his 'favorite biohack' and explained how it reduces inflammation, improves circulation, and enhances cognitive function."
-      }
-    }
-  ]
-}
-</script>
 
 <div class="max-w-4xl mx-auto p-4 sm:p-6 lg:p-8">
     <main>

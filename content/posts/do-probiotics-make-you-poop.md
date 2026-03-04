@@ -9,26 +9,6 @@ seoTitle: Do Probiotics Make You Poop? (Explained Simply)
 ---
 
 <!-- wp:html -->
-<!-- Schema Markup -->
-
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "headline": "Do Probiotics Make You Poop? Easy Guide to Better Digestion 2026",
-      "description": "If you want to know if probiotics help you poop, you're not the only one. I go over what you need to know if you're looking for a probiotic to help your stool",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "datePublished": "2025-01-01",
-      "dateModified": "2025-01-01",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://synctherapylocal.local/prunes-vs-dates-for-constipation-relief/"
-      }
-    }
-    </script>
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 

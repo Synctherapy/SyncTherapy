@@ -9,32 +9,6 @@ seoTitle: Red Light Therapy for Thyroid & Hashimoto's
 ---
 
 <!-- wp:html -->
-<!-- Schema Markup -->
-
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "headline": "Red Light Therapy for Thyroid Health & Hashimoto's: A 2025 Guide",
-      "keywords": "red light therapy for thyroid, photobiomodulation for thyroid, pbm thyroid, low-level laser therapy for thyroid, hashimoto's light therapy, thyroid function, thyroid antibodies, hypothyroidism, autoimmune thyroid disease, red light therapy for thyroid nodules, is red light therapy safe for thyroid",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "datePublished": "2025-07-19",
-      "dateModified": "2025-07-19",
-      "image": "/uploads/2025/07/a-woman-using-red-light-hterapy-for-thyroid-and-to-reduce-her-hashimotos-thyroiditis.webp",
-      "description": "Our 2025 guide explores how red light therapy (PBM) can significantly improve Hashimoto's thyroiditis by reducing antibodies, improving hormone function, and aiding weight loss.",
-      "publisher": {
-          "@type": "Organization",
-          "name": "Sync Therapy",
-          "logo": {
-              "@type": "ImageObject",
-              "url": "https://placehold.co/200x60/F4F7F5/2E5A88?text=Sync+Therapy"
-          }
-      }
-    }
-    </script>
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 

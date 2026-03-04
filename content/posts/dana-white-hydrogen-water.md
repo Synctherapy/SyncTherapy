@@ -10,35 +10,6 @@ seoTitle: Dana White Hydrogen Water Secret On How It Improved His Health
 ---
 
 <!-- wp:html -->
-<!-- Schema Markup -->
-
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "headline": "Dana White Hydrogen Water Secret On How It Improved His Health",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "datePublished": "2025-07-29",
-      "dateModified": "2025-07-29",
-      "image": "/uploads/content/Dana_white_hydrogen_water_bottle_that_gary_brecka_talks_about_on_Joe_rogan.webp",
-      "publisher": {
-        "@type": "Organization",
-        "name": "Sync Therapy",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://synctherapylocal.local/logo.png"
-        }
-      },
-      "description": "Dana White tells about Hydrogen Water and how it's changed his live. Learn about the Dana White Hydrogen water suggestion in 2026",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://synctherapylocal.local/dana-white-hydrogen-water-bottle"
-      }
-    }
-    </script>
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 

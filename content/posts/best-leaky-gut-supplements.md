@@ -9,22 +9,6 @@ seoTitle: Best Leaky Gut Supplements & Probiotics (2026)
 ---
 
 <!-- wp:html -->
-<!-- Schema Markup -->
-
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "headline": "8 Best Leaky Gut Supplements & Probiotics for Gut Repair (2026 Canada Reviews)",
-      "author": {
-        "@type": "Organization",
-        "name": "Sync Therapy"
-      },
-      "datePublished": "2024-07-08",
-      "image": "/uploads/content/How-I-cured-my-leaky-gut.png",
-      "description": "Find the best supplements and probiotics for leaky gut repair. Our 2026 reviews cover top-rated products like Just Thrive to help you heal your gut lining and reduce symptoms."
-    }
-    </script>
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 

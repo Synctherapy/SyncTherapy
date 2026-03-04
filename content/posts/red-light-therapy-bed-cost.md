@@ -7,112 +7,22 @@ description: >-
   covering commercial beds, home units, session costs, and the best value
   options.
 seoTitle: "Red Light Therapy Bed Cost: 2026 Pricing Guide"
+faqs:
+  - question: How much does a NovoTHOR red light therapy bed cost?
+    answer: "The NovoTHOR standard model costs approximately $120,000-$130,000, while the NovoTHOR XL runs $130,000-$150,000. This includes delivery but may require additional electrical installation for 220V power."
+  - question: How much does red light therapy cost per session?
+    answer: "Red light therapy sessions cost $25-$200 depending on location. Average pricing: $50-$55 at wellness centers, $75-$150 at med spas, $25-$40 at tanning salons. Planet Fitness Black Card members get unlimited access for $24.99/month."
+  - question: What is the cheapest commercial red light therapy bed?
+    answer: "The Mito Red MitoRecharge at approximately $23,000 (full system) or $12,000 (bottom piece only) is the most affordable commercial-grade option. It runs on standard 120V power and requires no special electrical installation."
+  - question: Is buying a red light therapy bed worth it?
+    answer: "For clinics: Yes, if you can achieve 6-8 sessions/day. A $50,000 bed at $50/session can generate $100,000+ annual profit. For home users: Usually no—panels deliver the same therapeutic benefits at 5-10% of the cost."
+  - question: What does Planet Fitness red light therapy cost?
+    answer: Planet Fitness red light therapy (Total Body Enhancement booth) is included with the Black Card membership at $24.99/month for unlimited 12-minute sessions. However, it only uses red light wavelengths without near-infrared.
+  - question: Why is red light therapy so expensive?
+    answer: Red light therapy beds are expensive due to high-quality medical-grade LEDs (17,000-45,000 per bed at $0.50-$2.00 each), FDA clearance costs, precise wavelength calibration, USA manufacturing, and extensive R&D investment for clinical research.
 ---
 
 <!-- wp:html -->
-
-<!-- Schema Markup -->
-<script type="application/ld+json">
-{
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Red Light Therapy Bed Cost: Complete Pricing Guide [2026]",
-    "description": "Comprehensive guide to red light therapy bed costs. Commercial beds range $20,000-$150,000. Home beds $3,000-$15,000. Session costs $25-$200.",
-    "author": {
-        "@type": "Person",
-        "name": "Bruce Bauman",
-        "jobTitle": "RMT, CAT(C), Holistic Nutritionist",
-        "url": "https://synctherapylocal.local/author/bruce/",
-        "worksFor": {
-            "@type": "LocalBusiness",
-            "name": "Sync Massage Therapy"
-        }
-    },
-    "publisher": {
-        "@type": "Organization",
-        "name": "Sync Therapy",
-        "logo": {
-            "@type": "ImageObject",
-            "url": "https://synctherapylocal.local/wp-content/uploads/sync-therapy-logo.png"
-        }
-    },
-    "datePublished": "2026-01-01",
-    "dateModified": "2026-01-01"
-}
-</script>
-
-<script type="application/ld+json">
-{
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-        {
-            "@type": "Question",
-            "name": "How much does a NovoTHOR red light therapy bed cost?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "The NovoTHOR standard model costs approximately $120,000-$130,000, while the NovoTHOR XL runs $130,000-$150,000. This includes delivery but may require additional electrical installation for 220V power."
-            }
-        },
-        {
-            "@type": "Question",
-            "name": "How much does red light therapy cost per session?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Red light therapy sessions cost $25-$200 depending on location. Average pricing: $50-$55 at wellness centers, $75-$150 at med spas, $25-$40 at tanning salons. Planet Fitness Black Card members get unlimited access for $24.99/month."
-            }
-        },
-        {
-            "@type": "Question",
-            "name": "What is the cheapest commercial red light therapy bed?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "The Mito Red MitoRecharge at approximately $23,000 (full system) or $12,000 (bottom piece only) is the most affordable commercial-grade option. It runs on standard 120V power and requires no special electrical installation."
-            }
-        },
-        {
-            "@type": "Question",
-            "name": "Is buying a red light therapy bed worth it?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "For clinics: Yes, if you can achieve 6-8 sessions/day. A $50,000 bed at $50/session can generate $100,000+ annual profit. For home users: Usually no—panels deliver the same therapeutic benefits at 5-10% of the cost."
-            }
-        },
-        {
-            "@type": "Question",
-            "name": "What does Planet Fitness red light therapy cost?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Planet Fitness red light therapy (Total Body Enhancement booth) is included with the Black Card membership at $24.99/month for unlimited 12-minute sessions. However, it only uses red light wavelengths without near-infrared."
-            }
-        },
-        {
-            "@type": "Question",
-            "name": "Why is red light therapy so expensive?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Red light therapy beds are expensive due to high-quality medical-grade LEDs (17,000-45,000 per bed at $0.50-$2.00 each), FDA clearance costs, precise wavelength calibration, USA manufacturing, and extensive R&D investment for clinical research."
-            }
-        }
-    ]
-}
-</script>
-
-<script type="application/ld+json">
-{
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "Red Light Therapy Bed",
-    "description": "Full-body red light therapy beds for commercial and home use",
-    "offers": {
-        "@type": "AggregateOffer",
-        "lowPrice": "3000",
-        "highPrice": "150000",
-        "priceCurrency": "USD",
-        "offerCount": "15"
-    }
-}
-</script>
 
 <div class="container mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
     
