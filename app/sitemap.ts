@@ -48,6 +48,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     addUrl('/', 1.0, 'daily');
     addUrl('/about', 0.8, 'monthly');
     addUrl('/blog', 0.8, 'daily');
+    addUrl('/services/massage-therapy', 0.9, 'weekly');
+    addUrl('/services/deep-tissue-massage', 0.8, 'monthly');
+    addUrl('/services/sports-massage', 0.8, 'monthly');
 
     // 2. Discover App Directory Routes
     const appDir = path.join(process.cwd(), 'app');
@@ -94,7 +97,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         const { data } = matter(fileContent);
 
         // Skip pages that are mapped as root or statically known
-        if (slug === 'home' || slug === 'index' || slug === 'about' || slug === 'blog' || slug === '404') return;
+        if (slug === 'home' || slug === 'index' || slug === 'about' || slug === 'blog' || slug === '404' || slug === 'massage-therapy' || slug === 'sports-massage-therapy' || slug === 'deep-tissue-massage-victoria') return;
 
         // Skip explicitly marked noindex or drafts
         if (data.noindex || data.draft) return;

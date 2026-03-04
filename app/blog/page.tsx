@@ -29,8 +29,8 @@ export const metadata: Metadata = {
 };
 
 // ─── Category Detection (mirrors app/[...slug]/page.tsx) ───────
-const RED_LIGHT_KEYWORDS = ['red-light', 'pemf', 'sauna', 'infrared', 'recovery-modali', 'cryo', 'photobiomodulation', 'grounding', 'ringconn'];
-const GUT_HEALTH_KEYWORDS = ['gut', 'probiotic', 'prebiotic', 'hydrogen', 'alkaline', 'nutrient', 'supplement', 'leaky-gut', 'candida', 'ibs', 'acid-reflux', 'collagen', 'digestive', 'nutrition', 'fiber', 'constipation', 'gerd', 'seed-', 'viome', 'ag1', 'bioma', 'pendulum'];
+const RED_LIGHT_KEYWORDS = ['red-light', 'pemf', 'sauna', 'infrared', 'recovery-modali', 'cryo', 'photobiomodulation', 'grounding', 'wavelength', 'mitochondri', 'kala-', 'rouge-', 'mito-', 'infraredi', 'flexbeam', 'hooga', 'bon-charge', 'platinum-led', 'higherdose', 'healthyline', 'heat-healer', 'sunlighten', 'ringconn', 'anti-aging'];
+const GUT_HEALTH_KEYWORDS = ['gut', 'probiotic', 'prebiotic', 'hydrogen', 'alkaline', 'nutrient', 'supplement', 'leaky-gut', 'candida', 'ibs', 'acid-reflux', 'collagen', 'digestive', 'nutrition', 'seed-vs', 'culturelle', 'ritual', 'bioma', 'viome', 'megaspore', 'yourbiology', 'just-thrive', 'sauerkraut', 'fodmap', 'sibo', 'constipation', 'bloating', 'echo-', 'kangen', 'reverse-osmosis', 'fiber', 'triglyceride', 'gary-brecka', 'gi-map', 'amen-supplement', 'cymbiotika', 'ion-bottle', 'lourdes', 'dana-white', 'kim-kardashian', 'joe-rogan', 'cellpower', 'lumivitae'];
 
 function detectCategory(slug: string): BlogPost['category'] {
     const s = slug.toLowerCase();

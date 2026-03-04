@@ -226,7 +226,7 @@ export function SportsInjuriesPrevention() {
                             <h3 className="font-bold text-xl mb-2 text-blue-900">Strength Conditioning</h3>
                             <p className="text-sm text-slate-600">Specific exercises to target your weak links and build the tissue resilience needed for your specific sport.</p>
                         </Link>
-                        <Link href="/services/services/nutrition-consulting/" className="block p-8 bg-white border border-gray-200 rounded-xl hover:border-blue-600 hover:shadow-xl transition-all group">
+                        <Link href="/services/nutrition-consulting/" className="block p-8 bg-white border border-gray-200 rounded-xl hover:border-blue-600 hover:shadow-xl transition-all group">
                             <div className="w-12 h-12 bg-blue-100 text-blue-600 rounded-lg flex items-center justify-center text-2xl mb-4 group-hover:bg-blue-600 group-hover:text-white transition-colors">🥕</div>
                             <h3 className="font-bold text-xl mb-2 text-blue-900">Metabolic Recovery</h3>
                             <p className="text-sm text-slate-600">You can't out-train a bad diet. We optimize your fuel to ensure maximum recovery and inflammation control.</p>

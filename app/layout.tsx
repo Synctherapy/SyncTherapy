@@ -39,16 +39,23 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Massage Therapist Colwood | RMT Colwood | Sync Therapy',
-    description: 'Sync Therapy is a leading Registered Massage Therapist in Colwood. Our expert RMT team provides athletic therapy, massage therapy, nutrition counseling, and visceral manipulation. Book your appointment today.',
+    description: 'Award-winning RMT in Colwood, BC. Triple-certified clinic offering massage therapy, athletic therapy & holistic nutrition. Book online today.',
     url: 'https://www.synctherapy.ca',
     siteName: 'Sync Therapy',
     locale: 'en_CA',
     type: 'website',
+    images: [{
+      url: '/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg',
+      width: 1200,
+      height: 630,
+      alt: 'Daryl Stubbs - Award-Winning Registered Massage Therapist in Colwood, BC',
+    }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Massage Therapist Colwood | RMT Colwood | Sync Therapy',
-    description: 'Sync Therapy is a leading Registered Massage Therapist in Colwood. Our expert RMT team provides athletic therapy, massage therapy, nutrition counseling, and visceral manipulation. Book your appointment today.',
+    description: 'Award-winning RMT in Colwood, BC. Triple-certified clinic offering massage therapy, athletic therapy & holistic nutrition. Book online today.',
+    images: ['/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg'],
   },
   generator: 'v0.app',
   icons: {

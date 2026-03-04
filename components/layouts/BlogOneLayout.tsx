@@ -168,6 +168,14 @@ export function BlogOneLayout({ frontmatter, content, category = "manual-therapy
 
                 {/* ─── Article Content ────────────────────────────────── */}
                 <article className="px-6 py-8" id="content">
+                    {/* Affiliate Disclosure (shown on non-manual-therapy categories) */}
+                    {category !== "manual-therapy" && (
+                        <div className="bg-[#1A2B3C]/[0.03] border border-[#1A2B3C]/10 rounded-xl px-5 py-4 mb-8 text-[12px] text-[#1A2B3C]/60 leading-relaxed">
+                            <span className="font-bold uppercase tracking-widest text-[10px] text-[#1A2B3C]/40 block mb-1">Transparency</span>
+                            This article may contain affiliate links. As a practicing RMT and Athletic Therapist, I only recommend products I&apos;ve personally used or evaluated in my clinic. Purchasing through these links supports Sync Therapy at no extra cost to you. <Link href="/affiliate-disclosure/" className="text-[#2563EB] font-semibold hover:underline">Full disclosure</Link>.
+                        </div>
+                    )}
+
                     {/* Dynamic E-E-A-T Box */}
                     <div className="bg-white border-l-4 border-[#2563EB] p-6 mb-12 shadow-[0_4px_20px_-4px_rgba(37,99,235,0.1)] rounded-r-xl">
                         <div className="flex items-center gap-2 text-[#2563EB] mb-3">

@@ -847,11 +847,120 @@ faqs:
             </div>
         </section>
 
+        <!-- Red Light Therapy Resource Library -->
+        <section id="resource-library" class="bg-white p-6 rounded-lg shadow-md">
+            <h2 class="text-2xl font-bold !border-none !pl-0 !mt-0"><i class="fas fa-book-open text-accent mr-2"></i>Complete Red Light Therapy Resource Library</h2>
+            <p class="text-gray-700 mb-6">Explore our full collection of evidence-based red light therapy guides, written and tested by a practicing RMT and Certified Athletic Therapist.</p>
+
+            <h3 class="text-xl font-semibold mt-6 mb-3">Best-Of Buying Guides</h3>
+            <ul class="space-y-2 list-disc list-inside text-gray-800">
+                <li><a href="/best-red-light-therapy-panels/" class="text-primary hover:underline">Best Red Light Therapy Panels (2026)</a></li>
+                <li><a href="/best-red-light-therapy-mask/" class="text-primary hover:underline">Best Red Light Therapy Face Masks</a></li>
+                <li><a href="/at-home-red-light-therapy/" class="text-primary hover:underline">Best At-Home Red Light Therapy Devices</a></li>
+                <li><a href="/red-light-therapy-beds/" class="text-primary hover:underline">Best Red Light Therapy Beds</a></li>
+                <li><a href="/fda-approved-red-light-therapy-devices-for-pain/" class="text-primary hover:underline">FDA-Cleared Red Light Devices for Pain</a></li>
+                <li><a href="/best-pemf-mats/" class="text-primary hover:underline">Best PEMF Mats</a></li>
+                <li><a href="/best-grounding-sheets/" class="text-primary hover:underline">Best Grounding Sheets</a></li>
+                <li><a href="/best-sauna-blanket/" class="text-primary hover:underline">Best Sauna Blankets</a></li>
+            </ul>
+
+            <h3 class="text-xl font-semibold mt-6 mb-3">Brand & Product Reviews</h3>
+            <ul class="space-y-2 list-disc list-inside text-gray-800">
+                <li><a href="/rouge-red-light-therapy-reviews/" class="text-primary hover:underline">Rouge G4 Red Light Therapy Review</a></li>
+                <li><a href="/kala-red-light-therapy-review/" class="text-primary hover:underline">Kala Red Light Therapy Review</a></li>
+                <li><a href="/platinum-led-therapy-lights-review/" class="text-primary hover:underline">PlatinumLED BioMax Review</a></li>
+                <li><a href="/mito-red-light-therapy-review/" class="text-primary hover:underline">MitoRed Light Therapy Review</a></li>
+                <li><a href="/mito-pro-x-750-review/" class="text-primary hover:underline">Mito Pro X 750 Review</a></li>
+                <li><a href="/hooga-red-light-therapy-reviews/" class="text-primary hover:underline">Hooga Red Light Therapy Review</a></li>
+                <li><a href="/infraredi-reviews/" class="text-primary hover:underline">Infraredi Review</a></li>
+                <li><a href="/infraredi-vs-kala/" class="text-primary hover:underline">Infraredi vs Kala Comparison</a></li>
+                <li><a href="/orion-red-light-therapy-review/" class="text-primary hover:underline">Orion Red Light Therapy Review</a></li>
+                <li><a href="/bon-charge-mini-red-light-review/" class="text-primary hover:underline">Bon Charge Mini Red Light Review</a></li>
+                <li><a href="/flexbeam-reviews/" class="text-primary hover:underline">FlexBeam Review</a></li>
+                <li><a href="/ringconn-gen-2-review/" class="text-primary hover:underline">RingConn Gen 2 Review</a></li>
+            </ul>
+
+            <h3 class="text-xl font-semibold mt-6 mb-3">Sauna & Recovery Tech Reviews</h3>
+            <ul class="space-y-2 list-disc list-inside text-gray-800">
+                <li><a href="/sunlighten-saunas-reviews/" class="text-primary hover:underline">Sunlighten Saunas Review</a></li>
+                <li><a href="/higherdose-sauna-blanket/" class="text-primary hover:underline">HigherDOSE Sauna Blanket Review</a></li>
+                <li><a href="/bon-charge-sauna-blanket-review/" class="text-primary hover:underline">Bon Charge Sauna Blanket Review</a></li>
+                <li><a href="/heat-healer-sauna-blanket-reviews/" class="text-primary hover:underline">Heat Healer Sauna Blanket Review</a></li>
+                <li><a href="/sauna-blanket-benefits/" class="text-primary hover:underline">Sauna Blanket Benefits Explained</a></li>
+                <li><a href="/higherdose-face-mask-review/" class="text-primary hover:underline">HigherDOSE Face Mask Review</a></li>
+                <li><a href="/higherdose-pemf-mat-reviews/" class="text-primary hover:underline">HigherDOSE PEMF Mat Review</a></li>
+                <li><a href="/healthyline-mat-reviews/" class="text-primary hover:underline">HealthyLine Mat Review</a></li>
+            </ul>
+
+            <h3 class="text-xl font-semibold mt-6 mb-3">Red Light Therapy for Specific Conditions</h3>
+            <ul class="space-y-2 list-disc list-inside text-gray-800">
+                <li><a href="/red-light-therapy-knee-pain/" class="text-primary hover:underline">Red Light Therapy for Knee Pain</a></li>
+                <li><a href="/red-light-therapy-back-pain/" class="text-primary hover:underline">Red Light Therapy for Back Pain</a></li>
+                <li><a href="/red-light-therapy-for-tendinitis/" class="text-primary hover:underline">Red Light Therapy for Tendinitis</a></li>
+                <li><a href="/red-light-therapy-for-arthritis/" class="text-primary hover:underline">Red Light Therapy for Arthritis</a></li>
+                <li><a href="/red-light-therapy-for-fibromyalgia/" class="text-primary hover:underline">Red Light Therapy for Fibromyalgia</a></li>
+                <li><a href="/neuropathy-red-light-therapy/" class="text-primary hover:underline">Red Light Therapy for Neuropathy</a></li>
+                <li><a href="/red-light-therapy-for-migraines/" class="text-primary hover:underline">Red Light Therapy for Migraines</a></li>
+                <li><a href="/red-light-therapy-for-inflammation/" class="text-primary hover:underline">Red Light Therapy for Inflammation</a></li>
+                <li><a href="/red-light-therapy-for-chronic-fatigue/" class="text-primary hover:underline">Red Light Therapy for Chronic Fatigue</a></li>
+                <li><a href="/red-light-therapy-cellulite/" class="text-primary hover:underline">Red Light Therapy for Cellulite</a></li>
+                <li><a href="/red-light-therapy-and-scars/" class="text-primary hover:underline">Red Light Therapy for Scars</a></li>
+                <li><a href="/red-light-therapy-and-stretch-marks/" class="text-primary hover:underline">Red Light Therapy for Stretch Marks</a></li>
+                <li><a href="/red-light-therapy-for-rosacea/" class="text-primary hover:underline">Red Light Therapy for Rosacea</a></li>
+                <li><a href="/red-light-therapy-for-eczema/" class="text-primary hover:underline">Red Light Therapy for Eczema</a></li>
+                <li><a href="/red-light-therapy-psoriasis/" class="text-primary hover:underline">Red Light Therapy for Psoriasis</a></li>
+                <li><a href="/red-light-therapy-for-cold-sore/" class="text-primary hover:underline">Red Light Therapy for Cold Sores</a></li>
+                <li><a href="/red-light-therapy-varicose-veins/" class="text-primary hover:underline">Red Light Therapy for Varicose Veins</a></li>
+                <li><a href="/red-light-therapy-for-sleep/" class="text-primary hover:underline">Red Light Therapy for Sleep</a></li>
+                <li><a href="/red-light-therapy-for-depression/" class="text-primary hover:underline">Red Light Therapy for Depression</a></li>
+                <li><a href="/red-light-therapy-for-testosterone/" class="text-primary hover:underline">Red Light Therapy for Testosterone</a></li>
+                <li><a href="/red-light-therapy-for-thyroid/" class="text-primary hover:underline">Red Light Therapy for Thyroid</a></li>
+                <li><a href="/red-light-therapy-for-gut-health/" class="text-primary hover:underline">Red Light Therapy for Gut Health</a></li>
+                <li><a href="/red-light-therapy-and-eye-health/" class="text-primary hover:underline">Red Light Therapy and Eye Health</a></li>
+                <li><a href="/red-light-therapy-for-dogs/" class="text-primary hover:underline">Red Light Therapy for Dogs</a></li>
+                <li><a href="/red-light-therapy-for-horses/" class="text-primary hover:underline">Red Light Therapy for Horses</a></li>
+                <li><a href="/red-light-therapy-and-wound-healing-clinical-evidence/" class="text-primary hover:underline">Red Light Therapy for Wound Healing</a></li>
+                <li><a href="/red-light-treatment-for-weight-loss/" class="text-primary hover:underline">Red Light Therapy for Weight Loss</a></li>
+            </ul>
+
+            <h3 class="text-xl font-semibold mt-6 mb-3">Science & How-To Guides</h3>
+            <ul class="space-y-2 list-disc list-inside text-gray-800">
+                <li><a href="/photobiomodulation-explained/" class="text-primary hover:underline">Photobiomodulation Explained</a></li>
+                <li><a href="/wavelength-for-red-light/" class="text-primary hover:underline">Choosing the Right Wavelength</a></li>
+                <li><a href="/red-light-therapy-boosts-mitochondrial-function/" class="text-primary hover:underline">How Red Light Boosts Mitochondrial Function</a></li>
+                <li><a href="/role-of-red-light-therapy-in-anti-aging-studies-and-findings/" class="text-primary hover:underline">Red Light Therapy in Anti-Aging Research</a></li>
+                <li><a href="/the-role-of-red-light-therapy-in-hormone-regulation/" class="text-primary hover:underline">Red Light Therapy and Hormone Regulation</a></li>
+                <li><a href="/how-to-use-red-light-therapy-at-home/" class="text-primary hover:underline">How to Use Red Light Therapy at Home</a></li>
+                <li><a href="/how-often-red-light-therapy/" class="text-primary hover:underline">How Often Should You Use Red Light Therapy?</a></li>
+                <li><a href="/red-light-therapy-before-and-after/" class="text-primary hover:underline">Red Light Therapy Before and After Results</a></li>
+                <li><a href="/red-light-therapy-costs/" class="text-primary hover:underline">Red Light Therapy Costs Explained</a></li>
+                <li><a href="/red-light-therapy-bed-cost/" class="text-primary hover:underline">Red Light Therapy Bed Costs</a></li>
+                <li><a href="/red-light-therapy-beds-vs-panels/" class="text-primary hover:underline">Red Light Beds vs Panels Comparison</a></li>
+            </ul>
+
+            <h3 class="text-xl font-semibold mt-6 mb-3">PEMF Therapy Guides</h3>
+            <ul class="space-y-2 list-disc list-inside text-gray-800">
+                <li><a href="/pemf-therapy/" class="text-primary hover:underline">PEMF Therapy: Complete Guide</a></li>
+                <li><a href="/how-pemf-therapy-works/" class="text-primary hover:underline">How PEMF Therapy Works</a></li>
+                <li><a href="/pemf-mat-benefits/" class="text-primary hover:underline">PEMF Mat Benefits</a></li>
+                <li><a href="/pemf-therapy-for-arthritis-relief/" class="text-primary hover:underline">PEMF for Arthritis Relief</a></li>
+                <li><a href="/pemf-therapy-for-fibromyalgia-relief/" class="text-primary hover:underline">PEMF for Fibromyalgia</a></li>
+                <li><a href="/pemf-therapy-for-neuropathy/" class="text-primary hover:underline">PEMF for Neuropathy</a></li>
+                <li><a href="/pemf-for-dogs/" class="text-primary hover:underline">PEMF for Dogs</a></li>
+                <li><a href="/pemf-therapy-side-effects/" class="text-primary hover:underline">PEMF Side Effects</a></li>
+                <li><a href="/does-pemf-cause-cancer-examining-the-scientific-evidence/" class="text-primary hover:underline">Does PEMF Cause Cancer?</a></li>
+                <li><a href="/pemf-vs-tens/" class="text-primary hover:underline">PEMF vs TENS Comparison</a></li>
+                <li><a href="/pemf-vs-grounding-understanding-their-benefits-and-differences/" class="text-primary hover:underline">PEMF vs Grounding</a></li>
+                <li><a href="/gary-brecka-pemf-mat/" class="text-primary hover:underline">Gary Brecka's PEMF Mat</a></li>
+                <li><a href="/sparkle-mats-review/" class="text-primary hover:underline">Sparkle Mats Review</a></li>
+            </ul>
+        </section>
+
         <!-- Disclaimer -->
         <section class="bg-gray-100 p-6 rounded-lg">
             <p class="text-sm text-gray-600"><strong>Medical Disclaimer:</strong> This article is for informational purposes only and does not constitute medical advice. Red light therapy should not replace professional medical treatment. Consult your healthcare provider before starting any new treatment, especially if you have underlying health conditions. Individual results may vary.</p>
             <p class="text-sm text-gray-600 mt-2"><strong>Affiliate Disclosure:</strong> This page contains affiliate links. If you make a purchase through these links, I may earn a commission at no additional cost to you. I only recommend products I personally use and believe in.</p>
-            <p class="text-sm text-gray-600 mt-2"><em>Last updated: January 2025</em></p>
+            <p class="text-sm text-gray-600 mt-2"><em>Last updated: March 2026</em></p>
         </section>
 
     </main>

@@ -60,7 +60,7 @@ const SERVICES = [
         title: "Registered Nutrition Consulting",
         description: "Professional guidance to help you reach your health goals through practical, sustainable dietary changes.",
         category: "Holistic Nutrition",
-        url: "/services/services/nutrition-consulting/",
+        url: "/services/nutrition-consulting/",
         icon: Award,
         featured: true,
     },

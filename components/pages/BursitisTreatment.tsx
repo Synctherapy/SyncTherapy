@@ -226,7 +226,7 @@ export function BursitisTreatment() {
                             <h3 className="font-bold text-xl mb-2 text-blue-900">Joint Centration</h3>
                             <p className="text-sm text-slate-600">We restore proper joint tracking (e.g., how the humerus sits in the socket) so it stops rubbing against the bursa.</p>
                         </Link>
-                        <Link href="/services/services/nutrition-consulting/" className="block p-8 bg-white border border-gray-200 rounded-xl hover:border-blue-600 hover:shadow-xl transition-all group">
+                        <Link href="/services/nutrition-consulting/" className="block p-8 bg-white border border-gray-200 rounded-xl hover:border-blue-600 hover:shadow-xl transition-all group">
                             <div className="w-12 h-12 bg-blue-100 text-blue-600 rounded-lg flex items-center justify-center text-2xl mb-4 group-hover:bg-blue-600 group-hover:text-white transition-colors">🥑</div>
                             <h3 className="font-bold text-xl mb-2 text-blue-900">Systemic Support</h3>
                             <p className="text-sm text-slate-600">Chronic inflammation is often systemic. We can guide you on anti-inflammatory nutritional support.</p>

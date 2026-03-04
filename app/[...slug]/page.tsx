@@ -21,8 +21,8 @@ function formatDate(dateStr: string | undefined): string {
 }
 
 // ─── Category Detection ────────────────────────────────────────
-const RED_LIGHT_KEYWORDS = ['red-light', 'pemf', 'sauna', 'infrared', 'recovery-modali', 'cryo', 'photobiomodulation'];
-const GUT_HEALTH_KEYWORDS = ['gut', 'probiotic', 'prebiotic', 'hydrogen', 'alkaline', 'nutrient', 'supplement', 'leaky-gut', 'candida', 'ibs', 'acid-reflux', 'collagen', 'digestive', 'nutrition'];
+const RED_LIGHT_KEYWORDS = ['red-light', 'pemf', 'sauna', 'infrared', 'recovery-modali', 'cryo', 'photobiomodulation', 'grounding', 'wavelength', 'mitochondri', 'kala-', 'rouge-', 'mito-', 'infraredi', 'flexbeam', 'hooga', 'bon-charge', 'platinum-led', 'higherdose', 'healthyline', 'heat-healer', 'sunlighten', 'ringconn', 'anti-aging'];
+const GUT_HEALTH_KEYWORDS = ['gut', 'probiotic', 'prebiotic', 'hydrogen', 'alkaline', 'nutrient', 'supplement', 'leaky-gut', 'candida', 'ibs', 'acid-reflux', 'collagen', 'digestive', 'nutrition', 'seed-vs', 'culturelle', 'ritual', 'bioma', 'viome', 'megaspore', 'yourbiology', 'just-thrive', 'sauerkraut', 'fodmap', 'sibo', 'constipation', 'bloating', 'echo-', 'kangen', 'reverse-osmosis', 'fiber', 'triglyceride', 'gary-brecka', 'gi-map', 'amen-supplement', 'cymbiotika', 'ion-bottle', 'lourdes', 'dana-white', 'kim-kardashian', 'joe-rogan', 'cellpower', 'lumivitae'];
 
 function getCategoryFromSlug(slug: string, frontmatterCategory?: string): BlogCategory {
     // Explicit frontmatter category always wins
@@ -269,27 +269,26 @@ export default async function Page({ params }: Props) {
         const detectedCategory = getCategoryFromSlug(resolvedParams.slug.join('/'), item.frontmatter.category);
         const currentSlug = resolvedParams.slug.join('/');
 
-        // Fetch related posts from same category
+        // Fetch related posts from same category (slug-based pre-filter for performance)
         const allPaths = await getAllPaths();
+        const sameCategorySlugs = allPaths
+            .filter(p => p.slug[0] !== currentSlug && getCategoryFromSlug(p.slug[0]) === detectedCategory);
+
+        // Shuffle to get variety across builds, then load metadata for top candidates
+        const shuffled = sameCategorySlugs.sort(() => Math.random() - 0.5).slice(0, 12);
         const related = await Promise.all(
-            allPaths
-                .filter(p => p.slug[0] !== currentSlug)
-                .slice(0, 30) // Check a reasonable number
-                .map(async (p) => {
-                    const post = await getContentBySlug(p.slug);
-                    if (post && post.type === 'post') {
-                        const postCategory = getCategoryFromSlug(p.slug[0], post.frontmatter.category);
-                        if (postCategory === detectedCategory) {
-                            return {
-                                slug: p.slug[0],
-                                title: post.frontmatter.title,
-                                description: post.frontmatter.description,
-                                formattedDate: formatDate(post.frontmatter.date),
-                            };
-                        }
-                    }
-                    return null;
-                })
+            shuffled.map(async (p) => {
+                const post = await getContentBySlug(p.slug);
+                if (post && post.type === 'post') {
+                    return {
+                        slug: p.slug[0],
+                        title: post.frontmatter.title,
+                        description: post.frontmatter.description,
+                        formattedDate: formatDate(post.frontmatter.date),
+                    };
+                }
+                return null;
+            })
         );
         const relatedPosts = related.filter(Boolean).slice(0, 4) as { slug: string; title: string; description?: string; formattedDate?: string }[];
 

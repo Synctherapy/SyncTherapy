@@ -29,6 +29,10 @@ const nextConfig: NextConfig = {
             key: 'Content-Security-Policy',
             value: "frame-src 'self' https://www.youtube.com https://www.youtube-nocookie.com https://youtube.com https://youtube-nocookie.com;",
           },
+          {
+            key: 'Permissions-Policy',
+            value: 'camera=(), microphone=(), geolocation=()',
+          },
         ],
       },
     ];
