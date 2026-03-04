@@ -111,7 +111,7 @@ export function ServiceSchema({
                     '@type': 'ServiceChannel',
                     'serviceUrl': 'https://synctherapy.janeapp.com/',
                     'serviceSmsNumber': '+12508128698',
-                },
+                }
             }
             : {
                 '@type': 'MedicalCondition',
