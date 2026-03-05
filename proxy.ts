@@ -7,7 +7,7 @@ export function proxy(request: NextRequest) {
     default-src 'self';
     script-src 'self' 'unsafe-eval' 'unsafe-inline' https://va.vercel-scripts.com;
     style-src 'self' 'unsafe-inline';
-    img-src 'self' blob: data: https://lh3.googleusercontent.com https://avatar.vercel.sh;
+    img-src 'self' blob: data: https://lh3.googleusercontent.com https://avatar.vercel.sh https://img.youtube.com https://i.ytimg.com;
     font-src 'self';
     object-src 'none';
     base-uri 'self';
