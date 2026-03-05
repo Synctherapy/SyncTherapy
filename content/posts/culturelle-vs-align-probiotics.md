@@ -1,6 +1,7 @@
 ---
 title: "Align vs. Culturelle: Is Align Worth the Extra Cost?"
 date: "2025-07-13 04:34:36"
+dateModified: "2026-03-03 15:00:00"
 slug: culturelle-vs-align-probiotics
 description: >-
   Align vs Culturelle probiotics compared. Strains, price, and effectiveness
@@ -8,7 +9,7 @@ description: >-
 seoTitle: "Align vs Culturelle: Which Probiotic Is Better?"
 ---
 
-<!-- wp:html -->
+
 
     <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 
@@ -268,8 +269,8 @@ seoTitle: "Align vs Culturelle: Which Probiotic Is Better?"
         </main>
     </div>
 
-<!-- /wp:html -->
 
-<!-- wp:paragraph -->
+
+
 <p></p>
-<!-- /wp:paragraph -->
+

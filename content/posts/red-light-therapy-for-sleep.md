@@ -1,6 +1,7 @@
 ---
 title: "Red Light Therapy for Sleep (2026): Complete Science-Backed Guide"
 date: "2024-03-10 08:00:00"
+dateModified: "2026-02-05 09:45:00"
 slug: red-light-therapy-for-sleep
 description: >-
   How red light therapy improves sleep quality. Melatonin production, circadian
@@ -27,7 +28,7 @@ faqs:
     answer: Transcranial photobiomodulation (tPBM) delivers near-infrared light directly to the brain through the skull. Devices like the Vielight Neuro Pro 2 use this approach to target brain networks involved in sleep regulation. Research shows tPBM can improve sleep quality, reduce anxiety, and enhance cognitive function by increasing brain ATP production and modulating neural activity.
 ---
 
-<!-- wp:html -->
+
 
 <!-- Product Schema -->
 
@@ -831,4 +832,4 @@ faqs:
 <div class="sticky-cta">
     <a href="https://rougecare.ca/?ref=hphwim9l" target="_blank" rel="nofollow sponsored" class="affiliate-button w-full block text-center"><i class="fas fa-bolt mr-2"></i>Get Rouge G4 Pro — Best for Sleep</a>
 </div>
-<!-- /wp:html -->
+

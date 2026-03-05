@@ -1,6 +1,7 @@
 ---
 title: "Leaky Gut Diet: Simple Steps to Heal Your Digestive System"
 date: "2024-11-29 20:32:56"
+dateModified: "2026-03-01 09:30:00"
 slug: leaky-gut-diet
 description: >-
   Leaky gut is a hot topic in health circles. It happens when the lining of the
@@ -22,7 +23,7 @@ seoTitle: "Leaky Gut Diet: Simple Steps to Heal Your Digestive System"
 <p>This condition is also called increased intestinal permeability. It's not a official medical diagnosis, but many doctors recognize its effects. The gut lining becomes like a sieve, letting toxins and bacteria through.</p>
 <h3>Symptoms and Common Issues</h3>
 <p>Leaky gut can cause many symptoms. People often feel bloating, gas, and stomach pain. Some have diarrhea or constipation. Others notice skin problems or headaches.</p>
-<p>Many <a data-wpil="url" href="/gut-health-test/">experience fatigue</a> and brain fog. Joint pain is another common issue. Food sensitivities may develop or worsen. Some people get frequent infections.</p>
+<p>Many <a href="/gut-health-test/">experience fatigue</a> and brain fog. Joint pain is another common issue. Food sensitivities may develop or worsen. Some people get frequent infections.</p>
 <p>Leaky gut might play a role in other conditions too. These include:</p>
 <ul>
 <li>Celiac disease</li>

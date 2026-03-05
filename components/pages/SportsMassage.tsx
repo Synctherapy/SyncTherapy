@@ -104,7 +104,7 @@ export function SportsMassage() {
                         {/* Text Column */}
                         <div className="space-y-8">
                             <Badge variant="outline" className="border-blue-200 text-blue-700 bg-blue-50/50 backdrop-blur-sm px-4 py-1.5 text-sm">
-                                Voted Best Rehab Clinic (2022, 2023, 2024 Community Votes)
+                                Voted Best Rehab Clinic (2023, 2024, 2025 Community Votes)
                             </Badge>
                             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground font-sans leading-tight tracking-tight text-balance">
                                 Sports Massage & Athletic Recovery in Colwood

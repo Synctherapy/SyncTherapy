@@ -8,7 +8,7 @@ description: >-
 seoTitle: IT Band Syndrome Treatment Victoria | Sync
 ---
 
-<!-- wp:html -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -93,11 +93,11 @@ seoTitle: IT Band Syndrome Treatment Victoria | Sync
                         Or learn more about us:
                     </p>
                     <div class="flex justify-center items-center space-x-4 sm:space-x-6 mt-4 flex-wrap">
-                        <a data-wpil="url" href="/our-team/daryl-stubbs/" class="link-primary">Our Team</a>
+                        <a href="/our-team/daryl-stubbs/" class="link-primary">Our Team</a>
                         <span class="text-gray-300">|</span>
-                        <a data-wpil="url" href="/about/" class="link-primary">Why Us</a>
+                        <a href="/about/" class="link-primary">Why Us</a>
                         <span class="text-gray-300">|</span>
-                        <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" href="/contact/" class="link-primary">Contact Us</a>
+                        <a href="/contact/" class="link-primary">Contact Us</a>
                     </div>
                 </div>
             </div>
@@ -105,4 +105,4 @@ seoTitle: IT Band Syndrome Treatment Victoria | Sync
 
     </div>
 </html>
-<!-- /wp:html -->
+

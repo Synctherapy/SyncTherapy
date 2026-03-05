@@ -8,7 +8,7 @@ description: >-
 seoTitle: 'Deep Tissue Massage Victoria, BC | Colwood RMT'
 ---
 
-<!-- wp:html -->
+
 <meta name="keywords" content="deep tissue massage, registered massage therapy, RMT, Colwood, Langford, Victoria, chronic pain relief, muscle tension, sports massage, direct billing">
     
     <!-- Open Graph -->
@@ -63,7 +63,7 @@ seoTitle: 'Deep Tissue Massage Victoria, BC | Colwood RMT'
         "@type": "Service",
         "serviceType": "Deep Tissue Massage Therapy",
         "provider": {
-            "@id": "https://synctherapylocal.local/#business"
+            "@id": "https://www.synctherapy.ca/#business"
         },
         "areaServed": {
             "@type": "Place",
@@ -100,7 +100,7 @@ seoTitle: 'Deep Tissue Massage Victoria, BC | Colwood RMT'
     {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "@id": "https://synctherapylocal.local/#business",
+        "@id": "https://www.synctherapy.ca/#business",
         "name": "Sync Therapy",
         "address": {
             "@type": "PostalAddress",
@@ -191,7 +191,7 @@ seoTitle: 'Deep Tissue Massage Victoria, BC | Colwood RMT'
         <div class="container mx-auto">
             Home
             <span class="mx-2 text-text">›</span>
-            <a data-wpil="url" href="/services/" class="text-primary hover:underline">Services</a>
+            <a href="/services/" class="text-primary hover:underline">Services</a>
             <span class="mx-2 text-text">›</span>
             <span class="text-text">Deep Tissue Massage & RMT</span>
         </div>
@@ -229,8 +229,8 @@ seoTitle: 'Deep Tissue Massage Victoria, BC | Colwood RMT'
 
                     <p class="text-base text-text/70 mb-8">
                         Located in <strong>Colwood</strong>, we proudly serve clients from 
-                        <a data-wpil="url" href="/services/massage-therapy/" class="text-primary hover:underline">Colwood</a>, 
-                        <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LWxhbmdmb3JkLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LWxhbmdmb3JkLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LWxhbmdmb3JkLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LWxhbmdmb3JkLw==" href="/services/massage-therapy/" class="text-primary hover:underline">Langford</a>, 
+                        <a href="/services/massage-therapy/" class="text-primary hover:underline">Colwood</a>, 
+                        <a href="/services/massage-therapy/" class="text-primary hover:underline">Langford</a>, 
                         <a wpil="url" old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZS1hcmVhcy8=" href="/services/" class="text-primary hover:underline">Victoria</a>, 
                         and surrounding areas.
                     </p>
@@ -502,7 +502,7 @@ seoTitle: 'Deep Tissue Massage Victoria, BC | Colwood RMT'
                             </li>
                             <li class="flex items-center">
                                 <i data-lucide="check-circle" class="w-4 h-4 text-primary mr-2"></i>
-                                <a data-wpil="url" href="/services/myofascial-release/" class="text-text hover:text-primary">Myofascial Release Techniques</a>
+                                <a href="/services/myofascial-release/" class="text-text hover:text-primary">Myofascial Release Techniques</a>
                             </li>
                         </ul>
                         <ul class="space-y-2">
@@ -512,7 +512,7 @@ seoTitle: 'Deep Tissue Massage Victoria, BC | Colwood RMT'
                             </li>
                             <li class="flex items-center">
                                 <i data-lucide="check-circle" class="w-4 h-4 text-primary mr-2"></i>
-                                <a data-wpil="url" href="/services/sports-massage/" class="text-text hover:text-primary">Sports Deep Tissue Massage</a>
+                                <a href="/services/sports-massage/" class="text-text hover:text-primary">Sports Deep Tissue Massage</a>
                             </li>
                             <li class="flex items-center">
                                 <i data-lucide="check-circle" class="w-4 h-4 text-primary mr-2"></i>
@@ -587,7 +587,7 @@ seoTitle: 'Deep Tissue Massage Victoria, BC | Colwood RMT'
                 <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
                     <div class="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow">
                         <h3 class="font-semibold text-text mb-2">Chronic Back Pain</h3>
-                        <p class="text-sm text-text/70 mb-3"><a href="/services/massage-therapy/"  data-wpil-monitor-id="51">Deep tissue techniques target muscle adhesions and trigger points causing persistent lower back</a> and upper back pain.</p>
+                        <p class="text-sm text-text/70 mb-3"><a href="/services/massage-therapy/">Deep tissue techniques target muscle adhesions and trigger points causing persistent lower back</a> and upper back pain.</p>
                         <div class="flex items-center text-xs text-green-600 mb-2">
                             <i data-lucide="check-circle" class="w-3 h-3 mr-1"></i>
                             <span>Excellent insurance coverage</span>
@@ -754,7 +754,7 @@ seoTitle: 'Deep Tissue Massage Victoria, BC | Colwood RMT'
                 </div>
 
                 <div class="text-center mt-8">
-                    <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" href="/direct-billing/" class="text-primary hover:underline font-medium">                        View Complete Pricing & Insurance Information →                    </a>
+                    <a href="/direct-billing/" class="text-primary hover:underline font-medium">                        View Complete Pricing & Insurance Information →                    </a>
                 </div>
             </div>
         </div>
@@ -860,7 +860,7 @@ seoTitle: 'Deep Tissue Massage Victoria, BC | Colwood RMT'
                                 <h4 class="font-semibold mb-2 text-text">Convenient Location</h4>
                                 <p class="text-sm text-text/70">
                                     Easily accessible from Langford, Victoria, and surrounding areas. Free parking and ground floor accessibility for all deep tissue massage appointments.
-                                 In addition to deep tissue massages, we offer a variety of back pain treatment options in Victoria tailored to meet individual needs. Our skilled therapists are dedicated to helping you find relief and improve your overall well-being. Experience the calming atmosphere and personalized care that sets us apart in the community. In addition to our deep tissue massages, we also specialize in <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvdmlzY2VyYWwtbWFuaXB1bGF0aW9uLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvdmlzY2VyYWwtbWFuaXB1bGF0aW9uLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvdmlzY2VyYWwtbWFuaXB1bGF0aW9uLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvdmlzY2VyYWwtbWFuaXB1bGF0aW9uLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvdmlzY2VyYWwtbWFuaXB1bGF0aW9uLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvdmlzY2VyYWwtbWFuaXB1bGF0aW9uLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvdmlzY2VyYWwtbWFuaXB1bGF0aW9uLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvdmlzY2VyYWwtbWFuaXB1bGF0aW9uLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvdmlzY2VyYWwtbWFuaXB1bGF0aW9uLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvdmlzY2VyYWwtbWFuaXB1bGF0aW9uLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvdmlzY2VyYWwtbWFuaXB1bGF0aW9uLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvdmlzY2VyYWwtbWFuaXB1bGF0aW9uLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvdmlzY2VyYWwtbWFuaXB1bGF0aW9uLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvdmlzY2VyYWwtbWFuaXB1bGF0aW9uLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvdmlzY2VyYWwtbWFuaXB1bGF0aW9uLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvdmlzY2VyYWwtbWFuaXB1bGF0aW9uLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvdmlzY2VyYWwtbWFuaXB1bGF0aW9uLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvdmlzY2VyYWwtbWFuaXB1bGF0aW9uLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvdmlzY2VyYWwtbWFuaXB1bGF0aW9uLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvdmlzY2VyYWwtbWFuaXB1bGF0aW9uLXZpY3RvcmlhLw==" href="/services/visceral-manipulation/">visceral manipulation in Victoria BC</a>, a technique designed to address internal organ health and promote holistic healing. This approach enhances the body’s ability to function optimally by focusing on the connections between the organs and surrounding tissues. Trust our experienced practitioners to guide you on your journey to wellness with tailored treatments that cater to your unique needs.</p>
+                                 In addition to deep tissue massages, we offer a variety of back pain treatment options in Victoria tailored to meet individual needs. Our skilled therapists are dedicated to helping you find relief and improve your overall well-being. Experience the calming atmosphere and personalized care that sets us apart in the community. In addition to our deep tissue massages, we also specialize in <a href="/services/visceral-manipulation/">visceral manipulation in Victoria BC</a>, a technique designed to address internal organ health and promote holistic healing. This approach enhances the body’s ability to function optimally by focusing on the connections between the organs and surrounding tissues. Trust our experienced practitioners to guide you on your journey to wellness with tailored treatments that cater to your unique needs.</p>
                             </div>
                         </div>
                     </div>
@@ -884,7 +884,7 @@ seoTitle: 'Deep Tissue Massage Victoria, BC | Colwood RMT'
             <h2 class="text-3xl font-heading font-bold mb-4">Ready for Deep Tissue Massage Relief?</h2>
             <p class="text-xl mb-8 opacity-90">
                 Book your deep tissue massage therapy session today and experience targeted relief from chronic pain and muscle tension.
-             Our skilled therapists utilize a range of techniques to address your specific needs and promote relaxation. Discover the benefits of our professional <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LXZpY3RvcmlhLw==" href="/services/massage-therapy/">massage therapy services in Victoria</a>, where your well-being is our top priority. Schedule your appointment now and take the first step towards a more comfortable and pain-free life. Our comprehensive approach includes customized back pain treatment options in Victoria that cater to your unique situation. Whether you're seeking relief from sports injuries, postural imbalances, or stress-related tension, we are here to support you on your journey to recovery. Let us help you regain your mobility and enhance your overall quality of life through our specialized services.</p>
+             Our skilled therapists utilize a range of techniques to address your specific needs and promote relaxation. Discover the benefits of our professional <a href="/services/massage-therapy/">massage therapy services in Victoria</a>, where your well-being is our top priority. Schedule your appointment now and take the first step towards a more comfortable and pain-free life. Our comprehensive approach includes customized back pain treatment options in Victoria that cater to your unique situation. Whether you're seeking relief from sports injuries, postural imbalances, or stress-related tension, we are here to support you on your journey to recovery. Let us help you regain your mobility and enhance your overall quality of life through our specialized services.</p>
             <div class="flex flex-col sm:flex-row gap-4 justify-center">
                 <a href="https://synctherapy.janeapp.com/" target="_blank" rel="noopener noreferrer" 
                    class="inline-flex items-center justify-center px-6 py-3 bg-white text-primary hover:bg-neutral-DEFAULT font-medium rounded-lg transition-colors">
@@ -913,10 +913,10 @@ seoTitle: 'Deep Tissue Massage Victoria, BC | Colwood RMT'
                         <h3 class="text-lg font-heading font-semibold text-text mb-4">Complementary Therapies</h3>
                         <ul class="space-y-3">
                             <li>
-                                <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" href="/services/athletic-therapy/" class="text-primary hover:underline">Athletic Therapy</a>
+                                <a href="/services/athletic-therapy/" class="text-primary hover:underline">Athletic Therapy</a>
                             </li>
                             <li>
-                                <a data-wpil="url" href="/services/nutrition-consulting/" class="text-primary hover:underline">Holistic Nutrition</a>
+                                <a href="/services/nutrition-consulting/" class="text-primary hover:underline">Holistic Nutrition</a>
                             </li>
                         </ul>
                     </div>
@@ -925,13 +925,13 @@ seoTitle: 'Deep Tissue Massage Victoria, BC | Colwood RMT'
                         <h3 class="text-lg font-heading font-semibold text-text mb-4">Deep Tissue Massage Info</h3>
                         <ul class="space-y-3">
                             <li>
-                                <a wpil="url" old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" href="/our-team/daryl-stubbs/" class="text-primary hover:underline">About Our RMT</a>
+                                <a wpil="url" old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" href="/our-team/daryl-stubbs/" class="text-primary hover:underline">About Our RMT</a>
                             </li>
                             <li>
                                 Deep Tissue FAQ
                             </li>
                             <li>
-                                <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" href="/direct-billing/" class="text-primary hover:underline">Rates & Billing</a>
+                                <a href="/direct-billing/" class="text-primary hover:underline">Rates & Billing</a>
                             </li>
                         </ul>
                     </div>
@@ -940,7 +940,7 @@ seoTitle: 'Deep Tissue Massage Victoria, BC | Colwood RMT'
                         <h3 class="text-lg font-heading font-semibold text-text mb-4">Get In Touch</h3>
                         <ul class="space-y-3">
                             <li>
-                                <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" href="/contact/" class="text-primary hover:underline">Contact Us</a>
+                                <a href="/contact/" class="text-primary hover:underline">Contact Us</a>
                             </li>
                             <li>
                                 <a href="https://www.google.com/maps/place/Sync+Massage+Therapy/@48.4454689,-123.4745349,17z/data=!3m1!4b1!4m6!3m5!1s0x548f74851cb74787:0xeacdf009885e6cb5!8m2!3d48.445469!4d-123.4699215!16s%2Fg%2F11b6gptl28?entry=tts&amp;g_ep=EgoyMDI1MDcwOC4wIPu8ASoASAFQAw%3D%3D&amp;skid=5df59fd5-a859-4f7e-85e5-3eb02142eae0" class="text-primary hover:underline">Client Reviews</a>
@@ -1105,4 +1105,4 @@ seoTitle: 'Deep Tissue Massage Victoria, BC | Colwood RMT'
             lucide.createIcons();
         });
     </script>
-<!-- /wp:html -->
+

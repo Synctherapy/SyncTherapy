@@ -1,6 +1,7 @@
 ---
 title: The Transformative Benefits of Infrared Sauna Blankets
 date: "2024-10-09 07:00:00"
+dateModified: "2026-02-28 09:00:00"
 slug: sauna-blanket-benefits
 description: >-
   In the ever-evolving world of wellness and self-care, one innovative tool has

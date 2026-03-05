@@ -8,7 +8,7 @@ description: >-
 seoTitle: Conditions We Treat | Sync Massage Therapy
 ---
 
-<!-- wp:html -->
+
         <style>
         body {
             font-family: Arial, Helvetica, sans-serif;
@@ -1099,4 +1099,4 @@ seoTitle: Conditions We Treat | Sync Massage Therapy
             document.querySelector('.category-tab').classList.add('active', 'bg-blue-600', 'text-white');
         });
     </script>
-<!-- /wp:html -->
+

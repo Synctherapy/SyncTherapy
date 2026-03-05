@@ -9,7 +9,7 @@ description: >-
 seoTitle: Our RMT
 ---
 
-<!-- wp:html -->
+
 <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
@@ -390,7 +390,7 @@ seoTitle: Our RMT
             <nav>
                 <a href="/">Home</a>
                 <span> / </span>
-                <a data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" href="/our-team/daryl-stubbs/">Our Team</a>
+                <a href="/our-team/daryl-stubbs/">Our Team</a>
                 <span> / </span>
                 <span class="current">Daryl Stubbs RMT</span>
             </nav>
@@ -489,7 +489,7 @@ seoTitle: Our RMT
                                 <ul class="list-none">
                                     <li class="list-item">
                                         <div class="list-dot dot-secondary"></div>
-                                        <a wpil="url" old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYQ==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9zZXJ2aWNlcy9kZWVwLXRpc3N1ZS1tYXNzYWdlLXZpY3Rvcmlh" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9zZXJ2aWNlcy9kZWVwLXRpc3N1ZS1tYXNzYWdlLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9zZXJ2aWNlcy9kZWVwLXRpc3N1ZS1tYXNzYWdlLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYQ==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" href="/services/deep-tissue-massage/">Deep Tissue Massage</a>
+                                        <a wpil="url" old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYQ==" href="/services/deep-tissue-massage/">Deep Tissue Massage</a>
                                     </li>
                                     <li class="list-item">
                                         <div class="list-dot dot-secondary"></div>
@@ -628,11 +628,11 @@ seoTitle: Our RMT
         <div class="footer-links">
             <h3 class="font-poppins">Learn More About Our Team & Services</h3>
             <div class="footer-nav">
-                <a data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" href="/our-team/daryl-stubbs/">Meet Our Full Team</a>
+                <a href="/our-team/daryl-stubbs/">Meet Our Full Team</a>
                 <span class="footer-separator">|</span>
                 <a href="/services/">All Services</a>
                 <span class="footer-separator">|</span>
-                <a data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" data-wpil="url" data-wpil-url-old="L2NvbnRhY3Qv" href="/contact/">Contact Us</a>
+                <a href="/contact/">Contact Us</a>
                 <span class="footer-separator">|</span>
                 Our Locations
             </div>
@@ -652,7 +652,7 @@ seoTitle: Our RMT
         "Massage Therapy Specialist"
     ],
     "description": "Daryl Stubbs is a Registered Massage Therapist (RMT) serving Langford and Colwood, BC. With over 7 years of experience, he specializes in deep tissue massage, sports injury rehabilitation, and visceral manipulation.",
-    "url": "https://synctherapylocal.local/about/daryl-stubbs-rmt",
+    "url": "https://www.synctherapy.ca/about/daryl-stubbs-rmt",
     "image": "/uploads/2025/06/Daryl-is-an-RMT-in-Colwood-scaled.jpg",
     "email": "daryl@synctherapy.ca",
     "telephone": "+1-250-812-8698",
@@ -667,8 +667,8 @@ seoTitle: Our RMT
     "worksFor": {
       "@type": "MedicalBusiness",
       "name": "Sync Massage Therapy",
-      "url": "https://synctherapylocal.local",
-      "sameAs": "https://synctherapylocal.local"
+      "url": "https://www.synctherapy.ca",
+      "sameAs": "https://www.synctherapy.ca"
     },
     "alumniOf": {
       "@type": "CollegeOrUniversity",
@@ -710,8 +710,8 @@ seoTitle: Our RMT
     <script>
         lucide.createIcons();
     </script>
-<!-- /wp:html -->
 
-<!-- wp:paragraph -->
+
+
 <p></p>
-<!-- /wp:paragraph -->
+

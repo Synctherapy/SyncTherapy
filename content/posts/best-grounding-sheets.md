@@ -1,6 +1,7 @@
 ---
 title: 5 Best Grounding Sheets in Canada (2026) | Do They Work?
 date: "2026-02-28"
+dateModified: "2026-03-03 09:30:00"
 slug: best-grounding-sheets
 description: >-
   Five best grounding sheets available in Canada for 2026. Do they work?

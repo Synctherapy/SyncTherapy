@@ -9,7 +9,7 @@ description: >-
 seoTitle: Red Light Therapy Infographic 2026
 ---
 
-<!-- wp:html -->
+
 <div id="sync-infographic-wrapper">
     <!-- INTERNAL STYLES (No External Scripts Required) -->
     <style>
@@ -438,8 +438,8 @@ seoTitle: Red Light Therapy Infographic 2026
     <div class="embed-section">
         <h3 style="margin-top:0; color:#0f172a;">Share This Guide</h3>
         <p style="font-size:14px; margin-bottom:12px; color:#64748b;">Copy the code below to embed this infographic on your site.</p>
-        <textarea readonly onclick="this.select();"><iframe src="https://synctherapylocal.local/red-light-therapy/" width="100%" height="2000" style="border:none;" loading="lazy"></iframe><br><small>Source: <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvcmVkLWxpZ2h0LXRoZXJhcHkv" href="/red-light-therapy/">Sync Therapy</a></small></textarea>
+        <textarea readonly onclick="this.select();"><iframe src="https://www.synctherapy.ca/red-light-therapy/" width="100%" height="2000" style="border:none;" loading="lazy"></iframe><br><small>Source: <a href="/red-light-therapy/">Sync Therapy</a></small></textarea>
     </div>
 
 </div>
-<!-- /wp:html -->
+

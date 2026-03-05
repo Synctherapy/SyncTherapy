@@ -14,8 +14,8 @@ interface WhyChooseSectionProps {
 const defaultReasons = [
   {
     icon: Award,
-    title: "6x Award Winner",
-    description: "Voted Best Massage & Rehab Clinic by Community Votes Victoria six years running (2019-2024).",
+    title: "8x Award Winner",
+    description: "Voted Best Massage & Rehab Clinic by Community Votes Victoria eight years running (2019-2025).",
   },
   {
     icon: Star,

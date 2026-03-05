@@ -1,6 +1,7 @@
 ---
 title: "Best Hydrogen Water Machine 2026: 6 Top Models Tested & Compared"
 date: "2026-02-28"
+dateModified: "2026-03-03 09:00:00"
 slug: best-hydrogen-water-machines
 description: >-
   Best hydrogen water machines for 2026. Six top models tested and compared for

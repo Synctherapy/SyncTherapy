@@ -9,7 +9,7 @@ description: >-
 seoTitle: Home
 ---
 
-<!-- wp:html -->
+
 <!-- Wrap all content in a namespace to prevent conflicts -->
 <div class="sync-page-content">
 
@@ -421,7 +421,7 @@ seoTitle: Home
                         </li>
                     </ul>
                 </div>
-                <a data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL21hc3NhZ2UtdGhlcmFweS1jb2x3b29kLw==" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL21hc3NhZ2UtdGhlcmFweS1jb2x3b29kLw==" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL21hc3NhZ2UtdGhlcmFweS1jb2x3b29kLw==" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL21hc3NhZ2UtdGhlcmFweS1jb2x3b29kLw==" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL21hc3NhZ2UtdGhlcmFweS1jb2x3b29kLw==" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL21hc3NhZ2UtdGhlcmFweS1jb2x3b29kLw==" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL21hc3NhZ2UtdGhlcmFweS1jb2x3b29kLw==" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL21hc3NhZ2UtdGhlcmFweS1jb2x3b29kLw==" href="/services/massage-therapy/" class="btn-accent w-full text-center mb-2">Book 60-Minute Session</a>
+                <a href="/services/massage-therapy/" class="btn-accent w-full text-center mb-2">Book 60-Minute Session</a>
                 <a href="/services/massage-therapy/" class="text-sm text-primary hover:underline block text-center">
                     Learn more about massage therapy →
                 </a>
@@ -466,7 +466,7 @@ seoTitle: Home
                         </li>
                     </ul>
                 </div>
-                <a data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktdmljdG9yaWEv" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktdmljdG9yaWEv" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktdmljdG9yaWEv" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktdmljdG9yaWEv" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktdmljdG9yaWEv" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktdmljdG9yaWEv" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktdmljdG9yaWEv" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktdmljdG9yaWEv" href="/services/athletic-therapy/" class="btn-primary w-full text-center mb-2">Schedule 60-Minute Assessment</a>
+                <a href="/services/athletic-therapy/" class="btn-primary w-full text-center mb-2">Schedule 60-Minute Assessment</a>
                 <a href="/services/athletic-therapy/" class="text-sm text-primary hover:underline block text-center">
                     Learn more about athletic therapy →
                 </a>
@@ -511,7 +511,7 @@ seoTitle: Home
                         </li>
                     </ul>
                 </div>
-                <a data-wpil="url" data-wpil-url-old="L2NvbmRpdGlvbnMv" data-wpil="url" data-wpil-url-old="L2NvbmRpdGlvbnMv" data-wpil="url" data-wpil-url-old="L2NvbmRpdGlvbnMv" data-wpil="url" data-wpil-url-old="L2NvbmRpdGlvbnMv" data-wpil="url" data-wpil-url-old="L2NvbmRpdGlvbnMv" data-wpil="url" data-wpil-url-old="L2NvbmRpdGlvbnMv" data-wpil="url" data-wpil-url-old="L2NvbmRpdGlvbnMv" data-wpil="url" data-wpil-url-old="L2NvbmRpdGlvbnMv" href="/conditions/" class="btn-primary w-full text-center mb-2">View All Conditions</a>
+                <a href="/conditions/" class="btn-primary w-full text-center mb-2">View All Conditions</a>
                 <a href="/conditions/" class="text-sm text-primary hover:underline block text-center">
                     Learn more about conditions we treat →
                 </a>
@@ -628,7 +628,7 @@ seoTitle: Home
                 </div>
                 <h3 class="font-semibold text-text mb-2">View All Conditions</h3>
                 <p class="text-sm text-text/70 mb-4">Explore our complete range of treatable conditions</p>
-                <a data-wpil="url" data-wpil-url-old="L2NvbmRpdGlvbnMv" data-wpil="url" data-wpil-url-old="L2NvbmRpdGlvbnMv" data-wpil="url" data-wpil-url-old="L2NvbmRpdGlvbnMv" data-wpil="url" data-wpil-url-old="L2NvbmRpdGlvbnMv" data-wpil="url" data-wpil-url-old="L2NvbmRpdGlvbnMv" data-wpil="url" data-wpil-url-old="L2NvbmRpdGlvbnMv" data-wpil="url" data-wpil-url-old="L2NvbmRpdGlvbnMv" data-wpil="url" data-wpil-url-old="L2NvbmRpdGlvbnMv" href="/conditions/" class="btn-accent text-sm px-6 py-2">See All Conditions</a>
+                <a href="/conditions/" class="btn-accent text-sm px-6 py-2">See All Conditions</a>
             </div>
         </div>
     </div>
@@ -649,7 +649,7 @@ seoTitle: Home
                     <p class="text-text/70">We bill your insurance directly - no upfront payment required</p>
                 </div>
             </div>
-            <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" href="/direct-billing/" class="btn-accent px-6 py-3">Learn About Direct Billing</a>
+            <a href="/direct-billing/" class="btn-accent px-6 py-3">Learn About Direct Billing</a>
         </div>
     </div>
 </section>
@@ -729,7 +729,7 @@ seoTitle: Home
                 <p class="text-text/70 mb-6 leading-relaxed">
                     Award-winning registered massage therapist with over 10 years of experience in therapeutic massage, pain management, and wellness care.
                 </p>
-                <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9vdXItdGVhbS9ybXQtZGFyeWwtc3R1YmJz" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9vdXItdGVhbS9ybXQtZGFyeWwtc3R1YmJzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9vdXItdGVhbS9ybXQtZGFyeWwtc3R1YmJzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" href="/our-team/daryl-stubbs/" class="btn-accent px-6 py-2 mb-2 w-full text-center">View RMT Langford Profile</a>
+                <a href="/our-team/daryl-stubbs/" class="btn-accent px-6 py-2 mb-2 w-full text-center">View RMT Langford Profile</a>
             </div>
             <div class="card p-8 text-center bg-white hover:shadow-xl transition-all duration-300">
                 <div class="w-24 h-24 rounded-full overflow-hidden mx-auto mb-6">
@@ -744,7 +744,7 @@ seoTitle: Home
             </div>
         </div>
         <div class="text-center">
-            <a data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" data-wpil="url" data-wpil-url-old="L291ci10ZWFtLw==" href="/our-team/daryl-stubbs/" class="btn-outline px-8 py-3">Meet Our Full Team</a>
+            <a href="/our-team/daryl-stubbs/" class="btn-outline px-8 py-3">Meet Our Full Team</a>
         </div>
     </div>
 </section>
@@ -1229,8 +1229,8 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 
 </div>
-<!-- /wp:html -->
 
-<!-- wp:paragraph -->
+
+
 <p></p>
-<!-- /wp:paragraph -->
+

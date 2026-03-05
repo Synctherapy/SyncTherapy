@@ -8,7 +8,7 @@ description: >-
 seoTitle: Our Team | Sync Massage Therapy Colwood
 ---
 
-<!-- wp:html -->
+
 <!-- Google Fonts -->
         
     <!-- Font Awesome for Icons -->
@@ -1034,25 +1034,25 @@ seoTitle: Our Team | Sync Massage Therapy Colwood
                 <div class="footer-column">
                     <h3>Learn More About Us</h3>
                     <a href="/about/">About Sync Therapy</a>
-                    <a data-wpil="url" href="/about/">Why Choose Us</a>
+                    <a href="/about/">Why Choose Us</a>
                 </div>
                 <div class="footer-column">
                     <h3>Our Services</h3>
-                    <a data-wpil="url" href="/services/">All Services</a>
-                    <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGlyZWN0LWJpbGxpbmctbWFzc2FnZS8=" href="/direct-billing/">Direct Billing</a>
+                    <a href="/services/">All Services</a>
+                    <a href="/direct-billing/">Direct Billing</a>
                 </div>
                 <div class="footer-column">
                     <h3>Conditions We Treat</h3>
-                    <a data-wpil="url" href="/conditions/back-pain/">Back Pain</a>
+                    <a href="/conditions/back-pain/">Back Pain</a>
                     <a href="/conditions/sports-injuries-and-prevention/">Sports Injuries</a>
                 </div>
                 <div class="footer-column">
                     <h3>Locations</h3>
-                    <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LXZpY3RvcmlhLw==" href="/services/massage-therapy/">Victoria</a>
-                    <a data-wpil="url" href="/services/massage-therapy/">Colwood</a>
-                    <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LWxhbmdmb3JkLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LWxhbmdmb3JkLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LWxhbmdmb3JkLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvbWFzc2FnZS10aGVyYXB5LWxhbmdmb3JkLw==" href="/services/massage-therapy/">Langford</a>
+                    <a href="/services/massage-therapy/">Victoria</a>
+                    <a href="/services/massage-therapy/">Colwood</a>
+                    <a href="/services/massage-therapy/">Langford</a>
                 </div>
             </div>
         </div>
     </section>
-<!-- /wp:html -->
+

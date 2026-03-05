@@ -9,7 +9,7 @@ description: >-
 seoTitle: Athletic Therapy Colwood
 ---
 
-<!-- wp:html -->
+
 <meta name="keywords" content="athletic therapist colwood, athletic therapy colwood bc, find athletic therapist colwood, sports injury rehabilitation colwood, athletic therapist near me colwood, certified athletic therapist colwood bc, sports medicine colwood">
 
     <style>
@@ -138,7 +138,7 @@ seoTitle: Athletic Therapy Colwood
 
     <div class="container">
 
-        <a href="/">Home</a> › <a href="/services/">Services</a> › <a data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" data-wpil="url" data-wpil-url-old="L3NlcnZpY2VzL2F0aGxldGljLXRoZXJhcHktY29sd29vZC8=" href="/services/athletic-therapy/">Athletic Therapy Colwood</a>
+        <a href="/">Home</a> › <a href="/services/">Services</a> › <a href="/services/athletic-therapy/">Athletic Therapy Colwood</a>
 
     </div>
 
@@ -190,9 +190,9 @@ seoTitle: Athletic Therapy Colwood
 
                     Your trusted athletic therapist in Colwood BC, proudly serving 
 
-                    <a data-wpil="url" href="/services/athletic-therapy/" style="color: var(--primary-color);">Colwood</a>, 
+                    <a href="/services/athletic-therapy/" style="color: var(--primary-color);">Colwood</a>, 
 
-                    <a data-wpil="url" href="/services/athletic-therapy/" style="color: var(--primary-color);">Langford</a>, 
+                    <a href="/services/athletic-therapy/" style="color: var(--primary-color);">Langford</a>, 
 
                     and the greater West Shore area. Find an athletic therapist near you in Colwood.
 
@@ -414,7 +414,7 @@ seoTitle: Athletic Therapy Colwood
 
                     <ul style="text-align: left; font-size: 0.9rem; line-height: 1.6;">
 
-                        <li><a data-wpil="url" href="/services/" style="color: var(--primary-color);">Sprains & Strains</a></li>
+                        <li><a href="/services/" style="color: var(--primary-color);">Sprains & Strains</a></li>
 
                         <li>Sports Injury Prevention</li>
 
@@ -438,11 +438,11 @@ seoTitle: Athletic Therapy Colwood
 
                     <ul style="text-align: left; font-size: 0.9rem; line-height: 1.6;">
 
-                        <li><a data-wpil="url" href="/conditions/chronic-pain/" style="color: var(--primary-color);">Chronic Pain</a></li>
+                        <li><a href="/conditions/chronic-pain/" style="color: var(--primary-color);">Chronic Pain</a></li>
 
                         <li><a href="/conditions/back-pain/" style="color: var(--primary-color);">Back Pain</a></li>
 
-                        <li><a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9oZWFkYWNoZXMtYW5kLW5lY2stcGFpbi8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9oZWFkYWNoZXMtYW5kLW5lY2stcGFpbi8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9oZWFkYWNoZXMtYW5kLW5lY2stcGFpbi8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9oZWFkYWNoZXMtYW5kLW5lY2stcGFpbi8=" href="/conditions/headaches-migraines/" style="color: var(--primary-color);">Neck Pain & Headaches</a></li>
+                        <li><a href="/conditions/headaches-migraines/" style="color: var(--primary-color);">Neck Pain & Headaches</a></li>
 
                         <li><a href="/services/" style="color: var(--primary-color);">Muscle Tension</a></li>
 
@@ -462,7 +462,7 @@ seoTitle: Athletic Therapy Colwood
 
                     <ul style="text-align: left; font-size: 0.9rem; line-height: 1.6;">
 
-                        <li><a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLWNvbHdvb2Qv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJj" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" href="/conditions/shoulder-pain/" style="color: var(--primary-color);">Shoulder Pain</a></li>
+                        <li><a href="/conditions/shoulder-pain/" style="color: var(--primary-color);">Shoulder Pain</a></li>
 
                         <li><a href="/conditions/hip-and-knee-pain/" style="color: var(--primary-color);">Hip & Knee Pain</a></li>
 
@@ -922,7 +922,7 @@ seoTitle: Athletic Therapy Colwood
 
                     <p style="margin-bottom: 30px; line-height: 1.6; color: var(--text-color);">
 
-                        With over a decade of clinical experience and 12+ years as a certified athletic therapist serving Colwood and the West Shore, Daryl brings extensive knowledge in <a href="/conditions/sports-injuries-and-prevention/"  data-wpil-monitor-id="7900">sports injury rehabilitation</a> and performance enhancement to Sync Therapy. His approach combines evidence-based athletic therapy techniques with personalized treatment plans, helping Colwood athletes and active individuals recover from injuries and optimize their performance.
+                        With over a decade of clinical experience and 12+ years as a certified athletic therapist serving Colwood and the West Shore, Daryl brings extensive knowledge in <a href="/conditions/sports-injuries-and-prevention/">sports injury rehabilitation</a> and performance enhancement to Sync Therapy. His approach combines evidence-based athletic therapy techniques with personalized treatment plans, helping Colwood athletes and active individuals recover from injuries and optimize their performance.
 
                     </p>
 
@@ -1428,13 +1428,13 @@ seoTitle: Athletic Therapy Colwood
 
                         <li style="margin-bottom: 10px;">
 
-                            <a data-wpil="url" href="/about/" style="color: var(--primary-color); text-decoration: none;">Why Choose Us</a>
+                            <a href="/about/" style="color: var(--primary-color); text-decoration: none;">Why Choose Us</a>
 
                         </li>
 
                         <li style="margin-bottom: 10px;">
 
-                            <a data-wpil="url" href="/our-team/daryl-stubbs/" style="color: var(--primary-color); text-decoration: none;">Our Team</a>
+                            <a href="/our-team/daryl-stubbs/" style="color: var(--primary-color); text-decoration: none;">Our Team</a>
 
                         </li>
 
@@ -1450,19 +1450,19 @@ seoTitle: Athletic Therapy Colwood
 
                         <li style="margin-bottom: 10px;">
 
-                            <a data-wpil="url" href="/services/athletic-therapy/" style="color: var(--primary-color); text-decoration: none;">Athletic Therapy Colwood</a>
+                            <a href="/services/athletic-therapy/" style="color: var(--primary-color); text-decoration: none;">Athletic Therapy Colwood</a>
 
                         </li>
 
                         <li style="margin-bottom: 10px;">
 
-                            <a data-wpil="url" href="/services/athletic-therapy/" style="color: var(--primary-color); text-decoration: none;">Athletic Therapy Langford</a>
+                            <a href="/services/athletic-therapy/" style="color: var(--primary-color); text-decoration: none;">Athletic Therapy Langford</a>
 
                         </li>
 
                         <li style="margin-bottom: 10px;">
 
-                            <a data-wpil="url" href="/services/massage-therapy/" style="color: var(--primary-color); text-decoration: none;">Massage Therapy Colwood</a>
+                            <a href="/services/massage-therapy/" style="color: var(--primary-color); text-decoration: none;">Massage Therapy Colwood</a>
 
                         </li>
 
@@ -1484,13 +1484,13 @@ seoTitle: Athletic Therapy Colwood
 
                         <li style="margin-bottom: 10px;">
 
-                            <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLWNvbHdvb2Qv" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJj" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" href="/conditions/shoulder-pain/" style="color: var(--primary-color); text-decoration: none;">Shoulder Pain Relief</a>
+                            <a href="/conditions/shoulder-pain/" style="color: var(--primary-color); text-decoration: none;">Shoulder Pain Relief</a>
 
                         </li>
 
                         <li style="margin-bottom: 10px;">
 
-                            <a data-wpil="url" href="/conditions/chronic-pain/" style="color: var(--primary-color); text-decoration: none;">Chronic Pain Management</a>
+                            <a href="/conditions/chronic-pain/" style="color: var(--primary-color); text-decoration: none;">Chronic Pain Management</a>
 
                         </li>
 
@@ -1718,11 +1718,11 @@ if (window.innerWidth > 768) {
   "@graph": [
     {
       "@type": "Service",
-      "@id": "https://synctherapylocal.local/services/athletic-therapy/#service",
+      "@id": "https://www.synctherapy.ca/services/athletic-therapy/#service",
       "name": "Athletic Therapy Colwood",
       "description": "Premier athletic therapy services in Colwood BC for sports injury rehabilitation, performance enhancement, and injury prevention. Over 8000 successful treatment sessions delivered by certified Athletic Therapist.",
-      "provider": { "@id": "https://synctherapylocal.local/#clinic" },
-      "url": "https://synctherapylocal.local/services/athletic-therapy/",
+      "provider": { "@id": "https://www.synctherapy.ca/#clinic" },
+      "url": "https://www.synctherapy.ca/services/athletic-therapy/",
       "areaServed": [ 
         {
           "@type": "City",
@@ -1748,7 +1748,7 @@ if (window.innerWidth > 768) {
         "priceCurrency": "CAD",
         "price": "130.00",
         "availability": "https://schema.org/InStock",
-        "url": "https://synctherapylocal.local/services/athletic-therapy/"
+        "url": "https://www.synctherapy.ca/services/athletic-therapy/"
       },
       "hasOfferCatalog": {
         "@type": "OfferCatalog",
@@ -1773,12 +1773,12 @@ if (window.innerWidth > 768) {
     },
     {
       "@type": "MedicalClinic",
-      "@id": "https://synctherapylocal.local/#clinic",
+      "@id": "https://www.synctherapy.ca/#clinic",
       "name": "Sync Therapy - Athletic Therapist Colwood",
       "description": "Award-winning athletic therapy clinic serving Colwood BC. Over 8000 treatment sessions completed, serving athletes and active individuals in Colwood, Langford, and greater Victoria area.",
-      "url": "https://synctherapylocal.local/",
-      "logo": "https://synctherapylocal.local/wp-content/uploads/2025/04/sync-therapy-logo.png",
-      "image": "https://synctherapylocal.local/wp-content/uploads/2025/04/colwood-athletic-therapy-clinic.jpg",
+      "url": "https://www.synctherapy.ca/",
+      "logo": "https://www.synctherapy.ca/wp-content/uploads/2025/04/sync-therapy-logo.png",
+      "image": "https://www.synctherapy.ca/wp-content/uploads/2025/04/colwood-athletic-therapy-clinic.jpg",
       "telephone": "+1-250-812-8698",
       "priceRange": "$$",
       "paymentAccepted": "Cash, Credit Card, Insurance Direct Billing",
@@ -1921,25 +1921,25 @@ if (window.innerWidth > 768) {
       "@type": "ListItem",
       "position": 1,
       "name": "Home",
-      "item": "https://synctherapylocal.local/"
+      "item": "https://www.synctherapy.ca/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Services",
-      "item": "https://synctherapylocal.local/services/"
+      "item": "https://www.synctherapy.ca/services/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "Athletic Therapy Colwood",
-      "item": "https://synctherapylocal.local/services/athletic-therapy/"
+      "item": "https://www.synctherapy.ca/services/athletic-therapy/"
     }
   ]
 }
 </script>
-<!-- /wp:html -->
 
-<!-- wp:paragraph -->
+
+
 <p></p>
-<!-- /wp:paragraph -->
+

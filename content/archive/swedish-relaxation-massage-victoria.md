@@ -9,7 +9,7 @@ description: >-
 seoTitle: Swedish Relaxation Massage Victoria
 ---
 
-<!-- wp:html -->
+
 <meta name="keywords" content="Swedish massage, relaxation massage, stress relief, RMT, Colwood, Langford, Victoria, muscle tension, circulation, wellness, therapeutic massage">
     
     <!-- Open Graph -->
@@ -61,7 +61,7 @@ seoTitle: Swedish Relaxation Massage Victoria
         "@type": "Service",
         "serviceType": "Swedish Relaxation Massage",
         "provider": {
-            "@id": "https://synctherapylocal.local/#business"
+            "@id": "https://www.synctherapy.ca/#business"
         },
         "areaServed": {
             "@type": "Place",
@@ -98,7 +98,7 @@ seoTitle: Swedish Relaxation Massage Victoria
     {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "@id": "https://synctherapylocal.local/#business",
+        "@id": "https://www.synctherapy.ca/#business",
         "name": "Sync Therapy",
         "address": {
             "@type": "PostalAddress",
@@ -189,7 +189,7 @@ seoTitle: Swedish Relaxation Massage Victoria
         <div class="container mx-auto">
             Home
             <span class="mx-2 text-text">›</span>
-            <a data-wpil="url" href="/services/" class="text-primary hover:underline">Services</a>
+            <a href="/services/" class="text-primary hover:underline">Services</a>
             <span class="mx-2 text-text">›</span>
             <span class="text-text">Swedish Relaxation Massage</span>
         </div>
@@ -227,8 +227,8 @@ seoTitle: Swedish Relaxation Massage Victoria
 
                     <p class="text-base text-text/70 mb-8">
                         Located in <strong>Colwood</strong>, we proudly serve clients seeking relaxation and wellness from 
-                        <a data-wpil="url" href="/services/massage-therapy/" class="text-primary hover:underline">Colwood</a>, 
-                        <a data-wpil="url" href="/services/massage-therapy/" class="text-primary hover:underline">Langford</a>, 
+                        <a href="/services/massage-therapy/" class="text-primary hover:underline">Colwood</a>, 
+                        <a href="/services/massage-therapy/" class="text-primary hover:underline">Langford</a>, 
                         <a wpil="url" old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZS1hcmVhcy8=" href="/services/" class="text-primary hover:underline">Victoria</a>, 
                         and surrounding areas.
                     </p>
@@ -911,10 +911,10 @@ seoTitle: Swedish Relaxation Massage Victoria
                         <h3 class="text-lg font-heading font-semibold text-text mb-4">Complementary Therapies</h3>
                         <ul class="space-y-3">
                             <li>
-                                <a wpil="url" old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9zZXJ2aWNlcy9kZWVwLXRpc3N1ZS1tYXNzYWdlLXZpY3Rvcmlh" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9zZXJ2aWNlcy9kZWVwLXRpc3N1ZS1tYXNzYWdlLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9zZXJ2aWNlcy9kZWVwLXRpc3N1ZS1tYXNzYWdlLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYQ==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9zZXJ2aWNlcy9kZWVwLXRpc3N1ZS1tYXNzYWdlLXZpY3Rvcmlh" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9zZXJ2aWNlcy9kZWVwLXRpc3N1ZS1tYXNzYWdlLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9zZXJ2aWNlcy9kZWVwLXRpc3N1ZS1tYXNzYWdlLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYQ==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9zZXJ2aWNlcy9kZWVwLXRpc3N1ZS1tYXNzYWdlLXZpY3Rvcmlh" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9zZXJ2aWNlcy9kZWVwLXRpc3N1ZS1tYXNzYWdlLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9zZXJ2aWNlcy9kZWVwLXRpc3N1ZS1tYXNzYWdlLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYQ==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9zZXJ2aWNlcy9kZWVwLXRpc3N1ZS1tYXNzYWdlLXZpY3Rvcmlh" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9zZXJ2aWNlcy9kZWVwLXRpc3N1ZS1tYXNzYWdlLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9zZXJ2aWNlcy9kZWVwLXRpc3N1ZS1tYXNzYWdlLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYQ==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9zZXJ2aWNlcy9kZWVwLXRpc3N1ZS1tYXNzYWdlLXZpY3Rvcmlh" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9zZXJ2aWNlcy9kZWVwLXRpc3N1ZS1tYXNzYWdlLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9zZXJ2aWNlcy9kZWVwLXRpc3N1ZS1tYXNzYWdlLXZpY3RvcmlhLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYQ==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" href="/services/deep-tissue-massage/" class="text-primary hover:underline">Deep Tissue Massage</a>
+                                <a wpil="url" old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvZGVlcC10aXNzdWUtbWFzc2FnZS12aWN0b3JpYS8=" href="/services/deep-tissue-massage/" class="text-primary hover:underline">Deep Tissue Massage</a>
                             </li>
                             <li>
-                                <a data-wpil="url" href="/services/nutrition-consulting/" class="text-primary hover:underline">Holistic Nutrition</a>
+                                <a href="/services/nutrition-consulting/" class="text-primary hover:underline">Holistic Nutrition</a>
                             </li>
                         </ul>
                     </div>
@@ -923,13 +923,13 @@ seoTitle: Swedish Relaxation Massage Victoria
                         <h3 class="text-lg font-heading font-semibold text-text mb-4">Swedish Massage Info</h3>
                         <ul class="space-y-3">
                             <li>
-                                <a wpil="url" old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9vdXItdGVhbS9ybXQtZGFyeWwtc3R1YmJz" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9vdXItdGVhbS9ybXQtZGFyeWwtc3R1YmJzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9vdXItdGVhbS9ybXQtZGFyeWwtc3R1YmJzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9vdXItdGVhbS9ybXQtZGFyeWwtc3R1YmJz" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9vdXItdGVhbS9ybXQtZGFyeWwtc3R1YmJzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly9zdGFnaW5nMi5zeW5jdGhlcmFweS5jYS9vdXItdGVhbS9ybXQtZGFyeWwtc3R1YmJzLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" href="/our-team/daryl-stubbs/" class="text-primary hover:underline">About Our RMT</a>
+                                <a wpil="url" old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicw==" href="/our-team/daryl-stubbs/" class="text-primary hover:underline">About Our RMT</a>
                             </li>
                             <li>
                                 Massage FAQ
                             </li>
                             <li>
-                                <a data-wpil="url" href="/direct-billing/" class="text-primary hover:underline">Rates & Billing</a>
+                                <a href="/direct-billing/" class="text-primary hover:underline">Rates & Billing</a>
                             </li>
                         </ul>
                     </div>
@@ -938,7 +938,7 @@ seoTitle: Swedish Relaxation Massage Victoria
                         <h3 class="text-lg font-heading font-semibold text-text mb-4">Get In Touch</h3>
                         <ul class="space-y-3">
                             <li>
-                                <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" href="/contact/" class="text-primary hover:underline">Contact Us</a>
+                                <a href="/contact/" class="text-primary hover:underline">Contact Us</a>
                             </li>
                             <li>
                                 <a href="https://www.google.com/maps/place/Sync+Massage+Therapy/@48.4454689,-123.4745349,17z/data=!3m1!4b1!4m6!3m5!1s0x548f74851cb74787:0xeacdf009885e6cb5!8m2!3d48.445469!4d-123.4699215!16s%2Fg%2F11b6gptl28?entry=tts&amp;g_ep=EgoyMDI1MDcwOC4wIPu8ASoASAFQAw%3D%3D&amp;skid=5df59fd5-a859-4f7e-85e5-3eb02142eae0" class="text-primary hover:underline">Client Reviews</a>
@@ -1062,4 +1062,4 @@ seoTitle: Swedish Relaxation Massage Victoria
             });
         });
     </script>
-<!-- /wp:html -->
+

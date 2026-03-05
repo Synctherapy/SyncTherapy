@@ -4,12 +4,12 @@ date: '2024-07-10 03:25:07'
 slug: athletic-therapy-victoria
 description: >-
   { "@context": "https://schema.org", "@graph": [ { "@type": "Service", "@id":
-  "https://synctherapylocal.local/athletic-therapy#service", "name":
+  "https://www.synctherapy.ca/athletic-therapy#service", "name":
   "Athletic...
 seoTitle: Athletic Therapy Victoria
 ---
 
-<!-- wp:html -->
+
 <meta name="keywords" content="athletic therapist victoria bc, find an athletic therapist, athletic therapy Victoria, athletic therapist Victoria, sports injury rehabilitation Victoria, sports medicine Victoria, injury prevention Victoria, Daryl Stubbs athletic therapist">
     
     <!-- Schema Markup -->
@@ -19,15 +19,15 @@ seoTitle: Athletic Therapy Victoria
       "@graph": [
         {
           "@type": "Service",
-          "@id": "https://synctherapylocal.local/athletic-therapy#service",
+          "@id": "https://www.synctherapy.ca/athletic-therapy#service",
           "name": "Athletic Therapist Victoria BC",
           "description": "Evidence-based athletic therapy for injury rehabilitation, performance enhancement, and chronic pain—delivered by a certified Athletic Therapist in Victoria, BC.",
-          "provider": { "@id": "https://synctherapylocal.local/#clinic" },
-          "url": "https://synctherapylocal.local/athletic-therapy/",
+          "provider": { "@id": "https://www.synctherapy.ca/#clinic" },
+          "url": "https://www.synctherapy.ca/athletic-therapy/",
           "areaServed": [ "Victoria BC", "Colwood BC", "Langford BC" ],
           "offers": {
             "@type": "Offer",
-            "@id": "https://synctherapylocal.local/athletic-therapy#serviceOffer",
+            "@id": "https://www.synctherapy.ca/athletic-therapy#serviceOffer",
             "priceCurrency": "CAD",
             "price": "135",
             "availability": "https://schema.org/InStoreOnly"
@@ -35,12 +35,12 @@ seoTitle: Athletic Therapy Victoria
         },
         {
           "@type": "MedicalClinic",
-          "@id": "https://synctherapylocal.local/#clinic",
+          "@id": "https://www.synctherapy.ca/#clinic",
           "name": "Sync Therapy",
           "description": "Award-winning massage, athletic therapy, and wellness clinic serving Victoria, Colwood, and Langford.",
-          "url": "https://synctherapylocal.local/",
-          "logo": "https://synctherapylocal.local/wp-content/uploads/2025/04/sync-therapy-logo.png",
-          "image": "https://synctherapylocal.local/wp-content/uploads/2025/04/clinic-front.jpg",
+          "url": "https://www.synctherapy.ca/",
+          "logo": "https://www.synctherapy.ca/wp-content/uploads/2025/04/sync-therapy-logo.png",
+          "image": "https://www.synctherapy.ca/wp-content/uploads/2025/04/clinic-front.jpg",
           "telephone": "+1-250-812-8698",
           "priceRange": "$$",
           "address": {
@@ -159,19 +159,19 @@ seoTitle: Athletic Therapy Victoria
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://synctherapylocal.local/"
+          "item": "https://www.synctherapy.ca/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Services",
-          "item": "https://synctherapylocal.local/services/"
+          "item": "https://www.synctherapy.ca/services/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Athletic Therapy",
-          "item": "https://synctherapylocal.local/services/athletic-therapy/"
+          "item": "https://www.synctherapy.ca/services/athletic-therapy/"
         }
       ]
     }
@@ -265,8 +265,8 @@ seoTitle: Athletic Therapy Victoria
 
                 <p style="margin-bottom: 30px;">
                     Your trusted athletic therapist Victoria BC, proudly serving 
-                    <a data-wpil="url" href="/services/athletic-therapy/" style="color: #007bff;">Langford</a>, 
-                    <a data-wpil="url" href="/services/athletic-therapy/" style="color: #007bff;">Colwood</a>, 
+                    <a href="/services/athletic-therapy/" style="color: #007bff;">Langford</a>, 
+                    <a href="/services/athletic-therapy/" style="color: #007bff;">Colwood</a>, 
                     Victoria, and the greater Victoria area. Find an athletic therapist near you.
                 </p>
 
@@ -398,9 +398,9 @@ seoTitle: Athletic Therapy Victoria
                     <div style="font-size: 2.5rem; margin-bottom: 15px;">⚡</div>
                     <h3 style="font-weight: bold; margin-bottom: 15px; color: #007bff;">Chronic Pain Conditions</h3>
                     <ul style="text-align: left; font-size: 0.9rem; line-height: 1.6;">
-                        <li><a data-wpil="url" href="/conditions/chronic-pain/" style="color: #007bff;">Chronic Pain</a></li>
-                        <li><a data-wpil="url" href="/conditions/back-pain/" style="color: #007bff;">Back Pain</a></li>
-                        <li><a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9oZWFkYWNoZXMtYW5kLW5lY2stcGFpbi8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9oZWFkYWNoZXMtYW5kLW5lY2stcGFpbi8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9oZWFkYWNoZXMtYW5kLW5lY2stcGFpbi8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9oZWFkYWNoZXMtYW5kLW5lY2stcGFpbi8=" href="/conditions/headaches-migraines/" style="color: #007bff;">Neck Pain & Headaches</a></li>
+                        <li><a href="/conditions/chronic-pain/" style="color: #007bff;">Chronic Pain</a></li>
+                        <li><a href="/conditions/back-pain/" style="color: #007bff;">Back Pain</a></li>
+                        <li><a href="/conditions/headaches-migraines/" style="color: #007bff;">Neck Pain & Headaches</a></li>
                         <li>Muscle Tension</li>
                         <li>Arthritis Pain</li>
                     </ul>
@@ -411,8 +411,8 @@ seoTitle: Athletic Therapy Victoria
                     <div style="font-size: 2.5rem; margin-bottom: 15px;">🦴</div>
                     <h3 style="font-weight: bold; margin-bottom: 15px; color: #007bff;">Joint & Movement Issues</h3>
                     <ul style="text-align: left; font-size: 0.9rem; line-height: 1.6;">
-                        <li><a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" href="/conditions/shoulder-pain/" style="color: #007bff;">Shoulder Pain</a></li>
-                        <li><a data-wpil="url" href="/conditions/hip-and-knee-pain/" style="color: #007bff;">Hip & Knee Pain</a></li>
+                        <li><a href="/conditions/shoulder-pain/" style="color: #007bff;">Shoulder Pain</a></li>
+                        <li><a href="/conditions/hip-and-knee-pain/" style="color: #007bff;">Hip & Knee Pain</a></li>
                         <li>Joint Stiffness</li>
                         <li>Postural Imbalances</li>
                         <li>Range of Motion Issues</li>
@@ -663,7 +663,7 @@ seoTitle: Athletic Therapy Victoria
                     <p style="color: #007bff; margin-bottom: 30px; font-weight: bold; font-size: 1.1rem;">Certified Athletic Therapist</p>
 
                     <p style="margin-bottom: 30px; line-height: 1.6;">
-                        With over a decade of clinical experience and 12+ years as a certified athletic therapist in Langford and Victoria, Daryl brings extensive knowledge in <a href="/conditions/sports-injuries-and-prevention/"  data-wpil-monitor-id="7901">sports injury rehabilitation and performance enhancement</a> to Sync Therapy. His approach combines evidence-based athletic therapy techniques with personalized treatment plans, helping athletes and active individuals recover from injuries and optimize their performance.
+                        With over a decade of clinical experience and 12+ years as a certified athletic therapist in Langford and Victoria, Daryl brings extensive knowledge in <a href="/conditions/sports-injuries-and-prevention/">sports injury rehabilitation and performance enhancement</a> to Sync Therapy. His approach combines evidence-based athletic therapy techniques with personalized treatment plans, helping athletes and active individuals recover from injuries and optimize their performance.
                     </p>
 
                     <div style="margin-bottom: 30px;">
@@ -843,7 +843,7 @@ seoTitle: Athletic Therapy Victoria
                 <ul>
                     <li style="margin-bottom: 10px;">✅ Injury Prevention Programs</li>
                     <li style="margin-bottom: 10px;">✅ Performance Enhancement</li>
-                    <li style="margin-bottom: 10px;">✅ <a data-wpil="url" href="/services/sports-massage/" style="color: #007bff;">Sports Massage</a></li>
+                    <li style="margin-bottom: 10px;">✅ <a href="/services/sports-massage/" style="color: #007bff;">Sports Massage</a></li>
                 </ul>
             </div>
         </div>
@@ -942,10 +942,10 @@ seoTitle: Athletic Therapy Victoria
                             <a href="/about/" style="color: #007bff; text-decoration: none;">About Sync Therapy</a>
                         </li>
                         <li style="margin-bottom: 10px;">
-                            <a data-wpil="url" href="/about/" style="color: #007bff; text-decoration: none;">Why Choose Us</a>
+                            <a href="/about/" style="color: #007bff; text-decoration: none;">Why Choose Us</a>
                         </li>
                         <li style="margin-bottom: 10px;">
-                            <a data-wpil="url" href="/our-team/daryl-stubbs/" style="color: #007bff; text-decoration: none;">Our Team</a>
+                            <a href="/our-team/daryl-stubbs/" style="color: #007bff; text-decoration: none;">Our Team</a>
                         </li>
                     </ul>
                 </div>
@@ -954,10 +954,10 @@ seoTitle: Athletic Therapy Victoria
                     <h3 style="font-weight: bold; margin-bottom: 20px;">Our Services</h3>
                     <ul style="list-style: none; padding: 0;">
                         <li style="margin-bottom: 10px;">
-                            <a data-wpil="url" href="/services/athletic-therapy/" style="color: #007bff; text-decoration: none;">Athletic Therapy Colwood</a>
+                            <a href="/services/athletic-therapy/" style="color: #007bff; text-decoration: none;">Athletic Therapy Colwood</a>
                         </li>
                         <li style="margin-bottom: 10px;">
-                            <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS1WaWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" href="/services/athletic-therapy/" style="color: #007bff; text-decoration: none;">Athletic Therapy Victoria</a>
+                            <a href="/services/athletic-therapy/" style="color: #007bff; text-decoration: none;">Athletic Therapy Victoria</a>
                         </li>
                     </ul>
                 </div>
@@ -966,13 +966,13 @@ seoTitle: Athletic Therapy Victoria
                     <h3 style="font-weight: bold; margin-bottom: 20px;">Common Conditions</h3>
                     <ul style="list-style: none; padding: 0;">
                         <li style="margin-bottom: 10px;">
-                            <a data-wpil="url" href="/conditions/back-pain/" style="color: #007bff; text-decoration: none;">Back Pain Treatment</a>
+                            <a href="/conditions/back-pain/" style="color: #007bff; text-decoration: none;">Back Pain Treatment</a>
                         </li>
                         <li style="margin-bottom: 10px;">
-                            <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29uZGl0aW9ucy9zaG91bGRlci1wYWluLXZpY3RvcmlhLWJjLw==" href="/conditions/shoulder-pain/" style="color: #007bff; text-decoration: none;">Shoulder Pain Relief</a>
+                            <a href="/conditions/shoulder-pain/" style="color: #007bff; text-decoration: none;">Shoulder Pain Relief</a>
                         </li>
                         <li style="margin-bottom: 10px;">
-                            <a data-wpil="url" href="/conditions/chronic-pain/" style="color: #007bff; text-decoration: none;">Chronic Pain Management</a>
+                            <a href="/conditions/chronic-pain/" style="color: #007bff; text-decoration: none;">Chronic Pain Management</a>
                         </li>
                     </ul>
                 </div>
@@ -1096,4 +1096,4 @@ if (window.innerWidth > 768) {
     document.querySelector('.mobile-cta').style.display = 'none';
 }
 </script>
-<!-- /wp:html -->
+

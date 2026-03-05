@@ -73,7 +73,7 @@ export function GuideSection() {
                 <Award className="w-12 h-12 text-accent mx-auto" />
                 <p className="mt-4 font-serif text-3xl text-foreground">6x</p>
                 <p className="mt-1 font-semibold text-foreground">Best Massage & Rehab Clinic</p>
-                <p className="mt-1 text-sm text-muted-foreground">Community Votes Victoria 2019-2024</p>
+                <p className="mt-1 text-sm text-muted-foreground">Community Votes Victoria 2019-2025</p>
               </div>
 
               <div className="text-center p-6 bg-background rounded-lg">

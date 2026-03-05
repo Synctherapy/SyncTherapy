@@ -1,6 +1,7 @@
 ---
 title: "Conquering Hip Pain: A Fibromyalgia Warrior's Guide"
 date: "2025-06-19 10:09:21"
+dateModified: "2026-03-03 12:30:00"
 slug: conquering-hip-pain-a-fibromyalgia-warriors-guide
 description: >-
   Living with fibromyalgia can be a daily battle, and one of the most

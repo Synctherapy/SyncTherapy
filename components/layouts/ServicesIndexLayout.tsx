@@ -36,7 +36,7 @@ export function ServicesIndexLayout({ }: ServicesIndexLayoutProps) {
                 <div className="mb-8 flex justify-center">
                     <div className="inline-flex items-center gap-2 bg-white border border-blue-100 px-5 py-2.5 rounded-full shadow-sm">
                         <Award className="text-[#2563EB] w-5 h-5" />
-                        <span className="text-[10px] font-bold uppercase tracking-widest text-[#1A2B3C]">Local's Choice • Award Winning 2024</span>
+                        <span className="text-[10px] font-bold uppercase tracking-widest text-[#1A2B3C]">Local's Choice • Award Winning 2025</span>
                     </div>
                 </div>
 

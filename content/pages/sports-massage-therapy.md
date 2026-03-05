@@ -10,7 +10,7 @@ description: >-
 seoTitle: What Is Sports Massage Therapy? | Colwood RMT
 ---
 
-<!-- wp:html -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -70,7 +70,7 @@ seoTitle: What Is Sports Massage Therapy? | Colwood RMT
         "@type": "Service",
         "serviceType": "Sports Massage Therapy",
         "provider": {
-            "@id": "https://synctherapylocal.local/#business"
+            "@id": "https://www.synctherapy.ca/#business"
         },
         "areaServed": {
             "@type": "Place",
@@ -107,7 +107,7 @@ seoTitle: What Is Sports Massage Therapy? | Colwood RMT
     {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "@id": "https://synctherapylocal.local/#business",
+        "@id": "https://www.synctherapy.ca/#business",
         "name": "Sync Therapy",
         "address": {
             "@type": "PostalAddress",
@@ -198,7 +198,7 @@ seoTitle: What Is Sports Massage Therapy? | Colwood RMT
         <div class="container mx-auto">
             Home
             <span class="mx-2 text-text">›</span>
-            <a data-wpil="url" href="/services/" class="text-primary hover:underline">Services</a>
+            <a href="/services/" class="text-primary hover:underline">Services</a>
             <span class="mx-2 text-text">›</span>
             <span class="text-text">Sports Massage Therapy</span>
         </div>
@@ -236,8 +236,8 @@ seoTitle: What Is Sports Massage Therapy? | Colwood RMT
 
                     <p class="text-base text-text/70 mb-8">
                         Located in <strong>Colwood</strong>, we proudly serve athletes and active individuals from 
-                        <a data-wpil="url" href="/services/massage-therapy/" class="text-primary hover:underline">Colwood</a>, 
-                        <a data-wpil="url" href="/services/massage-therapy/" class="text-primary hover:underline">Langford</a>, 
+                        <a href="/services/massage-therapy/" class="text-primary hover:underline">Colwood</a>, 
+                        <a href="/services/massage-therapy/" class="text-primary hover:underline">Langford</a>, 
                         <a wpil="url" old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZS1hcmVhcy8=" href="/services/" class="text-primary hover:underline">Victoria</a>, 
                         and surrounding areas.
                     </p>
@@ -920,10 +920,10 @@ seoTitle: What Is Sports Massage Therapy? | Colwood RMT
                         <h3 class="text-lg font-heading font-semibold text-text mb-4">Complementary Therapies</h3>
                         <ul class="space-y-3">
                             <li>
-                                <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evc2VydmljZXMvYXRobGV0aWMtdGhlcmFweS12aWN0b3JpYS8=" href="/services/athletic-therapy/" class="text-primary hover:underline">Athletic Therapy</a>
+                                <a href="/services/athletic-therapy/" class="text-primary hover:underline">Athletic Therapy</a>
                             </li>
                             <li>
-                                <a data-wpil="url" href="/services/nutrition-consulting/" class="text-primary hover:underline">Sports Nutrition</a>
+                                <a href="/services/nutrition-consulting/" class="text-primary hover:underline">Sports Nutrition</a>
                             </li>
                         </ul>
                     </div>
@@ -932,13 +932,13 @@ seoTitle: What Is Sports Massage Therapy? | Colwood RMT
                         <h3 class="text-lg font-heading font-semibold text-text mb-4">Sports Massage Info</h3>
                         <ul class="space-y-3">
                             <li>
-                                <a wpil="url" old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" href="/our-team/daryl-stubbs/" class="text-primary hover:underline">About Our RMT</a>
+                                <a wpil="url" old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2Evb3VyLXRlYW0vcm10LWRhcnlsLXN0dWJicy8=" href="/our-team/daryl-stubbs/" class="text-primary hover:underline">About Our RMT</a>
                             </li>
                             <li>
                                 Sports Massage FAQ
                             </li>
                             <li>
-                                <a data-wpil="url" href="/direct-billing/" class="text-primary hover:underline">Rates & Billing</a>
+                                <a href="/direct-billing/" class="text-primary hover:underline">Rates & Billing</a>
                             </li>
                         </ul>
                     </div>
@@ -947,7 +947,7 @@ seoTitle: What Is Sports Massage Therapy? | Colwood RMT
                         <h3 class="text-lg font-heading font-semibold text-text mb-4">Get In Touch</h3>
                         <ul class="space-y-3">
                             <li>
-                                <a data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" data-wpil="url" data-wpil-url-old="aHR0cHM6Ly93d3cuc3luY3RoZXJhcHkuY2EvY29udGFjdC8=" href="/contact/" class="text-primary hover:underline">Contact Us</a>
+                                <a href="/contact/" class="text-primary hover:underline">Contact Us</a>
                             </li>
                             <li>
                                 <a href="https://www.google.com/maps/place/Sync+Massage+Therapy/@48.4454689,-123.4745349,17z/data=!3m1!4b1!4m6!3m5!1s0x548f74851cb74787:0xeacdf009885e6cb5!8m2!3d48.445469!4d-123.4699215!16s%2Fg%2F11b6gptl28?entry=tts&amp;g_ep=EgoyMDI1MDcwOC4wIPu8ASoASAFQAw%3D%3D&amp;skid=5df59fd5-a859-4f7e-85e5-3eb02142eae0" class="text-primary hover:underline">Client Reviews</a>
@@ -1007,4 +1007,4 @@ seoTitle: What Is Sports Massage Therapy? | Colwood RMT
                             This depends on your training intensity and competition schedule. Professional athletes often receive sports massage 2-3 times per week during heavy training periods. Recreational athletes typically benefit from weekly or bi-weekly sessions. During competition season, you might need more frequent treatments. Your therapist will create a personalized schedule based on your sport, training load, and recovery needs.
                         </div>
                     </div>
-<!-- /wp:html -->
+

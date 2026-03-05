@@ -1,6 +1,7 @@
 ---
 title: "Best Red Light Therapy for Knee Pain in 2026: Top Devices To Help"
 date: "2026-01-06 18:07:20"
+dateModified: "2026-03-02 10:00:00"
 slug: red-light-therapy-knee-pain
 description: >-
   Best red light therapy devices for knee pain in 2026. An RMT reviews top-rated
@@ -25,7 +26,7 @@ faqs:
     answer: "Yes, red light therapy is safe for both osteoarthritis and rheumatoid arthritis. Multiple systematic reviews report no serious adverse effects from red light therapy for arthritis. It's non-invasive, drug-free, and can be used alongside other treatments. It offers a gentle alternative to medications with side effects."
 ---
 
-<!-- wp:html -->
+
 <!-- Preconnect and Font Loading (Critical for preventing CLS) -->
 
 <div class="container mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 py-8">
@@ -56,7 +57,7 @@ faqs:
                     <!-- Infraredi Video - With Poster for LCP Fix -->
                     <video
                         class="product-video rounded-lg shadow-sm"
-                        poster="https://synctherapylocal.local/wp-content/uploads/2026/01/infraredi-joint-wrap-poster.jpg"
+                        poster="https://www.synctherapy.ca/wp-content/uploads/2026/01/infraredi-joint-wrap-poster.jpg"
                         autoplay
                         muted
                         loop
@@ -212,7 +213,7 @@ faqs:
                 <div class="mb-6">
                     <video
                         class="product-video w-full rounded-lg shadow-md"
-                        poster="https://synctherapylocal.local/wp-content/uploads/2026/01/red-light-therapy-knee-research-poster.jpg"
+                        poster="https://www.synctherapy.ca/wp-content/uploads/2026/01/red-light-therapy-knee-research-poster.jpg"
                         autoplay
                         muted
                         loop
@@ -386,7 +387,7 @@ faqs:
                 <div class="mb-6">
                     <video
                         class="product-video w-full rounded-lg shadow-md"
-                        poster="https://synctherapylocal.local/wp-content/uploads/2026/01/infraredi-joint-wrap-review-poster.jpg"
+                        poster="https://www.synctherapy.ca/wp-content/uploads/2026/01/infraredi-joint-wrap-review-poster.jpg"
                         autoplay
                         muted
                         loop
@@ -901,4 +902,4 @@ faqs:
     <a href="https://infraredi.com.au/products/infraredi-joint-wrap?sca_ref=5139909.hUut5gisEb&sca_source=knee brace" target="_blank" rel="nofollow sponsored" class="affiliate-button w-full block text-center"><i class="fas fa-bolt mr-2"></i>Get Infraredi Joint Wrap — Best for Knee Pain</a>
 </div>
 
-<!-- /wp:html -->
+

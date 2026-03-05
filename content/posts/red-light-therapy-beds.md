@@ -1,6 +1,7 @@
 ---
 title: Best Commercial Red Light Therapy Beds (2026 Reviews)
 date: "2024-02-27 18:20:38"
+dateModified: "2026-02-01 15:45:00"
 slug: red-light-therapy-beds
 description: >-
   Commercial red light therapy bed reviews for 2026. Full-body LED beds compared
@@ -19,7 +20,7 @@ faqs:
     answer: "Yes, when used as directed. Unlike UV tanning beds, red/NIR light doesn't cause DNA damage or increase skin cancer risk. All beds listed are FDA-registered or cleared. Contraindications include photosensitivity disorders, hyperthyroidism, pregnancy (caution), and active cancer."
 ---
 
-<!-- wp:html -->
+
 
 <!-- Optimized Schema Markup -->
 
@@ -792,4 +793,4 @@ faqs:
     </main>
 
 </div>
-<!-- /wp:html -->
+

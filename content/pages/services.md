@@ -9,7 +9,7 @@ description: >-
 seoTitle: Our Services | Sync Massage Therapy Colwood
 ---
 
-<!-- wp:html -->
+
 <!-- Google Fonts -->
         
     <!-- Lucide Icons -->
@@ -1410,8 +1410,8 @@ seoTitle: Our Services | Sync Massage Therapy Colwood
             observer.observe(el);
         });
     </script>
-<!-- /wp:html -->
 
-<!-- wp:paragraph -->
+
+
 <p></p>
-<!-- /wp:paragraph -->
+

@@ -1,6 +1,7 @@
 ---
 title: "9 Nutrients Needed for Gut Health: Boost Your Digestive Wellness Today"
 date: "2025-06-19 10:09:38"
+dateModified: "2026-03-03 14:00:00"
 slug: 9-nutrients-needed-for-gut-health-boost-your-digestive-wellness-today
 description: >-
   Maintaining a healthy gut is crucial for overall well-being. The digestive

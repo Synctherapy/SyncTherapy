@@ -8,4 +8,4 @@ description: >-
 seoTitle: Patient Reviews | Sync Massage Therapy Colwood
 ---
 
-Sync Therapy <span style="color: var(--awb-color5);">Reviews</span>W2JyYl9jb2xsZWN0aW9uIGlkPSI2MDM2Il0=
+Sync Therapy <span>Reviews</span>W2JyYl9jb2xsZWN0aW9uIGlkPSI2MDM2Il0=

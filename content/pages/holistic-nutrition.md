@@ -19,7 +19,7 @@ With a passion for helping people reach optimal health and wellness, we can prov
 
 As knowledgeable practitioners in nutrition science, we have the knowledge and resources to develop programs that are specific to each individual's needs.
 
-We've personally used <a class="wpil_keyword_link" href="/viome-review/"   title="Viome" data-wpil-keyword-link="linked"  data-wpil-monitor-id="7998">Viome</a> and love how easy it is to useBenefits of Holistic NutritionHolistic Nutritionist Victoria BC services are essential for those seeking guidance in their nutrition journey. Through nutrition counselling, clients can receive the necessary advice and assistance from a professional who is knowledgeable and experienced in the field of holistic nutrition.
+We've personally used <a class="wpil_keyword_link" href="/viome-review/"   title="Viome">Viome</a> and love how easy it is to useBenefits of Holistic NutritionHolistic Nutritionist Victoria BC services are essential for those seeking guidance in their nutrition journey. Through nutrition counselling, clients can receive the necessary advice and assistance from a professional who is knowledgeable and experienced in the field of holistic nutrition.
 
 In addition to providing quality advice, holistic nutritionists also offer personalized nutrition plans that are tailored to each individual's needs. These plans provide comprehensive dietary recommendations that can help improve one's overall health and well-being.
 
@@ -45,7 +45,7 @@ Learn About Athletic Therapy
 
 Get Ready to start feeling better
 
-<span style="color: var(--awb-color5);">Services Offered</span> by Our Holistic Nutritionists
+<span>Services Offered</span> by Our Holistic Nutritionists
 
 Holistic nutritionists in Victoria, BC offer a range of services to help clients improve their health and wellbeing. Holistic nutritionists are dedicated to helping individuals achieve optimal health by focusing on the entire body as opposed to just one single aspect.
 
@@ -85,7 +85,7 @@ Lifestyle and behavioral modification are essential when trying to adopt a healt
 
 Experts highly recommend making changes to one’s diet, exercise routine, and lifestyle behaviour as a whole in order to eat healthy and maintain long-term wellness. Holistic nutritionists work with clients on managing stress levels while providing guidance on how they can improve their eating habits so they can get the most out of each meal.
 
-523+Happy Clients73+5-Star Google Reviews10+A Decade of experience<span style="color: var(--awb-color5);">Achieving Optimal Health</span> with a Holistic Nutritionist
+523+Happy Clients73+5-Star Google Reviews10+A Decade of experience<span>Achieving Optimal Health</span> with a Holistic Nutritionist
 
 Holistic nutrition is an important element of overall health and wellbeing. It focuses on the whole person - mind, body, and spirit - as opposed to just one aspect.
 
@@ -93,7 +93,7 @@ A holistic nutritionist seeks to create an individualized plan that looks at all
 
 Holistic nutritionist may provide some of the same services as registered dietician but their scope is limited to dietary advice.
 
-<img src="https://synctherapylocal.local/wp-content/uploads/2022/01/young-unshaven-stressful-man-suffers-from-headache-keeps-hands-temples-clenches-teeth-has-terrible-pain-closes-eyes-min-1.jpg" alt="" id="3182" width="500px" height="auto" sizes="(max-width: 640px) 100vw, 800px"> 
+<img src="https://www.synctherapy.ca/wp-content/uploads/2022/01/young-unshaven-stressful-man-suffers-from-headache-keeps-hands-temples-clenches-teeth-has-terrible-pain-closes-eyes-min-1.jpg" alt="" id="3182" width="500px" height="auto" sizes="(max-width: 640px) 100vw, 800px"> 
 
 The holistic approach encompasses not only food choices but also lifestyle changes such as stress management and physical activity that together can bring about better overall health. Holistic nutritionists are dedicated to helping individuals find balance in their lives and work towards achieving their ultimate goals for improved health
 
@@ -103,13 +103,13 @@ In 2017, he became a Registered Massage Therapist and is a part of the College o
 
 In 2018, Daryl graduated from Canada’s leading holistic nutrition, the Canadian School of Natural Nutrition.We’re In Business
 
-<span style="color: var(--awb-color5);">8+</span> years
+<span>8+</span> years
 
 Client Referrals
 
-<span style="color: var(--awb-color5);">527+</span> satisfied clients
+<span>527+</span> satisfied clients
 
-Check Out Viome To Tell You What Foods To Eat <img src="https://synctherapylocal.local/wp-content/uploads/2022/01/delivery-man-having-back-pain-from-carrying-min.jpg" alt="" id="2763" width="500px" height="auto" sizes="(max-width: 640px) 100vw, 800px"> "...Originally I approached him for nutrition advice, the knowledge that he gave me was tailored to suit my needs, he never put me down when asking questions, and he provided me with the tools to make smart choices. His approach was super refreshing, even meeting me at Whole Foods to read labels/gather information and he made me excited to make positive changes in my diet. After being so thrilled with his nutritional advice, I couldn't help book him for a message session... I am so happy I made the choice to invest in myself by booking with Sync Therapy! Please don't hesitate to contact to Daryl for any of his services, I can assure you that you will not be disappointed!Gina H.
+Check Out Viome To Tell You What Foods To Eat <img src="https://www.synctherapy.ca/wp-content/uploads/2022/01/delivery-man-having-back-pain-from-carrying-min.jpg" alt="" id="2763" width="500px" height="auto" sizes="(max-width: 640px) 100vw, 800px"> "...Originally I approached him for nutrition advice, the knowledge that he gave me was tailored to suit my needs, he never put me down when asking questions, and he provided me with the tools to make smart choices. His approach was super refreshing, even meeting me at Whole Foods to read labels/gather information and he made me excited to make positive changes in my diet. After being so thrilled with his nutritional advice, I couldn't help book him for a message session... I am so happy I made the choice to invest in myself by booking with Sync Therapy! Please don't hesitate to contact to Daryl for any of his services, I can assure you that you will not be disappointed!Gina H.
 
 Nutrition Client
 
@@ -117,6 +117,6 @@ It's Time To Book Your Appointment
 
 One dedicated therapist to you, over a decade of experience, and results tailored to you
 
-<span style="color: var(--awb-text-color); font-family: var(--awb-text-font-family); font-size: var(--awb-font-size); font-style: var(--awb-text-font-style); font-weight: var(--awb-text-font-weight); letter-spacing: var(--awb-letter-spacing); text-align: var(--awb-content-alignment); text-transform: var(--awb-text-transform); background-color: var(--awb-bg-color);">"...Daryl was instrumental in helping me gain back my mobility and add strength, to help me return to professional sport..</span><em>.</em><span style="color: var(--awb-text-color); font-family: var(--awb-text-font-family); font-size: var(--awb-font-size); font-style: var(--awb-text-font-style); font-weight: var(--awb-text-font-weight); letter-spacing: var(--awb-letter-spacing); text-align: var(--awb-content-alignment); text-transform: var(--awb-text-transform); background-color: var(--awb-bg-color);">I would recommend Sync Therapy to anyone who has a sports injury, or those seeking treatment for everyday aches and pains as Daryl goes above and beyond to make sure his clients are healthy both mind and body</span><em style="color: var(--awb-text-color); font-family: var(--awb-text-font-family); font-size: var(--awb-font-size); font-weight: var(--awb-text-font-weight); letter-spacing: var(--awb-letter-spacing); text-align: var(--awb-content-alignment); text-transform: var(--awb-text-transform); background-color: var(--awb-bg-color);">”</em>
+<span>"...Daryl was instrumental in helping me gain back my mobility and add strength, to help me return to professional sport..</span><em>.</em><span>I would recommend Sync Therapy to anyone who has a sports injury, or those seeking treatment for everyday aches and pains as Daryl goes above and beyond to make sure his clients are healthy both mind and body</span><em>”</em>
 
 Shanice MarcelleTeam Canada

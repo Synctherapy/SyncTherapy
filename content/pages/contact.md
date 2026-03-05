@@ -8,7 +8,7 @@ description: >-
 seoTitle: 'Contact Sync Massage Therapy | Colwood, BC'
 ---
 
-<!-- wp:html -->
+
 <!-- Google Fonts -->
                 
     <!-- Lucide Icons -->
@@ -488,15 +488,15 @@ seoTitle: 'Contact Sync Massage Therapy | Colwood, BC'
     {
         "@context": "https://schema.org",
         "@type": "ContactPage",
-        "url": "https://synctherapylocal.local/contact",
+        "url": "https://www.synctherapy.ca/contact",
         "inLanguage": "en-CA",
         "mainEntity": {
             "@type": ["Organization", "HealthAndBeautyBusiness"],
             "name": "Sync Therapy",
             "description": "Award-winning Registered Massage Therapy, Athletic Therapy, and Holistic Nutrition services in Colwood, BC",
             "slogan": "Feel Better. Move Better. Live Better.",
-            "url": "https://synctherapylocal.local",
-            "logo": "https://synctherapylocal.local/wp-content/uploads/2025/06/synctherapy-logo.png",
+            "url": "https://www.synctherapy.ca",
+            "logo": "https://www.synctherapy.ca/wp-content/uploads/2025/06/synctherapy-logo.png",
             "contactPoint": [{
                 "@type": "ContactPoint",
                 "telephone": "+1-250-812-8698",
@@ -618,7 +618,7 @@ seoTitle: 'Contact Sync Massage Therapy | Colwood, BC'
                             <div style="text-align: center;">
                                 <p style="font-size: 0.875rem; color: #6B7280;">
                                     Or explore our 
-                                    <a data-wpil="url" href="/our-team/daryl-stubbs/" style="color: #86BBD8; font-weight: 500;">expert team</a>
+                                    <a href="/our-team/daryl-stubbs/" style="color: #86BBD8; font-weight: 500;">expert team</a>
                                     and 
                                     <a href="/about/" style="color: #86BBD8; font-weight: 500;">learn more about us</a>
                                  We provide a comprehensive approach to wellness, ensuring that each client's unique needs are addressed. For a detailed understanding of our offerings, check out our <a href="/our-team/daryl-stubbs/">athletic therapist services overview</a>, which highlights the benefits of our specialized therapy options. We're committed to helping you achieve your goals and improve your overall quality of life. Our experienced team is also well-versed in providing effective back pain treatment options in Victoria, tailored to meet individual needs. We prioritize creating personalized plans that not only alleviate pain but also enhance mobility and overall well-being. Together, we can work towards a healthier, pain-free future for you.</p>
@@ -802,8 +802,8 @@ seoTitle: 'Contact Sync Massage Therapy | Colwood, BC'
         // Initialize Lucide icons
         lucide.createIcons();
     </script>
-<!-- /wp:html -->
 
-<!-- wp:paragraph -->
+
+
 <p></p>
-<!-- /wp:paragraph -->
+
