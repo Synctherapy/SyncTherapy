@@ -5,6 +5,16 @@ dateModified: "2026-03-05 08:00:00"
 slug: seed-probiotics-reviews
 description: "Looking for an honest Seed probiotics review? Read my results testing the DS-01 Daily Synbiotic in Canada, plus ingredients, side effects, and my exclusive synctherapy discount code."
 seoTitle: "Seed Probiotics Review 2026: Honest DS-01 Synbiotic Results"
+productName: "Seed DS-01 Daily Synbiotic"
+productPrice: "49.99"
+rating: "5"
+pros:
+  - "Clinically proven to survive stomach acid with ViaCap® delivery"
+  - "Comprehensive 24-strain formula for systemic health"
+  - "Eco-friendly, sustainable refill system"
+cons:
+  - "Premium price point compared to standard probiotics"
+  - "Only available online directly from Seed"
 ---
 
 
