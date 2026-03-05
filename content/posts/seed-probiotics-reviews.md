@@ -1,12 +1,10 @@
 ---
-title: "Seed DS-01 Review 2026: Worth the Hype in Canada?"
+title: "Seed Probiotics Review 2026: My Honest DS-01 Results (Canada)"
 date: "2023-07-04 07:00:00"
-dateModified: "2026-01-12 15:45:00"
+dateModified: "2026-03-05 08:00:00"
 slug: seed-probiotics-reviews
-description: >-
-  Seed DS-01 probiotic review for 2026. Is this synbiotic worth the price in
-  Canada? Strains, research, and real results from a Holistic Nutritionist.
-seoTitle: "Seed DS-01 Review 2026: Worth the Hype in Canada?"
+description: "Looking for an honest Seed probiotics review? Read my results testing the DS-01 Daily Synbiotic in Canada, plus ingredients, side effects, and my exclusive synctherapy discount code."
+seoTitle: "Seed Probiotics Review 2026: Honest DS-01 Synbiotic Results"
 ---
 
 
