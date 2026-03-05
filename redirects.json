@@ -1,5 +1,35 @@
 [
   {
+    "source": "/rouge-red-light-therapy-reviews-OLD-BACKUP",
+    "destination": "/rouge-red-light-therapy-reviews/",
+    "permanent": true
+  },
+  {
+    "source": "/rouge-red-light-therapy-reviews-OLD-BACKUP/",
+    "destination": "/rouge-red-light-therapy-reviews/",
+    "permanent": true
+  },
+  {
+    "source": "/services/massage-therapy-colwood/",
+    "destination": "/services/massage-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/services/massage-therapy-langford/",
+    "destination": "/services/massage-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/best-massage-langford-clinics/",
+    "destination": "/services/massage-therapy/",
+    "permanent": true
+  },
+  {
+    "source": "/services/massage-therapy-victoria",
+    "destination": "/services/massage-therapy/",
+    "permanent": true
+  },
+  {
     "source": "/services/chronic-disease-management/",
     "destination": "/conditions/chronic-disease-management/",
     "permanent": true
@@ -66,7 +96,7 @@
   },
   {
     "source": "/services/massage-therapy-colwood",
-    "destination": "/services/",
+    "destination": "/services/massage-therapy/",
     "permanent": true
   },
   {
@@ -106,7 +136,7 @@
   },
   {
     "source": "/services/massage-therapy-langford",
-    "destination": "/services/",
+    "destination": "/services/massage-therapy/",
     "permanent": true
   },
   {
@@ -780,7 +810,7 @@
     "permanent": true
   },
   {
-    "source": "/seed-probiotics-reviews/\u2060",
+    "source": "/seed-probiotics-reviews/⁠",
     "destination": "/seed-probiotics-reviews/",
     "permanent": true
   },
@@ -1401,7 +1431,7 @@
   },
   {
     "source": "/services/massage-therapy-victoria/",
-    "destination": "/services/",
+    "destination": "/services/massage-therapy/",
     "permanent": true
   },
   {
@@ -1501,7 +1531,7 @@
   },
   {
     "source": "/best-massage-langford-clinics",
-    "destination": "/",
+    "destination": "/services/massage-therapy/",
     "permanent": true
   },
   {
