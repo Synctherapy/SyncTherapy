@@ -1865,11 +1865,6 @@
     "permanent": true
   },
   {
-    "source": "/hydrogen-water/",
-    "destination": "/benefits-of-hydrogen-water/",
-    "permanent": true
-  },
-  {
     "source": "/best-probiotic-supplements-for-ibs/",
     "destination": "/do-probiotics-help-ibs/",
     "permanent": true
