@@ -1,0 +1,4 @@
+
+## 2024-03-05 - Content Fetching and Parsing Memoization
+**Learning:** In Next.js App Router, using `fs.readFileSync` or omitting caching for data-fetching modules within a route (e.g. `getContentBySlug` used in `generateMetadata` and `Page`) results in duplicate synchronous file reads blocking the Node event loop during SSR and static generation. When wrapping with `React.cache()`, it's critical to convert arrays (like a `slug: string[]` route parameter) to primitives (like a joined string) before passing them to the cached function, because `React.cache` relies on referential equality and will fail to memoize array arguments.
+**Action:** Always wrap redundant server-side data-fetching logic in `React.cache()`, use primitive arguments for stable cache keys, and strictly use `fs.promises` instead of synchronous Node.js I/O methods. Ensure regex documentation comments are preserved during refactors.

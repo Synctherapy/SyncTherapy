@@ -1,11 +1,18 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
+import { cache } from 'react';
 
 const contentDirectory = path.join(process.cwd(), 'content');
 
-export async function getContentBySlug(slug: string[]) {
-    const realSlug = slug.join('/');
+// ⚡ Bolt Performance Optimization:
+// 1. Replaced synchronous fs methods (existsSync, readFileSync) with fs.promises to prevent blocking the Node.js event loop during page renders.
+// 2. Wrapped the core fetching logic in React's `cache()` to memoize the result for the duration of a single request.
+//    This prevents duplicate file reads when multiple components (e.g. metadata generation + page layout) request the same slug.
+//    A joined string is used as the argument instead of an array to ensure stable referential equality for the cache key.
+const getCachedContentBySlug = cache(async (joinedSlug: string) => {
+    const slug = joinedSlug.split('/');
+    const realSlug = joinedSlug;
 
     // 1. Try to find the file using the full URL path (e.g. "services/massage")
     const pagePath = path.join(contentDirectory, 'pages', `${realSlug}.md`);
@@ -14,25 +21,34 @@ export async function getContentBySlug(slug: string[]) {
     let filePath = '';
     let type = '';
 
-    if (fs.existsSync(pagePath)) {
+    const checkFile = async (p: string) => {
+        try {
+            await fs.promises.access(p);
+            return true;
+        } catch {
+            return false;
+        }
+    };
+
+    if (await checkFile(pagePath)) {
         filePath = pagePath;
         type = 'page';
-    } else if (fs.existsSync(postPath)) {
+    } else if (await checkFile(postPath)) {
         filePath = postPath;
         type = 'post';
     } else {
         // 2. Fallback: Try the last segment of the slug (flattened structure)
         // e.g. URL "services/massage-therapy-victoria" -> look for "massage-therapy-victoria.md"
         const flatSlug = slug[slug.length - 1];
-        if (!flatSlug) return null; // Handle empty slug case
+        if (!flatSlug) return null;
 
         const flatPagePath = path.join(contentDirectory, 'pages', `${flatSlug}.md`);
         const flatPostPath = path.join(contentDirectory, 'posts', `${flatSlug}.md`);
 
-        if (fs.existsSync(flatPagePath)) {
+        if (await checkFile(flatPagePath)) {
             filePath = flatPagePath;
             type = 'page';
-        } else if (fs.existsSync(flatPostPath)) {
+        } else if (await checkFile(flatPostPath)) {
             filePath = flatPostPath;
             type = 'post';
         } else {
@@ -40,7 +56,7 @@ export async function getContentBySlug(slug: string[]) {
         }
     }
 
-    const fileContents = fs.readFileSync(filePath, 'utf8');
+    const fileContents = await fs.promises.readFile(filePath, 'utf8');
     const { data, content } = matter(fileContents);
 
     // Clean content
@@ -77,6 +93,11 @@ export async function getContentBySlug(slug: string[]) {
         content: cleanContent,
         type,
     };
+});
+
+export async function getContentBySlug(slug: string[]) {
+    // Delegate to cached function using joined string
+    return getCachedContentBySlug(slug.join('/'));
 }
 
 export async function getAllPaths() {
@@ -85,21 +106,29 @@ export async function getAllPaths() {
 
     const paths: { slug: string[] }[] = [];
 
-    // Helper to process directory
-    const processDir = (dir: string) => {
-        if (fs.existsSync(dir)) {
-            const files = fs.readdirSync(dir);
+    const processDir = async (dir: string) => {
+        try {
+            // ⚡ Bolt Performance Optimization: Use fs.promises.readdir to prevent event loop blocking
+            const files = await fs.promises.readdir(dir);
             files.forEach((file) => {
                 if (file.endsWith('.md') || file.endsWith('.mdx')) {
                     const slug = file.replace(/\.mdx?$/, '');
                     paths.push({ slug: [slug] });
                 }
             });
+        } catch (error) {
+            // Ignore directory not found errors
+            if ((error as NodeJS.ErrnoException).code !== 'ENOENT') {
+                throw error;
+            }
         }
     };
 
-    processDir(pagesDir);
-    processDir(postsDir);
+    // ⚡ Bolt Performance Optimization: Execute asynchronous directory reads concurrently
+    await Promise.all([
+        processDir(pagesDir),
+        processDir(postsDir)
+    ]);
 
     return paths;
 }
