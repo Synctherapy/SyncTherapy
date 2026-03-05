@@ -1,12 +1,13 @@
 ---
-title: "Infraredi Reviews, Pro Max, Flex Max, 15% Off"
+title: "Infraredi Review Canada 2026: Pro Max 2.0 Tested by an RMT"
 date: "2024-02-12 08:00:00"
-dateModified: "2026-01-27 14:50:00"
+dateModified: "2026-03-05 08:00:00"
 slug: infraredi-reviews
 description: >-
-  Detailed Infraredi red light therapy review for 2026. Pro Max and Flex Max
-  panels tested by an RMT. Canadian shipping, specs, and 15% discount code.
-seoTitle: "Infraredi Review 2026: Pro Max & Flex Max Tested"
+  Honest Infraredi review for Canadians in 2026. Pro Max 2.0 and full lineup
+  tested by an RMT. Is Infraredi legit? Specs, free Canadian shipping, and
+  exclusive discount code inside.
+seoTitle: "Infraredi Review Canada 2026: Pro Max 2.0 Tested by an RMT"
 productName: Infraredi Pro Series
 ---
 
@@ -15,7 +16,7 @@ productName: Infraredi Pro Series
     <div class="container mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
 
         <header class="text-center mb-10">
-            <p class="text-lg text-gray-600 max-w-3xl mx-auto">Discover the transformative power of light therapy with our comprehensive Infraredi review, focusing on the cutting-edge Pro Series. This article delves into the device's advanced technology, portability, and the myriad of health benefits it offers for muscle recovery, pain relief, and overall wellness.</p>
+            <p class="text-lg text-gray-600 max-w-3xl mx-auto">Is Infraredi legit? In this comprehensive Infraredi Canada review, we test the Pro Max 2.0 panel and the full Infraredi lineup — from targeted wraps to full-body panels. As a Registered Massage Therapist with 12+ years using red light therapy in-clinic, I break down the technology, specs, and real-world performance so you can decide if Infraredi is the right red light therapy brand for you.</p>
         </header>
 
         <main class="space-y-16">
@@ -33,12 +34,12 @@ productName: Infraredi Pro Series
 
              <!-- About Infraredi Section -->
             <section id="about-infraredi">
-                <h2>About Infraredi: A Trusted Name in Canada</h2>
+                <h2>About Infraredi: A Trusted Red Light Therapy Brand in Canada</h2>
                 <div class="bg-white p-8 rounded-lg shadow-md">
                     <div class="grid md:grid-cols-2 gap-8 items-center">
                         <div>
-                            <p class="mb-4 text-gray-700">Established in 2019, Infraredi has rapidly become one of the most trusted and reliable red light therapy companies for health enthusiasts and professionals in Canada. With a mission to provide the highest quality devices at affordable prices, every order ships free from their Montreal warehouse. Their dedication to customer satisfaction and innovative technology has earned them recognition as a leader in the industry. Known for offering the <a href="/at-home-red-light-therapy/">best red light devices in Canada</a>, Infraredi continues to expand its product range, ensuring that users have access to the latest advancements in red light therapy. This commitment to excellence not only enhances the health and wellness community but also fosters a loyal base of returning customers.</p>
-                            <p class="mb-4 text-gray-700">What truly sets Infraredi apart is their commitment to quality and safety. Their devices are the ONLY consumer devices in Canada to be **Approved by Health Canada**, a testament to their medical-grade quality. Furthermore, their Pro Series devices are listed on the Australian Register of Therapeutic Goods (ARTG) as a Medical Device Class IIa, complying with strict international safety standards.</p>
+                            <p class="mb-4 text-gray-700">Established in 2019, Infraredi has rapidly become one of the most trusted red light therapy companies in Canada. Based out of Montreal, they ship every order free from their Canadian warehouse — which means no import fees, no customs delays, and no hidden costs at checkout. Their dedication to customer satisfaction and innovative technology has earned them recognition as a leader in the Canadian red light therapy market. Known for offering the <a href="/at-home-red-light-therapy/">best red light devices in Canada</a>, Infraredi continues to expand its product range, with their newest Pro 2.0 Series launching in late 2025 featuring Bluetooth connectivity, preset treatment modes, and improved dual-lens LEDs.</p>
+                            <p class="mb-4 text-gray-700">What truly sets Infraredi apart is their commitment to quality and safety. Their devices are the <strong>ONLY consumer devices in Canada to be Approved by Health Canada</strong>, a testament to their medical-grade quality. Furthermore, their Pro Series devices are listed on the Australian Register of Therapeutic Goods (ARTG) as a Medical Device Class IIa (ARTG Number: 397270), complying with strict international safety standards. This dual certification is something no other Canadian red light therapy brand can claim.</p>
                         </div>
                         <img src="/uploads/2025/07/infraredi-pro-reviews-.webp" alt="The Infraredi Pro Max red light therapy panel in a clean, modern setting." class="rounded-lg shadow-md w-full">
                     </div>
@@ -75,15 +76,15 @@ productName: Infraredi Pro Series
             <!-- The Science Behind Infraredi -->
             <section id="science-behind">
                 <h2>The Science Behind Infraredi: How It Works</h2>
-                <p class="mb-6 text-gray-700">Infraredi devices work through a process called <a href="/red-light-therapy/" class="text-primary hover:underline font-semibold">photobiomodulation</a>. Specific wavelengths of red and near-infrared light penetrate the skin and are absorbed by mitochondria, the energy centers of your cells. This <a href="/red-light-therapy/" class="text-primary hover:underline font-semibold">boosts cellular energy</a> (ATP) production, which leads to a cascade of therapeutic benefits.</p>
+                <p class="mb-6 text-gray-700">Infraredi devices work through a process called <a href="/photobiomodulation-explained/" class="text-primary hover:underline font-semibold">photobiomodulation</a> (PBM). Specific <a href="/wavelength-for-red-light/" class="text-primary hover:underline font-semibold">wavelengths of red and near-infrared light</a> penetrate the skin and are absorbed by mitochondria, the energy centers of your cells. This <a href="/red-light-therapy/" class="text-primary hover:underline font-semibold">boosts cellular energy</a> (ATP) production, which leads to a cascade of therapeutic benefits including reduced inflammation, accelerated tissue repair, and improved circulation.</p>
                 <div class="grid md:grid-cols-2 gap-6">
                     <div class="bg-white p-6 rounded-lg shadow-sm">
-                        <h3 class="text-xl font-semibold"><i class="fas fa-lightbulb text-primary mr-2"></i><a href="/red-light-therapy/" class="text-primary hover:underline">Red Light (630-660nm)</a></h3>
-                        <p class="mt-2 text-gray-600">This wavelength is ideal for skin health. It helps stimulate collagen production, reduce the appearance of wrinkles, and improve overall skin tone and texture.</p>
+                        <h3 class="text-xl font-semibold"><i class="fas fa-lightbulb text-primary mr-2"></i><a href="/wavelength-for-red-light/" class="text-primary hover:underline">Red Light (630nm & 660nm)</a></h3>
+                        <p class="mt-2 text-gray-600">These wavelengths are ideal for skin health and surface-level healing. They help stimulate collagen production, reduce the appearance of wrinkles, improve skin tone and texture, and may help with conditions like <a href="/red-light-therapy-for-rosacea/" class="text-primary hover:underline">rosacea</a> and <a href="/red-light-therapy-and-scars/" class="text-primary hover:underline">scarring</a>.</p>
                     </div>
                     <div class="bg-white p-6 rounded-lg shadow-sm">
-                        <h3 class="text-xl font-semibold"><i class="fas fa-wave-square text-primary mr-2"></i>Near-Infrared Light (810-850nm)</h3>
-                        <p class="mt-2 text-gray-600">These longer wavelengths penetrate deeper into tissues, muscles, and joints. They are highly effective at reducing <a href="/red-light-therapy/" class="text-primary hover:underline font-semibold">inflammation</a>, relieving pain, and accelerating muscle recovery.</p>
+                        <h3 class="text-xl font-semibold"><i class="fas fa-wave-square text-primary mr-2"></i>Near-Infrared Light (830nm & 850nm)</h3>
+                        <p class="mt-2 text-gray-600">These longer wavelengths penetrate deeper into tissues, muscles, and joints. They are highly effective at reducing <a href="/red-light-therapy-for-inflammation/" class="text-primary hover:underline font-semibold">inflammation</a>, relieving <a href="/red-light-therapy-back-pain/" class="text-primary hover:underline">back pain</a>, and accelerating muscle recovery — which is why I recommend Infraredi's panels to many of my athletic therapy clients.</p>
                     </div>
                 </div>
             </section>
@@ -103,7 +104,7 @@ productName: Infraredi Pro Series
                         <i class="fas fa-bone text-5xl text-accent"></i>
                         <div>
                             <h3 class="text-xl font-bold">For Chronic Pain & Joint Relief</h3>
-                            <p class="text-gray-600">For targeted issues like <a href="/red-light-therapy-for-arthritis/" class="text-primary hover:underline font-semibold">arthritis</a> or knee pain, the <strong>Joint Wrap</strong> is an excellent, convenient choice. For more widespread pain like in the back or hips, the <strong>Pro Mini</strong> or <strong>Pro Max</strong> offer the power and coverage needed for deep relief.</p>
+                            <p class="text-gray-600">For targeted issues like <a href="/red-light-therapy-for-arthritis/" class="text-primary hover:underline font-semibold">arthritis</a> or <a href="/red-light-therapy-knee-pain/" class="text-primary hover:underline font-semibold">knee pain</a>, the <strong>Joint Wrap</strong> is an excellent, convenient choice. For more widespread pain like in the <a href="/red-light-therapy-back-pain/" class="text-primary hover:underline">back</a> or hips, the <strong>Pro Mini</strong> or <strong>Pro Max</strong> offer the power and coverage needed for deep relief.</p>
                         </div>
                     </div>
                      <div class="bg-white p-6 rounded-lg shadow-md flex items-center gap-6">
@@ -125,13 +126,14 @@ productName: Infraredi Pro Series
                     <div class="bg-white p-6 rounded-lg shadow-md flex flex-col md:flex-row gap-8">
                         <img src="/uploads/content/a-women-in-front-of-the-infrared-pro-max-while-reading-the-infraredi-review_f6874e3d-73b4-443e-bfc0-0a1a77a0fd7e.webp" alt="Woman using the Infraredi Pro Max Panel for a review." class="rounded-lg w-full md:w-1/3 h-auto object-cover">
                         <div class="flex-1">
-                            <h3 class="text-2xl font-bold">Infraredi Pro Max</h3>
-                            <p class="text-gray-600 mb-4">The ultimate device for half to full body treatments, setting a new standard in red light therapy with medical-grade quality and multi-wavelength technology.</p>
+                            <h3 class="text-2xl font-bold">Infraredi Pro Max 2.0</h3>
+                            <p class="text-gray-600 mb-4">The flagship device for half to full body treatments, now upgraded with the 2.0 series featuring Bluetooth connectivity, preset treatment modes, and Dimming+ mode. It sets a new standard in at-home red light therapy in Canada with medical-grade quality and multi-wavelength technology.</p>
                             <p class="mb-2"><strong>Best For:</strong> Athletes, fitness enthusiasts, and anyone seeking maximum power for full-body recovery and pain relief.</p>
                             <div class="grid grid-cols-2 gap-4 text-sm mb-4">
-                                <div><strong class="text-green-600">Pros:</strong><ul class="list-disc list-inside"><li>High power for deep penetration</li><li>Full body coverage</li><li>Advanced features (Pulsing/Dimming)</li></ul></div>
-                                <div><strong class="text-red-600">Cons:</strong><ul class="list-disc list-inside"><li>Requires dedicated space</li><li>Higher price point</li></ul></div>
+                                <div><strong class="text-green-600">Pros:</strong><ul class="list-disc list-inside"><li>250 mW/cm² irradiance</li><li>210 dual-lens LEDs</li><li>Bluetooth + preset treatment modes</li><li>Pulsing+ and Dimming+ modes</li><li>Free Canadian shipping from Montreal</li></ul></div>
+                                <div><strong class="text-red-600">Cons:</strong><ul class="list-disc list-inside"><li>Requires dedicated wall/door space</li><li>Higher price point</li></ul></div>
                             </div>
+                            <p class="text-sm text-gray-500 mb-2">Specs: 210 LEDs | 90.8cm x 22cm | 340W | 5 Wavelengths (630, 660, 830, 850nm) | 3-Year Warranty</p>
                             <p class="text-xl font-bold text-gray-800 mb-4">$1,399.00 <span class="line-through text-gray-400">$1,699.00</span></p>
                             <a href="https://infraredi.com/?sca_ref=5139909.hUut5gisEb" target="_blank" class="affiliate-button">Get The Best Deal</a>
                         </div>
@@ -158,7 +160,7 @@ productName: Infraredi Pro Series
                         <img src="/uploads/2025/07/infraredi-knee-joint-wrap-led-therapy-and-best-red-light-therapy-for-knee-pain.webp" alt="Infraredi Joint Wrap for knee pain" class="rounded-lg w-full md:w-1/3 h-auto object-cover">
                         <div class="flex-1">
                             <h3 class="text-2xl font-bold">Joint Wrap</h3>
-                            <p class="text-gray-600 mb-4">Your new everyday companion for managing joint pain and arthritis, designed to reach deep into joints for soothing relief.</p>
+                            <p class="text-gray-600 mb-4">Your new everyday companion for managing <a href="/red-light-therapy-knee-pain/" class="text-primary hover:underline">knee pain</a>, <a href="/red-light-therapy-for-arthritis/" class="text-primary hover:underline">arthritis</a>, and joint inflammation, designed to reach deep into joints for soothing relief.</p>
                             <p class="mb-2"><strong>Best For:</strong> Anyone seeking a natural, non-invasive way to reduce pain and inflammation in specific joints like knees, shoulders, or elbows.</p>
                             <div class="grid grid-cols-2 gap-4 text-sm mb-4">
                                 <div><strong class="text-green-600">Pros:</strong><ul class="list-disc list-inside"><li>Portable and rechargeable</li><li>Specifically designed for joints</li><li>Convenient 10-20 minute sessions</li></ul></div>
@@ -174,8 +176,8 @@ productName: Infraredi Pro Series
                         <img src="/uploads/2025/07/infraredi-led-device-for-back-pain-and-best-red-light-therapy-for-back-pain.webp" alt="Infraredi Body Wrap for back pain" class="rounded-lg w-full md:w-1/3 h-auto object-cover">
                         <div class="flex-1">
                             <h3 class="text-2xl font-bold">Body Wrap</h3>
-                            <p class="text-gray-600 mb-4">The ultimate pain relief and recovery solution, designed to provide targeted relief to the areas of your body that need it most.</p>
-                            <p class="mb-2"><strong>Best For:</strong> People with lower back pain or those needing portable muscle recovery for larger areas like the torso or legs.</p>
+                            <p class="text-gray-600 mb-4">The ultimate pain relief and recovery solution, designed to provide targeted relief to the areas of your body that need it most. Many of my clients use this specifically for <a href="/red-light-therapy-back-pain/" class="text-primary hover:underline">lower back pain</a>.</p>
+                            <p class="mb-2"><strong>Best For:</strong> People with <a href="/red-light-therapy-back-pain/" class="text-primary hover:underline">lower back pain</a> or those needing portable muscle recovery for larger areas like the torso or legs.</p>
                             <div class="grid grid-cols-2 gap-4 text-sm mb-4">
                                 <div><strong class="text-green-600">Pros:</strong><ul class="list-disc list-inside"><li>Flexible and portable</li><li>Covers larger areas than joint wrap</li><li>Improves circulation</li></ul></div>
                                 <div><strong class="text-red-600">Cons:</strong><ul class="list-disc list-inside"><li>Less powerful than panels</li></ul></div>
@@ -189,21 +191,22 @@ productName: Infraredi Pro Series
 
             <!-- Quick Verdict Section -->
             <section id="quick-verdict">
-                <h2>Quick Verdict: Infraredi vs. Competitors</h2>
-                <p class="mb-6 text-gray-700">How does Infraredi stack up against other popular brands in Canada? Here’s a quick visual comparison to help you decide. For a deeper analysis, see our guide to the <a href="/best-red-light-therapy-panels/" class="text-primary hover:underline font-semibold">best red light therapy panels</a>. Infraredi is known for its high-quality construction and effectiveness, making it a strong contender in the red light therapy market. If you're specifically looking for the <a href="/fda-approved-red-light-therapy-devices-for-pain/">best red light devices for pain</a> relief, you might find that certain models outperform others in clinical studies. Consider factors such as wavelength, intensity, and user reviews to ensure you choose the best option for your needs.</p>
+                <h2>Quick Verdict: Infraredi vs. Competitors in Canada</h2>
+                <p class="mb-6 text-gray-700">How does Infraredi stack up against other popular red light therapy brands available to Canadians? Here's a quick comparison to help you decide. For a deeper analysis, see our guide to the <a href="/best-red-light-therapy-panels/" class="text-primary hover:underline font-semibold">best red light therapy panels</a>. If you're specifically looking for the <a href="/fda-approved-red-light-therapy-devices-for-pain/">best red light devices for pain</a> relief, you might find that certain models outperform others in clinical studies. The biggest advantage Infraredi has for Canadian buyers is local fulfillment — no import duties, no customs delays, and free express shipping.</p>
                 <div class="grid md:grid-cols-3 gap-6">
                     <div class="quick-verdict-card best-value">
-                        <h3 class="text-xl font-bold text-center">Infraredi Pro Max</h3>
+                        <h3 class="text-xl font-bold text-center">Infraredi Pro Max 2.0</h3>
                         <p class="text-center font-semibold text-accent mb-4">Best for Canadians</p>
                         <ul class="space-y-2 text-sm">
                             <li><i class="fas fa-check-circle text-green-500"></i> <strong>Best Warranty:</strong> 3 Years + 60-Day Trial</li>
                             <li><i class="fas fa-check-circle text-green-500"></i> <strong>Canadian Fulfillment:</strong> No import fees</li>
-                            <li><i class="fas fa-check-circle text-green-500"></i> <strong>High Power:</strong> ~250 mW/cm²</li>
-                            <li><i class="fas fa-check-circle text-green-500"></i> 5 Wavelengths</li>
+                            <li><i class="fas fa-check-circle text-green-500"></i> <strong>High Power:</strong> 250 mW/cm²</li>
+                            <li><i class="fas fa-check-circle text-green-500"></i> 5 Wavelengths (630, 660, 830, 850nm)</li>
+                            <li><i class="fas fa-check-circle text-green-500"></i> Bluetooth + Preset Modes</li>
                         </ul>
                     </div>
                     <div class="quick-verdict-card">
-                        <h3 class="text-xl font-bold text-center">Rouge G4</h3>
+                        <h3 class="text-xl font-bold text-center"><a href="/rouge-red-light-therapy-reviews/" class="hover:underline">Rouge G4</a></h3>
                         <p class="text-center font-semibold text-gray-500 mb-4">Best for Tech Features</p>
                         <ul class="space-y-2 text-sm">
                             <li><i class="fas fa-check-circle text-green-500"></i> <strong>Most Wavelengths:</strong> 8 total</li>
@@ -213,13 +216,14 @@ productName: Infraredi Pro Series
                         </ul>
                     </div>
                     <div class="quick-verdict-card">
-                        <h3 class="text-xl font-bold text-center">MitoPRO 750</h3>
+                        <h3 class="text-xl font-bold text-center"><a href="/mito-pro-x-750-review/" class="hover:underline">MitoPRO 750</a></h3>
                         <p class="text-center font-semibold text-gray-500 mb-4">Best Value in USA</p>
                         <ul class="space-y-2 text-sm">
                             <li><i class="fas fa-check-circle text-green-500"></i> <strong>Power for Price:</strong> Excellent value</li>
                             <li><i class="fas fa-check-circle text-green-500"></i> <strong>High Power:</strong> ~170 mW/cm²</li>
                             <li><i class="fas fa-check-circle text-green-500"></i> 4 Wavelengths</li>
                             <li><i class="fas fa-check-circle text-green-500"></i> 3-Year Warranty</li>
+                            <li><i class="fas fa-check-circle text-green-500"></i> <em>Note: Ships from USA — import fees may apply for Canadians</em></li>
                         </ul>
                     </div>
                 </div>
@@ -228,11 +232,16 @@ productName: Infraredi Pro Series
             <!-- Common Alternatives Section -->
             <section id="alternatives">
                 <h2>Considering Other Options?</h2>
-                <p class="text-gray-700">While Infraredi is our top pick for Canadians, we know it's wise to explore all your options. For more in-depth comparisons and reviews of other leading brands, check out our other expert guides:</p>
+                <p class="text-gray-700">While Infraredi is our top pick for Canadians, we know it's wise to explore all your options. For more in-depth comparisons and reviews of other leading red light therapy brands, check out our other expert guides:</p>
                 <ul class="list-disc list-inside mt-4 space-y-2">
+                    <li><a href="/infraredi-vs-kala/" class="text-primary hover:underline font-semibold">Infraredi vs. Kala: Head-to-Head Canadian Comparison</a></li>
+                    <li><a href="/rouge-red-light-therapy-reviews/" class="text-primary hover:underline font-semibold">Rouge Red Light Therapy Reviews</a></li>
+                    <li><a href="/platinum-led-therapy-lights-review/" class="text-primary hover:underline font-semibold">PlatinumLED Therapy Lights Review</a></li>
+                    <li><a href="/mito-red-light-therapy-review/" class="text-primary hover:underline font-semibold">Mito Red Light Therapy Review</a></li>
                     <li><a href="/hooga-red-light-therapy-reviews/" class="text-primary hover:underline font-semibold">Hooga Red Light Therapy Reviews</a></li>
                     <li><a href="/bon-charge-mini-red-light-review/" class="text-primary hover:underline font-semibold">Bon Charge Mini Red Light Review</a></li>
                     <li><a href="/flexbeam-reviews/" class="text-primary hover:underline font-semibold">Flexbeam Reviews</a></li>
+                    <li><a href="/orion-red-light-therapy-review/" class="text-primary hover:underline font-semibold">Orion Red Light Therapy Review</a></li>
                 </ul>
             </section>
 
@@ -242,36 +251,65 @@ productName: Infraredi Pro Series
                 <div class="space-y-4">
                     <details class="bg-white p-6 rounded-lg shadow-sm group">
                         <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">
+                            Is Infraredi legit?
+                            <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
+                        </summary>
+                        <p class="mt-4 text-gray-700">Yes, Infraredi is a legitimate and reputable red light therapy company based in Canada. They are the only consumer red light therapy brand with <strong>Health Canada Approval</strong>, and their Pro Series is also registered on the Australian ARTG as a Medical Device Class IIa. They've been operating since 2019, ship free from their Montreal warehouse, and offer a 3-year warranty and 60-day risk-free trial. As a Registered Massage Therapist, I've used their devices with clients and can confirm they are well-built, produce measurable irradiance, and deliver real therapeutic benefits.</p>
+                    </details>
+                    <details class="bg-white p-6 rounded-lg shadow-sm group">
+                        <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">
+                            Does Infraredi ship to all of Canada?
+                            <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
+                        </summary>
+                        <p class="mt-4 text-gray-700">Yes, Infraredi ships free to all Canadian provinces and territories from their Montreal warehouse via express courier. Since they fulfill locally within Canada, you won't pay any import duties, customs fees, or brokerage charges — which is a major advantage over US-based competitors. Most orders arrive within 3-7 business days depending on your location.</p>
+                    </details>
+                    <details class="bg-white p-6 rounded-lg shadow-sm group">
+                        <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">
                             How long does it take to see results with Infraredi?
                             <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
                         </summary>
-                        <p class="mt-4 text-gray-700">While some users report feeling relief from pain and soreness after just a few sessions, significant results like improved skin texture and lasting joint pain relief typically require consistent use. For more details, see our guide on <a href="/at-home-red-light-therapy/" class="text-primary hover:underline font-semibold">how often to use red light therapy</a>. The 60-day risk-free trial provides ample time to experience the benefits for yourself. As you explore this therapy, it's also important to stay informed about the latest developments in the field. Be sure to check out updated resources related to <a href="/red-light-therapy-costs/">2024 red light therapy prices</a>, as these may affect your decision to invest in this treatment. Overall, the potential benefits make it worth considering for those seeking relief and rejuvenation.</p>
+                        <p class="mt-4 text-gray-700">While some users report feeling relief from pain and soreness after just a few sessions, significant results like improved skin texture and lasting joint pain relief typically require 4-8 weeks of consistent use. Check out our <a href="/red-light-therapy-before-and-after/" class="text-primary hover:underline font-semibold">red light therapy before and after results</a> for real examples. For more details on how to optimize your sessions, see our guide on <a href="/how-to-use-red-light-therapy-at-home/" class="text-primary hover:underline font-semibold">how to use red light therapy at home</a>. The 60-day risk-free trial provides ample time to experience the benefits for yourself.</p>
                     </details>
                     <details class="bg-white p-6 rounded-lg shadow-sm group">
                         <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">
                             Is Infraredi better than Kala or other brands?
                             <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
                         </summary>
-                        <p class="mt-4 text-gray-700">Infraredi stands out for its combination of multiple wavelengths, high-quality medical-grade construction, and an industry-leading warranty and trial period, especially for Canadian customers. While other brands like Kala offer great budget options, Infraredi's Pro series provides more advanced technology and therapeutic versatility. Check out our <a href="/infraredi-vs-kala/" class="text-primary hover:underline font-semibold">Infraredi vs. Kala comparison</a> for a detailed breakdown.</p>
+                        <p class="mt-4 text-gray-700">Infraredi stands out for its combination of multiple wavelengths, high-quality medical-grade construction, Health Canada Approval, and an industry-leading warranty and trial period. While other brands like Kala offer great budget options, Infraredi's Pro 2.0 Series provides more advanced technology (Bluetooth, preset modes, pulsing) and therapeutic versatility. Check out our <a href="/infraredi-vs-kala/" class="text-primary hover:underline font-semibold">Infraredi vs. Kala comparison</a> for a detailed breakdown.</p>
                     </details>
-                     <details class="bg-white p-6 rounded-lg shadow-sm group">
+                    <details class="bg-white p-6 rounded-lg shadow-sm group">
                         <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">
                             What is the recommended treatment time and distance?
                             <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
                         </summary>
-                        <p class="mt-4 text-gray-700">For optimal results, position the device 6 to 24 inches from the treatment area. A typical session lasts between 10 to 20 minutes. It's best to start with shorter sessions and gradually increase as your body adapts. Always follow the specific guidelines provided with your device.</p>
+                        <p class="mt-4 text-gray-700">For optimal results, position the device 6 to 24 inches from the treatment area. A typical session lasts between 10 to 20 minutes. The Pro 2.0 Series includes preset treatment modes that automatically set the right time for different goals (recovery, skin health, relaxation). For a full guide, see our article on <a href="/how-to-use-red-light-therapy-at-home/" class="text-primary hover:underline font-semibold">how to use red light therapy at home</a>. It's best to start with shorter sessions and gradually increase as your body adapts.</p>
+                    </details>
+                    <details class="bg-white p-6 rounded-lg shadow-sm group">
+                        <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">
+                            Is there an Infraredi coupon code or discount?
+                            <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
+                        </summary>
+                        <p class="mt-4 text-gray-700">Yes! Use the link below to automatically apply the best available Infraredi discount to your order. This is the best deal we've been able to negotiate as Infraredi partners. The discount applies to all devices including the Pro Max 2.0, wraps, and accessories.</p>
+                        <p class="mt-3"><a href="https://infraredi.com/?sca_ref=5139909.hUut5gisEb" target="_blank" class="affiliate-button">Get The Best Infraredi Deal <i class="fas fa-arrow-right ml-2"></i></a></p>
+                    </details>
+                    <details class="bg-white p-6 rounded-lg shadow-sm group">
+                        <summary class="font-semibold text-lg cursor-pointer flex justify-between items-center text-primary">
+                            What is the difference between the Pro Max and Pro Max 2.0?
+                            <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
+                        </summary>
+                        <p class="mt-4 text-gray-700">The Pro Max 2.0 is the upgraded version of the original Pro Max. Key improvements include Bluetooth connectivity, preset treatment modes for different goals (recovery, skin health, relaxation), a Dimming+ mode that adjusts brightness from 100% down to 1%, and improved dual-lens LED technology. Both models share the same core wavelengths (630, 660, 830, 850nm) and 250 mW/cm² irradiance. If you're buying new, the 2.0 is the way to go — the original Pro Max has been phased out on infraredi.ca.</p>
                     </details>
                 </div>
             </section>
 
             <!-- Final Thoughts -->
             <section id="final-thoughts" class="bg-primary text-white p-8 rounded-lg shadow-lg">
-                <h2 class="text-3xl font-bold mb-4 !text-white !border-accent">Final Verdict: Is Infraredi Worth It?</h2>
+                <h2 class="text-3xl font-bold mb-4 !text-white !border-accent">Final Verdict: Is Infraredi Worth It for Canadians?</h2>
                 <p class="text-lg leading-relaxed mb-4">
-                    After a thorough review, our answer is a resounding yes. Infraredi devices, particularly the Pro Series, offer a powerful combination of advanced technology, medical-grade quality, and user-friendly features. The inclusion of multiple bioactive wavelengths ensures you're getting a comprehensive treatment that addresses pain, recovery, and skin health simultaneously.
+                    After extensive testing and use in my clinical practice, my answer is a resounding yes. Infraredi devices — particularly the Pro Max 2.0 — offer a powerful combination of advanced technology, medical-grade quality, and features that matter (Bluetooth, preset modes, pulsing). The inclusion of 4 bioactive wavelengths (630, 660, 830, 850nm) ensures you're getting comprehensive treatment that addresses pain, recovery, and skin health simultaneously.
                 </p>
                 <p class="text-lg leading-relaxed">
-                    Backed by a 3-year warranty and a 60-day risk-free trial, investing in an Infraredi device is a secure and effective step toward enhancing your overall well-being. If you're serious about leveraging light therapy for a healthier, more active life, Infraredi is an excellent choice for Canadians.
+                    For Canadians specifically, Infraredi is hard to beat: free shipping from Montreal, no import fees, Health Canada Approval, and a 3-year warranty with a 60-day risk-free trial. If you're serious about at-home red light therapy and want a device backed by real certifications (not just marketing claims), Infraredi is the clear choice for Canadians in 2026.
                 </p>
                  <div class="mt-6 text-center">
                     <a href="https://infraredi.com/?sca_ref=5139909.hUut5gisEb" target="_blank" class="affiliate-button">Shop Infraredi Now & Get The Best Deal <i class="fas fa-arrow-right ml-2"></i></a>
