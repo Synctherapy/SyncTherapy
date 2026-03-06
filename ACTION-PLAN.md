@@ -1,29 +1,20 @@
-# ACTION PLAN
+# Action Plan: Sauna Blanket Pages SEO
 
-**Target URL:** `https://synctherapy.ca/best-prebiotics-and-probiotics-supplements/`
+**Target URLs / Files:**
+- `/best-sauna-blanket/` (content/posts/best-sauna-blanket.md)
+- `/higherdose-sauna-blanket/` (content/posts/higherdose-sauna-blanket.md)
 
-## Phase 1: High Priority (Quick Wins)
+---
 
-1. **Remove FAQPage Schema**
-   - **Impact**: Medium
-   - **Effort**: Low
-   - **Action**: Delete the FAQPage JSON-LD block from the page source or CMS component. Google restricts this to government/healthcare authority domains (August 2023 update). Leaving it may cause search console warnings.
+## Completed Actions
+✅ **Keyword Gap Injection:** Extracted and mapped missing long-tail keywords ("zero emf sauna blanket", "best infrared sauna blankets with low emf", "higher dose reviews", "benefits of higher dose sauna blanket") directly into the newly redesigned pages.
+✅ **Meta Description Fix:** Corrected a trailing truncation "This..." in the `higherdose-sauna-blanket.md` meta description to form a comprehensive call-to-action to read the review and use the discount.
+✅ **Internal Linking Architecture:** Bridged topical authority clusters by linking the general `/best-sauna-blanket/` listicle with the standalone `/bon-charge-sauna-blanket-review/` and `/higherdose-sauna-blanket/` hub pages.
+✅ **UI / UX Redesign (CRO):** Ripped out archaic bloggle plugins and deployed ultra-modern Tailwind CSS layouts designed for scanning and aesthetic appeal using the Digital Blue brand palette.
 
-## Phase 2: Medium Priority (Strategic Improvements)
+## Pending Strategic Actions (To Reach #1 Long Term)
+If ranking does not hit #1 after 4 weeks of these updates indexing:
 
-2. **Improve Readability**
-   - **Impact**: Medium
-   - **Effort**: Medium
-   - **Action**: Break down complex paragraphs covering medical terms into bullet points or shorter sentences (aim for 2-4 sentences max per paragraph). Simplify words with 3+ syllables where appropriate to improve the Flesch Reading Ease score from 41.4 to at least 50+.
-
-3. **Verify Core Web Vitals Performance**
-   - **Impact**: High
-   - **Effort**: Low (to test)
-   - **Action**: Run the page through Google PageSpeed Insights web app to ensure `LCP` under 2.5s and `INP` under 200ms. Since the API rate limited during the audit, this manual verification is essential.
-
-## Phase 3: Low Priority (Maintenance)
-
-4. **Monitor Future Schema Deprecations**
-   - **Impact**: Low
-   - **Effort**: Low
-   - **Action**: Regularly monitor schema standards (e.g., deprecated `HowTo` schema) to prepare for future structural changes. The strong `BlogPosting` and `Person` E-E-A-T schemas on the page are currently excellent but may require updates over time.
+1. 🟢 **Social Proof/Backlinks:** Aim to embed a fresh YouTube video explicitly demonstrating a 2026 test of the HigherDOSE V4 EMF levels with an active EMF meter to prove the safety claims on-camera.
+2. 🟢 **Schema Refresh:** Wait for GSC indexing to report any issues with `FAQPage` snippets to evaluate whether deeper `Product` or `Review` schema (aggregating star ratings) needs manual coding beyond standard arrays.
+3. 🟡 **Core Web Vitals Check (Live):** Once deployed, run the live URLs through PageSpeed Insights on Mobile to ensure the Tailwind CSS payload is fully optimized and any images on the page load under 2.5s (LCP).
