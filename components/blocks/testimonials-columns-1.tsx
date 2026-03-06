@@ -11,6 +11,9 @@ interface Testimonial {
   role: string;
 }
 
+// Pre-allocate duplicate array to prevent recreating [0, 1] on every render
+const DUPLICATES = [0, 1];
+
 export const TestimonialsColumn = (props: {
   className?: string;
   testimonials: Testimonial[];
@@ -31,7 +34,7 @@ export const TestimonialsColumn = (props: {
         className="flex flex-col gap-6 pb-6 bg-background"
       >
         {[
-          ...new Array(2).fill(0).map((_, index) => (
+          ...DUPLICATES.map((_, index) => (
             <React.Fragment key={index}>
               {props.testimonials.map(({ text, image, name, role }, i) => (
                 <div className="p-10 rounded-3xl border shadow-lg shadow-primary/10 max-w-xs w-full" key={i}>

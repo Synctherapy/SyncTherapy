@@ -3,6 +3,9 @@
 import { Star } from "lucide-react";
 import Link from "next/link";
 
+// Pre-allocate array for 5 stars to prevent recreating [undefined, ...] on every render
+const STARS = [0, 1, 2, 3, 4];
+
 const reviews = [
     {
         name: "Melanie M.",
@@ -51,7 +54,7 @@ export default function GoogleReviewWidget() {
                             <span className="font-bold text-sm text-foreground">Google Rating</span>
                             <span className="text-sm font-medium text-muted-foreground">4.9</span>
                             <div className="flex items-center">
-                                {[...Array(5)].map((_, i) => (
+                                {STARS.map((_, i) => (
                                     <Star key={i} className="w-3.5 h-3.5 fill-[#FBBC05] text-[#FBBC05]" />
                                 ))}
                             </div>
@@ -72,7 +75,7 @@ export default function GoogleReviewWidget() {
                 {reviews.map((review, i) => (
                     <div key={i} className="bg-card p-6 rounded-2xl shadow-[0_8px_30px_rgb(0,0,0,0.04)] hover:shadow-[0_8px_30px_rgb(0,0,0,0.08)] transition-all duration-300 flex flex-col h-full border-none">
                         <div className="flex items-center gap-1 mb-3">
-                            {[...Array(review.stars)].map((_, i) => (
+                            {STARS.slice(0, review.stars).map((_, i) => (
                                 <Star key={i} className="w-4 h-4 fill-[#FBBC05] text-[#FBBC05]" />
                             ))}
                         </div>
