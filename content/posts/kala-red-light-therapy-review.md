@@ -454,7 +454,7 @@ faqs:
                     <div class="grid md:grid-cols-2 gap-6">
                         <img src="/uploads/content/kala-red-light-pemf-mat-300x300_d5d27798-94b9-4567-a3f7-6171b8cabec4.webp" onerror="this.onerror=null;this.src='https://placehold.co/400x400/CCCCCC/333333?text=Kala+PEMF+Mat';" alt="Kala Infrared PEMF Mat review for pain relief" class="rounded-lg shadow-sm w-full h-auto object-cover">
                         <div>
-                            <p class="mb-4 text-gray-700">This mat combines <a class="wpil_keyword_link" href="/best-pemf-mats/" class="text-primary hover:underline font-semibold">PEMF therapy</a> with infrared heat—a powerful combo for pain relief and recovery. This device genuinely helped me when I needed it most.</p>
+                            <p class="mb-4 text-gray-700">This mat combines <a  href="/best-pemf-mats/" class="text-primary hover:underline font-semibold">PEMF therapy</a> with infrared heat—a powerful combo for pain relief and recovery. This device genuinely helped me when I needed it most.</p>
 
                             <div class="bg-gradient-to-r from-red-50 to-orange-50 p-4 rounded-lg border-l-4 border-orange-500 mb-4">
                                 <h4 class="font-bold mb-2 text-lg">🚙 My Car Accident Recovery Story</h4>

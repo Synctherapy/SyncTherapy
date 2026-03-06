@@ -33,7 +33,7 @@ faqs:
             <!-- Quick Verdict -->
             <section id="quick-verdict" class="bg-blue-50 border-l-4 border-primary p-6 rounded-lg shadow-sm">
                 <h2 class="text-2xl font-bold mb-4 !border-none !pl-0"><i class="fas fa-star text-accent mr-2"></i>Quick Verdict: Best RLT for Back Pain</h2>
-                <p class="mb-4">In a hurry? Here are our top-rated <a class="wpil_keyword_link" href="/at-home-red-light-therapy/"   title="red light therapy devices">red light therapy devices</a> for back pain relief in 2026.</p>
+                <p class="mb-4">In a hurry? Here are our top-rated <a  href="/at-home-red-light-therapy/"   title="red light therapy devices">red light therapy devices</a> for back pain relief in 2026.</p>
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
                     <div class="bg-white p-4 rounded-lg shadow text-center">
                         <h4 class="font-bold">Best Wearable Belt</h4>

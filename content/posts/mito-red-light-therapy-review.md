@@ -34,7 +34,7 @@ productName: Mito Red Light Therapy Panels
                 <ul class="space-y-3 list-disc list-inside text-gray-800">
                     <li><strong>Best Overall Panel:</strong> The <a href="#mitopro-1500" class="font-semibold text-primary hover:underline">MitoPRO 1500</a> is our top pick. Our review found it has unmatched power, the lowest EMF emissions, and incredible value, making it the best investment for serious users.</li>
                     <li><strong>Most Versatile Series:</strong> The <a href="#mitoadapt-series" class="font-semibold text-primary hover:underline">MitoAdapt 2.0 Series</a> offers the latest technology with dual-chip, multi-wavelength LEDs and app integration, perfect for those who want customization and efficiency.</li>
-                    <li><strong>Proven Health Benefits:</strong> Mito <a class="wpil_keyword_link" href="/at-home-red-light-therapy/"   title="Red Light Therapy devices">Red Light Therapy devices</a> are effective for enhancing skin health, boosting collagen, improving muscle recovery, and reducing pain and inflammation.</li>
+                    <li><strong>Proven Health Benefits:</strong> Mito <a  href="/at-home-red-light-therapy/"   title="Red Light Therapy devices">Red Light Therapy devices</a> are effective for enhancing skin health, boosting collagen, improving muscle recovery, and reducing pain and inflammation.</li>
                     <li><strong>Exclusive Discount:</strong> Use code <strong>"synctherapy"</strong> to get the best deal on your Mito Red Light purchase.</li>
                 </ul>
             </section>

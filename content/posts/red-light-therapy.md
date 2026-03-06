@@ -440,7 +440,7 @@ faqs:
         <section id="device-types">
             <h2><i class="fas fa-th-large text-accent mr-2"></i>Types of Red Light Therapy Devices</h2>
             <div class="bg-white p-6 rounded-lg shadow-md">
-                <p class="mb-6"><a class="wpil_keyword_link" href="/at-home-red-light-therapy/"   title="Red light therapy devices">Red light therapy devices</a> vary significantly in power, size, wavelength, and price. Understanding these differences helps you choose the right option for your needs.</p>
+                <p class="mb-6"><a  href="/at-home-red-light-therapy/"   title="Red light therapy devices">Red light therapy devices</a> vary significantly in power, size, wavelength, and price. Understanding these differences helps you choose the right option for your needs.</p>
 
                 <div class="bg-blue-50 border-l-4 border-primary p-4 rounded mb-6">
                     <h3 class="text-xl font-bold mb-2">Professional vs. Home Devices</h3>

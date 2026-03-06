@@ -88,7 +88,7 @@ rating: 4.6
             <!-- HG Series -->
             <section id="hg-series">
                 <h2>Hooga HG Series Review: The Starter Panels</h2>
-                <img src="https://cdn.shopify.com/s/files/1/0886/1030/8407/files/using-the-benefits-of-hooga-red-light-to-achience-a-better-quality-sleep--300x300_e002cc61-583e-4a65-9a93-fd448c6c6f6e_1000x.webp?v=1724756482" onerror="this.onerror=null;this.src='https://placehold.co/800x400/CCCCCC/333333?text=Hooga+HG+Series';" alt="A person using a Hooga HG series device for better sleep." class="rounded-lg shadow-lg mb-8 w-full">
+                <img src="/uploads/content/using-the-benefits-of-hooga-red-light-to-achience-a-better-quality-sleep--300x300_e002cc61-583e-4a65-9a93-fd448c6c6f6e_1000x.webp" onerror="this.onerror=null;this.src='https://placehold.co/800x400/CCCCCC/333333?text=Hooga+HG+Series';" alt="A person using a Hooga HG series device for better sleep." class="rounded-lg shadow-lg mb-8 w-full">
                 <p class="mb-4">The HG series is Hooga's entry-level line, perfect for beginners looking to get into red light therapy without a huge investment. These panels use single-chip LEDs (660nm Red and 850nm NIR) and are the most affordable options, but they lack the features of the Pro and Ultra lines.</p>
 
                 <div id="hg300-review" class="bg-white p-6 rounded-lg shadow-md mt-6">
@@ -107,7 +107,7 @@ rating: 4.6
             <!-- Pro Series -->
             <section id="pro-series">
                 <h2>Hooga Pro Series Review: The Smart Upgrade</h2>
-                <img src="https://cdn.shopify.com/s/files/1/0886/1030/8407/files/reviewing-the-PRO300-to-improve-wrinkles-and-anti-aging-300x300_bc966e7a-54fb-43c0-b759-84f99615983c_1000x.webp?v=1724756479" onerror="this.onerror=null;this.src='https://placehold.co/800x400/CCCCCC/333333?text=Hooga+Pro+Series';" alt="A Hooga Pro series panel being reviewed for anti-aging benefits." class="rounded-lg shadow-lg mb-8 w-full">
+                <img src="/uploads/content/reviewing-the-PRO300-to-improve-wrinkles-and-anti-aging-300x300_bc966e7a-54fb-43c0-b759-84f99615983c_1000x.webp" onerror="this.onerror=null;this.src='https://placehold.co/800x400/CCCCCC/333333?text=Hooga+Pro+Series';" alt="A Hooga Pro series panel being reviewed for anti-aging benefits." class="rounded-lg shadow-lg mb-8 w-full">
                 <p class="mb-4">The <strong>Hooga Pro</strong> series is a significant step up, addressing the core limitations of the HG line. This is the series we recommend for most users as it provides the best balance of price and performance.</p>
 
                 <div id="pro300-review" class="bg-white p-6 rounded-lg shadow-md mt-6">
@@ -130,7 +130,7 @@ rating: 4.6
             <!-- Ultra Series -->
             <section id="ultra-series">
                 <h2>Hooga Ultra Series Review: Maximum Power & Features</h2>
-                <img src="https://cdn.shopify.com/s/files/1/0886/1030/8407/files/the-hooga-ultra-series-has-many-benefits-for-sleep-and-skin-health-300x300_ab402fae-bc86-47f4-b995-2ba310c3e75d_1000x.webp?v=1724756491" onerror="this.onerror=null;this.src='https://placehold.co/800x400/CCCCCC/333333?text=Hooga+Ultra+Series';" alt="The Hooga Ultra series panel showing benefits for sleep and skin." class="rounded-lg shadow-lg mb-8 w-full">
+                <img src="/uploads/content/the-hooga-ultra-series-has-many-benefits-for-sleep-and-skin-health-300x300_ab402fae-bc86-47f4-b995-2ba310c3e75d_1000x.webp" onerror="this.onerror=null;this.src='https://placehold.co/800x400/CCCCCC/333333?text=Hooga+Ultra+Series';" alt="The Hooga Ultra series panel showing benefits for sleep and skin." class="rounded-lg shadow-lg mb-8 w-full">
                 <p class="mb-4">The <strong>Hooga Ultra</strong> series is the brand's premium line, designed to compete with high-end competitors. It's for users who want the most advanced technology and are willing to pay for it.</p>
                  <div id="ultra360-review" class="bg-white p-6 rounded-lg shadow-md mt-6">
                     <h3>Hooga Ultra 360 & Ultra 1500 Review</h3>
@@ -193,7 +193,7 @@ rating: 4.6
                 </div>
                  <div id="pemf-mat" class="bg-white p-6 rounded-lg shadow-md mt-8 col-span-1 md:col-span-2">
                     <h3>Hooga PEMF Mat Review: Best PEMF Mat in Canada?</h3>
-                    <p class="mb-4">The <strong>Hooga <a class="wpil_keyword_link" href="/best-pemf-mats/"   title="PEMF">PEMF</a> Mat</strong> (or Infrared PEMF Mat) is one of our favorite wellness tools. It combines two powerful technologies: Pulsed Electromagnetic Field (PEMF) therapy to recharge your cells and deep-penetrating infrared heat to relax muscles and reduce inflammation. For Canadians looking for the <strong>best PEMF mat in 2026</strong>, Hooga's combination of quality, features, and price makes it a top contender. Many <strong>Hooga PEMF Mat reviews</strong> praise its effectiveness for pain relief and improved sleep. You can see how it stacks up in our full <a href="/best-pemf-mats/" class="text-primary hover:underline">best PEMF mats</a> guide.</p>
+                    <p class="mb-4">The <strong>Hooga <a  href="/best-pemf-mats/"   title="PEMF">PEMF</a> Mat</strong> (or Infrared PEMF Mat) is one of our favorite wellness tools. It combines two powerful technologies: Pulsed Electromagnetic Field (PEMF) therapy to recharge your cells and deep-penetrating infrared heat to relax muscles and reduce inflammation. For Canadians looking for the <strong>best PEMF mat in 2026</strong>, Hooga's combination of quality, features, and price makes it a top contender. Many <strong>Hooga PEMF Mat reviews</strong> praise its effectiveness for pain relief and improved sleep. You can see how it stacks up in our full <a href="/best-pemf-mats/" class="text-primary hover:underline">best PEMF mats</a> guide.</p>
                 </div>
             </section>
 

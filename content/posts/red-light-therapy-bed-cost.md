@@ -130,7 +130,7 @@ faqs:
                         <tr class="comparison-row border-t">
                             <td class="p-4 font-medium">TheraLight 360</td>
                             <td class="p-4 text-primary font-bold">$85,000</td>
-                            <td class="p-4">4 wavelengths (633, 810, 850, 940nm), <a class="wpil_keyword_link" href="/best-pemf-mats/"   title="PEMF">PEMF</a> option</td>
+                            <td class="p-4">4 wavelengths (633, 810, 850, 940nm), <a  href="/best-pemf-mats/"   title="PEMF">PEMF</a> option</td>
                             <td class="p-4">Wellness centers, chiropractors</td>
                         </tr>
                         <tr class="comparison-row border-t">

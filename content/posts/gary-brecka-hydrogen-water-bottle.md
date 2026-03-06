@@ -209,7 +209,7 @@ faqs:
         <!-- Echo Flask vs Echo Go+ -->
         <section id="flask-vs-go">
             <h2><i class="fas fa-balance-scale text-accent mr-2"></i>Gary Brecka's Echo Flask vs Echo Go+</h2>
-            <p class="mb-4">Many people still search for "<strong>Gary Brecka Echo Go</strong>" or "<strong><a class="wpil_keyword_link" href="/best-hydrogen-water-bottles/"   title="Echo Go hydrogen water">Echo Go hydrogen water</a> bottle Gary Brecka</strong>." While <strong>Gary Brecka previously recommended the Echo Go+</strong>, he has since upgraded to the <strong>Echo Flask</strong>. Here's why:</p>
+            <p class="mb-4">Many people still search for "<strong>Gary Brecka Echo Go</strong>" or "<strong><a  href="/best-hydrogen-water-bottles/"   title="Echo Go hydrogen water">Echo Go hydrogen water</a> bottle Gary Brecka</strong>." While <strong>Gary Brecka previously recommended the Echo Go+</strong>, he has since upgraded to the <strong>Echo Flask</strong>. Here's why:</p>
 
             <div class="overflow-x-auto bg-white p-4 rounded-lg shadow-md mb-6">
                 <table class="w-full comparison-table text-sm">

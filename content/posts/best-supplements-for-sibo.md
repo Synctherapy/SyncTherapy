@@ -59,7 +59,7 @@ productName: SIBO Supplements
                                     <img src="/uploads/content/best-supplements-for-sibo.jpg" alt="Just Thrive Probiotic" class="rounded-lg">
                                     <p class="font-bold text-primary mt-2">Just Thrive Probiotic</p>
                                 </td>
-                                <td><p class="font-semibold"><a class="wpil_keyword_link" href="/best-prebiotics-and-probiotics-supplements/"   title="Best Probiotic">Best Probiotic</a></p></td>
+                                <td><p class="font-semibold"><a  href="/best-prebiotics-and-probiotics-supplements/"   title="Best Probiotic">Best Probiotic</a></p></td>
                                 <td><a href="https://justthrivehealth.com/SYNCTHERAPY" target="_blank" class="affiliate-button w-full">Get 15% Off</a></td>
                             </tr>
                             <tr>

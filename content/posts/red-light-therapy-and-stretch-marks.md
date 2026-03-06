@@ -631,7 +631,7 @@ seoTitle: Red Light Therapy for Stretch Marks (2026 Guide)
                 <i class="fas fa-user-md text-primary text-4xl mt-2"></i>
                 <div>
                     <h3 class="!mt-0 font-bold text-xl">About the Author</h3>
-                    <p class="text-gray-700"><strong>Daryl Stubbs</strong> is a 6-time "Best Massage and Rehab Clinic" winner and founder of Sync Therapy. As a Registered Massage Therapist (RMT), Certified Athletic Therapist CAT(C), and Holistic Nutritionist with 12 years of clinical experience and over 10,000 treatment hours, he has personally tested and reviewed <a class="wpil_keyword_link" href="/at-home-red-light-therapy/"   title="red light therapy devices">red light therapy devices</a> for therapeutic applications. His clinic has helped thousands of clients achieve their health and wellness goals through evidence-based treatments.</p>
+                    <p class="text-gray-700"><strong>Daryl Stubbs</strong> is a 6-time "Best Massage and Rehab Clinic" winner and founder of Sync Therapy. As a Registered Massage Therapist (RMT), Certified Athletic Therapist CAT(C), and Holistic Nutritionist with 12 years of clinical experience and over 10,000 treatment hours, he has personally tested and reviewed <a  href="/at-home-red-light-therapy/"   title="red light therapy devices">red light therapy devices</a> for therapeutic applications. His clinic has helped thousands of clients achieve their health and wellness goals through evidence-based treatments.</p>
                 </div>
             </div>
         </section>

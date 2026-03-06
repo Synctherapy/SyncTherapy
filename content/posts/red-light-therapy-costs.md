@@ -662,7 +662,7 @@ faqs:
 
                 <h3 class="text-xl font-bold mb-4">HSA/FSA Savings Calculator</h3>
                 <div class="bg-green-50 p-4 rounded-lg">
-                    <p class="font-semibold text-green-700 mb-2">Example Savings on a $1,000 <a class="wpil_keyword_link" href="/best-red-light-therapy-panels/"   title="Red Light Panel">Red Light Panel</a>:</p>
+                    <p class="font-semibold text-green-700 mb-2">Example Savings on a $1,000 <a  href="/best-red-light-therapy-panels/"   title="Red Light Panel">Red Light Panel</a>:</p>
                     <div class="grid md:grid-cols-3 gap-4 text-center">
                         <div class="bg-white p-3 rounded">
                             <p class="text-sm text-gray-500">22% Tax Bracket</p>

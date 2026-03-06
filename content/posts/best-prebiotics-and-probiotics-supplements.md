@@ -189,7 +189,7 @@ faqs:
                     <div class="md:w-2/3">
                         <h3 class="text-2xl font-bold">3. Viome Precision Probiotics + Prebiotics</h3>
                         <p class="text-blue-600 font-semibold my-2"><strong>Voted Best For:</strong> Personalized Probiotics</p>
-                        <p class="mb-4"><a class="wpil_keyword_link" href="/viome-review/"   title="Viome">Viome</a> takes gut health to the next level. You start with an at-home gut intelligence test, and based on your unique microbiome analysis, they formulate a personalized <strong class="text-gray-700">prebiotic and probiotic combination supplement</strong> just for you. It also includes food recommendations.</p>
+                        <p class="mb-4"><a  href="/viome-review/"   title="Viome">Viome</a> takes gut health to the next level. You start with an at-home gut intelligence test, and based on your unique microbiome analysis, they formulate a personalized <strong class="text-gray-700">prebiotic and probiotic combination supplement</strong> just for you. It also includes food recommendations.</p>
                         <ul class="pro-con-list list-inside space-y-1 mb-4">
                             <li>Truly personalized formula based on your biology.</li>
                             <li>Includes specific food recommendations.</li>

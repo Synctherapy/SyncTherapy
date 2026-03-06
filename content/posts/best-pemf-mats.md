@@ -115,7 +115,7 @@ seoTitle: "Best PEMF Mats 2026: 10 Reviewed & Compared"
                                 <td><a href="#omnipemf" class="affiliate-button !px-4 !py-2 !text-xs">See Details</a></td>
                             </tr>
                             <tr>
-                                <td class="font-bold text-primary"><a class="wpil_keyword_link" href="/hooga-red-light-therapy-reviews/"   title="Hooga">Hooga</a> Health Mat</td>
+                                <td class="font-bold text-primary"><a  href="/hooga-red-light-therapy-reviews/"   title="Hooga">Hooga</a> Health Mat</td>
                                 <td>$699</td>
                                 <td>Wide Frequency Range (1-50 Hz), 8 Presets</td>
                                 <td>Whole-body balance</td>

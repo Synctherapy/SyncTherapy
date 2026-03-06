@@ -220,7 +220,7 @@ faqs:
                     <div class="grid md:grid-cols-2 gap-6">
                         <img src="/uploads/content/personalized-vitamin-and-probiotic-supplements-for-men.jpg" onerror="this.onerror=null;this.src='https://placehold.co/400x300/CCCCCC/333333?text=Viome';" alt="Viome personalized pre and probiotic supplements box for men's gut health." class="rounded-lg shadow-sm w-full">
                         <div>
-                            <p class="mb-4"><a class="wpil_keyword_link" href="/viome-review/"   title="Viome">Viome</a> offers a truly personalized approach by including a free gut health test with your subscription. They analyze your microbiome to create a custom-formulated probiotic and prebiotic blend specifically for your body's needs.</p>
+                            <p class="mb-4"><a  href="/viome-review/"   title="Viome">Viome</a> offers a truly personalized approach by including a free gut health test with your subscription. They analyze your microbiome to create a custom-formulated probiotic and prebiotic blend specifically for your body's needs.</p>
                             <ul class="list-disc list-inside space-y-2 mb-4">
                                 <li><strong>Fully Personalized:</strong> Formula is tailored to your unique gut microbiome analysis.</li>
                                 <li><strong>Free Gut Test Included:</strong> Get a comprehensive Gut Intelligence Test (a $249 value) with your subscription.</li>

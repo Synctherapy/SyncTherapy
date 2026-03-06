@@ -431,21 +431,8 @@ export default async function Page({ params }: Props) {
             });
         }
 
-        // FAQ schema
-        if (item.frontmatter.faqs && Array.isArray(item.frontmatter.faqs) && item.frontmatter.faqs.length > 0) {
-            schemas.push({
-                '@context': 'https://schema.org',
-                '@type': 'FAQPage',
-                'mainEntity': item.frontmatter.faqs.map((faq: any) => ({
-                    '@type': 'Question',
-                    'name': typeof faq === 'string' ? faq : (faq.question || faq.q),
-                    'acceptedAnswer': {
-                        '@type': 'Answer',
-                        'text': typeof faq === 'string' ? '' : (faq.answer || faq.a)
-                    }
-                }))
-            });
-        }
+        // NOTE: FAQPage schema removed — restricted to government/health authority
+        // sites only since August 2023. FAQ content remains on page for UX + LLM citability.
 
         // Breadcrumb schema (always present)
         schemas.push({

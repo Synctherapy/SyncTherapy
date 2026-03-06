@@ -39,7 +39,7 @@ productName: Gut Health Supplements
                         </div>
                     </li>
                     <li><strong>The Evidence Gap:</strong> Seed's claims are backed by multiple randomized, placebo-controlled trials (RCTs). Viome's health outcome claims currently rely on non-peer-reviewed, company-sponsored studies, representing a significant evidence gap.</li>
-                    <li><strong>Different Philosophies:</strong> Seed uses a "formulate and validate" approach for universal health. <a class="wpil_keyword_link" href="/viome-review/"   title="Viome">Viome</a> uses a "test and personalize" approach for individual optimization.</li>
+                    <li><strong>Different Philosophies:</strong> Seed uses a "formulate and validate" approach for universal health. <a  href="/viome-review/"   title="Viome">Viome</a> uses a "test and personalize" approach for individual optimization.</li>
                     <li><strong>Cost & Commitment:</strong> Seed is a simple monthly subscription. Viome requires a high upfront test cost plus a more expensive ongoing subscription for its custom products.</li>
                 </ul>
             </section>
@@ -141,7 +141,7 @@ productName: Gut Health Supplements
                     <div class="bg-green-50 border border-green-200 p-4 rounded-lg flex flex-col items-center justify-center">
                         <img src="/uploads/2025/07/seed-probiotic-logo.jpg" alt="Seed Logo" class="rounded-lg h-24 w-auto mb-3" onerror="this.onerror=null;this.src='https://placehold.co/150x80/16a34a/ffffff?text=SEED';">
                         <h3 class="text-xl font-bold text-primary">Save on Seed</h3>
-                        <p class="text-gray-600 text-sm mb-3">Use our exclusive code for a big discount on the <a class="wpil_keyword_link" href="/best-prebiotics-and-probiotics-supplements/"   title="best probiotic">best probiotic</a> for general wellness.</p>
+                        <p class="text-gray-600 text-sm mb-3">Use our exclusive code for a big discount on the <a  href="/best-prebiotics-and-probiotics-supplements/"   title="best probiotic">best probiotic</a> for general wellness.</p>
                         <p class="text-2xl font-bold text-green-700">25% OFF</p>
                         <p class="font-semibold text-gray-800">Your First Order</p>
                         <p class="mt-2 text-gray-500">with code:</p>

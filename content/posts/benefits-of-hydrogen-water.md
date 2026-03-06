@@ -193,7 +193,7 @@ faqs:
                                 <td class="p-3">Very High</td>
                             </tr>
                             <tr class="bg-blue-50 border-b">
-                                <td class="p-3 font-semibold text-primary"><a class="wpil_keyword_link" href="/hydrogen-water-tablets/"   title="Hydrogen Tablets">Hydrogen Tablets</a></td>
+                                <td class="p-3 font-semibold text-primary"><a  href="/hydrogen-water-tablets/"   title="Hydrogen Tablets">Hydrogen Tablets</a></td>
                                 <td class="p-3">Low</td>
                                 <td class="p-3">Very High</td>
                                 <td class="p-3">Very High</td>

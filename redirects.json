@@ -1913,5 +1913,60 @@
     "source": "/what-to-wear-to-a-massage/",
     "destination": "/services/massage-therapy/",
     "permanent": true
+  },
+  {
+    "source": "/pemf-for-dogs/",
+    "destination": "/red-light-therapy-for-dogs/",
+    "permanent": true
+  },
+  {
+    "source": "/why-is-my-anxiety-getting-worse/",
+    "destination": "/blog/",
+    "permanent": true
+  },
+  {
+    "source": "/brand/nu-aqua-systems/",
+    "destination": "/best-countertop-reverse-osmosis-system/",
+    "permanent": true
+  },
+  {
+    "source": "/services/mens-health-consulting/fill/",
+    "destination": "/services/",
+    "permanent": true
+  },
+  {
+    "source": "/can-tight-calves-cause-knee-pain/",
+    "destination": "/conditions/hip-and-knee-pain/",
+    "permanent": true
+  },
+  {
+    "source": "/cause-of-depression/page/22/",
+    "destination": "/blog/",
+    "permanent": true
+  },
+  {
+    "source": "/blog-1/page/2/",
+    "destination": "/blog/",
+    "permanent": true
+  },
+  {
+    "source": "/tag/gerd/",
+    "destination": "/blog/",
+    "permanent": true
+  },
+  {
+    "source": "/tag/constipation/",
+    "destination": "/blog/",
+    "permanent": true
+  },
+  {
+    "source": "/home-remedies-for-bubble-guts/page/12/",
+    "destination": "/blog/",
+    "permanent": true
+  },
+  {
+    "source": "/best-supplements-for-anxiety/",
+    "destination": "/best-prebiotics-and-probiotics-supplements/",
+    "permanent": true
   }
 ]
