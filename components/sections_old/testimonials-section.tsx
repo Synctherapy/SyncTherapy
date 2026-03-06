@@ -2,6 +2,9 @@ import { Star } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import GoogleReviewWidget from "@/components/GoogleReviewWidget";
 
+// Pre-allocate array for 5 stars to prevent recreating [undefined, ...] on every render
+const STARS = [0, 1, 2, 3, 4];
+
 const testimonials = [
   {
     quote: "Daryl was able to fit me in on short notice and was great. Knowledgeable, courteous, asked a lot of questions and got me sorted very quickly. Would highly recommend!",
@@ -35,7 +38,7 @@ export function TestimonialsSection() {
               className="bg-background p-8 rounded-lg border border-border flex flex-col"
             >
               <div className="flex gap-1 mb-4">
-                {[...Array(5)].map((_, i) => (
+                {STARS.map((_, i) => (
                   <Star key={i} className="w-5 h-5 fill-accent text-accent" />
                 ))}
               </div>
