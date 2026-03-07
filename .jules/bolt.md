@@ -1,0 +1,3 @@
+## 2025-03-07 - React Scroll Event Render Thrashing
+**Learning:** `useWindowScroll` (and `useState` in scroll listeners like `ReadingProgressBar`) cause a full React re-render on every single scroll pixel. Synchronous layout reads (`getBoundingClientRect()`) inside scroll listeners also cause severe layout thrashing.
+**Action:** When tracking scroll progress, bypass React state entirely by mutating `ref.current.style` directly. When observing visibility (like footers), use `IntersectionObserver` instead of calculating element coordinates in a scroll listener. Only `setState` on scroll when passing a specific, required threshold, not continuously.
