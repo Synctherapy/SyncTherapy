@@ -431,8 +431,21 @@ export default async function Page({ params }: Props) {
             });
         }
 
-        // NOTE: FAQPage schema removed — restricted to government/health authority
-        // sites only since August 2023. FAQ content remains on page for UX + LLM citability.
+        // FAQPage schema — render if frontmatter contains faqs array
+        if (item.frontmatter.faqs && Array.isArray(item.frontmatter.faqs) && item.frontmatter.faqs.length > 0) {
+            schemas.push({
+                '@context': 'https://schema.org',
+                '@type': 'FAQPage',
+                'mainEntity': item.frontmatter.faqs.map((faq: { question: string; answer: string }) => ({
+                    '@type': 'Question',
+                    'name': faq.question,
+                    'acceptedAnswer': {
+                        '@type': 'Answer',
+                        'text': faq.answer,
+                    },
+                })),
+            });
+        }
 
         // Breadcrumb schema (always present)
         schemas.push({
