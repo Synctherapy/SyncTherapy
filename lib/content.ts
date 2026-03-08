@@ -1,12 +1,21 @@
-import fs from 'fs';
+import { promises as fsp } from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
+import { cache } from 'react';
 
 const contentDirectory = path.join(process.cwd(), 'content');
 
-export async function getContentBySlug(slug: string[]) {
-    const realSlug = slug.join('/');
+// Helper to reliably check file existence asynchronously
+async function fileExists(filePath: string): Promise<boolean> {
+    try {
+        await fsp.access(filePath);
+        return true;
+    } catch {
+        return false;
+    }
+}
 
+const getCachedContent = cache(async (realSlug: string, flatSlug: string | undefined) => {
     // 1. Try to find the file using the full URL path (e.g. "services/massage")
     const pagePath = path.join(contentDirectory, 'pages', `${realSlug}.md`);
     const postPath = path.join(contentDirectory, 'posts', `${realSlug}.md`);
@@ -14,25 +23,24 @@ export async function getContentBySlug(slug: string[]) {
     let filePath = '';
     let type = '';
 
-    if (fs.existsSync(pagePath)) {
+    if (await fileExists(pagePath)) {
         filePath = pagePath;
         type = 'page';
-    } else if (fs.existsSync(postPath)) {
+    } else if (await fileExists(postPath)) {
         filePath = postPath;
         type = 'post';
     } else {
         // 2. Fallback: Try the last segment of the slug (flattened structure)
         // e.g. URL "services/massage-therapy-victoria" -> look for "massage-therapy-victoria.md"
-        const flatSlug = slug[slug.length - 1];
         if (!flatSlug) return null; // Handle empty slug case
 
         const flatPagePath = path.join(contentDirectory, 'pages', `${flatSlug}.md`);
         const flatPostPath = path.join(contentDirectory, 'posts', `${flatSlug}.md`);
 
-        if (fs.existsSync(flatPagePath)) {
+        if (await fileExists(flatPagePath)) {
             filePath = flatPagePath;
             type = 'page';
-        } else if (fs.existsSync(flatPostPath)) {
+        } else if (await fileExists(flatPostPath)) {
             filePath = flatPostPath;
             type = 'post';
         } else {
@@ -40,7 +48,7 @@ export async function getContentBySlug(slug: string[]) {
         }
     }
 
-    const fileContents = fs.readFileSync(filePath, 'utf8');
+    const fileContents = await fsp.readFile(filePath, 'utf8');
     const { data, content } = matter(fileContents);
 
     // Clean content
@@ -77,6 +85,12 @@ export async function getContentBySlug(slug: string[]) {
         content: cleanContent,
         type,
     };
+});
+
+export async function getContentBySlug(slug: string[]) {
+    const realSlug = slug.join('/');
+    const flatSlug = slug[slug.length - 1];
+    return getCachedContent(realSlug, flatSlug);
 }
 
 export async function getAllPaths() {
@@ -85,21 +99,26 @@ export async function getAllPaths() {
 
     const paths: { slug: string[] }[] = [];
 
-    // Helper to process directory
-    const processDir = (dir: string) => {
-        if (fs.existsSync(dir)) {
-            const files = fs.readdirSync(dir);
-            files.forEach((file) => {
+    // Helper to process directory asynchronously
+    const processDir = async (dir: string) => {
+        if (await fileExists(dir)) {
+            const files = await fsp.readdir(dir);
+            // using Promise.all or similar isn't strictly necessary for just pushing to an array
+            // but we can map over them
+            for (const file of files) {
                 if (file.endsWith('.md') || file.endsWith('.mdx')) {
                     const slug = file.replace(/\.mdx?$/, '');
                     paths.push({ slug: [slug] });
                 }
-            });
+            }
         }
     };
 
-    processDir(pagesDir);
-    processDir(postsDir);
+    // run in parallel
+    await Promise.all([
+        processDir(pagesDir),
+        processDir(postsDir)
+    ]);
 
     return paths;
 }
