@@ -11,7 +11,7 @@ export default function Header() {
 
     return (
         <>
-            <div className="fixed top-0 inset-x-0 z-50 bg-background/80 backdrop-blur-md border-b border-border">
+            <div className="fixed top-0 inset-x-0 z-50 bg-background/95 supports-[backdrop-filter]:bg-background/80 backdrop-blur-sm border-b border-border shadow-sm transform-gpu">
                 {/* Skip Link for Accessibility */}
                 <a href="#main-content" className="sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 focus:z-[60] focus:px-4 focus:py-2 focus:bg-primary focus:text-primary-foreground focus:rounded-md focus:text-sm focus:font-bold">Skip to main content</a>
                 {/* Top Bar - Desktop Only */}

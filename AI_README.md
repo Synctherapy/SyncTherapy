@@ -37,6 +37,7 @@
 2.  **Do NOT remove `dangerouslySetInnerHTML`** in `page.tsx`. This renders the markdown content.
 3.  **Do NOT remove structrued data scripts** (`application/ld+json`) from layouts.
 4.  **Images:** Use `next/image` where possible, but content images are often embedded HTML in markdown.
+5.  **Internal Links:** When adding or suggesting internal links, NEVER look in or link to anything in the `content/archive/` folder. These files have been permanently redirected or deleted. Only use live URLs discovered in `content/pages/` and `content/posts/` or from the live site mapping.
 
 ## 4. Key File Locations
 - **Global Layout:** `app/layout.tsx`

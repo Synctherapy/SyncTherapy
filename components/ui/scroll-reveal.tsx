@@ -18,7 +18,8 @@ export function ScrollReveal({
     delay = 0,
 }: ScrollRevealProps) {
     const ref = useRef<HTMLDivElement>(null);
-    const [isVisible, setIsVisible] = useState(true); // Default to true to prevent SEO/hydration issues
+    // Use an initializer function so it defaults to true on server, but we can manage client state safely.
+    const [isVisible, setIsVisible] = useState(true);
 
     useEffect(() => {
         // Respect prefers-reduced-motion: skip animation entirely
@@ -28,8 +29,19 @@ export function ScrollReveal({
             return;
         }
 
-        // Run once on mount to handle initial state, then use observer
-        setIsVisible(false);
+        // Delay hiding the element to let the browser paint the first frame.
+        // Instead of immediate false, we check if it's already in viewport.
+        if (ref.current) {
+            const rect = ref.current.getBoundingClientRect();
+            // If the element is visibly above the fold, we never hide it.
+            if (rect.top >= 0 && rect.top <= window.innerHeight) {
+                setIsVisible(true);
+                return;
+            } else {
+                setIsVisible(false);
+            }
+        }
+
         const observer = new IntersectionObserver(
             ([entry]) => {
                 if (entry.isIntersecting) {
@@ -37,7 +49,7 @@ export function ScrollReveal({
                     observer.unobserve(entry.target);
                 }
             },
-            { rootMargin: "-10px" }
+            { rootMargin: "50px" } // Increased rootMargin so it triggers slightly earlier
         );
 
         if (ref.current) {
@@ -55,7 +67,7 @@ export function ScrollReveal({
                     isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8",
                     className?.includes("h-full") && "h-full"
                 )}
-                style={{ transitionDelay: `${delay}s` }}
+                style={{ transitionDelay: isVisible ? `${delay}s` : '0s' }}
             >
                 {children}
             </div>
