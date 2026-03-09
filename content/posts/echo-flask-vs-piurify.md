@@ -84,7 +84,7 @@ faqs:
             <h2 class="text-2xl font-bold text-gray-900 !mt-0"><i class="fas fa-thumbs-up text-accent mr-2"></i>Which Bottle I Recommend</h2>
             <p class="text-gray-700 mt-3"><strong>Buy the Echo Flask</strong> if you want the highest hydrogen concentration, smart tracking, lab certification, and a 5-year warranty. It's the better investment for anyone serious about hydrogen water.</p>
             <p class="text-gray-700 mt-3"><strong>Consider the Piurify</strong> only if your budget is firm at $200 and you understand you'll get lower hydrogen output and a shorter warranty.</p>
-            <p class="text-gray-700 mt-3">Read my full <a href="/echo-flask-review/" class="text-primary hover:underline font-semibold">Echo Flask Review</a> for the complete breakdown of specs, pros, cons, and real-world testing.</p>
+            <p class="text-gray-700 mt-3">Read my full <a href="/echo-flask-review/" class="text-primary hover:underline font-semibold">Echo Flask Review</a> for the complete breakdown of specs, pros, cons, and real-world testing. If you decide the Echo Flask is the better option, you can use my <a href="/echo-flask-discount-code/" class="text-primary hover:underline font-semibold">Echo Flask discount code</a> to get 15% off.</p>
         </section>
 
         <!-- CTA -->

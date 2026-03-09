@@ -104,7 +104,7 @@ faqs:
         <section class="bg-blue-50 p-6 rounded-xl border-l-4 border-primary">
             <h2 class="text-2xl font-bold text-gray-900 !mt-0"><i class="fas fa-thumbs-up text-accent mr-2"></i>Is the Echo Flask Price Worth It?</h2>
             <p class="text-gray-700 mt-3">Yes—if you'll use hydrogen water consistently. The $299 price tag is a one-time investment with no recurring costs, backed by a 5-year warranty. Over time, it's significantly cheaper than tablets, cheaper per year than lower-priced competitors with shorter warranties, and potentially FSA/HSA reimbursable.</p>
-            <p class="text-gray-700 mt-3">Read my full <a href="/echo-flask-review/" class="text-primary hover:underline font-semibold">Echo Flask Review</a> for complete specs, pros, cons, and testing results. Looking for a discount? Check our <a href="/echo-flask-discount-code/" class="text-primary hover:underline font-semibold">Echo Flask discount code</a> page.</p>
+            <p class="text-gray-700 mt-3">Read my full <a href="/echo-flask-review/" class="text-primary hover:underline font-semibold">Echo Flask Review</a> for complete specs, pros, cons, and testing results. If you're planning to buy the bottle, you can currently use my <a href="/echo-flask-discount-code/" class="text-primary hover:underline font-semibold">Echo Flask discount code</a> to save 15%.</p>
         </section>
 
         <!-- CTA -->

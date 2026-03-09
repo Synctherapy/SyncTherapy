@@ -274,12 +274,18 @@ faqs:
                 <ul class="space-y-2 text-sm">
                     <li><a href="/echo-flask-vs-piurify/" class="text-primary hover:underline font-semibold">→ Echo Flask vs Piurify Comparison</a></li>
                     <li><a href="/echo-flask-vs-echo-go-plus/" class="text-primary hover:underline font-semibold">→ Echo Flask vs Echo Go+ Comparison</a></li>
+                    <li><a href="/echo-flask-vs-hydrogen-tablets/" class="text-primary hover:underline font-semibold">→ Echo Flask vs Hydrogen Tablets</a></li>
                     <li><a href="/echo-flask-8-ppm/" class="text-primary hover:underline font-semibold">→ Echo Flask 8 PPM: What It Means</a></li>
+                    <li><a href="/echo-flask-price/" class="text-primary hover:underline font-semibold">→ Echo Flask Price Breakdown</a></li>
+                    <li><a href="/echo-flask-discount-code/" class="text-primary hover:underline font-semibold">→ Echo Flask Discount Code</a></li>
                 </ul>
                 <ul class="space-y-2 text-sm">
-                    <li><a href="/echo-flask-price/" class="text-primary hover:underline font-semibold">→ Echo Flask Price Breakdown</a></li>
                     <li><a href="/echo-flask-fsa-hsa/" class="text-primary hover:underline font-semibold">→ Echo Flask FSA/HSA Eligibility</a></li>
                     <li><a href="/echo-flask-cleaning/" class="text-primary hover:underline font-semibold">→ How to Clean the Echo Flask</a></li>
+                    <li><a href="/echo-flask-warranty/" class="text-primary hover:underline font-semibold">→ Echo Flask Warranty</a></li>
+                    <li><a href="/echo-flask-battery-life/" class="text-primary hover:underline font-semibold">→ Echo Flask Battery Life</a></li>
+                    <li><a href="/echo-flask-app/" class="text-primary hover:underline font-semibold">→ Echo Flask App Guide</a></li>
+                    <li><a href="/echo-flask-troubleshooting/" class="text-primary hover:underline font-semibold">→ Echo Flask Troubleshooting</a></li>
                 </ul>
             </div>
         </section>
@@ -310,6 +316,12 @@ faqs:
                 <a href="https://echowater.com/discount/affiliate10/?redirect=&_ef_transaction_id=&oid=6&affid=408" target="_blank" rel="nofollow sponsored" class="font-bold py-4 px-8 rounded-lg hover:opacity-90 transition inline-block text-lg" style="background-color: #F5B82E; color: #333333;">Buy Echo Flask (15% Off with "SYNCTHERAPY") <i class="fas fa-arrow-right ml-2"></i></a>
                 <p class="text-sm mt-3" style="color: rgba(255,255,255,0.75);">Free shipping on orders over $99 | 5-year warranty included</p>
             </div>
+        </section>
+
+        <!-- Echo Flask Discount Code -->
+        <section id="discount-code" class="bg-green-50 p-6 rounded-lg shadow-md mb-8 border-l-4 border-green-500">
+            <h2 class="!mt-0"><i class="fas fa-tag text-accent mr-2"></i>Echo Flask Discount Code</h2>
+            <p class="text-gray-700 mt-3">Use code <strong>SYNCTHERAPY</strong> to save 15% on the Echo Flask. This is a verified affiliate code that applies automatically through the link below. For full details on how to use it, see our <a href="/echo-flask-discount-code/" class="text-primary hover:underline font-semibold">Echo Flask discount code page</a>.</p>
         </section>
 
         <!-- FAQ Section -->
