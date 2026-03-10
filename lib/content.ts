@@ -1,12 +1,17 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
+import React from 'react';
 
 const contentDirectory = path.join(process.cwd(), 'content');
 
-export async function getContentBySlug(slug: string[]) {
-    const realSlug = slug.join('/');
-
+// ⚡ Bolt Optimization:
+// React.cache is used to memoize the result of reading and parsing a markdown file.
+// Because React.cache uses strict equality, we use the primitive string `realSlug`
+// rather than the `slug: string[]` array. This prevents redundant file I/O
+// when the same page content is requested multiple times in a single render pass
+// (e.g. by `generateMetadata` and the `Page` component itself).
+const getCachedContent = React.cache(async (realSlug: string) => {
     // 1. Try to find the file using the full URL path (e.g. "services/massage")
     const pagePath = path.join(contentDirectory, 'pages', `${realSlug}.md`);
     const postPath = path.join(contentDirectory, 'posts', `${realSlug}.md`);
@@ -14,25 +19,38 @@ export async function getContentBySlug(slug: string[]) {
     let filePath = '';
     let type = '';
 
-    if (fs.existsSync(pagePath)) {
+    // ⚡ Bolt Optimization:
+    // Replaced blocking fs.existsSync with non-blocking fs.promises.access
+    // to prevent freezing the Node.js event loop during high concurrent traffic.
+    const fileExists = async (p: string) => {
+        try {
+            await fs.promises.access(p);
+            return true;
+        } catch {
+            return false;
+        }
+    };
+
+    if (await fileExists(pagePath)) {
         filePath = pagePath;
         type = 'page';
-    } else if (fs.existsSync(postPath)) {
+    } else if (await fileExists(postPath)) {
         filePath = postPath;
         type = 'post';
     } else {
         // 2. Fallback: Try the last segment of the slug (flattened structure)
         // e.g. URL "services/massage-therapy-victoria" -> look for "massage-therapy-victoria.md"
-        const flatSlug = slug[slug.length - 1];
+        const segments = realSlug.split('/');
+        const flatSlug = segments[segments.length - 1];
         if (!flatSlug) return null; // Handle empty slug case
 
         const flatPagePath = path.join(contentDirectory, 'pages', `${flatSlug}.md`);
         const flatPostPath = path.join(contentDirectory, 'posts', `${flatSlug}.md`);
 
-        if (fs.existsSync(flatPagePath)) {
+        if (await fileExists(flatPagePath)) {
             filePath = flatPagePath;
             type = 'page';
-        } else if (fs.existsSync(flatPostPath)) {
+        } else if (await fileExists(flatPostPath)) {
             filePath = flatPostPath;
             type = 'post';
         } else {
@@ -40,7 +58,9 @@ export async function getContentBySlug(slug: string[]) {
         }
     }
 
-    const fileContents = fs.readFileSync(filePath, 'utf8');
+    // ⚡ Bolt Optimization:
+    // Replaced blocking fs.readFileSync with non-blocking fs.promises.readFile.
+    const fileContents = await fs.promises.readFile(filePath, 'utf8');
     const { data, content } = matter(fileContents);
 
     // Clean content
@@ -77,6 +97,11 @@ export async function getContentBySlug(slug: string[]) {
         content: cleanContent,
         type,
     };
+});
+
+export async function getContentBySlug(slug: string[]) {
+    const realSlug = slug.join('/');
+    return getCachedContent(realSlug);
 }
 
 export async function getAllPaths() {
@@ -86,20 +111,29 @@ export async function getAllPaths() {
     const paths: { slug: string[] }[] = [];
 
     // Helper to process directory
-    const processDir = (dir: string) => {
-        if (fs.existsSync(dir)) {
-            const files = fs.readdirSync(dir);
+    const processDir = async (dir: string) => {
+        try {
+            // ⚡ Bolt Optimization:
+            // Replaced fs.existsSync and fs.readdirSync with async equivalents.
+            await fs.promises.access(dir);
+            const files = await fs.promises.readdir(dir);
             files.forEach((file) => {
                 if (file.endsWith('.md') || file.endsWith('.mdx')) {
                     const slug = file.replace(/\.mdx?$/, '');
                     paths.push({ slug: [slug] });
                 }
             });
+        } catch (e) {
+            // Directory doesn't exist or is inaccessible
         }
     };
 
-    processDir(pagesDir);
-    processDir(postsDir);
+    // ⚡ Bolt Optimization:
+    // Process directories in parallel instead of sequentially.
+    await Promise.all([
+        processDir(pagesDir),
+        processDir(postsDir)
+    ]);
 
     return paths;
 }
