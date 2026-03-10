@@ -166,7 +166,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     const slugStr = resolvedParams.slug.join('/');
     const comparisonSlugs = ['rouge-vs-kala', 'rouge-vs-mito-red-light', 'rouge-vs-platinumled', 'mito-red-light-vs-platinumled', 'flexbeam-vs-kineon', 'mito-red-light-vs-joovv'];
     const isComparisonPage = comparisonSlugs.includes(slugStr);
-    const metaTitle = isComparisonPage ? { absolute: title } : title;
+    const metaTitle = isComparisonPage && title ? { absolute: title } : title;
 
     return {
         title: metaTitle,
