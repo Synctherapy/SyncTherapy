@@ -28,7 +28,7 @@ faqs:
 <!-- Quick Verdict -->
 <section class="bg-blue-50 border-l-4 border-primary p-6 rounded-lg shadow-sm">
 <h2 class="text-2xl font-bold mb-3 !border-none !pl-0"><i class="fas fa-trophy text-accent mr-2"></i>Quick Verdict: Rouge vs Kala Red Light</h2>
-<p class="text-gray-800 mb-3"><strong>Rouge vs Kala red light</strong> comes down to features vs value. I've used both in my clinic and the <strong>Rouge Tabletop G4 wins on wavelength versatility</strong> with 8 wavelengths including 1060nm. The <strong>Kala Pro wins on price and simplicity</strong> — it's a powerful, no-fuss panel at a lower cost.</p>
+<p class="text-gray-800 mb-3"><strong>Rouge vs Kala red light</strong> comes down to features vs value. I've used both in my clinic at Sync Massage Therapy in Colwood, BC, and the <strong>Rouge Tabletop G4 wins on wavelength versatility</strong> with 8 wavelengths including 1060nm. The <strong>Kala Pro wins on price and simplicity</strong> — it's a powerful, no-fuss panel at a lower cost.</p>
 <div class="flex flex-col sm:flex-row gap-3 mt-4">
 <a href="https://rougecare.ca/?ref=hphwim9l" target="_blank" rel="nofollow" class="affiliate-button cursor-pointer"><i class="fas fa-lock-open mr-2"></i>Unlock the Best Price for Rouge</a>
 <a href="https://snwbl.io/kalatherapy/DARYL95230" target="_blank" rel="nofollow" class="affiliate-button cursor-pointer"><i class="fas fa-bolt mr-2"></i>Save 15% on Kala — Limited Offer</a>
