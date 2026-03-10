@@ -162,10 +162,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     const noIndexPages = ['privacy-policy', 'terms-of-service', 'affiliate-disclosure', 'testimonials-disclosure', 'cookies-policy'];
     const shouldNoIndex = resolvedParams.slug.length === 1 && noIndexPages.includes(resolvedParams.slug[0]);
 
-    // Use absolute title (no "| Sync Therapy" suffix) for product comparison and review pages
+    // Use absolute title (no "| Sync Therapy" suffix) for comparison pages only
     const slugStr = resolvedParams.slug.join('/');
-    const isProductPage = slugStr.includes('-vs-') || getSchemaType(slugStr) === 'review' || getSchemaType(slugStr) === 'listicle';
-    const metaTitle = isProductPage ? { absolute: title } : title;
+    const comparisonSlugs = ['rouge-vs-kala', 'rouge-vs-mito-red-light', 'rouge-vs-platinumled', 'mito-red-light-vs-platinumled', 'flexbeam-vs-kineon', 'mito-red-light-vs-joovv'];
+    const isComparisonPage = comparisonSlugs.includes(slugStr);
+    const metaTitle = isComparisonPage ? { absolute: title } : title;
 
     return {
         title: metaTitle,
