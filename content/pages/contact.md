@@ -783,7 +783,7 @@ seoTitle: 'Contact Sync Massage Therapy | Colwood, BC'
                                 <p>Suite 120 • Ample parking • Fully accessible • State-of-the-art treatment rooms</p>
                             </div>
                             <div class="map-buttons">
-                                <a href="https://www.google.com/maps/dir/?api=1&destination=Suite%20120%2C%20132-328%20Wale%20Rd%2C%20Colwood%2C%20BC%20V9C%202X3%2C%20Canada" 
+                                <a href="https://www.google.com/maps/dir//Sync+Massage+Therapy,+132,+328+Wale+Rd+%23120+Colwood,+BC+V9B+1J2/@48.445469,-123.4724964,17z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x548f74851cb74787:0xeacdf009885e6cb5!2m2!1d-123.4699215!2d48.445469!3e0?entry=ttu&g_ep=EgoyMDI2MDMwOS4wIKXMDSoASAFQAw%3D%3D" 
                                    target="_blank" rel="noopener noreferrer" class="btn-map secondary">
                                     Get Directions
                                 </a>

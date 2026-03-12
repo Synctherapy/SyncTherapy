@@ -136,7 +136,7 @@ export default function Footer() {
                                     <div className="space-y-1">
                                         <p className="font-semibold text-navy">Sync Massage Therapy</p>
                                         <a
-                                            href="https://www.google.com/maps/search/?api=1&query=132,+328+Wale+Rd+%23120,+Colwood,+BC+V9B+1J2"
+                                            href="https://www.google.com/maps/dir//Sync+Massage+Therapy,+132,+328+Wale+Rd+%23120+Colwood,+BC+V9B+1J2/@48.445469,-123.4724964,17z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x548f74851cb74787:0xeacdf009885e6cb5!2m2!1d-123.4699215!2d48.445469!3e0?entry=ttu&g_ep=EgoyMDI2MDMwOS4wIKXMDSoASAFQAw%3D%3D"
                                             target="_blank"
                                             rel="noopener noreferrer"
                                             className="block hover:text-blue-600 transition-colors"

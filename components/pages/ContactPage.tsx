@@ -30,9 +30,9 @@ const NAP = {
     email: "info@synctherapy.ca",
     bookingUrl: "https://synctherapy.janeapp.com/",
     directionsUrl:
-        "https://www.google.com/maps/dir//132,+328+Wale+Rd+%23120,+Colwood,+BC+V9B+1J2",
+        "https://www.google.com/maps/dir//Sync+Massage+Therapy,+132,+328+Wale+Rd+%23120+Colwood,+BC+V9B+1J2/@48.445469,-123.4724964,17z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x548f74851cb74787:0xeacdf009885e6cb5!2m2!1d-123.4699215!2d48.445469!3e0?entry=ttu&g_ep=EgoyMDI2MDMwOS4wIKXMDSoASAFQAw%3D%3D",
     googleMapsUrl:
-        "https://www.google.com/maps/search/?api=1&query=132,+328+Wale+Rd+%23120,+Colwood,+BC+V9B+1J2",
+        "https://www.google.com/maps/dir//Sync+Massage+Therapy,+132,+328+Wale+Rd+%23120+Colwood,+BC+V9B+1J2/@48.445469,-123.4724964,17z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x548f74851cb74787:0xeacdf009885e6cb5!2m2!1d-123.4699215!2d48.445469!3e0?entry=ttu&g_ep=EgoyMDI2MDMwOS4wIKXMDSoASAFQAw%3D%3D",
 };
 
 const HOURS = [
