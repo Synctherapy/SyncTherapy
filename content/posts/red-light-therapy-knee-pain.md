@@ -57,7 +57,6 @@ faqs:
                     <!-- Infraredi Video - With Poster for LCP Fix -->
                     <video
                         class="product-video rounded-lg shadow-sm"
-                        poster="https://www.synctherapy.ca/wp-content/uploads/2026/01/infraredi-joint-wrap-poster.jpg"
                         autoplay
                         muted
                         loop
@@ -213,7 +212,6 @@ faqs:
                 <div class="mb-6">
                     <video
                         class="product-video w-full rounded-lg shadow-md"
-                        poster="https://www.synctherapy.ca/wp-content/uploads/2026/01/red-light-therapy-knee-research-poster.jpg"
                         autoplay
                         muted
                         loop
@@ -387,7 +385,6 @@ faqs:
                 <div class="mb-6">
                     <video
                         class="product-video w-full rounded-lg shadow-md"
-                        poster="https://www.synctherapy.ca/wp-content/uploads/2026/01/infraredi-joint-wrap-review-poster.jpg"
                         autoplay
                         muted
                         loop
@@ -766,7 +763,7 @@ faqs:
                     </div>
                     <div class="bg-green-50 p-4 rounded-lg">
                         <p class="font-semibold text-green-700"><i class="fas fa-check-circle mr-2"></i>Regulatory Approval</p>
-                        <p class="text-gray-700 text-sm">FDA clearance or Health Canada license indicates the device meets safety standards. Adds credibility to manufacturer claims.</p>
+                        <p class="text-gray-700 text-sm">FDA clearance or Health Canada license indicates the device meets safety standards. See our guide to the <a href="/fda-approved-red-light-therapy-devices-for-pain/" class="font-semibold text-primary hover:underline">best FDA-approved red light therapy devices for pain</a> for certified options.</p>
                     </div>
                 </div>
 

@@ -44,11 +44,15 @@ type SchemaType = 'review' | 'listicle' | 'article';
 const REVIEW_KEYWORDS = ['-review', '-reviews'];
 const LISTICLE_PREFIXES = ['best-', 'top-'];
 
-function getSchemaType(slug: string): SchemaType {
+function getSchemaType(slug: string, frontmatterSchemaType?: string): SchemaType {
+    // Frontmatter override always wins
+    if (frontmatterSchemaType && ['review', 'listicle', 'article'].includes(frontmatterSchemaType)) {
+        return frontmatterSchemaType as SchemaType;
+    }
     const s = slug.toLowerCase();
     if (REVIEW_KEYWORDS.some(kw => s.includes(kw))) return 'review';
     if (LISTICLE_PREFIXES.some(kw => s.startsWith(kw))) return 'listicle';
-    // Also catch "X-best-Y" patterns
+    // Also catch "X-best-Y" or "N best" patterns anywhere in slug
     if (s.match(/\d+-best-/)) return 'listicle';
     return 'article';
 }
@@ -339,7 +343,7 @@ export default async function Page({ params }: Props) {
         const canonicalUrl = `https://www.synctherapy.ca/${currentSlug}/`;
 
         // ─── Content Type Detection ────────────────────────────
-        const schemaType = getSchemaType(currentSlug);
+        const schemaType = getSchemaType(currentSlug, item.frontmatter.schemaType);
 
         // ─── Entity-chained Author + Publisher ─────────────────
         const authorEntity = {
@@ -450,8 +454,8 @@ export default async function Page({ params }: Props) {
                 'publisher': publisherEntity,
                 'mainEntityOfPage': { '@type': 'WebPage', '@id': canonicalUrl },
             });
-            // Extract the number from the slug for itemListElement count
-            const numberMatch = currentSlug.match(/(\d+)/);
+            // Extract the number from the slug or title for itemListElement count
+            const numberMatch = currentSlug.match(/(\d+)/) || (item.frontmatter.title || '').match(/(\d+)/);
             const listCount = numberMatch ? parseInt(numberMatch[1], 10) : 10;
             schemas.push({
                 '@context': 'https://schema.org',
