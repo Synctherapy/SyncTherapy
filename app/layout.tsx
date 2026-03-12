@@ -7,6 +7,7 @@ import { SpeedInsights } from "@vercel/speed-insights/next"
 import './globals.css'
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import { StickyMobileCTA } from "@/components/StickyMobileCTA";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -78,6 +79,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={`${inter.variable} ${roboto.variable} font-roboto antialiased text-foreground bg-background`}>
         {children}
+        <StickyMobileCTA />
         <Analytics />
         <SpeedInsights />
         <script

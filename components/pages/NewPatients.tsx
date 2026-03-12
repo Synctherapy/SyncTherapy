@@ -5,7 +5,7 @@ import { LocationSection } from "@/components/sections/location-section";
 import { FaqSection } from "@/components/sections/faq-section";
 import { GoogleReviewsColumns } from "@/components/testimonials/google-reviews-columns";
 import GoogleReviewWidget from "@/components/GoogleReviewWidget";
-import { StickyMobileCTA } from "@/components/StickyMobileCTA";
+
 import { ScrollProgress } from "@/components/ui/scroll-progress";
 import { Pricing } from "@/components/ui/pricing";
 import { Button } from "@/components/ui/button";
@@ -704,8 +704,6 @@ export function NewPatients() {
                 <LocationSection />
             </div>
 
-            {/* Sticky CTA — mobile + desktop (z-50) */}
-            <StickyMobileCTA />
         </div>
     );
 }

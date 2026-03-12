@@ -211,6 +211,7 @@ import { NewPatients } from '@/components/pages/NewPatients';
 import { ContactPage } from '@/components/pages/ContactPage';
 import { ServiceSchema } from '@/components/ServiceSchema';
 
+
 export default async function Page({ params }: Props) {
     const resolvedParams = await params;
     const item = await getContentBySlug(resolvedParams.slug);
@@ -226,6 +227,7 @@ export default async function Page({ params }: Props) {
                 <Header />
                 <ContactPage />
                 <Footer />
+
             </>
         );
     }
@@ -240,6 +242,7 @@ export default async function Page({ params }: Props) {
                 <Header />
                 <MassageTherapyColwood />
                 <Footer />
+
             </>
         );
     }
@@ -252,6 +255,7 @@ export default async function Page({ params }: Props) {
                 <Header />
                 <DirectBillingMassage />
                 <Footer />
+
             </>
         );
     }
@@ -265,6 +269,7 @@ export default async function Page({ params }: Props) {
                 <Header />
                 <DeepTissueMassage />
                 <Footer />
+
             </>
         );
     }
@@ -278,6 +283,7 @@ export default async function Page({ params }: Props) {
                 <Header />
                 <SportsMassage />
                 <Footer />
+
             </>
         );
     }
@@ -532,6 +538,7 @@ export default async function Page({ params }: Props) {
                 <Header />
                 <ServicesIndexLayout content={null} />
                 <Footer />
+
             </>
         );
     }
@@ -564,6 +571,7 @@ export default async function Page({ params }: Props) {
                     content={content}
                 />
                 <Footer />
+
             </>
         );
     }

@@ -50,6 +50,11 @@ export default function Header() {
                     {/* Desktop Menu - Aligned Top/Center */}
                     <div className="hidden lg:block absolute left-1/2 top-4 transform -translate-x-1/2 z-50">
                         <Menu setActive={setActive}>
+                            <Link href="/new-patients/" className="relative text-orange-600 font-bold hover:text-orange-700 cursor-pointer transition-colors">
+                                Start Here
+                                <span className="absolute -bottom-1 left-0 right-0 h-0.5 bg-orange-400 rounded-full" />
+                            </Link>
+
                             <MenuItem setActive={setActive} active={active} item="Services" href="/services/">
                                 <div className="text-sm grid grid-cols-2 gap-10 p-4 min-w-[500px]">
                                     <ProductItem
@@ -153,6 +158,10 @@ export default function Header() {
                                 <Award className="w-3.5 h-3.5" />
                                 8x Award Winner (2022-2025)
                             </span>
+
+                            <Link href="/new-patients/" onClick={() => setIsMobileMenuOpen(false)} className="w-full text-center rounded-md text-base font-bold bg-orange-500 text-white py-3.5 uppercase tracking-wider shadow-sm hover:bg-orange-600 transition-colors">
+                                New Patient? Start Here
+                            </Link>
 
                             <a href="https://synctherapy.janeapp.com/" rel="noopener noreferrer" className="w-full text-center rounded-md text-base font-bold bg-[#fbbf24] text-black py-3.5 uppercase tracking-wider shadow-sm hover:bg-[#f59e0b] transition-colors">
                                 Book Appointment Now
