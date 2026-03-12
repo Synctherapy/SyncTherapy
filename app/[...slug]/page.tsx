@@ -143,6 +143,25 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         };
     }
 
+    // Custom Metadata for /new-patients
+    if (resolvedParams.slug.length === 1 && resolvedParams.slug[0] === 'new-patients') {
+        return {
+            title: 'New Patients | Sync Massage Therapy Colwood & Victoria',
+            description: 'Tired of treatments that don\'t last? Sync Massage Therapy finds the root cause of chronic pain with RMT, Athletic Therapy & Holistic Nutrition. One therapist. Three disciplines. Book online 24/7.',
+            openGraph: {
+                title: 'New Patients | Sync Massage Therapy Colwood',
+                description: 'Finally, a therapist who investigates why you\'re in pain — not just where. One therapist, three disciplines, no starting over. Serving Colwood, Langford & Victoria.',
+                url: 'https://www.synctherapy.ca/new-patients/',
+                siteName: 'Sync Massage Therapy',
+                locale: 'en_CA',
+                type: 'website',
+            },
+            alternates: {
+                canonical: 'https://www.synctherapy.ca/new-patients/',
+            },
+        };
+    }
+
     const item = await getContentBySlug(resolvedParams.slug);
 
     if (!item) {
@@ -188,6 +207,7 @@ import { MassageTherapyColwood } from '@/components/pages/MassageTherapyColwood'
 import { DirectBillingMassage } from '@/components/pages/DirectBillingMassage';
 import { DeepTissueMassage } from '@/components/pages/DeepTissueMassage';
 import { SportsMassage } from '@/components/pages/SportsMassage';
+import { NewPatients } from '@/components/pages/NewPatients';
 import { ContactPage } from '@/components/pages/ContactPage';
 import { ServiceSchema } from '@/components/ServiceSchema';
 
@@ -195,7 +215,7 @@ export default async function Page({ params }: Props) {
     const resolvedParams = await params;
     const item = await getContentBySlug(resolvedParams.slug);
 
-    if (!item && resolvedParams.slug[0] !== 'direct-billing' && resolvedParams.slug[0] !== 'contact' && !(resolvedParams.slug[0] === 'services' && (resolvedParams.slug[1] === 'deep-tissue-massage' || resolvedParams.slug[1] === 'sports-massage'))) {
+    if (!item && resolvedParams.slug[0] !== 'direct-billing' && resolvedParams.slug[0] !== 'contact' && resolvedParams.slug[0] !== 'new-patients' && !(resolvedParams.slug[0] === 'services' && (resolvedParams.slug[1] === 'deep-tissue-massage' || resolvedParams.slug[1] === 'sports-massage'))) {
         notFound();
     }
 
@@ -257,6 +277,18 @@ export default async function Page({ params }: Props) {
             <>
                 <Header />
                 <SportsMassage />
+                <Footer />
+            </>
+        );
+    }
+
+    // SPECIAL PAGE: New Patients
+    if (resolvedParams.slug.length === 1 &&
+        resolvedParams.slug[0] === 'new-patients') {
+        return (
+            <>
+                <Header />
+                <NewPatients />
                 <Footer />
             </>
         );

@@ -236,6 +236,24 @@ body {
   overflow-x: hidden;
 }
 
+/* Accessibility: Reduce motion for users who prefer it */
+@media (prefers-reduced-motion: reduce) {
+  .animate-blob,
+  .animate-marquee-vertical,
+  .animate-marquee-vertical-reverse,
+  .animate-pulse-glow,
+  .animate-shine {
+    animation: none !important;
+  }
+
+  .transition-all,
+  .transition-colors,
+  .transition-shadow,
+  .transition-transform {
+    transition-duration: 0.01ms !important;
+  }
+}
+
 @layer base {
   * {
     @apply border-border outline-ring/50;

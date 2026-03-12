@@ -130,7 +130,7 @@ export function GoogleReviewsColumns() {
             </div>
 
             {isLoading ? (
-                <div className="flex justify-center h-[200px] items-center">
+                <div className="flex justify-center min-h-[500px] items-center">
                     <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-blue-600"></div>
                 </div>
             ) : formattedReviews.length > 0 ? (
