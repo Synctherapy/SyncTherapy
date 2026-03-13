@@ -234,8 +234,13 @@ export default function RootLayout({
               "name": "Daryl Stubbs",
               "url": "https://www.synctherapy.ca/our-team/daryl-stubbs/",
               "image": "https://www.synctherapy.ca/images/daryl-stubbs-author.jpg",
-              "jobTitle": "Registered Massage Therapist & Certified Athletic Therapist",
-              "description": "Daryl Stubbs is the founder of Sync Massage Therapy in Colwood, BC, offering musculoskeletal rehabilitation, athletic therapy, visceral manipulation, and functional nutrition since 2015.",
+              "description": "Award-winning Registered Massage Therapist (RMT) and Certified Athletic Therapist (CAT(C)) with over 12 years of clinical experience. Founder of Sync Massage Therapy.",
+              "jobTitle": [
+                "Registered Massage Therapist (RMT)",
+                "Certified Athletic Therapist (CAT(C))",
+                "Holistic Nutritionist",
+                "Clinical Director"
+              ],
               "worksFor": { "@id": "https://www.synctherapy.ca/#organization" },
               "hasCredential": [
                 {
@@ -264,22 +269,24 @@ export default function RootLayout({
                 { "@type": "Organization", "name": "Canadian Athletic Therapists Association (CATA)" }
               ],
               "alumniOf": [
-                { "@type": "EducationalOrganization", "name": "Camosun College" },
+                { "@type": "CollegeOrUniversity", "name": "Camosun College", "sameAs": "https://en.wikipedia.org/wiki/Camosun_College" },
                 { "@type": "EducationalOrganization", "name": "Barral Institute" }
               ],
               "knowsAbout": [
                 "Massage Therapy",
                 "Athletic Therapy",
-                "Visceral Manipulation",
-                "Holistic Nutrition",
+                "Sports Injury Rehabilitation",
                 "Red Light Therapy",
-                "Sports Rehabilitation",
-                "Myofascial Release",
-                "Deep Tissue Massage"
+                "Holistic Nutrition",
+                "Manual Therapy",
+                "Pain Management"
               ],
               "sameAs": [
                 "https://www.instagram.com/synctherapy/",
                 "https://www.facebook.com/SyncTherapyVictoria/",
+                "https://www.linkedin.com/in/daryl-stubbs-36245379/",
+                "https://luminohealth.sunlife.ca/en/health-care-provider-profile/massage-therapist/sync-therapy/daryl-stubbs-603519-692895/",
+                "https://luminohealth.sunlife.ca/en/health-care-provider-profile/athletic-therapist/sync-therapy/daryl-stubbs-603519-692895/",
                 "https://www.youtube.com/@synctherapy",
                 "https://ca.pinterest.com/SyncTherapyWellness/"
               ]
