@@ -351,11 +351,37 @@ export default async function Page({ params }: Props) {
             '@id': 'https://www.synctherapy.ca/our-team/daryl-stubbs/#person',
             'name': 'Daryl Stubbs',
             'url': 'https://www.synctherapy.ca/our-team/daryl-stubbs/',
-            'jobTitle': 'RMT, CAT(C), Holistic Nutritionist',
+            'image': 'https://www.synctherapy.ca/images/daryl-stubbs-author.jpg',
+            'description': 'Award-winning Registered Massage Therapist (RMT) and Certified Athletic Therapist (CAT(C)) with over 12 years of clinical experience. Founder of Sync Massage Therapy.',
+            'jobTitle': [
+                'Registered Massage Therapist (RMT)',
+                'Certified Athletic Therapist (CAT(C))',
+                'Holistic Nutritionist',
+                'Clinical Director'
+            ],
+            'alumniOf': {
+                '@type': 'CollegeOrUniversity',
+                'name': 'Camosun College',
+                'sameAs': 'https://en.wikipedia.org/wiki/Camosun_College'
+            },
+            'knowsAbout': [
+                'Massage Therapy',
+                'Athletic Therapy',
+                'Sports Injury Rehabilitation',
+                'Red Light Therapy',
+                'Holistic Nutrition',
+                'Manual Therapy',
+                'Pain Management'
+            ],
             'worksFor': { '@id': 'https://www.synctherapy.ca/#organization' },
             'sameAs': [
                 'https://www.instagram.com/synctherapy/',
                 'https://www.facebook.com/SyncTherapyVictoria/',
+                'https://www.linkedin.com/in/daryl-stubbs-36245379/',
+                'https://luminohealth.sunlife.ca/en/health-care-provider-profile/massage-therapist/sync-therapy/daryl-stubbs-603519-692895/',
+                'https://luminohealth.sunlife.ca/en/health-care-provider-profile/athletic-therapist/sync-therapy/daryl-stubbs-603519-692895/',
+                'https://www.youtube.com/@synctherapy',
+                'https://ca.pinterest.com/SyncTherapyWellness/'
             ],
         };
 
