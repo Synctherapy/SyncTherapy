@@ -1,0 +1,1 @@
+sed -i 's/export function ProductCard({/\/\/ Static array for rendering stars to prevent garbage collection overhead during re-renders\nconst STARS = \[0, 1, 2, 3, 4\];\n\nexport function ProductCard({/' components/blog/ProductCard.tsx

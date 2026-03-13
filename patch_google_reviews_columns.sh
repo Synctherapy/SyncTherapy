@@ -1,0 +1,2 @@
+sed -i 's/const ReviewCard = ({ img, name, username, body, rating }: ReviewProps) => {/\/\/ Static array for rendering stars to prevent garbage collection overhead during re-renders\nconst STARS = \[0, 1, 2, 3, 4\];\n\nconst ReviewCard = ({ img, name, username, body, rating }: ReviewProps) => {/' components/testimonials/google-reviews-columns.tsx
+sed -i 's/\[...Array(rating || 5)\].map/STARS.slice(0, rating || 5).map/g' components/testimonials/google-reviews-columns.tsx
