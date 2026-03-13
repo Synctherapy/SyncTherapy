@@ -1,5 +1,5 @@
 import { MetadataRoute } from 'next';
-import fs from 'fs';
+import fs from 'fs/promises';
 import path from 'path';
 import matter from 'gray-matter';
 
@@ -8,7 +8,7 @@ import redirectsCache from '../redirects.json';
 
 const BASE_URL = 'https://www.synctherapy.ca';
 
-export default function sitemap(): MetadataRoute.Sitemap {
+export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     const urls: MetadataRoute.Sitemap = [];
     const addedUrls = new Set<string>();
 
@@ -56,44 +56,68 @@ export default function sitemap(): MetadataRoute.Sitemap {
     const appDir = path.join(process.cwd(), 'app');
 
     // Helper to recursively find page.tsx
-    const findPages = (dir: string, basePath: string) => {
-        if (!fs.existsSync(dir)) return;
-        const entries = fs.readdirSync(dir, { withFileTypes: true });
+    const findPages = async (dir: string, basePath: string) => {
+        try {
+            const entries = await fs.readdir(dir, { withFileTypes: true });
 
-        for (const entry of entries) {
-            // Ignore Next.js dynamic route folder brackets, we handle static specific ones
-            if (entry.isDirectory() && !entry.name.startsWith('[') && !entry.name.startsWith('(') && !entry.name.startsWith('_')) {
-                findPages(path.join(dir, entry.name), `${basePath}/${entry.name}`);
-            } else if (entry.isFile() && entry.name === 'page.tsx') {
-                const stats = fs.statSync(path.join(dir, entry.name));
-                addUrl(basePath, 0.9, 'weekly', stats.mtime);
+            const promises = entries.map(async (entry) => {
+                // Ignore Next.js dynamic route folder brackets, we handle static specific ones
+                if (entry.isDirectory() && !entry.name.startsWith('[') && !entry.name.startsWith('(') && !entry.name.startsWith('_')) {
+                    await findPages(path.join(dir, entry.name), `${basePath}/${entry.name}`);
+                } else if (entry.isFile() && entry.name === 'page.tsx') {
+                    const stats = await fs.stat(path.join(dir, entry.name));
+                    addUrl(basePath, 0.9, 'weekly', stats.mtime);
+                }
+            });
+
+            await Promise.all(promises);
+        } catch (error: any) {
+            if (error.code !== 'ENOENT') {
+                console.error(`Error reading directory ${dir}:`, error);
             }
         }
     };
 
     // Scan all root categories in the app dir, excluding known non-page folders
-    const rootEntries = fs.readdirSync(appDir, { withFileTypes: true });
-    for (const entry of rootEntries) {
-        if (entry.isDirectory() && !entry.name.startsWith('[') && !entry.name.startsWith('(') && !entry.name.startsWith('_') && entry.name !== 'api') {
-            findPages(path.join(appDir, entry.name), `/${entry.name}`);
-        }
+    try {
+        const rootEntries = await fs.readdir(appDir, { withFileTypes: true });
+        const appDirPromises = rootEntries.map(async (entry) => {
+            if (entry.isDirectory() && !entry.name.startsWith('[') && !entry.name.startsWith('(') && !entry.name.startsWith('_') && entry.name !== 'api') {
+                await findPages(path.join(appDir, entry.name), `/${entry.name}`);
+            }
+        });
+        await Promise.all(appDirPromises);
+    } catch (error: any) {
+        console.error("Error scanning app directory for sitemap:", error);
     }
+
 
     // 3. Discover Markdown Content Routes
     const contentDirectory = path.join(process.cwd(), 'content');
     const pagesDir = path.join(contentDirectory, 'pages');
     const postsDir = path.join(contentDirectory, 'posts');
 
-    const getFiles = (dir: string) => {
-        if (!fs.existsSync(dir)) return [];
-        return fs.readdirSync(dir).filter(file => file.endsWith('.md') || file.endsWith('.mdx'));
+    const getFiles = async (dir: string) => {
+        try {
+            const files = await fs.readdir(dir);
+            return files.filter(file => file.endsWith('.md') || file.endsWith('.mdx'));
+        } catch (error: any) {
+            if (error.code !== 'ENOENT') {
+                 console.error(`Error reading content directory ${dir}:`, error);
+            }
+            return [];
+        }
     };
 
     // Markdown Pages
-    getFiles(pagesDir).forEach((file) => {
+    const pageFiles = await getFiles(pagesDir);
+    const pagesPromises = pageFiles.map(async (file) => {
         const slug = file.replace(/\.mdx?$/, '');
         const filePath = path.join(pagesDir, file);
-        const fileContent = fs.readFileSync(filePath, 'utf8');
+        const [fileContent, stats] = await Promise.all([
+            fs.readFile(filePath, 'utf8'),
+            fs.stat(filePath)
+        ]);
         const { data } = matter(fileContent);
 
         // Skip pages that are mapped as root or statically known
@@ -102,25 +126,28 @@ export default function sitemap(): MetadataRoute.Sitemap {
         // Skip explicitly marked noindex or drafts
         if (data.noindex || data.draft) return;
 
-        const stats = fs.statSync(filePath);
         addUrl(`/${slug}`, 0.8, 'weekly', stats.mtime);
     });
+    await Promise.all(pagesPromises);
 
     // Markdown Posts
-    getFiles(postsDir).forEach((file) => {
+    const postFiles = await getFiles(postsDir);
+    const postsPromises = postFiles.map(async (file) => {
         const slug = file.replace(/\.mdx?$/, '');
         const filePath = path.join(postsDir, file);
-        const fileContent = fs.readFileSync(filePath, 'utf8');
+         const [fileContent, stats] = await Promise.all([
+            fs.readFile(filePath, 'utf8'),
+            fs.stat(filePath)
+        ]);
         const { data } = matter(fileContent);
 
         // Skip if explictly noindex or draft
         if (data.noindex || data.draft) return;
 
-        const stats = fs.statSync(filePath);
-
         // Blog posts map to root in [...slug] dynamically 
         addUrl(`/${slug}`, 0.6, 'monthly', stats.mtime);
     });
+    await Promise.all(postsPromises);
 
     return urls;
 }
