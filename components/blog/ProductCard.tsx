@@ -18,6 +18,9 @@ interface ProductCardProps {
   children?: React.ReactNode;
 }
 
+// Static array for rendering stars to prevent garbage collection overhead during re-renders
+const STARS = [0, 1, 2, 3, 4];
+
 export function ProductCard({
   id,
   title,
@@ -54,7 +57,7 @@ export function ProductCard({
           {rating && (
             <div className="flex items-center mb-4">
               <span className="text-accent font-bold text-lg mr-2">{rating}/5</span>
-              {[...Array(5)].map((_, i) => (
+              {STARS.map((_, i) => (
                 <i
                   key={i}
                   className={`fas fa-star${i < Math.floor(rating) ? '' : i < rating ? '-half-alt' : ''} text-accent`}

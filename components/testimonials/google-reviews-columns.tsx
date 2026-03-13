@@ -25,6 +25,9 @@ const GoogleIcon = () => (
     </svg>
 )
 
+// Static array for rendering stars to prevent garbage collection overhead during re-renders
+const STARS = [0, 1, 2, 3, 4];
+
 const ReviewCard = ({ img, name, username, body, rating }: ReviewProps) => {
     return (
         <figure className="relative w-full cursor-pointer overflow-hidden rounded-xl border p-4 border-gray-950/[.1] bg-gray-950/[.01] hover:bg-gray-950/[.05] dark:border-gray-50/[.1] dark:bg-gray-50/[.10] dark:hover:bg-gray-50/[.15] transition-all duration-300">
@@ -44,7 +47,7 @@ const ReviewCard = ({ img, name, username, body, rating }: ReviewProps) => {
                     </figcaption>
                     <div className="flex items-center gap-1">
                         <div className="flex">
-                            {[...Array(rating || 5)].map((_, i) => (
+                            {STARS.slice(0, rating || 5).map((_, i) => (
                                 <Star key={i} className="w-3 h-3 fill-yellow-400 text-yellow-400" />
                             ))}
                         </div>

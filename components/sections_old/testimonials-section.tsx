@@ -20,6 +20,9 @@ const testimonials = [
   },
 ];
 
+// Static array for rendering stars to prevent garbage collection overhead during re-renders
+const STARS = [0, 1, 2, 3, 4];
+
 export function TestimonialsSection() {
   return (
     <section className="py-20 bg-card">
@@ -35,7 +38,7 @@ export function TestimonialsSection() {
               className="bg-background p-8 rounded-lg border border-border flex flex-col"
             >
               <div className="flex gap-1 mb-4">
-                {[...Array(5)].map((_, i) => (
+                {STARS.map((_, i) => (
                   <Star key={i} className="w-5 h-5 fill-accent text-accent" />
                 ))}
               </div>
