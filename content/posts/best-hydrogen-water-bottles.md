@@ -738,15 +738,17 @@ faqs:
         <section id="related" class="bg-blue-50 p-8 rounded-lg shadow-md">
             <h2 class="text-2xl font-bold"><i class="fas fa-link text-accent mr-2"></i>Related Hydrogen Water Guides</h2>
             <div class="grid md:grid-cols-2 gap-4 mt-4">
-                <ul class="space-y-2">
+                <ul class="space-y-2 text-sm">
                     <li><a href="/benefits-of-hydrogen-water/" class="text-primary hover:underline font-semibold">→ Complete Guide to Hydrogen Water</a></li>
                     <li><a href="/best-hydrogen-water-machines/" class="text-primary hover:underline font-semibold">→ Best Hydrogen Water Machines (Countertop)</a></li>
                     <li><a href="/best-hydrogen-water-bottles/" class="text-primary hover:underline font-semibold">→ Where Can You Buy Hydrogen Water?</a></li>
-                    <li>→ Alkaline Water vs Hydrogen Water</li>
+                    <li><a href="/negative-side-effects-hydrogen-water/" class="text-primary hover:underline font-semibold">→ Side Effects of Hydrogen Water</a></li>
+                    <li><a href="/hydrogen-water-for-athletic-recovery/" class="text-primary hover:underline font-semibold">→ Hydrogen Water for Athletic Recovery</a></li>
                 </ul>
-                <ul class="space-y-2">
-                    <li>→ Kangen Water vs Hydrogen Water</li>
-                    <li>→ Hydrogen Water vs Ionized Water</li>
+                <ul class="space-y-2 text-sm">
+                    <li><a href="/kangen-water-vs-hydrogen-water/" class="text-primary hover:underline font-semibold">→ Kangen Water vs Hydrogen Water</a></li>
+                    <li><a href="/how-long-does-hydrogen-last-in-water/" class="text-primary hover:underline font-semibold">→ How Long Does Hydrogen Last in Water?</a></li>
+                    <li><a href="/can-you-put-lemon-in-hydrogen-water/" class="text-primary hover:underline font-semibold">→ Can You Put Lemon in Hydrogen Water?</a></li>
                     <li><a href="/benefits-of-hydrogen-water/" class="text-primary hover:underline font-semibold">→ Hydrogen Water and Cancer Research</a></li>
                     <li><a href="/ion-bottles-review/" class="text-primary hover:underline font-semibold">→ IonBottles Review</a></li>
                 </ul>

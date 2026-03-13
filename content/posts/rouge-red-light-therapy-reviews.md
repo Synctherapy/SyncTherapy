@@ -444,5 +444,23 @@ If you are a data-driven biohackers, serious athlete, or wellness enthusiast who
 <p>Award-winning Athletic Therapist with 12+ years clinical experience integrating recovery modalities at Sync Massage Therapy.</p>
 </div>
 
+<section id="related-rlt-guides" class="bg-gray-50 p-8 rounded-lg shadow-md mt-12 mb-8 border border-gray-100">
+    <h2 class="text-2xl font-bold mb-6 text-gray-800"><i class="fas fa-link text-accent mr-2"></i>Further Reading: Red Light Therapy Guides</h2>
+    <div class="grid md:grid-cols-2 gap-4">
+        <ul class="space-y-3">
+            <li><a href="/near-infrared-vs-red-light/" class="text-primary hover:text-accent hover:underline font-semibold flex items-center"><span class="mr-2">→</span> Near Infrared vs. Red Light: What's the Difference?</a></li>
+            <li><a href="/how-often-should-you-use-red-light-therapy/" class="text-primary hover:text-accent hover:underline font-semibold flex items-center"><span class="mr-2">→</span> How Often Should You Use Red Light Therapy?</a></li>
+            <li><a href="/red-light-therapy-for-weight-loss/" class="text-primary hover:text-accent hover:underline font-semibold flex items-center"><span class="mr-2">→</span> Red Light Therapy for Weight Loss: The Clinical Truth</a></li>
+            <li><a href="/red-light-therapy-for-hair-growth/" class="text-primary hover:text-accent hover:underline font-semibold flex items-center"><span class="mr-2">→</span> Red Light Therapy for Hair Growth</a></li>
+        </ul>
+        <ul class="space-y-3">
+            <li><a href="/does-red-light-therapy-work-through-clothes/" class="text-primary hover:text-accent hover:underline font-semibold flex items-center"><span class="mr-2">→</span> Does Red Light Therapy Work Through Clothes?</a></li>
+            <li><a href="/what-is-irradiance-in-red-light-therapy/" class="text-primary hover:text-accent hover:underline font-semibold flex items-center"><span class="mr-2">→</span> What is Irradiance in Red Light Therapy?</a></li>
+            <li><a href="/red-light-therapy-emf-warnings/" class="text-primary hover:text-accent hover:underline font-semibold flex items-center"><span class="mr-2">→</span> Red Light Therapy EMF Warnings</a></li>
+            <li><a href="/red-light-therapy-for-neuropathy/" class="text-primary hover:text-accent hover:underline font-semibold flex items-center"><span class="mr-2">→</span> Red Light Therapy for Neuropathy</a></li>
+        </ul>
+    </div>
+</section>
+
 </main>
 </div>

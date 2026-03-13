@@ -239,6 +239,23 @@ faqs:
                 </div>
             </section>
 
+            <!-- Related Reading -->
+            <section id="related" class="mt-8 bg-blue-50 p-6 rounded-lg shadow-md">
+                <h2 class="text-2xl font-bold mb-4 !border-none !pl-0"><i class="fas fa-link text-accent mr-2"></i>Related Hydrogen Water Guides</h2>
+                <div class="grid md:grid-cols-2 gap-4">
+                    <ul class="space-y-2 text-sm">
+                        <li><a href="/negative-side-effects-hydrogen-water/" class="text-primary hover:underline font-semibold">→ Are There Negative Side Effects to Hydrogen Water?</a></li>
+                        <li><a href="/hydrogen-water-for-athletic-recovery/" class="text-primary hover:underline font-semibold">→ Hydrogen Water for Athletic Recovery</a></li>
+                        <li><a href="/echo-flask-review/" class="text-primary hover:underline font-semibold">→ Echo Flask Review</a></li>
+                    </ul>
+                    <ul class="space-y-2 text-sm">
+                        <li><a href="/how-long-does-hydrogen-last-in-water/" class="text-primary hover:underline font-semibold">→ How Long Does Hydrogen Last in Water?</a></li>
+                        <li><a href="/can-you-put-lemon-in-hydrogen-water/" class="text-primary hover:underline font-semibold">→ Can You Put Lemon in Hydrogen Water?</a></li>
+                        <li><a href="/kangen-water-vs-hydrogen-water/" class="text-primary hover:underline font-semibold">→ Kangen vs Hydrogen Water</a></li>
+                    </ul>
+                </div>
+            </section>
+
         </main>
     </div>
 

@@ -298,11 +298,16 @@ faqs:
                     <li><a href="/best-hydrogen-water-bottles/" class="text-primary hover:underline font-semibold">→ Best Hydrogen Water Bottles 2026</a></li>
                     <li><a href="/echo-ultimate-review/" class="text-primary hover:underline font-semibold">→ Echo Ultimate Review</a></li>
                     <li><a href="/echo-hydrogen-pitcher-review/" class="text-primary hover:underline font-semibold">→ Echo Hydrogen Pitcher Review</a></li>
+                    <li><a href="/hydrogen-water-for-athletic-recovery/" class="text-primary hover:underline font-semibold">→ Hydrogen Water for Athletic Recovery</a></li>
+                    <li><a href="/kangen-water-vs-hydrogen-water/" class="text-primary hover:underline font-semibold">→ Kangen vs Hydrogen Water</a></li>
                 </ul>
                 <ul class="space-y-2 text-sm">
                     <li><a href="/gary-brecka-hydrogen-water-bottle/" class="text-primary hover:underline font-semibold">→ Gary Brecka's Hydrogen Water Bottle</a></li>
                     <li><a href="/benefits-of-hydrogen-water/" class="text-primary hover:underline font-semibold">→ Benefits of Hydrogen Water</a></li>
                     <li><a href="/best-hydrogen-water-machines/" class="text-primary hover:underline font-semibold">→ Best Hydrogen Water Machines</a></li>
+                    <li><a href="/how-long-does-hydrogen-last-in-water/" class="text-primary hover:underline font-semibold">→ How Long Does Hydrogen Last in Water?</a></li>
+                    <li><a href="/can-you-put-lemon-in-hydrogen-water/" class="text-primary hover:underline font-semibold">→ Can You Put Lemon in Hydrogen Water?</a></li>
+                    <li><a href="/negative-side-effects-hydrogen-water/" class="text-primary hover:underline font-semibold">→ Side Effects of Hydrogen Water</a></li>
                 </ul>
             </div>
         </section>

@@ -547,7 +547,6 @@ with the drawback that certain features of Website may not function properly wit
 
 
 
-[wpl_cookie_details]
 
 
 

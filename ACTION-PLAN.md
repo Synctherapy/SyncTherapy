@@ -1,20 +1,20 @@
-# Action Plan: Sauna Blanket Pages SEO
+# Action Plan: Echo Flask Review
 
-**Target URLs / Files:**
-- `/best-sauna-blanket/` (content/posts/best-sauna-blanket.md)
-- `/higherdose-sauna-blanket/` (content/posts/higherdose-sauna-blanket.md)
+This is the prioritized implementation plan to improve the Echo Flask Review page's ranking to #1 based on the SEO audit.
 
----
+## 1. Immediate Blockers (Critical)
+*There are no critical indexing or crawling blockers on this page based on the markdown review.*
 
-## Completed Actions
-✅ **Keyword Gap Injection:** Extracted and mapped missing long-tail keywords ("zero emf sauna blanket", "best infrared sauna blankets with low emf", "higher dose reviews", "benefits of higher dose sauna blanket") directly into the newly redesigned pages.
-✅ **Meta Description Fix:** Corrected a trailing truncation "This..." in the `higherdose-sauna-blanket.md` meta description to form a comprehensive call-to-action to read the review and use the discount.
-✅ **Internal Linking Architecture:** Bridged topical authority clusters by linking the general `/best-sauna-blanket/` listicle with the standalone `/bon-charge-sauna-blanket-review/` and `/higherdose-sauna-blanket/` hub pages.
-✅ **UI / UX Redesign (CRO):** Ripped out archaic bloggle plugins and deployed ultra-modern Tailwind CSS layouts designed for scanning and aesthetic appeal using the Digital Blue brand palette.
+## 2. Quick Wins (High Impact, Low Effort)
+- **Re-distribute Internal Links:** Take the links currently sitting in the "Echo Flask Guides Hub" (like the Echo Go+ and Piurify comparisons, or the Cleaning guide) and weave them organically into the main text. For instance, in the "How It Compares" section, make the links highly contextual rather than isolated buttons or lists.
+- **Preload Hero Image:** Ensure the `<img src="/uploads/content/echo-flask-touch-screen-hydrogen-cycle.png">` has a `fetchpriority="high"` or is explicitly preloaded in Next.js to ensure a fast Largest Contentful Paint (LCP).
 
-## Pending Strategic Actions (To Reach #1 Long Term)
-If ranking does not hit #1 after 4 weeks of these updates indexing:
-
-1. 🟢 **Social Proof/Backlinks:** Aim to embed a fresh YouTube video explicitly demonstrating a 2026 test of the HigherDOSE V4 EMF levels with an active EMF meter to prove the safety claims on-camera.
-2. 🟢 **Schema Refresh:** Wait for GSC indexing to report any issues with `FAQPage` snippets to evaluate whether deeper `Product` or `Review` schema (aggregating star ratings) needs manual coding beyond standard arrays.
-3. 🟡 **Core Web Vitals Check (Live):** Once deployed, run the live URLs through PageSpeed Insights on Mobile to ensure the Tailwind CSS payload is fully optimized and any images on the page load under 2.5s (LCP).
+## 3. Strategic Improvements (High Impact, Higher Effort)
+- **Add Original Photography (The #1 Fix Needed):** 
+  - To prove E-E-A-T and pass the "Product Review" helpful content threshold, you *must* add original photos.
+  - **Photo 1:** You holding the Echo Flask (shows real-world scale, since 12oz is small).
+  - **Photo 2:** A screenshot or photo of the Echo Flask app tracking your hydration.
+  - **Photo 3:** The Echo Flask sitting next to the Echo Go+ or Piurify to visually prove the comparison.
+  - Ensure all images have descriptive `alt` text and are saved as WebP.
+- **Enhance Semantic Copy:** Add a technical paragraph in the "What Is the Echo Flask?" section explaining *how* SPE/PEM technology works (specifically mentioning the venting of ozone and chlorine gas). This heavily satisfies LLM AI Overviews and high-intent informational queries.
+- **Verify Schema Markup:** Double-check that JSON-LD `Review` schema is injecting the `4.7/5` rating into the `<head>` of this specific page so review stars appear in Google search results.

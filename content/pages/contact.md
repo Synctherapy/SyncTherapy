@@ -496,7 +496,7 @@ seoTitle: 'Contact Sync Massage Therapy | Colwood, BC'
             "description": "Award-winning Registered Massage Therapy, Athletic Therapy, and Holistic Nutrition services in Colwood, BC",
             "slogan": "Feel Better. Move Better. Live Better.",
             "url": "https://www.synctherapy.ca",
-            "logo": "https://www.synctherapy.ca/wp-content/uploads/2025/06/synctherapy-logo.png",
+            "logo": "https://www.synctherapy.ca/uploads/2025/06/synctherapy-logo.png",
             "contactPoint": [{
                 "@type": "ContactPoint",
                 "telephone": "+1-250-812-8698",
