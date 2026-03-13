@@ -13,6 +13,16 @@ description: "As an Athletic Therapist, I detail the exact mechanisms of angioge
 
 <main class="space-y-12">
 
+<section id="key-takeaways" class="bg-blue-50 border-l-4 border-primary p-6 rounded-lg shadow-sm">
+    <h2 class="text-2xl font-bold mb-4 !border-none !pl-0"><i class="fas fa-shoe-prints text-accent mr-2"></i>TL;DR: Reversing Neuropathy</h2>
+    <ul class="space-y-3 list-disc list-inside text-gray-800">
+        <li><strong>The Root Cause:</strong> Peripheral neuropathy is caused by micro-vascular starvation. Small blood vessels die, suffocating the nerve.</li>
+        <li><strong>Growing New Vessels:</strong> Deep-penetrating 850nm Near-Infrared light triggers "Angiogenesis"—the biological creation of new capillary networks to feed the starving nerve.</li>
+        <li><strong>Neurogenesis:</strong> It directly stimulates Schwann cells to rebuild the protective myelin sheath, stopping the burning and "misfiring" pain.</li>
+        <li><strong>The Protocol:</strong> High-irradiance sessions at a close distance (4-6 inches) for 15 minutes a day, consistently for 90 days.</li>
+    </ul>
+</section>
+
 <section id="introduction">
     <p class="mb-4 text-gray-700">But as a <strong>Certified Athletic Therapist (CAT(C))</strong>, my goal is not to mask symptoms; my goal is to facilitate structural tissue regeneration.</p>
     <p class="mb-6 text-xl font-semibold text-gray-800 border-l-4 border-primary pl-4 bg-gray-50 py-3 rounded-r-lg">In recent years, the clinical data surrounding Photobiomodulation (Red Light Therapy) for nerve repair has been nothing short of explosive. It is no longer an alternative therapy; it is rapidly becoming a primary intervention mechanism.</p>

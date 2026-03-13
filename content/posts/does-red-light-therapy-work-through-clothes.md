@@ -13,6 +13,15 @@ description: "Can you wear a shirt during red light therapy? I explain the clini
 
 <main class="space-y-12">
 
+<section id="key-takeaways" class="bg-blue-50 border-l-4 border-primary p-6 rounded-lg shadow-sm">
+    <h2 class="text-2xl font-bold mb-4 !border-none !pl-0"><i class="fas fa-ban text-accent mr-2"></i>TL;DR: Bare Skin is Mandatory</h2>
+    <ul class="space-y-3 list-disc list-inside text-gray-800">
+        <li><strong>No, it does not work through clothes.</strong> Light either reflects off light-colored fabrics or is absorbed as heat by dark fabrics. It will not reach your body.</li>
+        <li><strong>Transmission is Key:</strong> For therapeutic photons to reach your mitochondria, there must be absolutely nothing standing in their way.</li>
+        <li><strong>Micro-Barriers Matter:</strong> Sunscreen, thick lotions, and makeup containing zinc or titanium will also block the light from penetrating your skin.</li>
+    </ul>
+</section>
+
 <section id="introduction">
     <p class="mb-4 text-gray-700">It is a totally fair question. We are conditioned to think of light like x-rays or microwaves, which effortlessly pass through solid objects.</p>
     <p class="mb-6 text-xl font-semibold text-gray-800 border-l-4 border-primary pl-4 bg-gray-50 py-3 rounded-r-lg">The definitive clinical answer is: <strong>No, red light therapy does not work through clothes.</strong></p>

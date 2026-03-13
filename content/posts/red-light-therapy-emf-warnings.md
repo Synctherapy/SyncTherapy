@@ -13,6 +13,15 @@ description: "As a Nutritionist, I expose the hidden danger of high EMFs in chea
 
 <main class="space-y-12">
 
+<section id="key-takeaways" class="bg-blue-50 border-l-4 border-primary p-6 rounded-lg shadow-sm">
+    <h2 class="text-2xl font-bold mb-4 !border-none !pl-0"><i class="fas fa-triangle-exclamation text-accent mr-2"></i>TL;DR: The Hidden Danger of EMFs</h2>
+    <ul class="space-y-3 list-disc list-inside text-gray-800">
+        <li><strong>The Danger:</strong> Cheap Amazon red light panels emit massive localized Electromagnetic Fields (EMFs), which trigger cellular stress, disrupt sleep, and cause inflammation.</li>
+        <li><strong>Why It Happens:</strong> Budget brands save money by not shielding their internal wiring and cooling fans.</li>
+        <li><strong>The Guarantee:</strong> You must only buy from premium brands (like Kala, Rouge, or Mito) that explicitly guarantee and publish third-party "Zero EMF at 6 Inches" tests.</li>
+    </ul>
+</section>
+
 <section id="introduction">
     <p class="mb-4 text-gray-700">As a <strong>Holistic Nutritionist</strong>, I look for hidden cellular stressors. When I ask them to test their discount red light panel with an EMF meter, the needle often pins instantly into the severe danger zone.</p>
     <p class="mb-6 text-xl font-semibold text-gray-800 border-l-4 border-red-500 pl-4 bg-red-50 py-3 rounded-r-lg">Here is the dark secret of the budget Photobiomodulation industry: Cheap panels generate massive amounts of toxic Electromagnetic Fields (EMFs), completely overriding the healing benefits of the light itself.</p>

@@ -13,6 +13,16 @@ description: "As a Certified Athletic Therapist, I break down exactly how often 
 
 <main class="space-y-12">
 
+<section id="key-takeaways" class="bg-blue-50 border-l-4 border-primary p-6 rounded-lg shadow-sm">
+    <h2 class="text-2xl font-bold mb-4 !border-none !pl-0"><i class="fas fa-calendar-check text-accent mr-2"></i>TL;DR: Optimal Treatment Frequencies</h2>
+    <ul class="space-y-3 list-disc list-inside text-gray-800">
+        <li><strong>General Wellness:</strong> 10-15 minutes, 3 to 5 times per week.</li>
+        <li><strong>Skin and Anti-Aging:</strong> 5-10 minutes, 4 to 6 times per week (at a distance of 12-18 inches).</li>
+        <li><strong>Acute Pain & Injuries:</strong> 10-15 minutes, 1 to 2 times <em>daily</em> (at a closer distance of 4-6 inches).</li>
+        <li><strong>The Biphasic Response:</strong> More is not better. If you use it for too long (e.g., 45+ minutes), your cells become saturated and the benefits diminish.</li>
+    </ul>
+</section>
+
 <section id="introduction">
     <p class="mb-4 text-gray-700">As a <strong>Certified Athletic Therapist (CAT(C))</strong>, I prescribe Photobiomodulation (PBM) treatments every single week. The truth is that red light therapy follows what is called a <strong>Biphasic Dose Response</strong>.</p>
     <p class="mb-6 text-xl font-semibold text-gray-800 border-l-4 border-primary pl-4 bg-gray-50 py-3 rounded-r-lg">In simple clinical terms: if you do too little, you get no results. If you do the optimal amount, you heal quickly. If you do <em>too much</em>, the benefits actually reverse, and you can temporarily stress the cells.</p>

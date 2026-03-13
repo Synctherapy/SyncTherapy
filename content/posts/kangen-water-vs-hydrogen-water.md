@@ -16,6 +16,15 @@ seoTitle: "Kangen Water vs. Hydrogen Water: What the Science Actually Says"
 
 <main class="space-y-12">
 
+<section id="key-takeaways" class="bg-blue-50 border-l-4 border-primary p-6 rounded-lg shadow-sm">
+    <h2 class="text-2xl font-bold mb-4 !border-none !pl-0"><i class="fas fa-flask text-accent mr-2"></i>TL;DR: Kangen vs. Hydrogen Water</h2>
+    <ul class="space-y-3 list-disc list-inside text-gray-800">
+        <li><strong>The Alkaline Myth:</strong> Drinking high-pH alkaline water (Kangen) does not "alkalize your blood" and can actually neutralize healthy stomach acid.</li>
+        <li><strong>The Hidden Truth:</strong> The only reason older ionizers provided medical benefits was because they accidentally produced tiny amounts of dissolved hydrogen gas.</li>
+        <li><strong>The Modern Solution:</strong> True Hydrogen Water Generators use SPE/PEM technology to pump massive doses (3.0+ PPM) of pure H₂ gas into neutral, safe drinking water.</li>
+    </ul>
+</section>
+
 <section id="introduction">
     <p class="mb-4 text-gray-700">It is deeply confusing for consumers. Are they the same thing? Which one is actually backed by science?</p>
     <p class="mb-4 text-gray-700">As a <strong>Holistic Nutritionist</strong> and <strong>Certified Athletic Therapist</strong>, I evaluate wellness technologies strictly through the lens of empirical biology. When we look past the Multi-Level Marketing (MLM) sales pitches and examine the actual clinical chemistry, the truth is incredibly clear.</p>

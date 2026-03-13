@@ -16,6 +16,15 @@ seoTitle: "How Long Does Hydrogen Last In Water? (Clinical Physics)"
 
 <main class="space-y-12">
 
+<section id="key-takeaways" class="bg-blue-50 border-l-4 border-primary p-6 rounded-lg shadow-sm">
+    <h2 class="text-2xl font-bold mb-4 !border-none !pl-0"><i class="fas fa-stopwatch text-accent mr-2"></i>TL;DR: The Half-Life of Hydrogen Water</h2>
+    <ul class="space-y-3 list-disc list-inside text-gray-800">
+        <li><strong>The 10-Minute Rule:</strong> For maximum clinical benefit, drink the entire glass within 10 minutes of generation.</li>
+        <li><strong>The 2-Hour Half-Life:</strong> Hydrogen gas dissipates quickly. After 2 hours in an open glass, exactly 50% of the gas will have escaped.</li>
+        <li><strong>How to preserve it:</strong> Keep the water ice-cold, ensure the bottle is tightly sealed, and leave absolutely zero air gap at the top.</li>
+    </ul>
+</section>
+
 <section id="introduction">
     <p class="mb-4 text-gray-700">As a <strong>Certified Athletic Therapist (CAT(C))</strong>, my clients rely on molecular hydrogen (H₂) to accelerate muscle recovery and combat systemic inflammation. However, all those clinical benefits are completely useless if the hydrogen gas escapes into the air before you actually swallow it.</p>
     <p class="mb-4 text-gray-700">The biggest mistake consumers make is pouring a glass of hydrogen water and sipping it slowly over two hours at their desk. By the time they finish the glass, they are just drinking plain water.</p>

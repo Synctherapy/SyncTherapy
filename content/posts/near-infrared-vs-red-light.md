@@ -13,6 +13,15 @@ description: "As a Certified Athletic Therapist, I explain the key differences b
 
 <main class="space-y-12">
 
+<section id="key-takeaways" class="bg-blue-50 border-l-4 border-primary p-6 rounded-lg shadow-sm">
+    <h2 class="text-2xl font-bold mb-4 !border-none !pl-0"><i class="fas fa-lightbulb text-accent mr-2"></i>TL;DR: 660nm Red vs. 850nm NIR Light</h2>
+    <ul class="space-y-3 list-disc list-inside text-gray-800">
+        <li><strong>Red Light (660nm) for the Surface:</strong> It absorbs directly into the skin to stimulate collagen, reduce wrinkles, heal wounds, and promote hair growth.</li>
+        <li><strong>Near-Infrared Light (850nm) for Deep Tissues:</strong> It is invisible to the eye and penetrates deep to heal muscles, joints, tendons, and bones.</li>
+        <li><strong>The Clinical Verdict:</strong> Do not choose just one. Buy a dual-chip panel that delivers both wavelengths simultaneously for complete, full-body healing.</li>
+    </ul>
+</section>
+
 <section id="introduction">
     <p class="mb-4 text-gray-700">As a <strong>Certified Athletic Therapist (CAT(C))</strong>, I rely on Photobiomodulation (PBM) daily to help athletes recover from injuries, reduce joint pain, and accelerate healing. But here is the secret: not all light does the same thing.</p>
     <p class="mb-4 text-gray-700">The specific wavelength you use—measured in nanometers (nm)—determines exactly how deeply the light penetrates your body and what tissues it treats.</p>

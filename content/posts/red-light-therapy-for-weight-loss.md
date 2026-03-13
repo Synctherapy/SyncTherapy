@@ -13,6 +13,16 @@ description: "As a Holistic Nutritionist, I explain the actual science of how re
 
 <main class="space-y-12">
 
+<section id="key-takeaways" class="bg-blue-50 border-l-4 border-primary p-6 rounded-lg shadow-sm">
+    <h2 class="text-2xl font-bold mb-4 !border-none !pl-0"><i class="fas fa-fire text-accent mr-2"></i>TL;DR: Red Light & Fat Loss</h2>
+    <ul class="space-y-3 list-disc list-inside text-gray-800">
+        <li><strong>It shrinks cells, it doesn't vanish them:</strong> Red light (635nm-660nm) temporarily opens pores in fat cells, causing them to release fatty acids and deflate.</li>
+        <li><strong>You must burn the fuel:</strong> If you don't exercise or maintain a caloric deficit immediately after your session, the fat will simply re-enter the cells.</li>
+        <li><strong>The Fat Loss Protocol:</strong> Target the stubborn area for 10-15 minutes, then engage in cardiovascular exercise within 30-60 minutes to burn the released fat.</li>
+        <li><strong>Reduces Metabolic Resistance:</strong> Consistent use lowers the systemic inflammation that makes losing weight difficult in the first place.</li>
+    </ul>
+</section>
+
 <section id="introduction">
     <p class="mb-4 text-gray-700">Red light therapy is an incredibly powerful clinical tool, but it does <em>not</em> magically vaporize fat into thin air.</p>
     <p class="mb-6 text-xl font-semibold text-gray-800 border-l-4 border-primary pl-4 bg-gray-50 py-3 rounded-r-lg">However, when used correctly and combined with proper nutrition, red light therapy <em>can</em> be a powerful catalyst for fat reduction. Here is the actual physiological science, backed by Photobiomodulation (PBM) research, on how it works.</p>

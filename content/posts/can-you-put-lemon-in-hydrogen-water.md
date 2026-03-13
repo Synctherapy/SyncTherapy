@@ -16,6 +16,16 @@ seoTitle: "Can You Put Lemon in Hydrogen Water? (Clinical Rules)"
 
 <main class="space-y-12">
 
+<section id="key-takeaways" class="bg-blue-50 border-l-4 border-primary p-6 rounded-lg shadow-sm">
+    <h2 class="text-2xl font-bold mb-4 !border-none !pl-0"><i class="fas fa-bolt text-accent mr-2"></i>TL;DR: Flavoring Hydrogen Water</h2>
+    <ul class="space-y-3 list-disc list-inside text-gray-800">
+        <li><strong>Yes, you can add lemon:</strong> But <em>never</em> put it directly inside the generator machine.</li>
+        <li><strong>Protect the plates:</strong> Acidic lemon juice will corrode the delicate platinum plates and damage the PEM membrane.</li>
+        <li><strong>The 2-Step Rule:</strong> Generate the hydrogen in pure water first, pour it into a separate glass, and then add your lemon or electrolytes.</li>
+        <li><strong>Does acid destroy H2?</strong> No. Molecular hydrogen is pH neutral and will not be destroyed by lemon juice.</li>
+    </ul>
+</section>
+
 <section id="introduction">
     <p class="mb-4 text-gray-700">As a <strong>Holistic Nutritionist</strong> and <strong>Certified Athletic Therapist (CAT(C))</strong>, I am a massive proponent of proper hydration frameworks. Lemon water offers incredible benefits for digestive enzyme stimulation, and electrolytes are mandatory for athletic recovery.</p>
     <p class="mb-4 text-gray-700">But when it comes to molecular hydrogen technology, the chemistry is highly sensitive.</p>

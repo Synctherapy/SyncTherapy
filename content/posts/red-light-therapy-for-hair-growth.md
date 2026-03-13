@@ -13,6 +13,16 @@ description: "Discover how red light therapy can stimulate dormant follicles, im
 
 <main class="space-y-12">
 
+<section id="key-takeaways" class="bg-blue-50 border-l-4 border-primary p-6 rounded-lg shadow-sm">
+    <h2 class="text-2xl font-bold mb-4 !border-none !pl-0"><i class="fas fa-dna text-accent mr-2"></i>TL;DR: Stimulating Hair Growth</h2>
+    <ul class="space-y-3 list-disc list-inside text-gray-800">
+        <li><strong>Awakens Dormant Follicles:</strong> Red light (630nm-660nm) stimulates cellular ATP production, forcing resting hair follicles back into the active "Anagen" growth phase.</li>
+        <li><strong>Boosts Circulation:</strong> It triggers nitric oxide release, rushing fresh blood, oxygen, and nutrients to the scalp.</li>
+        <li><strong>The Protocol:</strong> You must treat the scalp for 10-15 minutes, 4 to 5 times per week.</li>
+        <li><strong>Be Patient:</strong> It takes a minimum of 3 to 4 months of consistent daily use to see visible baby hairs and a reduction in shedding.</li>
+    </ul>
+</section>
+
 <section id="introduction">
     <p class="mb-4 text-gray-700">While foundational nutrition—like iron, zinc, and B-vitamins—is the non-negotiable bedrock of hair health, we often need a clinical push to wake up dormant follicles. Enter: <strong>Red Light Therapy (Photobiomodulation).</strong></p>
     <p class="mb-6 text-xl font-semibold text-gray-800 border-l-4 border-primary pl-4 bg-gray-50 py-3 rounded-r-lg">Decades of clinical research prove that red light therapy is a safe, painless, and highly effective FDA-cleared modality for stimulating hair regrowth. Here is exactly how it works.</p>

@@ -13,6 +13,16 @@ description: "As a clinician, I explain why irradiance (mW/cm2) is the only metr
 
 <main class="space-y-12">
 
+<section id="key-takeaways" class="bg-blue-50 border-l-4 border-primary p-6 rounded-lg shadow-sm">
+    <h2 class="text-2xl font-bold mb-4 !border-none !pl-0"><i class="fas fa-bolt text-accent mr-2"></i>TL;DR: Why Irradiance Matters</h2>
+    <ul class="space-y-3 list-disc list-inside text-gray-800">
+        <li><strong>"Total Watts" is a Scam:</strong> Cheap brands advertise massive wattage, but that only measures electricity pulled from the wall, not the therapeutic light hitting your body.</li>
+        <li><strong>The True Metric:</strong> Irradiance (measured in mW/cm²) is the only metric that measures raw healing power and photonic delivery.</li>
+        <li><strong>The 6-Inch Rule:</strong> Always check a device's irradiance at 6 inches away. If a brand only lists power at "0 inches," the panel is weak.</li>
+        <li><strong>Clinical Standard:</strong> Look for panels that deliver at least 80+ mW/cm² at 6 inches for deep-tissue treatment.</li>
+    </ul>
+</section>
+
 <section id="introduction">
     <p class="mb-4 text-gray-700">As a <strong>Certified Athletic Therapist</strong>, I have to calculate precise therapeutic dosages for my patients. If a panel does not have enough power, it will not penetrate deep into a damaged Achilles tendon or arthritic knee.</p>
     <p class="mb-6 text-xl font-semibold text-gray-800 border-l-4 border-primary pl-4 bg-gray-50 py-3 rounded-r-lg">The <em>only</em> metric that tells you the true power of a red light therapy device is <strong>Irradiance</strong>. And unfortunately, most cheap brands try to hide it from you.</p>
