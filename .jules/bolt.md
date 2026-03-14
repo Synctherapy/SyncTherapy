@@ -1,0 +1,3 @@
+## 2024-05-24 - [Avoid Array Recreation in Render Loops]
+**Learning:** Found widespread use of dynamic array instantiations like `[...Array(5)]` and `new Array(2).fill(0)` in map functions inside React component render functions (e.g. for generating 5 star ratings, or duplicating marquee columns). This causes unnecessary garbage collection and memory pressure on every render because new array references are created each time the component functions run.
+**Action:** Extract these into static module-level constants (e.g., `const STARS = [0, 1, 2, 3, 4]`) outside the component to ensure a single, stable reference is used across all renders and instances of the component.
