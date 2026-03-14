@@ -41,7 +41,7 @@ function getCategoryFromSlug(slug: string, frontmatterCategory?: string): BlogCa
 
 // ─── Schema Type Detection ─────────────────────────────────────
 type SchemaType = 'review' | 'listicle' | 'article';
-const REVIEW_KEYWORDS = ['-review', '-reviews'];
+const REVIEW_KEYWORDS = ['-review', '-reviews', '-vs-'];
 const LISTICLE_PREFIXES = ['best-', 'top-'];
 
 function getSchemaType(slug: string, frontmatterSchemaType?: string): SchemaType {
@@ -357,6 +357,34 @@ export default async function Page({ params }: Props) {
             '@id': 'https://www.synctherapy.ca/#organization'
         };
 
+        // ─── Auto-extract first image from content ───────────────
+        // Fallback chain: frontmatter image → first <img> in content → site logo
+        const firstImgMatch = item.content.match(/<img[^>]*src="([^"]+)"/);
+        const schemaImage = item.frontmatter.image
+            || item.frontmatter.featuredImage
+            || (firstImgMatch ? `https://www.synctherapy.ca${firstImgMatch[1].startsWith('/') ? '' : '/'}${firstImgMatch[1]}` : null)
+            || 'https://www.synctherapy.ca/icon.svg';
+
+        // ─── Auto-calculate word count ───────────────────────────
+        const textContent = item.content.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
+        const wordCount = textContent.split(' ').filter(Boolean).length;
+
+        // ─── Medical entity "about" based on category ────────────
+        const categoryAboutMap: Record<string, { name: string; sameAs: string }> = {
+            'red-light-recovery': { name: 'Red Light Therapy', sameAs: 'https://en.wikipedia.org/wiki/Low-level_laser_therapy' },
+            'gut-health-nutrition': { name: 'Gut Health', sameAs: 'https://en.wikipedia.org/wiki/Gut_flora' },
+            'manual-therapy': { name: 'Manual Therapy', sameAs: 'https://en.wikipedia.org/wiki/Manual_therapy' },
+        };
+        const aboutEntity = categoryAboutMap[detectedCategory] || categoryAboutMap['manual-therapy'];
+
+        // ─── YMYL: MedicalWebPage with reviewedBy ───────────────
+        const mainEntityOfPage = {
+            '@type': 'MedicalWebPage',
+            '@id': canonicalUrl,
+            'lastReviewed': item.frontmatter.dateModified || item.frontmatter.date,
+            'reviewedBy': authorEntity,
+        };
+
         // ─── Build type-specific schema ────────────────────────
         const schemas: object[] = [];
 
@@ -373,16 +401,19 @@ export default async function Page({ params }: Props) {
                 '@type': 'Review',
                 'name': item.frontmatter.title || '',
                 'description': item.frontmatter.description || '',
+                'image': schemaImage,
                 'datePublished': item.frontmatter.date,
                 'dateModified': item.frontmatter.dateModified || item.frontmatter.date,
+                'wordCount': wordCount,
                 'author': authorEntity,
                 'publisher': publisherEntity,
+                'about': { '@type': 'Thing', 'name': aboutEntity.name, 'sameAs': aboutEntity.sameAs },
                 'itemReviewed': {
                     '@type': 'Product',
                     'name': productName,
-                    'image': item.frontmatter.image || item.frontmatter.featuredImage || 'https://www.synctherapy.ca/icon.svg',
+                    'image': schemaImage,
                 },
-                'mainEntityOfPage': { '@type': 'WebPage', '@id': canonicalUrl },
+                'mainEntityOfPage': mainEntityOfPage,
             };
 
             if (item.frontmatter.productPrice) {
@@ -435,11 +466,14 @@ export default async function Page({ params }: Props) {
                 '@type': 'BlogPosting',
                 'headline': item.frontmatter.title || '',
                 'description': item.frontmatter.description || '',
+                'image': schemaImage,
                 'datePublished': item.frontmatter.date,
                 'dateModified': item.frontmatter.dateModified || item.frontmatter.date,
+                'wordCount': wordCount,
                 'author': authorEntity,
                 'publisher': publisherEntity,
-                'mainEntityOfPage': { '@type': 'WebPage', '@id': canonicalUrl },
+                'about': { '@type': 'Thing', 'name': aboutEntity.name, 'sameAs': aboutEntity.sameAs },
+                'mainEntityOfPage': mainEntityOfPage,
             });
             // Extract the number from the slug or title for itemListElement count
             const numberMatch = currentSlug.match(/(\d+)/) || (item.frontmatter.title || '').match(/(\d+)/);
@@ -458,11 +492,14 @@ export default async function Page({ params }: Props) {
                 '@type': 'BlogPosting',
                 'headline': item.frontmatter.title || '',
                 'description': item.frontmatter.description || '',
+                'image': schemaImage,
                 'datePublished': item.frontmatter.date,
                 'dateModified': item.frontmatter.dateModified || item.frontmatter.date,
+                'wordCount': wordCount,
                 'author': authorEntity,
                 'publisher': publisherEntity,
-                'mainEntityOfPage': { '@type': 'WebPage', '@id': canonicalUrl },
+                'about': { '@type': 'Thing', 'name': aboutEntity.name, 'sameAs': aboutEntity.sameAs },
+                'mainEntityOfPage': mainEntityOfPage,
             });
         }
 
