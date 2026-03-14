@@ -3,6 +3,8 @@ title: "Near Infrared vs. Red Light: What's the Difference?"
 date: "2026-03-13 08:00:00"
 slug: near-infrared-vs-red-light
 description: "As a Certified Athletic Therapist, I explain the key differences between 660nm red light and 850nm near-infrared light for muscle recovery, pain, and skin health."
+author: "Daryl Stubbs"
+categories: ["Red Light Therapy"]
 ---
 
 <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
@@ -33,7 +35,7 @@ description: "As a Certified Athletic Therapist, I explain the key differences b
     <p class="mb-4 text-gray-700">Red light falls within the visible light spectrum, typically ranging from 630nm to 700nm. The industry standard focus is <strong>660nm</strong>.</p>
     
     <h3 class="text-2xl font-semibold mt-8 mb-4">How It Works</h3>
-    <p class="mb-4 text-gray-700">Because of its shorter wavelength, red light does not penetrate deeply into the body. Instead, it is highly absorbed by the skin and the superficial tissue layers. It targets the mitochondria in your skin cells, boosting ATP (adenosine triphosphate) production.</p>
+    <p class="mb-4 text-gray-700">Because of its shorter wavelength, red light does not penetrate deeply into the body. Instead, it is highly absorbed by the skin and the superficial tissue layers. It targets the mitochondria in your skin cells, <a href="https://pubmed.ncbi.nlm.nih.gov/?term=photobiomodulation+mitochondria+ATP" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline font-semibold">boosting ATP (adenosine triphosphate) production</a>.</p>
     
     <h3 class="text-2xl font-semibold mt-8 mb-4">Clinical Benefits of Red Light</h3>
     <p class="mb-4 text-gray-700">As a clinician, I primarily use the 660nm wavelength for surface-level healing:</p>
@@ -62,7 +64,7 @@ description: "As a Certified Athletic Therapist, I explain the key differences b
         <li><strong>Deep Muscle Recovery:</strong> Clears lactic acid and reduces Delayed Onset Muscle Soreness (DOMS).</li>
         <li><strong>Joint Pain and Arthritis:</strong> Penetrates into joint capsules to reduce chronic inflammation and osteoarthritis pain.</li>
         <li><strong>Tendon and Ligament Repair:</strong> Accelerates healing in deep tissues like the Achilles tendon or rotator cuff.</li>
-        <li><strong>Bone Healing:</strong> According to extensive PBM databases, NIR light accelerates osteogenesis and fracture healing.</li>
+        <li><strong>Bone Healing:</strong> <a href="https://pubmed.ncbi.nlm.nih.gov/?term=photobiomodulation+bone+healing+osteogenesis" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline font-semibold">According to extensive PBM databases</a>, NIR light accelerates osteogenesis and fracture healing.</li>
     </ul>
 </section>
 

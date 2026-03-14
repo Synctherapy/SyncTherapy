@@ -3,6 +3,8 @@ title: "What is Irradiance in Red Light Therapy? (Why Watts Don't Matter)"
 date: "2026-03-13 08:00:00"
 slug: what-is-irradiance-in-red-light-therapy
 description: "As a clinician, I explain why irradiance (mW/cm2) is the only metric that matters for red light therapy, and why 'total watts' is a marketing scam."
+author: "Daryl Stubbs"
+categories: ["Red Light Therapy"]
 ---
 
 <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
@@ -42,7 +44,7 @@ description: "As a clinician, I explain why irradiance (mW/cm2) is the only metr
 
 <section id="what-is-irradiance">
     <h2 class="text-3xl font-bold mb-6">What is Irradiance? (mW/cm²)</h2>
-    <p class="mb-4 text-gray-700"><strong>Irradiance</strong> is a measure of power density. Specifically, it measures exactly how many photons of light are hitting a specific area of your skin at a specific distance.</p>
+    <p class="mb-4 text-gray-700"><strong>Irradiance</strong> is a <a href="https://pubmed.ncbi.nlm.nih.gov/?term=photobiomodulation+irradiance+power+density" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline font-semibold">measure of power density</a>. Specifically, it measures exactly how many photons of light are hitting a specific area of your skin at a specific distance.</p>
     <p class="mb-4 text-gray-700 font-semibold text-accent">It is measured in milliwatts per square centimeter: <strong>mW/cm²</strong>.</p>
     
     <p class="mb-4 text-gray-700">Think of Irradiance like water pressure in a shower.</p>

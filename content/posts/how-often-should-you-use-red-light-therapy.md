@@ -3,6 +3,8 @@ title: "How Often Should You Use Red Light Therapy? (Clinical Guidelines)"
 date: "2026-03-13 08:00:00"
 slug: how-often-should-you-use-red-light-therapy
 description: "As a Certified Athletic Therapist, I break down exactly how often you should use red light therapy for optimal results and safety."
+author: "Daryl Stubbs"
+categories: ["Red Light Therapy"]
 ---
 
 <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
@@ -24,7 +26,7 @@ description: "As a Certified Athletic Therapist, I break down exactly how often 
 </section>
 
 <section id="introduction">
-    <p class="mb-4 text-gray-700">As a <strong>Certified Athletic Therapist (CAT(C))</strong>, I prescribe Photobiomodulation (PBM) treatments every single week. The truth is that red light therapy follows what is called a <strong>Biphasic Dose Response</strong>.</p>
+    <p class="mb-4 text-gray-700">As a <strong>Certified Athletic Therapist (CAT(C))</strong>, I prescribe Photobiomodulation (PBM) treatments every single week. The truth is that red light therapy follows what is called a <strong><a href="https://pubmed.ncbi.nlm.nih.gov/?term=biphasic+dose+response+low+level+light+therapy" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline font-semibold">Biphasic Dose Response</a></strong>.</p>
     <p class="mb-6 text-xl font-semibold text-gray-800 border-l-4 border-primary pl-4 bg-gray-50 py-3 rounded-r-lg">In simple clinical terms: if you do too little, you get no results. If you do the optimal amount, you heal quickly. If you do <em>too much</em>, the benefits actually reverse, and you can temporarily stress the cells.</p>
     <p class="mb-4 text-gray-700">Here are my clinical guidelines for exactly how often you should use red light therapy for the best results.</p>
 </section>

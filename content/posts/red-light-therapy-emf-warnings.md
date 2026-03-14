@@ -3,6 +3,8 @@ title: "Red Light Therapy EMF Warnings: The Hidden Danger"
 date: "2026-03-13 08:00:00"
 slug: red-light-therapy-emf-warnings
 description: "As a Nutritionist, I expose the hidden danger of high EMFs in cheap red light therapy panels and explain why zero-EMF devices are mandatory for health."
+author: "Daryl Stubbs"
+categories: ["Red Light Therapy"]
 ---
 
 <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
@@ -34,7 +36,7 @@ description: "As a Nutritionist, I expose the hidden danger of high EMFs in chea
     
     <h3 class="text-2xl font-semibold mt-8 mb-4">The Danger of Non-Ionizing EMFs</h3>
     <p class="mb-4 text-gray-700">A red light panel plugged into a wall outlet uses non-ionizing EMFs. While a quick blast from a microwave won't mutate your DNA, standing naked 6 inches away from a massive unshielded electrical grid for 20 minutes a day absolutely throws your cells into a state of chaotic stress.</p>
-    <p class="mb-4 text-gray-700">High EMF exposure disrupts your voltage-gated calcium channels (VGCCs) in your cells, causing an influx of calcium that leads to massive increases in free radicals and oxidative stress. This triggers:</p>
+    <p class="mb-4 text-gray-700"><a href="https://pubmed.ncbi.nlm.nih.gov/?term=electromagnetic+fields+voltage+gated+calcium+channels" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline font-semibold">High EMF exposure disrupts your voltage-gated calcium channels (VGCCs)</a> in your cells, causing an influx of calcium that leads to massive increases in free radicals and oxidative stress. This triggers:</p>
     
     <ul class="grid md:grid-cols-2 gap-4 mb-6">
         <li class="bg-white p-4 rounded-lg shadow-sm border border-gray-100 flex items-center"><i class="fas fa-bed text-red-500 mr-3"></i>Sleep disruption (melatonin suppression)</li>

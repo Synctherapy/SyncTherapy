@@ -1,20 +1,27 @@
-# Action Plan: Echo Flask Review
+# SEO Action Plan: Red Light Therapy Content Cluster
 
-This is the prioritized implementation plan to improve the Echo Flask Review page's ranking to #1 based on the SEO audit.
+**Date:** 2026-03-13
+**Target:** 8 Active Markdown Posts
 
-## 1. Immediate Blockers (Critical)
-*There are no critical indexing or crawling blockers on this page based on the markdown review.*
+Based on the [FULL-AUDIT-REPORT.md](FULL-AUDIT-REPORT.md), here is the prioritized action plan to elevate these posts to #1 ranking potential in 2026.
 
-## 2. Quick Wins (High Impact, Low Effort)
-- **Re-distribute Internal Links:** Take the links currently sitting in the "Echo Flask Guides Hub" (like the Echo Go+ and Piurify comparisons, or the Cleaning guide) and weave them organically into the main text. For instance, in the "How It Compares" section, make the links highly contextual rather than isolated buttons or lists.
-- **Preload Hero Image:** Ensure the `<img src="/uploads/content/echo-flask-touch-screen-hydrogen-cycle.png">` has a `fetchpriority="high"` or is explicitly preloaded in Next.js to ensure a fast Largest Contentful Paint (LCP).
+## Priority 1: High-Impact E-E-A-T (External Scientific Linking)
+**Severity:** 🔴 Critical
+**Why:** Google requires proof for YMYL claims. Without external citations, these posts lack the verified trust signals required in 2026.
+**Action Items:**
+1. Cross-reference the existing `PBM database.csv` to find specific PubMed/NCBI links for:
+    * Angiogenesis and Nerve Regeneration (Neuropathy post)
+    * ATP Production and Telogen-to-Anagen phase shifts (Hair Growth post)
+    * Lipolysis and Adipocyte shrinkage (Weight Loss post)
+    * 660nm vs 850nm penetration depth (Near-Infrared vs Red Light post)
+2. Inject 2-3 highly contextual `<a href="..." target="_blank" rel="noopener noreferrer">` links per article seamlessly into the body copy.
 
-## 3. Strategic Improvements (High Impact, Higher Effort)
-- **Add Original Photography (The #1 Fix Needed):** 
-  - To prove E-E-A-T and pass the "Product Review" helpful content threshold, you *must* add original photos.
-  - **Photo 1:** You holding the Echo Flask (shows real-world scale, since 12oz is small).
-  - **Photo 2:** A screenshot or photo of the Echo Flask app tracking your hydration.
-  - **Photo 3:** The Echo Flask sitting next to the Echo Go+ or Piurify to visually prove the comparison.
-  - Ensure all images have descriptive `alt` text and are saved as WebP.
-- **Enhance Semantic Copy:** Add a technical paragraph in the "What Is the Echo Flask?" section explaining *how* SPE/PEM technology works (specifically mentioning the venting of ozone and chlorine gas). This heavily satisfies LLM AI Overviews and high-intent informational queries.
-- **Verify Schema Markup:** Double-check that JSON-LD `Review` schema is injecting the `4.7/5` rating into the `<head>` of this specific page so review stars appear in Google search results.
+## Priority 2: Technical SEO (Frontmatter Metadata)
+**Severity:** ⚠️ Warning
+**Why:** Missing authorship severs the E-E-A-T connection for schema generation.
+**Action Items:**
+1. Add `author: "Jay Stubbs"` (or appropriate author tag) to the frontmatter of all 8 posts.
+2. Add `categories: ["Red Light Therapy"]` to the frontmatter of all 8 posts.
+
+## Proposed Execution Workflow
+If approved, I can immediately switch to Execution Mode and programmatically apply all the Priority 1 (Scientific Outbound Links from your CSV) and Priority 2 (Metadata) updates across all 8 markdown files, followed by a local build check to ensure everything works perfectly.

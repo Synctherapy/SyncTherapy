@@ -3,6 +3,8 @@ title: "Red Light Therapy for Weight Loss: The Clinical Truth"
 date: "2026-03-13 08:00:00"
 slug: red-light-therapy-for-weight-loss
 description: "As a Holistic Nutritionist, I explain the actual science of how red light therapy affects fat cells and weight loss—and debunk the magic pill myths."
+author: "Daryl Stubbs"
+categories: ["Red Light Therapy"]
 ---
 
 <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
@@ -36,12 +38,12 @@ description: "As a Holistic Nutritionist, I explain the actual science of how re
         <div class="bg-white p-6 rounded-lg shadow-sm border-t-4 border-accent text-center">
             <div class="bg-primary text-white rounded-full w-12 h-12 flex items-center justify-center font-bold mx-auto mb-4 text-xl">1</div>
             <h3 class="font-bold text-gray-800 mb-2">The Pores Open</h3>
-            <p class="text-gray-600 text-sm">Clinical studies have shown that exposing fat cells to red light creates temporary, microscopic pores in the cell membrane.</p>
+            <p class="text-gray-600 text-sm"><a href="https://pubmed.ncbi.nlm.nih.gov/31809873/" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline font-semibold">Clinical studies</a> have shown that exposing fat cells to red light creates temporary, microscopic pores in the cell membrane.</p>
         </div>
         <div class="bg-white p-6 rounded-lg shadow-sm border-t-4 border-accent text-center">
             <div class="bg-primary text-white rounded-full w-12 h-12 flex items-center justify-center font-bold mx-auto mb-4 text-xl">2</div>
             <h3 class="font-bold text-gray-800 mb-2">Lipolysis Occurs</h3>
-            <p class="text-gray-600 text-sm">Once these pores open, the cell releases its stored contents: water, glycerol, and free fatty acids (FFAs) into the interstitial space and lymphatic system.</p>
+            <p class="text-gray-600 text-sm">Once these pores open, the cell releases its stored contents: water, glycerol, and <a href="https://pubmed.ncbi.nlm.nih.gov/?term=photobiomodulation+lipolysis" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline font-semibold">free fatty acids (FFAs)</a> into the interstitial space and lymphatic system.</p>
         </div>
         <div class="bg-white p-6 rounded-lg shadow-sm border-t-4 border-accent text-center">
             <div class="bg-primary text-white rounded-full w-12 h-12 flex items-center justify-center font-bold mx-auto mb-4 text-xl">3</div>

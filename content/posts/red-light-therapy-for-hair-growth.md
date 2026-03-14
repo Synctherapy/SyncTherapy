@@ -3,6 +3,8 @@ title: "Red Light Therapy for Hair Growth: Science & Protocols"
 date: "2026-03-13 08:00:00"
 slug: red-light-therapy-for-hair-growth
 description: "Discover how red light therapy can stimulate dormant follicles, improve blood flow, and reverse hair loss based on clinical research."
+author: "Daryl Stubbs"
+categories: ["Red Light Therapy"]
 ---
 
 <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
@@ -25,7 +27,7 @@ description: "Discover how red light therapy can stimulate dormant follicles, im
 
 <section id="introduction">
     <p class="mb-4 text-gray-700">While foundational nutrition—like iron, zinc, and B-vitamins—is the non-negotiable bedrock of hair health, we often need a clinical push to wake up dormant follicles. Enter: <strong>Red Light Therapy (Photobiomodulation).</strong></p>
-    <p class="mb-6 text-xl font-semibold text-gray-800 border-l-4 border-primary pl-4 bg-gray-50 py-3 rounded-r-lg">Decades of clinical research prove that red light therapy is a safe, painless, and highly effective FDA-cleared modality for stimulating hair regrowth. Here is exactly how it works.</p>
+    <p class="mb-6 text-xl font-semibold text-gray-800 border-l-4 border-primary pl-4 bg-gray-50 py-3 rounded-r-lg"><a href="https://pubmed.ncbi.nlm.nih.gov/?term=photobiomodulation+alopecia" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline font-semibold">Decades of clinical research</a> prove that red light therapy is a safe, painless, and highly effective FDA-cleared modality for stimulating hair regrowth. Here is exactly how it works.</p>
 </section>
 
 <section id="the-science">
@@ -38,7 +40,7 @@ description: "Discover how red light therapy can stimulate dormant follicles, im
             <div class="bg-primary text-white rounded-full w-12 h-12 flex items-center justify-center font-bold shrink-0 shadow-sm"><i class="fas fa-bolt"></i></div>
             <div>
                 <h3 class="font-bold text-gray-800 text-xl mb-2">1. Cellular ATP Production</h3>
-                <p class="text-gray-600">Red light directly penetrates the scalp and is absorbed by the mitochondrion (the powerhouse) of the hair follicle cells. This stimulates the production of Adenosine Triphosphate (ATP)—pure cellular energy. This influx of energy forces dormant follicles out of the resting phase and back into the active <em>Anagen</em> growth phase.</p>
+                <p class="text-gray-600">Red light directly penetrates the scalp and is absorbed by the mitochondrion (the powerhouse) of the hair follicle cells. This <a href="https://pubmed.ncbi.nlm.nih.gov/?term=photobiomodulation+ATP+production" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline font-semibold">stimulates the production of Adenosine Triphosphate (ATP)</a>—pure cellular energy. This influx of energy forces dormant follicles out of the resting phase and back into the active <em>Anagen</em> growth phase.</p>
             </div>
         </div>
         

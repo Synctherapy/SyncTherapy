@@ -3,6 +3,8 @@ title: "Does Red Light Therapy Work Through Clothes?"
 date: "2026-03-13 08:00:00"
 slug: does-red-light-therapy-work-through-clothes
 description: "Can you wear a shirt during red light therapy? I explain the clinical optics of reflection, absorption, and why bare skin is mandatory for results."
+author: "Daryl Stubbs"
+categories: ["Red Light Therapy"]
 ---
 
 <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
@@ -53,7 +55,7 @@ description: "Can you wear a shirt during red light therapy? I explain the clini
             <div class="bg-primary text-white rounded-full w-12 h-12 flex items-center justify-center font-bold shrink-0 shadow-sm"><i class="fas fa-arrow-right-arrow-left"></i></div>
             <div>
                 <h3 class="font-bold text-gray-800 text-xl mb-2">3. Transmission (The Goal)</h3>
-                <p class="text-gray-600">The only way red light therapy works is if the photons transmit directly into the target tissue (your skin, muscles, and joints). For the photons to penetrate the dermis and reach the mitochondria, there must be absolutely nothing standing in their way.</p>
+                <p class="text-gray-600">The only way red light therapy works is if the photons transmit directly into the target tissue (your skin, muscles, and joints). <a href="https://pubmed.ncbi.nlm.nih.gov/?term=photobiomodulation+tissue+penetration+depth" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline font-semibold">For the photons to penetrate the dermis and reach the mitochondria</a>, there must be absolutely nothing standing in their way.</p>
             </div>
         </div>
     </div>

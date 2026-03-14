@@ -3,6 +3,8 @@ title: "Red Light Therapy for Neuropathy: A Clinical Deep Dive"
 date: "2026-03-13 08:00:00"
 slug: red-light-therapy-for-neuropathy
 description: "As an Athletic Therapist, I detail the exact mechanisms of angiogenesis and nerve repair using red light therapy for peripheral neuropathy."
+author: "Daryl Stubbs"
+categories: ["Red Light Therapy"]
 ---
 
 <div class="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 pt-8 pb-12">
@@ -39,7 +41,7 @@ description: "As an Athletic Therapist, I detail the exact mechanisms of angioge
 <section id="angiogenesis">
     <h2 class="text-3xl font-bold mb-6">The Solution: Angiogenesis (Growing New Blood Vessels)</h2>
     <p class="mb-4 text-gray-700">When we hit the feet and lower legs with high-irradiance near-infrared light (850nm), the light penetrates deep through the skin, fat, and muscle directly into the starved neurovascular tissue.</p>
-    <p class="mb-4 text-gray-700">The most profound effect of this deep penetration is <strong>Angiogenesis</strong>—the biological creation of entirely new blood vessels.</p>
+    <p class="mb-4 text-gray-700">The most profound effect of this deep penetration is <strong><a href="https://pubmed.ncbi.nlm.nih.gov/?term=photobiomodulation+angiogenesis" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline font-semibold">Angiogenesis</a></strong>—the biological creation of entirely new blood vessels.</p>
     
     <div class="grid md:grid-cols-2 gap-6 my-8">
         <div class="bg-white p-6 rounded-lg shadow-sm border border-gray-100 flex flex-col items-center text-center">
@@ -60,7 +62,7 @@ description: "As an Athletic Therapist, I detail the exact mechanisms of angioge
     <p class="mb-4 text-gray-700">Once the blood supply is re-established via angiogenesis, the nerve finally has the oxygen and nutrients required to heal. But the 850nm near-infrared light goes one step further: it acts directly on the Schwann cells (the cells responsible for creating the myelin sheath around the nerve).</p>
     
     <div class="bg-blue-50 border-l-4 border-primary p-6 rounded-r-lg shadow-sm my-6">
-        <p class="text-gray-700">Clinical trials show that PBM accelerates the regeneration of sensory nerve fibers and thickens the myelin sheaths. By restoring the protective insulation around the nerve, the random "misfiring" (which you feel as burning and tingling) is suppressed.</p>
+        <p class="text-gray-700"><a href="https://pubmed.ncbi.nlm.nih.gov/?term=photobiomodulation+peripheral+neuropathy" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline font-semibold">Clinical trials show</a> that PBM accelerates the regeneration of sensory nerve fibers and thickens the myelin sheaths. By restoring the protective insulation around the nerve, the random "misfiring" (which you feel as burning and tingling) is suppressed.</p>
     </div>
 </section>
 
