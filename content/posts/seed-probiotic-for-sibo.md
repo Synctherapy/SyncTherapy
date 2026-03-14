@@ -4,7 +4,7 @@ date: "2026-03-14 10:00:00"
 dateModified: "2026-03-14 10:00:00"
 slug: seed-probiotic-for-sibo
 description: "Is Seed probiotic good for SIBO? Clinical nutritionist breaks down when Seed helps (post-treatment) vs when to avoid it (active SIBO with D-lactate concerns)."
-seoTitle: Seed Probiotic for SIBO (2026): When It Helps & When to Avoid
+seoTitle: "Seed Probiotic for SIBO (2026): When It Helps & When to Avoid"
 rating: 4.7
 productName: Probiotic Supplements Comparison
 image: /uploads/content/seed-probiotic-on-counter.png
